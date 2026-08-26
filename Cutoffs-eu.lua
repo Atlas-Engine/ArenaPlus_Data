@@ -1,15 +1,24 @@
-﻿local ADDON_NAME, ns = ...
+﻿-- Shipped as its own addon so the ladder can be republished without reshipping
+-- the code: this file was half of every ArenaPlus release.
+--
+-- Two addons cannot see each other's namespace, so the tables go on a global
+-- and ArenaPlus copies them across as it loads. Same reason ArenaPlusAPI is a
+-- global -- see the note above it in ArenaPlus\Core.lua.
+--
+-- The local keeps its name so the generated body below needs no changes.
+ArenaPlusData = ArenaPlusData or {}
+local ns = ArenaPlusData
 
 -- Arena title cutoffs, written by tools\UpdateFromBlizzard.ps1 from Blizzard's
 -- own API. Do not edit by hand: rerun the script to refresh.
 --
--- Region eu, season 14, cutoffs last changed 2026-08-25 06:12 AM, last checked 2026-08-26 07:01 AM.
+-- Region eu, season 14, cutoffs last changed 2026-08-25 06:12 AM, last checked 2026-08-26 07:08 AM.
 ns.CUTOFFS_BY_REGION = ns.CUTOFFS_BY_REGION or {}
 
 ns.CUTOFFS_BY_REGION["eu"] = {
 	region  = "eu",
 	updated = "2026-08-25 06:12 AM",
-	checked = "2026-08-26 07:01 AM",
+	checked = "2026-08-26 07:08 AM",
 
 	[1] = { r1=2505, gladiator=2272, duelist=2121, rival=1839, challenger=1051 }, -- 2v2
 	[2] = { r1=2277, gladiator=1621, duelist=1594, rival=1435, challenger=768 }, -- 3v3

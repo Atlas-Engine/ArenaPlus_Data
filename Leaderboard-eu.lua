@@ -1,4 +1,13 @@
-﻿local ADDON_NAME, ns = ...
+﻿-- Shipped as its own addon so the ladder can be republished without reshipping
+-- the code: this file was half of every ArenaPlus release.
+--
+-- Two addons cannot see each other's namespace, so the tables go on a global
+-- and ArenaPlus copies them across as it loads. Same reason ArenaPlusAPI is a
+-- global -- see the note above it in ArenaPlus\Core.lua.
+--
+-- The local keeps its name so the generated body below needs no changes.
+ArenaPlusData = ArenaPlusData or {}
+local ns = ArenaPlusData
 
 -- Arena ladders, written by tools\UpdateFromBlizzard.ps1 from Blizzard's own
 -- API. Do not edit by hand: rerun the script to refresh.
@@ -8,12 +17,12 @@
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region eu, season 14, read 2026-08-26 07:01 AM.
+-- Region eu, season 14, read 2026-08-26 07:08 AM.
 ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["eu"] = {
 	region  = "eu",
-	checked = "2026-08-26 07:01 AM",
+	checked = "2026-08-26 07:08 AM",
 	snapshot = "2026-08-26 10:17",
 
 	[1] = {  -- 2v2, 5004 places, down to rating 1051 -- the API stops here, short of the cutoff
