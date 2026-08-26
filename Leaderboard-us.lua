@@ -17,12 +17,12 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region us, season 14, read 2026-08-26 10:45 AM.
+-- Region us, season 14, read 2026-08-26 11:45 AM.
 ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["us"] = {
 	region  = "us",
-	checked = "2026-08-26 10:45 AM",
+	checked = "2026-08-26 11:45 AM",
 	snapshot = "2026-08-26 14:18",
 
 	[1] = {  -- 2v2, 5000 places, down to rating 1091 -- the API stops here, short of the cutoff
@@ -47,17 +47,17 @@ ns.LEADERBOARD_BY_REGION["us"] = {
 		{ rank=19, name="Soapyxo", realm="raden", rating=2535, won=114, lost=15, faction="ALLIANCE", dr=11, dk=4 },
 		{ rank=20, name="Ultrahxd", realm="raden", rating=2533, won=135, lost=18, faction="ALLIANCE", dr=26, dk=-5 },
 		{ rank=21, name="Kaijoü", realm="raden", rating=2529, won=235, lost=60, faction="ALLIANCE", dr=-9, dk=9 },
-		{ rank=21, name="Selfplay", realm="raden", rating=2529, won=116, lost=39, faction="ALLIANCE", dr=70, dk=-13 },
-		{ rank=23, name="Koval", realm="nazgrim", rating=2527, won=128, lost=6, faction="ALLIANCE", dr=24, dk=-4 },
-		{ rank=24, name="Ultrahxb", realm="raden", rating=2525, won=137, lost=13, faction="ALLIANCE", dr=22, dk=-3 },
-		{ rank=24, name="Ultrahxq", realm="raden", rating=2525, won=129, lost=15, faction="ALLIANCE", dr=12, dk=2 },
-		{ rank=26, name="Faex", realm="arugal-au", rating=2522, won=245, lost=84, faction="ALLIANCE", dr=0, dk=10 },
-		{ rank=27, name="Qwanya", realm="raden", rating=2515, won=126, lost=9, faction="ALLIANCE", dr=0, dk=8 },
-		{ rank=28, name="Booshen", realm="raden", rating=2509, won=135, lost=57, faction="ALLIANCE", dr=0, dk=5 },
-		{ rank=29, name="Larvá", realm="raden", rating=2506, won=227, lost=75, faction="ALLIANCE", dr=-10, dk=11 },
-		{ rank=30, name="Reckington", realm="raden", rating=2505, won=280, lost=97, faction="ALLIANCE", dr=-9, dk=9 },
-		{ rank=31, name="Supërgrëmlin", realm="pagle", rating=2500, won=192, lost=47, faction="ALLIANCE", dr=0, dk=2 },
-		{ rank=32, name="Letmetrapx", realm="raden", rating=2495, won=114, lost=35, faction="ALLIANCE", dr=0, dk=2 },
+		{ rank=22, name="Koval", realm="nazgrim", rating=2527, won=128, lost=6, faction="ALLIANCE", dr=24, dk=-5 },
+		{ rank=23, name="Ultrahxb", realm="raden", rating=2525, won=137, lost=13, faction="ALLIANCE", dr=22, dk=-4 },
+		{ rank=23, name="Ultrahxq", realm="raden", rating=2525, won=129, lost=15, faction="ALLIANCE", dr=12, dk=1 },
+		{ rank=25, name="Faex", realm="arugal-au", rating=2522, won=245, lost=84, faction="ALLIANCE", dr=0, dk=9 },
+		{ rank=26, name="Qwanya", realm="raden", rating=2515, won=126, lost=9, faction="ALLIANCE", dr=0, dk=7 },
+		{ rank=27, name="Booshen", realm="raden", rating=2509, won=135, lost=57, faction="ALLIANCE", dr=0, dk=4 },
+		{ rank=28, name="Larvá", realm="raden", rating=2506, won=227, lost=75, faction="ALLIANCE", dr=-10, dk=10 },
+		{ rank=29, name="Reckington", realm="raden", rating=2505, won=280, lost=97, faction="ALLIANCE", dr=-9, dk=8 },
+		{ rank=30, name="Supërgrëmlin", realm="pagle", rating=2500, won=192, lost=47, faction="ALLIANCE", dr=0, dk=1 },
+		{ rank=31, name="Letmetrapx", realm="raden", rating=2495, won=114, lost=35, faction="ALLIANCE", dr=0, dk=1 },
+		{ rank=32, name="Selfplay", realm="raden", rating=2494, won=121, lost=42, faction="ALLIANCE", dr=35, dk=-2 },
 		{ rank=33, name="Oxydudu", realm="arugal-au", rating=2491, won=92, lost=10, faction="ALLIANCE", dr=33, dk=-3 },
 		{ rank=34, name="Redpandä", realm="pagle", rating=2490, won=103, lost=0, faction="ALLIANCE", dr=0, dk=3 },
 		{ rank=35, name="Majikx", realm="raden", rating=2489, won=104, lost=22, faction="ALLIANCE", dr=79, dk=-17 },
