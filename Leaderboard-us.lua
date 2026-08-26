@@ -17,12 +17,12 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region us, season 14, read 2026-08-26 07:45 AM.
+-- Region us, season 14, read 2026-08-26 08:45 AM.
 ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["us"] = {
 	region  = "us",
-	checked = "2026-08-26 07:45 AM",
+	checked = "2026-08-26 08:45 AM",
 	snapshot = "2026-08-26 11:18",
 
 	[1] = {  -- 2v2, 5000 places, down to rating 1108 -- the API stops here, short of the cutoff
@@ -186,25 +186,25 @@ ns.LEADERBOARD_BY_REGION["us"] = {
 		{ rank=158, name="Sadtragedy", realm="raden", rating=2233, won=77, lost=34, faction="ALLIANCE", dr=0, dk=8 },
 		{ rank=159, name="Abruaz", realm="raden", rating=2232, won=65, lost=40, faction="ALLIANCE", dr=0, dk=8 },
 		{ rank=159, name="Kartika", realm="raden", rating=2232, won=303, lost=285, faction="ALLIANCE", dr=-13, dk=25 },
+		{ rank=161, name="Rekzor", realm="raden", rating=2230, won=56, lost=31, faction="ALLIANCE" },
 		{ rank=161, name="Technique", realm="raden", rating=2230, won=380, lost=318, faction="ALLIANCE", dr=49, dk=-54 },
-		{ rank=162, name="Znths", realm="raden", rating=2229, won=109, lost=71, faction="ALLIANCE", dr=0, dk=10 },
-		{ rank=163, name="Wøckeez", realm="raden", rating=2226, won=93, lost=66, faction="ALLIANCE", dr=0, dk=10 },
-		{ rank=164, name="Ðjsnake", realm="raden", rating=2225, won=63, lost=38, faction="ALLIANCE", dr=0, dk=9 },
-		{ rank=165, name="Fellixthecat", realm="pagle", rating=2224, won=135, lost=130, faction="ALLIANCE", dr=-57, dk=59 },
-		{ rank=166, name="Critwo", realm="pagle", rating=2223, won=91, lost=75, faction="ALLIANCE", dr=98, dk=-122 },
-		{ rank=167, name="Blackgoku", realm="raden", rating=2221, won=62, lost=29, faction="ALLIANCE", dr=0, dk=8 },
-		{ rank=167, name="Diella", realm="raden", rating=2221, won=132, lost=122, faction="ALLIANCE", dr=0, dk=8 },
-		{ rank=167, name="Smokinweedle", realm="raden", rating=2221, won=121, lost=106, faction="ALLIANCE", dr=78, dk=-95 },
-		{ rank=170, name="Kerm", realm="pagle", rating=2220, won=151, lost=138, faction="ALLIANCE", dr=107, dk=-141 },
-		{ rank=170, name="Nguyen", realm="raden", rating=2220, won=293, lost=228, faction="ALLIANCE", dr=-25, dk=36 },
-		{ rank=170, name="Radix", realm="raden", rating=2220, won=140, lost=130, faction="ALLIANCE", dr=0, dk=9 },
-		{ rank=170, name="Yourendisher", realm="pagle", rating=2220, won=59, lost=33, faction="ALLIANCE", dr=0, dk=9 },
-		{ rank=174, name="Daburghcuz", realm="pagle", rating=2219, won=334, lost=307, faction="HORDE", dr=46, dk=-53 },
-		{ rank=174, name="Ouushii", realm="raden", rating=2219, won=175, lost=136, faction="ALLIANCE", dr=-53, dk=63 },
-		{ rank=174, name="Victorious", realm="raden", rating=2219, won=203, lost=65, faction="ALLIANCE", dr=-17, dk=31 },
-		{ rank=177, name="Mag", realm="raden", rating=2218, won=56, lost=3, faction="ALLIANCE", dr=0, dk=14 },
-		{ rank=177, name="Ósitoperú", realm="raden", rating=2218, won=68, lost=37, faction="ALLIANCE", dr=128, dk=-178 },
-		{ rank=179, name="Rekzor", realm="raden", rating=2216, won=54, lost=31, faction="ALLIANCE" },
+		{ rank=163, name="Znths", realm="raden", rating=2229, won=109, lost=71, faction="ALLIANCE", dr=0, dk=11 },
+		{ rank=164, name="Wøckeez", realm="raden", rating=2226, won=93, lost=66, faction="ALLIANCE", dr=0, dk=11 },
+		{ rank=165, name="Ðjsnake", realm="raden", rating=2225, won=63, lost=38, faction="ALLIANCE", dr=0, dk=10 },
+		{ rank=166, name="Fellixthecat", realm="pagle", rating=2224, won=135, lost=130, faction="ALLIANCE", dr=-57, dk=60 },
+		{ rank=167, name="Critwo", realm="pagle", rating=2223, won=91, lost=75, faction="ALLIANCE", dr=98, dk=-121 },
+		{ rank=168, name="Blackgoku", realm="raden", rating=2221, won=62, lost=29, faction="ALLIANCE", dr=0, dk=9 },
+		{ rank=168, name="Diella", realm="raden", rating=2221, won=132, lost=122, faction="ALLIANCE", dr=0, dk=9 },
+		{ rank=168, name="Smokinweedle", realm="raden", rating=2221, won=121, lost=106, faction="ALLIANCE", dr=78, dk=-94 },
+		{ rank=171, name="Kerm", realm="pagle", rating=2220, won=151, lost=138, faction="ALLIANCE", dr=107, dk=-140 },
+		{ rank=171, name="Nguyen", realm="raden", rating=2220, won=293, lost=228, faction="ALLIANCE", dr=-25, dk=37 },
+		{ rank=171, name="Radix", realm="raden", rating=2220, won=140, lost=130, faction="ALLIANCE", dr=0, dk=10 },
+		{ rank=171, name="Yourendisher", realm="pagle", rating=2220, won=59, lost=33, faction="ALLIANCE", dr=0, dk=10 },
+		{ rank=175, name="Daburghcuz", realm="pagle", rating=2219, won=334, lost=307, faction="HORDE", dr=46, dk=-52 },
+		{ rank=175, name="Ouushii", realm="raden", rating=2219, won=175, lost=136, faction="ALLIANCE", dr=-53, dk=64 },
+		{ rank=175, name="Victorious", realm="raden", rating=2219, won=203, lost=65, faction="ALLIANCE", dr=-17, dk=32 },
+		{ rank=178, name="Mag", realm="raden", rating=2218, won=56, lost=3, faction="ALLIANCE", dr=0, dk=15 },
+		{ rank=178, name="Ósitoperú", realm="raden", rating=2218, won=68, lost=37, faction="ALLIANCE", dr=128, dk=-177 },
 		{ rank=180, name="Høtspøtxøxø", realm="raden", rating=2215, won=75, lost=57, faction="ALLIANCE", dr=15, dk=-15 },
 		{ rank=180, name="Slumplord", realm="raden", rating=2215, won=113, lost=92, faction="ALLIANCE", dr=0, dk=14 },
 		{ rank=182, name="Lostdata", realm="raden", rating=2214, won=108, lost=66, faction="ALLIANCE", dr=0, dk=15 },
