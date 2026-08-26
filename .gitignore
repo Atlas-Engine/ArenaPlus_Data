@@ -1,0 +1,9 @@
+# Almost nothing belongs here: every .lua file in this repository is the
+# pipeline's output and is committed on purpose. An addon cannot reach the
+# network, so the shipped tables *are* the data -- ignoring them would publish
+# an empty folder.
+
+# Windows and Google Drive leave these lying about.
+Thumbs.db
+desktop.ini
+.DS_Store

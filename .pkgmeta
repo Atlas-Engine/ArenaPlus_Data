@@ -1,0 +1,13 @@
+package-as: ArenaPlus_Data
+
+ignore:
+  # Repository furniture the game never reads.
+  - README.md
+  - .git
+  - .gitignore
+  - .pkgmeta
+
+# Nothing else is ignored, and that is the whole point of this addon: every .lua
+# file here is the pipeline's *output*, and an addon cannot reach the network.
+# The shipped tables are the data. Ignore them and the download is an empty
+# folder.

@@ -1,0 +1,18 @@
+﻿## Interface: 50500, 50502, 50503, 50504, 50505
+## Title: ArenaPlus Data
+## Author: David / Atlas-Engine
+## Version: 1.0
+## Notes: The ladder, cutoffs, specs and gear that ArenaPlus reads. Refreshed on its own so the addon itself does not have to be republished for it.
+
+# Nothing here is hand-written. Every file is produced by the scripts in
+# ArenaPlus\tools\ and overwritten wholesale on the next run.
+#
+# Order matters only in that the cutoffs are small and read first.
+Cutoffs-us.lua
+Cutoffs-eu.lua
+Leaderboard-us.lua
+Leaderboard-eu.lua
+Specs-us.lua
+Specs-eu.lua
+Inspect-us.lua
+Inspect-eu.lua

@@ -1,0 +1,13 @@
+# Never translate line endings in this repository.
+#
+# core.autocrlf is true on this machine, so git would store these files with LF
+# and hand them back with CRLF. That matters here more than usual: the files are
+# rewritten wholesale by the pipeline every run, and the publish script decides
+# whether to commit by comparing what the tools produced against what is in the
+# working copy. If git is quietly rewriting one side, every run looks changed
+# even when the ladder has not moved -- and a commit means a tag, and a tag
+# means a build and a download for everybody.
+#
+# Marking them -text keeps both sides byte-identical, so "nothing changed"
+# stays detectable.
+* -text
