@@ -17,12 +17,12 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region us, season 14, read 2026-08-27 10:45 AM.
+-- Region us, season 14, read 2026-08-27 11:45 AM.
 ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["us"] = {
 	region  = "us",
-	checked = "2026-08-27 10:45 AM",
+	checked = "2026-08-27 11:45 AM",
 	snapshot = "2026-08-27 14:18",
 
 	[1] = {  -- 2v2, 5000 places, down to rating 1091 -- the API stops here, short of the cutoff
@@ -3981,7 +3981,7 @@ ns.LEADERBOARD_BY_REGION["us"] = {
 		{ rank=3951, name="Maidenchina", realm="arugal-au", rating=1535, won=17, lost=16, faction="HORDE", dr=0, dk=144 },
 		{ rank=3951, name="Mismarjorie", realm="galakras", rating=1535, won=86, lost=106, faction="HORDE", dr=0, dk=144 },
 		{ rank=3951, name="Natuhhlee", realm="nazgrim", rating=1535, won=21, lost=19, faction="HORDE", dr=0, dk=144 },
-		{ rank=3951, name="Palyvash", realm="galakras", rating=1535, won=20, lost=26, faction="ALLIANCE" },
+		{ rank=3951, name="Palyvash", realm="galakras", rating=1535, won=20, lost=27, faction="ALLIANCE" },
 		{ rank=3951, name="Sykun", realm="nazgrim", rating=1535, won=22, lost=34, faction="HORDE", dr=0, dk=144 },
 		{ rank=3951, name="Zaknafen", realm="pagle", rating=1535, won=52, lost=68, faction="ALLIANCE", dr=0, dk=144 },
 		{ rank=3959, name="Blasterjaxx", realm="pagle", rating=1534, won=19, lost=24, faction="ALLIANCE", dr=0, dk=145 },
