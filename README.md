@@ -3,6 +3,10 @@
 The ladder, title cutoffs, class/spec list and gear that
 [ArenaPlus](https://github.com/Atlas-Engine/ArenaPlus) reads.
 
+**This is not a standalone addon.** It has no interface and no slash commands,
+and installing it on its own does nothing. Your addon manager pulls it in
+alongside ArenaPlus.
+
 **Nothing in this repository is written by hand.** Every `.lua` file is produced
 by the scripts in `ArenaPlus/tools/` from Blizzard's Game Data API and
 overwritten wholesale on the next run. Do not edit them; edit the scripts.
@@ -22,6 +26,12 @@ loads. `ArenaPlus.toc` names this addon in `## OptionalDeps` so it loads first.
 
 Optional, not required: without it ArenaPlus still runs, with an empty ladder
 and no cutoffs. That is a better failure than an addon that refuses to load.
+
+## Why it updates so often
+
+Because it is only data. Every release is a fresh snapshot of the ladder — no
+code changes, so there is nothing in an update that can break. Take them
+whenever suits; ArenaPlus works with whatever snapshot you happen to have.
 
 ## Freshness
 
