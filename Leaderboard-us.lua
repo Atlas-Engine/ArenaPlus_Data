@@ -17,12 +17,12 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region us, season 14, read 2026-08-28 10:50 AM.
+-- Region us, season 14, read 2026-08-28 11:45 AM.
 ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["us"] = {
 	region  = "us",
-	checked = "2026-08-28 10:50 AM",
+	checked = "2026-08-28 11:45 AM",
 	snapshot = "2026-08-28 14:18",
 
 	[1] = {  -- 2v2, 5000 places, down to rating 1091 -- the API stops here, short of the cutoff
@@ -394,24 +394,24 @@ ns.LEADERBOARD_BY_REGION["us"] = {
 		{ rank=363, name="Rekstorm", realm="nazgrim", rating=2100, won=67, lost=56, faction="HORDE", dr=40, dk=-61 },
 		{ rank=363, name="Seorigori", realm="pagle", rating=2100, won=460, lost=419, faction="ALLIANCE", dr=21, dk=-29 },
 		{ rank=368, name="Boxxerx", realm="raden", rating=2099, won=50, lost=40, faction="ALLIANCE", dr=428, dk=-2079 },
-		{ rank=368, name="Kerrypetty", realm="pagle", rating=2099, won=74, lost=55, faction="ALLIANCE", dr=424, dk=-2043 },
-		{ rank=370, name="Mitchelada", realm="raden", rating=2098, won=123, lost=88, faction="ALLIANCE", dr=45, dk=-64 },
-		{ rank=371, name="Guanyîn", realm="raden", rating=2097, won=409, lost=412, faction="ALLIANCE", dr=-21, dk=69 },
-		{ rank=371, name="Inkárri", realm="arugal-au", rating=2097, won=421, lost=351, faction="ALLIANCE", dr=-26, dk=79 },
-		{ rank=373, name="Exiztww", realm="raden", rating=2096, won=67, lost=37, faction="ALLIANCE", dr=0, dk=32 },
-		{ rank=374, name="Arid", realm="raden", rating=2095, won=46, lost=24, faction="ALLIANCE", dr=0, dk=31 },
-		{ rank=374, name="Ðßøzxs", realm="raden", rating=2095, won=43, lost=31, faction="ALLIANCE", dr=0, dk=31 },
-		{ rank=374, name="Xander", realm="raden", rating=2095, won=46, lost=24, faction="ALLIANCE", dr=0, dk=31 },
-		{ rank=377, name="Apexfatalis", realm="arugal-au", rating=2094, won=287, lost=266, faction="HORDE", dr=26, dk=-31 },
-		{ rank=377, name="Fossy", realm="pagle", rating=2094, won=151, lost=146, faction="ALLIANCE", dr=4, dk=22 },
-		{ rank=377, name="Nupper", realm="pagle", rating=2094, won=151, lost=146, faction="ALLIANCE", dr=4, dk=22 },
-		{ rank=377, name="Paulmanafort", realm="pagle", rating=2094, won=88, lost=78, faction="ALLIANCE", dr=0, dk=26 },
-		{ rank=381, name="ßløømtoðèàth", realm="raden", rating=2093, won=46, lost=32, faction="ALLIANCE", dr=51, dk=-91 },
-		{ rank=382, name="Gcsurv", realm="raden", rating=2091, won=79, lost=59, faction="ALLIANCE", dr=139, dk=-341 },
-		{ rank=382, name="Gymsharkbadi", realm="arugal-au", rating=2091, won=84, lost=67, faction="ALLIANCE", dr=0, dk=29 },
-		{ rank=382, name="Luhve", realm="pagle", rating=2091, won=272, lost=275, faction="ALLIANCE", dr=0, dk=29 },
-		{ rank=385, name="Icarryhim", realm="galakras", rating=2090, won=129, lost=91, faction="HORDE", dr=-11, dk=53 },
-		{ rank=385, name="Raijinkumax", realm="pagle", rating=2090, won=101, lost=92, faction="ALLIANCE", dr=0, dk=30 },
+		{ rank=369, name="Mitchelada", realm="raden", rating=2098, won=123, lost=88, faction="ALLIANCE", dr=45, dk=-65 },
+		{ rank=370, name="Guanyîn", realm="raden", rating=2097, won=409, lost=412, faction="ALLIANCE", dr=-21, dk=68 },
+		{ rank=370, name="Inkárri", realm="arugal-au", rating=2097, won=421, lost=351, faction="ALLIANCE", dr=-26, dk=78 },
+		{ rank=372, name="Exiztww", realm="raden", rating=2096, won=67, lost=37, faction="ALLIANCE", dr=0, dk=31 },
+		{ rank=373, name="Arid", realm="raden", rating=2095, won=46, lost=24, faction="ALLIANCE", dr=0, dk=30 },
+		{ rank=373, name="Ðßøzxs", realm="raden", rating=2095, won=43, lost=31, faction="ALLIANCE", dr=0, dk=30 },
+		{ rank=373, name="Xander", realm="raden", rating=2095, won=46, lost=24, faction="ALLIANCE", dr=0, dk=30 },
+		{ rank=376, name="Apexfatalis", realm="arugal-au", rating=2094, won=287, lost=266, faction="HORDE", dr=26, dk=-32 },
+		{ rank=376, name="Fossy", realm="pagle", rating=2094, won=151, lost=146, faction="ALLIANCE", dr=4, dk=21 },
+		{ rank=376, name="Nupper", realm="pagle", rating=2094, won=151, lost=146, faction="ALLIANCE", dr=4, dk=21 },
+		{ rank=376, name="Paulmanafort", realm="pagle", rating=2094, won=88, lost=78, faction="ALLIANCE", dr=0, dk=25 },
+		{ rank=380, name="ßløømtoðèàth", realm="raden", rating=2093, won=46, lost=32, faction="ALLIANCE", dr=51, dk=-92 },
+		{ rank=381, name="Gcsurv", realm="raden", rating=2091, won=79, lost=59, faction="ALLIANCE", dr=139, dk=-342 },
+		{ rank=381, name="Gymsharkbadi", realm="arugal-au", rating=2091, won=84, lost=67, faction="ALLIANCE", dr=0, dk=28 },
+		{ rank=381, name="Luhve", realm="pagle", rating=2091, won=272, lost=275, faction="ALLIANCE", dr=0, dk=28 },
+		{ rank=384, name="Icarryhim", realm="galakras", rating=2090, won=129, lost=91, faction="HORDE", dr=-11, dk=52 },
+		{ rank=384, name="Kerrypetty", realm="pagle", rating=2090, won=76, lost=57, faction="ALLIANCE", dr=415, dk=-2027 },
+		{ rank=384, name="Raijinkumax", realm="pagle", rating=2090, won=101, lost=92, faction="ALLIANCE", dr=0, dk=29 },
 		{ rank=387, name="Torco", realm="immerseus", rating=2089, won=90, lost=53, faction="HORDE", dr=57, dk=-104 },
 		{ rank=388, name="Devz", realm="pagle", rating=2088, won=64, lost=47, faction="HORDE", dr=0, dk=25 },
 		{ rank=388, name="Jáffáar", realm="raden", rating=2088, won=138, lost=120, faction="ALLIANCE", dr=-41, dk=111 },
