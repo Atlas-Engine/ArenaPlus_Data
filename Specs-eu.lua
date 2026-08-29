@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5229 characters, read 2026-08-28 11:55 PM.
+-- Region eu, 5229 characters, read 2026-08-29 12:25 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3283,7 +3283,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["reyø-garalon"]=50,
 	["rezya-shekzeer"]=41,
 	["rfgpwhfgjudk-shekzeer"]=11,
-	["rfunklol-shekzeer"]=41,
 	["rhaenyraz-mirage-raceway"]=41,
 	["rhonn-shekzeer"]=10,
 	["rhyza-shekzeer"]=11,
@@ -5063,6 +5062,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["Экспромтх-flamegor"]=11,
 	["Элдэртэйл-flamegor"]=40,
 	["Элементовик-flamegor"]=30,
+	["Эльпоелоко-flamegor"]=101,
 	["Эльянора-flamegor"]=101,
 	["Эрло-flamegor"]=50,
 	["Эрмантраутх-flamegor"]=30,
@@ -8439,7 +8439,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["reyø-garalon"]=10,
 	["rezya-shekzeer"]=21,
 	["rfgpwhfgjudk-shekzeer"]=8,
-	["rfunklol-shekzeer"]=21,
 	["rhaenyraz-mirage-raceway"]=4,
 	["rhonn-shekzeer"]=1,
 	["rhyza-shekzeer"]=1,
@@ -10296,6 +10295,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Экспромтх-flamegor"]=4,
 	["Элдэртэйл-flamegor"]=7,
 	["Элементовик-flamegor"]=13,
+	["Эльпоелоко-flamegor"]=8,
 	["Эльянора-flamegor"]=23,
 	["Эрло-flamegor"]=17,
 	["Эрмантраутх-flamegor"]=13,
