@@ -1,7 +1,7 @@
 ﻿## Interface: 50500, 50502, 50503, 50504, 50505
 ## Title: ArenaPlus Data
 ## Author: David / Atlas-Engine
-## Version: 2026.08.28.2205
+## Version: 2026.08.28.2235
 ## Notes: The ladder, cutoffs, specs and gear that ArenaPlus reads. Refreshed on its own so the addon itself does not have to be republished for it.
 
 # Nothing here is hand-written. Every file is produced by the scripts in
