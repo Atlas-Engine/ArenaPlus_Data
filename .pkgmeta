@@ -5,6 +5,10 @@ ignore:
   - README.md
   - .git
   - .gitignore
+  # Not the game's business, but not nothing either: it is what keeps the
+  # pipeline's "has the ladder actually moved" check honest. It belongs in the
+  # repository and not in the download.
+  - .gitattributes
   - .pkgmeta
 
 # Nothing else is ignored, and that is the whole point of this addon: every .lua
