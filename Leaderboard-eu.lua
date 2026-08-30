@@ -17,12 +17,12 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region eu, season 14, read 2026-08-30 09:25 AM.
+-- Region eu, season 14, read 2026-08-30 09:55 AM.
 ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["eu"] = {
 	region  = "eu",
-	checked = "2026-08-30 09:25 AM",
+	checked = "2026-08-30 09:55 AM",
 	snapshot = "2026-08-30 13:17",
 
 	[1] = {  -- 2v2, 5000 places, down to rating 1047 -- the API stops here, short of the cutoff
@@ -4952,7 +4952,7 @@ ns.LEADERBOARD_BY_REGION["eu"] = {
 		{ rank=4924, name="Beetlejuìce", realm="everlook", rating=1335, won=14, lost=8, faction="ALLIANCE", dr=0, dk=49 },
 		{ rank=4924, name="Snooper", realm="everlook", rating=1335, won=17, lost=30, faction="ALLIANCE", dr=0, dk=49 },
 		{ rank=4924, name="Warrtrainer", realm="shekzeer", rating=1335, won=14, lost=5, faction="ALLIANCE", dr=0, dk=49 },
-		{ rank=4927, name="Rfunklol", realm="shekzeer", rating=1334, won=14, lost=7, faction="ALLIANCE" },
+		{ rank=4927, name="Rfunklol", realm="shekzeer", rating=1334, won=14, lost=8, faction="ALLIANCE" },
 		{ rank=4927, name="Scriv", realm="everlook", rating=1334, won=14, lost=14, faction="ALLIANCE", dr=0, dk=49 },
 		{ rank=4929, name="Theimbaone", realm="shekzeer", rating=1333, won=14, lost=15, faction="ALLIANCE", dr=0, dk=48 },
 		{ rank=4930, name="Kennyykofot", realm="garalon", rating=1332, won=16, lost=36, faction="HORDE", dr=-2, dk=52 },
