@@ -40,5 +40,13 @@ to them. So this is a snapshot, not a live feed, and it is only as current as
 the last time your addon manager updated it. Once it has, `/reload` in game
 picks it up without restarting.
 
+**So set it to update on its own. In the CurseForge app: right-click
+ArenaPlus_Data → Install Settings → Automatic.**
+
+This is republished every half hour. Left on manual it falls behind silently —
+nothing breaks and nothing warns you, you simply read a ladder from whenever you
+last updated. Since every release is data and no code, there is nothing in one
+that can break, and no reason to hold it back.
+
 Your own rating and rank are always live and come from the game itself, not from
 here.
