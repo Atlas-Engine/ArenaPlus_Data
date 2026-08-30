@@ -1,8 +1,13 @@
 ﻿## Interface: 50500, 50502, 50503, 50504, 50505
 ## Title: ArenaPlus Data
 ## Author: David / Atlas-Engine
-## Version: 2026.08.30.1035
+## Version: 2026.08.30.1105
 ## Notes: The ladder, cutoffs, specs and gear that ArenaPlus reads. Refreshed on its own so the addon itself does not have to be republished for it.
+# CurseForge's own number for the project, which is what identifies it
+# everywhere outside the website -- the packaging webhook posts to
+# /api/projects/1672414/package, and addon managers use it to match an
+# installed folder back to the project it came from.
+## X-Curse-Project-ID: 1672414
 # The GitHub repository CurseForge builds this from.
 #
 # The upload is not done by any workflow here and no API key is involved:
