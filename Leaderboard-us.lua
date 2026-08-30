@@ -17,12 +17,12 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region us, season 14, read 2026-08-29 10:30 PM.
+-- Region us, season 14, read 2026-08-29 11:00 PM.
 ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["us"] = {
 	region  = "us",
-	checked = "2026-08-29 10:30 PM",
+	checked = "2026-08-29 11:00 PM",
 	snapshot = "2026-08-30 02:18",
 
 	[1] = {  -- 2v2, 5003 places, down to rating 1056 -- the API stops here, short of the cutoff
@@ -733,14 +733,14 @@ ns.LEADERBOARD_BY_REGION["us"] = {
 		{ rank=705, name="Aoisama", realm="raden", rating=1988, won=101, lost=79, faction="ALLIANCE", dr=0, dk=16 },
 		{ rank=705, name="Largecoq", realm="pagle", rating=1988, won=81, lost=68, faction="HORDE", dr=0, dk=16 },
 		{ rank=705, name="Miichael", realm="pagle", rating=1988, won=235, lost=201, faction="HORDE", dr=0, dk=16 },
+		{ rank=708, name="Ðressrøsa", realm="immerseus", rating=1987, won=223, lost=230, faction="HORDE", dr=-33, dk=146 },
 		{ rank=708, name="Faketáximan", realm="raden", rating=1987, won=56, lost=46, faction="ALLIANCE", dr=0, dk=14 },
 		{ rank=708, name="Lilbenzo", realm="raden", rating=1987, won=100, lost=109, faction="ALLIANCE", dr=0, dk=14 },
 		{ rank=708, name="Spongebobfan", realm="raden", rating=1987, won=56, lost=41, faction="ALLIANCE", dr=0, dk=14 },
 		{ rank=708, name="Vonwicc", realm="pagle", rating=1987, won=75, lost=53, faction="ALLIANCE", dr=0, dk=14 },
-		{ rank=712, name="Ðressrøsa", realm="immerseus", rating=1986, won=221, lost=228, faction="HORDE", dr=-34, dk=150 },
-		{ rank=712, name="Galekk", realm="immerseus", rating=1986, won=221, lost=228, faction="HORDE", dr=-34, dk=150 },
-		{ rank=712, name="Piaget", realm="raden", rating=1986, won=62, lost=57, faction="ALLIANCE", dr=0, dk=14 },
-		{ rank=712, name="Totemicoo", realm="nazgrim", rating=1986, won=116, lost=74, faction="HORDE", dr=-7, dk=38 },
+		{ rank=713, name="Galekk", realm="immerseus", rating=1986, won=221, lost=228, faction="HORDE", dr=-34, dk=151 },
+		{ rank=713, name="Piaget", realm="raden", rating=1986, won=62, lost=57, faction="ALLIANCE", dr=0, dk=15 },
+		{ rank=713, name="Totemicoo", realm="nazgrim", rating=1986, won=116, lost=74, faction="HORDE", dr=-7, dk=39 },
 		{ rank=716, name="Gnarlyknight", realm="pagle", rating=1985, won=124, lost=109, faction="ALLIANCE", dr=-13, dk=61 },
 		{ rank=716, name="Riptdx", realm="raden", rating=1985, won=167, lost=185, faction="ALLIANCE", dr=0, dk=15 },
 		{ rank=718, name="Canible", realm="raden", rating=1984, won=62, lost=58, faction="ALLIANCE", dr=0, dk=16 },
@@ -2770,7 +2770,7 @@ ns.LEADERBOARD_BY_REGION["us"] = {
 		{ rank=2739, name="Matix", realm="nazgrim", rating=1660, won=58, lost=69, faction="HORDE", dr=0, dk=37 },
 		{ rank=2739, name="Misprëdictio", realm="nazgrim", rating=1660, won=42, lost=57, faction="HORDE", dr=0, dk=37 },
 		{ rank=2739, name="Nanixita", realm="raden", rating=1660, won=31, lost=31, faction="ALLIANCE", dr=0, dk=37 },
-		{ rank=2739, name="Reckula", realm="raden", rating=1660, won=22, lost=19, faction="ALLIANCE", dr=0, dk=37 },
+		{ rank=2739, name="Reckula", realm="raden", rating=1660, won=22, lost=21, faction="ALLIANCE", dr=0, dk=37 },
 		{ rank=2739, name="Vivabo", realm="pagle", rating=1660, won=89, lost=104, faction="HORDE", dr=0, dk=37 },
 		{ rank=2739, name="Warlockeuse", realm="pagle", rating=1660, won=61, lost=73, faction="ALLIANCE", dr=0, dk=37 },
 		{ rank=2739, name="Wølik", realm="pagle", rating=1660, won=37, lost=33, faction="HORDE", dr=118, dk=-1174 },
@@ -3327,7 +3327,7 @@ ns.LEADERBOARD_BY_REGION["us"] = {
 		{ rank=3299, name="Beedwag", realm="galakras", rating=1603, won=20, lost=13, faction="HORDE", dr=0, dk=33 },
 		{ rank=3299, name="Benso", realm="pagle", rating=1603, won=64, lost=73, faction="ALLIANCE", dr=0, dk=33 },
 		{ rank=3299, name="Lfvet", realm="pagle", rating=1603, won=21, lost=15, faction="ALLIANCE", dr=0, dk=33 },
-		{ rank=3299, name="Ligmatron", realm="raden", rating=1603, won=20, lost=11, faction="ALLIANCE" },
+		{ rank=3299, name="Ligmatron", realm="raden", rating=1603, won=20, lost=14, faction="ALLIANCE" },
 		{ rank=3299, name="Rudeboy", realm="pagle", rating=1603, won=98, lost=115, faction="ALLIANCE", dr=0, dk=33 },
 		{ rank=3299, name="Saintjuan", realm="raden", rating=1603, won=21, lost=9, faction="ALLIANCE", dr=0, dk=33 },
 		{ rank=3299, name="Shõfu", realm="pagle", rating=1603, won=58, lost=70, faction="HORDE", dr=0, dk=33 },
