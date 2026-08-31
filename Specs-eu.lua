@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5231 characters, read 2026-08-31 08:55 AM.
+-- Region eu, 5232 characters, read 2026-08-31 09:55 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2962,7 +2962,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["ozymaadyas-mirage-raceway"]=110,
 	["ozymandiaus-mirage-raceway"]=70,
 	["ozymandius-mirage-raceway"]=40,
-	["pacificpunch-shekzeer"]=10,
 	["pagerodzida-norushen"]=20,
 	["pähkinä-hoptallus"]=11,
 	["pakorabani-shekzeer"]=10,
@@ -3050,6 +3049,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["pînetatante-shekzeer"]=11,
 	["pingfade-shekzeer"]=41,
 	["pipelayer-shekzeer"]=10,
+	["pipilili-shekzeer"]=11,
 	["pipioe-shekzeer"]=10,
 	["pipitrix-shekzeer"]=11,
 	["pippilotta-shekzeer"]=11,
@@ -4286,6 +4286,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["wågwåñbøøtÿx-shekzeer"]=11,
 	["wahaj-shekzeer"]=11,
 	["wahtsup-shekzeer"]=10,
+	["waitwhatbro-shekzeer"]=41,
 	["waix-shekzeer"]=10,
 	["walkerr-hoptallus"]=10,
 	["wãlter-shekzeer"]=41,
@@ -5413,6 +5414,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bademsekeri-shekzeer"]=1,
 	["badlama-hoptallus"]=15,
 	["badmanchazo-garalon"]=0,
+	["badmanchazo-shekzeer"]=0,
 	["badtank-garalon"]=15,
 	["badteam-garalon"]=0,
 	["baejs-shekzeer"]=12,
@@ -6638,7 +6640,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["hasunimi-hoptallus"]=31,
 	["hasuni-shekzeer"]=9,
 	["haudruff-mirage-raceway"]=1,
-	["hauq-shekzeer"]=0,
 	["havana-ook-ook"]=18,
 	["havecluelol-shekzeer"]=20,
 	["havitýx-shekzeer"]=0,
@@ -8106,7 +8107,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["ozymandiaus-mirage-raceway"]=23,
 	["ozymandius-mirage-raceway"]=20,
 	["ozzyozbarn-shekzeer"]=0,
-	["pacificpunch-shekzeer"]=7,
 	["pagerodzida-norushen"]=4,
 	["pähkinä-hoptallus"]=26,
 	["pakorabani-shekzeer"]=1,
@@ -8198,6 +8198,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["pînetatante-shekzeer"]=17,
 	["pingfade-shekzeer"]=12,
 	["pipelayer-shekzeer"]=24,
+	["pipilili-shekzeer"]=1,
 	["pipioe-shekzeer"]=7,
 	["pipitrix-shekzeer"]=15,
 	["pippilotta-shekzeer"]=9,
@@ -9492,6 +9493,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["wågwåñbøøtÿx-shekzeer"]=15,
 	["wahaj-shekzeer"]=2,
 	["wahtsup-shekzeer"]=6,
+	["waitwhatbro-shekzeer"]=3,
 	["waix-shekzeer"]=10,
 	["walkerr-hoptallus"]=5,
 	["wãlter-shekzeer"]=9,
