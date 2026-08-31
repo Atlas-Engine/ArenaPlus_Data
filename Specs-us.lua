@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5139 characters, read 2026-08-31 10:00 AM.
+-- Region us, 5140 characters, read 2026-08-31 11:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -282,6 +282,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["aspen-raden"]=11,
 	["astave-nazgrim"]=50,
 	["asthenoz-pagle"]=11,
+	["astraea-arugal-au"]=11,
 	["astrea-raden"]=111,
 	["astríds-pagle"]=11,
 	["astyus-pagle"]=20,
@@ -1943,6 +1944,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["hogwasch-galakras"]=101,
 	["hohenhymn-raden"]=10,
 	["hojosatoru-raden"]=11,
+	["hojville-pagle"]=10,
 	["holidayhamii-pagle"]=10,
 	["holtxd-raden"]=11,
 	["holycøcktail-raden"]=11,
@@ -2040,7 +2042,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["iboptanks-nazgrim"]=100,
 	["ibuildwalls-pagle"]=11,
 	["icarryhim-galakras"]=20,
-	["icaru-raden"]=20,
 	["icarú-raden"]=10,
 	["icebluee-pagle"]=11,
 	["icecrysis-pagle"]=10,
@@ -5194,6 +5195,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["aspen-raden"]=1,
 	["astave-nazgrim"]=34,
 	["asthenoz-pagle"]=6,
+	["astraea-arugal-au"]=9,
 	["astrea-raden"]=7,
 	["astríds-pagle"]=18,
 	["astyus-pagle"]=7,
@@ -6936,6 +6938,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["hogwasch-galakras"]=16,
 	["hohenhymn-raden"]=25,
 	["hojosatoru-raden"]=16,
+	["hojville-pagle"]=16,
 	["holidayhamii-pagle"]=32,
 	["holtxd-raden"]=7,
 	["holycøcktail-raden"]=2,
@@ -7034,7 +7037,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["iboptanks-nazgrim"]=2,
 	["ibuildwalls-pagle"]=24,
 	["icarryhim-galakras"]=20,
-	["icaru-raden"]=10,
 	["icarú-raden"]=10,
 	["iceblight-nazgrim"]=0,
 	["icebluee-pagle"]=1,
