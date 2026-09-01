@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5234 characters, read 2026-09-01 05:55 AM.
+-- Region eu, 5235 characters, read 2026-09-01 06:55 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -528,6 +528,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["blackmaan-shekzeer"]=10,
 	["blacknaruto-shekzeer"]=10,
 	["bladesmonk-hoptallus"]=10,
+	["blahster-shekzeer"]=10,
 	["blancos-auberdine"]=11,
 	["blaqchina-shekzeer"]=11,
 	["blasterbz-shekzeer"]=11,
@@ -2092,6 +2093,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["konkermonk-shekzeer"]=10,
 	["konkubinê-everlook"]=61,
 	["koosje-shekzeer"]=111,
+	["kopcap-shekzeer"]=250,
 	["køpul-auberdine"]=10,
 	["koreanpriest-shekzeer"]=41,
 	["korial-shekzeer"]=11,
@@ -3604,7 +3606,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["sixxthoes-shekzeer"]=11,
 	["sixxthunter-shekzeer"]=10,
 	["sjömonstret-shekzeer"]=11,
-	["skankhunterx-shekzeer"]=10,
 	["skarium-auberdine"]=10,
 	["skayzz-auberdine"]=41,
 	["skazkar-garalon"]=101,
@@ -5557,6 +5558,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["blackmaan-shekzeer"]=1,
 	["blacknaruto-shekzeer"]=15,
 	["bladesmonk-hoptallus"]=6,
+	["blahster-shekzeer"]=12,
 	["blancos-auberdine"]=1,
 	["blaqchina-shekzeer"]=6,
 	["blasterbz-shekzeer"]=7,
@@ -7190,6 +7192,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["konkermonk-shekzeer"]=6,
 	["konkubinê-everlook"]=3,
 	["koosje-shekzeer"]=20,
+	["kopcap-shekzeer"]=7,
 	["køpul-auberdine"]=15,
 	["koreanpriest-shekzeer"]=9,
 	["korial-shekzeer"]=1,
@@ -8776,7 +8779,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["sixxthoes-shekzeer"]=23,
 	["sixxthunter-shekzeer"]=14,
 	["sjömonstret-shekzeer"]=24,
-	["skankhunterx-shekzeer"]=12,
 	["skarium-auberdine"]=15,
 	["skayzz-auberdine"]=4,
 	["skazkar-garalon"]=1,
