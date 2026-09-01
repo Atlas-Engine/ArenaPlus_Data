@@ -17,13 +17,13 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region eu, season 14, read 2026-08-31 11:55 PM.
+-- Region eu, season 14, read 2026-09-01 12:55 AM.
 ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["eu"] = {
 	region  = "eu",
-	checked = "2026-08-31 11:55 PM",
-	snapshot = "2026-09-01 01:17",
+	checked = "2026-09-01 12:55 AM",
+	snapshot = "2026-09-01 04:17",
 
 	[1] = {  -- 2v2, 5003 places, down to rating 1049 -- the API stops here, short of the cutoff
 		{ rank=1, name="Raziðper", realm="shekzeer", rating=2639, won=199, lost=89, faction="ALLIANCE", dr=22, dk=-2 },
@@ -1024,7 +1024,7 @@ ns.LEADERBOARD_BY_REGION["eu"] = {
 		{ rank=993, name="Танятопор", realm="flamegor", rating=1992, won=39, lost=23, faction="ALLIANCE", dr=0, dk=39 },
 		{ rank=997, name="Optiimus", realm="shekzeer", rating=1991, won=262, lost=278, faction="ALLIANCE", dr=-34, dk=200 },
 		{ rank=997, name="Rainbôwrider", realm="shekzeer", rating=1991, won=156, lost=154, faction="ALLIANCE", dr=32, dk=-88 },
-		{ rank=997, name="Yesíndeed", realm="shekzeer", rating=1991, won=43, lost=17, faction="ALLIANCE", dr=557, dk=-3567 },
+		{ rank=997, name="Yesíndeed", realm="shekzeer", rating=1991, won=43, lost=18, faction="ALLIANCE", dr=557, dk=-3567 },
 		{ rank=997, name="Бабелнаодин", realm="flamegor", rating=1991, won=40, lost=26, faction="HORDE", dr=0, dk=42 },
 		{ rank=1001, name="Archïchouett", realm="shekzeer", rating=1990, won=136, lost=126, faction="ALLIANCE", dr=0, dk=44 },
 		{ rank=1001, name="Kîdneyshot", realm="shekzeer", rating=1990, won=136, lost=126, faction="ALLIANCE", dr=0, dk=44 },
@@ -1703,7 +1703,7 @@ ns.LEADERBOARD_BY_REGION["eu"] = {
 		{ rank=1674, name="Herjâ", realm="shekzeer", rating=1849, won=144, lost=168, faction="ALLIANCE", dr=53, dk=-274 },
 		{ rank=1674, name="Sixteentraps", realm="shekzeer", rating=1849, won=42, lost=29, faction="ALLIANCE", dr=0, dk=57 },
 		{ rank=1677, name="Bleexy", realm="everlook", rating=1848, won=58, lost=51, faction="ALLIANCE", dr=0, dk=56 },
-		{ rank=1677, name="Graceveil", realm="shekzeer", rating=1848, won=31, lost=15, faction="ALLIANCE", dr=65, dk=-354 },
+		{ rank=1677, name="Graceveil", realm="shekzeer", rating=1848, won=31, lost=16, faction="ALLIANCE", dr=65, dk=-354 },
 		{ rank=1677, name="Odessit", realm="garalon", rating=1848, won=60, lost=72, faction="HORDE", dr=0, dk=56 },
 		{ rank=1677, name="Pm", realm="shekzeer", rating=1848, won=55, lost=63, faction="ALLIANCE", dr=0, dk=56 },
 		{ rank=1677, name="Ryuuko", realm="shekzeer", rating=1848, won=64, lost=74, faction="ALLIANCE", dr=0, dk=56 },
@@ -2490,7 +2490,7 @@ ns.LEADERBOARD_BY_REGION["eu"] = {
 		{ rank=2461, name="Bizo", realm="shekzeer", rating=1728, won=41, lost=33, faction="ALLIANCE", dr=0, dk=73 },
 		{ rank=2461, name="Kenrize", realm="shekzeer", rating=1728, won=29, lost=24, faction="ALLIANCE", dr=0, dk=73 },
 		{ rank=2461, name="Нноорроорроо", realm="flamegor", rating=1728, won=28, lost=25, faction="ALLIANCE", dr=0, dk=73 },
-		{ rank=2465, name="Chechenwolf", realm="shekzeer", rating=1727, won=41, lost=34, faction="ALLIANCE", dr=80, dk=-525 },
+		{ rank=2465, name="Chechenwolf", realm="shekzeer", rating=1727, won=41, lost=39, faction="ALLIANCE", dr=80, dk=-525 },
 		{ rank=2465, name="Ðîønysus", realm="shekzeer", rating=1727, won=47, lost=44, faction="ALLIANCE", dr=0, dk=72 },
 		{ rank=2465, name="Markozii", realm="everlook", rating=1727, won=140, lost=160, faction="ALLIANCE", dr=0, dk=72 },
 		{ rank=2465, name="Revenwtf", realm="auberdine", rating=1727, won=151, lost=155, faction="HORDE", dr=102, dk=-714 },
