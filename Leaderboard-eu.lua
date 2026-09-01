@@ -17,12 +17,12 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region eu, season 14, read 2026-09-01 01:55 AM.
+-- Region eu, season 14, read 2026-09-01 02:55 AM.
 ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["eu"] = {
 	region  = "eu",
-	checked = "2026-09-01 01:55 AM",
+	checked = "2026-09-01 02:55 AM",
 	snapshot = "2026-09-01 04:17",
 
 	[1] = {  -- 2v2, 5003 places, down to rating 1049 -- the API stops here, short of the cutoff
@@ -96,13 +96,13 @@ ns.LEADERBOARD_BY_REGION["eu"] = {
 		{ rank=68, name="Coulozx", realm="shekzeer", rating=2418, won=94, lost=44, faction="ALLIANCE", dr=0, dk=6 },
 		{ rank=68, name="Jáakux", realm="shekzeer", rating=2418, won=92, lost=65, faction="ALLIANCE", dr=8, dk=0 },
 		{ rank=70, name="Bearia", realm="shekzeer", rating=2416, won=120, lost=68, faction="ALLIANCE", dr=12, dk=-3 },
+		{ rank=71, name="Derxibro", realm="shekzeer", rating=2415, won=173, lost=85, faction="ALLIANCE", dr=68, dk=-37 },
 		{ rank=71, name="Yry", realm="shekzeer", rating=2415, won=126, lost=71, faction="ALLIANCE", dr=0, dk=5 },
-		{ rank=72, name="Määxxdrood", realm="shekzeer", rating=2414, won=90, lost=29, faction="ALLIANCE", dr=0, dk=5 },
-		{ rank=73, name="Pennyz", realm="everlook", rating=2409, won=82, lost=32, faction="ALLIANCE", dr=0, dk=3 },
-		{ rank=73, name="Razor", realm="everlook", rating=2409, won=226, lost=68, faction="ALLIANCE", dr=29, dk=-13 },
-		{ rank=75, name="Yuy", realm="shekzeer", rating=2407, won=104, lost=51, faction="ALLIANCE", dr=0, dk=4 },
-		{ rank=76, name="Derxibro", realm="shekzeer", rating=2406, won=170, lost=85, faction="ALLIANCE", dr=59, dk=-32 },
-		{ rank=76, name="Maedictv", realm="shekzeer", rating=2406, won=110, lost=40, faction="ALLIANCE", dr=0, dk=4 },
+		{ rank=73, name="Määxxdrood", realm="shekzeer", rating=2414, won=90, lost=29, faction="ALLIANCE", dr=0, dk=6 },
+		{ rank=74, name="Pennyz", realm="everlook", rating=2409, won=82, lost=32, faction="ALLIANCE", dr=0, dk=4 },
+		{ rank=74, name="Razor", realm="everlook", rating=2409, won=226, lost=68, faction="ALLIANCE", dr=29, dk=-12 },
+		{ rank=76, name="Yuy", realm="shekzeer", rating=2407, won=104, lost=51, faction="ALLIANCE", dr=0, dk=5 },
+		{ rank=77, name="Maedictv", realm="shekzeer", rating=2406, won=110, lost=40, faction="ALLIANCE", dr=0, dk=5 },
 		{ rank=78, name="Angolina", realm="shekzeer", rating=2403, won=96, lost=43, faction="ALLIANCE", dr=0, dk=4 },
 		{ rank=79, name="Salvxx", realm="shekzeer", rating=2402, won=113, lost=57, faction="ALLIANCE", dr=0, dk=3 },
 		{ rank=80, name="Cruel", realm="shekzeer", rating=2400, won=102, lost=58, faction="ALLIANCE", dr=0, dk=3 },
