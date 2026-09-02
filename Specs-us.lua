@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5138 characters, read 2026-09-02 07:00 AM.
+-- Region us, 5138 characters, read 2026-09-02 08:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1061,7 +1061,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["deputyd-lei-shen"]=40,
 	["derf-nazgrim"]=80,
 	["derion-galakras"]=10,
-	["deriosx-pagle"]=11,
 	["derklek-pagle"]=80,
 	["desdrix-pagle"]=11,
 	["desecration-raden"]=10,
@@ -2455,6 +2454,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["kurtcopain-immerseus"]=50,
 	["kusamgie-galakras"]=10,
 	["kusheatsleep-raden"]=30,
+	["kushgodx-raden"]=11,
 	["kushh-nazgrim"]=251,
 	["kutless-raden"]=11,
 	["kutthroatt-pagle"]=10,
@@ -6009,7 +6009,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["deputyd-lei-shen"]=5,
 	["derf-nazgrim"]=12,
 	["derion-galakras"]=16,
-	["deriosx-pagle"]=2,
 	["derklek-pagle"]=3,
 	["desdrix-pagle"]=7,
 	["desecration-raden"]=6,
@@ -7470,6 +7469,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["kurtcopain-immerseus"]=24,
 	["kusamgie-galakras"]=2,
 	["kusheatsleep-raden"]=18,
+	["kushgodx-raden"]=1,
 	["kushh-nazgrim"]=10,
 	["kutless-raden"]=16,
 	["kutthroatt-pagle"]=7,
