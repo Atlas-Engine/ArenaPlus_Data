@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5138 characters, read 2026-09-02 10:00 AM.
+-- Region us, 5142 characters, read 2026-09-02 11:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1061,11 +1061,13 @@ ns.LOOKS_BY_REGION["us"] = {
 	["deputyd-lei-shen"]=40,
 	["derf-nazgrim"]=80,
 	["derion-galakras"]=10,
+	["deriosx-pagle"]=11,
 	["derklek-pagle"]=80,
 	["desdrix-pagle"]=11,
 	["desecration-raden"]=10,
 	["despair-raden"]=41,
 	["dessicate-lei-shen"]=10,
+	["destrious-nazgrim"]=81,
 	["destrucc-lei-shen"]=10,
 	["destruclobo-lei-shen"]=220,
 	["destructorr-lei-shen"]=20,
@@ -1863,6 +1865,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["hárok-raden"]=30,
 	["harókz-raden"]=11,
 	["haroldpugh-raden"]=10,
+	["harrick-immerseus"]=50,
 	["harrydotter-raden"]=11,
 	["haruchann-pagle"]=11,
 	["hashie-pagle"]=60,
@@ -6009,11 +6012,13 @@ ns.SPECS_BY_REGION["us"] = {
 	["deputyd-lei-shen"]=5,
 	["derf-nazgrim"]=12,
 	["derion-galakras"]=16,
+	["deriosx-pagle"]=2,
 	["derklek-pagle"]=3,
 	["desdrix-pagle"]=7,
 	["desecration-raden"]=6,
 	["despair-raden"]=5,
 	["dessicate-lei-shen"]=16,
+	["destrious-nazgrim"]=8,
 	["destrucc-lei-shen"]=20,
 	["destruclobo-lei-shen"]=1,
 	["destructorr-lei-shen"]=23,
@@ -6461,6 +6466,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["fentamonk-pagle"]=10,
 	["fentasticaim-pagle"]=3,
 	["feraldruidd-arugal-au"]=12,
+	["feråltyger-pagle"]=0,
 	["fernandes-nazgrim"]=2,
 	["fernandita-galakras"]=21,
 	["fhiziod-raden"]=5,
@@ -6847,6 +6853,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["hárok-raden"]=15,
 	["harókz-raden"]=25,
 	["haroldpugh-raden"]=3,
+	["harrick-immerseus"]=34,
 	["harrydotter-raden"]=28,
 	["haruchann-pagle"]=10,
 	["hashie-pagle"]=12,
