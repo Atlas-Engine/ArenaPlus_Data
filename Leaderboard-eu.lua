@@ -17,13 +17,13 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region eu, season 14, read 2026-09-02 11:55 PM.
+-- Region eu, season 14, read 2026-09-03 12:55 AM.
 ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["eu"] = {
 	region  = "eu",
-	checked = "2026-09-02 11:55 PM",
-	snapshot = "2026-09-03 01:14",
+	checked = "2026-09-03 12:55 AM",
+	snapshot = "2026-09-03 04:14",
 
 	[1] = {  -- 2v2, 5000 places, down to rating 1049 -- the API stops here, short of the cutoff
 		{ rank=1, name="Backinbsns", realm="shekzeer", rating=2664, won=123, lost=9, faction="ALLIANCE", dr=28, dk=0 },
@@ -2451,7 +2451,7 @@ ns.LEADERBOARD_BY_REGION["eu"] = {
 		{ rank=2417, name="Neferpitøu", realm="everlook", rating=1739, won=39, lost=30, faction="ALLIANCE", dr=0, dk=99 },
 		{ rank=2417, name="Neostyx", realm="shekzeer", rating=1739, won=26, lost=27, faction="ALLIANCE", dr=0, dk=99 },
 		{ rank=2417, name="Nëverfear", realm="auberdine", rating=1739, won=26, lost=28, faction="ALLIANCE", dr=0, dk=99 },
-		{ rank=2417, name="Pðiððy", realm="shekzeer", rating=1739, won=26, lost=19, faction="ALLIANCE" },
+		{ rank=2417, name="Pðiððy", realm="shekzeer", rating=1739, won=26, lost=20, faction="ALLIANCE" },
 		{ rank=2417, name="Siön", realm="mirage-raceway", rating=1739, won=71, lost=74, faction="HORDE", dr=0, dk=99 },
 		{ rank=2417, name="Stïpix", realm="auberdine", rating=1739, won=33, lost=27, faction="ALLIANCE", dr=0, dk=99 },
 		{ rank=2429, name="Creagender", realm="shekzeer", rating=1738, won=108, lost=99, faction="ALLIANCE", dr=0, dk=100 },
