@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5231 characters, read 2026-09-03 11:55 AM.
+-- Region eu, 5230 characters, read 2026-09-03 12:55 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -424,7 +424,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["banezone-mirage-raceway"]=51,
 	["bankaimeh-shekzeer"]=10,
 	["bankofabank-shekzeer"]=41,
-	["baraca-shekzeer"]=11,
 	["barbarian-shekzeer"]=10,
 	["barbarianx-shekzeer"]=10,
 	["barilas-norushen"]=50,
@@ -477,7 +476,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["berthiine-shekzeer"]=11,
 	["beskunk-shekzeer"]=41,
 	["besospriest-shekzeer"]=41,
-	["bestmelk-shekzeer"]=11,
 	["bestmonkna-shekzeer"]=10,
 	["bêstmvp-shekzeer"]=41,
 	["bêteféroce-shekzeer"]=11,
@@ -3287,6 +3285,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["reyø-garalon"]=50,
 	["rezya-shekzeer"]=41,
 	["rfgpwhfgjudk-shekzeer"]=11,
+	["rfunklol-shekzeer"]=41,
 	["rhaenyraz-mirage-raceway"]=41,
 	["rhonn-shekzeer"]=10,
 	["rhyza-shekzeer"]=11,
@@ -5447,7 +5446,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["banezone-mirage-raceway"]=17,
 	["bankaimeh-shekzeer"]=9,
 	["bankofabank-shekzeer"]=3,
-	["baraca-shekzeer"]=15,
 	["barackokarma-shekzeer"]=0,
 	["barbarian-shekzeer"]=1,
 	["barbarianx-shekzeer"]=1,
@@ -5501,7 +5499,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["berthiine-shekzeer"]=2,
 	["beskunk-shekzeer"]=9,
 	["besospriest-shekzeer"]=22,
-	["bestmelk-shekzeer"]=2,
 	["bestmonkna-shekzeer"]=6,
 	["bêstmvp-shekzeer"]=4,
 	["bêteféroce-shekzeer"]=4,
@@ -8448,6 +8445,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["reyø-garalon"]=10,
 	["rezya-shekzeer"]=21,
 	["rfgpwhfgjudk-shekzeer"]=8,
+	["rfunklol-shekzeer"]=21,
 	["rhaenyraz-mirage-raceway"]=4,
 	["rhonn-shekzeer"]=1,
 	["rhyza-shekzeer"]=1,
