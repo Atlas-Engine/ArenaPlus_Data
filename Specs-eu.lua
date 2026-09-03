@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5230 characters, read 2026-09-03 02:55 PM.
+-- Region eu, 5230 characters, read 2026-09-03 03:55 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -717,7 +717,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["charbø-everlook"]=21,
 	["chargedif-shekzeer"]=11,
 	["charity-garalon"]=51,
-	["charityrevn-shekzeer"]=10,
 	["charityshift-shekzeer"]=41,
 	["charoma-shekzeer"]=41,
 	["charos-norushen"]=80,
@@ -1213,6 +1212,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["esura-shekzeer"]=11,
 	["etherion-shekzeer"]=250,
 	["Étoiledefeu-shekzeer"]=10,
+	["eulalya-shekzeer"]=11,
 	["eurythmic-shekzeer"]=11,
 	["evarqtx-auberdine"]=11,
 	["everine-everlook"]=11,
@@ -4052,7 +4052,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["trend-shekzeer"]=11,
 	["tren-shekzeer"]=41,
 	["tresiba-garalon"]=21,
-	["trgtacquired-mirage-raceway"]=31,
 	["triatpally-shekzeer"]=11,
 	["triatsonbg-shekzeer"]=11,
 	["trienè-everlook"]=251,
@@ -4436,6 +4435,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["xdxdxdxdxd-garalon"]=11,
 	["xea-norushen"]=11,
 	["xena-shekzeer"]=111,
+	["xfa-garalon"]=21,
 	["xfree-shekzeer"]=10,
 	["xholanda-norushen"]=101,
 	["xiaochi-mirage-raceway"]=11,
@@ -5303,7 +5303,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["arnnsdealer-shekzeer"]=1,
 	["arnostelest-shekzeer"]=2,
 	["arpar-everlook"]=0,
-	["arpar-norushen"]=0,
+	["arpar-ook-ook"]=0,
 	["arrowgasm-ook-ook"]=14,
 	["arrówsong-shekzeer"]=14,
 	["arshella-shekzeer"]=2,
@@ -5751,7 +5751,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["charbø-everlook"]=1,
 	["chargedif-shekzeer"]=1,
 	["charity-garalon"]=22,
-	["charityrevn-shekzeer"]=1,
 	["charityshift-shekzeer"]=3,
 	["charoma-shekzeer"]=21,
 	["charos-norushen"]=16,
@@ -6267,6 +6266,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["eternàl-shekzeer"]=0,
 	["etherion-shekzeer"]=19,
 	["Étoiledefeu-shekzeer"]=15,
+	["eulalya-shekzeer"]=20,
 	["eurythmic-shekzeer"]=27,
 	["evarqtx-auberdine"]=15,
 	["everine-everlook"]=24,
@@ -9246,7 +9246,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["trend-shekzeer"]=7,
 	["tren-shekzeer"]=9,
 	["tresiba-garalon"]=2,
-	["trgtacquired-mirage-raceway"]=13,
 	["triatpally-shekzeer"]=15,
 	["triatsonbg-shekzeer"]=8,
 	["trienè-everlook"]=7,
@@ -9645,6 +9644,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["xdxdxdxdxd-garalon"]=24,
 	["xea-norushen"]=26,
 	["xena-shekzeer"]=16,
+	["xfa-garalon"]=24,
 	["xfree-shekzeer"]=15,
 	["xholanda-norushen"]=15,
 	["xiaochi-mirage-raceway"]=7,
