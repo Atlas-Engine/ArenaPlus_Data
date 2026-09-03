@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5139 characters, read 2026-09-03 04:00 AM.
+-- Region us, 5139 characters, read 2026-09-03 05:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1511,6 +1511,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["fisherpete-arugal-au"]=10,
 	["fistatoosh-galakras"]=21,
 	["fistenjoyer-raden"]=11,
+	["fistfulobark-raden"]=41,
 	["fistofdiddy-pagle"]=10,
 	["fistypants-pagle"]=11,
 	["fitzpleasure-raden"]=11,
@@ -1680,7 +1681,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["getclapt-lei-shen"]=10,
 	["getdough-grobbulus"]=11,
 	["getleid-lei-shen"]=10,
-	["getownedbkwz-raden"]=70,
 	["getshton-raden"]=41,
 	["getsmacked-galakras"]=10,
 	["getstøned-raden"]=10,
@@ -3449,7 +3449,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["puppygirlz-pagle"]=101,
 	["purify-pagle"]=11,
 	["purityweeps-pagle"]=50,
-	["purp-raden"]=41,
 	["purrankiller-nazgrim"]=51,
 	["pursena-pagle"]=111,
 	["pushypin-benediction"]=11,
@@ -4698,6 +4697,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["wetshatz-lei-shen"]=31,
 	["wezleysniped-immerseus"]=20,
 	["whammy-raden"]=41,
+	["whatafear-pagle"]=41,
 	["wheresmolly-pagle"]=31,
 	["whhïte-raden"]=70,
 	["whiichway-pagle"]=11,
@@ -6487,6 +6487,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["fisherpete-arugal-au"]=25,
 	["fistatoosh-galakras"]=27,
 	["fistenjoyer-raden"]=4,
+	["fistfulobark-raden"]=5,
 	["fistofdiddy-pagle"]=4,
 	["fistypants-pagle"]=10,
 	["fitzpleasure-raden"]=34,
@@ -6661,7 +6662,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["getclapt-lei-shen"]=6,
 	["getdough-grobbulus"]=2,
 	["getleid-lei-shen"]=7,
-	["getownedbkwz-raden"]=7,
 	["getshton-raden"]=5,
 	["getsmacked-galakras"]=28,
 	["getstøned-raden"]=7,
@@ -8512,7 +8512,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["puppygirlz-pagle"]=16,
 	["purify-pagle"]=16,
 	["purityweeps-pagle"]=1,
-	["purp-raden"]=4,
 	["purrankiller-nazgrim"]=10,
 	["pursena-pagle"]=15,
 	["pushypin-benediction"]=2,
@@ -9829,6 +9828,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["wetshatz-lei-shen"]=18,
 	["wezleysniped-immerseus"]=18,
 	["whammy-raden"]=4,
+	["whatafear-pagle"]=21,
 	["wheresmolly-pagle"]=22,
 	["whhïte-raden"]=28,
 	["whiichway-pagle"]=3,
