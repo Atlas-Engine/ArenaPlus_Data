@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5231 characters, read 2026-09-03 08:55 AM.
+-- Region eu, 5231 characters, read 2026-09-03 09:55 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -447,7 +447,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["bcacu-shekzeer"]=10,
 	["bdm-auberdine"]=11,
 	["bðring-shekzeer"]=11,
-	["bearburst-shekzeer"]=41,
 	["bearia-shekzeer"]=11,
 	["beastmastr-everlook"]=80,
 	["bedanadin-hoptallus"]=11,
@@ -2229,6 +2228,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["lethaltickle-norushen"]=20,
 	["letmebangbro-shekzeer"]=10,
 	["letmehuntyou-shekzeer"]=11,
+	["levelingfun-shekzeer"]=31,
 	["lëvi-mirage-raceway"]=80,
 	["lëvî-shekzeer"]=11,
 	["levitate-everlook"]=41,
@@ -3526,6 +3526,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["shaqaclaus-shekzeer"]=10,
 	["shariu-everlook"]=11,
 	["sharpknives-shekzeer"]=30,
+	["sharral-norushen"]=11,
 	["shavrantia-garalon"]=101,
 	["shayeh-auberdine"]=31,
 	["sheepform-garalon"]=50,
@@ -4043,7 +4044,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["traktopelle-auberdine"]=41,
 	["trallia-shekzeer"]=10,
 	["trammad-shekzeer"]=11,
-	["trapoff-shekzeer"]=10,
 	["tråpx-shekzeer"]=11,
 	["trashwwmop-garalon"]=11,
 	["traynoy-shekzeer"]=10,
@@ -5471,7 +5471,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bcacu-shekzeer"]=1,
 	["bdm-auberdine"]=15,
 	["bðring-shekzeer"]=9,
-	["bearburst-shekzeer"]=32,
 	["bearia-shekzeer"]=14,
 	["beastmastr-everlook"]=4,
 	["bedanadin-hoptallus"]=5,
@@ -7332,6 +7331,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["lethaltickle-norushen"]=1,
 	["letmebangbro-shekzeer"]=1,
 	["letmehuntyou-shekzeer"]=20,
+	["levelingfun-shekzeer"]=13,
 	["lëvi-mirage-raceway"]=9,
 	["lëvî-shekzeer"]=26,
 	["levitate-everlook"]=9,
@@ -8695,6 +8695,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["shaqaclaus-shekzeer"]=2,
 	["shariu-everlook"]=1,
 	["sharpknives-shekzeer"]=24,
+	["sharral-norushen"]=5,
 	["shavrantia-garalon"]=5,
 	["shayeh-auberdine"]=7,
 	["sheepform-garalon"]=10,
@@ -9236,7 +9237,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["traktopelle-auberdine"]=3,
 	["trallia-shekzeer"]=5,
 	["trammad-shekzeer"]=6,
-	["trapoff-shekzeer"]=4,
 	["tråpx-shekzeer"]=4,
 	["trashwwmop-garalon"]=7,
 	["traybo-shekzeer"]=0,
