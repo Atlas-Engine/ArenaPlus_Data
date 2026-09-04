@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5140 characters, read 2026-09-04 04:00 PM.
+-- Region us, 5142 characters, read 2026-09-04 05:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2771,6 +2771,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["mcpm-raden"]=10,
 	["mcp-raden"]=10,
 	["mcstabbiee-pagle"]=10,
+	["meastt-pagle"]=20,
 	["meatballgun-lei-shen"]=111,
 	["meätbol-lei-shen"]=220,
 	["meatbolt-raden"]=31,
@@ -7798,6 +7799,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["mcpm-raden"]=1,
 	["mcp-raden"]=28,
 	["mcstabbiee-pagle"]=29,
+	["meastt-pagle"]=7,
 	["meatballgun-lei-shen"]=15,
 	["meätbol-lei-shen"]=17,
 	["meatbolt-raden"]=15,
@@ -9721,6 +9723,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["verees-pagle"]=29,
 	["verenah-raden"]=0,
 	["veriandra-raden"]=7,
+	["veridian-raden"]=0,
 	["vernethy-galakras"]=34,
 	["verojk-pagle"]=15,
 	["verokm-pagle"]=9,
