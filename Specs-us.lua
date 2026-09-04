@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5141 characters, read 2026-09-04 01:00 AM.
+-- Region us, 5139 characters, read 2026-09-04 02:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2613,7 +2613,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["lockinseason-pagle"]=50,
 	["lockitingary-galakras"]=100,
 	["lockmaster-immerseus"]=10,
-	["lockslop-raden"]=11,
 	["locksmith-pagle"]=10,
 	["locktoast-raden"]=10,
 	["lokî-raden"]=31,
@@ -3964,8 +3963,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["skyzy-immerseus"]=21,
 	["sladeblades-raden"]=11,
 	["slaked-pagle"]=40,
-	["slamhammin-grobbulus"]=51,
-	["slaminerywur-grobbulus"]=61,
 	["slamlord-raden"]=11,
 	["slàmwich-pagle"]=10,
 	["slapinwar-galakras"]=10,
@@ -4310,7 +4307,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["teluna-galakras"]=221,
 	["témis-nazgrim"]=21,
 	["tempestnatsu-raden"]=11,
-	["teñ-pagle"]=111,
 	["tèn-pagle"]=11,
 	["terentino-raden"]=21,
 	["termita-pagle"]=70,
@@ -7635,7 +7631,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["lockinseason-pagle"]=28,
 	["lockitingary-galakras"]=3,
 	["lockmaster-immerseus"]=24,
-	["lockslop-raden"]=28,
 	["locksmith-pagle"]=24,
 	["locktoast-raden"]=24,
 	["lokî-raden"]=19,
@@ -9054,8 +9049,8 @@ ns.SPECS_BY_REGION["us"] = {
 	["skyzy-immerseus"]=7,
 	["sladeblades-raden"]=14,
 	["slaked-pagle"]=5,
-	["slamhammin-grobbulus"]=24,
-	["slaminerywur-grobbulus"]=12,
+	["slamhammin-pagle"]=0,
+	["slaminerywur-pagle"]=0,
 	["slamlord-raden"]=7,
 	["slamminfar-pagle"]=0,
 	["slamminhard-pagle"]=0,
@@ -9424,7 +9419,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["teluna-galakras"]=3,
 	["témis-nazgrim"]=3,
 	["tempestnatsu-raden"]=14,
-	["teñ-pagle"]=19,
 	["tèn-pagle"]=6,
 	["terentino-raden"]=20,
 	["termita-pagle"]=21,
