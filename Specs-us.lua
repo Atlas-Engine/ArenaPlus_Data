@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5140 characters, read 2026-09-04 01:00 PM.
+-- Region us, 5140 characters, read 2026-09-04 02:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -934,6 +934,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["cutter-raden"]=80,
 	["cvex-raden"]=11,
 	["cvs-raden"]=11,
+	["cwpaslock-raden"]=11,
 	["cwpas-raden"]=70,
 	["cwpasx-raden"]=11,
 	["cybrooke-lei-shen"]=41,
@@ -2123,7 +2124,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["inkárri-arugal-au"]=11,
 	["inmortalwar-raden"]=11,
 	["innerdemon-lei-shen"]=111,
-	["innoofirgize-raden"]=40,
 	["inorie-raden"]=41,
 	["inperitus-arugal-au"]=21,
 	["insomniaxx-pagle"]=11,
@@ -2612,6 +2612,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["lockinseason-pagle"]=50,
 	["lockitingary-galakras"]=100,
 	["lockmaster-immerseus"]=10,
+	["lockslop-raden"]=11,
 	["locksmith-pagle"]=10,
 	["locktoast-raden"]=10,
 	["lokî-raden"]=31,
@@ -2781,7 +2782,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["melòdy-nazgrim"]=21,
 	["melxx-raden"]=41,
 	["melyttras-lei-shen"]=31,
-	["melzin-raden"]=10,
 	["memoriës-raden"]=11,
 	["memoriestko-pagle"]=21,
 	["mendiib-pagle"]=30,
@@ -5872,6 +5872,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["cutter-raden"]=3,
 	["cvex-raden"]=23,
 	["cvs-raden"]=21,
+	["cwpaslock-raden"]=24,
 	["cwpas-raden"]=1,
 	["cwpasx-raden"]=7,
 	["cybrooke-lei-shen"]=3,
@@ -7115,7 +7116,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["inkárri-arugal-au"]=10,
 	["inmortalwar-raden"]=7,
 	["innerdemon-lei-shen"]=15,
-	["innoofirgize-raden"]=5,
 	["inorie-raden"]=4,
 	["inperitus-arugal-au"]=19,
 	["insomniaxx-pagle"]=14,
@@ -7631,6 +7631,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["lockinseason-pagle"]=28,
 	["lockitingary-galakras"]=3,
 	["lockmaster-immerseus"]=24,
+	["lockslop-raden"]=28,
 	["locksmith-pagle"]=24,
 	["locktoast-raden"]=24,
 	["lokî-raden"]=19,
@@ -7808,7 +7809,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["melòdy-nazgrim"]=3,
 	["melxx-raden"]=5,
 	["melyttras-lei-shen"]=16,
-	["melzin-raden"]=1,
 	["memoriës-raden"]=1,
 	["memoriestko-pagle"]=1,
 	["mendiib-pagle"]=19,
