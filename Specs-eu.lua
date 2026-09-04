@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5227 characters, read 2026-09-03 08:55 PM.
+-- Region eu, 5227 characters, read 2026-09-03 09:55 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1675,6 +1675,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["hoses-mirage-raceway"]=111,
 	["høtbaddie-everlook"]=11,
 	["hotpoint-shekzeer"]=10,
+	["hottedeu-shekzeer"]=40,
 	["hotzalotz-hoptallus"]=41,
 	["houndshow-shekzeer"]=11,
 	["houta-auberdine"]=11,
@@ -3113,7 +3114,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["psýchosocial-shekzeer"]=41,
 	["psykbengel-shekzeer"]=11,
 	["ptk-shekzeer"]=220,
-	["puckfiggers-shekzeer"]=11,
 	["puipuii-garalon"]=260,
 	["pullontwo-norushen"]=11,
 	["pulsing-mirage-raceway"]=11,
@@ -3284,7 +3284,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["reyø-garalon"]=50,
 	["rezya-shekzeer"]=41,
 	["rfgpwhfgjudk-shekzeer"]=11,
-	["rfunklol-shekzeer"]=41,
 	["rhaenyraz-mirage-raceway"]=41,
 	["rhonn-shekzeer"]=10,
 	["rhyza-shekzeer"]=11,
@@ -4885,6 +4884,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["Неодинвполе-flamegor"]=30,
 	["Нерев-flamegor"]=10,
 	["Никшаман-flamegor"]=20,
+	["Нилиссит-flamegor"]=41,
 	["Нихаунт-flamegor"]=10,
 	["Ннзодд-flamegor"]=10,
 	["Нноорроорроо-flamegor"]=10,
@@ -6749,6 +6749,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["hoses-mirage-raceway"]=13,
 	["høtbaddie-everlook"]=4,
 	["hotpoint-shekzeer"]=5,
+	["hottedeu-shekzeer"]=11,
 	["hotzalotz-hoptallus"]=3,
 	["houndshow-shekzeer"]=5,
 	["houta-auberdine"]=26,
@@ -8266,7 +8267,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["psýchosocial-shekzeer"]=9,
 	["psykbengel-shekzeer"]=7,
 	["ptk-shekzeer"]=22,
-	["puckfiggers-shekzeer"]=8,
 	["puipuii-garalon"]=2,
 	["pullontwo-norushen"]=2,
 	["pulsing-mirage-raceway"]=12,
@@ -8441,7 +8441,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["reyø-garalon"]=10,
 	["rezya-shekzeer"]=21,
 	["rfgpwhfgjudk-shekzeer"]=8,
-	["rfunklol-shekzeer"]=21,
 	["rhaenyraz-mirage-raceway"]=4,
 	["rhonn-shekzeer"]=1,
 	["rhyza-shekzeer"]=1,
@@ -10109,6 +10108,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Неодинвполе-flamegor"]=1,
 	["Нерев-flamegor"]=15,
 	["Никшаман-flamegor"]=16,
+	["Нилиссит-flamegor"]=22,
 	["Нихаунт-flamegor"]=4,
 	["Ннзодд-flamegor"]=1,
 	["Нноорроорроо-flamegor"]=15,
