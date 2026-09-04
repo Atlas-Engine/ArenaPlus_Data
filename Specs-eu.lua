@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5227 characters, read 2026-09-04 08:55 AM.
+-- Region eu, 5229 characters, read 2026-09-04 09:55 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -321,7 +321,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["Àsmi-ook-ook"]=21,
 	["Àsmodái-everlook"]=30,
 	["Àsmodai-ook-ook"]=20,
-	["asmødel-auberdine"]=20,
+	["asmødel-shekzeer"]=20,
 	["asmolol-everlook"]=251,
 	["asmo-ook-ook"]=21,
 	["Àsmo-ook-ook"]=21,
@@ -1338,6 +1338,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["førestgump-garalon"]=11,
 	["forklifter-ook-ook"]=60,
 	["formology-auberdine"]=41,
+	["formyself-shekzeer"]=11,
 	["fortnitedk-shekzeer"]=11,
 	["fortyfivemin-shekzeer"]=41,
 	["founcy-garalon"]=50,
@@ -2226,7 +2227,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["lethaltickle-norushen"]=20,
 	["letmebangbro-shekzeer"]=10,
 	["letmehuntyou-shekzeer"]=11,
-	["levelingfun-shekzeer"]=31,
 	["lëvi-mirage-raceway"]=80,
 	["lëvî-shekzeer"]=11,
 	["levitate-everlook"]=41,
@@ -2257,6 +2257,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["limpsy-shekzeer"]=10,
 	["limwhygi-garalon"]=91,
 	["lînette-auberdine"]=41,
+	["lingam-shekzeer"]=11,
 	["lingettesale-auberdine"]=11,
 	["linsie-auberdine"]=11,
 	["lipglossxoxo-garalon"]=11,
@@ -5331,7 +5332,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Àsmi-ook-ook"]=1,
 	["Àsmodái-everlook"]=19,
 	["Àsmodai-ook-ook"]=19,
-	["asmødel-auberdine"]=28,
+	["asmødel-shekzeer"]=28,
 	["asmolol-everlook"]=19,
 	["asmo-ook-ook"]=4,
 	["Àsmo-ook-ook"]=19,
@@ -5954,6 +5955,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["darumonk-shekzeer"]=6,
 	["daru-shekzeer"]=6,
 	["dashka-shekzeer"]=20,
+	["davinà-shekzeer"]=0,
 	["davyjones-shekzeer"]=29,
 	["dawdler-shekzeer"]=4,
 	["dawgi-shekzeer"]=3,
@@ -6393,6 +6395,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["førestgump-garalon"]=14,
 	["forklifter-ook-ook"]=3,
 	["formology-auberdine"]=3,
+	["formyself-shekzeer"]=4,
 	["fortnitedk-shekzeer"]=8,
 	["fortyfivemin-shekzeer"]=32,
 	["foryou-shekzeer"]=0,
@@ -7324,7 +7327,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["lethaltickle-norushen"]=1,
 	["letmebangbro-shekzeer"]=1,
 	["letmehuntyou-shekzeer"]=20,
-	["levelingfun-shekzeer"]=13,
 	["lëvi-mirage-raceway"]=9,
 	["lëvî-shekzeer"]=26,
 	["levitate-everlook"]=9,
@@ -7357,6 +7359,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["lìnâ-mirage-raceway"]=0,
 	["linchi-shekzeer"]=0,
 	["lînette-auberdine"]=11,
+	["lingam-shekzeer"]=24,
 	["lingettesale-auberdine"]=6,
 	["linsie-auberdine"]=26,
 	["lipglossxoxo-garalon"]=5,
