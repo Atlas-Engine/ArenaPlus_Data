@@ -17,12 +17,12 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region eu, season 14, read 2026-09-04 04:55 AM.
+-- Region eu, season 14, read 2026-09-04 05:55 AM.
 ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["eu"] = {
 	region  = "eu",
-	checked = "2026-09-04 04:55 AM",
+	checked = "2026-09-04 05:55 AM",
 	snapshot = "2026-09-04 07:14",
 
 	[1] = {  -- 2v2, 5007 places, down to rating 1050 -- the API stops here, short of the cutoff
@@ -506,16 +506,16 @@ ns.LEADERBOARD_BY_REGION["eu"] = {
 		{ rank=478, name="Bigshotorca", realm="shekzeer", rating=2143, won=81, lost=55, faction="ALLIANCE", dr=0, dk=34 },
 		{ rank=478, name="Foxløl", realm="everlook", rating=2143, won=60, lost=42, faction="ALLIANCE", dr=0, dk=34 },
 		{ rank=478, name="Hobex", realm="shekzeer", rating=2143, won=86, lost=84, faction="ALLIANCE", dr=21, dk=-12 },
+		{ rank=478, name="Mascaraxoxo", realm="shekzeer", rating=2143, won=405, lost=355, faction="ALLIANCE", dr=49, dk=-92 },
 		{ rank=478, name="Ryuuren", realm="garalon", rating=2143, won=155, lost=118, faction="ALLIANCE", dr=0, dk=34 },
 		{ rank=478, name="Shixx", realm="ook-ook", rating=2143, won=66, lost=46, faction="ALLIANCE", dr=8, dk=14 },
-		{ rank=483, name="Antitapclass", realm="everlook", rating=2142, won=71, lost=65, faction="ALLIANCE", dr=0, dk=35 },
-		{ rank=483, name="Bauzzy", realm="shekzeer", rating=2142, won=76, lost=59, faction="ALLIANCE", dr=0, dk=35 },
-		{ rank=483, name="Szexjebøaka", realm="mirage-raceway", rating=2142, won=208, lost=192, faction="ALLIANCE", dr=31, dk=-32 },
-		{ rank=486, name="Arunx", realm="shekzeer", rating=2141, won=102, lost=79, faction="ALLIANCE", dr=0, dk=35 },
-		{ rank=486, name="Autschbatsch", realm="shekzeer", rating=2141, won=69, lost=65, faction="ALLIANCE", dr=0, dk=35 },
-		{ rank=486, name="Jechassebien", realm="shekzeer", rating=2141, won=79, lost=68, faction="ALLIANCE", dr=0, dk=35 },
-		{ rank=486, name="Mascaraxoxo", realm="shekzeer", rating=2141, won=398, lost=351, faction="ALLIANCE", dr=47, dk=-84 },
-		{ rank=486, name="Melk", realm="shekzeer", rating=2141, won=97, lost=84, faction="ALLIANCE", dr=-67, dk=174 },
+		{ rank=484, name="Antitapclass", realm="everlook", rating=2142, won=71, lost=65, faction="ALLIANCE", dr=0, dk=36 },
+		{ rank=484, name="Bauzzy", realm="shekzeer", rating=2142, won=76, lost=59, faction="ALLIANCE", dr=0, dk=36 },
+		{ rank=484, name="Szexjebøaka", realm="mirage-raceway", rating=2142, won=208, lost=192, faction="ALLIANCE", dr=31, dk=-31 },
+		{ rank=487, name="Arunx", realm="shekzeer", rating=2141, won=102, lost=79, faction="ALLIANCE", dr=0, dk=36 },
+		{ rank=487, name="Autschbatsch", realm="shekzeer", rating=2141, won=69, lost=65, faction="ALLIANCE", dr=0, dk=36 },
+		{ rank=487, name="Jechassebien", realm="shekzeer", rating=2141, won=79, lost=68, faction="ALLIANCE", dr=0, dk=36 },
+		{ rank=487, name="Melk", realm="shekzeer", rating=2141, won=97, lost=84, faction="ALLIANCE", dr=-67, dk=175 },
 		{ rank=491, name="Zuma", realm="shekzeer", rating=2140, won=68, lost=62, faction="ALLIANCE", dr=0, dk=37 },
 		{ rank=492, name="Jý", realm="shekzeer", rating=2139, won=92, lost=86, faction="ALLIANCE", dr=0, dk=36 },
 		{ rank=493, name="Filmar", realm="shekzeer", rating=2138, won=237, lost=192, faction="ALLIANCE", dr=0, dk=35 },
@@ -2623,7 +2623,7 @@ ns.LEADERBOARD_BY_REGION["eu"] = {
 		{ rank=2595, name="Etherion", realm="shekzeer", rating=1712, won=76, lost=84, faction="ALLIANCE", dr=0, dk=113 },
 		{ rank=2595, name="Fakeyøu", realm="shekzeer", rating=1712, won=25, lost=24, faction="ALLIANCE", dr=0, dk=113 },
 		{ rank=2595, name="Ícy", realm="shekzeer", rating=1712, won=25, lost=24, faction="ALLIANCE", dr=0, dk=113 },
-		{ rank=2595, name="Levelingfun", realm="shekzeer", rating=1712, won=26, lost=23, faction="ALLIANCE" },
+		{ rank=2595, name="Levelingfun", realm="shekzeer", rating=1712, won=26, lost=25, faction="ALLIANCE" },
 		{ rank=2595, name="Lostpinky", realm="shekzeer", rating=1712, won=53, lost=46, faction="ALLIANCE", dr=0, dk=113 },
 		{ rank=2595, name="Nocislife", realm="everlook", rating=1712, won=80, lost=88, faction="ALLIANCE", dr=0, dk=113 },
 		{ rank=2595, name="Nuper", realm="everlook", rating=1712, won=52, lost=40, faction="ALLIANCE", dr=0, dk=113 },
