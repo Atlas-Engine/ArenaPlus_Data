@@ -17,12 +17,12 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region us, season 14, read 2026-09-04 03:00 AM.
+-- Region us, season 14, read 2026-09-04 04:00 AM.
 ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["us"] = {
 	region  = "us",
-	checked = "2026-09-04 03:00 AM",
+	checked = "2026-09-04 04:00 AM",
 	snapshot = "2026-09-04 05:15",
 
 	[1] = {  -- 2v2, 5000 places, down to rating 1091 -- the API stops here, short of the cutoff
@@ -32,7 +32,7 @@ ns.LEADERBOARD_BY_REGION["us"] = {
 		{ rank=4, name="Gånnicus", realm="raden", rating=2644, won=182, lost=37, faction="ALLIANCE", dr=20, dk=-2 },
 		{ rank=5, name="Magician", realm="arugal-au", rating=2635, won=171, lost=3, faction="ALLIANCE", dr=10, dk=0 },
 		{ rank=6, name="Wealthycat", realm="raden", rating=2617, won=144, lost=19, faction="ALLIANCE", dr=0, dk=-1 },
-		{ rank=7, name="Acx", realm="raden", rating=2612, won=229, lost=13, faction="ALLIANCE", dr=-16, dk=3 },
+		{ rank=7, name="Acx", realm="raden", rating=2614, won=230, lost=13, faction="ALLIANCE", dr=-14, dk=3 },
 		{ rank=8, name="Nzx", realm="raden", rating=2610, won=190, lost=32, faction="ALLIANCE", dr=-19, dk=6 },
 		{ rank=9, name="Griff", realm="raden", rating=2609, won=202, lost=36, faction="ALLIANCE", dr=-20, dk=7 },
 		{ rank=10, name="Kenquit", realm="pagle", rating=2601, won=132, lost=16, faction="ALLIANCE", dr=20, dk=1 },
