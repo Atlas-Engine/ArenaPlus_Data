@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5141 characters, read 2026-09-05 06:00 AM.
+-- Region us, 5141 characters, read 2026-09-05 08:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1060,7 +1060,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["deputyd-lei-shen"]=40,
 	["derf-nazgrim"]=80,
 	["derion-galakras"]=10,
-	["deriosx-pagle"]=11,
 	["derklek-pagle"]=80,
 	["desdrix-pagle"]=11,
 	["desecration-raden"]=10,
@@ -3987,6 +3986,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["slimacaco-raden"]=11,
 	["slinginshade-pagle"]=11,
 	["slipperysam-pagle"]=70,
+	["slippy-lei-shen"]=11,
 	["sliprat-nazgrim"]=50,
 	["slipx-pagle"]=90,
 	["slloorg-pagle"]=10,
@@ -6004,7 +6004,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["deputyd-lei-shen"]=5,
 	["derf-nazgrim"]=12,
 	["derion-galakras"]=16,
-	["deriosx-pagle"]=2,
 	["derklek-pagle"]=3,
 	["desdrix-pagle"]=7,
 	["desecration-raden"]=6,
@@ -9083,6 +9082,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["slinginshade-pagle"]=8,
 	["slinqy-pagle"]=0,
 	["slipperysam-pagle"]=4,
+	["slippy-lei-shen"]=2,
 	["sliprat-nazgrim"]=14,
 	["slipx-pagle"]=29,
 	["slloorg-pagle"]=16,
