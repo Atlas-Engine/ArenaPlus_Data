@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5141 characters, read 2026-09-05 10:00 AM.
+-- Region us, 5141 characters, read 2026-09-05 11:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1014,6 +1014,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["ddini-pagle"]=41,
 	["ddk-pagle"]=11,
 	["deadlylifts-pagle"]=41,
+	["deadmoon-galakras"]=100,
 	["deadnutz-nazgrim"]=50,
 	["deadpal-galakras"]=101,
 	["deadpoolwins-pagle"]=20,
@@ -1301,7 +1302,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["ebolalola-galakras"]=71,
 	["ebolarama-galakras"]=100,
 	["ebonwrath-pagle"]=10,
-	["ebtballer-pagle"]=11,
 	["eclipersr-nazgrim"]=61,
 	["ecmoo-pagle"]=50,
 	["ecstasyshock-pagle"]=21,
@@ -1981,7 +1981,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["hoodwolf-pagle"]=10,
 	["hophelese-lei-shen"]=11,
 	["horculez-pagle"]=20,
-	["hordeshanker-pagle"]=10,
 	["hordiddy-pagle"]=61,
 	["horizøn-pagle"]=11,
 	["horniaf-pagle"]=60,
@@ -4414,6 +4413,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["tøkÿöghøül-raden"]=11,
 	["tomtwocox-raden"]=30,
 	["tonieh-pagle"]=11,
+	["toodlezz-pagle"]=11,
 	["toofzilla-pagle"]=41,
 	["tooquik-lei-shen"]=10,
 	["toorun-pagle"]=80,
@@ -5954,6 +5954,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ddini-pagle"]=5,
 	["ddk-pagle"]=6,
 	["deadlylifts-pagle"]=7,
+	["deadmoon-galakras"]=24,
 	["deadnutz-nazgrim"]=34,
 	["deadpal-galakras"]=16,
 	["deadpoolwins-pagle"]=6,
@@ -6263,7 +6264,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["ebolalola-galakras"]=1,
 	["ebolarama-galakras"]=2,
 	["ebonwrath-pagle"]=25,
-	["ebtballer-pagle"]=4,
 	["eclipersr-nazgrim"]=13,
 	["ecmoo-pagle"]=4,
 	["ecstasyshock-pagle"]=22,
@@ -6968,7 +6968,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["hoodwolf-pagle"]=25,
 	["hophelese-lei-shen"]=16,
 	["horculez-pagle"]=6,
-	["hordeshanker-pagle"]=14,
 	["hordiddy-pagle"]=5,
 	["horizøn-pagle"]=10,
 	["horniaf-pagle"]=5,
@@ -9534,6 +9533,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["tommasino-pagle"]=0,
 	["tomtwocox-raden"]=9,
 	["tonieh-pagle"]=1,
+	["toodlezz-pagle"]=14,
 	["toofzilla-pagle"]=5,
 	["tooquik-lei-shen"]=14,
 	["toorun-pagle"]=21,
