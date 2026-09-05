@@ -1,4 +1,4 @@
-﻿## Interface: 50500, 50502, 50503, 50504
+﻿## Interface: 50500, 50502, 50503, 50504, 20506
 # 50504 is the newest of these and the one the client is on. There is no
 # 50505: it was listed here for three days, and CurseForge -- unable to
 # match it to any WoW version -- published the addon as supporting 3.80.2,
@@ -11,7 +11,7 @@
 # Bagnon, Bartender4 -- tops out at 50504, and not one names 50505.
 ## Title: ArenaPlus Data
 ## Author: David / Atlas-Engine
-## Version: 2026.09.04.2105
+## Version: 2026.09.05.0305
 ## Notes: The ladder, cutoffs, specs and gear that ArenaPlus reads. Refreshed on its own so the addon itself does not have to be republished for it.
 # CurseForge's own number for the project, which is what identifies it
 # everywhere outside the website -- the packaging webhook posts to
@@ -34,6 +34,25 @@ Cutoffs-us.lua
 Cutoffs-eu.lua
 Leaderboard-us.lua
 Leaderboard-eu.lua
+
+# The same four tables again for TBC Anniversary, which is a different game
+# on different realms with its own ladder -- scraped from the
+# dynamic-classicann-<region> namespace rather than the MoP one.
+#
+# They are not separate tables: each file writes its own key into the same
+# BY_REGION table, "tbc-eu" beside "eu", so the addon reaches them the way it
+# already reaches a region. Nothing looks at them unless it asks for that key
+# by name -- ArenaPlus picks the plain key for the client it is running on.
+#
+Cutoffs-tbc-us.lua
+Cutoffs-tbc-eu.lua
+Leaderboard-tbc-us.lua
+Leaderboard-tbc-eu.lua
+Specs-tbc-us.lua
+Specs-tbc-eu.lua
+Inspect-tbc-us.lua
+Inspect-tbc-eu.lua
+
 Specs-us.lua
 Specs-eu.lua
 Inspect-us.lua
