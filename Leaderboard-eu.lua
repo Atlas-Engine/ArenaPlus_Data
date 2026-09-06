@@ -17,12 +17,12 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region eu, season 14, read 2026-09-05 09:55 PM.
+-- Region eu, season 14, read 2026-09-05 10:55 PM.
 ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["eu"] = {
 	region  = "eu",
-	checked = "2026-09-05 09:55 PM",
+	checked = "2026-09-05 10:55 PM",
 	snapshot = "2026-09-06 01:14",
 
 	[1] = {  -- 2v2, 5002 places, down to rating 1047 -- the API stops here, short of the cutoff
