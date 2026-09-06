@@ -17,12 +17,12 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region us, season 14, read 2026-09-06 02:00 PM.
+-- Region us, season 14, read 2026-09-06 03:00 PM.
 ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["us"] = {
 	region  = "us",
-	checked = "2026-09-06 02:00 PM",
+	checked = "2026-09-06 03:00 PM",
 	snapshot = "2026-09-06 17:15",
 
 	[1] = {  -- 2v2, 5000 places, down to rating 1056 -- the API stops here, short of the cutoff
@@ -931,7 +931,7 @@ ns.LEADERBOARD_BY_REGION["us"] = {
 		{ rank=900, name="Getstøned", realm="raden", rating=1950, won=48, lost=29, faction="ALLIANCE", dr=0, dk=13 },
 		{ rank=900, name="Jabbawøckeez", realm="raden", rating=1950, won=74, lost=58, faction="ALLIANCE", dr=0, dk=13 },
 		{ rank=900, name="Lighi", realm="raden", rating=1950, won=102, lost=104, faction="ALLIANCE", dr=-22, dk=87 },
-		{ rank=900, name="Nvxl", realm="pagle", rating=1950, won=36, lost=15, faction="ALLIANCE", dr=89, dk=-374 },
+		{ rank=900, name="Nvxl", realm="pagle", rating=1950, won=36, lost=16, faction="ALLIANCE", dr=89, dk=-374 },
 		{ rank=907, name="Annoyinghunt", realm="immerseus", rating=1949, won=139, lost=139, faction="ALLIANCE", dr=0, dk=13 },
 		{ rank=907, name="Chelmer", realm="pagle", rating=1949, won=69, lost=56, faction="ALLIANCE", dr=0, dk=13 },
 		{ rank=907, name="Francispain", realm="pagle", rating=1949, won=178, lost=179, faction="HORDE", dr=62, dk=-264 },
