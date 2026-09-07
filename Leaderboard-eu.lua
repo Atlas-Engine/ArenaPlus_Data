@@ -17,7 +17,7 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region eu, season 14, read 2026-09-07 04:55 AM.
+-- Region eu, season 14, read 2026-09-07 05:55 AM.
 -- Realm display names, because the ladder only carries slugs and no rule
 -- turns one back into the other: raden is Ra-den, lei-shen is Lei Shen and
 -- arugal-au is Arugal (AU). Read from Blizzard's realm index; a slug with no
@@ -34,8 +34,8 @@ ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["eu"] = {
 	region  = "eu",
-	checked = "2026-09-07 04:55 AM",
-	checkedEpoch = 1788771325,
+	checked = "2026-09-07 05:55 AM",
+	checkedEpoch = 1788774927,
 	snapshot = "2026-09-07 07:14",
 
 	[1] = {  -- 2v2, 5000 places, down to rating 1046 -- the API stops here, short of the cutoff
@@ -1921,7 +1921,7 @@ ns.LEADERBOARD_BY_REGION["eu"] = {
 		{ rank=1878, name="Ezkill", realm="shekzeer", rating=1833, won=126, lost=113, faction="ALLIANCE", dr=0, dk=33 },
 		{ rank=1878, name="Kavabangax", realm="shekzeer", rating=1833, won=96, lost=97, faction="ALLIANCE", dr=0, dk=33 },
 		{ rank=1878, name="Nëgân", realm="auberdine", rating=1833, won=121, lost=137, faction="HORDE", dr=0, dk=33 },
-		{ rank=1878, name="Voorh", realm="shekzeer", rating=1833, won=32, lost=30, faction="ALLIANCE" },
+		{ rank=1878, name="Voorh", realm="shekzeer", rating=1833, won=33, lost=33, faction="ALLIANCE" },
 		{ rank=1884, name="Bullencop", realm="ook-ook", rating=1832, won=40, lost=29, faction="HORDE", dr=0, dk=34 },
 		{ rank=1884, name="Katoyui", realm="garalon", rating=1832, won=65, lost=60, faction="ALLIANCE", dr=0, dk=34 },
 		{ rank=1884, name="Lëvi", realm="mirage-raceway", rating=1832, won=62, lost=61, faction="HORDE", dr=0, dk=34 },

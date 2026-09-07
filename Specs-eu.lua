@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5233 characters, read 2026-09-07 04:55 AM.
+-- Region eu, 5233 characters, read 2026-09-07 05:55 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5489,7 +5489,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bennydk-shekzeer"]=8,
 	["beññy-mirage-raceway"]=34,
 	["bennyr-shekzeer"]=24,
-	["benny-shekzeer"]=1,
+	["benny-shekzeer"]=25,
 	["beññy-shekzeer"]=6,
 	["benpoppy-mirage-raceway"]=24,
 	["bentli-shekzeer"]=24,
@@ -5719,7 +5719,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["causamortis-mirage-raceway"]=4,
 	["causeram-garalon"]=11,
 	["cavernicola-garalon"]=8,
-	["cavitaas-ook-ook"]=1,
+	["cavitaas-ook-ook"]=25,
 	["cavitas-everlook"]=1,
 	["cavko-shekzeer"]=20,
 	["cazador-shekzeer"]=4,
@@ -5985,7 +5985,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["deathndelay-shekzeer"]=8,
 	["dèáthsmile-shekzeer"]=1,
 	["deathwarr-shekzeer"]=1,
-	["deathwàrs-auberdine"]=1,
+	["deathwàrs-auberdine"]=25,
 	["decader-norushen"]=24,
 	["deepfreezee-shekzeer"]=2,
 	["deepfull-shekzeer"]=2,
@@ -6415,7 +6415,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["founcy-garalon"]=26,
 	["founcy-shekzeer"]=26,
 	["fournaîse-auberdine"]=10,
-	["foxløl-everlook"]=1,
+	["foxløl-everlook"]=18,
 	["foxlôlly-everlook"]=6,
 	["foxlollyx-ook-ook"]=19,
 	["fractalshow-shekzeer"]=11,
@@ -6647,7 +6647,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["hasuni-shekzeer"]=9,
 	["haudruff-mirage-raceway"]=1,
 	["hauq-shekzeer"]=0,
-	["havana-ook-ook"]=1,
+	["havana-ook-ook"]=18,
 	["havecluelol-shekzeer"]=20,
 	["havitýx-shekzeer"]=0,
 	["havnis-garalon"]=3,
@@ -7613,7 +7613,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["metis-shekzeer"]=20,
 	["mewkaqt-shekzeer"]=26,
 	["mhealkà-auberdine"]=30,
-	["mhhye-shekzeer"]=21,
+	["mhhye-shekzeer"]=11,
 	["mhyaazz-hoptallus"]=14,
 	["micayahr-everlook"]=24,
 	["michaell-shekzeer"]=24,
@@ -7737,7 +7737,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["mookis-shekzeer"]=21,
 	["moonlee-shekzeer"]=7,
 	["moonli-shekzeer"]=19,
-	["moonshadow-shekzeer"]=7,
+	["moonshadow-shekzeer"]=6,
 	["møonzqt-auberdine"]=1,
 	["mopsaint-shekzeer"]=14,
 	["mopster-norushen"]=6,
@@ -9917,7 +9917,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Бладых-flamegor"]=22,
 	["Близзняшка-flamegor"]=32,
 	["Близнец-flamegor"]=24,
-	["Блэйди-flamegor"]=29,
+	["Блэйди-flamegor"]=7,
 	["Боббикиллер-flamegor"]=33,
 	["Бодифитнесс-flamegor"]=15,
 	["Бонефлэтчэр-flamegor"]=4,
