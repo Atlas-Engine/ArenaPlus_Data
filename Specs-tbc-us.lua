@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 10710 characters, read 2026-09-07 07:14 AM.
+-- Region tbc-us, 10710 characters, read 2026-09-07 08:14 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12595,7 +12595,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["cultxo-nightslayer"]=14,
 	["cuminmei-nightslayer"]=0,
 	["cumplx-dreamscythe"]=19,
-	["cumviction-nightslayer"]=25,
+	["cumviction-nightslayer"]=11,
 	["cunningd-nightslayer"]=4,
 	["curintt-dreamscythe"]=5,
 	["cursedfire-nightslayer"]=5,
@@ -13785,7 +13785,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["fibonachi-nightslayer"]=10,
 	["fibonacii-nightslayer"]=1,
 	["fictian-nightslayer"]=6,
-	["fictianpal-nightslayer"]=25,
+	["fictianpal-nightslayer"]=11,
 	["fictianrogue-nightslayer"]=0,
 	["fiestafrank-nightslayer"]=10,
 	["figenzo-nightslayer"]=3,
@@ -14453,7 +14453,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["gulch-nightslayer"]=8,
 	["gulfwarvet-nightslayer"]=22,
 	["guliaf-dreamscythe"]=15,
-	["guliveris-nightslayer"]=25,
+	["guliveris-nightslayer"]=11,
 	["gumchain-nightslayer"]=10,
 	["gummy-nightslayer"]=1,
 	["gumsack-nightslayer"]=4,
@@ -15222,7 +15222,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["jimmyrichter-dreamscythe"]=5,
 	["jimmysboo-nightslayer"]=13,
 	["jimmythelord-nightslayer"]=18,
-	["jinax-nightslayer"]=9,
+	["jinax-nightslayer"]=11,
 	["jinck-nightslayer"]=4,
 	["jinggu-nightslayer"]=3,
 	["jingjingbaby-nightslayer"]=7,
@@ -18547,7 +18547,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["scarab-nightslayer"]=10,
 	["scarecrow-nightslayer"]=4,
 	["scarfie-dreamscythe"]=7,
-	["scarlettjane-nightslayer"]=14,
+	["scarlettjane-nightslayer"]=12,
 	["scaryflocks-nightslayer"]=5,
 	["schadénfreud-nightslayer"]=22,
 	["schartzxy-nightslayer"]=13,
