@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5143 characters, read 2026-09-08 01:00 PM.
+-- Region us, 5143 characters, read 2026-09-08 02:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1677,6 +1677,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["gcdru-raden"]=41,
 	["gcdsk-raden"]=50,
 	["gcmte-raden"]=10,
+	["gc-raden"]=41,
 	["gcsurv-raden"]=11,
 	["gcwr-raden"]=20,
 	["geddon-raden"]=40,
@@ -3052,7 +3053,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["nergal-lei-shen"]=10,
 	["nerxxiz-raden"]=11,
 	["neshard-galakras"]=21,
-	["netcheoff-raden"]=11,
 	["nétero-nazgrim"]=50,
 	["neterô-raden"]=10,
 	["nethria-raden"]=41,
@@ -6656,6 +6656,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["gcdru-raden"]=17,
 	["gcdsk-raden"]=21,
 	["gcmte-raden"]=21,
+	["gc-raden"]=21,
 	["gcsurv-raden"]=3,
 	["gcwr-raden"]=7,
 	["geddon-raden"]=17,
@@ -8098,7 +8099,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["nergal-lei-shen"]=24,
 	["nerxxiz-raden"]=16,
 	["neshard-galakras"]=7,
-	["netcheoff-raden"]=4,
 	["nétero-nazgrim"]=24,
 	["neterô-raden"]=4,
 	["nethria-raden"]=5,
