@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5143 characters, read 2026-09-08 07:00 AM.
+-- Region us, 5143 characters, read 2026-09-08 08:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -206,7 +206,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["anêl-pagle"]=50,
 	["aneur-pagle"]=10,
 	["angelrrl-galakras"]=20,
-	["angrycubanx-raden"]=11,
 	["angrydewd-raden"]=10,
 	["anihalator-pagle"]=10,
 	["anikdote-raden"]=11,
@@ -1067,6 +1066,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["deputyd-lei-shen"]=40,
 	["derf-nazgrim"]=80,
 	["derion-galakras"]=10,
+	["deriosx-pagle"]=11,
 	["derklek-pagle"]=80,
 	["desdrix-pagle"]=11,
 	["desecration-raden"]=10,
@@ -3676,7 +3676,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["role-galakras"]=21,
 	["rollriptide-pagle"]=111,
 	["rollwon-raden"]=10,
-	["romanticide-raden"]=11,
 	["romdruid-pagle"]=61,
 	["ronag-galakras"]=31,
 	["röninraged-galakras"]=21,
@@ -3772,6 +3771,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["saxagewolf-pagle"]=10,
 	["saydar-raden"]=11,
 	["sayuka-raden"]=11,
+	["sazzieu-raden"]=10,
 	["scarlen-pagle"]=11,
 	["scarybarnowl-grobbulus"]=80,
 	["scarykitty-raden"]=41,
@@ -5114,7 +5114,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["anêl-pagle"]=21,
 	["aneur-pagle"]=7,
 	["angelrrl-galakras"]=7,
-	["angrycubanx-raden"]=2,
 	["angrydewd-raden"]=23,
 	["anihalator-pagle"]=26,
 	["anikdote-raden"]=16,
@@ -6016,6 +6015,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["deputyd-lei-shen"]=5,
 	["derf-nazgrim"]=12,
 	["derion-galakras"]=16,
+	["deriosx-pagle"]=2,
 	["derklek-pagle"]=3,
 	["desdrix-pagle"]=7,
 	["desecration-raden"]=6,
@@ -8750,7 +8750,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["role-galakras"]=20,
 	["rollriptide-pagle"]=15,
 	["rollwon-raden"]=10,
-	["romanticide-raden"]=1,
 	["romdruid-pagle"]=5,
 	["rompah-raden"]=0,
 	["ronag-galakras"]=15,
@@ -8853,6 +8852,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["saxagewolf-pagle"]=7,
 	["saydar-raden"]=1,
 	["sayuka-raden"]=4,
+	["sazzieu-raden"]=7,
 	["scarlen-pagle"]=1,
 	["scarybarnowl-grobbulus"]=17,
 	["scarykitty-raden"]=5,
