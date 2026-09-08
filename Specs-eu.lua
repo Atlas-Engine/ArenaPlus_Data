@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5235 characters, read 2026-09-08 08:55 AM.
+-- Region eu, 5235 characters, read 2026-09-08 09:55 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -99,7 +99,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["adamsecurity-shekzeer"]=11,
 	["adanae-norushen"]=101,
 	["adarä-shekzeer"]=11,
-	["aderallmeta-shekzeer"]=41,
 	["adesanya-shekzeer"]=20,
 	["adimor-mirage-raceway"]=250,
 	["adonix-auberdine"]=50,
@@ -1379,6 +1378,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["frikadella-shekzeer"]=111,
 	["frodin-shekzeer"]=30,
 	["froheostern-shekzeer"]=11,
+	["frøøst-shekzeer"]=11,
 	["frôststyle-mirage-raceway"]=11,
 	["froxman-norushen"]=20,
 	["frozche-shekzeer"]=11,
@@ -3328,7 +3328,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["rockmage-shekzeer"]=10,
 	["rockshoxgirl-everlook"]=31,
 	["rockyx-shekzeer"]=41,
-	["rodeg-shekzeer"]=41,
 	["rodegtri-shekzeer"]=41,
 	["rodnichek-shekzeer"]=11,
 	["rodnichekx-shekzeer"]=11,
@@ -3552,6 +3551,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["shiningday-shekzeer"]=41,
 	["shinni-mirage-raceway"]=11,
 	["shirleh-shekzeer"]=11,
+	["shiryup-auberdine"]=11,
 	["shiryuù-auberdine"]=11,
 	["shixx-ook-ook"]=11,
 	["shizemstab-shekzeer"]=220,
@@ -5108,7 +5108,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["adamsecurity-shekzeer"]=9,
 	["adanae-norushen"]=15,
 	["adarä-shekzeer"]=15,
-	["aderallmeta-shekzeer"]=3,
 	["adesanya-shekzeer"]=7,
 	["adimor-mirage-raceway"]=6,
 	["adonix-auberdine"]=8,
@@ -6444,6 +6443,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["frisbo-shekzeer"]=0,
 	["frodin-shekzeer"]=19,
 	["froheostern-shekzeer"]=9,
+	["frøøst-shekzeer"]=2,
 	["frôststyle-mirage-raceway"]=2,
 	["froxman-norushen"]=18,
 	["frozche-shekzeer"]=6,
@@ -8495,7 +8495,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["rockmage-shekzeer"]=2,
 	["rockshoxgirl-everlook"]=13,
 	["rockyx-shekzeer"]=9,
-	["rodeg-shekzeer"]=3,
 	["rodegtri-shekzeer"]=3,
 	["rodnichek-shekzeer"]=24,
 	["rodnichekx-shekzeer"]=2,
@@ -8727,6 +8726,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["shiningday-shekzeer"]=3,
 	["shinni-mirage-raceway"]=12,
 	["shirleh-shekzeer"]=2,
+	["shiryup-auberdine"]=1,
 	["shiryuù-auberdine"]=9,
 	["shixx-ook-ook"]=1,
 	["shizemstab-shekzeer"]=24,
