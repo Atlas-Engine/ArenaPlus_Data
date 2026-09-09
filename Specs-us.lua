@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5144 characters, read 2026-09-09 04:00 AM.
+-- Region us, 5145 characters, read 2026-09-09 05:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -288,6 +288,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["asunyobi-pagle"]=261,
 	["athought-pagle"]=41,
 	["atiko-galakras"]=51,
+	["atomicblast-immerseus"]=90,
 	["atowel-galakras"]=50,
 	["atrâyu-pagle"]=100,
 	["atreyuz-galakras"]=20,
@@ -1296,6 +1297,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["Ðyst-pagle"]=21,
 	["dÿzzi-pagle"]=50,
 	["dzenku-pagle"]=40,
+	["dzyx-pagle"]=50,
 	["easyassclass-raden"]=11,
 	["easywork-arugal-au"]=11,
 	["easyw-raden"]=11,
@@ -5198,6 +5200,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["asunyobi-pagle"]=10,
 	["athought-pagle"]=18,
 	["atiko-galakras"]=7,
+	["atomicblast-immerseus"]=22,
 	["atowel-galakras"]=13,
 	["atrâyu-pagle"]=16,
 	["atreyuz-galakras"]=7,
@@ -6261,6 +6264,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["Ðyst-pagle"]=11,
 	["dÿzzi-pagle"]=14,
 	["dzenku-pagle"]=27,
+	["dzyx-pagle"]=9,
 	["easyassclass-raden"]=10,
 	["easymode-nazgrim"]=0,
 	["easywork-arugal-au"]=1,
@@ -8033,7 +8037,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["naghvoid-grobbulus"]=21,
 	["naigerle-pagle"]=24,
 	["nairtas-nazgrim"]=3,
-	["nalx-raden"]=0,
 	["naniaids-lei-shen"]=28,
 	["nanismasha-lei-shen"]=15,
 	["nanistab-lei-shen"]=29,
