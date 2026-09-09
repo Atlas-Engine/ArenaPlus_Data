@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 11160 characters, read 2026-09-08 08:08 PM.
+-- Region tbc-eu, 11160 characters, read 2026-09-08 09:08 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -146,8 +146,8 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["Æxzo-spineshatter"]=21,
 	["Æzerøth-spineshatter"]=111,
 	["Æz-spineshatter"]=21,
-	["aezys-spineshatter"]=50,
 	["Æzys-spineshatter"]=111,
+	["aezys-spineshatter"]=50,
 	["afflígem-spineshatter"]=21,
 	["afflikékz-spineshatter"]=11,
 	["afhn-spineshatter"]=11,
@@ -9113,8 +9113,8 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["stacato-spineshatter"]=60,
 	["städlena-spineshatter"]=41,
 	["staebchen-thunderstrike"]=30,
-	["stædt-spineshatter"]=21,
 	["staedt-spineshatter"]=21,
+	["stædt-spineshatter"]=21,
 	["stalnietitki-spineshatter"]=21,
 	["stålprälle-spineshatter"]=50,
 	["stâl-spineshatter"]=61,
@@ -11195,8 +11195,8 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["Æxzo-spineshatter"]=5,
 	["Æzerøth-spineshatter"]=11,
 	["Æz-spineshatter"]=11,
-	["aezys-spineshatter"]=2,
 	["Æzys-spineshatter"]=23,
+	["aezys-spineshatter"]=2,
 	["afflígem-spineshatter"]=13,
 	["afflikékz-spineshatter"]=5,
 	["afhn-spineshatter"]=0,
@@ -20257,8 +20257,8 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["stacato-spineshatter"]=0,
 	["städlena-spineshatter"]=1,
 	["staebchen-thunderstrike"]=2,
-	["stædt-spineshatter"]=25,
 	["staedt-spineshatter"]=25,
+	["stædt-spineshatter"]=25,
 	["stallown-spineshatter"]=0,
 	["stalnietitki-spineshatter"]=11,
 	["stålprälle-spineshatter"]=17,
