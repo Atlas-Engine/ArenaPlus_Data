@@ -17,7 +17,7 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region eu, season 14, read 2026-09-08 11:55 PM.
+-- Region eu, season 14, read 2026-09-09 12:55 AM.
 -- Realm display names, because the ladder only carries slugs and no rule
 -- turns one back into the other: raden is Ra-den, lei-shen is Lei Shen and
 -- arugal-au is Arugal (AU). Read from Blizzard's realm index; a slug with no
@@ -34,9 +34,9 @@ ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["eu"] = {
 	region  = "eu",
-	checked = "2026-09-08 11:55 PM",
-	checkedEpoch = 1788926130,
-	snapshot = "2026-09-09 01:14",
+	checked = "2026-09-09 12:55 AM",
+	checkedEpoch = 1788929738,
+	snapshot = "2026-09-09 04:14",
 
 	[1] = {  -- 2v2, 5003 places, down to rating 1045 -- the API stops here, short of the cutoff
 		{ rank=1, name="Backinbsns", realm="shekzeer", rating=2664, won=123, lost=9, faction="ALLIANCE", dr=0, dk=0 },
@@ -778,7 +778,7 @@ ns.LEADERBOARD_BY_REGION["eu"] = {
 		{ rank=737, name="Bibeed", realm="shekzeer", rating=2069, won=46, lost=24, faction="ALLIANCE", dr=0, dk=46 },
 		{ rank=737, name="Ciganino", realm="shekzeer", rating=2069, won=127, lost=116, faction="ALLIANCE", dr=43, dk=-119 },
 		{ rank=737, name="Ihavetopoo", realm="shekzeer", rating=2069, won=129, lost=128, faction="ALLIANCE", dr=48, dk=-140 },
-		{ rank=737, name="Kryza", realm="shekzeer", rating=2069, won=53, lost=21, faction="ALLIANCE", dr=56, dk=-176 },
+		{ rank=737, name="Kryza", realm="shekzeer", rating=2069, won=53, lost=21, faction="HORDE", dr=56, dk=-176 },
 		{ rank=737, name="Будрыкк", realm="flamegor", rating=2069, won=473, lost=468, faction="HORDE", dr=0, dk=46 },
 		{ rank=742, name="Hls", realm="shekzeer", rating=2068, won=108, lost=89, faction="ALLIANCE", dr=0, dk=49 },
 		{ rank=742, name="Purest", realm="shekzeer", rating=2068, won=58, lost=47, faction="ALLIANCE", dr=0, dk=49 },
@@ -5759,7 +5759,7 @@ ns.LEADERBOARD_BY_REGION["eu"] = {
 		{ rank=177, name="Cyantix", realm="everlook", rating=1706, won=18, lost=12, faction="ALLIANCE", dr=0, dk=-1 },
 		{ rank=177, name="Knifemare", realm="shekzeer", rating=1706, won=22, lost=15, faction="ALLIANCE", dr=-19, dk=12 },
 		{ rank=179, name="Blckmatt", realm="shekzeer", rating=1704, won=22, lost=3, faction="ALLIANCE", dr=0, dk=0 },
-		{ rank=180, name="Måjïvü", realm="shekzeer", rating=1702, won=15, lost=5, faction="ALLIANCE", dr=0, dk=0 },
+		{ rank=180, name="Måjïvü", realm="shekzeer", rating=1702, won=15, lost=5, faction="HORDE", dr=0, dk=0 },
 		{ rank=181, name="Guesspal", realm="shekzeer", rating=1697, won=20, lost=4, faction="ALLIANCE", dr=0, dk=-1 },
 		{ rank=182, name="Irishmyth", realm="mirage-raceway", rating=1696, won=16, lost=20, faction="ALLIANCE", dr=0, dk=-1 },
 		{ rank=182, name="Kallagala", realm="mirage-raceway", rating=1696, won=20, lost=10, faction="ALLIANCE", dr=0, dk=-1 },
