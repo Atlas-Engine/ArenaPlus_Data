@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 10554 characters, read 2026-09-09 02:14 AM.
+-- Region tbc-us, 10554 characters, read 2026-09-09 03:14 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12389,7 +12389,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["culgulheru-nightslayer"]=6,
 	["culturesz-nightslayer"]=11,
 	["cultxo-nightslayer"]=14,
-	["cumviction-nightslayer"]=25,
+	["cumviction-nightslayer"]=11,
 	["cunningd-nightslayer"]=4,
 	["curintt-dreamscythe"]=5,
 	["cursedfire-nightslayer"]=5,
@@ -13448,7 +13448,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["farmer-nightslayer"]=6,
 	["farmingyou-nightslayer"]=4,
 	["fartingbuttx-nightslayer"]=7,
-	["fartlybutt-dreamscythe"]=9,
+	["fartlybutt-dreamscythe"]=11,
 	["fartqueenx-nightslayer"]=11,
 	["fashotinyy-nightslayer"]=0,
 	["fastex-nightslayer"]=5,
@@ -13546,7 +13546,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["fibonachi-nightslayer"]=10,
 	["fibonacii-nightslayer"]=1,
 	["fictian-nightslayer"]=6,
-	["fictianpal-nightslayer"]=25,
+	["fictianpal-nightslayer"]=11,
 	["fictianrogue-nightslayer"]=0,
 	["fiestafrank-nightslayer"]=10,
 	["figenzo-nightslayer"]=3,
@@ -14200,7 +14200,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["gukos-nightslayer"]=2,
 	["gulch-nightslayer"]=8,
 	["guliaf-dreamscythe"]=15,
-	["guliveris-nightslayer"]=25,
+	["guliveris-nightslayer"]=11,
 	["gumbotb-nightslayer"]=13,
 	["gumchain-nightslayer"]=10,
 	["gummy-nightslayer"]=1,
@@ -14977,7 +14977,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["jimmyp-nightslayer"]=1,
 	["jimmyrichter-dreamscythe"]=5,
 	["jimmysboo-nightslayer"]=13,
-	["jinax-nightslayer"]=9,
+	["jinax-nightslayer"]=11,
 	["jinck-nightslayer"]=4,
 	["jingjingbaby-nightslayer"]=7,
 	["jinkiez-dreamscythe"]=2,
@@ -16754,7 +16754,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["nobunad-nightslayer"]=6,
 	["nobzz-nightslayer"]=4,
 	["nockery-nightslayer"]=11,
-	["noctìs-nightslayer"]=25,
+	["noctìs-nightslayer"]=11,
 	["noctreign-nightslayer"]=4,
 	["nocturnùs-dreamscythe"]=7,
 	["nodl-nightslayer"]=5,

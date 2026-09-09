@@ -42,7 +42,7 @@ local ns = ArenaPlusData
 -- source_item, so gems are stored as real item ids the client can draw and only
 -- the enchant text has to ship.
 --
--- Region eu, 382 characters, 338 glyph names, read 2026-09-09 02:20 AM.
+-- Region eu, 382 characters, 338 glyph names, read 2026-09-09 03:20 AM.
 ns.GLYPH_NAMES = ns.GLYPH_NAMES or {}
 
 for id, name in pairs({
