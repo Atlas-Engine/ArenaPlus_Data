@@ -17,7 +17,7 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region eu, season 14, read 2026-09-09 04:55 AM.
+-- Region eu, season 14, read 2026-09-09 05:55 AM.
 -- Realm display names, because the ladder only carries slugs and no rule
 -- turns one back into the other: raden is Ra-den, lei-shen is Lei Shen and
 -- arugal-au is Arugal (AU). Read from Blizzard's realm index; a slug with no
@@ -34,8 +34,8 @@ ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["eu"] = {
 	region  = "eu",
-	checked = "2026-09-09 04:55 AM",
-	checkedEpoch = 1788944147,
+	checked = "2026-09-09 05:55 AM",
+	checkedEpoch = 1788947732,
 	snapshot = "2026-09-09 07:14",
 
 	[1] = {  -- 2v2, 5004 places, down to rating 1045 -- the API stops here, short of the cutoff
@@ -3994,7 +3994,7 @@ ns.LEADERBOARD_BY_REGION["eu"] = {
 		{ rank=3950, name="Mulltikill", realm="mirage-raceway", rating=1567, won=22, lost=24, faction="ALLIANCE", dr=0, dk=99 },
 		{ rank=3950, name="Pupunya", realm="shekzeer", rating=1567, won=18, lost=7, faction="ALLIANCE", dr=0, dk=99 },
 		{ rank=3950, name="Umzi", realm="shekzeer", rating=1567, won=24, lost=28, faction="ALLIANCE", dr=0, dk=99 },
-		{ rank=3950, name="Zuppron", realm="shekzeer", rating=1567, won=37, lost=76, faction="ALLIANCE" },
+		{ rank=3950, name="Zuppron", realm="shekzeer", rating=1567, won=39, lost=78, faction="ALLIANCE" },
 		{ rank=3957, name="Chamonix", realm="norushen", rating=1566, won=52, lost=73, faction="HORDE", dr=93, dk=-652 },
 		{ rank=3957, name="Ciganica", realm="mirage-raceway", rating=1566, won=28, lost=30, faction="ALLIANCE", dr=0, dk=98 },
 		{ rank=3957, name="Gres", realm="auberdine", rating=1566, won=47, lost=52, faction="ALLIANCE", dr=0, dk=98 },
