@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5145 characters, read 2026-09-08 11:00 PM.
+-- Region us, 5145 characters, read 2026-09-09 12:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6032,7 +6032,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["detrasdeti-nazgrim"]=29,
 	["devey-lei-shen"]=8,
 	["deviancegodx-raden"]=9,
-	["devour-pagle"]=9,
+	["devour-pagle"]=21,
 	["devx-pagle"]=12,
 	["devzi-pagle"]=20,
 	["devzo-pagle"]=15,
@@ -6540,7 +6540,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["fooksumbody-pagle"]=13,
 	["forbes-pagle"]=4,
 	["forecast-pagle"]=1,
-	["forever-pagle"]=9,
+	["forever-pagle"]=13,
 	["forgotoshift-pagle"]=5,
 	["forion-galakras"]=3,
 	["førmality-raden"]=1,
@@ -7135,7 +7135,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["inperitus-arugal-au"]=19,
 	["insomniaxx-pagle"]=14,
 	["instantcarry-raden"]=10,
-	["integrityqt-pagle"]=9,
+	["integrityqt-pagle"]=13,
 	["intercepts-pagle"]=7,
 	["intrerri-pagle"]=34,
 	["intru-raden"]=3,
@@ -8315,7 +8315,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ows-pagle"]=22,
 	["oxandrolon-pagle"]=16,
 	["Øxx-pagle"]=10,
-	["oxy-arugal-au"]=9,
+	["oxy-arugal-au"]=13,
 	["oxydd-arugal-au"]=5,
 	["oxydudu-arugal-au"]=5,
 	["oxzi-pagle"]=1,
@@ -8466,7 +8466,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["portholio-pagle"]=4,
 	["potatoes-arugal-au"]=18,
 	["potatome-pagle"]=16,
-	["pouletpoulet-pagle"]=9,
+	["pouletpoulet-pagle"]=13,
 	["pouncecat-pagle"]=17,
 	["pöwër-raden"]=16,
 	["powrshields-lei-shen"]=21,
@@ -9158,7 +9158,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["sofeorr-pagle"]=3,
 	["sofí-pagle"]=4,
 	["solaarflare-pagle"]=7,
-	["solarshield-raden"]=9,
+	["solarshield-raden"]=13,
 	["solartide-pagle"]=19,
 	["solorr-pagle"]=4,
 	["solorzz-pagle"]=7,
