@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5145 characters, read 2026-09-08 07:00 PM.
+-- Region us, 5146 characters, read 2026-09-08 08:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3113,6 +3113,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["nomercy-raden"]=21,
 	["nomids-pagle"]=221,
 	["nomoneys-arugal-au"]=20,
+	["noneedrdruid-raden"]=41,
 	["nooki-raden"]=11,
 	["nopants-raden"]=10,
 	["norespect-pagle"]=10,
@@ -4232,6 +4233,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["supërgrëmlin-pagle"]=10,
 	["superjoo-pagle"]=20,
 	["supermongo-pagle"]=20,
+	["supérsaiyan-raden"]=10,
 	["superstikkyy-pagle"]=100,
 	["supersweat-pagle"]=11,
 	["sushibanks-pagle"]=10,
@@ -8162,6 +8164,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["nomercy-raden"]=1,
 	["nomids-pagle"]=20,
 	["nomoneys-arugal-au"]=25,
+	["noneedrdruid-raden"]=5,
 	["nooki-raden"]=20,
 	["nopants-raden"]=1,
 	["norespect-pagle"]=7,
@@ -9230,7 +9233,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["spowy-pagle"]=34,
 	["spq-pagle"]=0,
 	["spreadpres-pagle"]=5,
-	["sprintaa-pagle"]=0,
 	["spudbudz-pagle"]=21,
 	["spuntville-pagle"]=22,
 	["sqntzi-pagle"]=17,
@@ -9346,6 +9348,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["supërgrëmlin-pagle"]=8,
 	["superjoo-pagle"]=14,
 	["supermongo-pagle"]=7,
+	["supérsaiyan-raden"]=16,
 	["superstikkyy-pagle"]=29,
 	["supersweat-pagle"]=7,
 	["survivorzx-raden"]=0,
