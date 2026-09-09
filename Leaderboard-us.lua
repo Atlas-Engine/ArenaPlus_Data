@@ -17,7 +17,7 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region us, season 14, read 2026-09-09 12:00 PM.
+-- Region us, season 14, read 2026-09-09 01:00 PM.
 -- Realm display names, because the ladder only carries slugs and no rule
 -- turns one back into the other: raden is Ra-den, lei-shen is Lei Shen and
 -- arugal-au is Arugal (AU). Read from Blizzard's realm index; a slug with no
@@ -34,8 +34,8 @@ ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["us"] = {
 	region  = "us",
-	checked = "2026-09-09 12:00 PM",
-	checkedEpoch = 1788969613,
+	checked = "2026-09-09 01:00 PM",
+	checkedEpoch = 1788973213,
 	snapshot = "2026-09-09 14:16",
 
 	[1] = {  -- 2v2, 5003 places, down to rating 1055 -- the API stops here, short of the cutoff
@@ -2252,7 +2252,7 @@ ns.LEADERBOARD_BY_REGION["us"] = {
 		{ rank=2206, name="Johanlaj", realm="raden", rating=1738, won=33, lost=27, faction="ALLIANCE", dr=0, dk=72 },
 		{ rank=2206, name="Kaelee", realm="pagle", rating=1738, won=57, lost=66, faction="ALLIANCE", dr=0, dk=72 },
 		{ rank=2206, name="Kozzonax", realm="raden", rating=1738, won=43, lost=35, faction="ALLIANCE", dr=152, dk=-1389 },
-		{ rank=2206, name="Netcheoff", realm="raden", rating=1738, won=26, lost=12, faction="ALLIANCE", dr=-301, dk=1647 },
+		{ rank=2206, name="Netcheoff", realm="raden", rating=1738, won=26, lost=13, faction="ALLIANCE", dr=-301, dk=1647 },
 		{ rank=2206, name="Nrash", realm="raden", rating=1738, won=43, lost=40, faction="ALLIANCE", dr=0, dk=72 },
 		{ rank=2206, name="Sklutz", realm="raden", rating=1738, won=29, lost=17, faction="ALLIANCE", dr=224, dk=-2115 },
 		{ rank=2206, name="Stooter", realm="nazgrim", rating=1738, won=26, lost=29, faction="ALLIANCE", dr=0, dk=72 },
