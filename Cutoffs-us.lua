@@ -12,14 +12,14 @@ local ns = ArenaPlusData
 -- Arena title cutoffs, written by tools\UpdateFromBlizzard.ps1 from Blizzard's
 -- own API. Do not edit by hand: rerun the script to refresh.
 --
--- Region us, season 14, cutoffs last changed 2026-09-07 10:15 AM, last checked 2026-09-09 07:00 AM.
+-- Region us, season 14, cutoffs last changed 2026-09-07 10:15 AM, last checked 2026-09-09 08:00 AM.
 ns.CUTOFFS_BY_REGION = ns.CUTOFFS_BY_REGION or {}
 
 ns.CUTOFFS_BY_REGION["us"] = {
 	region  = "us",
 	updated = "2026-09-07 10:15 AM",
-	checked = "2026-09-09 07:00 AM",
-	checkedEpoch = 1788951613,
+	checked = "2026-09-09 08:00 AM",
+	checkedEpoch = 1788955212,
 
 	[1] = { r1=2527, gladiator=2234, duelist=2077, rival=1809, challenger=1056 }, -- 2v2
 	[2] = { r1=2400, gladiator=1909, duelist=1818, rival=1618, challenger=864 }, -- 3v3
@@ -32,8 +32,8 @@ ns.CUTOFFS_BY_REGION["us"] = {
 ns.CUTOFF_SLOTS_BY_REGION = ns.CUTOFF_SLOTS_BY_REGION or {}
 
 ns.CUTOFF_SLOTS_BY_REGION["us"] = {
-	[1] = { r1=34, gladiator=209, duelist=502, rival=1664 }, -- 2v2
-	[2] = { r1=23, gladiator=190, duelist=224, rival=313, challenger=648 }, -- 3v3
+	[1] = { r1=35, gladiator=208, duelist=503, rival=1665 }, -- 2v2
+	[2] = { r1=23, gladiator=190, duelist=223, rival=312, challenger=647 }, -- 3v3
 	[3] = { r1=15, gladiator=113, duelist=119, rival=137, challenger=198 }, -- 5v5
 	[4] = { r1=3, duelist=8, rival=25, challenger=119 }, -- rbg
 }
