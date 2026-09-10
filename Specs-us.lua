@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5146 characters, read 2026-09-10 01:00 PM.
+-- Region us, 5147 characters, read 2026-09-10 02:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -205,6 +205,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["anêl-pagle"]=50,
 	["aneur-pagle"]=10,
 	["angelrrl-galakras"]=20,
+	["angrycubanx-raden"]=11,
 	["angrydewd-raden"]=10,
 	["anihalator-pagle"]=10,
 	["anikdote-raden"]=11,
@@ -4150,6 +4151,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["ßoozie-nazgrim"]=91,
 	["ßrøwñ-arugal-au"]=11,
 	["sßeve-lei-shen"]=40,
+	["ßulldøzer-pagle"]=60,
 	["ßxß-raden"]=11,
 	["ßylug-pagle"]=41,
 	["stabbath-raden"]=10,
@@ -5114,6 +5116,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["anêl-pagle"]=21,
 	["aneur-pagle"]=7,
 	["angelrrl-galakras"]=7,
+	["angrycubanx-raden"]=2,
 	["angrydewd-raden"]=23,
 	["anihalator-pagle"]=26,
 	["anikdote-raden"]=16,
@@ -6038,7 +6041,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["devz-pagle"]=7,
 	["devzu-pagle"]=1,
 	["dewy-raden"]=7,
-	["dexfiendx-pagle"]=0,
 	["dextko-raden"]=7,
 	["dezifreemen-arugal-au"]=21,
 	["dézz-raden"]=3,
@@ -9259,6 +9261,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ßoozie-nazgrim"]=9,
 	["ßrøwñ-arugal-au"]=7,
 	["sßeve-lei-shen"]=3,
+	["ßulldøzer-pagle"]=16,
 	["ßxß-raden"]=4,
 	["ßylug-pagle"]=17,
 	["stabbath-raden"]=14,
