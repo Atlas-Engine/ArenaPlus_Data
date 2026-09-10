@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5146 characters, read 2026-09-10 10:00 AM.
+-- Region us, 5146 characters, read 2026-09-10 11:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3026,6 +3026,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["neac-pagle"]=50,
 	["neat-immerseus"]=11,
 	["nebubanana-raden"]=81,
+	["nebuboom-nazgrim"]=41,
 	["nebugrape-raden"]=11,
 	["nebupeach-nazgrim"]=11,
 	["nebuplum-raden"]=20,
@@ -3675,7 +3676,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["role-galakras"]=21,
 	["rollriptide-pagle"]=111,
 	["rollwon-raden"]=10,
-	["romanticide-raden"]=11,
 	["romdruid-pagle"]=61,
 	["ronag-galakras"]=31,
 	["röninraged-galakras"]=21,
@@ -6009,7 +6009,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["delvina-raden"]=2,
 	["demicsx-nazgrim"]=8,
 	["demoncy-nazgrim"]=1,
-	["demongodbbx-raden"]=0,
 	["demonhome-raden"]=2,
 	["demonslayêr-galakras"]=6,
 	["deprivedsóul-pagle"]=25,
@@ -8073,6 +8072,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["neac-pagle"]=21,
 	["neat-immerseus"]=24,
 	["nebubanana-raden"]=28,
+	["nebuboom-nazgrim"]=17,
 	["nebugrape-raden"]=8,
 	["nebupeach-nazgrim"]=8,
 	["nebuplum-raden"]=8,
@@ -8751,7 +8751,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["role-galakras"]=20,
 	["rollriptide-pagle"]=15,
 	["rollwon-raden"]=10,
-	["romanticide-raden"]=1,
 	["romdruid-pagle"]=5,
 	["rompah-raden"]=0,
 	["ronag-galakras"]=15,
@@ -9872,6 +9871,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["wïntërwîtch-pagle"]=25,
 	["winterzface-nazgrim"]=25,
 	["wipedout-pagle"]=7,
+	["wispér-raden"]=0,
 	["wîzärdøføzz-raden"]=15,
 	["wìz-raden"]=21,
 	["wkndxo-raden"]=1,
