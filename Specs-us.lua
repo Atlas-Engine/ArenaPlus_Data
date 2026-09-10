@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5144 characters, read 2026-09-10 04:00 AM.
+-- Region us, 5147 characters, read 2026-09-10 05:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1679,6 +1679,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["gcdru-raden"]=41,
 	["gcdsk-raden"]=50,
 	["gcmte-raden"]=10,
+	["gc-raden"]=41,
 	["gcsurv-raden"]=11,
 	["gcwr-raden"]=20,
 	["geddon-raden"]=40,
@@ -2786,6 +2787,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["meditação-pagle"]=11,
 	["meditated-pagle"]=40,
 	["meecrob-pagle"]=10,
+	["mekimeij-raden"]=11,
 	["meleemagnet-raden"]=11,
 	["melliandraa-pagle"]=11,
 	["melòdy-nazgrim"]=21,
@@ -3377,6 +3379,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["poinge-pagle"]=41,
 	["poisonblades-pagle"]=70,
 	["poixon-pagle"]=10,
+	["poizøønzx-galakras"]=11,
 	["pokehunter-galakras"]=11,
 	["pokekek-raden"]=11,
 	["pokemonk-galakras"]=11,
@@ -6657,6 +6660,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["gcdru-raden"]=17,
 	["gcdsk-raden"]=21,
 	["gcmte-raden"]=21,
+	["gc-raden"]=21,
 	["gcsurv-raden"]=3,
 	["gcwr-raden"]=7,
 	["geddon-raden"]=17,
@@ -7817,6 +7821,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["meditação-pagle"]=16,
 	["meditated-pagle"]=12,
 	["meecrob-pagle"]=18,
+	["mekimeij-raden"]=1,
 	["meleemagnet-raden"]=9,
 	["melliandraa-pagle"]=21,
 	["melòdy-nazgrim"]=3,
@@ -8436,6 +8441,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["poinge-pagle"]=5,
 	["poisonblades-pagle"]=34,
 	["poixon-pagle"]=3,
+	["poizøønzx-galakras"]=34,
 	["pokehunter-galakras"]=3,
 	["pokekek-raden"]=14,
 	["pokemonk-galakras"]=10,
