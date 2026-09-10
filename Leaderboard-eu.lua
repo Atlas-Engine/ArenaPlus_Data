@@ -17,7 +17,7 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region eu, season 14, read 2026-09-10 04:55 AM.
+-- Region eu, season 14, read 2026-09-10 05:55 AM.
 -- Realm display names, because the ladder only carries slugs and no rule
 -- turns one back into the other: raden is Ra-den, lei-shen is Lei Shen and
 -- arugal-au is Arugal (AU). Read from Blizzard's realm index; a slug with no
@@ -34,8 +34,8 @@ ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["eu"] = {
 	region  = "eu",
-	checked = "2026-09-10 04:55 AM",
-	checkedEpoch = 1789030523,
+	checked = "2026-09-10 05:55 AM",
+	checkedEpoch = 1789034137,
 	snapshot = "2026-09-10 07:14",
 
 	[1] = {  -- 2v2, 5001 places, down to rating 1044 -- the API stops here, short of the cutoff
@@ -2687,7 +2687,7 @@ ns.LEADERBOARD_BY_REGION["eu"] = {
 		{ rank=2641, name="Kegrolls", realm="shekzeer", rating=1722, won=56, lost=62, faction="ALLIANCE", dr=0, dk=88 },
 		{ rank=2641, name="Longaotian", realm="ook-ook", rating=1722, won=27, lost=19, faction="HORDE", dr=0, dk=88 },
 		{ rank=2641, name="Rydothewl", realm="everlook", rating=1722, won=31, lost=30, faction="ALLIANCE", dr=0, dk=88 },
-		{ rank=2641, name="Siqu", realm="shekzeer", rating=1722, won=27, lost=17, faction="ALLIANCE", dr=-328, dk=1887 },
+		{ rank=2641, name="Siqu", realm="shekzeer", rating=1722, won=27, lost=19, faction="ALLIANCE", dr=-328, dk=1887 },
 		{ rank=2650, name="Mäkgalis", realm="shekzeer", rating=1721, won=50, lost=52, faction="ALLIANCE", dr=0, dk=88 },
 		{ rank=2650, name="Neptulíon", realm="shekzeer", rating=1721, won=30, lost=25, faction="ALLIANCE", dr=0, dk=88 },
 		{ rank=2650, name="Sâif", realm="mirage-raceway", rating=1721, won=83, lost=108, faction="HORDE", dr=-13, dk=174 },
