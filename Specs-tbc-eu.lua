@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 11085 characters, read 2026-09-10 08:08 AM.
+-- Region tbc-eu, 11085 characters, read 2026-09-10 09:07 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -145,8 +145,8 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["Æxzo-spineshatter"]=21,
 	["Æzerøth-spineshatter"]=111,
 	["Æz-spineshatter"]=21,
-	["aezys-spineshatter"]=50,
 	["Æzys-spineshatter"]=111,
+	["aezys-spineshatter"]=50,
 	["afflígem-spineshatter"]=21,
 	["afflikékz-spineshatter"]=11,
 	["afjea-spineshatter"]=50,
@@ -11120,8 +11120,8 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["Æxzo-spineshatter"]=5,
 	["Æzerøth-spineshatter"]=11,
 	["Æz-spineshatter"]=11,
-	["aezys-spineshatter"]=2,
 	["Æzys-spineshatter"]=23,
+	["aezys-spineshatter"]=2,
 	["afflígem-spineshatter"]=13,
 	["afflikékz-spineshatter"]=5,
 	["afjea-spineshatter"]=9,
@@ -12613,7 +12613,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["chonkyqt-spineshatter"]=23,
 	["choplord-thunderstrike"]=5,
 	["chorn-spineshatter"]=26,
-	["chorrengodx-spineshatter"]=23,
+	["chorrengodx-spineshatter"]=12,
 	["chowskiy-spineshatter"]=15,
 	["chowsky-spineshatter"]=5,
 	["chriiz-spineshatter"]=5,
@@ -15469,7 +15469,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["jalin-spineshatter"]=3,
 	["jalmarsberg-spineshatter"]=2,
 	["jalo-spineshatter"]=5,
-	["jamåhonleva-spineshatter"]=23,
+	["jamåhonleva-spineshatter"]=11,
 	["jamalbrown-spineshatter"]=0,
 	["jamesfjång-spineshatter"]=5,
 	["jamiejetski-thunderstrike"]=5,
@@ -19647,7 +19647,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["shylá-thunderstrike"]=26,
 	["shÿnz-spineshatter"]=0,
 	["shyrox-spineshatter"]=12,
-	["shy-spineshatter"]=26,
+	["shy-spineshatter"]=7,
 	["shytek-spineshatter"]=25,
 	["shywën-spineshatter"]=2,
 	["siag-spineshatter"]=5,
