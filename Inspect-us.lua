@@ -42,7 +42,7 @@ local ns = ArenaPlusData
 -- source_item, so gems are stored as real item ids the client can draw and only
 -- the enchant text has to ship.
 --
--- Region us, 383 characters, 347 glyph names, read 2026-09-10 05:21 AM.
+-- Region us, 383 characters, 347 glyph names, read 2026-09-10 06:20 AM.
 ns.GLYPH_NAMES = ns.GLYPH_NAMES or {}
 
 for id, name in pairs({
@@ -401,69 +401,7 @@ for id, name in pairs({
 ns.TALENT_NAMES = ns.TALENT_NAMES or {}
 
 for id, name in pairs({
-	[99]="Disorienting Roar",
-	[5211]="Mighty Bash",
-	[6789]="Mortal Coil",
-	[16166]="Elemental Mastery",
-	[16188]="Ancestral Swiftness",
-	[19386]="Wyvern Sting",
-	[26023]="Pursuit of Justice",
-	[30283]="Shadowfury",
-	[46968]="Shockwave",
-	[51485]="Earthgrab Totem",
-	[55694]="Enraged Regeneration",
-	[74001]="Combat Readiness",
-	[79008]="Elusiveness",
-	[82726]="Fervor",
-	[85804]="Selfless Healer",
-	[87172]="Long Arm of the Law",
-	[102280]="Displacer Beast",
-	[102351]="Cenarion Ward",
-	[102359]="Mass Entanglement",
-	[102401]="Wild Charge",
-	[103827]="Double Time",
-	[105593]="Fist of Justice",
-	[105622]="Clemency",
-	[105809]="Holy Avenger",
-	[106707]="Faerie Swarm",
-	[106731]="Incarnation",
-	[106737]="Force of Nature",
-	[107566]="Staggering Shout",
-	[107570]="Storm Bolt",
-	[108208]="Subterfuge",
-	[108212]="Burst of Speed",
-	[108215]="Paralytic Poison",
-	[108238]="Renewal",
-	[108270]="Stone Bulwark Totem",
-	[108271]="Astral Shift",
-	[108273]="Windwalk Totem",
-	[108281]="Ancestral Guidance",
-	[108285]="Call of the Elements",
-	[108288]="Heart of the Wild",
-	[108359]="Dark Regeneration",
-	[108373]="Dream of Cenarius",
-	[108415]="Soul Link",
-	[108482]="Unbound Will",
-	[108499]="Grimoire of Supremacy",
-	[108503]="Grimoire of Sacrifice",
-	[108505]="Archimonde's Darkness",
-	[109212]="Spirit Bond",
-	[109215]="Posthaste",
-	[111397]="Blood Horror",
-	[114029]="Safeguard",
-	[114107]="Soul of the Forest",
-	[114154]="Unbreakable Spirit",
-	[114157]="Execution Sentence",
-	[114158]="Light's Hammer",
-	[114163]="Eternal Flame",
-	[117013]="Primal Elementalist",
-	[117050]="Glaive Toss",
-	[124974]="Nature's Vigil",
-	[130392]="Blink Strikes",
-	[131894]="A Murder of Crows",
-	[132469]="Typhoon",
-	[137619]="Marked for Death",
-	[145108]="Ysera's Gift",
+
 }) do ns.TALENT_NAMES[id] = name end
 
 -- Which talent a rank-spell belongs to, and how many ranks that talent has.
