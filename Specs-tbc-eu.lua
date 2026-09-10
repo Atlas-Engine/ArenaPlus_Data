@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 11062 characters, read 2026-09-10 01:07 PM.
+-- Region tbc-eu, 11062 characters, read 2026-09-10 02:37 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12309,7 +12309,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["bubbledispel-spineshatter"]=2,
 	["bubblefastdw-spineshatter"]=0,
 	["bubblegodxd-spineshatter"]=7,
-	["bubbleplx-thunderstrike"]=7,
+	["bubbleplx-thunderstrike"]=26,
 	["bubblesid-spineshatter"]=7,
 	["bublightning-spineshatter"]=11,
 	["bubnezka-spineshatter"]=9,
@@ -16218,7 +16218,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["kychal-spineshatter"]=5,
 	["kyevice-spineshatter"]=15,
 	["kygôô-thunderstrike"]=11,
-	["kyhx-spineshatter"]=7,
+	["kyhx-spineshatter"]=10,
 	["kykylebandit-spineshatter"]=0,
 	["kykypyza-spineshatter"]=19,
 	["kylsköpexd-spineshatter"]=2,
@@ -16762,7 +16762,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["mäkr-spineshatter"]=3,
 	["maksiwf-spineshatter"]=12,
 	["makten-spineshatter"]=3,
-	["makushimu-spineshatter"]=7,
+	["makushimu-spineshatter"]=26,
 	["makuyo-spineshatter"]=25,
 	["malakør-spineshatter"]=5,
 	["malamadre-thunderstrike"]=2,
@@ -19616,7 +19616,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["shylá-thunderstrike"]=26,
 	["shÿnz-spineshatter"]=0,
 	["shyrox-spineshatter"]=12,
-	["shy-spineshatter"]=7,
+	["shy-spineshatter"]=26,
 	["shytek-spineshatter"]=25,
 	["shywën-spineshatter"]=2,
 	["siag-spineshatter"]=5,
@@ -20275,7 +20275,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["suriye-spineshatter"]=17,
 	["surkhaikhan-spineshatter"]=0,
 	["sursulapity-spineshatter"]=4,
-	["susanstrong-spineshatter"]=7,
+	["susanstrong-spineshatter"]=26,
 	["sushîp-spineshatter"]=7,
 	["suspectíble-spineshatter"]=0,
 	["sustanøn-spineshatter"]=5,
