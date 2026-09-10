@@ -42,7 +42,7 @@ local ns = ArenaPlusData
 -- source_item, so gems are stored as real item ids the client can draw and only
 -- the enchant text has to ship.
 --
--- Region us, 385 characters, 347 glyph names, read 2026-09-09 06:21 PM.
+-- Region us, 385 characters, 347 glyph names, read 2026-09-09 07:20 PM.
 ns.GLYPH_NAMES = ns.GLYPH_NAMES or {}
 
 for id, name in pairs({
@@ -401,46 +401,7 @@ for id, name in pairs({
 ns.TALENT_NAMES = ns.TALENT_NAMES or {}
 
 for id, name in pairs({
-	[99]="Disorienting Roar",
-	[16166]="Elemental Mastery",
-	[16188]="Ancestral Swiftness",
-	[19386]="Wyvern Sting",
-	[30884]="Nature's Guardian",
-	[51485]="Earthgrab Totem",
-	[82726]="Fervor",
-	[102280]="Displacer Beast",
-	[102351]="Cenarion Ward",
-	[106737]="Force of Nature",
-	[108271]="Astral Shift",
-	[108273]="Windwalk Totem",
-	[108281]="Ancestral Guidance",
-	[108283]="Echo of the Elements",
-	[108285]="Call of the Elements",
-	[108287]="Totemic Projection",
-	[108288]="Heart of the Wild",
-	[109212]="Spirit Bond",
-	[109215]="Posthaste",
-	[109248]="Binding Shot",
-	[115008]="Chi Torpedo",
-	[115098]="Chi Wave",
-	[115173]="Celerity",
-	[115174]="Momentum",
-	[115396]="Ascension",
-	[115399]="Chi Brew",
-	[116841]="Tiger's Lust",
-	[116847]="Rushing Jade Wind",
-	[117013]="Primal Elementalist",
-	[117014]="Elemental Blast",
-	[117050]="Glaive Toss",
-	[119381]="Leg Sweep",
-	[119392]="Charging Ox Wave",
-	[122280]="Healing Elixirs",
-	[122783]="Diffuse Magic",
-	[123904]="Invoke Xuen, the White Tiger",
-	[124081]="Zen Sphere",
-	[130392]="Blink Strikes",
-	[131894]="A Murder of Crows",
-	[132469]="Typhoon",
+
 }) do ns.TALENT_NAMES[id] = name end
 
 -- Which talent a rank-spell belongs to, and how many ranks that talent has.
