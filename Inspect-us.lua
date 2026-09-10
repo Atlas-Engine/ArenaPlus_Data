@@ -42,7 +42,7 @@ local ns = ArenaPlusData
 -- source_item, so gems are stored as real item ids the client can draw and only
 -- the enchant text has to ship.
 --
--- Region us, 383 characters, 347 glyph names, read 2026-09-10 11:21 AM.
+-- Region us, 383 characters, 347 glyph names, read 2026-09-10 12:20 PM.
 ns.GLYPH_NAMES = ns.GLYPH_NAMES or {}
 
 for id, name in pairs({
@@ -401,56 +401,7 @@ for id, name in pairs({
 ns.TALENT_NAMES = ns.TALENT_NAMES or {}
 
 for id, name in pairs({
-	[99]="Disorienting Roar",
-	[1463]="Incanter's Ward",
-	[5211]="Mighty Bash",
-	[11958]="Cold Snap",
-	[12043]="Presence of Mind",
-	[16188]="Ancestral Swiftness",
-	[20925]="Sacred Shield",
-	[26023]="Pursuit of Justice",
-	[30884]="Nature's Guardian",
-	[31230]="Cheat Death",
-	[44457]="Living Bomb",
-	[74001]="Combat Readiness",
-	[79008]="Elusiveness",
-	[85499]="Speed of Light",
-	[86172]="Divine Purpose",
-	[102051]="Frostjaw",
-	[102280]="Displacer Beast",
-	[102351]="Cenarion Ward",
-	[102401]="Wild Charge",
-	[105593]="Fist of Justice",
-	[105622]="Clemency",
-	[105809]="Holy Avenger",
-	[106731]="Incarnation",
-	[106737]="Force of Nature",
-	[108208]="Subterfuge",
-	[108210]="Nerve Strike",
-	[108212]="Burst of Speed",
-	[108215]="Paralytic Poison",
-	[108273]="Windwalk Totem",
-	[108281]="Ancestral Guidance",
-	[108285]="Call of the Elements",
-	[108288]="Heart of the Wild",
-	[108373]="Dream of Cenarius",
-	[108843]="Blazing Speed",
-	[110301]="Evil is a Point of View",
-	[113724]="Ring of Frost",
-	[114003]="Invocation",
-	[114014]="Shuriken Toss",
-	[114107]="Soul of the Forest",
-	[114154]="Unbreakable Spirit",
-	[114157]="Execution Sentence",
-	[114163]="Eternal Flame",
-	[114165]="Holy Prism",
-	[117012]="Unleashed Fury",
-	[117014]="Elemental Blast",
-	[131511]="Prey on the Weak",
-	[132469]="Typhoon",
-	[137619]="Marked for Death",
-	[140468]="Flameglow",
-	[145108]="Ysera's Gift",
+
 }) do ns.TALENT_NAMES[id] = name end
 
 -- Which talent a rank-spell belongs to, and how many ranks that talent has.
