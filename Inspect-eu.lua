@@ -42,7 +42,7 @@ local ns = ArenaPlusData
 -- source_item, so gems are stored as real item ids the client can draw and only
 -- the enchant text has to ship.
 --
--- Region eu, 382 characters, 339 glyph names, read 2026-09-09 10:20 PM.
+-- Region eu, 382 characters, 339 glyph names, read 2026-09-09 11:20 PM.
 ns.GLYPH_NAMES = ns.GLYPH_NAMES or {}
 
 for id, name in pairs({
@@ -393,68 +393,7 @@ for id, name in pairs({
 ns.TALENT_NAMES = ns.TALENT_NAMES or {}
 
 for id, name in pairs({
-	[605]="Dominate Mind",
-	[12292]="Bloodbath",
-	[16188]="Ancestral Swiftness",
-	[19386]="Wyvern Sting",
-	[29838]="Second Wind",
-	[30283]="Shadowfury",
-	[30884]="Nature's Guardian",
-	[46924]="Bladestorm",
-	[46968]="Shockwave",
-	[55694]="Enraged Regeneration",
-	[82726]="Fervor",
-	[85499]="Speed of Light",
-	[85804]="Selfless Healer",
-	[87172]="Long Arm of the Law",
-	[102060]="Disrupting Shout",
-	[103826]="Juggernaut",
-	[103827]="Double Time",
-	[105593]="Fist of Justice",
-	[105622]="Clemency",
-	[105809]="Holy Avenger",
-	[107566]="Staggering Shout",
-	[107570]="Storm Bolt",
-	[107574]="Avatar",
-	[108273]="Windwalk Totem",
-	[108281]="Ancestral Guidance",
-	[108283]="Echo of the Elements",
-	[108285]="Call of the Elements",
-	[108359]="Dark Regeneration",
-	[108370]="Soul Leech",
-	[108415]="Soul Link",
-	[108482]="Unbound Will",
-	[108499]="Grimoire of Supremacy",
-	[108503]="Grimoire of Sacrifice",
-	[108505]="Archimonde's Darkness",
-	[109142]="Twist of Fate",
-	[109186]="From Darkness, Comes Light",
-	[109212]="Spirit Bond",
-	[109215]="Posthaste",
-	[109259]="Powershot",
-	[109306]="Thrill of the Hunt",
-	[110744]="Divine Star",
-	[111400]="Burning Rush",
-	[112833]="Spectral Guise",
-	[114029]="Safeguard",
-	[114030]="Vigilance",
-	[114163]="Eternal Flame",
-	[114165]="Holy Prism",
-	[115098]="Chi Wave",
-	[115174]="Momentum",
-	[115399]="Chi Brew",
-	[116841]="Tiger's Lust",
-	[116844]="Ring of Peace",
-	[116847]="Rushing Jade Wind",
-	[117012]="Unleashed Fury",
-	[117013]="Primal Elementalist",
-	[117050]="Glaive Toss",
-	[119381]="Leg Sweep",
-	[121536]="Angelic Feather",
-	[122280]="Healing Elixirs",
-	[123904]="Invoke Xuen, the White Tiger",
-	[131894]="A Murder of Crows",
-	[147074]="Rushing Streams",
+
 }) do ns.TALENT_NAMES[id] = name end
 
 -- Which talent a rank-spell belongs to, and how many ranks that talent has.
