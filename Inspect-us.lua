@@ -42,7 +42,7 @@ local ns = ArenaPlusData
 -- source_item, so gems are stored as real item ids the client can draw and only
 -- the enchant text has to ship.
 --
--- Region us, 384 characters, 347 glyph names, read 2026-09-09 11:21 PM.
+-- Region us, 384 characters, 347 glyph names, read 2026-09-10 12:20 AM.
 ns.GLYPH_NAMES = ns.GLYPH_NAMES or {}
 
 for id, name in pairs({
@@ -401,46 +401,7 @@ for id, name in pairs({
 ns.TALENT_NAMES = ns.TALENT_NAMES or {}
 
 for id, name in pairs({
-	[12292]="Bloodbath",
-	[16166]="Elemental Mastery",
-	[16188]="Ancestral Swiftness",
-	[19386]="Wyvern Sting",
-	[29838]="Second Wind",
-	[30884]="Nature's Guardian",
-	[46924]="Bladestorm",
-	[46968]="Shockwave",
-	[51485]="Earthgrab Totem",
-	[55694]="Enraged Regeneration",
-	[79008]="Elusiveness",
-	[82726]="Fervor",
-	[102060]="Disrupting Shout",
-	[103826]="Juggernaut",
-	[103827]="Double Time",
-	[103840]="Impending Victory",
-	[107566]="Staggering Shout",
-	[107570]="Storm Bolt",
-	[108208]="Subterfuge",
-	[108210]="Nerve Strike",
-	[108212]="Burst of Speed",
-	[108215]="Paralytic Poison",
-	[108216]="Dirty Tricks",
-	[108271]="Astral Shift",
-	[108273]="Windwalk Totem",
-	[108281]="Ancestral Guidance",
-	[108283]="Echo of the Elements",
-	[108285]="Call of the Elements",
-	[108287]="Totemic Projection",
-	[109212]="Spirit Bond",
-	[109215]="Posthaste",
-	[114028]="Mass Spell Reflection",
-	[114029]="Safeguard",
-	[114030]="Vigilance",
-	[117013]="Primal Elementalist",
-	[117014]="Elemental Blast",
-	[117050]="Glaive Toss",
-	[130392]="Blink Strikes",
-	[131894]="A Murder of Crows",
-	[137619]="Marked for Death",
+
 }) do ns.TALENT_NAMES[id] = name end
 
 -- Which talent a rank-spell belongs to, and how many ranks that talent has.
