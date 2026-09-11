@@ -11,7 +11,7 @@
 # Bagnon, Bartender4 -- tops out at 50504, and not one names 50505.
 ## Title: ArenaPlus Data
 ## Author: David / Atlas-Engine
-## Version: 2026.09.11.1843
+## Version: 2026.09.11.1905
 ## Notes: The ladder, cutoffs, specs and gear that ArenaPlus reads. Refreshed on its own so the addon itself does not have to be republished for it.
 # CurseForge's own number for the project, which is what identifies it
 # everywhere outside the website -- the packaging webhook posts to
@@ -63,3 +63,15 @@ Inspect-eu.lua
 # there is no Titles-tbc-*.lua to list and there cannot be one.
 Titles-us.lua
 Titles-eu.lua
+
+# Who has been playing, built by tools\UpdateActivity.ps1 from the activity
+# log the ladder pass keeps. Costs no API requests at all -- every figure in it
+# was already paid for by that pass.
+#
+# Last, because it is the only file here that reads another one: the generator
+# joins the log to the leaderboard to recover each character's display name, so
+# a run of it is only as good as the Leaderboard-*.lua beside it.
+Activity-us.lua
+Activity-eu.lua
+Activity-tbc-us.lua
+Activity-tbc-eu.lua
