@@ -42,7 +42,7 @@ local ns = ArenaPlusData
 -- source_item, so gems are stored as real item ids the client can draw and only
 -- the enchant text has to ship.
 --
--- Region eu, 383 characters, 340 glyph names, read 2026-09-11 10:20 AM.
+-- Region eu, 383 characters, 340 glyph names, read 2026-09-11 11:20 AM.
 ns.GLYPH_NAMES = ns.GLYPH_NAMES or {}
 
 for id, name in pairs({
@@ -394,69 +394,7 @@ for id, name in pairs({
 ns.TALENT_NAMES = ns.TALENT_NAMES or {}
 
 for id, name in pairs({
-	[99]="Disorienting Roar",
-	[605]="Dominate Mind",
-	[6789]="Mortal Coil",
-	[14062]="Nightstalker",
-	[16188]="Ancestral Swiftness",
-	[29838]="Second Wind",
-	[30884]="Nature's Guardian",
-	[31230]="Cheat Death",
-	[46968]="Shockwave",
-	[48743]="Death Pact",
-	[50041]="Chilblains",
-	[51052]="Anti-Magic Zone",
-	[51462]="Runic Corruption",
-	[74001]="Combat Readiness",
-	[79008]="Elusiveness",
-	[81229]="Runic Empowerment",
-	[102280]="Displacer Beast",
-	[102351]="Cenarion Ward",
-	[102793]="Ursol's Vortex",
-	[103827]="Double Time",
-	[106737]="Force of Nature",
-	[107566]="Staggering Shout",
-	[107570]="Storm Bolt",
-	[108170]="Roiling Blood",
-	[108194]="Asphyxiate",
-	[108200]="Remorseless Winter",
-	[108201]="Desecrated Ground",
-	[108208]="Subterfuge",
-	[108212]="Burst of Speed",
-	[108273]="Windwalk Totem",
-	[108285]="Call of the Elements",
-	[108288]="Heart of the Wild",
-	[108359]="Dark Regeneration",
-	[108415]="Soul Link",
-	[108482]="Unbound Will",
-	[108499]="Grimoire of Supremacy",
-	[108503]="Grimoire of Sacrifice",
-	[108505]="Archimonde's Darkness",
-	[108920]="Void Tendrils",
-	[108945]="Angelic Bulwark",
-	[109142]="Twist of Fate",
-	[110744]="Divine Star",
-	[114028]="Mass Spell Reflection",
-	[114029]="Safeguard",
-	[114107]="Soul of the Forest",
-	[114556]="Purgatory",
-	[115098]="Chi Wave",
-	[115399]="Chi Brew",
-	[115989]="Unholy Blight",
-	[116841]="Tiger's Lust",
-	[116844]="Ring of Peace",
-	[116847]="Rushing Jade Wind",
-	[117012]="Unleashed Fury",
-	[119381]="Leg Sweep",
-	[121536]="Angelic Feather",
-	[122280]="Healing Elixirs",
-	[123040]="Mindbender",
-	[123904]="Invoke Xuen, the White Tiger",
-	[131511]="Prey on the Weak",
-	[132469]="Typhoon",
-	[137619]="Marked for Death",
-	[145108]="Ysera's Gift",
-	[147074]="Rushing Streams",
+
 }) do ns.TALENT_NAMES[id] = name end
 
 -- Which talent a rank-spell belongs to, and how many ranks that talent has.
