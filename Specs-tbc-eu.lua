@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 10970 characters, read 2026-09-11 02:36 AM.
+-- Region tbc-eu, 10972 characters, read 2026-09-11 03:36 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -642,6 +642,7 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["azork-spineshatter"]=21,
 	["azorktwo-spineshatter"]=81,
 	["azør-spineshatter"]=110,
+	["azpow-spineshatter"]=50,
 	["azraah-spineshatter"]=11,
 	["azroug-spineshatter"]=50,
 	["azrù-spineshatter"]=10,
@@ -2962,6 +2963,7 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["explodee-spineshatter"]=20,
 	["exposemon-spineshatter"]=80,
 	["exqtwf-spineshatter"]=111,
+	["extramoo-spineshatter"]=60,
 	["extraspicyx-spineshatter"]=21,
 	["extrmways-spineshatter"]=10,
 	["exycosa-spineshatter"]=21,
@@ -6821,6 +6823,7 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["odain-spineshatter"]=30,
 	["odradek-thunderstrike"]=101,
 	["oehalight-spineshatter"]=11,
+	["oelol-spineshatter"]=101,
 	["offline-thunderstrike"]=20,
 	["ogdulduras-spineshatter"]=50,
 	["ogexz-spineshatter"]=11,
@@ -9386,7 +9389,6 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["tgjeh-spineshatter"]=60,
 	["tgun-spineshatter"]=30,
 	["tgurl-spineshatter"]=21,
-	["tgz-spineshatter"]=11,
 	["thabigdog-spineshatter"]=41,
 	["thadoraa-spineshatter"]=41,
 	["thaigutt-spineshatter"]=10,
@@ -11513,6 +11515,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["azork-spineshatter"]=11,
 	["azorktwo-spineshatter"]=0,
 	["azør-spineshatter"]=12,
+	["azpow-spineshatter"]=2,
 	["azraah-spineshatter"]=2,
 	["azroug-spineshatter"]=3,
 	["azrù-spineshatter"]=5,
@@ -13857,6 +13860,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["explodee-spineshatter"]=23,
 	["exposemon-spineshatter"]=0,
 	["exqtwf-spineshatter"]=0,
+	["extramoo-spineshatter"]=5,
 	["extraspicyx-spineshatter"]=5,
 	["extrmways-spineshatter"]=3,
 	["exycosa-spineshatter"]=5,
@@ -17753,6 +17757,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["odain-spineshatter"]=0,
 	["odradek-thunderstrike"]=7,
 	["oehalight-spineshatter"]=2,
+	["oelol-spineshatter"]=10,
 	["offline-thunderstrike"]=5,
 	["ogdulduras-spineshatter"]=9,
 	["ogexz-spineshatter"]=3,
@@ -20344,7 +20349,6 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["tgjeh-spineshatter"]=0,
 	["tgun-spineshatter"]=25,
 	["tgurl-spineshatter"]=0,
-	["tgz-spineshatter"]=3,
 	["thabigdog-spineshatter"]=1,
 	["thadoraa-spineshatter"]=1,
 	["thaigutt-spineshatter"]=9,
