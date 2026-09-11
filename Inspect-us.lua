@@ -42,7 +42,7 @@ local ns = ArenaPlusData
 -- source_item, so gems are stored as real item ids the client can draw and only
 -- the enchant text has to ship.
 --
--- Region us, 382 characters, 347 glyph names, read 2026-09-10 11:21 PM.
+-- Region us, 382 characters, 347 glyph names, read 2026-09-11 12:20 AM.
 ns.GLYPH_NAMES = ns.GLYPH_NAMES or {}
 
 for id, name in pairs({
@@ -401,41 +401,7 @@ for id, name in pairs({
 ns.TALENT_NAMES = ns.TALENT_NAMES or {}
 
 for id, name in pairs({
-	[605]="Dominate Mind",
-	[29838]="Second Wind",
-	[46924]="Bladestorm",
-	[55694]="Enraged Regeneration",
-	[74001]="Combat Readiness",
-	[79008]="Elusiveness",
-	[103826]="Juggernaut",
-	[103827]="Double Time",
-	[107566]="Staggering Shout",
-	[107570]="Storm Bolt",
-	[108208]="Subterfuge",
-	[108212]="Burst of Speed",
-	[108920]="Void Tendrils",
-	[108921]="Psyfiend",
-	[109142]="Twist of Fate",
-	[109175]="Divine Insight",
-	[109186]="From Darkness, Comes Light",
-	[110744]="Divine Star",
-	[112833]="Spectral Guise",
-	[114028]="Mass Spell Reflection",
-	[114029]="Safeguard",
-	[115098]="Chi Wave",
-	[115396]="Ascension",
-	[115399]="Chi Brew",
-	[116841]="Tiger's Lust",
-	[119381]="Leg Sweep",
-	[119392]="Charging Ox Wave",
-	[120517]="Halo",
-	[121536]="Angelic Feather",
-	[122280]="Healing Elixirs",
-	[122783]="Diffuse Magic",
-	[123040]="Mindbender",
-	[123904]="Invoke Xuen, the White Tiger",
-	[131511]="Prey on the Weak",
-	[137619]="Marked for Death",
+
 }) do ns.TALENT_NAMES[id] = name end
 
 -- Which talent a rank-spell belongs to, and how many ranks that talent has.
