@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5144 characters, read 2026-09-11 04:00 PM.
+-- Region us, 5143 characters, read 2026-09-11 05:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2199,6 +2199,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["jaguarpaw-lei-shen"]=41,
 	["jãiãh-pagle"]=11,
 	["jalkun-raden"]=10,
+	["jamaicarr-raden"]=11,
 	["jamalbanks-raden"]=10,
 	["jámu-raden"]=10,
 	["janevishus-lei-shen"]=11,
@@ -3050,7 +3051,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["nergal-lei-shen"]=10,
 	["nerxxiz-raden"]=11,
 	["neshard-galakras"]=21,
-	["netcheoff-raden"]=11,
 	["nétero-nazgrim"]=50,
 	["neterô-raden"]=10,
 	["nethria-raden"]=41,
@@ -4190,7 +4190,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["stonefangdog-pagle"]=11,
 	["stooter-nazgrim"]=40,
 	["stooty-nazgrim"]=11,
-	["stoptalkme-raden"]=11,
 	["stormdaddyx-pagle"]=30,
 	["størmie-raden"]=111,
 	["stormieskye-galakras"]=61,
@@ -7198,6 +7197,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["jaguarpaw-lei-shen"]=12,
 	["jãiãh-pagle"]=20,
 	["jalkun-raden"]=2,
+	["jamaicarr-raden"]=7,
 	["jamalbanks-raden"]=11,
 	["jámu-raden"]=16,
 	["janevishus-lei-shen"]=9,
@@ -8095,7 +8095,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["nergal-lei-shen"]=24,
 	["nerxxiz-raden"]=16,
 	["neshard-galakras"]=7,
-	["netcheoff-raden"]=4,
 	["nétero-nazgrim"]=24,
 	["neterô-raden"]=4,
 	["nethria-raden"]=5,
@@ -9301,7 +9300,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["stonefangdog-pagle"]=25,
 	["stooter-nazgrim"]=5,
 	["stooty-nazgrim"]=7,
-	["stoptalkme-raden"]=4,
 	["stormdaddyx-pagle"]=22,
 	["størmie-raden"]=15,
 	["stormieskye-galakras"]=17,
