@@ -11,7 +11,7 @@
 # Bagnon, Bartender4 -- tops out at 50504, and not one names 50505.
 ## Title: ArenaPlus Data
 ## Author: David / Atlas-Engine
-## Version: 2026.09.11.1405
+## Version: 2026.09.11.1505
 ## Notes: The ladder, cutoffs, specs and gear that ArenaPlus reads. Refreshed on its own so the addon itself does not have to be republished for it.
 # CurseForge's own number for the project, which is what identifies it
 # everywhere outside the website -- the packaging webhook posts to
@@ -57,3 +57,9 @@ Specs-us.lua
 Specs-eu.lua
 Inspect-us.lua
 Inspect-eu.lua
+
+# PvP titles earned, from the character achievements endpoint. Mists only:
+# the Anniversary profile namespace does not serve achievements at all, so
+# there is no Titles-tbc-*.lua to list and there cannot be one.
+Titles-us.lua
+Titles-eu.lua
