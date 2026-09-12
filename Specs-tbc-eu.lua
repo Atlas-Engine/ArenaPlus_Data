@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 10898 characters, read 2026-09-11 09:36 PM.
+-- Region tbc-eu, 10898 characters, read 2026-09-11 10:36 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12198,7 +12198,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["bygaiko-spineshatter"]=5,
 	["byllo-spineshatter"]=7,
 	["cabrito-thunderstrike"]=5,
-	["cactusberry-spineshatter"]=7,
+	["cactusberry-spineshatter"]=26,
 	["cadency-spineshatter"]=13,
 	["caerul-spineshatter"]=5,
 	["caidenh-thunderstrike"]=25,
@@ -14020,7 +14020,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["flixahpal-spineshatter"]=7,
 	["flixahpri-spineshatter"]=2,
 	["flixahtwo-spineshatter"]=11,
-	["flokilicious-spineshatter"]=7,
+	["flokilicious-spineshatter"]=26,
 	["flooki-spineshatter"]=5,
 	["floopz-spineshatter"]=3,
 	["floopzx-spineshatter"]=2,
@@ -15364,7 +15364,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["jofrey-spineshatter"]=3,
 	["jofrid-thunderstrike"]=5,
 	["jogabønita-spineshatter"]=5,
-	["joghurtman-spineshatter"]=7,
+	["joghurtman-spineshatter"]=26,
 	["johanlabombo-spineshatter"]=15,
 	["johnbenis-spineshatter"]=25,
 	["jøhncena-spineshatter"]=11,
@@ -16514,7 +16514,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["mäkr-spineshatter"]=3,
 	["maksiwf-spineshatter"]=12,
 	["makten-spineshatter"]=3,
-	["makushimu-spineshatter"]=7,
+	["makushimu-spineshatter"]=26,
 	["makuyo-spineshatter"]=25,
 	["malakør-spineshatter"]=5,
 	["malamadre-thunderstrike"]=2,
@@ -19315,7 +19315,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["shylá-thunderstrike"]=26,
 	["shÿnz-spineshatter"]=0,
 	["shyrox-spineshatter"]=12,
-	["shy-spineshatter"]=7,
+	["shy-spineshatter"]=26,
 	["shytek-spineshatter"]=25,
 	["shywën-spineshatter"]=2,
 	["siag-spineshatter"]=5,
@@ -19978,7 +19978,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["sureh-spineshatter"]=2,
 	["suriye-spineshatter"]=17,
 	["surkhaikhan-spineshatter"]=0,
-	["susanstrong-spineshatter"]=7,
+	["susanstrong-spineshatter"]=26,
 	["sushîp-spineshatter"]=7,
 	["suspectíble-spineshatter"]=0,
 	["sustanøn-spineshatter"]=5,
