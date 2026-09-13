@@ -1,4 +1,4 @@
-﻿-- Shipped as its own addon so the ladder can be republished without reshipping
+-- Shipped as its own addon so the ladder can be republished without reshipping
 -- the code: this file was half of every ArenaPlus release.
 --
 -- Two addons cannot see each other's namespace, so the tables go on a global
@@ -12,14 +12,14 @@ local ns = ArenaPlusData
 -- Arena title cutoffs, written by tools\UpdateFromBlizzard.ps1 from Blizzard's
 -- own API. Do not edit by hand: rerun the script to refresh.
 --
--- Region us, season 14, cutoffs last changed 2026-09-13 10:30 AM, last checked 2026-09-13 06:00 PM.
+-- Region us, season 14, cutoffs last changed 2026-09-13 10:30 AM, last checked 2026-09-13 07:00 PM.
 ns.CUTOFFS_BY_REGION = ns.CUTOFFS_BY_REGION or {}
 
 ns.CUTOFFS_BY_REGION["us"] = {
 	region  = "us",
 	updated = "2026-09-13 10:30 AM",
-	checked = "2026-09-13 06:00 PM",
-	checkedEpoch = 1789336814,
+	checked = "2026-09-13 07:00 PM",
+	checkedEpoch = 1789340447,
 
 	[1] = { r1=2570, gladiator=2250, duelist=2089, rival=1815, challenger=1055 }, -- 2v2
 	[2] = { r1=2414, gladiator=1930, duelist=1852, rival=1631, challenger=864 }, -- 3v3

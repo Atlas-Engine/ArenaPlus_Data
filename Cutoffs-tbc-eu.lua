@@ -1,4 +1,4 @@
-﻿-- Shipped as its own addon so the ladder can be republished without reshipping
+-- Shipped as its own addon so the ladder can be republished without reshipping
 -- the code: this file was half of every ArenaPlus release.
 --
 -- Two addons cannot see each other's namespace, so the tables go on a global
@@ -12,14 +12,14 @@ local ns = ArenaPlusData
 -- Arena title cutoffs, written by tools\UpdateFromBlizzard.ps1 from Blizzard's
 -- own API. Do not edit by hand: rerun the script to refresh.
 --
--- Region tbc-eu, season 3, cutoffs last changed 2026-09-12 09:36 PM, last checked 2026-09-13 03:36 PM.
+-- Region tbc-eu, season 3, cutoffs last changed 2026-09-12 09:36 PM, last checked 2026-09-13 06:35 PM.
 ns.CUTOFFS_BY_REGION = ns.CUTOFFS_BY_REGION or {}
 
 ns.CUTOFFS_BY_REGION["tbc-eu"] = {
 	region  = "tbc-eu",
 	updated = "2026-09-12 09:36 PM",
-	checked = "2026-09-13 03:36 PM",
-	checkedEpoch = 1789328197,
+	checked = "2026-09-13 06:35 PM",
+	checkedEpoch = 1789338958,
 
 	[1] = { r1=2240, gladiator=2109, duelist=1905, rival=1703, challenger=1493 }, -- 2v2
 	[2] = { r1=2197, gladiator=2038, duelist=1856, rival=1702, challenger=1500 }, -- 3v3
@@ -31,7 +31,7 @@ ns.CUTOFFS_BY_REGION["tbc-eu"] = {
 ns.CUTOFF_SLOTS_BY_REGION = ns.CUTOFF_SLOTS_BY_REGION or {}
 
 ns.CUTOFF_SLOTS_BY_REGION["tbc-eu"] = {
-	[1] = { r1=35, gladiator=201, duelist=1196, rival=4555 }, -- 2v2
-	[2] = { r1=21, gladiator=148, duelist=741, rival=2706 }, -- 3v3
-	[3] = { r1=71, gladiator=420, duelist=2653 }, -- 5v5
+	[1] = { r1=39, gladiator=210, duelist=1230, rival=4614 }, -- 2v2
+	[2] = { r1=24, gladiator=154, duelist=761, rival=2762 }, -- 3v3
+	[3] = { r1=78, gladiator=447, duelist=2711 }, -- 5v5
 }
