@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5152 characters, read 2026-09-14 02:01 PM.
+-- Region us, 5152 characters, read 2026-09-14 03:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5918,7 +5918,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["cwpas-raden"]=31,
 	["cwpaslock-raden"]=24,
 	["cwpasx-raden"]=7,
-	["cybrooke-lei-shen"]=18,
+	["cybrooke-lei-shen"]=20,
 	["cyclicc-pagle"]=28,
 	["cyclonebot-lei-shen"]=5,
 	["cyns-galakras"]=21,
@@ -8865,7 +8865,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["sashastorm-pagle"]=24,
 	["sassybooty-galakras"]=10,
 	["satierf-pagle"]=17,
-	["satrian-pagle"]=3,
+	["satrian-pagle"]=18,
 	["satyricon-raden"]=28,
 	["saul-raden"]=22,
 	["sauro-immerseus"]=6,
@@ -8919,7 +8919,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["segwaymaster-pagle"]=7,
 	["seitanic-pagle"]=6,
 	["sekhmethy-pagle"]=9,
-	["sekyriu-pagle"]=17,
+	["sekyriu-pagle"]=5,
 	["selania-pagle"]=7,
 	["seleste-raden"]=9,
 	["selfplay-raden"]=7,
@@ -8949,9 +8949,9 @@ ns.SPECS_BY_REGION["us"] = {
 	["shadhow-lei-shen"]=29,
 	["shadiez-raden"]=13,
 	["shadowarlock-nazgrim"]=24,
-	["shadowchuckr-nazgrim"]=9,
+	["shadowchuckr-nazgrim"]=21,
 	["shadowfroste-lei-shen"]=1,
-	["shadowjacker-pagle"]=21,
+	["shadowjacker-pagle"]=9,
 	["shadowkenja-benediction"]=16,
 	["shadowmends-benediction"]=9,
 	["shadowsige-pagle"]=10,
