@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5159 characters, read 2026-09-14 06:00 AM.
+-- Region us, 5159 characters, read 2026-09-14 07:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5243,7 +5243,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["aureatex-raden"]=1,
 	["aureatexd-raden"]=9,
 	["aurim-nazgrim"]=4,
-	["aussieakuma-galakras"]=3,
+	["aussieakuma-galakras"]=18,
 	["austiin-immerseus"]=6,
 	["aùthor-lei-shen"]=7,
 	["autismaxxer-arugal-au"]=3,
@@ -5570,7 +5570,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["brainlag-raden"]=3,
 	["brainsurgeon-raden"]=0,
 	["bramanmanman-grobbulus"]=15,
-	["brandoncle-galakras"]=16,
+	["brandoncle-galakras"]=2,
 	["brazzeal-pagle"]=16,
 	["brbcloning-pagle"]=5,
 	["brbsheeping-pagle"]=1,
@@ -6950,7 +6950,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["hifukface-raden"]=12,
 	["hifvckface-raden"]=10,
 	["highc-galakras"]=22,
-	["highç-galakras"]=10,
+	["highç-galakras"]=27,
 	["hîghc-galakras"]=17,
 	["highchi-raden"]=0,
 	["highcortisol-raden"]=5,
@@ -7246,7 +7246,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["jeffrence-pagle"]=16,
 	["jefmago-raden"]=11,
 	["jellierolls-pagle"]=4,
-	["jellytugger-raden"]=8,
+	["jellytugger-raden"]=24,
 	["jërrÿ-galakras"]=20,
 	["jerryjuve-lei-shen"]=5,
 	["jerrymonk-lei-shen"]=4,
@@ -7356,7 +7356,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["kamikylol-pagle"]=29,
 	["kamiyam-raden"]=6,
 	["kánabiss-galakras"]=3,
-	["kandì-pagle"]=11,
+	["kandì-pagle"]=31,
 	["kankus-pagle"]=15,
 	["kaptnascend-pagle"]=22,
 	["kaptnhard-pagle"]=24,
@@ -7365,7 +7365,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["kárin-nazgrim"]=9,
 	["karlmarxpunk-pagle"]=7,
 	["karolinna-raden"]=9,
-	["kartika-raden"]=18,
+	["kartika-raden"]=20,
 	["kaskudo-nazgrim"]=23,
 	["kasmein-pagle"]=18,
 	["katacaine-pagle"]=18,
@@ -9669,7 +9669,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["truebolt-pagle"]=15,
 	["trueshepard-pagle"]=21,
 	["trueshot-grobbulus"]=3,
-	["trumpchains-galakras"]=26,
+	["trumpchains-galakras"]=25,
 	["trumpscurse-galakras"]=21,
 	["trumpsdagger-galakras"]=29,
 	["trumpsdots-galakras"]=8,
@@ -9678,7 +9678,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["tryitbro-raden"]=24,
 	["tsukawashime-raden"]=4,
 	["tsunadè-nazgrim"]=9,
-	["tubalcain-galakras"]=19,
+	["tubalcain-galakras"]=15,
 	["tukko-raden"]=14,
 	["tuladepiedra-pagle"]=7,
 	["tuptuptup-raden"]=25,
