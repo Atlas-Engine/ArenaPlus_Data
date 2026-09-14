@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5158 characters, read 2026-09-14 09:00 AM.
+-- Region us, 5158 characters, read 2026-09-14 10:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5971,7 +5971,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["darkkníght-grobbulus"]=6,
 	["darklegendz-raden"]=24,
 	["darknessfury-pagle"]=6,
-	["darknuns-pagle"]=21,
+	["darknuns-pagle"]=9,
 	["darkphecy-pagle"]=22,
 	["darkshadown-pagle"]=13,
 	["darkshadowx-galakras"]=25,
@@ -6706,14 +6706,14 @@ ns.SPECS_BY_REGION["us"] = {
 	["ghoulgrabber-pagle"]=0,
 	["gigasimpx-pagle"]=7,
 	["gigawimpx-raden"]=6,
-	["giglingtiger-pagle"]=32,
+	["giglingtiger-pagle"]=16,
 	["giirthbrookz-pagle"]=4,
 	["gilgalád-pagle"]=16,
 	["gillin-immerseus"]=6,
 	["gîmble-pagle"]=7,
 	["gimmediweed-raden"]=22,
 	["gimmiick-nazgrim"]=23,
-	["gimp-pagle"]=14,
+	["gimp-pagle"]=29,
 	["ginastel-raden"]=16,
 	["ginnette-raden"]=5,
 	["girlyman-pagle"]=2,
@@ -8519,7 +8519,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["pridice-raden"]=9,
 	["priesthoods-pagle"]=21,
 	["priestiq-galakras"]=21,
-	["priestsmonk-galakras"]=10,
+	["priestsmonk-galakras"]=4,
 	["priincess-raden"]=6,
 	["primalfear-pagle"]=7,
 	["primaxs-pagle"]=2,
@@ -8588,7 +8588,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["qzw-galakras"]=4,
 	["rabager-grobbulus"]=19,
 	["rabblerouse-pagle"]=34,
-	["rabidwolf-pagle"]=22,
+	["rabidwolf-pagle"]=19,
 	["racket-pagle"]=14,
 	["radaggast-lei-shen"]=1,
 	["radendznuts-raden"]=22,
