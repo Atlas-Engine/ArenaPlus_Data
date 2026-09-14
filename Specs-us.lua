@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5158 characters, read 2026-09-14 02:00 AM.
+-- Region us, 5158 characters, read 2026-09-14 03:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2888,6 +2888,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["mjhunter-galakras"]=20,
 	["mltchell-pagle"]=30,
 	["mlzn-raden"]=11,
+	["mmerida-raden"]=41,
 	["mmonk-nazgrim"]=260,
 	["mmrcat-raden"]=40,
 	["mnzak-raden"]=250,
@@ -5781,7 +5782,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["chuppie-pagle"]=2,
 	["chuuonu-benediction"]=33,
 	["chyse-pagle"]=1,
-	["ciapsyop-pagle"]=5,
+	["ciapsyop-pagle"]=12,
 	["cìel-pagle"]=10,
 	["cinch-lei-shen"]=3,
 	["citizentroll-immerseus"]=22,
@@ -6317,7 +6318,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["edchavy-raden"]=7,
 	["edftw-benediction"]=7,
 	["edgestreak-raden"]=15,
-	["edshearin-pagle"]=22,
+	["edshearin-pagle"]=19,
 	["edumage-nazgrim"]=1,
 	["eerii-raden"]=13,
 	["eezz-nazgrim"]=13,
@@ -7951,7 +7952,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["mjhunter-galakras"]=18,
 	["mltchell-pagle"]=15,
 	["mlzn-raden"]=1,
-	["mmerida-raden"]=0,
+	["mmerida-raden"]=5,
 	["mmonk-nazgrim"]=10,
 	["mmrcat-raden"]=12,
 	["mnzak-raden"]=4,
@@ -7988,8 +7989,8 @@ ns.SPECS_BY_REGION["us"] = {
 	["moobookaiyah-galakras"]=7,
 	["mooleone-pagle"]=5,
 	["møønchild-pagle"]=5,
-	["mòónfirebeam-raden"]=5,
-	["moonloon-pagle"]=17,
+	["mòónfirebeam-raden"]=12,
+	["moonloon-pagle"]=5,
 	["moonpieelite-immerseus"]=1,
 	["moonrip-raden"]=12,
 	["moonspellol-galakras"]=14,
@@ -8019,9 +8020,9 @@ ns.SPECS_BY_REGION["us"] = {
 	["mozzi-raden"]=7,
 	["mp-raden"]=9,
 	["mslusty-pagle"]=4,
-	["msnurfme-raden"]=5,
+	["msnurfme-raden"]=17,
 	["msr-galakras"]=3,
-	["mtj-atiesh"]=17,
+	["mtj-atiesh"]=5,
 	["mufasaz-pagle"]=10,
 	["muffìn-raden"]=7,
 	["mugroso-galakras"]=18,
@@ -9971,7 +9972,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["xarrstorm-immerseus"]=22,
 	["xarshadow-immerseus"]=24,
 	["xarstorm-immerseus"]=1,
-	["xatica-pagle"]=14,
+	["xatica-pagle"]=29,
 	["xatyka-pagle"]=1,
 	["xavilier-pagle"]=14,
 	["xb-galakras"]=10,
@@ -10021,7 +10022,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["yahoozy-arugal-au"]=3,
 	["yallokay-raden"]=5,
 	["yametekudasæ-pagle"]=26,
-	["yanshaar-immerseus"]=18,
+	["yanshaar-immerseus"]=20,
 	["yasoop-pagle"]=3,
 	["yasúo-pagle"]=30,
 	["yazor-nazgrim"]=11,
