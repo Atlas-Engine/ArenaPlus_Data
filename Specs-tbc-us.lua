@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9928 characters, read 2026-09-14 05:57 PM.
+-- Region tbc-us, 9928 characters, read 2026-09-14 06:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9931,7 +9931,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["aeiou-nightslayer"]=10,
 	["aemen-dreamscythe"]=1,
 	["aemina-nightslayer"]=1,
-	["aenima-nightslayer"]=13,
+	["aenima-nightslayer"]=16,
 	["aerea-nightslayer"]=10,
 	["aerickz-dreamscythe"]=5,
 	["aêris-dreamscythe"]=19,
@@ -10290,7 +10290,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["aviesta-nightslayer"]=4,
 	["avisanz-nightslayer"]=7,
 	["aviscus-nightslayer"]=2,
-	["avls-nightslayer"]=1,
+	["avls-nightslayer"]=12,
 	["avrn-nightslayer"]=9,
 	["avuarfeu-nightslayer"]=4,
 	["awdlyw-nightslayer"]=2,
@@ -16464,7 +16464,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["prepss-nightslayer"]=10,
 	["pretentious-nightslayer"]=5,
 	["pretty-nightslayer"]=0,
-	["prettyirl-nightslayer"]=8,
+	["prettyirl-nightslayer"]=5,
 	["prettylips-dreamscythe"]=5,
 	["prettymp-nightslayer"]=2,
 	["prettyok-nightslayer"]=0,
@@ -16476,7 +16476,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["priestak-nightslayer"]=12,
 	["priestdont-nightslayer"]=1,
 	["priestgoyim-nightslayer"]=12,
-	["priestidk-nightslayer"]=1,
+	["priestidk-nightslayer"]=14,
 	["priestony-dreamscythe"]=1,
 	["priestwutlol-nightslayer"]=14,
 	["priestyz-nightslayer"]=1,
@@ -16624,7 +16624,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["quorraqt-nightslayer"]=4,
 	["qwd-nightslayer"]=7,
 	["qwestrø-nightslayer"]=4,
-	["qwwd-nightslayer"]=2,
+	["qwwd-nightslayer"]=0,
 	["qziz-nightslayer"]=1,
 	["qzsvk-nightslayer"]=4,
 	["raasclaa-nightslayer"]=12,
