@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5155 characters, read 2026-09-14 05:00 PM.
+-- Region us, 5155 characters, read 2026-09-14 06:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5355,9 +5355,9 @@ ns.SPECS_BY_REGION["us"] = {
 	["beetroot-raden"]=4,
 	["behindyu-pagle"]=14,
 	["beijingcy-grobbulus"]=1,
-	["beijingdy-grobbulus"]=17,
+	["beijingdy-grobbulus"]=5,
 	["beijingms-grobbulus"]=13,
-	["beijingss-grobbulus"]=24,
+	["beijingss-grobbulus"]=28,
 	["beish-pagle"]=0,
 	["bektal-pagle"]=19,
 	["beladorit-pagle"]=24,
@@ -5379,7 +5379,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["berell-raden"]=5,
 	["beriothyen-galakras"]=4,
 	["berkson-galakras"]=20,
-	["bertharro-galakras"]=1,
+	["bertharro-galakras"]=11,
 	["bertoxxulos-galakras"]=28,
 	["bestiiaa-raden"]=20,
 	["bestmonkus-raden"]=4,
@@ -5718,7 +5718,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["cerealwl-arugal-au"]=28,
 	["cerrith-pagle"]=6,
 	["cezàr-raden"]=6,
-	["cfivevette-raden"]=4,
+	["cfivevette-raden"]=10,
 	["chadstorm-raden"]=7,
 	["chadwack-galakras"]=23,
 	["chakrabolt-pagle"]=28,
@@ -6194,7 +6194,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dosak-pagle"]=10,
 	["dóssy-immerseus"]=34,
 	["dotdotgoose-immerseus"]=28,
-	["dothkar-galakras"]=1,
+	["dothkar-galakras"]=11,
 	["dottenstein-pagle"]=8,
 	["dotwaves-pagle"]=3,
 	["dôtzz-galakras"]=24,
@@ -8709,7 +8709,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["reticence-pagle"]=10,
 	["retmainxd-raden"]=18,
 	["retrostance-galakras"]=2,
-	["rettek-raden"]=8,
+	["rettek-raden"]=28,
 	["revcole-raden"]=9,
 	["revènge-raden"]=7,
 	["reverencex-pagle"]=24,
@@ -9297,7 +9297,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["stabbath-raden"]=14,
 	["stábbý-pagle"]=29,
 	["stabeatha-pagle"]=34,
-	["stabualot-nazgrim"]=14,
+	["stabualot-nazgrim"]=29,
 	["stâmpfairtex-raden"]=14,
 	["stàn-immerseus"]=3,
 	["starfallol-lei-shen"]=17,
@@ -9473,7 +9473,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["teerabear-galakras"]=5,
 	["teg-pagle"]=4,
 	["teglinto-pagle"]=3,
-	["tegoruh-pagle"]=24,
+	["tegoruh-pagle"]=8,
 	["tegto-pagle"]=6,
 	["tegworr-pagle"]=7,
 	["tejedor-pagle"]=4,

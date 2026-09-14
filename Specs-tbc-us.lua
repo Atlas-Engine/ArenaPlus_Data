@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9928 characters, read 2026-09-14 04:58 PM.
+-- Region tbc-us, 9928 characters, read 2026-09-14 05:57 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11580,7 +11580,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["creation-nightslayer"]=4,
 	["creationlawl-nightslayer"]=7,
 	["creationw-nightslayer"]=2,
-	["creationx-nightslayer"]=7,
+	["creationx-nightslayer"]=22,
 	["creationz-nightslayer"]=7,
 	["credomuthwa-nightslayer"]=24,
 	["creedzau-nightslayer"]=13,
@@ -13008,7 +13008,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["garangg-nightslayer"]=19,
 	["garangz-nightslayer"]=19,
 	["garbagesmash-nightslayer"]=2,
-	["garbaje-nightslayer"]=0,
+	["garbaje-nightslayer"]=4,
 	["gargamele-nightslayer"]=12,
 	["gargigger-nightslayer"]=10,
 	["garlickbred-nightslayer"]=1,
@@ -13918,7 +13918,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["irishisafk-nightslayer"]=1,
 	["irlchadx-nightslayer"]=2,
 	["ironbloom-nightslayer"]=7,
-	["ironfox-nightslayer"]=22,
+	["ironfox-nightslayer"]=7,
 	["ironsîde-nightslayer"]=18,
 	["ironthornx-nightslayer"]=7,
 	["irsauditor-nightslayer"]=17,
@@ -16653,7 +16653,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ragemastuh-nightslayer"]=2,
 	["ragequitqtt-nightslayer"]=7,
 	["ragerette-nightslayer"]=15,
-	["raggar-nightslayer"]=18,
+	["raggar-nightslayer"]=2,
 	["ragoone-nightslayer"]=11,
 	["ragu-nightslayer"]=3,
 	["rahlz-dreamscythe"]=3,
@@ -19579,7 +19579,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["youngsnapper-nightslayer"]=1,
 	["youngstar-dreamscythe"]=1,
 	["youngthugysl-nightslayer"]=1,
-	["yourbrorick-nightslayer"]=18,
+	["yourbrorick-nightslayer"]=2,
 	["yourfknpal-nightslayer"]=11,
 	["yourmate-nightslayer"]=25,
 	["yous-nightslayer"]=5,
