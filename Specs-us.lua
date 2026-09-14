@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5159 characters, read 2026-09-14 05:00 AM.
+-- Region us, 5159 characters, read 2026-09-14 06:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7482,7 +7482,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["kreanthor-raden"]=25,
 	["kreirianstus-pagle"]=6,
 	["krelana-pagle"]=21,
-	["kreleda-pagle"]=25,
+	["kreleda-pagle"]=6,
 	["kreyadrin-pagle"]=6,
 	["krico-raden"]=10,
 	["kromdorr-pagle"]=25,
@@ -7533,7 +7533,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["largecoq-pagle"]=7,
 	["largecoqx-pagle"]=4,
 	["larissa-nazgrim"]=18,
-	["laritza-lei-shen"]=7,
+	["laritza-lei-shen"]=23,
 	["larvá-raden"]=0,
 	["lastone-immerseus"]=30,
 	["laterdeen-pagle"]=21,
@@ -9668,7 +9668,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["truckw-raden"]=7,
 	["truebolt-pagle"]=15,
 	["trueshepard-pagle"]=21,
-	["trueshot-grobbulus"]=20,
+	["trueshot-grobbulus"]=3,
 	["trumpchains-galakras"]=26,
 	["trumpscurse-galakras"]=21,
 	["trumpsdagger-galakras"]=29,
@@ -9737,7 +9737,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["uppercut-raden"]=4,
 	["Ùpthewahs-immerseus"]=30,
 	["urhero-arugal-au"]=16,
-	["ursarwarrior-lei-shen"]=7,
+	["ursarwarrior-lei-shen"]=30,
 	["ursoc-lei-shen"]=17,
 	["uruka-raden"]=0,
 	["urukghâshob-immerseus"]=19,
@@ -9764,7 +9764,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["vara-pagle"]=14,
 	["varrè-lei-shen"]=6,
 	["varyags-pagle"]=17,
-	["vathanish-galakras"]=32,
+	["vathanish-galakras"]=16,
 	["veddr-galakras"]=16,
 	["veegeettaa-raden"]=2,
 	["veidaz-raden"]=0,

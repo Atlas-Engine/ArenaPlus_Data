@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5236 characters, read 2026-09-14 04:55 AM.
+-- Region eu, 5236 characters, read 2026-09-14 05:55 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4656,7 +4656,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["Аркуэнон-flamegor"]=60,
 	["Арориэн-flamegor"]=101,
 	["Артикнетроль-flamegor"]=20,
-	["Ахмедбосс-flamegor"]=10,
+	["Ахмедбосс-flamegor"]=11,
 	["Ачикса-flamegor"]=100,
 	["Аыы-flamegor"]=11,
 	["Аэффи-flamegor"]=11,
@@ -7692,7 +7692,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["mohamédx-norushen"]=1,
 	["mohammedx-norushen"]=4,
 	["mojozx-shekzeer"]=3,
-	["møkkø-auberdine"]=8,
+	["møkkø-auberdine"]=31,
 	["moldath-norushen"]=19,
 	["mollylolli-everlook"]=9,
 	["mollylolli-ook-ook"]=15,
@@ -7705,7 +7705,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["monais-shekzeer"]=16,
 	["monduk-auberdine"]=7,
 	["moneylong-shekzeer"]=17,
-	["mongoliamonk-hoptallus"]=13,
+	["mongoliamonk-hoptallus"]=19,
 	["mongue-garalon"]=12,
 	["monkai-shekzeer"]=6,
 	["monkasxd-everlook"]=6,
@@ -9863,7 +9863,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Аззон-flamegor"]=15,
 	["Азуо-flamegor"]=15,
 	["Азьезмь-flamegor"]=3,
-	["Аймиар-flamegor"]=1,
+	["Аймиар-flamegor"]=25,
 	["Айрбет-flamegor"]=10,
 	["Айсстори-flamegor"]=2,
 	["Аквамелиз-flamegor"]=2,
