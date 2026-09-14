@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5154 characters, read 2026-09-14 12:00 AM.
+-- Region us, 5154 characters, read 2026-09-14 01:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3248,6 +3248,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["ositgominola-nazgrim"]=261,
 	["Ósitoperú-raden"]=11,
 	["ossân-nazgrim"]=20,
+	["osyn-nazgrim"]=101,
 	["ouch-nazgrim"]=20,
 	["ouchmyloot-nazgrim"]=90,
 	["outplayedd-pagle"]=11,
@@ -7162,7 +7163,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["inperitus-arugal-au"]=15,
 	["insomniaxx-pagle"]=14,
 	["instantcarry-raden"]=10,
-	["integrityqt-pagle"]=21,
+	["integrityqt-pagle"]=13,
 	["intercepts-pagle"]=7,
 	["intrerri-pagle"]=34,
 	["intru-raden"]=3,
@@ -8296,7 +8297,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["onlybabynugz-raden"]=11,
 	["onlyfatnugz-galakras"]=1,
 	["onlyfatnugz-raden"]=1,
-	["onlymage-galakras"]=1,
+	["onlymage-galakras"]=11,
 	["onlyou-arugal-au"]=14,
 	["onlyshiftsqt-pagle"]=17,
 	["oofdar-lei-shen"]=32,
@@ -8313,14 +8314,14 @@ ns.SPECS_BY_REGION["us"] = {
 	["orcsamabin-pagle"]=15,
 	["orcz-pagle"]=7,
 	["ordinary-galakras"]=5,
-	["orgian-pagle"]=5,
+	["orgian-pagle"]=17,
 	["orgimmar-raden"]=11,
 	["originalgank-pagle"]=0,
 	["orkage-immerseus"]=4,
 	["ositgominola-nazgrim"]=4,
 	["Ósitoperú-raden"]=1,
 	["ossân-nazgrim"]=28,
-	["osyn-nazgrim"]=0,
+	["osyn-nazgrim"]=2,
 	["ouch-nazgrim"]=23,
 	["ouchmyloot-nazgrim"]=7,
 	["outplayedd-pagle"]=14,
@@ -8340,7 +8341,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ows-pagle"]=22,
 	["oxandrolon-pagle"]=16,
 	["Øxx-pagle"]=10,
-	["oxy-arugal-au"]=9,
+	["oxy-arugal-au"]=13,
 	["oxydd-arugal-au"]=5,
 	["oxydudu-arugal-au"]=5,
 	["oxzi-pagle"]=1,
