@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5233 characters, read 2026-09-14 09:55 AM.
+-- Region eu, 5233 characters, read 2026-09-14 10:56 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6423,7 +6423,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["freyâ-shekzeer"]=6,
 	["friederike-ook-ook"]=23,
 	["friendly-everlook"]=21,
-	["frikadella-shekzeer"]=19,
+	["frikadella-shekzeer"]=13,
 	["frisbo-shekzeer"]=2,
 	["frodin-shekzeer"]=19,
 	["froheostern-shekzeer"]=9,
@@ -6770,7 +6770,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["hurø-shekzeer"]=24,
 	["hvna-ook-ook"]=1,
 	["hylxia-auberdine"]=5,
-	["hymnia-everlook"]=11,
+	["hymnia-everlook"]=3,
 	["hyped-shekzeer"]=2,
 	["hypertouch-shekzeer"]=1,
 	["hypnodotcum-shekzeer"]=17,
@@ -6830,7 +6830,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["indié-everlook"]=6,
 	["indîe-everlook"]=1,
 	["ineedtopoo-shekzeer"]=15,
-	["ineo-shekzeer"]=15,
+	["ineo-shekzeer"]=5,
 	["inertemplier-shekzeer"]=15,
 	["infection-shekzeer"]=8,
 	["infectiøns-auberdine"]=9,
