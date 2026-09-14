@@ -17,7 +17,7 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region eu, season 14, read 2026-09-14 06:55 AM.
+-- Region eu, season 14, read 2026-09-14 07:55 AM.
 -- Realm display names, because the ladder only carries slugs and no rule
 -- turns one back into the other: raden is Ra-den, lei-shen is Lei Shen and
 -- arugal-au is Arugal (AU). Read from Blizzard's realm index; a slug with no
@@ -34,8 +34,8 @@ ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["eu"] = {
 	region  = "eu",
-	checked = "2026-09-14 06:55 AM",
-	checkedEpoch = 1789383322,
+	checked = "2026-09-14 07:55 AM",
+	checkedEpoch = 1789386950,
 	snapshot = "2026-09-14 10:14",
 
 	[1] = {  -- 2v2, 5005 places, down to rating 1042 -- the API stops here, short of the cutoff
@@ -228,19 +228,19 @@ ns.LEADERBOARD_BY_REGION["eu"] = {
 		{ rank=187, name="Erzfeínd", realm="everlook", rating=2313, won=63, lost=34, faction="HORDE", dr=0, dk=5 },
 		{ rank=188, name="Callý", realm="ook-ook", rating=2311, won=109, lost=94, faction="ALLIANCE", dr=0, dk=3 },
 		{ rank=188, name="Wildberries", realm="shekzeer", rating=2311, won=179, lost=149, faction="ALLIANCE", dr=0, dk=3 },
+		{ rank=190, name="Jäckynkô", realm="hoptallus", rating=2310, won=145, lost=90, faction="ALLIANCE", dr=44, dk=-69 },
+		{ rank=190, name="Refresherr", realm="hoptallus", rating=2310, won=145, lost=90, faction="ALLIANCE", dr=44, dk=-69 },
 		{ rank=190, name="Vezir", realm="shekzeer", rating=2310, won=67, lost=43, faction="ALLIANCE", dr=0, dk=3 },
 		{ rank=190, name="Zipzipzapzap", realm="shekzeer", rating=2310, won=113, lost=78, faction="ALLIANCE", dr=0, dk=3 },
 		{ rank=190, name="Биткантригем", realm="flamegor", rating=2310, won=92, lost=49, faction="ALLIANCE", dr=0, dk=3 },
-		{ rank=193, name="Gelexicatwo", realm="shekzeer", rating=2309, won=72, lost=39, faction="ALLIANCE", dr=0, dk=3 },
-		{ rank=194, name="Gelexica", realm="shekzeer", rating=2308, won=89, lost=39, faction="ALLIANCE", dr=0, dk=3 },
-		{ rank=194, name="Runshisback", realm="shekzeer", rating=2308, won=118, lost=74, faction="ALLIANCE", dr=0, dk=3 },
-		{ rank=194, name="Vãh", realm="shekzeer", rating=2308, won=202, lost=182, faction="ALLIANCE", mr=2340, dr=-23, dk=41 },
-		{ rank=197, name="Pb", realm="shekzeer", rating=2307, won=64, lost=29, faction="ALLIANCE", dr=0, dk=4 },
-		{ rank=197, name="Sicktwo", realm="shekzeer", rating=2307, won=119, lost=97, faction="ALLIANCE", dr=0, dk=4 },
-		{ rank=199, name="Distørdëx", realm="shekzeer", rating=2306, won=114, lost=97, faction="ALLIANCE", dr=0, dk=4 },
-		{ rank=199, name="Jäckynkô", realm="hoptallus", rating=2306, won=144, lost=90, faction="ALLIANCE", dr=40, dk=-60 },
-		{ rank=199, name="Refresherr", realm="hoptallus", rating=2306, won=144, lost=90, faction="ALLIANCE", dr=40, dk=-60 },
-		{ rank=199, name="Worstbhvr", realm="shekzeer", rating=2306, won=84, lost=9, faction="ALLIANCE", dr=0, dk=4 },
+		{ rank=195, name="Gelexicatwo", realm="shekzeer", rating=2309, won=72, lost=39, faction="ALLIANCE", dr=0, dk=5 },
+		{ rank=196, name="Gelexica", realm="shekzeer", rating=2308, won=89, lost=39, faction="ALLIANCE", dr=0, dk=5 },
+		{ rank=196, name="Runshisback", realm="shekzeer", rating=2308, won=118, lost=74, faction="ALLIANCE", dr=0, dk=5 },
+		{ rank=196, name="Vãh", realm="shekzeer", rating=2308, won=202, lost=182, faction="ALLIANCE", mr=2340, dr=-23, dk=43 },
+		{ rank=199, name="Pb", realm="shekzeer", rating=2307, won=64, lost=29, faction="ALLIANCE", dr=0, dk=6 },
+		{ rank=199, name="Sicktwo", realm="shekzeer", rating=2307, won=119, lost=97, faction="ALLIANCE", dr=0, dk=6 },
+		{ rank=201, name="Distørdëx", realm="shekzeer", rating=2306, won=114, lost=97, faction="ALLIANCE", dr=0, dk=6 },
+		{ rank=201, name="Worstbhvr", realm="shekzeer", rating=2306, won=84, lost=9, faction="ALLIANCE", dr=0, dk=6 },
 		{ rank=203, name="Deepfull", realm="shekzeer", rating=2305, won=105, lost=82, faction="ALLIANCE", dr=0, dk=6 },
 		{ rank=203, name="Levitate", realm="everlook", rating=2305, won=77, lost=39, faction="ALLIANCE", dr=0, dk=6 },
 		{ rank=203, name="Tpriestlx", realm="shekzeer", rating=2305, won=71, lost=37, faction="ALLIANCE", dr=0, dk=6 },

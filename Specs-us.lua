@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5159 characters, read 2026-09-14 07:00 AM.
+-- Region us, 5158 characters, read 2026-09-14 08:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2044,7 +2044,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["iboptanks-nazgrim"]=100,
 	["ibuildwalls-pagle"]=11,
 	["icarryhim-galakras"]=20,
-	["icaru-raden"]=21,
 	["icarú-raden"]=10,
 	["icebluee-pagle"]=11,
 	["icecrysis-pagle"]=10,
@@ -5690,7 +5689,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["cartermyboy-raden"]=6,
 	["cartiermw-raden"]=4,
 	["cartoonzz-pagle"]=1,
-	["casaamigos-pagle"]=21,
+	["casaamigos-pagle"]=9,
 	["cashpoorxlm-raden"]=14,
 	["catafracta-pagle"]=7,
 	["catcalling-pagle"]=18,
@@ -6624,7 +6623,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["frycow-pagle"]=17,
 	["fryedchickn-pagle"]=7,
 	["fuegisima-pagle"]=24,
-	["fullcream-galakras"]=5,
+	["fullcream-galakras"]=33,
 	["fumadita-pagle"]=14,
 	["funkytubesox-galakras"]=3,
 	["funkyz-raden"]=18,
@@ -7063,7 +7062,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["iboptanks-nazgrim"]=2,
 	["ibuildwalls-pagle"]=24,
 	["icarryhim-galakras"]=3,
-	["icaru-raden"]=10,
 	["icarú-raden"]=10,
 	["iceblight-nazgrim"]=0,
 	["icebluee-pagle"]=1,
@@ -7088,7 +7086,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["idestroyedu-pagle"]=10,
 	["idhrenoh-raden"]=7,
 	["ididntdoit-nazgrim"]=28,
-	["idomorecritz-raden"]=19,
+	["idomorecritz-raden"]=15,
 	["idontfeartwo-raden"]=24,
 	["idrainyou-pagle"]=28,
 	["ieattidepods-raden"]=21,
@@ -7173,7 +7171,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["iq-raden"]=3,
 	["irangoboom-pagle"]=7,
 	["irascible-raden"]=7,
-	["ironpride-pagle"]=30,
+	["ironpride-pagle"]=7,
 	["irulian-raden"]=1,
 	["irys-pagle"]=4,
 	["is-pagle"]=9,
