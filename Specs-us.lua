@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5151 characters, read 2026-09-13 08:00 PM.
+-- Region us, 5151 characters, read 2026-09-13 10:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4364,7 +4364,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["thannan-raden"]=10,
 	["tharealnerds-pagle"]=50,
 	["thatguyover-lei-shen"]=10,
-	["thaviks-raden"]=11,
+	["thaviks-raden"]=10,
 	["theægnt-raden"]=11,
 	["thebadjuan-pagle"]=10,
 	["thebagelcave-pagle"]=31,
@@ -5944,7 +5944,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dankenbrew-lei-shen"]=4,
 	["dankendwarf-pagle"]=22,
 	["dankenelf-pagle"]=5,
-	["dankenshroom-lei-shen"]=12,
+	["dankenshroom-lei-shen"]=33,
 	["dankenstein-lei-shen"]=19,
 	["dankorbs-pagle"]=4,
 	["dankshots-lei-shen"]=3,
@@ -6318,7 +6318,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["eidottnawi-pagle"]=18,
 	["eikou-pagle"]=2,
 	["eivi-lei-shen"]=14,
-	["eka-raden"]=18,
+	["eka-raden"]=3,
 	["eladriel-pagle"]=16,
 	["elalin-pagle"]=17,
 	["elania-pagle"]=9,
@@ -7921,7 +7921,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["missrollings-pagle"]=4,
 	["misstotem-pagle"]=15,
 	["missyu-immerseus"]=23,
-	["mistafistuh-pagle"]=10,
+	["mistafistuh-pagle"]=4,
 	["místerbone-raden"]=20,
 	["mistnme-pagle"]=0,
 	["mistortea-pagle"]=10,
@@ -8516,7 +8516,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["promiseland-immerseus"]=16,
 	["prosecutorfn-raden"]=7,
 	["protektive-pagle"]=7,
-	["protmain-raden"]=16,
+	["protmain-raden"]=32,
 	["protomech-lei-shen"]=6,
 	["prototypeceo-pagle"]=14,
 	["proudgoyim-raden"]=7,
@@ -9057,7 +9057,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["sithtyshades-galakras"]=9,
 	["síx-nazgrim"]=6,
 	["sixmonth-raden"]=4,
-	["sixpathsage-pagle"]=27,
+	["sixpathsage-pagle"]=4,
 	["siyxcr-pagle"]=24,
 	["skâde-nazgrim"]=18,
 	["skantz-pagle"]=3,
@@ -9546,7 +9546,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["thyrìm-pagle"]=7,
 	["thysalia-raden"]=3,
 	["tiamak-galakras"]=7,
-	["tiarussel-pagle"]=32,
+	["tiarussel-pagle"]=2,
 	["ticalus-pagle"]=16,
 	["tictactoetem-nazgrim"]=22,
 	["tigrexwp-raden"]=9,
