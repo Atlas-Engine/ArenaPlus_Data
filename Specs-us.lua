@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5158 characters, read 2026-09-14 03:00 AM.
+-- Region us, 5158 characters, read 2026-09-14 04:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5244,7 +5244,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["aureatex-raden"]=1,
 	["aureatexd-raden"]=9,
 	["aurim-nazgrim"]=4,
-	["aussieakuma-galakras"]=18,
+	["aussieakuma-galakras"]=3,
 	["austiin-immerseus"]=6,
 	["aùthor-lei-shen"]=7,
 	["autismaxxer-arugal-au"]=3,
@@ -5981,7 +5981,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["darkwaifu-lei-shen"]=26,
 	["darneljr-raden"]=1,
 	["darthmaos-nazgrim"]=16,
-	["dásh-nazgrim"]=16,
+	["dásh-nazgrim"]=2,
 	["datittycuz-galakras"]=20,
 	["daunit-raden"]=23,
 	["davebluntz-raden"]=2,
@@ -7802,7 +7802,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["maríka-lei-shen"]=16,
 	["marna-pagle"]=5,
 	["marrasco-pagle"]=16,
-	["marthel-lei-shen"]=25,
+	["marthel-lei-shen"]=6,
 	["martrod-pagle"]=6,
 	["marukk-galakras"]=22,
 	["marusalickx-lei-shen"]=7,
@@ -7886,7 +7886,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["miataz-raden"]=6,
 	["miawci-galakras"]=5,
 	["michaaeell-pagle"]=6,
-	["míchaeldk-pagle"]=26,
+	["míchaeldk-pagle"]=25,
 	["mictlan-raden"]=1,
 	["midnîght-pagle"]=25,
 	["miekasa-lei-shen"]=16,
@@ -7901,7 +7901,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["mikemonks-pagle"]=4,
 	["mikesangry-pagle"]=7,
 	["miku-galakras"]=0,
-	["milkwrecker-pagle"]=29,
+	["milkwrecker-pagle"]=34,
 	["míllicent-lei-shen"]=29,
 	["milox-nazgrim"]=7,
 	["mimö-raden"]=0,
@@ -8348,7 +8348,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ows-pagle"]=22,
 	["oxandrolon-pagle"]=16,
 	["Øxx-pagle"]=10,
-	["oxy-arugal-au"]=13,
+	["oxy-arugal-au"]=9,
 	["oxydd-arugal-au"]=5,
 	["oxydudu-arugal-au"]=5,
 	["oxzi-pagle"]=1,
