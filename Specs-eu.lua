@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5240 characters, read 2026-09-14 03:55 PM.
+-- Region eu, 5240 characters, read 2026-09-14 04:55 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5834,12 +5834,12 @@ ns.SPECS_BY_REGION["eu"] = {
 	["clickgroundx-shekzeer"]=6,
 	["clickzblue-shekzeer"]=19,
 	["cliekao-norushen"]=5,
-	["clméns-auberdine"]=23,
+	["clméns-auberdine"]=17,
 	["cloudyday-shekzeer"]=3,
 	["cloverfield-mirage-raceway"]=3,
 	["clý-shekzeer"]=9,
 	["coachnick-shekzeer"]=29,
-	["cocka-auberdine"]=8,
+	["cocka-auberdine"]=31,
 	["cocotaxi-shekzeer"]=3,
 	["coilstoryx-shekzeer"]=8,
 	["coju-shekzeer"]=0,
@@ -9173,7 +9173,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["tirefesse-auberdine"]=4,
 	["tiritompas-garalon"]=14,
 	["titangel-shekzeer"]=1,
-	["titanià-shekzeer"]=25,
+	["titanià-shekzeer"]=18,
 	["titanii-shekzeer"]=1,
 	["titaniis-shekzeer"]=1,
 	["titaniiz-shekzeer"]=3,
@@ -9182,7 +9182,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["tline-shekzeer"]=0,
 	["tlxdx-shekzeer"]=3,
 	["tlxx-garalon"]=3,
-	["tobilock-shekzeer"]=17,
+	["tobilock-shekzeer"]=23,
 	["toiletchamx-shekzeer"]=13,
 	["toiletmonkx-shekzeer"]=6,
 	["tokonatsu-shekzeer"]=11,
