@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5234 characters, read 2026-09-14 12:56 PM.
+-- Region eu, 5234 characters, read 2026-09-14 01:55 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4767,6 +4767,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["Даннхе-flamegor"]=10,
 	["Данялавандос-flamegor"]=10,
 	["Дархлан-flamegor"]=20,
+	["Дегродактель-flamegor"]=11,
 	["Делер-flamegor"]=20,
 	["Джагга-flamegor"]=20,
 	["Джелорд-flamegor"]=20,
@@ -6293,7 +6294,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["eztre-mirage-raceway"]=26,
 	["ezwinlul-shekzeer"]=19,
 	["fácemash-shekzeer"]=4,
-	["fàcemash-shekzeer"]=11,
+	["fàcemash-shekzeer"]=3,
 	["facesmasher-shekzeer"]=0,
 	["faelivryn-ook-ook"]=9,
 	["fær-shekzeer"]=9,
@@ -6376,7 +6377,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["flárín-shekzeer"]=3,
 	["flârix-shekzeer"]=4,
 	["flayhow-auberdine"]=31,
-	["fleqqzdotx-shekzeer"]=31,
+	["fleqqzdotx-shekzeer"]=8,
 	["floby-everlook"]=3,
 	["flodo-shekzeer"]=25,
 	["floopycat-shekzeer"]=3,
@@ -6437,7 +6438,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["fthisgame-ook-ook"]=2,
 	["fthx-shekzeer"]=4,
 	["fugexhunter-mirage-raceway"]=20,
-	["fülimanó-shekzeer"]=5,
+	["fülimanó-shekzeer"]=15,
 	["fulldemangö-mirage-raceway"]=6,
 	["funkytunes-everlook"]=4,
 	["fuñster-shekzeer"]=1,
@@ -9841,7 +9842,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["zullf-shekzeer"]=5,
 	["zulux-everlook"]=4,
 	["zuma-shekzeer"]=15,
-	["zuppron-shekzeer"]=9,
+	["zuppron-shekzeer"]=12,
 	["zuqi-ook-ook"]=1,
 	["zuqo-shekzeer"]=2,
 	["zusy-shekzeer"]=4,
@@ -9991,7 +9992,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Даннхе-flamegor"]=8,
 	["Данялавандос-flamegor"]=24,
 	["Дархлан-flamegor"]=25,
-	["Дегродактель-flamegor"]=0,
+	["Дегродактель-flamegor"]=4,
 	["Делер-flamegor"]=20,
 	["Джагга-flamegor"]=19,
 	["Джелорд-flamegor"]=1,
