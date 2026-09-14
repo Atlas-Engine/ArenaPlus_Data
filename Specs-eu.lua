@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5236 characters, read 2026-09-14 07:55 AM.
+-- Region eu, 5236 characters, read 2026-09-14 08:55 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5962,7 +5962,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["darumonk-shekzeer"]=6,
 	["dashka-shekzeer"]=20,
 	["davinà-shekzeer"]=0,
-	["davyjones-shekzeer"]=29,
+	["davyjones-shekzeer"]=6,
 	["dawdler-shekzeer"]=4,
 	["dawgi-shekzeer"]=3,
 	["dawnfyre-shekzeer"]=30,
@@ -7106,9 +7106,9 @@ ns.SPECS_BY_REGION["eu"] = {
 	["kenhavefun-shekzeer"]=6,
 	["kenkofot-garalon"]=10,
 	["kennyk-garalon"]=18,
-	["kennyk-shekzeer"]=18,
+	["kennyk-shekzeer"]=1,
 	["kennykk-garalon"]=18,
-	["kennyykofot-garalon"]=24,
+	["kennyykofot-garalon"]=34,
 	["kenoh-shekzeer"]=18,
 	["kenrize-shekzeer"]=2,
 	["kenthalyriøs-auberdine"]=8,
@@ -7141,7 +7141,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["kigamí-shekzeer"]=0,
 	["killarrow-shekzeer"]=4,
 	["killedbybyby-shekzeer"]=7,
-	["killedbycops-shekzeer"]=7,
+	["killedbycops-shekzeer"]=29,
 	["killedbypet-shekzeer"]=14,
 	["killershots-shekzeer"]=4,
 	["killnixx-everlook"]=1,
@@ -7196,7 +7196,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["konkermonk-shekzeer"]=29,
 	["konkubinê-everlook"]=3,
 	["koosje-shekzeer"]=20,
-	["kopcap-shekzeer"]=6,
+	["kopcap-shekzeer"]=29,
 	["køpul-auberdine"]=15,
 	["koreanpriest-shekzeer"]=9,
 	["korial-shekzeer"]=1,
