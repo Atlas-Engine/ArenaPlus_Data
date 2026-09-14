@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5151 characters, read 2026-09-14 12:00 PM.
+-- Region us, 5151 characters, read 2026-09-14 01:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1302,6 +1302,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["dzenku-pagle"]=40,
 	["dzyx-pagle"]=50,
 	["easyassclass-raden"]=11,
+	["easymode-nazgrim"]=11,
 	["easyw-raden"]=11,
 	["easywork-arugal-au"]=11,
 	["eatin-pagle"]=10,
@@ -6225,7 +6226,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["drinkbeerz-raden"]=12,
 	["dripkingk-pagle"]=1,
 	["drippyberry-pagle"]=14,
-	["drivêbyê-galakras"]=18,
+	["drivêbyê-galakras"]=3,
 	["Ðrizko-raden"]=0,
 	["drizzla-pagle"]=14,
 	["drlovee-benediction"]=2,
@@ -6264,7 +6265,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dulcínea-raden"]=7,
 	["dumbcrumb-nazgrim"]=18,
 	["dumbpoptart-benediction"]=7,
-	["dumdum-nazgrim"]=20,
+	["dumdum-nazgrim"]=18,
 	["dúmß-raden"]=7,
 	["dúmßer-raden"]=16,
 	["dunardel-raden"]=30,
@@ -6283,12 +6284,12 @@ ns.SPECS_BY_REGION["us"] = {
 	["dwl-raden"]=12,
 	["dyingwhale-pagle"]=3,
 	["Ðyst-pagle"]=11,
-	["dystopia-pagle"]=12,
+	["dystopia-pagle"]=33,
 	["dÿzzi-pagle"]=14,
 	["dzenku-pagle"]=10,
 	["dzyx-pagle"]=9,
 	["easyassclass-raden"]=10,
-	["easymode-nazgrim"]=0,
+	["easymode-nazgrim"]=7,
 	["easyw-raden"]=7,
 	["easywork-arugal-au"]=1,
 	["eatin-pagle"]=26,
@@ -6327,7 +6328,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["elcubano-raden"]=5,
 	["eldiablobbx-raden"]=0,
 	["electabuzz-raden"]=3,
-	["electrikal-lei-shen"]=15,
+	["electrikal-lei-shen"]=19,
 	["electroxx-galakras"]=10,
 	["elementoos-lei-shen"]=19,
 	["elfakiller-nazgrim"]=18,
@@ -6347,7 +6348,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["elsea-galakras"]=25,
 	["eltoromu-nazgrim"]=5,
 	["elusivenes-raden"]=29,
-	["eluveth-pagle"]=9,
+	["eluveth-pagle"]=21,
 	["elvaqueromoo-immerseus"]=16,
 	["elvius-raden"]=7,
 	["elyä-pagle"]=16,
@@ -8430,7 +8431,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["pinkfinder-pagle"]=21,
 	["pinkfiregg-pagle"]=10,
 	["pinkisntwell-immerseus"]=21,
-	["pinkoutbreak-galakras"]=33,
+	["pinkoutbreak-galakras"]=17,
 	["pinkponyboy-raden"]=7,
 	["pinkspwn-raden"]=2,
 	["pinzas-pagle"]=21,
@@ -8805,7 +8806,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ruinous-raden"]=7,
 	["rumblìng-pagle"]=19,
 	["runescimmy-galakras"]=29,
-	["runestormx-galakras"]=6,
+	["runestormx-galakras"]=26,
 	["rushinfog-pagle"]=7,
 	["ruskimedved-pagle"]=19,
 	["ruthlesbeast-raden"]=7,
