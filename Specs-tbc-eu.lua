@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 10736 characters, read 2026-09-13 09:51 PM.
+-- Region tbc-eu, 10736 characters, read 2026-09-13 10:51 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -17652,7 +17652,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["peeskgb-spineshatter"]=12,
 	["peggz-spineshatter"]=5,
 	["pegmemother-spineshatter"]=6,
-	["pekerogue-spineshatter"]=3,
+	["pekerogue-spineshatter"]=19,
 	["pekkahpig-spineshatter"]=15,
 	["pekkahx-spineshatter"]=11,
 	["pekzugzug-thunderstrike"]=22,
@@ -17879,7 +17879,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["prea-spineshatter"]=2,
 	["prealock-spineshatter"]=13,
 	["prebenx-thunderstrike"]=15,
-	["prebone-spineshatter"]=6,
+	["prebone-spineshatter"]=0,
 	["predatorcxd-spineshatter"]=5,
 	["predatorxd-spineshatter"]=5,
 	["predicte-spineshatter"]=9,
@@ -21423,7 +21423,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["zyxzoftw-spineshatter"]=11,
 	["zztlock-spineshatter"]=13,
 	["Едруть-anniversary"]=1,
-	["Йооу-anniversary"]=13,
+	["Йооу-anniversary"]=14,
 	["Копчик-anniversary"]=19,
 	["Космея-anniversary"]=15,
 	["Мадамсезам-anniversary"]=4,
