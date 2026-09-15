@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5164 characters, read 2026-09-15 12:57 PM.
+-- Region us, 5163 characters, read 2026-09-15 01:57 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4469,7 +4469,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["torco-immerseus"]=20,
 	["torontopally-raden"]=11,
 	["tortaslayer-raden"]=10,
-	["toryko-raden"]=11,
 	["toshyro-nazgrim"]=100,
 	["tosi-pagle"]=51,
 	["totallyover-pagle"]=250,
@@ -5975,7 +5974,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["Ðark-nazgrim"]=6,
 	["darkavengerr-grobbulus"]=28,
 	["darkdankdope-raden"]=10,
-	["darkdeamon-pagle"]=11,
+	["darkdeamon-pagle"]=1,
 	["darkestcyn-galakras"]=28,
 	["darkferocity-grobbulus"]=21,
 	["darkjdm-lei-shen"]=6,
@@ -5992,7 +5991,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["darneljr-raden"]=1,
 	["darthdeath-pagle"]=23,
 	["darthmaos-nazgrim"]=16,
-	["dásh-nazgrim"]=2,
+	["dásh-nazgrim"]=16,
 	["datittycuz-galakras"]=20,
 	["daunit-raden"]=23,
 	["davebluntz-raden"]=2,
@@ -6559,7 +6558,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["flightschool-pagle"]=5,
 	["flipssix-lei-shen"]=18,
 	["floplock-raden"]=28,
-	["floridie-raden"]=4,
+	["floridie-raden"]=27,
 	["flowbow-pagle"]=3,
 	["flowkí-pagle"]=1,
 	["flownaze-galakras"]=5,
@@ -7216,7 +7215,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["jablinksi-immerseus"]=27,
 	["jabullsheeit-pagle"]=3,
 	["jabzul-galakras"]=3,
-	["jackelinc-pagle"]=20,
+	["jackelinc-pagle"]=18,
 	["jackietan-pagle"]=4,
 	["jackmorgan-pagle"]=16,
 	["jackxo-arugal-au"]=11,
@@ -9614,7 +9613,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["torco-immerseus"]=3,
 	["torontopally-raden"]=2,
 	["tortaslayer-raden"]=4,
-	["toryko-raden"]=4,
 	["toshyro-nazgrim"]=16,
 	["tosi-pagle"]=10,
 	["totallyover-pagle"]=15,

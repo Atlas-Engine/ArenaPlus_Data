@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5302 characters, read 2026-09-15 01:00 PM.
+-- Region eu, 5302 characters, read 2026-09-15 02:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1272,7 +1272,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["faithful-everlook"]=11,
 	["fakekickqt-everlook"]=11,
 	["fakenurse-shekzeer"]=41,
-	["fakepriest-shekzeer"]=11,
+	["fakepriest-shekzeer"]=10,
 	["fakesofke-shekzeer"]=11,
 	["falkìne-auberdine"]=30,
 	["falkong-shekzeer"]=10,
@@ -6408,7 +6408,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["fastaim-shekzeer"]=20,
 	["fastfast-shekzeer"]=9,
 	["fatimah-shekzeer"]=0,
-	["fatmartine-auberdine"]=25,
+	["fatmartine-auberdine"]=18,
 	["fatorbz-shekzeer"]=6,
 	["fatty-shekzeer"]=17,
 	["fazzu-shekzeer"]=9,
@@ -8929,7 +8929,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["sneakxz-shekzeer"]=24,
 	["sneatz-garalon"]=1,
 	["sneijz-shekzeer"]=1,
-	["sneqq-mirage-raceway"]=5,
+	["sneqq-mirage-raceway"]=15,
 	["snik-shekzeer"]=3,
 	["snillheks-shekzeer"]=21,
 	["snipr-shekzeer"]=4,
@@ -10120,7 +10120,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Даннхе-flamegor"]=8,
 	["Данялавандос-flamegor"]=24,
 	["Дархлан-flamegor"]=25,
-	["Дегродактель-flamegor"]=14,
+	["Дегродактель-flamegor"]=4,
 	["Делер-flamegor"]=20,
 	["Джагга-flamegor"]=19,
 	["Джелорд-flamegor"]=1,
