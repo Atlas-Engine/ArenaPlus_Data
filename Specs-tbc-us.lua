@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9894 characters, read 2026-09-15 02:58 PM.
+-- Region tbc-us, 9894 characters, read 2026-09-15 03:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12803,7 +12803,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["foggy-nightslayer"]=2,
 	["fokrawr-dreamscythe"]=7,
 	["fonz-nightslayer"]=13,
-	["fonzsham-nightslayer"]=19,
+	["fonzsham-nightslayer"]=10,
 	["fonzyx-nightslayer"]=13,
 	["foofstahz-nightslayer"]=1,
 	["fooleymignon-nightslayer"]=0,
@@ -13752,7 +13752,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["igra-nightslayer"]=15,
 	["ihatethis-nightslayer"]=1,
 	["ihealbott-nightslayer"]=7,
-	["ihealfolks-dreamscythe"]=0,
+	["ihealfolks-dreamscythe"]=1,
 	["ihealyoupeel-nightslayer"]=12,
 	["ihsanna-dreamscythe"]=7,
 	["iht-nightslayer"]=7,
@@ -14167,7 +14167,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["judgerok-nightslayer"]=25,
 	["judøchop-nightslayer"]=5,
 	["juggilyszx-nightslayer"]=10,
-	["juggilyz-nightslayer"]=24,
+	["juggilyz-nightslayer"]=10,
 	["juggilyzx-nightslayer"]=10,
 	["juheard-nightslayer"]=5,
 	["juicejuice-dreamscythe"]=7,
@@ -15933,7 +15933,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["oldmanvath-nightslayer"]=13,
 	["oldnewb-nightslayer"]=1,
 	["oldnfat-nightslayer"]=2,
-	["oldrichman-nightslayer"]=15,
+	["oldrichman-nightslayer"]=17,
 	["oldsixgnome-nightslayer"]=2,
 	["olebuckaroo-dreamscythe"]=2,
 	["oleole-nightslayer"]=7,
@@ -18600,7 +18600,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["travs-nightslayer"]=1,
 	["travsham-nightslayer"]=24,
 	["travsp-nightslayer"]=1,
-	["travzd-nightslayer"]=7,
+	["travzd-nightslayer"]=3,
 	["treatzz-nightslayer"]=5,
 	["treedeep-nightslayer"]=7,
 	["treefist-nightslayer"]=2,
