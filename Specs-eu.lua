@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5242 characters, read 2026-09-15 01:40 AM.
+-- Region eu, 5242 characters, read 2026-09-15 02:01 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3101,7 +3101,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["psychopathy-mirage-raceway"]=41,
 	["psýchosocial-shekzeer"]=41,
 	["psykbengel-shekzeer"]=11,
-	["ptk-shekzeer"]=220,
+	["ptk-shekzeer"]=221,
 	["puckfiggers-shekzeer"]=11,
 	["puipuii-garalon"]=260,
 	["pulsing-mirage-raceway"]=11,
@@ -8317,8 +8317,8 @@ ns.SPECS_BY_REGION["eu"] = {
 	["qtr-shekzeer"]=21,
 	["quackbae-shekzeer"]=0,
 	["qualitytime-garalon"]=13,
-	["quarok-shekzeer"]=28,
-	["quastwex-shekzeer"]=15,
+	["quarok-shekzeer"]=23,
+	["quastwex-shekzeer"]=30,
 	["queuepóp-shekzeer"]=5,
 	["quickerz-norushen"]=10,
 	["quilmes-mirage-raceway"]=9,
@@ -10214,7 +10214,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Слиип-flamegor"]=12,
 	["Смертоубица-flamegor"]=19,
 	["Совалесов-flamegor"]=11,
-	["Соснова-flamegor"]=17,
+	["Соснова-flamegor"]=23,
 	["Соулрейдж-flamegor"]=1,
 	["Сочныиочень-flamegor"]=17,
 	["Стабила-flamegor"]=9,
