@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 10675 characters, read 2026-09-15 08:59 AM.
+-- Region tbc-eu, 10675 characters, read 2026-09-15 09:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -13600,7 +13600,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["fessierpure-spineshatter"]=5,
 	["fetaknivenx-spineshatter"]=5,
 	["fetterkater-thunderstrike"]=1,
-	["fettmyestyr-spineshatter"]=0,
+	["fettmyestyr-spineshatter"]=2,
 	["fevviz-spineshatter"]=19,
 	["fexn-spineshatter"]=17,
 	["feyä-spineshatter"]=11,
@@ -15583,7 +15583,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["kulukalle-spineshatter"]=10,
 	["kunamoota-thunderstrike"]=22,
 	["kungenenzii-spineshatter"]=2,
-	["kungfupadla-spineshatter"]=0,
+	["kungfupadla-spineshatter"]=1,
 	["kungfuryxoxo-spineshatter"]=5,
 	["kungjah-spineshatter"]=5,
 	["kuppati-spineshatter"]=11,
@@ -15945,7 +15945,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["losgambas-spineshatter"]=9,
 	["løsmus-spineshatter"]=5,
 	["lostmytotem-spineshatter"]=11,
-	["lothwi-spineshatter"]=20,
+	["lothwi-spineshatter"]=1,
 	["lothwor-spineshatter"]=1,
 	["lothwori-spineshatter"]=11,
 	["lotor-spineshatter"]=4,
@@ -16124,7 +16124,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["maiandra-spineshatter"]=13,
 	["maïkey-spineshatter"]=3,
 	["mainecoonlol-spineshatter"]=1,
-	["maister-thunderstrike"]=19,
+	["maister-thunderstrike"]=3,
 	["majaan-thunderstrike"]=2,
 	["majesticpwn-spineshatter"]=5,
 	["majinfear-spineshatter"]=13,
@@ -18549,7 +18549,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["saprella-spineshatter"]=19,
 	["sapyboo-spineshatter"]=3,
 	["saren-spineshatter"]=19,
-	["sarilielia-spineshatter"]=4,
+	["sarilielia-spineshatter"]=9,
 	["sarjuras-thunderstrike"]=23,
 	["sarkki-spineshatter"]=6,
 	["sarulol-thunderstrike"]=13,

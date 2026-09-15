@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5155 characters, read 2026-09-15 08:57 AM.
+-- Region us, 5155 characters, read 2026-09-15 09:57 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6334,7 +6334,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["elcubano-raden"]=5,
 	["eldiablobbx-raden"]=0,
 	["electabuzz-raden"]=3,
-	["electrikal-lei-shen"]=19,
+	["electrikal-lei-shen"]=15,
 	["electroxx-galakras"]=10,
 	["elementoos-lei-shen"]=19,
 	["elfakiller-nazgrim"]=18,
@@ -6368,7 +6368,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["enaneitor-raden"]=1,
 	["encantadorah-raden"]=31,
 	["enciyetis-nazgrim"]=3,
-	["endeerr-nazgrim"]=20,
+	["endeerr-nazgrim"]=18,
 	["enes-raden"]=7,
 	["enforcerr-pagle"]=7,
 	["enhanstow-galakras"]=22,
@@ -7162,7 +7162,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["inperitus-arugal-au"]=15,
 	["insomniaxx-pagle"]=14,
 	["instantcarry-raden"]=10,
-	["integrityqt-pagle"]=13,
+	["integrityqt-pagle"]=21,
 	["intercepts-pagle"]=7,
 	["intrerri-pagle"]=34,
 	["intru-raden"]=3,
