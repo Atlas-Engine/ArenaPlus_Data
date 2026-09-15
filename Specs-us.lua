@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5155 characters, read 2026-09-15 07:57 AM.
+-- Region us, 5155 characters, read 2026-09-15 08:57 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3738,6 +3738,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["ryuù-raden"]=11,
 	["sabracadabra-raden"]=11,
 	["sacér-raden"]=10,
+	["sácera-raden"]=11,
 	["sactrac-nazgrim"]=21,
 	["sadarade-raden"]=11,
 	["sadism-pagle"]=11,
@@ -6700,7 +6701,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ghizzlane-galakras"]=13,
 	["ghosteyed-pagle"]=0,
 	["ghostßlades-pagle"]=29,
-	["ghostz-pagle"]=14,
+	["ghostz-pagle"]=34,
 	["ghoulgrabber-pagle"]=0,
 	["gigasimpx-pagle"]=7,
 	["gigawimpx-raden"]=6,
@@ -6711,7 +6712,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["gîmble-pagle"]=7,
 	["gimmediweed-raden"]=22,
 	["gimmiick-nazgrim"]=23,
-	["gimp-pagle"]=29,
+	["gimp-pagle"]=14,
 	["ginastel-raden"]=16,
 	["ginnette-raden"]=5,
 	["girlyman-pagle"]=2,
@@ -7632,7 +7633,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["limpzr-pagle"]=14,
 	["linares-lei-shen"]=24,
 	["linaress-lei-shen"]=16,
-	["linearly-pagle"]=19,
+	["linearly-pagle"]=22,
 	["linktrol-pagle"]=20,
 	["linnker-pagle"]=9,
 	["lionner-lei-shen"]=10,
@@ -8833,7 +8834,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ryuù-raden"]=7,
 	["sabracadabra-raden"]=1,
 	["sacér-raden"]=9,
-	["sácera-raden"]=0,
+	["sácera-raden"]=9,
 	["sactrac-nazgrim"]=3,
 	["sadarade-raden"]=1,
 	["sadism-pagle"]=10,
@@ -8874,7 +8875,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["sashastorm-pagle"]=24,
 	["sassybooty-galakras"]=10,
 	["satierf-pagle"]=17,
-	["satrian-pagle"]=18,
+	["satrian-pagle"]=3,
 	["satyricon-raden"]=28,
 	["saul-raden"]=22,
 	["sauro-immerseus"]=6,
