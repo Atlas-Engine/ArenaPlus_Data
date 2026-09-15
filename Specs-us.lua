@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5156 characters, read 2026-09-15 02:57 AM.
+-- Region us, 5156 characters, read 2026-09-15 03:57 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5766,7 +5766,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["chørizerø-immerseus"]=10,
 	["chorizó-pagle"]=12,
 	["chorizopower-lei-shen"]=6,
-	["chorizzero-immerseus"]=17,
+	["chorizzero-immerseus"]=12,
 	["chosenjuan-pagle"]=10,
 	["chotter-pagle"]=20,
 	["chrisffs-pagle"]=34,
@@ -7647,7 +7647,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["litmus-pagle"]=7,
 	["litoutz-pagle"]=11,
 	["littheri-pagle"]=17,
-	["littielight-pagle"]=13,
+	["littielight-pagle"]=21,
 	["littlefláme-pagle"]=1,
 	["littlegirl-raden"]=1,
 	["littletinkle-galakras"]=32,
@@ -7904,7 +7904,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["mikemonks-pagle"]=4,
 	["mikesangry-pagle"]=7,
 	["miku-galakras"]=0,
-	["milkwrecker-pagle"]=34,
+	["milkwrecker-pagle"]=29,
 	["míllicent-lei-shen"]=29,
 	["milox-nazgrim"]=7,
 	["mimö-raden"]=0,

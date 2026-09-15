@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5242 characters, read 2026-09-15 03:00 AM.
+-- Region eu, 5242 characters, read 2026-09-15 04:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7853,7 +7853,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["needmorerage-shekzeer"]=1,
 	["nefer-garalon"]=11,
 	["neferpitøu-everlook"]=13,
-	["nëgân-auberdine"]=26,
+	["nëgân-auberdine"]=34,
 	["nehlwtf-auberdine"]=15,
 	["nejiihyuga-shekzeer"]=7,
 	["nékro-garalon"]=23,
@@ -8062,8 +8062,8 @@ ns.SPECS_BY_REGION["eu"] = {
 	["oneeightsevn-shekzeer"]=17,
 	["onehitwonder-garalon"]=19,
 	["ongbak-shekzeer"]=6,
-	["onlydamage-hoptallus"]=10,
-	["onlyfox-ook-ook"]=14,
+	["onlydamage-hoptallus"]=2,
+	["onlyfox-ook-ook"]=4,
 	["onlyhuman-shekzeer"]=17,
 	["onlyinhuman-shekzeer"]=7,
 	["onlyspikes-shekzeer"]=12,
@@ -10088,7 +10088,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Лолпыщпыщ-flamegor"]=12,
 	["Лоргандил-flamegor"]=3,
 	["Луйсюнь-flamegor"]=7,
-	["Лумиари-flamegor"]=13,
+	["Лумиари-flamegor"]=16,
 	["Лунтикс-flamegor"]=11,
 	["Магачкала-flamegor"]=10,
 	["Мамбуту-flamegor"]=1,
