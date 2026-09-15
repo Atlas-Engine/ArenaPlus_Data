@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9916 characters, read 2026-09-15 05:58 AM.
+-- Region tbc-us, 9916 characters, read 2026-09-15 06:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -13454,7 +13454,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["healthls-nightslayer"]=11,
 	["healthz-nightslayer"]=14,
 	["hearthvader-nightslayer"]=11,
-	["heartwork-nightslayer"]=4,
+	["heartwork-nightslayer"]=6,
 	["heaters-dreamscythe"]=2,
 	["heatrash-nightslayer"]=6,
 	["heatscores-nightslayer"]=5,
@@ -13973,7 +13973,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["jamzkee-nightslayer"]=0,
 	["jamzki-nightslayer"]=5,
 	["jamzkii-nightslayer"]=12,
-	["jandista-nightslayer"]=0,
+	["jandista-nightslayer"]=4,
 	["janegoodru-nightslayer"]=22,
 	["janetjackson-nightslayer"]=9,
 	["janey-nightslayer"]=4,
@@ -13989,7 +13989,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["jassylb-nightslayer"]=3,
 	["jattdruid-nightslayer"]=7,
 	["javoh-nightslayer"]=19,
-	["jävz-nightslayer"]=2,
+	["jävz-nightslayer"]=18,
 	["jawsrovrated-nightslayer"]=5,
 	["jawsthedruid-nightslayer"]=22,
 	["jawws-nightslayer"]=5,
@@ -14226,7 +14226,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["kabb-nightslayer"]=4,
 	["kabshaak-dreamscythe"]=1,
 	["kachicoh-nightslayer"]=1,
-	["kadsexe-nightslayer"]=2,
+	["kadsexe-nightslayer"]=18,
 	["kafflo-nightslayer"]=18,
 	["kagetotemu-nightslayer"]=19,
 	["kahla-nightslayer"]=2,
@@ -14248,7 +14248,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["kallypsa-nightslayer"]=10,
 	["kaloi-dreamscythe"]=1,
 	["kalsiyum-nightslayer"]=13,
-	["kalystol-dreamscythe"]=11,
+	["kalystol-dreamscythe"]=25,
 	["kamahalo-nightslayer"]=4,
 	["kamí-nightslayer"]=2,
 	["kamingo-nightslayer"]=15,
@@ -18259,7 +18259,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["talkxx-nightslayer"]=3,
 	["talladaga-nightslayer"]=1,
 	["tallborture-nightslayer"]=5,
-	["talond-nightslayer"]=22,
+	["talond-nightslayer"]=7,
 	["talongoat-nightslayer"]=15,
 	["tamari-nightslayer"]=1,
 	["tandatwo-nightslayer"]=15,
@@ -19244,7 +19244,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["wikey-nightslayer"]=21,
 	["wilbèr-nightslayer"]=10,
 	["wildmongoose-dreamscythe"]=6,
-	["wildyz-nightslayer"]=22,
+	["wildyz-nightslayer"]=7,
 	["wiliamwalace-dreamscythe"]=2,
 	["willco-nightslayer"]=7,
 	["willcoh-nightslayer"]=1,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5242 characters, read 2026-09-15 06:00 AM.
+-- Region eu, 5244 characters, read 2026-09-15 07:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -843,6 +843,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["crumbled-auberdine"]=11,
 	["crunked-auberdine"]=11,
 	["crunøx-mirage-raceway"]=41,
+	["crushnikov-shekzeer"]=11,
 	["cryla-ook-ook"]=21,
 	["cryoqt-shekzeer"]=11,
 	["cryptonx-everlook"]=11,
@@ -2296,6 +2297,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["lonelyx-garalon"]=51,
 	["longaotian-ook-ook"]=51,
 	["lookee-garalon"]=80,
+	["loraden-shekzeer"]=11,
 	["loradenn-shekzeer"]=11,
 	["lorcmanaudou-auberdine"]=20,
 	["lorinser-shekzeer"]=10,
@@ -5896,6 +5898,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["crumbled-auberdine"]=26,
 	["crunked-auberdine"]=1,
 	["crunøx-mirage-raceway"]=11,
+	["crushnikov-shekzeer"]=1,
 	["cryla-ook-ook"]=19,
 	["cryoqt-shekzeer"]=2,
 	["cryptonx-everlook"]=1,
@@ -7410,6 +7413,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["lonelyx-garalon"]=24,
 	["longaotian-ook-ook"]=6,
 	["lookee-garalon"]=3,
+	["loraden-shekzeer"]=14,
 	["loradenn-shekzeer"]=5,
 	["lorcmanaudou-auberdine"]=16,
 	["lorelis-everlook"]=0,
@@ -7590,7 +7594,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["mefkaqt-shekzeer"]=4,
 	["mëga-mirage-raceway"]=5,
 	["mëgâ-mirage-raceway"]=8,
-	["megacita-shekzeer"]=12,
+	["megacita-shekzeer"]=22,
 	["megcecmpa-shekzeer"]=5,
 	["meilev-hoptallus"]=3,
 	["mejorbrujoxd-shekzeer"]=17,
@@ -9688,7 +9692,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["xyána-everlook"]=9,
 	["xyraine-norushen"]=9,
 	["yagnarok-mirage-raceway"]=1,
-	["yahmo-shekzeer"]=17,
+	["yahmo-shekzeer"]=23,
 	["yambol-garalon"]=3,
 	["yangka-shekzeer"]=0,
 	["yantra-shekzeer"]=16,
