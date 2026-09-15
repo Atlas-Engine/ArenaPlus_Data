@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5154 characters, read 2026-09-15 12:00 AM.
+-- Region us, 5154 characters, read 2026-09-15 01:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4680,7 +4680,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["vonxx-pagle"]=11,
 	["vonzxy-pagle"]=20,
 	["vorag-nazgrim"]=20,
-	["voromyr-lei-shen"]=11,
+	["voromyr-lei-shen"]=10,
 	["vorthorne-raden"]=10,
 	["voshay-pagle"]=81,
 	["vovaii-pagle"]=41,
@@ -8227,7 +8227,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["nützach-lei-shen"]=13,
 	["nutzs-raden"]=6,
 	["nuvenya-pagle"]=4,
-	["nüwa-pagle"]=11,
+	["nüwa-pagle"]=1,
 	["nuzzles-raden"]=5,
 	["nvrtrinket-raden"]=5,
 	["nvxl-pagle"]=1,
@@ -8319,7 +8319,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["orcz-pagle"]=7,
 	["ordanary-pagle"]=4,
 	["ordinary-galakras"]=5,
-	["orgian-pagle"]=17,
+	["orgian-pagle"]=5,
 	["orgimmar-raden"]=11,
 	["originalgank-pagle"]=0,
 	["orkage-immerseus"]=4,
@@ -8364,12 +8364,12 @@ ns.SPECS_BY_REGION["us"] = {
 	["paladtty-lei-shen"]=16,
 	["palafornia-raden"]=16,
 	["palalazy-pagle"]=16,
-	["palamán-raden"]=16,
+	["palamán-raden"]=32,
 	["palapala-pagle"]=2,
 	["pallyboss-galakras"]=0,
 	["pallylynch-raden"]=16,
 	["palodan-arugal-au"]=2,
-	["palpatîne-pagle"]=24,
+	["palpatîne-pagle"]=28,
 	["palyvash-galakras"]=16,
 	["palyy-raden"]=16,
 	["panchodelsur-nazgrim"]=1,
@@ -8426,7 +8426,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["péstilence-pagle"]=6,
 	["peteslimjim-galakras"]=7,
 	["pewpilpopper-pagle"]=3,
-	["péz-pagle"]=27,
+	["péz-pagle"]=4,
 	["pezdispencer-raden"]=2,
 	["phöoba-pagle"]=12,
 	["phrra-pagle"]=7,
@@ -9807,7 +9807,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["visenyxa-pagle"]=21,
 	["visions-pagle"]=28,
 	["vitaly-nazgrim"]=17,
-	["vivabo-galakras"]=17,
+	["vivabo-galakras"]=5,
 	["vlaxx-nazgrim"]=22,
 	["vmsav-pagle"]=14,
 	["vøcality-raden"]=10,

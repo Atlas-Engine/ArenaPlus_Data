@@ -17,7 +17,7 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region eu, season 14, read 2026-09-14 11:55 PM.
+-- Region eu, season 14, read 2026-09-15 12:55 AM.
 -- Realm display names, because the ladder only carries slugs and no rule
 -- turns one back into the other: raden is Ra-den, lei-shen is Lei Shen and
 -- arugal-au is Arugal (AU). Read from Blizzard's realm index; a slug with no
@@ -34,9 +34,9 @@ ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["eu"] = {
 	region  = "eu",
-	checked = "2026-09-14 11:55 PM",
-	checkedEpoch = 1789444552,
-	snapshot = "2026-09-15 01:14",
+	checked = "2026-09-15 12:55 AM",
+	checkedEpoch = 1789448137,
+	snapshot = "2026-09-15 04:14",
 
 	[1] = {  -- 2v2, 5002 places, down to rating 1043 -- the API stops here, short of the cutoff
 		{ rank=1, name="Ay", realm="shekzeer", rating=2693, won=116, lost=3, faction="ALLIANCE", dr=79, dk=-11 },
@@ -592,26 +592,26 @@ ns.LEADERBOARD_BY_REGION["eu"] = {
 		{ rank=549, name="Karasava", realm="shekzeer", rating=2153, won=501, lost=425, faction="ALLIANCE", mr=2159, dr=11, dk=-3 },
 		{ rank=549, name="Tien", realm="shekzeer", rating=2153, won=45, lost=23, faction="ALLIANCE", dr=0, dk=28 },
 		{ rank=553, name="Janegray", realm="shekzeer", rating=2152, won=74, lost=38, faction="ALLIANCE", dr=0, dk=30 },
+		{ rank=554, name="Ayaya", realm="ook-ook", rating=2151, won=47, lost=42, faction="HORDE", dr=218, dk=-829 },
 		{ rank=554, name="Freakírl", realm="shekzeer", rating=2151, won=70, lost=43, faction="ALLIANCE", dr=11, dk=-4 },
 		{ rank=554, name="Melk", realm="shekzeer", rating=2151, won=101, lost=88, faction="ALLIANCE", dr=0, dk=29 },
-		{ rank=556, name="Lazani", realm="shekzeer", rating=2150, won=52, lost=36, faction="ALLIANCE", dr=0, dk=27 },
-		{ rank=556, name="Nonameww", realm="shekzeer", rating=2150, won=85, lost=79, faction="ALLIANCE", dr=0, dk=27 },
-		{ rank=556, name="Szexjebøaka", realm="mirage-raceway", rating=2150, won=227, lost=211, faction="ALLIANCE", mr=2181, dr=-31, dk=104 },
-		{ rank=559, name="Beskunk", realm="shekzeer", rating=2149, won=70, lost=57, faction="ALLIANCE", dr=0, dk=28 },
-		{ rank=559, name="Monkasxd", realm="ook-ook", rating=2149, won=163, lost=157, faction="HORDE", mr=2161, dr=0, dk=28 },
-		{ rank=561, name="Icantrap", realm="shekzeer", rating=2148, won=166, lost=178, faction="ALLIANCE", dr=0, dk=28 },
-		{ rank=561, name="Mascaraxoxo", realm="shekzeer", rating=2148, won=444, lost=397, faction="ALLIANCE", mr=2191, dr=-43, dk=122 },
-		{ rank=561, name="Zâh", realm="shekzeer", rating=2148, won=51, lost=27, faction="ALLIANCE", dr=0, dk=28 },
-		{ rank=564, name="Capcarapkin", realm="shekzeer", rating=2147, won=121, lost=109, faction="ALLIANCE", dr=0, dk=28 },
-		{ rank=565, name="Acquap", realm="shekzeer", rating=2146, won=61, lost=47, faction="ALLIANCE", dr=0, dk=28 },
-		{ rank=565, name="Eelasalways", realm="shekzeer", rating=2146, won=49, lost=15, faction="ALLIANCE", dr=0, dk=28 },
-		{ rank=565, name="Ryuuren", realm="garalon", rating=2146, won=160, lost=119, faction="ALLIANCE", dr=0, dk=28 },
-		{ rank=565, name="Samisa", realm="shekzeer", rating=2146, won=66, lost=41, faction="ALLIANCE", dr=0, dk=28 },
-		{ rank=565, name="Коррелятсна", realm="flamegor", rating=2146, won=127, lost=117, faction="HORDE", dr=0, dk=28 },
-		{ rank=570, name="Fiftsven", realm="everlook", rating=2145, won=56, lost=43, faction="ALLIANCE", dr=0, dk=28 },
-		{ rank=571, name="Ayaya", realm="ook-ook", rating=2144, won=46, lost=37, faction="HORDE", dr=211, dk=-812 },
-		{ rank=571, name="Lehunt", realm="shekzeer", rating=2144, won=112, lost=89, faction="ALLIANCE", dr=0, dk=27 },
-		{ rank=571, name="Pät", realm="ook-ook", rating=2144, won=46, lost=37, faction="HORDE", dr=211, dk=-812 },
+		{ rank=554, name="Pät", realm="ook-ook", rating=2151, won=47, lost=42, faction="HORDE", dr=218, dk=-829 },
+		{ rank=558, name="Lazani", realm="shekzeer", rating=2150, won=52, lost=36, faction="ALLIANCE", dr=0, dk=29 },
+		{ rank=558, name="Nonameww", realm="shekzeer", rating=2150, won=85, lost=79, faction="ALLIANCE", dr=0, dk=29 },
+		{ rank=558, name="Szexjebøaka", realm="mirage-raceway", rating=2150, won=227, lost=211, faction="ALLIANCE", mr=2181, dr=-31, dk=106 },
+		{ rank=561, name="Beskunk", realm="shekzeer", rating=2149, won=70, lost=57, faction="ALLIANCE", dr=0, dk=30 },
+		{ rank=561, name="Monkasxd", realm="ook-ook", rating=2149, won=163, lost=157, faction="HORDE", mr=2161, dr=0, dk=30 },
+		{ rank=563, name="Icantrap", realm="shekzeer", rating=2148, won=166, lost=178, faction="ALLIANCE", dr=0, dk=30 },
+		{ rank=563, name="Mascaraxoxo", realm="shekzeer", rating=2148, won=444, lost=397, faction="ALLIANCE", mr=2191, dr=-43, dk=124 },
+		{ rank=563, name="Zâh", realm="shekzeer", rating=2148, won=51, lost=27, faction="ALLIANCE", dr=0, dk=30 },
+		{ rank=566, name="Capcarapkin", realm="shekzeer", rating=2147, won=121, lost=109, faction="ALLIANCE", dr=0, dk=30 },
+		{ rank=567, name="Acquap", realm="shekzeer", rating=2146, won=61, lost=47, faction="ALLIANCE", dr=0, dk=30 },
+		{ rank=567, name="Eelasalways", realm="shekzeer", rating=2146, won=49, lost=15, faction="ALLIANCE", dr=0, dk=30 },
+		{ rank=567, name="Ryuuren", realm="garalon", rating=2146, won=160, lost=119, faction="ALLIANCE", dr=0, dk=30 },
+		{ rank=567, name="Samisa", realm="shekzeer", rating=2146, won=66, lost=41, faction="ALLIANCE", dr=0, dk=30 },
+		{ rank=567, name="Коррелятсна", realm="flamegor", rating=2146, won=127, lost=117, faction="HORDE", dr=0, dk=30 },
+		{ rank=572, name="Fiftsven", realm="everlook", rating=2145, won=56, lost=43, faction="ALLIANCE", dr=0, dk=30 },
+		{ rank=573, name="Lehunt", realm="shekzeer", rating=2144, won=112, lost=89, faction="ALLIANCE", dr=0, dk=29 },
 		{ rank=574, name="Andysgone", realm="shekzeer", rating=2143, won=128, lost=119, faction="ALLIANCE", dr=0, dk=28 },
 		{ rank=574, name="Bigshotorca", realm="shekzeer", rating=2143, won=81, lost=55, faction="ALLIANCE", dr=0, dk=28 },
 		{ rank=574, name="Foxløl", realm="everlook", rating=2143, won=60, lost=42, faction="ALLIANCE", dr=0, dk=28 },
