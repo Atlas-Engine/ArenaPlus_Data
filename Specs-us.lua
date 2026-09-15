@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5155 characters, read 2026-09-15 09:57 AM.
+-- Region us, 5155 characters, read 2026-09-15 10:57 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1336,6 +1336,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["elania-pagle"]=41,
 	["elchjager-pagle"]=20,
 	["elcubano-raden"]=41,
+	["eldiablobbx-raden"]=11,
 	["electabuzz-raden"]=11,
 	["electrikal-lei-shen"]=30,
 	["electroxx-galakras"]=20,
@@ -6332,7 +6333,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["elania-pagle"]=9,
 	["elchjager-pagle"]=20,
 	["elcubano-raden"]=5,
-	["eldiablobbx-raden"]=0,
+	["eldiablobbx-raden"]=14,
 	["electabuzz-raden"]=3,
 	["electrikal-lei-shen"]=15,
 	["electroxx-galakras"]=10,
@@ -8501,7 +8502,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["poppcorn-raden"]=5,
 	["popsmokè-pagle"]=29,
 	["pörch-pagle"]=14,
-	["porkchopx-nazgrim"]=10,
+	["porkchopx-nazgrim"]=4,
 	["porkfriedrai-immerseus"]=4,
 	["portholio-pagle"]=4,
 	["potatoes-arugal-au"]=18,
@@ -9894,7 +9895,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["whítéé-raden"]=6,
 	["whitellily-raden"]=5,
 	["whìtêmöñstér-raden"]=10,
-	["whitlock-lei-shen"]=1,
+	["whitlock-lei-shen"]=11,
 	["whittle-lei-shen"]=9,
 	["whodïs-galakras"]=3,
 	["whytho-galakras"]=4,

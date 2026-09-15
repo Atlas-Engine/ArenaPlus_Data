@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5243 characters, read 2026-09-15 10:00 AM.
+-- Region eu, 5243 characters, read 2026-09-15 11:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5800,7 +5800,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["chillywily-shekzeer"]=6,
 	["chimèrebaddy-shekzeer"]=4,
 	["chìpolata-auberdine"]=26,
-	["chirdè-auberdine"]=34,
+	["chirdè-auberdine"]=26,
 	["chisuckd-shekzeer"]=6,
 	["chocobobax-auberdine"]=1,
 	["choice-mirage-raceway"]=8,
@@ -6968,7 +6968,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["jepetemabier-shekzeer"]=7,
 	["jeromepowell-shekzeer"]=6,
 	["jerryluv-shekzeer"]=24,
-	["jesi-norushen"]=10,
+	["jesi-norushen"]=2,
 	["jetekittbro-auberdine"]=4,
 	["jhaku-shekzeer"]=22,
 	["jhealmal-auberdine"]=19,
@@ -7060,7 +7060,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["kakantonkija-shekzeer"]=29,
 	["kakkapommi-shekzeer"]=25,
 	["kakkatykki-shekzeer"]=2,
-	["kalagalla-mirage-raceway"]=7,
+	["kalagalla-mirage-raceway"]=6,
 	["kalash-shekzeer"]=15,
 	["kaleidoscope-shekzeer"]=21,
 	["kaliichi-everlook"]=6,
@@ -9546,7 +9546,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["wheelygood-shekzeer"]=20,
 	["whereâreyûat-everlook"]=23,
 	["wheyx-shekzeer"]=12,
-	["wheyxw-shekzeer"]=1,
+	["wheyxw-shekzeer"]=25,
 	["whipmepls-shekzeer"]=8,
 	["whisp-garalon"]=11,
 	["whoppa-shekzeer"]=1,
