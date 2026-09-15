@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9894 characters, read 2026-09-15 01:58 PM.
+-- Region tbc-us, 9894 characters, read 2026-09-15 02:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12077,7 +12077,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["douglvs-nightslayer"]=10,
 	["dougotar-nightslayer"]=2,
 	["dougothy-nightslayer"]=5,
-	["dougthar-nightslayer"]=19,
+	["dougthar-nightslayer"]=10,
 	["dougx-nightslayer"]=2,
 	["doujaberry-nightslayer"]=1,
 	["downshift-nightslayer"]=3,
@@ -13069,7 +13069,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["gielhsa-nightslayer"]=1,
 	["gigabigcat-nightslayer"]=3,
 	["gigabonk-nightslayer"]=18,
-	["gigabowser-nightslayer"]=1,
+	["gigabowser-nightslayer"]=12,
 	["gigadunk-nightslayer"]=2,
 	["gigagigachad-nightslayer"]=0,
 	["gigaqookd-nightslayer"]=14,
@@ -14171,8 +14171,8 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["juggilyzx-nightslayer"]=10,
 	["juheard-nightslayer"]=5,
 	["juicejuice-dreamscythe"]=7,
-	["juicetime-nightslayer"]=10,
-	["juiceydots-nightslayer"]=13,
+	["juicetime-nightslayer"]=19,
+	["juiceydots-nightslayer"]=16,
 	["juicxd-nightslayer"]=2,
 	["juicyjer-dreamscythe"]=7,
 	["jujitsujimmy-nightslayer"]=8,
@@ -15216,7 +15216,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["mgkita-dreamscythe"]=3,
 	["mgu-nightslayer"]=7,
 	["mhenasx-nightslayer"]=8,
-	["mhmhm-nightslayer"]=8,
+	["mhmhm-nightslayer"]=5,
 	["mhmyupp-nightslayer"]=19,
 	["miamirose-nightslayer"]=5,
 	["miamizoo-nightslayer"]=1,
@@ -16346,7 +16346,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["pongkix-nightslayer"]=7,
 	["pongkixo-nightslayer"]=7,
 	["pookiie-dreamscythe"]=19,
-	["poolnearmall-dreamscythe"]=6,
+	["poolnearmall-dreamscythe"]=4,
 	["pooncracker-nightslayer"]=2,
 	["pooterzugs-dreamscythe"]=13,
 	["pootyspank-nightslayer"]=1,
@@ -16571,7 +16571,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["raazor-nightslayer"]=2,
 	["raazorcr-nightslayer"]=2,
 	["raazorcrr-nightslayer"]=2,
-	["rabbii-nightslayer"]=4,
+	["rabbii-nightslayer"]=6,
 	["rabear-nightslayer"]=7,
 	["rabishmuley-nightslayer"]=19,
 	["raboute-nightslayer"]=18,

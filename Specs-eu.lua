@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5302 characters, read 2026-09-15 02:00 PM.
+-- Region eu, 5302 characters, read 2026-09-15 03:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6446,7 +6446,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["figment-garalon"]=3,
 	["figuar-garalon"]=4,
 	["fiksiuss-mirage-raceway"]=15,
-	["filmar-shekzeer"]=20,
+	["filmar-shekzeer"]=4,
 	["filmarisa-shekzeer"]=26,
 	["filthyfresh-shekzeer"]=12,
 	["finq-mirage-raceway"]=17,
@@ -6469,7 +6469,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["flárín-shekzeer"]=3,
 	["flârix-shekzeer"]=4,
 	["flayhow-auberdine"]=31,
-	["fleqqzdotx-shekzeer"]=8,
+	["fleqqzdotx-shekzeer"]=31,
 	["floby-everlook"]=3,
 	["flodo-shekzeer"]=25,
 	["floopycat-shekzeer"]=3,
@@ -7935,7 +7935,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["naz-shekzeer"]=1,
 	["nâzrins-shekzeer"]=23,
 	["nebuplum-shekzeer"]=28,
-	["necromancy-shekzeer"]=23,
+	["necromancy-shekzeer"]=17,
 	["necrot-hoptallus"]=24,
 	["necroticflow-shekzeer"]=8,
 	["necrozis-garalon"]=33,
@@ -9321,7 +9321,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["torloco-everlook"]=14,
 	["torlocqt-everlook"]=2,
 	["torloqt-everlook"]=15,
-	["torpeza-mirage-raceway"]=14,
+	["torpeza-mirage-raceway"]=4,
 	["torrio-shekzeer"]=22,
 	["torryz-shekzeer"]=1,
 	["tosfandes-shekzeer"]=9,
@@ -9805,7 +9805,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["yantra-shekzeer"]=16,
 	["yapful-shekzeer"]=5,
 	["yåpful-shekzeer"]=17,
-	["yaraki-mirage-raceway"]=2,
+	["yaraki-mirage-raceway"]=10,
 	["yaruna-mirage-raceway"]=10,
 	["yaymonk-mirage-raceway"]=7,
 	["ydé-shekzeer"]=2,
