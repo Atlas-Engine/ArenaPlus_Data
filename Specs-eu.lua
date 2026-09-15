@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5241 characters, read 2026-09-14 08:55 PM.
+-- Region eu, 5242 characters, read 2026-09-14 09:56 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -669,6 +669,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["carbonara-garalon"]=111,
 	["caricm-ook-ook"]=101,
 	["cârîpha-ook-ook"]=11,
+	["cârnagë-shekzeer"]=10,
 	["carnivals-shekzeer"]=40,
 	["carolinaeatr-garalon"]=51,
 	["carpaccío-shekzeer"]=20,
@@ -2913,7 +2914,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["onlyswaps-shekzeer"]=11,
 	["Ønlyswaps-shekzeer"]=11,
 	["onüç-shekzeer"]=21,
-	["oo-shekzeer"]=21,
+	["oo-shekzeer"]=20,
 	["ooboom-shekzeer"]=41,
 	["oof-shekzeer"]=11,
 	["ooffa-hoptallus"]=60,
@@ -3366,7 +3367,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["rxsebøy-auberdine"]=11,
 	["rýdøthâðwlx-everlook"]=40,
 	["rydothedk-everlook"]=11,
-	["rýdøthègøátx-everlook"]=111,
+	["rýdøthègøátx-everlook"]=110,
 	["rydotheholy-everlook"]=10,
 	["rydothemage-everlook"]=11,
 	["rydothemonk-everlook"]=11,
@@ -3849,7 +3850,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["sysmann-hoptallus"]=11,
 	["szarfosclass-norushen"]=21,
 	["szasha-shekzeer"]=11,
-	["szashå-shekzeer"]=10,
+	["szashå-shekzeer"]=11,
 	["szexjebøaka-mirage-raceway"]=11,
 	["szh-shekzeer"]=11,
 	["szowinista-hoptallus"]=10,
@@ -5714,6 +5715,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["caricm-ook-ook"]=6,
 	["cârîpha-ook-ook"]=8,
 	["carlcox-shekzeer"]=0,
+	["cârnagë-shekzeer"]=1,
 	["carnivals-shekzeer"]=11,
 	["carolinaeatr-garalon"]=9,
 	["carpaccío-shekzeer"]=1,
@@ -7018,7 +7020,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["juhi-shekzeer"]=15,
 	["juicedog-shekzeer"]=5,
 	["juicehunter-garalon"]=4,
-	["juicyhieler-everlook"]=22,
+	["juicyhieler-everlook"]=9,
 	["juicykon-everlook"]=15,
 	["juicynancy-everlook"]=7,
 	["juicyraya-everlook"]=24,
@@ -7207,7 +7209,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["konkermonk-shekzeer"]=29,
 	["konkubinê-everlook"]=3,
 	["koosje-shekzeer"]=20,
-	["kopcap-shekzeer"]=29,
+	["kopcap-shekzeer"]=6,
 	["køpul-auberdine"]=15,
 	["koreanpriest-shekzeer"]=9,
 	["korial-shekzeer"]=1,
@@ -9741,7 +9743,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["yuy-shekzeer"]=7,
 	["Ÿûÿûÿûÿûÿûÿû-shekzeer"]=8,
 	["yva-shekzeer"]=2,
-	["yvachi-garalon"]=29,
+	["yvachi-garalon"]=6,
 	["yvachi-shekzeer"]=6,
 	["yvas-garalon"]=13,
 	["yvow-garalon"]=31,
@@ -9779,7 +9781,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["zeeppaan-garalon"]=24,
 	["zeeppan-garalon"]=16,
 	["zefopro-shekzeer"]=34,
-	["zekax-shekzeer"]=11,
+	["zekax-shekzeer"]=21,
 	["zelanor-garalon"]=11,
 	["zelenysharik-shekzeer"]=7,
 	["zelîy-shekzeer"]=19,

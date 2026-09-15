@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5152 characters, read 2026-09-14 09:00 PM.
+-- Region us, 5152 characters, read 2026-09-14 10:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6180,7 +6180,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dorayeda-galakras"]=10,
 	["dorky-arugal-au"]=0,
 	["dorris-raden"]=5,
-	["dorrsil-galakras"]=5,
+	["dorrsil-galakras"]=12,
 	["dorsil-galakras"]=1,
 	["dorsïl-galakras"]=10,
 	["dörsil-pagle"]=7,
@@ -6560,7 +6560,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["fongula-pagle"]=7,
 	["fontainesdc-arugal-au"]=4,
 	["fooksumbody-pagle"]=13,
-	["forbes-pagle"]=4,
+	["forbes-pagle"]=10,
 	["forecast-pagle"]=1,
 	["forever-pagle"]=21,
 	["forgotoshift-pagle"]=5,
@@ -7446,7 +7446,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["kkala-lei-shen"]=5,
 	["klausjr-pagle"]=24,
 	["klenzen-raden"]=10,
-	["klept-raden"]=4,
+	["klept-raden"]=10,
 	["kleptix-raden"]=34,
 	["knottypawz-pagle"]=17,
 	["knuckles-pagle"]=7,
@@ -8465,7 +8465,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["plv-raden"]=29,
 	["pochen-nazgrim"]=9,
 	["pohtato-immerseus"]=4,
-	["poinge-pagle"]=17,
+	["poinge-pagle"]=5,
 	["poisonblades-pagle"]=34,
 	["poixon-pagle"]=3,
 	["poizøønzx-galakras"]=34,
@@ -8524,7 +8524,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["promiseland-immerseus"]=16,
 	["prosecutorfn-raden"]=7,
 	["protektive-pagle"]=7,
-	["protmain-raden"]=32,
+	["protmain-raden"]=16,
 	["protomech-lei-shen"]=6,
 	["prototypeceo-pagle"]=14,
 	["proudgoyim-raden"]=7,
