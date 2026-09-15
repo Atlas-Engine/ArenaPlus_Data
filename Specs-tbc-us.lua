@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9890 characters, read 2026-09-15 04:58 PM.
+-- Region tbc-us, 9890 characters, read 2026-09-15 05:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12966,7 +12966,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["garangg-nightslayer"]=19,
 	["garangz-nightslayer"]=19,
 	["garbaje-nightslayer"]=4,
-	["gargamele-nightslayer"]=12,
+	["gargamele-nightslayer"]=1,
 	["gargigger-nightslayer"]=10,
 	["garlickbred-nightslayer"]=1,
 	["garroyy-nightslayer"]=4,
@@ -13231,7 +13231,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["gregsdead-nightslayer"]=1,
 	["grekt-nightslayer"]=2,
 	["grektlawls-nightslayer"]=11,
-	["gremey-nightslayer"]=13,
+	["gremey-nightslayer"]=16,
 	["grepple-nightslayer"]=5,
 	["grezz-nightslayer"]=1,
 	["griid-dreamscythe"]=2,
@@ -13555,7 +13555,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["holamigo-nightslayer"]=8,
 	["holdenhands-nightslayer"]=0,
 	["holdfastw-dreamscythe"]=18,
-	["holdmypho-nightslayer"]=8,
+	["holdmypho-nightslayer"]=5,
 	["holeefukx-nightslayer"]=5,
 	["holg-nightslayer"]=25,
 	["holkx-nightslayer"]=23,
@@ -16329,7 +16329,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["polyqq-nightslayer"]=4,
 	["pomegranatez-nightslayer"]=12,
 	["pomper-nightslayer"]=4,
-	["pomrad-nightslayer"]=6,
+	["pomrad-nightslayer"]=4,
 	["pomslave-nightslayer"]=1,
 	["pomswideopen-nightslayer"]=8,
 	["ponderøsa-dreamscythe"]=7,

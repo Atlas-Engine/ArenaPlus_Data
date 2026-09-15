@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5161 characters, read 2026-09-15 04:57 PM.
+-- Region us, 5161 characters, read 2026-09-15 05:57 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -847,7 +847,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["cobearsdruid-pagle"]=80,
 	["cobrä-pagle"]=80,
 	["cöbrä-pagle"]=11,
-	["cochonhalal-pagle"]=11,
+	["cochonhalal-pagle"]=10,
 	["codywithak-raden"]=11,
 	["codyxd-pagle"]=10,
 	["cohenx-pagle"]=10,
@@ -6589,7 +6589,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["franco-nazgrim"]=25,
 	["frankieboy-galakras"]=0,
 	["frankinator-raden"]=4,
-	["frasno-nazgrim"]=34,
+	["frasno-nazgrim"]=14,
 	["frawbinbowls-pagle"]=16,
 	["fraydk-arugal-au"]=6,
 	["freakshowx-raden"]=5,
@@ -9242,7 +9242,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["speedfiree-pagle"]=3,
 	["speedymon-raden"]=4,
 	["speedypee-pagle"]=14,
-	["spéllcaster-raden"]=25,
+	["spéllcaster-raden"]=6,
 	["spellz-nazgrim"]=1,
 	["spentskill-pagle"]=12,
 	["spicyaffairs-galakras"]=0,
