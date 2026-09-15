@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9916 characters, read 2026-09-15 04:58 AM.
+-- Region tbc-us, 9916 characters, read 2026-09-15 05:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9896,7 +9896,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["adamwow-nightslayer"]=16,
 	["adarx-nightslayer"]=2,
 	["adb-nightslayer"]=4,
-	["adeavian-nightslayer"]=0,
+	["adeavian-nightslayer"]=7,
 	["adequacy-nightslayer"]=7,
 	["adiajr-dreamscythe"]=4,
 	["adilette-nightslayer"]=4,
@@ -10541,7 +10541,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["berryss-nightslayer"]=1,
 	["berserkx-nightslayer"]=2,
 	["berzerkbolt-nightslayer"]=10,
-	["berzz-nightslayer"]=18,
+	["berzz-nightslayer"]=2,
 	["beshootnshi-nightslayer"]=21,
 	["bestinclass-nightslayer"]=7,
 	["bestpallyqt-nightslayer"]=9,
@@ -11783,7 +11783,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["deadstylee-nightslayer"]=17,
 	["deamya-dreamscythe"]=5,
 	["deanski-nightslayer"]=5,
-	["deathbeless-nightslayer"]=0,
+	["deathbeless-nightslayer"]=26,
 	["deathdr-nightslayer"]=16,
 	["Ðeathøx-nightslayer"]=3,
 	["deathrolls-nightslayer"]=2,
@@ -13758,7 +13758,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["idonthavaids-nightslayer"]=3,
 	["idragon-dreamscythe"]=14,
 	["idrinkwine-nightslayer"]=5,
-	["idul-nightslayer"]=0,
+	["idul-nightslayer"]=19,
 	["ieatcats-nightslayer"]=15,
 	["ieatorc-nightslayer"]=6,
 	["iebron-nightslayer"]=4,
@@ -16547,7 +16547,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["pyrem-nightslayer"]=6,
 	["pyrobomber-nightslayer"]=4,
 	["pyrotato-nightslayer"]=4,
-	["pyrue-nightslayer"]=6,
+	["pyrue-nightslayer"]=4,
 	["pythiøs-nightslayer"]=3,
 	["pz-nightslayer"]=7,
 	["pzzahut-dreamscythe"]=13,
@@ -18095,7 +18095,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["stunluck-nightslayer"]=5,
 	["stunnastreet-nightslayer"]=11,
 	["stunproc-nightslayer"]=2,
-	["stupidhealer-nightslayer"]=14,
+	["stupidhealer-nightslayer"]=1,
 	["sturge-nightslayer"]=2,
 	["stuv-nightslayer"]=10,
 	["styg-nightslayer"]=7,
@@ -19006,7 +19006,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["vibecodr-nightslayer"]=0,
 	["vibed-nightslayer"]=3,
 	["vibeo-nightslayer"]=4,
-	["vibu-nightslayer"]=0,
+	["vibu-nightslayer"]=2,
 	["vicarion-dreamscythe"]=1,
 	["vicent-nightslayer"]=2,
 	["vicerys-nightslayer"]=2,
