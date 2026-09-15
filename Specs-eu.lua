@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5241 characters, read 2026-09-14 06:55 PM.
+-- Region eu, 5241 characters, read 2026-09-14 07:55 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5243,7 +5243,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["angrypickle-shekzeer"]=6,
 	["angrywarrior-shekzeer"]=1,
 	["angrywife-shekzeer"]=7,
-	["anika-shekzeer"]=5,
+	["anika-shekzeer"]=30,
 	["anikilador-shekzeer"]=34,
 	["animalleader-shekzeer"]=3,
 	["animecatgirl-shekzeer"]=11,
@@ -5421,7 +5421,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["badlama-hoptallus"]=15,
 	["badmanchazo-garalon"]=0,
 	["badmanchazo-shekzeer"]=0,
-	["badtank-garalon"]=15,
+	["badtank-garalon"]=30,
 	["badteam-garalon"]=0,
 	["bãe-shekzeer"]=9,
 	["baejs-shekzeer"]=9,
@@ -9350,7 +9350,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["undo-shekzeer"]=24,
 	["ungentrepren-shekzeer"]=8,
 	["Ùñhöly-shekzeer"]=0,
-	["univrs-shekzeer"]=20,
+	["univrs-shekzeer"]=14,
 	["unknowx-shekzeer"]=3,
 	["unpeudgàzouz-auberdine"]=30,
 	["unravel-everlook"]=5,
