@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5156 characters, read 2026-09-15 06:57 AM.
+-- Region us, 5155 characters, read 2026-09-15 07:57 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3501,7 +3501,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["quartêrmain-pagle"]=10,
 	["quelss-pagle"]=10,
 	["quesø-pagle"]=11,
-	["questopresto-nazgrim"]=10,
 	["quickscopex-pagle"]=11,
 	["quickvanish-pagle"]=11,
 	["qwanya-raden"]=10,
@@ -8102,7 +8101,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["nc-lei-shen"]=7,
 	["neac-pagle"]=21,
 	["neat-immerseus"]=24,
-	["nebubanana-raden"]=8,
+	["nebubanana-raden"]=28,
 	["nebuboom-nazgrim"]=17,
 	["nebugrape-raden"]=8,
 	["nebupeach-nazgrim"]=28,
@@ -8584,7 +8583,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["quartêrmain-pagle"]=3,
 	["quelss-pagle"]=2,
 	["quesø-pagle"]=29,
-	["questopresto-nazgrim"]=10,
 	["quickscopex-pagle"]=3,
 	["quickvanish-pagle"]=34,
 	["qwanya-raden"]=1,
@@ -8667,7 +8665,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["recovery-raden"]=0,
 	["rédcorn-raden"]=6,
 	["redeast-galakras"]=6,
-	["redentress-galakras"]=13,
+	["redentress-galakras"]=21,
 	["redfinder-pagle"]=1,
 	["redknight-lei-shen"]=7,
 	["rednax-raden"]=28,
@@ -8681,7 +8679,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["rejuvemoo-pagle"]=5,
 	["rekkingball-galakras"]=7,
 	["rekkzz-raden"]=20,
-	["rekstorm-nazgrim"]=7,
+	["rekstorm-nazgrim"]=30,
 	["rektalrager-galakras"]=22,
 	["rekzor-raden"]=7,
 	["rel-nazgrim"]=26,

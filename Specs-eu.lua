@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5244 characters, read 2026-09-15 07:00 AM.
+-- Region eu, 5244 characters, read 2026-09-15 08:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6088,7 +6088,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["djrelax-auberdine"]=23,
 	["djskunk-shekzeer"]=5,
 	["djsosnitsky-shekzeer"]=9,
-	["djssleinad-garalon"]=19,
+	["djssleinad-garalon"]=13,
 	["djwashedup-shekzeer"]=29,
 	["dksecouille-auberdine"]=33,
 	["dméndez-mirage-raceway"]=15,
@@ -7289,7 +7289,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["lagetha-shekzeer"]=3,
 	["lagi-hoptallus"]=9,
 	["laîka-auberdine"]=1,
-	["lakeuh-auberdine"]=26,
+	["lakeuh-auberdine"]=24,
 	["laknard-auberdine"]=11,
 	["lalio-shekzeer"]=15,
 	["lalúná-shekzeer"]=9,
@@ -7422,7 +7422,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["lorry-shekzeer"]=1,
 	["loseandicba-ook-ook"]=20,
 	["lostpinky-shekzeer"]=0,
-	["lotengoio-shekzeer"]=29,
+	["lotengoio-shekzeer"]=7,
 	["lotvein-hoptallus"]=26,
 	["loty-shekzeer"]=1,
 	["louikrypton-shekzeer"]=1,
@@ -9509,7 +9509,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["waix-shekzeer"]=10,
 	["walkerr-hoptallus"]=15,
 	["wãlter-shekzeer"]=9,
-	["warcrimes-shekzeer"]=25,
+	["warcrimes-shekzeer"]=1,
 	["wardz-mirage-raceway"]=2,
 	["wardz-shekzeer"]=2,
 	["warning-shekzeer"]=1,
