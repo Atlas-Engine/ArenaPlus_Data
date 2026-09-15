@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5156 characters, read 2026-09-15 02:00 AM.
+-- Region us, 5156 characters, read 2026-09-15 02:57 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5876,7 +5876,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["crazykreder-pagle"]=5,
 	["crazywick-pagle"]=32,
 	["creamytotem-galakras"]=15,
-	["crearly-galakras"]=25,
+	["crearly-galakras"]=6,
 	["crepes-pagle"]=12,
 	["crepuscolo-pagle"]=2,
 	["crepusculé-pagle"]=1,
@@ -7664,7 +7664,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["llaski-galakras"]=18,
 	["lleavinn-lei-shen"]=22,
 	["llinc-pagle"]=3,
-	["lloydx-pagle"]=26,
+	["lloydx-pagle"]=6,
 	["loaofdietcke-pagle"]=7,
 	["lockholidays-pagle"]=28,
 	["lockholidayz-pagle"]=28,
@@ -7916,7 +7916,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["mîndless-raden"]=24,
 	["mindlessjack-raden"]=9,
 	["míndléssjáck-raden"]=18,
-	["mindlessjak-raden"]=28,
+	["mindlessjak-raden"]=24,
 	["mindlessjr-nazgrim"]=28,
 	["mindlessjuan-raden"]=28,
 	["mindlless-raden"]=21,
@@ -7933,7 +7933,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["missrollings-pagle"]=10,
 	["misstotem-pagle"]=15,
 	["missyu-immerseus"]=23,
-	["mistafistuh-pagle"]=4,
+	["mistafistuh-pagle"]=10,
 	["mistnme-pagle"]=0,
 	["mistortea-pagle"]=10,
 	["mistwalk-pagle"]=0,
@@ -7944,7 +7944,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["mitchelada-raden"]=17,
 	["mitcheladaqt-immerseus"]=15,
 	["mitchplz-raden"]=1,
-	["mítsurí-raden"]=1,
+	["mítsurí-raden"]=31,
 	["mixbub-raden"]=2,
 	["mixice-raden"]=1,
 	["miyabin-raden"]=9,
@@ -7992,11 +7992,11 @@ ns.SPECS_BY_REGION["us"] = {
 	["mooleone-pagle"]=5,
 	["møønchild-pagle"]=5,
 	["mòónfirebeam-raden"]=12,
-	["moonloon-pagle"]=5,
+	["moonloon-pagle"]=17,
 	["moonpieelite-immerseus"]=1,
 	["moonrip-raden"]=12,
 	["moonspellol-galakras"]=14,
-	["møønstár-arugal-au"]=17,
+	["møønstár-arugal-au"]=5,
 	["møønzx-galakras"]=17,
 	["mopdruid-pagle"]=0,
 	["mopples-arugal-au"]=4,
@@ -9961,7 +9961,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["xaj-raden"]=5,
 	["xanacs-nazgrim"]=4,
 	["xanaxlolz-galakras"]=12,
-	["xander-raden"]=28,
+	["xander-raden"]=24,
 	["xanybar-raden"]=17,
 	["xarblade-immerseus"]=3,
 	["xarped-nazgrim"]=17,
