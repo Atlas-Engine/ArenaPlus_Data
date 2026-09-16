@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5306 characters, read 2026-09-16 10:00 AM.
+-- Region eu, 5306 characters, read 2026-09-16 11:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3225,7 +3225,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["rakû-auberdine"]=60,
 	["ràmpy-shekzeer"]=10,
 	["ramsei-auberdine"]=10,
-	["randomboi-shekzeer"]=11,
 	["rankonebm-shekzeer"]=10,
 	["rankonedemon-shekzeer"]=41,
 	["rashgath-shekzeer"]=10,
@@ -5652,7 +5651,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bloodytrace-shekzeer"]=4,
 	["bluetoad-shekzeer"]=15,
 	["bluevoidd-shekzeer"]=28,
-	["blushxoxo-shekzeer"]=24,
+	["blushxoxo-shekzeer"]=26,
 	["blyatmanx-shekzeer"]=14,
 	["bmsk-shekzeer"]=6,
 	["bmskp-shekzeer"]=5,
@@ -6755,7 +6754,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["headshottss-shekzeer"]=4,
 	["headzhot-shekzeer"]=4,
 	["healbooster-mirage-raceway"]=3,
-	["héälböt-mirage-raceway"]=29,
+	["héälböt-mirage-raceway"]=7,
 	["healing-shekzeer"]=6,
 	["healintincan-mirage-raceway"]=5,
 	["heallnah-shekzeer"]=9,
@@ -6839,7 +6838,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["holypia-shekzeer"]=22,
 	["holyqiti-mirage-raceway"]=5,
 	["holyshadx-shekzeer"]=9,
-	["holyshadxx-shekzeer"]=7,
+	["holyshadxx-shekzeer"]=6,
 	["holysnap-shekzeer"]=5,
 	["holywar-shekzeer"]=9,
 	["honshu-shekzeer"]=16,
@@ -8461,7 +8460,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["rakû-auberdine"]=1,
 	["ràmpy-shekzeer"]=1,
 	["ramsei-auberdine"]=25,
-	["randomboi-shekzeer"]=23,
+	["randomboi-shekzeer"]=0,
 	["rankonebm-shekzeer"]=14,
 	["rankonedemon-shekzeer"]=9,
 	["rareshawty-shekzeer"]=0,

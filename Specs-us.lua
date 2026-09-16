@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5162 characters, read 2026-09-16 09:57 AM.
+-- Region us, 5166 characters, read 2026-09-16 10:57 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1838,6 +1838,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["habibi-arugal-au"]=11,
 	["hábibi-raden"]=40,
 	["hadíl-pagle"]=11,
+	["hadoukenwwtv-pagle"]=11,
 	["haduth-raden"]=11,
 	["haduukin-raden"]=11,
 	["hahabutt-pagle"]=111,
@@ -4480,6 +4481,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["toteshealu-galakras"]=81,
 	["totobane-pagle"]=220,
 	["touchmywañd-nazgrim"]=80,
+	["töuchmywand-nazgrim"]=80,
 	["touchofdiddy-raden"]=11,
 	["toughstuff-raden"]=10,
 	["towjam-nazgrim"]=20,
@@ -4778,6 +4780,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["winterzface-nazgrim"]=10,
 	["wipedout-pagle"]=11,
 	["wiseoleman-pagle"]=20,
+	["wispér-raden"]=11,
 	["wìz-raden"]=11,
 	["wîzärdøføzz-raden"]=31,
 	["wkndxo-raden"]=10,
@@ -5035,7 +5038,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["abruaz-raden"]=1,
 	["absofoo-pagle"]=4,
 	["absopally-pagle"]=2,
-	["abusivekitty-galakras"]=5,
+	["abusivekitty-galakras"]=12,
 	["academics-raden"]=15,
 	["acee-immerseus"]=24,
 	["aceventuraa-pagle"]=18,
@@ -6857,6 +6860,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["habibi-arugal-au"]=1,
 	["hábibi-raden"]=17,
 	["hadíl-pagle"]=1,
+	["hadoukenwwtv-pagle"]=10,
 	["haduth-raden"]=9,
 	["haduukin-raden"]=3,
 	["hahabutt-pagle"]=2,
@@ -9235,6 +9239,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["soulreap-raden"]=6,
 	["souper-pagle"]=0,
 	["souperior-pagle"]=0,
+	["söupsändwich-pagle"]=0,
 	["sovice-raden"]=2,
 	["soyinfelíz-raden"]=6,
 	["soytupapi-pagle"]=9,
@@ -9624,6 +9629,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["toteshealu-galakras"]=15,
 	["totobane-pagle"]=29,
 	["touchmywañd-nazgrim"]=1,
+	["töuchmywand-nazgrim"]=1,
 	["touchofdiddy-raden"]=4,
 	["toughstuff-raden"]=7,
 	["towjam-nazgrim"]=19,
@@ -9932,6 +9938,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["winterzface-nazgrim"]=25,
 	["wipedout-pagle"]=7,
 	["wiseoleman-pagle"]=22,
+	["wispér-raden"]=6,
 	["wìz-raden"]=21,
 	["wîzärdøføzz-raden"]=15,
 	["wkndxo-raden"]=1,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 10639 characters, read 2026-09-16 09:59 AM.
+-- Region tbc-eu, 10639 characters, read 2026-09-16 10:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -14523,7 +14523,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["hywwe-spineshatter"]=3,
 	["hyxatheroger-spineshatter"]=3,
 	["hzwhsou-spineshatter"]=3,
-	["iamdaniel-spineshatter"]=15,
+	["iamdaniel-spineshatter"]=5,
 	["iamdolboeb-spineshatter"]=26,
 	["iamgooner-spineshatter"]=11,
 	["iamjubilee-spineshatter"]=5,
@@ -14964,7 +14964,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["jloxz-spineshatter"]=8,
 	["jmaylol-spineshatter"]=25,
 	["jnø-spineshatter"]=19,
-	["jnxd-spineshatter"]=4,
+	["jnxd-spineshatter"]=9,
 	["jnxxp-spineshatter"]=7,
 	["jñz-spineshatter"]=3,
 	["jobana-spineshatter"]=3,
@@ -18417,7 +18417,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["sainse-spineshatter"]=19,
 	["sáínt-spineshatter"]=0,
 	["sainter-thunderstrike"]=5,
-	["saintox-spineshatter"]=7,
+	["saintox-spineshatter"]=26,
 	["saintq-spineshatter"]=2,
 	["saìntq-spineshatter"]=2,
 	["saintzoint-spineshatter"]=2,
@@ -18470,7 +18470,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["sante-spineshatter"]=26,
 	["säntoryu-spineshatter"]=5,
 	["santtuhehe-spineshatter"]=9,
-	["sanuk-spineshatter"]=8,
+	["sanuk-spineshatter"]=2,
 	["saowa-spineshatter"]=1,
 	["sap-spineshatter"]=3,
 	["sapens-spineshatter"]=3,
@@ -19336,7 +19336,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["statice-spineshatter"]=10,
 	["stayawayz-spineshatter"]=1,
 	["staylol-spineshatter"]=3,
-	["stdl-spineshatter"]=0,
+	["stdl-spineshatter"]=2,
 	["stealthynoxx-spineshatter"]=19,
 	["stecke-thunderstrike"]=1,
 	["steeds-spineshatter"]=19,
@@ -19837,7 +19837,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["tibeji-spineshatter"]=13,
 	["tibetli-thunderstrike"]=5,
 	["tierx-spineshatter"]=3,
-	["tìes-spineshatter"]=1,
+	["tìes-spineshatter"]=20,
 	["tiffins-spineshatter"]=2,
 	["tiffster-spineshatter"]=3,
 	["tifins-spineshatter"]=23,
