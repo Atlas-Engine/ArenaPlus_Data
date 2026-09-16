@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5166 characters, read 2026-09-16 01:57 PM.
+-- Region us, 5166 characters, read 2026-09-16 02:57 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5838,7 +5838,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["cohenxx-pagle"]=16,
 	["cojelosuave-pagle"]=2,
 	["Çøld-pagle"]=1,
-	["coloredgreen-immerseus"]=12,
+	["coloredgreen-immerseus"]=17,
 	["combusst-raden"]=1,
 	["comeherepapi-raden"]=29,
 	["comethout-pagle"]=22,
@@ -6873,7 +6873,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["hallowground-immerseus"]=21,
 	["häm-nazgrim"]=34,
 	["hammerman-lei-shen"]=16,
-	["hamsito-nazgrim"]=7,
+	["hamsito-nazgrim"]=23,
 	["hansal-raden"]=7,
 	["hänsel-nazgrim"]=32,
 	["happenshehe-pagle"]=6,
@@ -6909,7 +6909,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["headchef-raden"]=17,
 	["headexploda-pagle"]=7,
 	["headhhunter-galakras"]=16,
-	["healbolarama-galakras"]=9,
+	["healbolarama-galakras"]=13,
 	["healingmonk-galakras"]=4,
 	["healingmonk-pagle"]=4,
 	["healmeratt-galakras"]=2,
@@ -8701,7 +8701,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["rejuvemoo-pagle"]=5,
 	["rekkingball-galakras"]=7,
 	["rekkzz-raden"]=20,
-	["rekstorm-nazgrim"]=7,
+	["rekstorm-nazgrim"]=30,
 	["rektalrager-galakras"]=22,
 	["rekzor-raden"]=7,
 	["rel-nazgrim"]=26,
@@ -9321,7 +9321,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["stabbath-raden"]=14,
 	["stábbý-pagle"]=29,
 	["stabeatha-pagle"]=34,
-	["stabualot-nazgrim"]=29,
+	["stabualot-nazgrim"]=14,
 	["stâmpfairtex-raden"]=14,
 	["stàn-immerseus"]=3,
 	["starfallol-lei-shen"]=17,

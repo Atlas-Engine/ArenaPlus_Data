@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5305 characters, read 2026-09-16 02:00 PM.
+-- Region eu, 5305 characters, read 2026-09-16 03:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3644,7 +3644,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["skepnad-mirage-raceway"]=11,
 	["skiipp-shekzeer"]=11,
 	["skinnypsycho-shekzeer"]=41,
-	["skinnywintrd-shekzeer"]=41,
+	["skinnywintrd-shekzeer"]=40,
 	["skinwalker-shekzeer"]=41,
 	["skonark-auberdine"]=10,
 	["skonsi-mirage-raceway"]=21,
@@ -6269,8 +6269,8 @@ ns.SPECS_BY_REGION["eu"] = {
 	["dwg-shekzeer"]=3,
 	["dwgz-shekzeer"]=9,
 	["dxab-shekzeer"]=22,
-	["dxbam-shekzeer"]=12,
-	["dxbamoon-shekzeer"]=7,
+	["dxbam-shekzeer"]=9,
+	["dxbamoon-shekzeer"]=29,
 	["dxbom-shekzeer"]=21,
 	["dynarsia-shekzeer"]=3,
 	["dynther-shekzeer"]=1,
@@ -10208,7 +10208,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Мамбуту-flamegor"]=1,
 	["Маминглад-flamegor"]=0,
 	["Манипулятция-flamegor"]=0,
-	["Манхпапа-flamegor"]=1,
+	["Манхпапа-flamegor"]=25,
 	["Масканде-flamegor"]=6,
 	["Матиасалегри-flamegor"]=4,
 	["Маффинмвп-flamegor"]=6,
