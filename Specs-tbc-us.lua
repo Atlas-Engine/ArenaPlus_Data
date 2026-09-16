@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9868 characters, read 2026-09-16 04:59 PM.
+-- Region tbc-us, 9868 characters, read 2026-09-16 05:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -14153,7 +14153,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["kabshaak-dreamscythe"]=1,
 	["kachicoh-nightslayer"]=1,
 	["kadsexe-nightslayer"]=18,
-	["kaellara-nightslayer"]=11,
+	["kaellara-nightslayer"]=25,
 	["kafflo-nightslayer"]=18,
 	["kagetotemu-nightslayer"]=19,
 	["kahla-nightslayer"]=2,
@@ -14816,7 +14816,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ludacris-nightslayer"]=2,
 	["ludessita-nightslayer"]=14,
 	["ludoqt-nightslayer"]=14,
-	["luhvv-nightslayer"]=16,
+	["luhvv-nightslayer"]=13,
 	["luiyiz-nightslayer"]=11,
 	["lukë-nightslayer"]=5,
 	["luked-nightslayer"]=22,
@@ -18032,7 +18032,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["sucashione-nightslayer"]=24,
 	["succlahñ-dreamscythe"]=9,
 	["succlåhn-dreamscythe"]=18,
-	["succubusn-nightslayer"]=13,
+	["succubusn-nightslayer"]=23,
 	["sufferìng-dreamscythe"]=7,
 	["sugarrfree-nightslayer"]=4,
 	["sugartotes-nightslayer"]=19,
@@ -18419,7 +18419,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["tiltedoutlaw-dreamscythe"]=6,
 	["tiltedoutlaw-nightslayer"]=13,
 	["tîmeless-dreamscythe"]=4,
-	["timenoughfl-nightslayer"]=22,
+	["timenoughfl-nightslayer"]=7,
 	["timeonly-nightslayer"]=24,
 	["timetouwu-nightslayer"]=2,
 	["tímmi-nightslayer"]=11,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5305 characters, read 2026-09-16 05:00 PM.
+-- Region eu, 5305 characters, read 2026-09-16 06:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6041,7 +6041,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["darcknèss-shekzeer"]=3,
 	["dárckness-shekzeer"]=3,
 	["dareyna-shekzeer"]=23,
-	["dargolol-ook-ook"]=16,
+	["dargolol-ook-ook"]=13,
 	["darkangal-mirage-raceway"]=23,
 	["darkcitrus-shekzeer"]=12,
 	["darksezn-shekzeer"]=24,
@@ -8775,7 +8775,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["shadoff-shekzeer"]=12,
 	["shadotix-everlook"]=23,
 	["shaðøw-auberdine"]=12,
-	["shadowbøømzt-auberdine"]=12,
+	["shadowbøømzt-auberdine"]=9,
 	["shadowdeath-shekzeer"]=12,
 	["shadoweed-shekzeer"]=12,
 	["shadowgap-shekzeer"]=24,
@@ -8909,7 +8909,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["slimmyboi-norushen"]=20,
 	["slipknota-shekzeer"]=14,
 	["slira-shekzeer"]=3,
-	["slouchmighty-everlook"]=3,
+	["slouchmighty-everlook"]=11,
 	["sløwdownbaby-mirage-raceway"]=20,
 	["slowjamz-everlook"]=20,
 	["smäsch-garalon"]=1,
@@ -9365,7 +9365,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["trend-shekzeer"]=7,
 	["trendsetter-shekzeer"]=1,
 	["tresiba-garalon"]=2,
-	["trgtacquired-mirage-raceway"]=13,
+	["trgtacquired-mirage-raceway"]=16,
 	["triatpally-shekzeer"]=15,
 	["triatsonbg-shekzeer"]=8,
 	["trigger-garalon"]=15,

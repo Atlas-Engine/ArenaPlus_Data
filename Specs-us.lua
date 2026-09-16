@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5162 characters, read 2026-09-16 04:57 PM.
+-- Region us, 5162 characters, read 2026-09-16 05:57 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5361,7 +5361,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["beetroot-raden"]=4,
 	["behindyu-pagle"]=14,
 	["beijingcy-grobbulus"]=1,
-	["beijingdy-grobbulus"]=17,
+	["beijingdy-grobbulus"]=5,
 	["beijingms-grobbulus"]=13,
 	["beijingsa-grobbulus"]=19,
 	["beijingss-grobbulus"]=24,
@@ -5578,7 +5578,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["brainlag-raden"]=3,
 	["brainsurgeon-raden"]=0,
 	["bramanmanman-grobbulus"]=15,
-	["brandoncle-galakras"]=2,
+	["brandoncle-galakras"]=16,
 	["brazzeal-pagle"]=16,
 	["brbcloning-pagle"]=5,
 	["brbsheeping-pagle"]=1,
@@ -5970,7 +5970,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["Ðark-nazgrim"]=6,
 	["darkavengerr-grobbulus"]=28,
 	["darkdankdope-raden"]=10,
-	["darkdeamon-pagle"]=1,
+	["darkdeamon-pagle"]=11,
 	["darkestcyn-galakras"]=28,
 	["darkferocity-grobbulus"]=21,
 	["darkjdm-lei-shen"]=6,
@@ -6687,7 +6687,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["gcwr-raden"]=7,
 	["geebroni-pagle"]=16,
 	["gelania-pagle"]=18,
-	["gentleman-pagle"]=25,
+	["gentleman-pagle"]=26,
 	["genuinely-raden"]=1,
 	["geser-raden"]=20,
 	["getclapt-lei-shen"]=6,
@@ -8606,12 +8606,12 @@ ns.SPECS_BY_REGION["us"] = {
 	["rabblerouse-pagle"]=34,
 	["rabidwolf-pagle"]=19,
 	["racket-pagle"]=14,
-	["radaggast-lei-shen"]=1,
+	["radaggast-lei-shen"]=11,
 	["radendznuts-raden"]=22,
 	["radix-raden"]=0,
 	["raelenaa-pagle"]=1,
 	["raenix-pagle"]=14,
-	["rafamantis-nazgrim"]=16,
+	["rafamantis-nazgrim"]=32,
 	["rafeékí-raden"]=7,
 	["raféekí-raden"]=17,
 	["rafts-pagle"]=21,
@@ -9129,7 +9129,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["slapville-pagle"]=7,
 	["slashera-pagle"]=0,
 	["slawbunnies-galakras"]=18,
-	["slaý-galakras"]=23,
+	["slaý-galakras"]=7,
 	["sleepïï-pagle"]=5,
 	["sleepii-raden"]=28,
 	["sleepweaver-pagle"]=4,
