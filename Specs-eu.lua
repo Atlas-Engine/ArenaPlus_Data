@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5304 characters, read 2026-09-16 09:00 AM.
+-- Region eu, 5306 characters, read 2026-09-16 10:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -130,6 +130,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["afterchi-shekzeer"]=10,
 	["afûkûshîmâ-ook-ook"]=10,
 	["afzurnikov-mirage-raceway"]=100,
+	["agamemnon-garalon"]=10,
 	["aggaa-shekzeer"]=220,
 	["Äggakaka-shekzeer"]=60,
 	["agnesx-shekzeer"]=11,
@@ -3080,6 +3081,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["pînetatante-shekzeer"]=11,
 	["pingfade-shekzeer"]=41,
 	["pipelayer-shekzeer"]=10,
+	["pipilili-shekzeer"]=10,
 	["pipioe-shekzeer"]=11,
 	["pipitrix-shekzeer"]=10,
 	["pippilotta-shekzeer"]=11,
@@ -5199,6 +5201,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["afterchi-shekzeer"]=7,
 	["afûkûshîmâ-ook-ook"]=33,
 	["afzurnikov-mirage-raceway"]=6,
+	["agamemnon-garalon"]=1,
 	["aggaa-shekzeer"]=21,
 	["Äggakaka-shekzeer"]=3,
 	["agnesx-shekzeer"]=17,
@@ -8306,6 +8309,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["pînetatante-shekzeer"]=17,
 	["pingfade-shekzeer"]=12,
 	["pipelayer-shekzeer"]=24,
+	["pipilili-shekzeer"]=1,
 	["pipioe-shekzeer"]=7,
 	["pipitrix-shekzeer"]=15,
 	["pippilotta-shekzeer"]=9,
