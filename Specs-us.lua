@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5160 characters, read 2026-09-16 01:57 AM.
+-- Region us, 5160 characters, read 2026-09-16 02:57 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5161,7 +5161,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["annoyinghunt-immerseus"]=20,
 	["anobi-pagle"]=21,
 	["ansou-raden"]=15,
-	["anthiel-pagle"]=12,
+	["anthiel-pagle"]=33,
 	["anthrex-nazgrim"]=0,
 	["antics-pagle"]=10,
 	["antisnowcial-galakras"]=1,
@@ -5490,7 +5490,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["bloodofnotus-nazgrim"]=27,
 	["bloodrake-nazgrim"]=25,
 	["bloodshatter-raden"]=7,
-	["bloodsoakd-pagle"]=23,
+	["bloodsoakd-pagle"]=7,
 	["bloodvâlor-lei-shen"]=6,
 	["bloombringer-pagle"]=0,
 	["blooms-pagle"]=17,
@@ -7837,7 +7837,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["mav-raden"]=1,
 	["mavr-raden"]=14,
 	["mavrïx-raden"]=3,
-	["mavzx-raden"]=7,
+	["mavzx-raden"]=23,
 	["max-raden"]=0,
 	["maxipoo-raden"]=0,
 	["maxximumcat-lei-shen"]=12,
@@ -7926,7 +7926,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["mîndless-raden"]=24,
 	["mindlessjack-raden"]=9,
 	["míndléssjáck-raden"]=18,
-	["mindlessjak-raden"]=24,
+	["mindlessjak-raden"]=28,
 	["mindlessjr-nazgrim"]=28,
 	["mindlessjuan-raden"]=28,
 	["mindlless-raden"]=21,
@@ -9497,7 +9497,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["témis-nazgrim"]=3,
 	["tempestnatsu-raden"]=14,
 	["tèn-pagle"]=6,
-	["terentino-raden"]=20,
+	["terentino-raden"]=3,
 	["termita-pagle"]=9,
 	["terowyn-pagle"]=16,
 	["tertran-raden"]=23,
@@ -9760,7 +9760,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["vaanka-pagle"]=21,
 	["vacalola-galakras"]=19,
 	["vaity-pagle"]=21,
-	["vajra-raden"]=14,
+	["vajra-raden"]=29,
 	["valagarth-raden"]=9,
 	["valdo-raden"]=7,
 	["valereon-raden"]=25,
@@ -9803,7 +9803,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["veryuska-pagle"]=13,
 	["vespehr-pagle"]=21,
 	["vetafenix-nazgrim"]=18,
-	["vettaex-arugal-au"]=9,
+	["vettaex-arugal-au"]=13,
 	["vexe-pagle"]=2,
 	["vibexz-raden"]=1,
 	["vibezx-pagle"]=1,
@@ -9841,7 +9841,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["vonxx-pagle"]=8,
 	["vonzxy-pagle"]=11,
 	["vorag-nazgrim"]=10,
-	["voromyr-lei-shen"]=7,
+	["voromyr-lei-shen"]=23,
 	["vorthorne-raden"]=23,
 	["voshay-pagle"]=15,
 	["vovaii-pagle"]=12,
