@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5304 characters, read 2026-09-16 06:00 AM.
+-- Region eu, 5304 characters, read 2026-09-16 07:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7112,7 +7112,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["juhi-shekzeer"]=15,
 	["juicedog-shekzeer"]=5,
 	["juicehunter-garalon"]=4,
-	["juicyhieler-everlook"]=9,
+	["juicyhieler-everlook"]=22,
 	["juicykon-everlook"]=15,
 	["juicynancy-everlook"]=6,
 	["juicyraya-everlook"]=24,
@@ -7620,7 +7620,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["mangochulo-shekzeer"]=5,
 	["mangopango-pyrewood-village"]=14,
 	["mangostraf-mirage-raceway"]=1,
-	["mannen-shekzeer"]=8,
+	["mannen-shekzeer"]=31,
 	["mansøur-auberdine"]=30,
 	["manticora-mirage-raceway"]=3,
 	["maochamp-shekzeer"]=11,
@@ -7862,7 +7862,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["mud-garalon"]=1,
 	["muddywaters-shekzeer"]=2,
 	["muga-hoptallus"]=1,
-	["mugiwára-shekzeer"]=24,
+	["mugiwára-shekzeer"]=26,
 	["mugmug-hoptallus"]=5,
 	["muguruza-shekzeer"]=11,
 	["mulltikill-mirage-raceway"]=19,

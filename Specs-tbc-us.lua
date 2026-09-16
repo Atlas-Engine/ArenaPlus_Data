@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9850 characters, read 2026-09-16 05:58 AM.
+-- Region tbc-us, 9850 characters, read 2026-09-16 06:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11717,7 +11717,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["deezbloomz-nightslayer"]=7,
 	["deezug-nightslayer"]=18,
 	["defeaterr-nightslayer"]=2,
-	["defoz-nightslayer"]=8,
+	["defoz-nightslayer"]=5,
 	["defray-nightslayer"]=1,
 	["defuh-nightslayer"]=5,
 	["defuhbaby-nightslayer"]=13,
@@ -12372,7 +12372,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ereek-nightslayer"]=14,
 	["erektrichard-nightslayer"]=19,
 	["erestala-dreamscythe"]=7,
-	["ericslock-nightslayer"]=16,
+	["ericslock-nightslayer"]=13,
 	["erinthos-nightslayer"]=1,
 	["erinthoss-nightslayer"]=11,
 	["erioz-nightslayer"]=5,
@@ -12912,7 +12912,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["gawtchax-nightslayer"]=2,
 	["gaybiman-nightslayer"]=7,
 	["gayonhandz-nightslayer"]=9,
-	["gayve-nightslayer"]=5,
+	["gayve-nightslayer"]=8,
 	["gbox-dreamscythe"]=7,
 	["gcd-nightslayer"]=7,
 	["gde-nightslayer"]=0,
@@ -14170,7 +14170,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["karatemom-nightslayer"]=1,
 	["kardiiverous-nightslayer"]=3,
 	["kardiverous-nightslayer"]=6,
-	["kardlonoc-nightslayer"]=18,
+	["kardlonoc-nightslayer"]=2,
 	["karmanjakah-nightslayer"]=22,
 	["karndaddy-nightslayer"]=19,
 	["karnij-nightslayer"]=2,
