@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5162 characters, read 2026-09-16 07:57 AM.
+-- Region us, 5162 characters, read 2026-09-16 08:57 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5035,7 +5035,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["abruaz-raden"]=1,
 	["absofoo-pagle"]=4,
 	["absopally-pagle"]=2,
-	["abusivekitty-galakras"]=12,
+	["abusivekitty-galakras"]=5,
 	["academics-raden"]=15,
 	["acee-immerseus"]=24,
 	["aceventuraa-pagle"]=18,
@@ -6984,7 +6984,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["holyfkbubs-pagle"]=2,
 	["holyflamez-pagle"]=16,
 	["holyfluxq-pagle"]=21,
-	["holygym-nazgrim"]=9,
+	["holygym-nazgrim"]=13,
 	["holymar-pagle"]=6,
 	["holymoly-raden"]=9,
 	["holypoop-pagle"]=9,
@@ -8519,7 +8519,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["poppcorn-raden"]=5,
 	["popsmokè-pagle"]=29,
 	["pörch-pagle"]=14,
-	["porkchopx-nazgrim"]=4,
+	["porkchopx-nazgrim"]=10,
 	["porkfriedrai-immerseus"]=4,
 	["portholio-pagle"]=4,
 	["potatoes-arugal-au"]=18,

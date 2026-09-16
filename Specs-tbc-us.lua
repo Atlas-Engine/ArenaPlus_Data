@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9849 characters, read 2026-09-16 07:58 AM.
+-- Region tbc-us, 9849 characters, read 2026-09-16 08:53 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11929,7 +11929,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["dolapalooza-nightslayer"]=19,
 	["dollerz-nightslayer"]=18,
 	["doloin-nightslayer"]=5,
-	["doloqtxoxo-dreamscythe"]=19,
+	["doloqtxoxo-dreamscythe"]=24,
 	["dolosham-nightslayer"]=19,
 	["domenek-nightslayer"]=13,
 	["domerock-nightslayer"]=17,
@@ -13169,14 +13169,14 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["grimpreecher-nightslayer"]=1,
 	["grimy-nightslayer"]=13,
 	["grinches-nightslayer"]=13,
-	["grindo-nightslayer"]=6,
+	["grindo-nightslayer"]=4,
 	["grishnakha-nightslayer"]=19,
 	["grizol-nightslayer"]=18,
 	["grizzlyjack-nightslayer"]=7,
 	["grndpabilly-nightslayer"]=4,
 	["grocer-nightslayer"]=18,
 	["grocerylord-dreamscythe"]=18,
-	["gronork-nightslayer"]=2,
+	["gronork-nightslayer"]=20,
 	["gropez-nightslayer"]=1,
 	["grossematrak-nightslayer"]=2,
 	["grouchylol-nightslayer"]=5,
@@ -16284,7 +16284,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["popnlust-nightslayer"]=24,
 	["popovich-nightslayer"]=12,
 	["poppitylock-nightslayer"]=13,
-	["popr-nightslayer"]=8,
+	["popr-nightslayer"]=5,
 	["poprocksx-nightslayer"]=5,
 	["popsecret-dreamscythe"]=2,
 	["popspalla-nightslayer"]=9,
@@ -17403,7 +17403,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["showtime-nightslayer"]=8,
 	["showx-nightslayer"]=1,
 	["shozs-nightslayer"]=10,
-	["shray-dreamscythe"]=0,
+	["shray-dreamscythe"]=12,
 	["shreddywap-nightslayer"]=7,
 	["shreqt-nightslayer"]=2,
 	["shrimmpin-nightslayer"]=24,
@@ -19235,7 +19235,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["wyllerton-nightslayer"]=10,
 	["wyllertons-nightslayer"]=10,
 	["wyvv-nightslayer"]=2,
-	["wzrdmightyx-nightslayer"]=1,
+	["wzrdmightyx-nightslayer"]=12,
 	["xaedus-nightslayer"]=3,
 	["xaind-nightslayer"]=5,
 	["xamachi-nightslayer"]=7,
