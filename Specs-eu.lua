@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5304 characters, read 2026-09-16 05:00 AM.
+-- Region eu, 5304 characters, read 2026-09-16 06:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4375,7 +4375,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["wheelygood-shekzeer"]=11,
 	["whereâreyûat-everlook"]=11,
 	["wheyx-shekzeer"]=11,
-	["wheyxw-shekzeer"]=10,
+	["wheyxw-shekzeer"]=11,
 	["whipmepls-shekzeer"]=11,
 	["whisp-garalon"]=41,
 	["whoppa-shekzeer"]=11,
@@ -7134,7 +7134,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["jx-shekzeer"]=4,
 	["jý-shekzeer"]=7,
 	["jyv-mirage-raceway"]=12,
-	["jyxa-everlook"]=9,
+	["jyxa-everlook"]=22,
 	["jzong-shekzeer"]=24,
 	["kabadineo-shekzeer"]=1,
 	["kabana-shekzeer"]=1,
@@ -7652,7 +7652,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["matiel-shekzeer"]=11,
 	["matinaa-shekzeer"]=14,
 	["matoh-shekzeer"]=15,
-	["matora-ook-ook"]=18,
+	["matora-ook-ook"]=1,
 	["matroxafk-shekzeer"]=17,
 	["mattaris-shekzeer"]=34,
 	["matwx-shekzeer"]=7,
@@ -7686,7 +7686,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["mëgâ-mirage-raceway"]=8,
 	["megacita-shekzeer"]=22,
 	["megcecmpa-shekzeer"]=5,
-	["meilev-hoptallus"]=3,
+	["meilev-hoptallus"]=21,
 	["mejorbrujoxd-shekzeer"]=17,
 	["mekishiko-shekzeer"]=22,
 	["melba-shekzeer"]=11,

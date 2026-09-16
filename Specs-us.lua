@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5160 characters, read 2026-09-16 04:57 AM.
+-- Region us, 5160 characters, read 2026-09-16 05:57 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6629,7 +6629,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["frycow-pagle"]=17,
 	["fryedchickn-pagle"]=7,
 	["fuegisima-pagle"]=24,
-	["fullcream-galakras"]=33,
+	["fullcream-galakras"]=5,
 	["fumadita-pagle"]=14,
 	["funkytubesox-galakras"]=3,
 	["funkyz-raden"]=18,
@@ -6885,7 +6885,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["harókz-raden"]=25,
 	["haroldpugh-raden"]=3,
 	["harrick-immerseus"]=34,
-	["härrick-immerseus"]=3,
+	["härrick-immerseus"]=20,
 	["harrydotter-raden"]=28,
 	["haruchann-pagle"]=10,
 	["hashie-pagle"]=12,
@@ -7170,7 +7170,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["inperitus-arugal-au"]=15,
 	["insomniaxx-pagle"]=14,
 	["instantcarry-raden"]=10,
-	["integrityqt-pagle"]=13,
+	["integrityqt-pagle"]=21,
 	["intercepts-pagle"]=7,
 	["intrerri-pagle"]=34,
 	["intru-raden"]=3,
@@ -7513,7 +7513,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["kurtcopain-immerseus"]=24,
 	["kusamgie-galakras"]=2,
 	["kusheatsleep-raden"]=18,
-	["kushh-nazgrim"]=10,
+	["kushh-nazgrim"]=4,
 	["kutless-raden"]=16,
 	["kutthroatt-pagle"]=7,
 	["kutty-nazgrim"]=11,
@@ -8119,7 +8119,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["nebubanana-raden"]=28,
 	["nebuboom-nazgrim"]=17,
 	["nebugrape-raden"]=8,
-	["nebupeach-nazgrim"]=28,
+	["nebupeach-nazgrim"]=8,
 	["nebuplum-raden"]=8,
 	["neckrotize-pagle"]=6,
 	["necris-galakras"]=26,
@@ -9545,7 +9545,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["therealtasty-raden"]=2,
 	["therotfather-pagle"]=6,
 	["thespot-pagle"]=12,
-	["thetalk-pagle"]=4,
+	["thetalk-pagle"]=10,
 	["thewalker-lei-shen"]=4,
 	["theweave-raden"]=4,
 	["thicthighsqt-pagle"]=16,

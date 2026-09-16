@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 10616 characters, read 2026-09-16 04:59 AM.
+-- Region tbc-eu, 10616 characters, read 2026-09-16 05:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -14069,7 +14069,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["gripen-spineshatter"]=13,
 	["grìsh-spineshatter"]=16,
 	["griswood-spineshatter"]=25,
-	["grizellda-thunderstrike"]=15,
+	["grizellda-thunderstrike"]=5,
 	["grizzlysture-spineshatter"]=6,
 	["groblin-spineshatter"]=11,
 	["gromble-thunderstrike"]=15,
@@ -14329,7 +14329,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["hijiri-spineshatter"]=12,
 	["hikaro-spineshatter"]=5,
 	["hildebanditt-spineshatter"]=3,
-	["hilgork-spineshatter"]=5,
+	["hilgork-spineshatter"]=15,
 	["hillabella-spineshatter"]=2,
 	["hillaryswånk-spineshatter"]=7,
 	["himeyo-spineshatter"]=1,
@@ -14337,10 +14337,10 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["himili-spineshatter"]=2,
 	["hintensteher-spineshatter"]=3,
 	["hiowiel-spineshatter"]=2,
-	["hiper-spineshatter"]=15,
+	["hiper-spineshatter"]=5,
 	["hirä-spineshatter"]=11,
 	["hirö-spineshatter"]=2,
-	["hironex-spineshatter"]=13,
+	["hironex-spineshatter"]=18,
 	["hitalot-thunderstrike"]=4,
 	["hittinghard-spineshatter"]=3,
 	["hmmnaats-thunderstrike"]=6,
@@ -18404,7 +18404,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["saltyspritti-spineshatter"]=25,
 	["saltywilly-spineshatter"]=25,
 	["saltywz-spineshatter"]=5,
-	["salutex-thunderstrike"]=3,
+	["salutex-thunderstrike"]=19,
 	["samaelzlol-spineshatter"]=13,
 	["samasuke-spineshatter"]=12,
 	["samenub-spineshatter"]=1,
