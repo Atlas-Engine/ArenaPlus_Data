@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 10639 characters, read 2026-09-16 10:59 AM.
+-- Region tbc-eu, 10639 characters, read 2026-09-16 11:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12199,7 +12199,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["colinferall-thunderstrike"]=6,
 	["combatcat-spineshatter"]=3,
 	["cometodaddy-spineshatter"]=12,
-	["cometodiddy-spineshatter"]=19,
+	["cometodiddy-spineshatter"]=3,
 	["cometts-spineshatter"]=3,
 	["commscope-spineshatter"]=24,
 	["comoimoi-spineshatter"]=7,
@@ -12230,7 +12230,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["copse-spineshatter"]=3,
 	["cordane-spineshatter"]=6,
 	["cordonx-spineshatter"]=5,
-	["cordycepsxx-thunderstrike"]=11,
+	["cordycepsxx-thunderstrike"]=12,
 	["coreh-spineshatter"]=2,
 	["coreshock-spineshatter"]=11,
 	["coria-spineshatter"]=6,
@@ -13166,7 +13166,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["ekvil-spineshatter"]=3,
 	["elainesandra-spineshatter"]=1,
 	["elbardoo-spineshatter"]=5,
-	["elbardovich-spineshatter"]=6,
+	["elbardovich-spineshatter"]=1,
 	["elbenzo-spineshatter"]=1,
 	["elblackie-spineshatter"]=9,
 	["elcemento-spineshatter"]=3,
@@ -13846,7 +13846,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["galadronia-spineshatter"]=0,
 	["galaksikimmo-spineshatter"]=11,
 	["galathore-spineshatter"]=7,
-	["galdraseyði-thunderstrike"]=13,
+	["galdraseyði-thunderstrike"]=14,
 	["galeschin-thunderstrike"]=5,
 	["galizalegend-spineshatter"]=2,
 	["gallardo-spineshatter"]=25,
@@ -14254,7 +14254,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["hawkowl-spineshatter"]=5,
 	["hawksham-spineshatter"]=12,
 	["hawney-spineshatter"]=6,
-	["hawtme-spineshatter"]=10,
+	["hawtme-spineshatter"]=26,
 	["haxal-thunderstrike"]=1,
 	["häxntutto-spineshatter"]=5,
 	["hayerz-thunderstrike"]=2,
@@ -15320,7 +15320,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["kilata-thunderstrike"]=11,
 	["kilipäärambo-spineshatter"]=9,
 	["killerbeebop-spineshatter"]=18,
-	["killmemyself-spineshatter"]=3,
+	["killmemyself-spineshatter"]=19,
 	["killonz-spineshatter"]=9,
 	["killux-thunderstrike"]=3,
 	["kilminda-spineshatter"]=5,
@@ -16924,7 +16924,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["neverjr-thunderstrike"]=2,
 	["neverlolxqt-spineshatter"]=23,
 	["nevermindx-spineshatter"]=19,
-	["névermore-spineshatter"]=19,
+	["névermore-spineshatter"]=3,
 	["nevershearx-spineshatter"]=5,
 	["nevinna-spineshatter"]=12,
 	["nevinost-spineshatter"]=14,
