@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5307 characters, read 2026-09-15 08:00 PM.
+-- Region eu, 5307 characters, read 2026-09-15 09:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4149,7 +4149,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["twarlx-shekzeer"]=11,
 	["twentyøne-shekzeer"]=11,
 	["twentythirty-shekzeer"]=10,
-	["twodeeps-shekzeer"]=11,
+	["twodeeps-shekzeer"]=10,
 	["twovtwoonly-shekzeer"]=51,
 	["tyââ-shekzeer"]=31,
 	["tykkebrian-shekzeer"]=10,
@@ -5866,7 +5866,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["chessmasterz-garalon"]=1,
 	["chibiarda-auberdine"]=20,
 	["chíckenwíng-everlook"]=11,
-	["chiichii-garalon"]=10,
+	["chiichii-garalon"]=2,
 	["chillestguy-shekzeer"]=0,
 	["chillywily-shekzeer"]=6,
 	["chimèrebaddy-shekzeer"]=4,
@@ -9294,7 +9294,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["tirefesse-auberdine"]=4,
 	["tiritompas-garalon"]=14,
 	["titangel-shekzeer"]=1,
-	["titanià-shekzeer"]=18,
+	["titanià-shekzeer"]=25,
 	["titanii-shekzeer"]=1,
 	["titaniis-shekzeer"]=1,
 	["titaniiz-shekzeer"]=3,
