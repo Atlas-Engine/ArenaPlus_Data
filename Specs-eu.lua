@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5306 characters, read 2026-09-16 12:00 PM.
+-- Region eu, 5305 characters, read 2026-09-16 01:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2874,7 +2874,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["notmaaxx-shekzeer"]=10,
 	["notreallyfun-auberdine"]=11,
 	["notsofknfast-shekzeer"]=10,
-	["nøtsoholy-shekzeer"]=11,
 	["notzero-shekzeer"]=11,
 	["nourish-ook-ook"]=41,
 	["nouse-shekzeer"]=41,
@@ -3409,7 +3408,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["rxsebøy-auberdine"]=11,
 	["rýdøthâðwlx-everlook"]=41,
 	["rydothedk-everlook"]=11,
-	["rýdøthègøátx-everlook"]=110,
+	["rýdøthègøátx-everlook"]=111,
 	["rydotheholy-everlook"]=10,
 	["rydothemage-everlook"]=11,
 	["rydothemonk-everlook"]=11,
@@ -4177,7 +4176,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["umzi-shekzeer"]=10,
 	["uncl-shekzeer"]=11,
 	["unclemarty-shekzeer"]=40,
-	["unclesam-mirage-raceway"]=261,
 	["uncleswifty-shekzeer"]=40,
 	["unda-auberdine"]=51,
 	["Ündæd-shekzeer"]=10,
@@ -4311,7 +4309,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["vonweissnix-everlook"]=11,
 	["voodomann-mirage-raceway"]=40,
 	["voodooheroy-shekzeer"]=11,
-	["voorh-shekzeer"]=11,
 	["vórkar-mirage-raceway"]=11,
 	["vorn-shekzeer"]=60,
 	["vortunes-hoptallus"]=10,
@@ -5691,7 +5688,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bøwjøbë-mirage-raceway"]=4,
 	["bowline-shekzeer"]=20,
 	["bôwlognese-shekzeer"]=20,
-	["bøwtotheqeen-auberdine"]=0,
+	["bøwtotheqeen-shekzeer"]=0,
 	["bozzclqwn-everlook"]=19,
 	["bozzclqwnx-shekzeer"]=5,
 	["bradorn-shekzeer"]=33,
@@ -8088,7 +8085,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["notmaaxx-shekzeer"]=5,
 	["notreallyfun-auberdine"]=2,
 	["notsofknfast-shekzeer"]=1,
-	["nøtsoholy-shekzeer"]=8,
+	["nøtsoholy-shekzeer"]=0,
 	["notzero-shekzeer"]=26,
 	["nourish-ook-ook"]=3,
 	["nouse-shekzeer"]=9,
@@ -9452,7 +9449,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["umzi-shekzeer"]=14,
 	["uncl-shekzeer"]=1,
 	["unclemarty-shekzeer"]=9,
-	["unclesam-mirage-raceway"]=19,
 	["uncleswifty-shekzeer"]=1,
 	["unda-auberdine"]=1,
 	["Ündæd-shekzeer"]=15,
@@ -9590,7 +9586,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["vonweissnix-everlook"]=4,
 	["voodomann-mirage-raceway"]=11,
 	["voodooheroy-shekzeer"]=1,
-	["voorh-shekzeer"]=15,
+	["voorh-shekzeer"]=0,
 	["vórkar-mirage-raceway"]=23,
 	["vorn-shekzeer"]=1,
 	["vortunes-hoptallus"]=34,

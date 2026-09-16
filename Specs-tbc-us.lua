@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9858 characters, read 2026-09-16 11:58 AM.
+-- Region tbc-us, 9858 characters, read 2026-09-16 12:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12859,9 +12859,9 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["fuziionz-nightslayer"]=6,
 	["fuzzykilla-nightslayer"]=2,
 	["fvo-nightslayer"]=19,
-	["fvtvre-nightslayer"]=0,
-	["fwizzle-nightslayer"]=4,
-	["fwl-nightslayer"]=13,
+	["fvtvre-nightslayer"]=3,
+	["fwizzle-nightslayer"]=6,
+	["fwl-nightslayer"]=16,
 	["fwuitsnack-nightslayer"]=24,
 	["fyrewood-nightslayer"]=4,
 	["fyxated-nightslayer"]=13,
@@ -15864,7 +15864,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["oldbheezer-nightslayer"]=16,
 	["oldernewb-nightslayer"]=1,
 	["oldfitzz-dreamscythe"]=7,
-	["oldlee-nightslayer"]=8,
+	["oldlee-nightslayer"]=5,
 	["oldmandellas-dreamscythe"]=2,
 	["oldmanvath-nightslayer"]=13,
 	["oldnewb-nightslayer"]=1,
@@ -16730,7 +16730,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["rexxrawrr-dreamscythe"]=15,
 	["reyoulolz-nightslayer"]=2,
 	["reyyzz-nightslayer"]=2,
-	["rezlina-nightslayer"]=8,
+	["rezlina-nightslayer"]=5,
 	["rezyth-nightslayer"]=19,
 	["rfe-nightslayer"]=5,
 	["rhaegorhc-dreamscythe"]=10,
@@ -18196,7 +18196,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["taylorsniffz-nightslayer"]=5,
 	["tayswíft-nightslayer"]=1,
 	["tazërface-nightslayer"]=18,
-	["tbalc-nightslayer"]=12,
+	["tbalc-nightslayer"]=1,
 	["tbcisawful-nightslayer"]=17,
 	["tbcisdeadcya-nightslayer"]=15,
 	["tbcpremium-dreamscythe"]=1,
@@ -18277,7 +18277,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["theame-nightslayer"]=10,
 	["thebae-dreamscythe"]=9,
 	["thebeyonder-nightslayer"]=5,
-	["thebigdawgx-nightslayer"]=18,
+	["thebigdawgx-nightslayer"]=2,
 	["thebigkitty-nightslayer"]=7,
 	["thebigpig-nightslayer"]=10,
 	["thebigtime-nightslayer"]=1,
