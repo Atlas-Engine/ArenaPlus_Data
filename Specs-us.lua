@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5160 characters, read 2026-09-16 02:57 AM.
+-- Region us, 5160 characters, read 2026-09-16 03:57 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5234,7 +5234,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["astrea-raden"]=30,
 	["astríds-pagle"]=18,
 	["astyus-pagle"]=7,
-	["asunari-pagle"]=18,
+	["asunari-pagle"]=3,
 	["asunyobi-pagle"]=10,
 	["athought-pagle"]=18,
 	["atiko-galakras"]=7,
@@ -5578,7 +5578,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["brainlag-raden"]=3,
 	["brainsurgeon-raden"]=0,
 	["bramanmanman-grobbulus"]=15,
-	["brandoncle-galakras"]=16,
+	["brandoncle-galakras"]=2,
 	["brazzeal-pagle"]=16,
 	["brbcloning-pagle"]=5,
 	["brbsheeping-pagle"]=1,
@@ -9273,7 +9273,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["sponsorz-raden"]=19,
 	["spooke-pagle"]=21,
 	["spookyvx-raden"]=6,
-	["spoonraccoon-pagle"]=29,
+	["spoonraccoon-pagle"]=14,
 	["spóöòky-pagle"]=14,
 	["spóöòkyqûeen-pagle"]=4,
 	["spowy-pagle"]=34,
@@ -9287,7 +9287,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["squeezoh-pagle"]=13,
 	["squeezyxx-raden"]=4,
 	["squince-pagle"]=19,
-	["squirrellyy-pagle"]=33,
+	["squirrellyy-pagle"]=17,
 	["srmackey-nazgrim"]=7,
 	["ssbroly-galakras"]=6,
 	["ssds-raden"]=3,
@@ -9679,7 +9679,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["truckw-raden"]=7,
 	["truebolt-pagle"]=15,
 	["trueshepard-pagle"]=21,
-	["trueshot-grobbulus"]=3,
+	["trueshot-grobbulus"]=20,
 	["trukanoh-nazgrim"]=22,
 	["trumpchains-galakras"]=25,
 	["trumpscurse-galakras"]=21,
@@ -9732,7 +9732,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ultrasaiyan-pagle"]=16,
 	["umehára-pagle"]=10,
 	["unbalance-immerseus"]=6,
-	["unclecuh-immerseus"]=12,
+	["unclecuh-immerseus"]=17,
 	["undeaddeavo-galakras"]=25,
 	["undeaddevo-galakras"]=1,
 	["undeadøse-nazgrim"]=21,
