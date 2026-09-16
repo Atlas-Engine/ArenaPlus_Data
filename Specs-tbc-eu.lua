@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 10624 characters, read 2026-09-16 06:59 AM.
+-- Region tbc-eu, 10624 characters, read 2026-09-16 07:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -14050,7 +14050,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["greåzy-spineshatter"]=5,
 	["greedsies-spineshatter"]=7,
 	["greedyfox-spineshatter"]=2,
-	["greekmalakax-spineshatter"]=7,
+	["greekmalakax-spineshatter"]=26,
 	["greenbowman-thunderstrike"]=25,
 	["gregorus-spineshatter"]=2,
 	["gregoson-thunderstrike"]=5,
@@ -15257,7 +15257,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["ketose-spineshatter"]=2,
 	["kettrin-spineshatter"]=5,
 	["kettuyo-spineshatter"]=1,
-	["keulenkarl-spineshatter"]=20,
+	["keulenkarl-spineshatter"]=1,
 	["kevas-spineshatter"]=3,
 	["kevderpx-spineshatter"]=9,
 	["kevell-spineshatter"]=11,
@@ -17103,7 +17103,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["nppn-spineshatter"]=9,
 	["nsh-spineshatter"]=3,
 	["nslol-spineshatter"]=3,
-	["ntais-spineshatter"]=22,
+	["ntais-spineshatter"]=5,
 	["ntorkek-spineshatter"]=1,
 	["nubmaco-spineshatter"]=11,
 	["nubula-spineshatter"]=11,
@@ -18482,7 +18482,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["sauronorc-spineshatter"]=5,
 	["sausekasten-thunderstrike"]=25,
 	["savageqt-spineshatter"]=1,
-	["savenya-spineshatter"]=1,
+	["savenya-spineshatter"]=6,
 	["saviola-spineshatter"]=1,
 	["sawax-spineshatter"]=23,
 	["sayhim-spineshatter"]=17,
@@ -19991,7 +19991,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["trigni-spineshatter"]=2,
 	["trignii-spineshatter"]=2,
 	["trigz-spineshatter"]=9,
-	["trigzy-thunderstrike"]=19,
+	["trigzy-thunderstrike"]=3,
 	["trikortreat-thunderstrike"]=5,
 	["trillou-thunderstrike"]=3,
 	["trippytwinaz-spineshatter"]=3,
@@ -20685,7 +20685,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["wsrkyo-spineshatter"]=12,
 	["wtbwf-spineshatter"]=15,
 	["wtfxcyklonx-spineshatter"]=1,
-	["wuaffle-spineshatter"]=17,
+	["wuaffle-spineshatter"]=2,
 	["wuàffle-spineshatter"]=11,
 	["wuff-thunderstrike"]=1,
 	["wuggy-spineshatter"]=13,
