@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5162 characters, read 2026-09-16 05:57 PM.
+-- Region us, 5162 characters, read 2026-09-16 06:57 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4080,7 +4080,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["sockemboper-pagle"]=10,
 	["södah-raden"]=41,
 	["sofeorr-pagle"]=40,
-	["sofí-pagle"]=111,
+	["sofí-pagle"]=11,
 	["solaarflare-pagle"]=11,
 	["solarshield-raden"]=11,
 	["solartide-pagle"]=111,
@@ -5192,7 +5192,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["arcindia-galakras"]=13,
 	["arcticmunchy-grobbulus"]=9,
 	["arena-pagle"]=4,
-	["arenaelun-pagle"]=4,
+	["arenaelun-pagle"]=10,
 	["arendale-pagle"]=25,
 	["arg-nazgrim"]=7,
 	["arganone-pagle"]=6,
@@ -5221,7 +5221,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["artlight-nazgrim"]=2,
 	["arumág-pagle"]=16,
 	["arvee-pagle"]=7,
-	["ascension-raden"]=4,
+	["ascension-raden"]=10,
 	["ashbringer-nazgrim"]=0,
 	["ashcarver-galakras"]=7,
 	["asheryx-raden"]=2,
@@ -7249,7 +7249,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["jealusmuch-arugal-au"]=0,
 	["jedicowie-pagle"]=13,
 	["jeewwjitsu-raden"]=10,
-	["jeffatality-nazgrim"]=27,
+	["jeffatality-nazgrim"]=10,
 	["jeffrence-pagle"]=16,
 	["jefmago-raden"]=11,
 	["jellierolls-pagle"]=4,
@@ -7878,7 +7878,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["merckup-pagle"]=4,
 	["mercyx-raden"]=6,
 	["merkon-lei-shen"]=7,
-	["mesosilence-pagle"]=14,
+	["mesosilence-pagle"]=29,
 	["messey-lei-shen"]=28,
 	["messigoat-nazgrim"]=10,
 	["mesv-pagle"]=1,
@@ -9080,7 +9080,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["sírchargé-lei-shen"]=7,
 	["sisterfista-raden"]=10,
 	["sitdog-pagle"]=29,
-	["sithtyshades-galakras"]=9,
+	["sithtyshades-galakras"]=21,
 	["síx-nazgrim"]=6,
 	["sixmonth-raden"]=4,
 	["sixpathsage-pagle"]=4,
