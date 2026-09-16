@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9861 characters, read 2026-09-16 02:59 PM.
+-- Region tbc-us, 9861 characters, read 2026-09-16 03:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12831,9 +12831,9 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["fubujenkins-nightslayer"]=1,
 	["fugative-nightslayer"]=5,
 	["fuhngai-nightslayer"]=5,
-	["fuhou-nightslayer"]=0,
+	["fuhou-nightslayer"]=5,
 	["fullbook-nightslayer"]=5,
-	["fullclone-nightslayer"]=7,
+	["fullclone-nightslayer"]=3,
 	["fullcode-nightslayer"]=7,
 	["fullmelts-nightslayer"]=5,
 	["fullscripts-nightslayer"]=5,
@@ -18207,7 +18207,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["tbalc-nightslayer"]=1,
 	["tbcisawful-nightslayer"]=17,
 	["tbcisdeadcya-nightslayer"]=15,
-	["tbcpremium-dreamscythe"]=1,
+	["tbcpremium-dreamscythe"]=14,
 	["tbcrival-nightslayer"]=13,
 	["tbcsimp-nightslayer"]=7,
 	["tbctex-nightslayer"]=19,
@@ -18448,7 +18448,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["toddiepi-nightslayer"]=0,
 	["todlich-nightslayer"]=5,
 	["todori-dreamscythe"]=2,
-	["todthepriest-nightslayer"]=0,
+	["todthepriest-nightslayer"]=1,
 	["toet-nightslayer"]=8,
 	["tofolol-nightslayer"]=8,
 	["tófu-nightslayer"]=5,
