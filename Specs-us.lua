@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5162 characters, read 2026-09-17 10:57 AM.
+-- Region us, 5162 characters, read 2026-09-17 11:57 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6279,7 +6279,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dumdum-nazgrim"]=18,
 	["dúmß-raden"]=7,
 	["dúmßer-raden"]=16,
-	["dunardel-raden"]=7,
+	["dunardel-raden"]=30,
 	["dunkindotnut-raden"]=0,
 	["dunkyb-raden"]=1,
 	["dunsun-galakras"]=10,
@@ -6385,7 +6385,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["epsilon-pagle"]=0,
 	["erass-nazgrim"]=16,
 	["eredark-raden"]=22,
-	["erieshotz-pagle"]=18,
+	["erieshotz-pagle"]=20,
 	["erik-nazgrim"]=7,
 	["erikane-nazgrim"]=4,
 	["erikhai-nazgrim"]=3,
@@ -6873,7 +6873,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["hardcorelock-pagle"]=24,
 	["hardflip-pagle"]=34,
 	["hardtodie-pagle"]=10,
-	["harìbo-pagle"]=19,
+	["harìbo-pagle"]=22,
 	["hariv-pagle"]=3,
 	["harlêmhêat-lei-shen"]=1,
 	["harleyquinxo-lei-shen"]=4,
@@ -8555,7 +8555,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["pspspsps-galakras"]=5,
 	["psyced-galakras"]=24,
 	["psychovic-galakras"]=22,
-	["psykadélik-lei-shen"]=16,
+	["psykadélik-lei-shen"]=2,
 	["psykobunny-raden"]=12,
 	["pukobundy-nazgrim"]=10,
 	["pullouts-raden"]=7,

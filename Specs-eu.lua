@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5308 characters, read 2026-09-17 11:00 AM.
+-- Region eu, 5308 characters, read 2026-09-17 12:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3576,7 +3576,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["shiffoo-shekzeer"]=251,
 	["shiftnpew-everlook"]=11,
 	["shiftnrun-everlook"]=10,
-	["shiftshaprr-shekzeer"]=40,
+	["shiftshaprr-shekzeer"]=41,
 	["shiimy-everlook"]=81,
 	["shiimyy-everlook"]=41,
 	["shiloh-ook-ook"]=101,
@@ -6692,7 +6692,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["guirox-auberdine"]=15,
 	["gulavesslan-shekzeer"]=15,
 	["gülizar-shekzeer"]=4,
-	["gumdrops-shekzeer"]=12,
+	["gumdrops-shekzeer"]=22,
 	["gunzales-shekzeer"]=14,
 	["gupa-norushen"]=10,
 	["guriero-norushen"]=3,
@@ -8823,7 +8823,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["shiffoo-shekzeer"]=6,
 	["shiftnpew-everlook"]=6,
 	["shiftnrun-everlook"]=4,
-	["shiftshaprr-shekzeer"]=11,
+	["shiftshaprr-shekzeer"]=21,
 	["shiimy-everlook"]=11,
 	["shiimyy-everlook"]=3,
 	["shiloh-ook-ook"]=5,
@@ -10207,7 +10207,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Лилрой-flamegor"]=2,
 	["Лолпыщпыщ-flamegor"]=12,
 	["Лоргандил-flamegor"]=3,
-	["Луйсюнь-flamegor"]=7,
+	["Луйсюнь-flamegor"]=6,
 	["Лумиари-flamegor"]=16,
 	["Лунтикс-flamegor"]=11,
 	["Магачкала-flamegor"]=10,
