@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5308 characters, read 2026-09-17 10:00 AM.
+-- Region eu, 5308 characters, read 2026-09-17 11:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4193,7 +4193,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["unknowx-shekzeer"]=41,
 	["unpeudgàzouz-auberdine"]=101,
 	["unravel-everlook"]=11,
-	["untouchable-shekzeer"]=41,
+	["untouchable-shekzeer"]=40,
 	["uploader-mirage-raceway"]=10,
 	["upskirt-everlook"]=50,
 	["uraltersack-shekzeer"]=10,
@@ -8421,7 +8421,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["qtr-shekzeer"]=21,
 	["quackbae-shekzeer"]=0,
 	["qualitytime-garalon"]=13,
-	["quarok-shekzeer"]=23,
+	["quarok-shekzeer"]=28,
 	["quastwex-shekzeer"]=30,
 	["queuepóp-shekzeer"]=5,
 	["quickerz-norushen"]=10,
@@ -9621,7 +9621,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["waix-shekzeer"]=10,
 	["walkerr-hoptallus"]=15,
 	["wãlter-shekzeer"]=9,
-	["warcrimes-shekzeer"]=25,
+	["warcrimes-shekzeer"]=1,
 	["wardz-mirage-raceway"]=2,
 	["wardz-shekzeer"]=2,
 	["warning-shekzeer"]=1,
