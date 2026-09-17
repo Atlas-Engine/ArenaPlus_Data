@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5309 characters, read 2026-09-17 05:00 PM.
+-- Region eu, 5309 characters, read 2026-09-17 06:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3803,6 +3803,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["strangulol-ook-ook"]=20,
 	["straviouse-hoptallus"]=10,
 	["strick-norushen"]=21,
+	["strikexo-shekzeer"]=11,
 	["strip-mirage-raceway"]=10,
 	["striva-mirage-raceway"]=111,
 	["strongbanana-shekzeer"]=10,
@@ -5046,7 +5047,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["Тираэлиз-flamegor"]=11,
 	["Тириошх-flamegor"]=11,
 	["Тмоперао-flamegor"]=90,
-	["Тнэш-flamegor"]=10,
+	["Тнэш-flamegor"]=11,
 	["Тогерд-flamegor"]=21,
 	["Толикьюс-flamegor"]=11,
 	["Тониматата-flamegor"]=10,
@@ -5742,7 +5743,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bumbelbegodx-shekzeer"]=14,
 	["bumbelbemonk-shekzeer"]=7,
 	["bumbeldruid-shekzeer"]=21,
-	["bumbelgnome-shekzeer"]=7,
+	["bumbelgnome-shekzeer"]=29,
 	["bumbelmonk-garalon"]=7,
 	["bumbelmonk-shekzeer"]=7,
 	["bumbelorc-garalon"]=7,
@@ -7831,7 +7832,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["monkshadow-shekzeer"]=6,
 	["monktop-shekzeer"]=0,
 	["monlok-garalon"]=23,
-	["monloko-shekzeer"]=17,
+	["monloko-shekzeer"]=23,
 	["monlokoo-shekzeer"]=17,
 	["monomax-shekzeer"]=8,
 	["mønsìeurfràz-shekzeer"]=20,
@@ -9059,7 +9060,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["straviouse-hoptallus"]=5,
 	["strick-norushen"]=25,
 	["strikex-shekzeer"]=0,
-	["strikexo-shekzeer"]=0,
+	["strikexo-shekzeer"]=4,
 	["strip-mirage-raceway"]=6,
 	["striva-mirage-raceway"]=1,
 	["strongbanana-shekzeer"]=15,
@@ -9491,7 +9492,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["vagizzle-shekzeer"]=6,
 	["vah-shekzeer"]=15,
 	["vãh-shekzeer"]=4,
-	["vahlol-shekzeer"]=13,
+	["vahlol-shekzeer"]=19,
 	["vahx-shekzeer"]=1,
 	["vain-shekzeer"]=0,
 	["vaingar-garalon"]=1,
@@ -9588,7 +9589,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["voireg-shekzeer"]=15,
 	["voldreth-everlook"]=15,
 	["voldrex-everlook"]=16,
-	["voljix-shekzeer"]=14,
+	["voljix-shekzeer"]=4,
 	["voljiz-shekzeer"]=1,
 	["volkris-shekzeer"]=15,
 	["volkrz-shekzeer"]=19,
@@ -9690,7 +9691,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["wingsfuhrer-shekzeer"]=15,
 	["wink-mirage-raceway"]=6,
 	["winkaay-shekzeer"]=13,
-	["winkay-shekzeer"]=11,
+	["winkay-shekzeer"]=3,
 	["winkáy-shekzeer"]=2,
 	["winkysaverbg-shekzeer"]=24,
 	["wïns-shekzeer"]=6,

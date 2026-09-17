@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5165 characters, read 2026-09-17 04:59 PM.
+-- Region us, 5165 characters, read 2026-09-17 05:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5362,7 +5362,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["beetroot-raden"]=4,
 	["behindyu-pagle"]=14,
 	["beijingcy-grobbulus"]=1,
-	["beijingdy-grobbulus"]=5,
+	["beijingdy-grobbulus"]=17,
 	["beijingms-grobbulus"]=13,
 	["beijingsa-grobbulus"]=19,
 	["beijingss-grobbulus"]=24,
@@ -5387,7 +5387,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["berell-raden"]=5,
 	["beriothyen-galakras"]=4,
 	["berkson-galakras"]=20,
-	["bertharro-galakras"]=11,
+	["bertharro-galakras"]=1,
 	["bertoxxulos-galakras"]=28,
 	["bestbrother-pagle"]=16,
 	["bestiiaa-raden"]=20,
@@ -5491,7 +5491,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["bloodofnotus-nazgrim"]=27,
 	["bloodrake-nazgrim"]=25,
 	["bloodshatter-raden"]=7,
-	["bloodsoakd-pagle"]=7,
+	["bloodsoakd-pagle"]=23,
 	["bloodvâlor-lei-shen"]=6,
 	["bloombringer-pagle"]=0,
 	["blooms-pagle"]=17,
@@ -6626,7 +6626,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["froztbomb-pagle"]=1,
 	["froztbum-raden"]=1,
 	["fruitsala-raden"]=7,
-	["frycow-pagle"]=17,
+	["frycow-pagle"]=5,
 	["fryedchickn-pagle"]=7,
 	["fuegisima-pagle"]=24,
 	["fullcream-galakras"]=5,
@@ -8906,7 +8906,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["sazzieu-raden"]=7,
 	["scarlen-pagle"]=1,
 	["scarybarnowl-grobbulus"]=17,
-	["scarykitty-raden"]=5,
+	["scarykitty-raden"]=17,
 	["scarymonster-raden"]=6,
 	["scattershotz-raden"]=3,
 	["scattrapwily-pagle"]=20,
@@ -9999,7 +9999,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["xero-nazgrim"]=0,
 	["xexter-pagle"]=2,
 	["xeyo-raden"]=34,
-	["xfry-pagle"]=16,
+	["xfry-pagle"]=2,
 	["xhangtu-raden"]=4,
 	["xiks-arugal-au"]=7,
 	["xil-raden"]=7,
@@ -10071,7 +10071,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["youngvërcesx-raden"]=27,
 	["youngx-pagle"]=4,
 	["youppl-pagle"]=7,
-	["yourendisher-pagle"]=1,
+	["yourendisher-pagle"]=11,
 	["youz-pagle"]=15,
 	["yrd-pagle"]=9,
 	["yrrlol-pagle"]=17,
