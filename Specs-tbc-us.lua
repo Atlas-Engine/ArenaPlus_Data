@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9816 characters, read 2026-09-17 08:59 AM.
+-- Region tbc-us, 9816 characters, read 2026-09-17 09:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10563,7 +10563,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["blackadam-nightslayer"]=10,
 	["blackberrys-nightslayer"]=7,
 	["blackchedda-nightslayer"]=16,
-	["blackcircle-nightslayer"]=6,
+	["blackcircle-nightslayer"]=4,
 	["blackcocoa-dreamscythe"]=11,
 	["blackcrows-nightslayer"]=1,
 	["blackdahila-nightslayer"]=2,
@@ -11876,7 +11876,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["dogfacekilla-nightslayer"]=2,
 	["doggos-nightslayer"]=2,
 	["doggostwo-nightslayer"]=2,
-	["dogofthelobb-nightslayer"]=6,
+	["dogofthelobb-nightslayer"]=4,
 	["dogpolice-nightslayer"]=1,
 	["dogrollx-nightslayer"]=10,
 	["dokam-nightslayer"]=3,
@@ -12083,7 +12083,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["dtn-nightslayer"]=1,
 	["dtrn-nightslayer"]=5,
 	["duaa-nightslayer"]=4,
-	["dubplate-dreamscythe"]=2,
+	["dubplate-dreamscythe"]=18,
 	["duckdisco-dreamscythe"]=10,
 	["duckduckdots-dreamscythe"]=16,
 	["duckhead-nightslayer"]=1,
@@ -12150,7 +12150,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["dyko-nightslayer"]=13,
 	["dylbo-nightslayer"]=7,
 	["dylcum-nightslayer"]=2,
-	["dylpot-nightslayer"]=13,
+	["dylpot-nightslayer"]=16,
 	["dyluck-dreamscythe"]=2,
 	["dymer-nightslayer"]=5,
 	["dynastes-nightslayer"]=2,
@@ -12471,9 +12471,9 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["fappest-nightslayer"]=4,
 	["fåppy-nightslayer"]=18,
 	["faramar-dreamscythe"]=7,
-	["farger-dreamscythe"]=2,
+	["farger-dreamscythe"]=18,
 	["farmer-nightslayer"]=4,
-	["farmermike-nightslayer"]=6,
+	["farmermike-nightslayer"]=4,
 	["farmingyou-nightslayer"]=6,
 	["farosham-dreamscythe"]=19,
 	["fartingbuttx-nightslayer"]=7,
@@ -13390,7 +13390,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["himora-nightslayer"]=5,
 	["himothyleary-nightslayer"]=1,
 	["hinaki-nightslayer"]=5,
-	["hipclick-nightslayer"]=23,
+	["hipclick-nightslayer"]=13,
 	["hípocrita-nightslayer"]=19,
 	["hippiekllr-nightslayer"]=10,
 	["hippiepriest-nightslayer"]=1,
@@ -13613,7 +13613,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["idnal-nightslayer"]=4,
 	["idoitx-nightslayer"]=9,
 	["idonthavaids-nightslayer"]=3,
-	["idragon-dreamscythe"]=14,
+	["idragon-dreamscythe"]=1,
 	["idrinkwine-nightslayer"]=5,
 	["ieatcats-nightslayer"]=15,
 	["ieatorc-nightslayer"]=6,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5162 characters, read 2026-09-17 08:57 AM.
+-- Region us, 5162 characters, read 2026-09-17 09:57 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3017,7 +3017,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["nastynate-galakras"]=20,
 	["nastytaint-galakras"]=20,
 	["natalia-raden"]=11,
-	["natazo-pagle"]=20,
 	["nathaniel-lei-shen"]=41,
 	["nattypriest-pagle"]=11,
 	["nattywarrior-raden"]=11,
@@ -6617,7 +6616,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["frostweezy-raden"]=1,
 	["frostybiloge-galakras"]=1,
 	["frostzs-pagle"]=25,
-	["froyoz-pagle"]=11,
+	["froyoz-pagle"]=1,
 	["frozenßöò-pagle"]=1,
 	["frözönë-pagle"]=1,
 	["froztbolts-pagle"]=1,
@@ -6888,7 +6887,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["haruchann-pagle"]=10,
 	["hashie-pagle"]=12,
 	["hashslurper-nazgrim"]=31,
-	["hatehord-pagle"]=20,
+	["hatehord-pagle"]=18,
 	["havitýx-raden"]=0,
 	["hãzel-pagle"]=17,
 	["hazi-galakras"]=3,
@@ -8091,7 +8090,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["nastynate-galakras"]=20,
 	["nastytaint-galakras"]=24,
 	["natalia-raden"]=14,
-	["natazo-pagle"]=7,
+	["natazo-pagle"]=0,
 	["nathaniel-lei-shen"]=5,
 	["nattypriest-pagle"]=9,
 	["nattywarrior-raden"]=7,
