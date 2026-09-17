@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5306 characters, read 2026-09-17 01:00 PM.
+-- Region eu, 5306 characters, read 2026-09-17 02:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -8638,7 +8638,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["runplz-shekzeer"]=19,
 	["runshisback-shekzeer"]=9,
 	["runshøsløw-shekzeer"]=9,
-	["runshpower-shekzeer"]=16,
+	["runshpower-shekzeer"]=13,
 	["runshtraps-shekzeer"]=4,
 	["rushsys-auberdine"]=13,
 	["ruzha-shekzeer"]=9,
@@ -8773,7 +8773,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["shadoff-shekzeer"]=12,
 	["shadotix-everlook"]=23,
 	["shaðøw-auberdine"]=12,
-	["shadowbøømzt-auberdine"]=9,
+	["shadowbøømzt-auberdine"]=12,
 	["shadowdeath-shekzeer"]=12,
 	["shadoweed-shekzeer"]=12,
 	["shadowgap-shekzeer"]=24,
@@ -9711,7 +9711,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["wølfgunxz-everlook"]=4,
 	["wolfus-mirage-raceway"]=1,
 	["wongfeihung-shekzeer"]=6,
-	["wongliener-everlook"]=14,
+	["wongliener-everlook"]=4,
 	["woodsboro-auberdine"]=6,
 	["woofstamir-shekzeer"]=3,
 	["woopzer-shekzeer"]=32,
