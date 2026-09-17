@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5306 characters, read 2026-09-17 02:00 PM.
+-- Region eu, 5306 characters, read 2026-09-17 03:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5469,7 +5469,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["azzylûm-auberdine"]=18,
 	["babangida-mirage-raceway"]=4,
 	["babayag-garalon"]=34,
-	["babayagoo-shekzeer"]=25,
+	["babayagoo-shekzeer"]=1,
 	["babexqaqx-shekzeer"]=6,
 	["babooz-shekzeer"]=11,
 	["babulo-shekzeer"]=11,
@@ -6268,7 +6268,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["dwgz-shekzeer"]=9,
 	["dxab-shekzeer"]=22,
 	["dxbam-shekzeer"]=9,
-	["dxbamoon-shekzeer"]=29,
+	["dxbamoon-shekzeer"]=7,
 	["dxbom-shekzeer"]=21,
 	["dynarsia-shekzeer"]=3,
 	["dynther-shekzeer"]=1,
@@ -8711,7 +8711,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["satineta-shekzeer"]=34,
 	["satisfiedpri-shekzeer"]=9,
 	["saunabeer-gehennas"]=0,
-	["saúro-garalon"]=27,
+	["saúro-garalon"]=2,
 	["saveny-everlook"]=2,
 	["savexx-shekzeer"]=2,
 	["savocid-shekzeer"]=5,
