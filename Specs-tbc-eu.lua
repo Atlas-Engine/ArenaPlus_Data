@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 10540 characters, read 2026-09-17 04:59 AM.
+-- Region tbc-eu, 10540 characters, read 2026-09-17 05:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -13451,7 +13451,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["finaflickan-thunderstrike"]=9,
 	["finalview-spineshatter"]=9,
 	["finasterides-spineshatter"]=5,
-	["finerqt-spineshatter"]=9,
+	["finerqt-spineshatter"]=4,
 	["finerx-spineshatter"]=23,
 	["fingerirøv-spineshatter"]=9,
 	["finndfury-spineshatter"]=11,
@@ -13635,7 +13635,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["frendeli-spineshatter"]=1,
 	["frendelp-spineshatter"]=10,
 	["frendelx-spineshatter"]=25,
-	["frendiks-thunderstrike"]=19,
+	["frendiks-thunderstrike"]=3,
 	["frenni-spineshatter"]=1,
 	["frenschmeat-spineshatter"]=2,
 	["freshdog-spineshatter"]=9,
@@ -15531,7 +15531,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["lempisgodx-spineshatter"]=4,
 	["lemurians-spineshatter"]=1,
 	["lendoria-spineshatter"]=9,
-	["lenfearjk-spineshatter"]=3,
+	["lenfearjk-spineshatter"]=19,
 	["lensine-spineshatter"]=13,
 	["lenti-spineshatter"]=13,
 	["lentitotem-spineshatter"]=12,
@@ -19155,7 +19155,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["starygnom-spineshatter"]=18,
 	["stastnej-spineshatter"]=5,
 	["static-spineshatter"]=14,
-	["statice-spineshatter"]=10,
+	["statice-spineshatter"]=7,
 	["stayawayz-spineshatter"]=1,
 	["staylol-spineshatter"]=3,
 	["stdl-spineshatter"]=2,
@@ -19167,7 +19167,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["steffens-spineshatter"]=9,
 	["stefu-spineshatter"]=7,
 	["steingrím-spineshatter"]=12,
-	["stekaric-thunderstrike"]=23,
+	["stekaric-thunderstrike"]=12,
 	["stelconplaat-spineshatter"]=2,
 	["steltti-spineshatter"]=3,
 	["stemrødt-spineshatter"]=1,
@@ -19835,7 +19835,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["trianz-spineshatter"]=9,
 	["trickbetrug-spineshatter"]=3,
 	["tricksix-thunderstrike"]=19,
-	["trickyo-spineshatter"]=19,
+	["trickyo-spineshatter"]=3,
 	["tridushka-spineshatter"]=3,
 	["trigger-spineshatter"]=2,
 	["trigni-spineshatter"]=2,
