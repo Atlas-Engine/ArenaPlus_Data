@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5162 characters, read 2026-09-17 07:57 AM.
+-- Region us, 5162 characters, read 2026-09-17 08:57 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6972,7 +6972,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["hohenhymn-raden"]=25,
 	["hojosatoru-raden"]=16,
 	["hojville-pagle"]=16,
-	["holidayhamii-pagle"]=16,
+	["holidayhamii-pagle"]=32,
 	["holtxd-raden"]=7,
 	["holyangelz-pagle"]=2,
 	["holycøcktail-raden"]=2,
@@ -8112,7 +8112,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["nebubanana-raden"]=8,
 	["nebuboom-nazgrim"]=17,
 	["nebugrape-raden"]=8,
-	["nebupeach-nazgrim"]=28,
+	["nebupeach-nazgrim"]=8,
 	["nebuplum-raden"]=8,
 	["neckrotize-pagle"]=6,
 	["necris-galakras"]=26,
@@ -8232,7 +8232,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["nukkz-arugal-au"]=14,
 	["nunnya-raden"]=4,
 	["nupper-pagle"]=7,
-	["nurfthemonk-pagle"]=4,
+	["nurfthemonk-pagle"]=10,
 	["nurfwarr-raden"]=7,
 	["nusubito-pagle"]=29,
 	["nutgrabber-pagle"]=34,
@@ -8438,7 +8438,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["péstilence-pagle"]=6,
 	["peteslimjim-galakras"]=7,
 	["pewpilpopper-pagle"]=3,
-	["péz-pagle"]=4,
+	["péz-pagle"]=10,
 	["pezdispencer-raden"]=2,
 	["phöoba-pagle"]=12,
 	["phrra-pagle"]=7,

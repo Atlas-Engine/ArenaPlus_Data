@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 10551 characters, read 2026-09-17 07:59 AM.
+-- Region tbc-eu, 10551 characters, read 2026-09-17 08:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12859,7 +12859,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["drippnwet-spineshatter"]=7,
 	["drizkko-thunderstrike"]=12,
 	["drjoint-spineshatter"]=1,
-	["drlajban-spineshatter"]=2,
+	["drlajban-spineshatter"]=17,
 	["drlauterbach-thunderstrike"]=11,
 	["drlckn-thunderstrike"]=2,
 	["drloki-spineshatter"]=23,
@@ -13582,7 +13582,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["forfk-spineshatter"]=2,
 	["forfn-spineshatter"]=2,
 	["forgemode-spineshatter"]=7,
-	["forgetful-spineshatter"]=15,
+	["forgetful-spineshatter"]=22,
 	["førgiv-spineshatter"]=2,
 	["forkinoutlet-spineshatter"]=23,
 	["forksache-spineshatter"]=6,
@@ -15485,7 +15485,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["lasseerbjørn-spineshatter"]=1,
 	["lasseröv-spineshatter"]=11,
 	["lastbehind-spineshatter"]=6,
-	["lastbehïnd-spineshatter"]=3,
+	["lastbehïnd-spineshatter"]=19,
 	["latent-spineshatter"]=3,
 	["latita-spineshatter"]=1,
 	["latutte-spineshatter"]=2,
@@ -16174,7 +16174,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["meyself-spineshatter"]=12,
 	["mezekín-thunderstrike"]=23,
 	["mézesgeci-spineshatter"]=7,
-	["meziljie-spineshatter"]=6,
+	["meziljie-spineshatter"]=1,
 	["mezzes-spineshatter"]=4,
 	["mges-spineshatter"]=4,
 	["mgrn-spineshatter"]=9,
@@ -16946,7 +16946,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["nothief-spineshatter"]=3,
 	["notindanger-spineshatter"]=2,
 	["notmageek-thunderstrike"]=12,
-	["notnotyou-spineshatter"]=14,
+	["notnotyou-spineshatter"]=13,
 	["notoríous-spineshatter"]=5,
 	["notoríousx-spineshatter"]=3,
 	["notpompyro-spineshatter"]=4,
@@ -17634,7 +17634,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["psychapapete-spineshatter"]=2,
 	["psychapeute-spineshatter"]=2,
 	["psychapote-spineshatter"]=2,
-	["psychicdream-thunderstrike"]=8,
+	["psychicdream-thunderstrike"]=2,
 	["psychologue-spineshatter"]=3,
 	["psychomaniac-spineshatter"]=3,
 	["psychos-spineshatter"]=2,
@@ -20541,7 +20541,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["wuaffle-spineshatter"]=2,
 	["wuàffle-spineshatter"]=11,
 	["wuff-thunderstrike"]=1,
-	["wuggy-spineshatter"]=13,
+	["wuggy-spineshatter"]=18,
 	["wüggy-spineshatter"]=18,
 	["würa-spineshatter"]=5,
 	["wurzelqq-spineshatter"]=5,
@@ -20874,7 +20874,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["zelysium-thunderstrike"]=12,
 	["zelyxgodx-spineshatter"]=2,
 	["zenetixs-spineshatter"]=2,
-	["zennji-spineshatter"]=14,
+	["zennji-spineshatter"]=13,
 	["zenodisco-spineshatter"]=2,
 	["zenozug-spineshatter"]=5,
 	["zensuuri-spineshatter"]=12,
