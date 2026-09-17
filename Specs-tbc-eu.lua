@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 10540 characters, read 2026-09-17 04:00 AM.
+-- Region tbc-eu, 10540 characters, read 2026-09-17 04:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -13084,7 +13084,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["eloraze-spineshatter"]=3,
 	["elorsz-spineshatter"]=2,
 	["eloryel-spineshatter"]=4,
-	["elowryn-spineshatter"]=3,
+	["elowryn-spineshatter"]=19,
 	["elplomo-thunderstrike"]=25,
 	["elpotato-spineshatter"]=1,
 	["elpotatò-spineshatter"]=1,
@@ -13457,10 +13457,10 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["finndfury-spineshatter"]=11,
 	["finnflurry-spineshatter"]=12,
 	["finnstaddir-thunderstrike"]=5,
-	["fintefan-spineshatter"]=12,
+	["fintefan-spineshatter"]=11,
 	["fintiklushka-spineshatter"]=11,
 	["fintismintya-spineshatter"]=3,
-	["fìona-spineshatter"]=11,
+	["fìona-spineshatter"]=12,
 	["fionaqt-thunderstrike"]=12,
 	["fionluisant-spineshatter"]=17,
 	["firles-spineshatter"]=7,
@@ -19614,7 +19614,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["theprince-spineshatter"]=9,
 	["thequalizer-spineshatter"]=9,
 	["therealcuk-spineshatter"]=7,
-	["therín-spineshatter"]=9,
+	["therín-spineshatter"]=4,
 	["theris-spineshatter"]=7,
 	["thesillyone-spineshatter"]=3,
 	["theßigcheese-spineshatter"]=10,
