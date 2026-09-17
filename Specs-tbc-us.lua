@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9810 characters, read 2026-09-17 02:58 PM.
+-- Region tbc-us, 9810 characters, read 2026-09-17 03:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10786,7 +10786,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bristoll-nightslayer"]=4,
 	["britva-nightslayer"]=0,
 	["brizza-dreamscythe"]=5,
-	["brizzla-nightslayer"]=15,
+	["brizzla-nightslayer"]=17,
 	["brizzles-dreamscythe"]=11,
 	["brmzx-nightslayer"]=13,
 	["brockly-nightslayer"]=1,
@@ -13785,7 +13785,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["izana-nightslayer"]=5,
 	["izerol-dreamscythe"]=2,
 	["izri-dreamscythe"]=19,
-	["izrl-nightslayer"]=1,
+	["izrl-nightslayer"]=14,
 	["izuni-nightslayer"]=1,
 	["jabe-nightslayer"]=0,
 	["jabroski-nightslayer"]=4,
@@ -13794,7 +13794,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["jackeyloh-dreamscythe"]=0,
 	["jackkbro-nightslayer"]=19,
 	["jackncloak-nightslayer"]=5,
-	["jacknumbers-nightslayer"]=18,
+	["jacknumbers-nightslayer"]=2,
 	["jackodawackö-nightslayer"]=5,
 	["jacktherager-nightslayer"]=2,
 	["jacobd-nightslayer"]=0,
@@ -15217,7 +15217,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["moisterd-nightslayer"]=2,
 	["moistjohnson-nightslayer"]=4,
 	["moistured-nightslayer"]=2,
-	["mojabighost-nightslayer"]=16,
+	["mojabighost-nightslayer"]=13,
 	["mojando-nightslayer"]=13,
 	["mojing-dreamscythe"]=1,
 	["mojitosz-dreamscythe"]=2,
@@ -17628,7 +17628,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["solidär-nightslayer"]=3,
 	["solnyshko-nightslayer"]=6,
 	["solocup-nightslayer"]=2,
-	["soloqueueh-nightslayer"]=1,
+	["soloqueueh-nightslayer"]=14,
 	["soloqueuer-nightslayer"]=5,
 	["solosenior-nightslayer"]=10,
 	["solrias-dreamscythe"]=19,
@@ -17639,9 +17639,9 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["somegurl-nightslayer"]=4,
 	["someidot-dreamscythe"]=7,
 	["somesorta-dreamscythe"]=1,
-	["somnos-nightslayer"]=12,
+	["somnos-nightslayer"]=1,
 	["sonaboi-nightslayer"]=5,
-	["sonder-nightslayer"]=22,
+	["sonder-nightslayer"]=7,
 	["sonnydee-nightslayer"]=1,
 	["sonofnils-nightslayer"]=1,
 	["sonofsin-dreamscythe"]=0,

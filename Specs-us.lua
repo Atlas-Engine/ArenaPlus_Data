@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5164 characters, read 2026-09-17 02:57 PM.
+-- Region us, 5164 characters, read 2026-09-17 03:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5757,7 +5757,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["chikkanugs-pagle"]=6,
 	["chilean-pagle"]=28,
 	["chillgirl-raden"]=1,
-	["chilloutboii-galakras"]=11,
+	["chilloutboii-galakras"]=1,
 	["chillspeller-raden"]=1,
 	["chinaski-nazgrim"]=6,
 	["chingadera-pagle"]=3,
@@ -6832,7 +6832,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["gudnite-nazgrim"]=2,
 	["guesswho-pagle"]=8,
 	["guhnup-pagle"]=7,
-	["gümballs-pagle"]=5,
+	["gümballs-pagle"]=17,
 	["gumboshrimp-pagle"]=17,
 	["gumption-pagle"]=7,
 	["gunbird-grobbulus"]=18,
@@ -6865,7 +6865,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["hairyarms-raden"]=5,
 	["hakarn-galakras"]=23,
 	["hallowground-immerseus"]=21,
-	["häm-nazgrim"]=34,
+	["häm-nazgrim"]=29,
 	["hammerman-lei-shen"]=16,
 	["hamsito-nazgrim"]=23,
 	["hansal-raden"]=7,
@@ -9245,7 +9245,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["speedfiree-pagle"]=3,
 	["speedymon-raden"]=4,
 	["speedypee-pagle"]=14,
-	["spéllcaster-raden"]=6,
+	["spéllcaster-raden"]=25,
 	["spellz-nazgrim"]=1,
 	["spentskill-pagle"]=12,
 	["spicyaffairs-galakras"]=0,
