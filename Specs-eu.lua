@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5308 characters, read 2026-09-17 12:00 AM.
+-- Region eu, 5308 characters, read 2026-09-17 01:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5201,7 +5201,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["afrai-norushen"]=34,
 	["afrodiñ-shekzeer"]=5,
 	["afterchi-shekzeer"]=7,
-	["afûkûshîmâ-ook-ook"]=8,
+	["afûkûshîmâ-ook-ook"]=33,
 	["afzurnikov-mirage-raceway"]=6,
 	["agamemnon-garalon"]=1,
 	["aggaa-shekzeer"]=21,
@@ -6560,7 +6560,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["galadrial-ook-ook"]=22,
 	["galaxyrise-shekzeer"]=0,
 	["galazme-mirage-raceway"]=29,
-	["galthrom-norushen"]=8,
+	["galthrom-norushen"]=33,
 	["gameisgamex-norushen"]=2,
 	["gamingchair-shekzeer"]=10,
 	["gàndàlf-auberdine"]=22,
@@ -7485,7 +7485,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["liplinerxoxo-garalon"]=23,
 	["lipmode-norushen"]=14,
 	["lippy-norushen"]=2,
-	["liquidity-shekzeer"]=8,
+	["liquidity-shekzeer"]=33,
 	["liriel-shekzeer"]=6,
 	["lisariasa-everlook"]=26,
 	["listerine-shekzeer"]=4,
@@ -8321,7 +8321,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["pktuchattes-shekzeer"]=11,
 	["pktuhoj-shekzeer"]=15,
 	["pktutrap-shekzeer"]=20,
-	["plaguespread-shekzeer"]=8,
+	["plaguespread-shekzeer"]=33,
 	["plåýbót-shekzeer"]=7,
 	["plåýböt-shekzeer"]=2,
 	["plåýbøt-shekzeer"]=7,
@@ -8333,7 +8333,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["plushy-shekzeer"]=2,
 	["pm-shekzeer"]=8,
 	["poalala-shekzeer"]=16,
-	["pocketheaing-shekzeer"]=5,
+	["pocketheaing-shekzeer"]=15,
 	["pococo-gehennas"]=0,
 	["pohmaw-shekzeer"]=1,
 	["poisonqiti-mirage-raceway"]=26,
@@ -8551,7 +8551,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["retxgodx-shekzeer"]=5,
 	["rével-garalon"]=5,
 	["rëven-shekzeer"]=21,
-	["revenânt-shekzeer"]=8,
+	["revenânt-shekzeer"]=33,
 	["revenwtf-auberdine"]=34,
 	["rexhex-garalon"]=16,
 	["rexynn-mirage-raceway"]=1,
@@ -9972,7 +9972,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["zugastrozug-mirage-raceway"]=18,
 	["zugborn-shekzeer"]=1,
 	["zugfu-garalon"]=7,
-	["zugokiji-garalon"]=8,
+	["zugokiji-garalon"]=33,
 	["zuju-mirage-raceway"]=7,
 	["zuldrok-garalon"]=6,
 	["zullf-shekzeer"]=5,
@@ -10037,7 +10037,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Бигал-flamegor"]=13,
 	["Биггдэди-flamegor"]=8,
 	["Бигл-flamegor"]=19,
-	["Биткантригем-flamegor"]=8,
+	["Биткантригем-flamegor"]=31,
 	["Бладых-flamegor"]=22,
 	["Близзняшка-flamegor"]=32,
 	["Близнец-flamegor"]=24,
