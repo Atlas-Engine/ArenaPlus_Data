@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5308 characters, read 2026-09-17 07:00 AM.
+-- Region eu, 5308 characters, read 2026-09-17 08:01 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6581,7 +6581,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["genetixz-shekzeer"]=2,
 	["genó-hoptallus"]=15,
 	["gepster-mirage-raceway"]=15,
-	["getbajs-shekzeer"]=16,
+	["getbajs-shekzeer"]=19,
 	["gethorned-garalon"]=3,
 	["gétòst-shekzeer"]=2,
 	["ggtopnotch-shekzeer"]=1,
@@ -8780,7 +8780,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["shadoff-shekzeer"]=12,
 	["shadotix-everlook"]=23,
 	["shaðøw-auberdine"]=12,
-	["shadowbøømzt-auberdine"]=12,
+	["shadowbøømzt-auberdine"]=9,
 	["shadowdeath-shekzeer"]=12,
 	["shadoweed-shekzeer"]=12,
 	["shadowgap-shekzeer"]=24,
@@ -10077,7 +10077,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Варсонгерск-flamegor"]=19,
 	["Варсонгерх-flamegor"]=4,
 	["Варсонгуч-flamegor"]=32,
-	["Веедмен-flamegor"]=31,
+	["Веедмен-flamegor"]=33,
 	["Венсвей-flamegor"]=5,
 	["Вервульфа-flamegor"]=4,
 	["Вермишелька-flamegor"]=2,
