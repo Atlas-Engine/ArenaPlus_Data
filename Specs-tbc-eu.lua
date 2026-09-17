@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 10537 characters, read 2026-09-16 10:59 PM.
+-- Region tbc-eu, 10537 characters, read 2026-09-16 11:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -13487,7 +13487,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["flakéz-spineshatter"]=9,
 	["flameothers-spineshatter"]=11,
 	["flameya-thunderstrike"]=2,
-	["flaplips-spineshatter"]=9,
+	["flaplips-spineshatter"]=4,
 	["flarin-spineshatter"]=2,
 	["flashblast-spineshatter"]=9,
 	["flashbot-spineshatter"]=10,
@@ -13747,11 +13747,11 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["gentlewar-spineshatter"]=15,
 	["georgeclony-spineshatter"]=1,
 	["gepardi-spineshatter"]=1,
-	["gepezet-spineshatter"]=9,
+	["gepezet-spineshatter"]=4,
 	["geps-spineshatter"]=5,
 	["gepsun-spineshatter"]=2,
 	["geraltdériv-spineshatter"]=3,
-	["geso-spineshatter"]=1,
+	["geso-spineshatter"]=6,
 	["getcloned-spineshatter"]=1,
 	["getgladplx-thunderstrike"]=3,
 	["gewürzmichl-spineshatter"]=19,
@@ -18963,7 +18963,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["solerk-spineshatter"]=2,
 	["solithey-thunderstrike"]=9,
 	["sollingw-spineshatter"]=13,
-	["solofans-thunderstrike"]=5,
+	["solofans-thunderstrike"]=15,
 	["solomoonz-spineshatter"]=9,
 	["soloq-spineshatter"]=5,
 	["solveq-spineshatter"]=13,
@@ -19190,7 +19190,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["steviex-spineshatter"]=9,
 	["stezo-thunderstrike"]=4,
 	["stgr-spineshatter"]=3,
-	["stickán-spineshatter"]=5,
+	["stickán-spineshatter"]=15,
 	["stickumz-thunderstrike"]=5,
 	["stickydotdk-thunderstrike"]=18,
 	["stickynova-spineshatter"]=4,
@@ -19839,7 +19839,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["trikortreat-thunderstrike"]=5,
 	["trillou-thunderstrike"]=3,
 	["trippytwinaz-spineshatter"]=3,
-	["triskilelion-spineshatter"]=20,
+	["triskilelion-spineshatter"]=1,
 	["trïx-spineshatter"]=3,
 	["trixbunneh-spineshatter"]=4,
 	["trixera-spineshatter"]=2,
