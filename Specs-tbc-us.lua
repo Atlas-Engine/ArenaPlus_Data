@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9833 characters, read 2026-09-17 02:58 AM.
+-- Region tbc-us, 9833 characters, read 2026-09-17 03:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12392,7 +12392,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["evilkin-nightslayer"]=5,
 	["evilmagicman-nightslayer"]=13,
 	["evilpinkzz-nightslayer"]=23,
-	["evilthap-dreamscythe"]=1,
+	["evilthap-dreamscythe"]=12,
 	["evilxhabibi-nightslayer"]=1,
 	["evirs-dreamscythe"]=19,
 	["evod-nightslayer"]=5,
@@ -13757,7 +13757,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["iøørð-nightslayer"]=1,
 	["iordfred-nightslayer"]=2,
 	["iosa-nightslayer"]=5,
-	["iovedruid-dreamscythe"]=3,
+	["iovedruid-dreamscythe"]=7,
 	["ioveletter-dreamscythe"]=24,
 	["ipf-nightslayer"]=10,
 	["iplayforfood-nightslayer"]=7,
@@ -13770,7 +13770,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ironbloom-nightslayer"]=7,
 	["ironfox-nightslayer"]=7,
 	["ironsîde-nightslayer"]=18,
-	["ironthornx-nightslayer"]=22,
+	["ironthornx-nightslayer"]=7,
 	["irsauditor-nightslayer"]=17,
 	["irscollector-nightslayer"]=0,
 	["irvinstone-nightslayer"]=18,
@@ -17737,7 +17737,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["spankntank-nightslayer"]=2,
 	["spankydaship-nightslayer"]=2,
 	["sparklystars-nightslayer"]=12,
-	["sparrow-nightslayer"]=5,
+	["sparrow-nightslayer"]=8,
 	["spawncamp-nightslayer"]=5,
 	["specca-dreamscythe"]=14,
 	["speechs-nightslayer"]=4,
@@ -19246,7 +19246,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["xingyunhu-nightslayer"]=1,
 	["xinok-nightslayer"]=2,
 	["xitraxo-nightslayer"]=4,
-	["xixor-nightslayer"]=20,
+	["xixor-nightslayer"]=2,
 	["xkowan-nightslayer"]=10,
 	["xlader-nightslayer"]=4,
 	["xladerz-nightslayer"]=4,
@@ -19592,7 +19592,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["zynacino-dreamscythe"]=22,
 	["zynandcoffee-nightslayer"]=10,
 	["zynkle-nightslayer"]=15,
-	["zynrelapse-nightslayer"]=16,
+	["zynrelapse-nightslayer"]=13,
 	["zynwithin-nightslayer"]=13,
 	["zynxx-nightslayer"]=14,
 	["zyzzbruhx-nightslayer"]=7,
