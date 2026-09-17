@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5309 characters, read 2026-09-17 04:00 PM.
+-- Region eu, 5309 characters, read 2026-09-17 05:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3417,7 +3417,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["rydotheret-everlook"]=11,
 	["rydotheroq-everlook"]=11,
 	["rydothetrap-everlook"]=11,
-	["rydothetwink-everlook"]=41,
+	["rydothetwink-everlook"]=40,
 	["rydothewar-everlook"]=11,
 	["rydothewl-everlook"]=10,
 	["ryhhnn-everlook"]=101,
@@ -5780,7 +5780,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["caporejime-shekzeer"]=1,
 	["capz-shekzeer"]=19,
 	["carbonara-garalon"]=16,
-	["caricm-ook-ook"]=6,
+	["caricm-ook-ook"]=29,
 	["cârîpha-ook-ook"]=8,
 	["carlcox-shekzeer"]=0,
 	["cârnagë-shekzeer"]=1,
@@ -7286,7 +7286,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["kmymonk-shekzeer"]=6,
 	["knaifulady-shekzeer"]=9,
 	["kneezus-shekzeer"]=15,
-	["knifemare-shekzeer"]=26,
+	["knifemare-shekzeer"]=24,
 	["knouckouds-auberdine"]=8,
 	["knxwn-shekzeer"]=0,
 	["kobieciarz-shekzeer"]=5,
@@ -7516,7 +7516,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["lorry-shekzeer"]=1,
 	["loseandicba-ook-ook"]=20,
 	["lostpinky-shekzeer"]=0,
-	["lotengoio-shekzeer"]=29,
+	["lotengoio-shekzeer"]=7,
 	["lotvein-hoptallus"]=26,
 	["loty-shekzeer"]=1,
 	["louikrypton-shekzeer"]=1,
@@ -8041,7 +8041,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["nixtreffich-everlook"]=3,
 	["nizze-shekzeer"]=0,
 	["nktz-garalon"]=2,
-	["nme-hoptallus"]=2,
+	["nme-hoptallus"]=10,
 	["nnpriest-shekzeer"]=12,
 	["nobrazil-mirage-raceway"]=8,
 	["nocislife-everlook"]=11,
@@ -9246,7 +9246,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["thatmathguy-norushen"]=2,
 	["thaumi-auberdine"]=3,
 	["theånswer-shekzeer"]=0,
-	["thedoctorftw-shekzeer"]=5,
+	["thedoctorftw-shekzeer"]=15,
 	["thedrot-garalon"]=26,
 	["thehrc-auberdine"]=9,
 	["theicer-garalon"]=2,
