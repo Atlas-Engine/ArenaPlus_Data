@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 10537 characters, read 2026-09-16 09:59 PM.
+-- Region tbc-eu, 10537 characters, read 2026-09-16 10:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12939,7 +12939,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["dwarfu-spineshatter"]=3,
 	["dwärv-spineshatter"]=25,
 	["dwerf-spineshatter"]=25,
-	["dwerfina-spineshatter"]=2,
+	["dwerfina-spineshatter"]=17,
 	["dwidj-thunderstrike"]=19,
 	["dwt-spineshatter"]=5,
 	["dwyanewade-spineshatter"]=11,
@@ -17953,7 +17953,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["repple-spineshatter"]=25,
 	["reprîeve-spineshatter"]=2,
 	["requièm-spineshatter"]=3,
-	["requiemit-spineshatter"]=19,
+	["requiemit-spineshatter"]=3,
 	["requinze-thunderstrike"]=18,
 	["rerunn-thunderstrike"]=24,
 	["resisthis-spineshatter"]=9,
@@ -18976,7 +18976,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["sonnyxx-spineshatter"]=1,
 	["sonofagun-spineshatter"]=3,
 	["sonofkatik-spineshatter"]=9,
-	["sonsam-spineshatter"]=1,
+	["sonsam-spineshatter"]=20,
 	["sonyblue-spineshatter"]=8,
 	["sonyra-spineshatter"]=23,
 	["soollyy-spineshatter"]=1,
@@ -19784,7 +19784,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["touchmyaxe-spineshatter"]=15,
 	["toughness-spineshatter"]=23,
 	["toumiin-spineshatter"]=9,
-	["tounylol-spineshatter"]=2,
+	["tounylol-spineshatter"]=17,
 	["touta-spineshatter"]=4,
 	["tower-spineshatter"]=15,
 	["towhead-spineshatter"]=24,
@@ -19918,7 +19918,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["tuufwl-spineshatter"]=13,
 	["tuupsham-spineshatter"]=12,
 	["tuupsie-spineshatter"]=5,
-	["tuupson-spineshatter"]=15,
+	["tuupson-spineshatter"]=5,
 	["tuupsy-spineshatter"]=7,
 	["tuupz-spineshatter"]=5,
 	["tuutje-thunderstrike"]=3,
