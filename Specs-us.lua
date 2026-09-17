@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5163 characters, read 2026-09-16 07:57 PM.
+-- Region us, 5163 characters, read 2026-09-16 08:57 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5439,7 +5439,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["bigstikzz-pagle"]=7,
 	["bigzap-raden"]=15,
 	["biigwhaammy-raden"]=27,
-	["bilbobagginz-raden"]=22,
+	["bilbobagginz-raden"]=15,
 	["bilbonsaquet-raden"]=2,
 	["billbash-pagle"]=17,
 	["billcolector-pagle"]=5,
@@ -5804,7 +5804,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["clayia-raden"]=17,
 	["clayre-raden"]=13,
 	["cleantoilet-benediction"]=17,
-	["clefero-nazgrim"]=21,
+	["clefero-nazgrim"]=13,
 	["cleismar-nazgrim"]=2,
 	["clergyorgy-galakras"]=16,
 	["clïanse-pagle"]=29,
@@ -8548,7 +8548,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["promiseland-immerseus"]=16,
 	["prosecutorfn-raden"]=7,
 	["protektive-pagle"]=7,
-	["protmain-raden"]=16,
+	["protmain-raden"]=32,
 	["protomech-lei-shen"]=6,
 	["prototypeceo-pagle"]=14,
 	["prowlr-pagle"]=0,
@@ -9764,7 +9764,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["vaanka-pagle"]=21,
 	["vacalola-galakras"]=19,
 	["vaity-pagle"]=21,
-	["vajra-raden"]=29,
+	["vajra-raden"]=14,
 	["valagarth-raden"]=9,
 	["valdo-raden"]=7,
 	["valereon-raden"]=25,

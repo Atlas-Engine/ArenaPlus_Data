@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5304 characters, read 2026-09-16 08:00 PM.
+-- Region eu, 5304 characters, read 2026-09-16 09:01 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1199,7 +1199,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["elemanth-shekzeer"]=110,
 	["elendîl-shekzeer"]=10,
 	["Êlestê-shekzeer"]=11,
-	["elf-shekzeer"]=41,
+	["elf-shekzeer"]=40,
 	["elfie-shekzeer"]=11,
 	["elfiee-shekzeer"]=11,
 	["elgh-shekzeer"]=11,
@@ -6317,7 +6317,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["elemanth-shekzeer"]=13,
 	["elendîl-shekzeer"]=15,
 	["Êlestê-shekzeer"]=15,
-	["elf-shekzeer"]=3,
+	["elf-shekzeer"]=21,
 	["elfie-shekzeer"]=12,
 	["elfiee-shekzeer"]=24,
 	["elgh-shekzeer"]=20,
@@ -7813,7 +7813,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["monduk-auberdine"]=7,
 	["moneylong-shekzeer"]=17,
 	["mongoliamonk-hoptallus"]=13,
-	["mongue-garalon"]=12,
+	["mongue-garalon"]=9,
 	["monkasxd-everlook"]=6,
 	["monkasxd-ook-ook"]=6,
 	["monkatoz-shekzeer"]=7,
@@ -9042,7 +9042,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["stïpix-auberdine"]=24,
 	["stitchvnr-auberdine"]=33,
 	["stivkuling-shekzeer"]=2,
-	["stjärto-shekzeer"]=24,
+	["stjärto-shekzeer"]=26,
 	["stokssprime-shekzeer"]=20,
 	["stopfear-shekzeer"]=17,
 	["stopsheep-shekzeer"]=2,
