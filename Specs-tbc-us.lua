@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9819 characters, read 2026-09-17 05:58 AM.
+-- Region tbc-us, 9819 characters, read 2026-09-17 06:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10865,7 +10865,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bucketthead-nightslayer"]=5,
 	["buckme-dreamscythe"]=1,
 	["bucksnot-nightslayer"]=2,
-	["budamedame-nightslayer"]=23,
+	["budamedame-nightslayer"]=13,
 	["budamedameyo-nightslayer"]=1,
 	["budamk-nightslayer"]=2,
 	["buddydin-nightslayer"]=11,
@@ -11920,7 +11920,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["doobae-nightslayer"]=7,
 	["doobai-nightslayer"]=7,
 	["doobmaxtwo-nightslayer"]=8,
-	["doodiez-nightslayer"]=1,
+	["doodiez-nightslayer"]=14,
 	["doodlec-nightslayer"]=15,
 	["doodlle-nightslayer"]=15,
 	["doodwar-dreamscythe"]=20,
@@ -12195,7 +12195,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["edwalker-nightslayer"]=14,
 	["edym-dreamscythe"]=7,
 	["edymqt-dreamscythe"]=10,
-	["edzug-nightslayer"]=7,
+	["edzug-nightslayer"]=3,
 	["eepykitten-nightslayer"]=0,
 	["effxctive-nightslayer"]=5,
 	["egibidof-nightslayer"]=19,
@@ -12516,9 +12516,9 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["fcksolenya-nightslayer"]=1,
 	["fdps-nightslayer"]=3,
 	["feardumægua-nightslayer"]=13,
-	["fearhand-nightslayer"]=1,
-	["fearkíll-nightslayer"]=14,
-	["fearpugs-dreamscythe"]=13,
+	["fearhand-nightslayer"]=12,
+	["fearkíll-nightslayer"]=1,
+	["fearpugs-dreamscythe"]=23,
 	["feartoall-nightslayer"]=1,
 	["fearwardgg-nightslayer"]=14,
 	["feathel-nightslayer"]=7,
@@ -14374,7 +14374,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["kungal-dreamscythe"]=15,
 	["kungol-dreamscythe"]=11,
 	["kungyl-dreamscythe"]=1,
-	["kurbstompah-nightslayer"]=6,
+	["kurbstompah-nightslayer"]=4,
 	["kurbstompin-nightslayer"]=5,
 	["kurbstomprar-nightslayer"]=1,
 	["kurbstompsha-nightslayer"]=10,
@@ -16055,7 +16055,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["pépsicola-nightslayer"]=18,
 	["pepsimaxxer-nightslayer"]=2,
 	["percachet-nightslayer"]=16,
-	["perceptioned-nightslayer"]=8,
+	["perceptioned-nightslayer"]=5,
 	["percprot-nightslayer"]=11,
 	["peremi-nightslayer"]=1,
 	["perfecttion-nightslayer"]=1,
@@ -18127,7 +18127,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["tazërface-nightslayer"]=18,
 	["tbalc-nightslayer"]=1,
 	["tbcisawful-nightslayer"]=17,
-	["tbcisdeadcya-nightslayer"]=15,
+	["tbcisdeadcya-nightslayer"]=17,
 	["tbcpremium-dreamscythe"]=14,
 	["tbcrival-nightslayer"]=13,
 	["tbcsimp-nightslayer"]=7,
