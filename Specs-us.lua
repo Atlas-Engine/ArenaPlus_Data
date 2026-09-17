@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5161 characters, read 2026-09-17 01:57 AM.
+-- Region us, 5161 characters, read 2026-09-17 02:57 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5113,7 +5113,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["alkaloide-pagle"]=16,
 	["allakk-lei-shen"]=16,
 	["allarrek-pagle"]=1,
-	["allecinder-galakras"]=16,
+	["allecinder-galakras"]=2,
 	["alliâ-lei-shen"]=13,
 	["alliancehatr-pagle"]=16,
 	["alligater-raden"]=4,
@@ -7853,7 +7853,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["mcpm-raden"]=1,
 	["mcstabbiee-pagle"]=29,
 	["meastt-pagle"]=7,
-	["meatballgun-lei-shen"]=22,
+	["meatballgun-lei-shen"]=15,
 	["meätbol-lei-shen"]=17,
 	["meatbolt-raden"]=15,
 	["mecharogue-raden"]=29,
@@ -7907,7 +7907,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["migeneral-nazgrim"]=5,
 	["mightymagus-raden"]=1,
 	["migué-pagle"]=16,
-	["mihal-nazgrim"]=1,
+	["mihal-nazgrim"]=11,
 	["miichael-pagle"]=2,
 	["miintpwnagex-nazgrim"]=18,
 	["mikejan-raden"]=2,
@@ -9805,7 +9805,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["veryuska-pagle"]=13,
 	["vespehr-pagle"]=21,
 	["vetafenix-nazgrim"]=18,
-	["vettaex-arugal-au"]=13,
+	["vettaex-arugal-au"]=9,
 	["vexe-pagle"]=2,
 	["veygâ-pagle"]=20,
 	["vibexz-raden"]=1,

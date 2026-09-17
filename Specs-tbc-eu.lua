@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 10541 characters, read 2026-09-17 01:59 AM.
+-- Region tbc-eu, 10541 characters, read 2026-09-17 02:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12911,7 +12911,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["dukf-thunderstrike"]=5,
 	["dulex-thunderstrike"]=1,
 	["dullbabe-spineshatter"]=3,
-	["dumbarse-spineshatter"]=18,
+	["dumbarse-spineshatter"]=13,
 	["dumbasfx-spineshatter"]=2,
 	["dumbom-spineshatter"]=7,
 	["dumira-spineshatter"]=2,
@@ -13477,7 +13477,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["fivé-spineshatter"]=2,
 	["fiveonit-spineshatter"]=1,
 	["fixeh-spineshatter"]=3,
-	["fixyhartman-spineshatter"]=5,
+	["fixyhartman-spineshatter"]=15,
 	["fizkie-spineshatter"]=18,
 	["fizzlestorm-spineshatter"]=12,
 	["fjångpala-spineshatter"]=10,
@@ -16865,7 +16865,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["noenglish-spineshatter"]=15,
 	["nograta-spineshatter"]=5,
 	["nøgz-spineshatter"]=9,
-	["nohandstand-spineshatter"]=24,
+	["nohandstand-spineshatter"]=16,
 	["noidea-spineshatter"]=8,
 	["noiße-spineshatter"]=1,
 	["noitsbecky-spineshatter"]=9,
@@ -18926,7 +18926,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["sneakytwo-thunderstrike"]=3,
 	["sneils-spineshatter"]=7,
 	["snekkdog-spineshatter"]=2,
-	["snerpedoris-spineshatter"]=2,
+	["snerpedoris-spineshatter"]=8,
 	["snewjh-spineshatter"]=25,
 	["snewjz-spineshatter"]=13,
 	["sneyroots-spineshatter"]=1,
