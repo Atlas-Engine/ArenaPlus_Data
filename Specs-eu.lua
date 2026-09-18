@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5311 characters, read 2026-09-18 08:00 AM.
+-- Region eu, 5311 characters, read 2026-09-18 09:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7215,7 +7215,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["kenarai-shekzeer"]=7,
 	["kenblöck-mirage-raceway"]=15,
 	["kenhavefun-shekzeer"]=6,
-	["kenkofot-garalon"]=2,
+	["kenkofot-garalon"]=10,
 	["kennyk-garalon"]=18,
 	["kennyk-shekzeer"]=1,
 	["kennykk-garalon"]=1,
@@ -7251,7 +7251,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["kigamí-shekzeer"]=0,
 	["killarrow-shekzeer"]=4,
 	["killedbybyby-shekzeer"]=7,
-	["killedbycops-shekzeer"]=29,
+	["killedbycops-shekzeer"]=7,
 	["killedbypet-shekzeer"]=14,
 	["killershots-shekzeer"]=4,
 	["killnixx-everlook"]=1,
@@ -9532,7 +9532,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["vazbek-shekzeer"]=10,
 	["vazir-shekzeer"]=11,
 	["vazyx-shekzeer"]=13,
-	["vazyxsdad-shekzeer"]=7,
+	["vazyxsdad-shekzeer"]=6,
 	["vealis-shekzeer"]=13,
 	["veera-shekzeer"]=26,
 	["vegz-garalon"]=5,

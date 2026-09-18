@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9775 characters, read 2026-09-18 07:58 AM.
+-- Region tbc-us, 9775 characters, read 2026-09-18 08:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11940,7 +11940,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["dragonik-nightslayer"]=4,
 	["dragonlord-dreamscythe"]=1,
 	["dragoon-nightslayer"]=17,
-	["dragoonair-nightslayer"]=6,
+	["dragoonair-nightslayer"]=4,
 	["dragoonii-nightslayer"]=0,
 	["drainmepapi-nightslayer"]=19,
 	["drakedark-nightslayer"]=16,
@@ -12091,7 +12091,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["dustbanned-nightslayer"]=13,
 	["dustedx-nightslayer"]=5,
 	["dustfriggenw-nightslayer"]=13,
-	["dusti-nightslayer"]=11,
+	["dusti-nightslayer"]=25,
 	["dutonga-nightslayer"]=2,
 	["duukez-nightslayer"]=2,
 	["duxlol-nightslayer"]=13,
@@ -15356,7 +15356,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["narcanxd-nightslayer"]=1,
 	["narcotixs-nightslayer"]=1,
 	["nareshlol-dreamscythe"]=7,
-	["narimé-dreamscythe"]=3,
+	["narimé-dreamscythe"]=7,
 	["narkaius-nightslayer"]=5,
 	["narkosis-nightslayer"]=5,
 	["nashnah-nightslayer"]=1,
@@ -17282,13 +17282,13 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["shrimmpin-nightslayer"]=24,
 	["shrimpanzee-dreamscythe"]=1,
 	["shrinkers-nightslayer"]=4,
-	["shrook-nightslayer"]=10,
+	["shrook-nightslayer"]=19,
 	["shtewy-nightslayer"]=17,
 	["shugge-nightslayer"]=11,
 	["shujanko-nightslayer"]=5,
 	["shukmakok-nightslayer"]=2,
 	["shungy-dreamscythe"]=19,
-	["shunning-nightslayer"]=5,
+	["shunning-nightslayer"]=8,
 	["shunsui-nightslayer"]=18,
 	["shuolezaijia-nightslayer"]=13,
 	["shutrmcgnome-nightslayer"]=2,
@@ -17822,9 +17822,9 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["striks-dreamscythe"]=2,
 	["strokës-nightslayer"]=2,
 	["strong-nightslayer"]=2,
-	["strongclaws-nightslayer"]=7,
+	["strongclaws-nightslayer"]=3,
 	["stronglight-nightslayer"]=9,
-	["strongpost-nightslayer"]=2,
+	["strongpost-nightslayer"]=18,
 	["strongshield-nightslayer"]=2,
 	["strydelol-nightslayer"]=2,
 	["strykër-nightslayer"]=17,

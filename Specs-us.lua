@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5162 characters, read 2026-09-18 07:59 AM.
+-- Region us, 5162 characters, read 2026-09-18 08:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7062,7 +7062,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ibituã-nazgrim"]=17,
 	["iboptanks-nazgrim"]=2,
 	["ibuildwalls-pagle"]=24,
-	["icarryhim-galakras"]=20,
+	["icarryhim-galakras"]=3,
 	["icarú-raden"]=10,
 	["iceblight-nazgrim"]=0,
 	["icebluee-pagle"]=1,
@@ -8585,7 +8585,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["quartêrmain-pagle"]=3,
 	["quelss-pagle"]=2,
 	["quesø-pagle"]=29,
-	["questopresto-nazgrim"]=10,
+	["questopresto-nazgrim"]=4,
 	["quickscopex-pagle"]=3,
 	["quickvanish-pagle"]=34,
 	["qwanya-raden"]=1,
