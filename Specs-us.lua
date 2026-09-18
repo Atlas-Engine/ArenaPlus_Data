@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5161 characters, read 2026-09-18 03:59 PM.
+-- Region us, 5162 characters, read 2026-09-18 04:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4673,6 +4673,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["vivabo-galakras"]=80,
 	["vlaxx-nazgrim"]=20,
 	["vmsav-pagle"]=10,
+	["vøcality-raden"]=11,
 	["vodinstrike-immerseus"]=10,
 	["voeldemort-raden"]=50,
 	["vóîd-pagle"]=50,
@@ -5689,7 +5690,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["cannabimorph-pagle"]=5,
 	["cannibirilla-pagle"]=7,
 	["canogapark-pagle"]=28,
-	["cantgetmeoff-pagle"]=7,
+	["cantgetmeoff-pagle"]=30,
 	["cäpriëstsun-pagle"]=9,
 	["carbontaxes-pagle"]=1,
 	["cardpally-galakras"]=16,
@@ -5805,7 +5806,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["cleismar-nazgrim"]=2,
 	["clergyorgy-galakras"]=16,
 	["clïanse-pagle"]=29,
-	["clips-pagle"]=3,
+	["clips-pagle"]=18,
 	["Çlix-pagle"]=14,
 	["cloe-raden"]=14,
 	["cloninglab-pagle"]=5,
@@ -9825,6 +9826,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["vivabo-galakras"]=5,
 	["vlaxx-nazgrim"]=22,
 	["vmsav-pagle"]=14,
+	["vøcality-raden"]=10,
 	["vodinstrike-immerseus"]=7,
 	["voeldemort-raden"]=1,
 	["vóîd-pagle"]=21,

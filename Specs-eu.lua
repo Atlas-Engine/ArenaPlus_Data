@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5311 characters, read 2026-09-18 04:00 PM.
+-- Region eu, 5311 characters, read 2026-09-18 05:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1450,7 +1450,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["ghrip-shekzeer"]=10,
 	["ghst-shekzeer"]=11,
 	["giantzemi-shekzeer"]=10,
-	["giantzlion-shekzeer"]=70,
+	["giantzlion-shekzeer"]=71,
 	["ginftw-shekzeer"]=11,
 	["ginkin-ook-ook"]=41,
 	["ginkushen-shekzeer"]=10,
@@ -5835,7 +5835,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["chakrasan-shekzeer"]=9,
 	["chakwao-shekzeer"]=30,
 	["chalecos-shekzeer"]=3,
-	["chamonix-norushen"]=12,
+	["chamonix-norushen"]=9,
 	["champiion-mirage-raceway"]=1,
 	["chaosfaktor-everlook"]=18,
 	["chaoslol-everlook"]=9,
@@ -7900,7 +7900,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["mythix-garalon"]=26,
 	["mythrugu-shekzeer"]=14,
 	["mythrugun-garalon"]=14,
-	["mythrugun-shekzeer"]=14,
+	["mythrugun-shekzeer"]=4,
 	["mywayz-mirage-raceway"]=2,
 	["mztx-shekzeer"]=20,
 	["nabek-shekzeer"]=13,
