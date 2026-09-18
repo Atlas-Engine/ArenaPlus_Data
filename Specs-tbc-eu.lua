@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 10505 characters, read 2026-09-18 02:59 AM.
+-- Region tbc-eu, 10505 characters, read 2026-09-18 03:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12769,7 +12769,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["drcni-spineshatter"]=1,
 	["drcoah-spineshatter"]=3,
 	["drdrey-spineshatter"]=2,
-	["dreadpirate-spineshatter"]=19,
+	["dreadpirate-spineshatter"]=3,
 	["dreamstáte-spineshatter"]=1,
 	["dreamvendor-spineshatter"]=1,
 	["dreaz-thunderstrike"]=5,
@@ -18386,7 +18386,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["séphiz-spineshatter"]=13,
 	["sepju-spineshatter"]=3,
 	["septicfleesh-spineshatter"]=3,
-	["sepulchral-spineshatter"]=13,
+	["sepulchral-spineshatter"]=14,
 	["sepzis-spineshatter"]=3,
 	["seras-spineshatter"]=5,
 	["serathir-thunderstrike"]=11,
@@ -18401,7 +18401,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["sesop-spineshatter"]=26,
 	["sesorip-spineshatter"]=26,
 	["seteslusk-spineshatter"]=1,
-	["sethizz-spineshatter"]=3,
+	["sethizz-spineshatter"]=19,
 	["setoo-spineshatter"]=11,
 	["settea-thunderstrike"]=10,
 	["setupxd-spineshatter"]=2,
@@ -18885,7 +18885,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["softstylew-spineshatter"]=15,
 	["softstylex-spineshatter"]=24,
 	["sôg-spineshatter"]=8,
-	["sohmon-spineshatter"]=5,
+	["sohmon-spineshatter"]=15,
 	["sojapaw-spineshatter"]=1,
 	["sokr-spineshatter"]=13,
 	["sokrdruid-spineshatter"]=1,

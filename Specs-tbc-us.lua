@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9801 characters, read 2026-09-18 02:58 AM.
+-- Region tbc-us, 9801 characters, read 2026-09-18 03:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11091,7 +11091,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["cheekystuns-nightslayer"]=8,
 	["cheekyx-nightslayer"]=2,
 	["cheenn-nightslayer"]=16,
-	["cheerss-nightslayer"]=8,
+	["cheerss-nightslayer"]=5,
 	["cheerstro-nightslayer"]=16,
 	["cheertbc-nightslayer"]=16,
 	["cheesé-nightslayer"]=5,
@@ -12109,7 +12109,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["dunnersh-nightslayer"]=15,
 	["dunstanttv-nightslayer"]=4,
 	["dunstantv-nightslayer"]=4,
-	["dunyain-nightslayer"]=14,
+	["dunyain-nightslayer"]=1,
 	["dunyainpal-nightslayer"]=11,
 	["duperw-nightslayer"]=18,
 	["duranabolol-nightslayer"]=4,
@@ -14957,7 +14957,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["mdpt-nightslayer"]=23,
 	["mdromglolptr-nightslayer"]=7,
 	["mdrptdomglol-nightslayer"]=2,
-	["mdwe-nightslayer"]=7,
+	["mdwe-nightslayer"]=22,
 	["mea-nightslayer"]=2,
 	["meantom-nightslayer"]=2,
 	["meatcomputr-nightslayer"]=24,
@@ -17077,7 +17077,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["serendr-dreamscythe"]=7,
 	["sergioshaman-nightslayer"]=24,
 	["sérgo-nightslayer"]=12,
-	["sergolock-nightslayer"]=23,
+	["sergolock-nightslayer"]=13,
 	["seriala-nightslayer"]=5,
 	["serinas-nightslayer"]=2,
 	["serinaz-nightslayer"]=7,
@@ -17830,7 +17830,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["stokes-nightslayer"]=18,
 	["stokespp-nightslayer"]=9,
 	["stokeswf-nightslayer"]=10,
-	["stokeszerk-nightslayer"]=2,
+	["stokeszerk-nightslayer"]=20,
 	["stokex-nightslayer"]=3,
 	["stokez-nightslayer"]=2,
 	["stompzz-nightslayer"]=2,
@@ -18881,7 +18881,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["wakesx-dreamscythe"]=5,
 	["wakom-nightslayer"]=2,
 	["walalace-dreamscythe"]=7,
-	["walf-nightslayer"]=8,
+	["walf-nightslayer"]=5,
 	["walkendead-nightslayer"]=4,
 	["walla-nightslayer"]=18,
 	["wallasmol-nightslayer"]=2,

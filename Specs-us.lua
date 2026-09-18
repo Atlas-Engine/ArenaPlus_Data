@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5166 characters, read 2026-09-18 02:59 AM.
+-- Region us, 5166 characters, read 2026-09-18 03:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2749,7 +2749,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["märcüss-pagle"]=30,
 	["märcüsz-pagle"]=10,
 	["margard-raden"]=10,
-	["marianslayer-pagle"]=50,
+	["marianslayer-pagle"]=20,
 	["mariaogkush-pagle"]=11,
 	["maríka-lei-shen"]=11,
 	["marna-pagle"]=41,
@@ -7102,7 +7102,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ifaceroll-galakras"]=7,
 	["ifearyu-pagle"]=8,
 	["ifireinside-pagle"]=1,
-	["ifireman-raden"]=11,
+	["ifireman-raden"]=1,
 	["ifistu-galakras"]=4,
 	["igather-galakras"]=17,
 	["ihatemetoo-raden"]=0,
@@ -7553,7 +7553,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["lawlurdead-raden"]=34,
 	["lawydruid-pagle"]=5,
 	["laydat-lei-shen"]=4,
-	["laydatpipe-lei-shen"]=17,
+	["laydatpipe-lei-shen"]=12,
 	["layenda-lei-shen"]=16,
 	["laynerz-raden"]=0,
 	["lbeshootin-pagle"]=3,
