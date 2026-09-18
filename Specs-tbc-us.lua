@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9778 characters, read 2026-09-18 02:58 PM.
+-- Region tbc-us, 9778 characters, read 2026-09-18 03:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11337,7 +11337,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["cousineddiy-dreamscythe"]=7,
 	["covenant-nightslayer"]=5,
 	["cowabungya-nightslayer"]=22,
-	["cowasaurus-nightslayer"]=19,
+	["cowasaurus-nightslayer"]=10,
 	["cowfurion-nightslayer"]=7,
 	["cowlbi-nightslayer"]=22,
 	["cowp-nightslayer"]=25,
@@ -13744,9 +13744,9 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["izri-dreamscythe"]=19,
 	["izrl-nightslayer"]=14,
 	["izuni-nightslayer"]=1,
-	["jabe-nightslayer"]=0,
+	["jabe-nightslayer"]=15,
 	["jabroski-nightslayer"]=4,
-	["jackaroni-dreamscythe"]=2,
+	["jackaroni-dreamscythe"]=18,
 	["jackedcat-nightslayer"]=2,
 	["jackeyloh-dreamscythe"]=25,
 	["jackkbro-nightslayer"]=19,
@@ -15238,7 +15238,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["morgiano-dreamscythe"]=24,
 	["moriz-nightslayer"]=5,
 	["mork-nightslayer"]=2,
-	["moroto-nightslayer"]=0,
+	["moroto-nightslayer"]=19,
 	["morralla-nightslayer"]=17,
 	["morrdruid-dreamscythe"]=7,
 	["morrey-nightslayer"]=6,
@@ -16402,7 +16402,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["raekorx-nightslayer"]=18,
 	["raelamuna-dreamscythe"]=8,
 	["raezin-nightslayer"]=5,
-	["rafersqt-nightslayer"]=14,
+	["rafersqt-nightslayer"]=1,
 	["rafuhio-nightslayer"]=8,
 	["ragdollme-nightslayer"]=4,
 	["ragekawk-nightslayer"]=19,
