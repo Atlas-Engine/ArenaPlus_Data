@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 10503 characters, read 2026-09-18 01:59 AM.
+-- Region tbc-eu, 10505 characters, read 2026-09-18 02:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1281,6 +1281,7 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["buttbob-spineshatter"]=60,
 	["buttonbox-spineshatter"]=50,
 	["buttonz-spineshatter"]=50,
+	["buuni-spineshatter"]=71,
 	["buzzb-spineshatter"]=11,
 	["buzzei-thunderstrike"]=20,
 	["bwrst-spineshatter"]=50,
@@ -5622,6 +5623,7 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["merciless-spineshatter"]=11,
 	["mercyq-spineshatter"]=11,
 	["mercyqt-spineshatter"]=11,
+	["merely-thunderstrike"]=31,
 	["mériáh-spineshatter"]=81,
 	["merisec-thunderstrike"]=30,
 	["meroqt-thunderstrike"]=50,
@@ -11683,6 +11685,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["buttbob-spineshatter"]=1,
 	["buttonbox-spineshatter"]=13,
 	["buttonz-spineshatter"]=2,
+	["buuni-spineshatter"]=9,
 	["buythewin-spineshatter"]=0,
 	["buzzb-spineshatter"]=3,
 	["buzzei-thunderstrike"]=5,
@@ -13037,7 +13040,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["elrekzug-spineshatter"]=25,
 	["elresistó-spineshatter"]=0,
 	["elsje-spineshatter"]=2,
-	["elskerbqrn-spineshatter"]=2,
+	["elskerbqrn-spineshatter"]=17,
 	["elstingo-spineshatter"]=25,
 	["eltupi-spineshatter"]=9,
 	["eltwistolero-spineshatter"]=7,
@@ -16070,6 +16073,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["merciless-spineshatter"]=19,
 	["mercyq-spineshatter"]=15,
 	["mercyqt-spineshatter"]=4,
+	["merely-thunderstrike"]=16,
 	["mériáh-spineshatter"]=2,
 	["merisec-thunderstrike"]=17,
 	["merizio-spineshatter"]=0,
@@ -18406,7 +18410,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["sewerperson-spineshatter"]=3,
 	["sewpee-spineshatter"]=12,
 	["seyaqt-spineshatter"]=25,
-	["seyax-spineshatter"]=25,
+	["seyax-spineshatter"]=24,
 	["sfixtokolis-spineshatter"]=9,
 	["sform-spineshatter"]=8,
 	["sfurio-spineshatter"]=12,

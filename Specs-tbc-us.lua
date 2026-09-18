@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9801 characters, read 2026-09-18 01:58 AM.
+-- Region tbc-us, 9801 characters, read 2026-09-18 02:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10181,7 +10181,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["babysoft-dreamscythe"]=19,
 	["babytickle-nightslayer"]=7,
 	["babyybillyy-nightslayer"]=1,
-	["backblowerx-nightslayer"]=16,
+	["backblowerx-nightslayer"]=13,
 	["backcrusher-nightslayer"]=5,
 	["backfliplord-nightslayer"]=10,
 	["bácon-dreamscythe"]=16,
@@ -10838,7 +10838,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bubbleebear-nightslayer"]=3,
 	["bubblewrapr-nightslayer"]=0,
 	["bubblinbenny-nightslayer"]=1,
-	["bubbrill-dreamscythe"]=14,
+	["bubbrill-dreamscythe"]=1,
 	["bubdiddly-nightslayer"]=7,
 	["bubiss-nightslayer"]=14,
 	["bubulle-nightslayer"]=9,
@@ -11426,7 +11426,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["critonmyback-nightslayer"]=2,
 	["critrip-nightslayer"]=15,
 	["crixor-dreamscythe"]=2,
-	["crlto-nightslayer"]=6,
+	["crlto-nightslayer"]=4,
 	["croink-nightslayer"]=10,
 	["crokard-nightslayer"]=10,
 	["cromes-nightslayer"]=5,
@@ -12034,7 +12034,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["dropwar-dreamscythe"]=2,
 	["dróss-dreamscythe"]=5,
 	["drossw-nightslayer"]=13,
-	["drossx-nightslayer"]=4,
+	["drossx-nightslayer"]=6,
 	["drowza-nightslayer"]=1,
 	["droxd-nightslayer"]=5,
 	["drpantz-nightslayer"]=6,
@@ -12046,7 +12046,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["drresy-nightslayer"]=19,
 	["drshades-nightslayer"]=23,
 	["drspongebob-nightslayer"]=10,
-	["drthai-dreamscythe"]=7,
+	["drthai-dreamscythe"]=3,
 	["drtimewizard-dreamscythe"]=9,
 	["drubeliever-dreamscythe"]=25,
 	["drugdealin-nightslayer"]=1,
@@ -12172,9 +12172,9 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ebtfinalboss-nightslayer"]=5,
 	["ecatrius-nightslayer"]=7,
 	["ecgcleaning-nightslayer"]=4,
-	["eclipzed-nightslayer"]=23,
+	["eclipzed-nightslayer"]=16,
 	["eclipzedd-nightslayer"]=7,
-	["ectroxo-nightslayer"]=5,
+	["ectroxo-nightslayer"]=8,
 	["eddygordo-nightslayer"]=19,
 	["edgy-nightslayer"]=11,
 	["edhris-dreamscythe"]=18,
@@ -13557,7 +13557,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["hyppoo-nightslayer"]=4,
 	["hyzerr-nightslayer"]=2,
 	["iagdog-nightslayer"]=1,
-	["iaglord-nightslayer"]=14,
+	["iaglord-nightslayer"]=1,
 	["iamcrazyy-nightslayer"]=4,
 	["iamcrazzy-nightslayer"]=5,
 	["iamdanger-nightslayer"]=5,
@@ -17417,7 +17417,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["skg-nightslayer"]=7,
 	["skibidirizzw-nightslayer"]=5,
 	["skikkles-nightslayer"]=4,
-	["skillfall-nightslayer"]=2,
+	["skillfall-nightslayer"]=18,
 	["skillherald-nightslayer"]=2,
 	["skilltercept-nightslayer"]=2,
 	["skilltrap-nightslayer"]=15,
