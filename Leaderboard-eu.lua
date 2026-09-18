@@ -18,7 +18,7 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region eu, season 14, read 2026-09-17 11:00 PM.
+-- Region eu, season 14, read 2026-09-17 11:50 PM.
 -- Realm display names, because the ladder only carries slugs and no rule
 -- turns one back into the other: raden is Ra-den, lei-shen is Lei Shen and
 -- arugal-au is Arugal (AU). Read from Blizzard's realm index; a slug with no
@@ -35,8 +35,8 @@ ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["eu"] = {
 	region  = "eu",
-	checked = "2026-09-17 11:00 PM",
-	checkedEpoch = 1789700404,
+	checked = "2026-09-17 11:50 PM",
+	checkedEpoch = 1789703430,
 	snapshot = "2026-09-18 01:13",
 
 	[1] = {  -- 2v2, 5006 places, down to rating 1044 -- the API stops here, short of the cutoff
@@ -1599,30 +1599,30 @@ ns.LEADERBOARD_BY_REGION["eu"] = {
 		{ rank=1555, name="Douya", realm="shekzeer", rating=1918, won=49, lost=38, faction="ALLIANCE", dr=0, dk=98 },
 		{ rank=1555, name="Eulalya", realm="shekzeer", rating=1918, won=59, lost=70, faction="ALLIANCE", dr=181, dk=-1013 },
 		{ rank=1555, name="Miszczak", realm="norushen", rating=1918, won=132, lost=171, faction="HORDE", mr=1936, dr=-17, dk=180 },
-		{ rank=1560, name="Neptulíon", realm="shekzeer", rating=1917, won=55, lost=55, faction="ALLIANCE", mr=1927, dr=121, dk=-630 },
 		{ rank=1560, name="Rayzerqt", realm="shekzeer", rating=1917, won=43, lost=24, faction="ALLIANCE", dr=0, dk=102 },
 		{ rank=1560, name="Rivalz", realm="shekzeer", rating=1917, won=59, lost=54, faction="ALLIANCE", dr=146, dk=-800 },
 		{ rank=1560, name="Ssydney", realm="shekzeer", rating=1917, won=192, lost=193, faction="ALLIANCE", dr=34, dk=-79 },
-		{ rank=1564, name="Altertime", realm="shekzeer", rating=1916, won=33, lost=23, faction="ALLIANCE", dr=0, dk=105 },
-		{ rank=1564, name="Aptukdj", realm="shekzeer", rating=1916, won=120, lost=85, faction="ALLIANCE", dr=0, dk=105 },
-		{ rank=1564, name="Enjoybro", realm="shekzeer", rating=1916, won=34, lost=12, faction="ALLIANCE", dr=266, dk=-1648 },
-		{ rank=1564, name="Fmxyo", realm="shekzeer", rating=1916, won=176, lost=193, faction="ALLIANCE", dr=0, dk=105 },
-		{ rank=1564, name="Momenyx", realm="norushen", rating=1916, won=113, lost=130, faction="HORDE", dr=0, dk=105 },
-		{ rank=1564, name="Monais", realm="shekzeer", rating=1916, won=165, lost=169, faction="ALLIANCE", mr=1946, dr=37, dk=-98 },
-		{ rank=1564, name="Sándron", realm="everlook", rating=1916, won=67, lost=55, faction="ALLIANCE", dr=0, dk=105 },
-		{ rank=1564, name="Stopfear", realm="shekzeer", rating=1916, won=42, lost=43, faction="ALLIANCE", dr=0, dk=105 },
-		{ rank=1564, name="Visionary", realm="garalon", rating=1916, won=116, lost=126, faction="ALLIANCE", mr=1917, dr=69, dk=-281 },
-		{ rank=1564, name="Zerback", realm="norushen", rating=1916, won=413, lost=402, faction="HORDE", dr=0, dk=105 },
-		{ rank=1574, name="Druder", realm="mirage-raceway", rating=1915, won=95, lost=90, faction="HORDE", dr=0, dk=108 },
-		{ rank=1574, name="Golbeer", realm="shekzeer", rating=1915, won=47, lost=44, faction="ALLIANCE", dr=0, dk=108 },
-		{ rank=1574, name="Suprug", realm="shekzeer", rating=1915, won=74, lost=75, faction="ALLIANCE", dr=0, dk=108 },
-		{ rank=1577, name="Asmødel", realm="shekzeer", rating=1914, won=46, lost=33, faction="HORDE", dr=0, dk=107 },
-		{ rank=1577, name="Noleapnofun", realm="everlook", rating=1914, won=66, lost=74, faction="ALLIANCE", dr=0, dk=107 },
-		{ rank=1577, name="Варсонгермс", realm="flamegor", rating=1914, won=52, lost=35, faction="ALLIANCE", dr=0, dk=107 },
-		{ rank=1580, name="Annodomini", realm="mirage-raceway", rating=1913, won=92, lost=84, faction="ALLIANCE", dr=0, dk=107 },
-		{ rank=1580, name="Mosskobold", realm="shekzeer", rating=1913, won=33, lost=23, faction="ALLIANCE", dr=0, dk=107 },
-		{ rank=1580, name="Pewpewshot", realm="shekzeer", rating=1913, won=49, lost=51, faction="ALLIANCE", mr=1919, dr=-6, dk=131 },
-		{ rank=1580, name="Бринвуд", realm="flamegor", rating=1913, won=56, lost=60, faction="ALLIANCE", dr=0, dk=107 },
+		{ rank=1563, name="Altertime", realm="shekzeer", rating=1916, won=33, lost=23, faction="ALLIANCE", dr=0, dk=104 },
+		{ rank=1563, name="Aptukdj", realm="shekzeer", rating=1916, won=120, lost=85, faction="ALLIANCE", dr=0, dk=104 },
+		{ rank=1563, name="Enjoybro", realm="shekzeer", rating=1916, won=34, lost=12, faction="ALLIANCE", dr=266, dk=-1649 },
+		{ rank=1563, name="Fmxyo", realm="shekzeer", rating=1916, won=176, lost=193, faction="ALLIANCE", dr=0, dk=104 },
+		{ rank=1563, name="Momenyx", realm="norushen", rating=1916, won=113, lost=130, faction="HORDE", dr=0, dk=104 },
+		{ rank=1563, name="Monais", realm="shekzeer", rating=1916, won=165, lost=169, faction="ALLIANCE", mr=1946, dr=37, dk=-99 },
+		{ rank=1563, name="Sándron", realm="everlook", rating=1916, won=67, lost=55, faction="ALLIANCE", dr=0, dk=104 },
+		{ rank=1563, name="Stopfear", realm="shekzeer", rating=1916, won=42, lost=43, faction="ALLIANCE", dr=0, dk=104 },
+		{ rank=1563, name="Visionary", realm="garalon", rating=1916, won=116, lost=126, faction="ALLIANCE", mr=1917, dr=69, dk=-282 },
+		{ rank=1563, name="Zerback", realm="norushen", rating=1916, won=413, lost=402, faction="HORDE", dr=0, dk=104 },
+		{ rank=1573, name="Druder", realm="mirage-raceway", rating=1915, won=95, lost=90, faction="HORDE", dr=0, dk=107 },
+		{ rank=1573, name="Golbeer", realm="shekzeer", rating=1915, won=47, lost=44, faction="ALLIANCE", dr=0, dk=107 },
+		{ rank=1573, name="Suprug", realm="shekzeer", rating=1915, won=74, lost=75, faction="ALLIANCE", dr=0, dk=107 },
+		{ rank=1576, name="Asmødel", realm="shekzeer", rating=1914, won=46, lost=33, faction="HORDE", dr=0, dk=106 },
+		{ rank=1576, name="Noleapnofun", realm="everlook", rating=1914, won=66, lost=74, faction="ALLIANCE", dr=0, dk=106 },
+		{ rank=1576, name="Варсонгермс", realm="flamegor", rating=1914, won=52, lost=35, faction="ALLIANCE", dr=0, dk=106 },
+		{ rank=1579, name="Annodomini", realm="mirage-raceway", rating=1913, won=92, lost=84, faction="ALLIANCE", dr=0, dk=106 },
+		{ rank=1579, name="Mosskobold", realm="shekzeer", rating=1913, won=33, lost=23, faction="ALLIANCE", dr=0, dk=106 },
+		{ rank=1579, name="Neptulíon", realm="shekzeer", rating=1913, won=55, lost=56, faction="ALLIANCE", mr=1927, dr=117, dk=-611 },
+		{ rank=1579, name="Pewpewshot", realm="shekzeer", rating=1913, won=49, lost=51, faction="ALLIANCE", mr=1919, dr=-6, dk=130 },
+		{ rank=1579, name="Бринвуд", realm="flamegor", rating=1913, won=56, lost=60, faction="ALLIANCE", dr=0, dk=106 },
 		{ rank=1584, name="Alalia", realm="mirage-raceway", rating=1912, won=80, lost=76, faction="ALLIANCE", dr=0, dk=103 },
 		{ rank=1584, name="Jóhnnycage", realm="shekzeer", rating=1912, won=80, lost=77, faction="ALLIANCE", dr=0, dk=103 },
 		{ rank=1584, name="Mistish", realm="shekzeer", rating=1912, won=68, lost=67, faction="ALLIANCE", dr=0, dk=103 },
