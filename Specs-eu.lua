@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5311 characters, read 2026-09-18 05:00 PM.
+-- Region eu, 5311 characters, read 2026-09-18 06:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -637,7 +637,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["bumbelbegodx-shekzeer"]=41,
 	["bumbelbemonk-shekzeer"]=10,
 	["bumbeldruid-shekzeer"]=220,
-	["bumbelgnome-shekzeer"]=71,
+	["bumbelgnome-shekzeer"]=70,
 	["bumbelmonk-garalon"]=60,
 	["bumbelmonk-shekzeer"]=10,
 	["bumbelorc-garalon"]=20,
@@ -944,7 +944,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["dazzuz-hoptallus"]=251,
 	["dbíest-everlook"]=61,
 	["ddwg-shekzeer"]=41,
-	["deadmane-shekzeer"]=11,
 	["Ðeales-shekzeer"]=11,
 	["déathkón-shekzeer"]=20,
 	["deathléss-shekzeer"]=41,
@@ -6067,7 +6066,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["dazzuz-hoptallus"]=29,
 	["dbíest-everlook"]=5,
 	["ddwg-shekzeer"]=3,
-	["deadmane-shekzeer"]=8,
+	["deadmane-shekzeer"]=0,
 	["Ðeales-shekzeer"]=1,
 	["deathchaz-shekzeer"]=0,
 	["déathkón-shekzeer"]=8,
@@ -7776,7 +7775,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["mishlen-shekzeer"]=13,
 	["missaicecity-shekzeer"]=3,
 	["missisclone-shekzeer"]=11,
-	["missota-shekzeer"]=11,
+	["missota-shekzeer"]=3,
 	["missotalock-shekzeer"]=17,
 	["missotawarr-shekzeer"]=1,
 	["mistclicked-shekzeer"]=6,
@@ -7999,7 +7998,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["ngprofessor-shekzeer"]=4,
 	["ngtz-auberdine"]=1,
 	["nharil-everlook"]=26,
-	["niallg-shekzeer"]=16,
+	["niallg-shekzeer"]=13,
 	["niamah-shekzeer"]=3,
 	["nicant-hoptallus"]=3,
 	["nicantes-hoptallus"]=1,
@@ -8047,7 +8046,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["nixtreffich-everlook"]=3,
 	["nizze-shekzeer"]=3,
 	["nktz-garalon"]=2,
-	["nme-hoptallus"]=10,
+	["nme-hoptallus"]=2,
 	["nnpriest-shekzeer"]=12,
 	["nobrazil-mirage-raceway"]=8,
 	["nocislife-everlook"]=11,
@@ -9571,7 +9570,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["viint-shekzeer"]=31,
 	["vïïnt-shekzeer"]=21,
 	["vilenciaga-shekzeer"]=1,
-	["vindictive-shekzeer"]=7,
+	["vindictive-shekzeer"]=6,
 	["vint-garalon"]=9,
 	["vínt-shekzeer"]=2,
 	["vïnt-shekzeer"]=15,

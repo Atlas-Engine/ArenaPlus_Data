@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9790 characters, read 2026-09-18 04:58 PM.
+-- Region tbc-us, 9790 characters, read 2026-09-18 05:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11435,7 +11435,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["crustytotems-nightslayer"]=19,
 	["cry-dreamscythe"]=2,
 	["cryptbreaker-nightslayer"]=13,
-	["crypticsense-nightslayer"]=5,
+	["crypticsense-nightslayer"]=8,
 	["crysiis-nightslayer"]=19,
 	["crysisx-nightslayer"]=19,
 	["crysugar-nightslayer"]=2,
@@ -11535,7 +11535,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["damagedone-nightslayer"]=2,
 	["damawntren-dreamscythe"]=15,
 	["damimclean-nightslayer"]=4,
-	["damny-nightslayer"]=18,
+	["damny-nightslayer"]=2,
 	["dampening-nightslayer"]=24,
 	["danapink-nightslayer"]=2,
 	["dancerxo-nightslayer"]=5,
@@ -11679,7 +11679,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["delusto-nightslayer"]=1,
 	["dembootys-nightslayer"]=5,
 	["demðn-nightslayer"]=19,
-	["demerara-nightslayer"]=3,
+	["demerara-nightslayer"]=7,
 	["demias-nightslayer"]=10,
 	["demics-nightslayer"]=13,
 	["demonara-nightslayer"]=1,
@@ -13845,7 +13845,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["jcrumpo-nightslayer"]=8,
 	["jdawn-nightslayer"]=12,
 	["jdaymeowl-nightslayer"]=3,
-	["jdela-dreamscythe"]=5,
+	["jdela-dreamscythe"]=8,
 	["jdgmntl-nightslayer"]=9,
 	["jdots-nightslayer"]=1,
 	["jdsx-nightslayer"]=8,
@@ -15211,11 +15211,11 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["monéy-dreamscythe"]=5,
 	["moneygoat-nightslayer"]=10,
 	["mongologist-nightslayer"]=15,
-	["moniix-nightslayer"]=24,
+	["moniix-nightslayer"]=10,
 	["monkichi-nightslayer"]=2,
 	["monkmindset-nightslayer"]=7,
 	["monsieurcaca-nightslayer"]=17,
-	["montix-nightslayer"]=5,
+	["montix-nightslayer"]=8,
 	["montolite-nightslayer"]=11,
 	["montonero-nightslayer"]=19,
 	["montto-nightslayer"]=18,
@@ -17181,7 +17181,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["shaund-nightslayer"]=11,
 	["shawarmaman-dreamscythe"]=18,
 	["shawkblock-nightslayer"]=10,
-	["shawkfury-nightslayer"]=3,
+	["shawkfury-nightslayer"]=7,
 	["shawtytotems-nightslayer"]=19,
 	["shaykh-nightslayer"]=1,
 	["shb-nightslayer"]=9,

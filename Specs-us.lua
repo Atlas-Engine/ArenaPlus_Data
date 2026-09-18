@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5162 characters, read 2026-09-18 04:59 PM.
+-- Region us, 5162 characters, read 2026-09-18 05:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5548,7 +5548,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["bootýhunter-pagle"]=20,
 	["bootywizard-raden"]=9,
 	["booyaka-raden"]=4,
-	["borabow-pagle"]=20,
+	["borabow-pagle"]=3,
 	["bordak-raden"]=7,
 	["boredx-pagle"]=16,
 	["boreing-lei-shen"]=25,
@@ -5579,7 +5579,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["bramanmanman-grobbulus"]=15,
 	["brandoncle-galakras"]=2,
 	["brazzeal-pagle"]=16,
-	["brbcloning-pagle"]=5,
+	["brbcloning-pagle"]=17,
 	["brbsheeping-pagle"]=1,
 	["breewdable-pagle"]=10,
 	["brendedoo-galakras"]=3,
@@ -5596,7 +5596,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["broleebro-raden"]=15,
 	["bromiro-pagle"]=14,
 	["bronzeagebud-raden"]=12,
-	["brotard-immerseus"]=9,
+	["brotard-immerseus"]=21,
 	["brotart-nazgrim"]=4,
 	["brotherbladé-raden"]=24,
 	["brotherbob-raden"]=7,
@@ -5604,7 +5604,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["brothergrr-raden"]=5,
 	["brotherqt-raden"]=3,
 	["brothertq-raden"]=19,
-	["broward-pagle"]=26,
+	["broward-pagle"]=6,
 	["broxigâr-nazgrim"]=7,
 	["brr-raden"]=1,
 	["brúcelee-pagle"]=0,
@@ -8912,7 +8912,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["schwarzanaga-pagle"]=22,
 	["scoobyroo-lei-shen"]=15,
 	["scool-raden"]=1,
-	["scorched-pagle"]=1,
+	["scorched-pagle"]=11,
 	["scorchtt-pagle"]=5,
 	["scrappeycoco-pagle"]=25,
 	["scrawnyx-nazgrim"]=25,
