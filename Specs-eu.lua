@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5307 characters, read 2026-09-18 02:00 PM.
+-- Region eu, 5307 characters, read 2026-09-18 03:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5689,7 +5689,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bõssnex-shekzeer"]=8,
 	["bosviool-shekzeer"]=3,
 	["boundless-norushen"]=10,
-	["bourinøss-auberdine"]=15,
+	["bourinøss-auberdine"]=5,
 	["bowdown-shekzeer"]=0,
 	["bøwjøbë-mirage-raceway"]=4,
 	["bowline-shekzeer"]=20,
@@ -5760,7 +5760,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bùtcher-shekzeer"]=1,
 	["buttérfly-garalon"]=2,
 	["buxuna-shekzeer"]=21,
-	["buzzey-shekzeer"]=28,
+	["buzzey-shekzeer"]=17,
 	["býàkùgan-shekzeer"]=6,
 	["cabalthewar-everlook"]=1,
 	["caerys-auberdine"]=2,
@@ -5840,7 +5840,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["chargedif-shekzeer"]=1,
 	["charity-garalon"]=22,
 	["charityrevn-shekzeer"]=1,
-	["charityshift-shekzeer"]=3,
+	["charityshift-shekzeer"]=21,
 	["charoma-shekzeer"]=3,
 	["charos-norushen"]=16,
 	["châs-everlook"]=1,
@@ -6091,7 +6091,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Ðëmðn-shekzeer"]=14,
 	["demenzflöte-everlook"]=1,
 	["Ðêmô-shekzeer"]=16,
-	["demomain-shekzeer"]=28,
+	["demomain-shekzeer"]=17,
 	["demonbálor-garalon"]=28,
 	["denarus-everlook"]=5,
 	["dentri-shekzeer"]=1,
@@ -10383,7 +10383,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Утятница-flamegor"]=3,
 	["Ушастыйлол-flamegor"]=3,
 	["Фазерихх-flamegor"]=6,
-	["Фазеркх-flamegor"]=3,
+	["Фазеркх-flamegor"]=11,
 	["Фазерхх-flamegor"]=17,
 	["Фантомблэйд-flamegor"]=34,
 	["Фарллин-flamegor"]=9,
