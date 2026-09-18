@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5162 characters, read 2026-09-18 05:59 PM.
+-- Region us, 5162 characters, read 2026-09-18 06:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5472,7 +5472,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["blappo-nazgrim"]=5,
 	["blasébill-arugal-au"]=3,
 	["blasterjaxx-pagle"]=14,
-	["blastmaster-lei-shen"]=19,
+	["blastmaster-lei-shen"]=15,
 	["blazco-raden"]=9,
 	["blazedboii-pagle"]=18,
 	["blazingchi-arugal-au"]=4,
@@ -5490,7 +5490,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["bloodofnotus-nazgrim"]=27,
 	["bloodrake-nazgrim"]=25,
 	["bloodshatter-raden"]=7,
-	["bloodsoakd-pagle"]=23,
+	["bloodsoakd-pagle"]=7,
 	["bloodvâlor-lei-shen"]=6,
 	["bloombringer-pagle"]=0,
 	["blooms-pagle"]=17,
@@ -5725,7 +5725,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["cerealwl-arugal-au"]=28,
 	["cerrith-pagle"]=6,
 	["cezàr-raden"]=6,
-	["cfivevette-raden"]=10,
+	["cfivevette-raden"]=4,
 	["chadstorm-raden"]=7,
 	["chadwack-galakras"]=23,
 	["chakrabolt-pagle"]=28,
@@ -5960,7 +5960,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dankendwarf-pagle"]=22,
 	["dankenelf-pagle"]=5,
 	["dankenshroom-lei-shen"]=5,
-	["dankenstein-lei-shen"]=19,
+	["dankenstein-lei-shen"]=22,
 	["dankorbs-pagle"]=4,
 	["dankshots-lei-shen"]=3,
 	["dankumss-immerseus"]=16,
@@ -6683,7 +6683,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["gcwr-raden"]=7,
 	["geebroni-pagle"]=16,
 	["gelania-pagle"]=18,
-	["gentleman-pagle"]=26,
+	["gentleman-pagle"]=25,
 	["genuinely-raden"]=1,
 	["geser-raden"]=20,
 	["getclapt-lei-shen"]=6,
@@ -8267,7 +8267,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["odessa-raden"]=27,
 	["odinthegreat-galakras"]=32,
 	["odokawa-pagle"]=9,
-	["offgrid-galakras"]=34,
+	["offgrid-galakras"]=29,
 	["officialgoat-lei-shen"]=29,
 	["offstamp-pagle"]=16,
 	["ogbryn-nazgrim"]=17,
@@ -10033,7 +10033,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["yametekudasæ-pagle"]=26,
 	["yanshaar-immerseus"]=20,
 	["yasoop-pagle"]=3,
-	["yasúo-pagle"]=30,
+	["yasúo-pagle"]=7,
 	["yazor-nazgrim"]=11,
 	["ybats-grobbulus"]=24,
 	["yeardme-pagle"]=1,
@@ -10155,7 +10155,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["zoeyjean-pagle"]=1,
 	["zolve-lei-shen"]=20,
 	["zoodom-raden"]=2,
-	["zoohunter-raden"]=20,
+	["zoohunter-raden"]=3,
 	["zookin-benediction"]=5,
 	["zootmeister-raden"]=3,
 	["zopos-pagle"]=0,

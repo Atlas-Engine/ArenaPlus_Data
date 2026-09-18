@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9790 characters, read 2026-09-18 05:58 PM.
+-- Region tbc-us, 9790 characters, read 2026-09-18 06:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11861,7 +11861,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["dokam-nightslayer"]=3,
 	["dokgo-nightslayer"]=4,
 	["dokurowow-dreamscythe"]=1,
-	["dolangalaxy-dreamscythe"]=7,
+	["dolangalaxy-dreamscythe"]=3,
 	["dolapalooza-nightslayer"]=19,
 	["dollerz-nightslayer"]=18,
 	["doloin-nightslayer"]=5,
@@ -13698,7 +13698,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["inv-nightslayer"]=5,
 	["invisibull-nightslayer"]=7,
 	["invisy-nightslayer"]=6,
-	["inyntz-nightslayer"]=7,
+	["inyntz-nightslayer"]=22,
 	["inyokid-nightslayer"]=1,
 	["inyourgutz-nightslayer"]=5,
 	["iolsmite-nightslayer"]=1,
@@ -13914,7 +13914,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["jmohh-nightslayer"]=2,
 	["jmop-nightslayer"]=9,
 	["jn-nightslayer"]=5,
-	["jøannadark-nightslayer"]=13,
+	["jøannadark-nightslayer"]=23,
 	["joapydoapydo-nightslayer"]=16,
 	["joaquinb-nightslayer"]=7,
 	["jodda-nightslayer"]=1,
@@ -14921,7 +14921,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["maycry-nightslayer"]=5,
 	["mayhemx-nightslayer"]=4,
 	["mayhim-nightslayer"]=5,
-	["maylonn-nightslayer"]=3,
+	["maylonn-nightslayer"]=7,
 	["maze-nightslayer"]=19,
 	["mazesh-nightslayer"]=19,
 	["mazeturbate-nightslayer"]=19,
@@ -15195,7 +15195,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["mokaris-nightslayer"]=19,
 	["mokthul-nightslayer"]=10,
 	["molang-nightslayer"]=5,
-	["molanjiao-nightslayer"]=24,
+	["molanjiao-nightslayer"]=19,
 	["molanpa-nightslayer"]=5,
 	["molasses-nightslayer"]=4,
 	["mollylou-nightslayer"]=4,
@@ -17172,7 +17172,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["shartcuterie-nightslayer"]=1,
 	["shartie-dreamscythe"]=18,
 	["shartkeisha-nightslayer"]=2,
-	["shartonme-nightslayer"]=10,
+	["shartonme-nightslayer"]=19,
 	["shatter-dreamscythe"]=4,
 	["shatterbonez-nightslayer"]=4,
 	["shatterpants-nightslayer"]=6,
