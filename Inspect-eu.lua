@@ -42,7 +42,7 @@ local ns = ArenaPlusData
 -- source_item, so gems are stored as real item ids the client can draw and only
 -- the enchant text has to ship.
 --
--- Region eu, 427 characters, 362 glyph names, read 2026-09-18 05:20 AM.
+-- Region eu, 427 characters, 362 glyph names, read 2026-09-18 07:20 AM.
 ns.GLYPH_NAMES = ns.GLYPH_NAMES or {}
 
 for id, name in pairs({
@@ -416,57 +416,7 @@ for id, name in pairs({
 ns.TALENT_NAMES = ns.TALENT_NAMES or {}
 
 for id, name in pairs({
-	[12292]="Bloodbath",
-	[16188]="Ancestral Swiftness",
-	[26023]="Pursuit of Justice",
-	[30884]="Nature's Guardian",
-	[45529]="Blood Tap",
-	[46924]="Bladestorm",
-	[48743]="Death Pact",
-	[49039]="Lichborne",
-	[50041]="Chilblains",
-	[55694]="Enraged Regeneration",
-	[85499]="Speed of Light",
-	[86172]="Divine Purpose",
-	[96268]="Death's Advance",
-	[102060]="Disrupting Shout",
-	[103826]="Juggernaut",
-	[103827]="Double Time",
-	[105593]="Fist of Justice",
-	[105622]="Clemency",
-	[105809]="Holy Avenger",
-	[107566]="Staggering Shout",
-	[107570]="Storm Bolt",
-	[108170]="Roiling Blood",
-	[108194]="Asphyxiate",
-	[108199]="Gorefiend's Grasp",
-	[108200]="Remorseless Winter",
-	[108201]="Desecrated Ground",
-	[108273]="Windwalk Totem",
-	[108287]="Totemic Projection",
-	[108920]="Void Tendrils",
-	[108921]="Psyfiend",
-	[108945]="Angelic Bulwark",
-	[109142]="Twist of Fate",
-	[109175]="Divine Insight",
-	[109186]="From Darkness, Comes Light",
-	[110301]="Evil is a Point of View",
-	[110744]="Divine Star",
-	[112833]="Spectral Guise",
-	[114029]="Safeguard",
-	[114030]="Vigilance",
-	[114154]="Unbreakable Spirit",
-	[114157]="Execution Sentence",
-	[114158]="Light's Hammer",
-	[114163]="Eternal Flame",
-	[114165]="Holy Prism",
-	[117012]="Unleashed Fury",
-	[118000]="Dragon Roar",
-	[119975]="Conversion",
-	[121536]="Angelic Feather",
-	[123040]="Mindbender",
-	[123693]="Plague Leech",
-	[147074]="Rushing Streams",
+
 }) do ns.TALENT_NAMES[id] = name end
 
 -- Which talent a rank-spell belongs to, and how many ranks that talent has.

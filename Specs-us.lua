@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5161 characters, read 2026-09-18 06:59 AM.
+-- Region us, 5162 characters, read 2026-09-18 07:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4773,6 +4773,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["wìz-raden"]=11,
 	["wîzärdøføzz-raden"]=31,
 	["wkndxo-raden"]=10,
+	["wmxd-raden"]=31,
 	["wnqiwnqiwnqi-pagle"]=50,
 	["wnqiwnqiwnqi-raden"]=10,
 	["wogonomics-pagle"]=10,
@@ -4833,6 +4834,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["xeyo-raden"]=11,
 	["xfry-pagle"]=101,
 	["xhangtu-raden"]=11,
+	["xièxiè-raden"]=11,
 	["xiks-arugal-au"]=21,
 	["xil-raden"]=220,
 	["xladerz-pagle"]=11,
@@ -7160,7 +7162,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["inperitus-arugal-au"]=15,
 	["insomniaxx-pagle"]=14,
 	["instantcarry-raden"]=10,
-	["integrityqt-pagle"]=13,
+	["integrityqt-pagle"]=21,
 	["intercepts-pagle"]=7,
 	["intrerri-pagle"]=34,
 	["intru-raden"]=3,
@@ -7322,7 +7324,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["juicedupd-pagle"]=5,
 	["juisyblight-galakras"]=6,
 	["juisytouch-galakras"]=4,
-	["jujubeanz-raden"]=20,
+	["jujubeanz-raden"]=3,
 	["juleran-pagle"]=8,
 	["julliian-pagle"]=25,
 	["jumpinropes-pagle"]=16,
@@ -9464,7 +9466,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["tastyshotz-raden"]=3,
 	["tatís-pagle"]=21,
 	["taulastria-nazgrim"]=24,
-	["taurenmen-immerseus"]=17,
+	["taurenmen-immerseus"]=5,
 	["tauruz-lei-shen"]=25,
 	["taybird-raden"]=7,
 	["tbk-raden"]=16,
@@ -9927,7 +9929,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["wîzärdøføzz-raden"]=15,
 	["wkndxo-raden"]=1,
 	["wmx-raden"]=0,
-	["wmxd-raden"]=0,
+	["wmxd-raden"]=15,
 	["wnqiwnqiwnqi-pagle"]=4,
 	["wnqiwnqiwnqi-raden"]=4,
 	["wøckeez-raden"]=0,
@@ -9990,6 +9992,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["xeyo-raden"]=34,
 	["xfry-pagle"]=2,
 	["xhangtu-raden"]=4,
+	["xièxiè-raden"]=2,
 	["xiks-arugal-au"]=7,
 	["xil-raden"]=7,
 	["xladerz-pagle"]=7,
