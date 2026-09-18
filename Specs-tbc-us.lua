@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9776 characters, read 2026-09-18 11:58 AM.
+-- Region tbc-us, 9776 characters, read 2026-09-18 12:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -13779,8 +13779,8 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["jamzkii-nightslayer"]=12,
 	["jandist-nightslayer"]=10,
 	["jandista-nightslayer"]=4,
-	["janegoodru-nightslayer"]=22,
-	["janetjackson-nightslayer"]=9,
+	["janegoodru-nightslayer"]=7,
+	["janetjackson-nightslayer"]=25,
 	["janey-nightslayer"]=4,
 	["janeyxd-nightslayer"]=7,
 	["jangryang-nightslayer"]=5,
@@ -15266,7 +15266,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["mtss-nightslayer"]=5,
 	["mud-nightslayer"]=2,
 	["mudballs-dreamscythe"]=11,
-	["mudpt-nightslayer"]=13,
+	["mudpt-nightslayer"]=16,
 	["muffbags-nightslayer"]=10,
 	["muffelz-nightslayer"]=11,
 	["muffinmanx-nightslayer"]=5,
@@ -17241,7 +17241,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["shobshe-nightslayer"]=5,
 	["shocc-dreamscythe"]=19,
 	["shockborne-nightslayer"]=10,
-	["shockerx-nightslayer"]=10,
+	["shockerx-nightslayer"]=19,
 	["shocketh-dreamscythe"]=10,
 	["shockgroundx-nightslayer"]=10,
 	["shockirâ-nightslayer"]=10,
