@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 10512 characters, read 2026-09-18 09:59 AM.
+-- Region tbc-eu, 10512 characters, read 2026-09-18 10:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10770,7 +10770,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["annoncelight-spineshatter"]=7,
 	["annorâ-spineshatter"]=15,
 	["anntón-spineshatter"]=3,
-	["anoréxica-spineshatter"]=4,
+	["anoréxica-spineshatter"]=9,
 	["anothertrain-spineshatter"]=1,
 	["anothertry-spineshatter"]=0,
 	["anothertwist-spineshatter"]=7,
@@ -12612,7 +12612,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["djpoppzinna-spineshatter"]=1,
 	["djreaper-spineshatter"]=3,
 	["Ðjshockgødx-spineshatter"]=23,
-	["djsmôke-spineshatter"]=5,
+	["djsmôke-spineshatter"]=15,
 	["djsokr-spineshatter"]=1,
 	["Ðjßøltgøðx-spineshatter"]=11,
 	["djsten-spineshatter"]=3,
@@ -14094,7 +14094,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["heavyweightz-spineshatter"]=15,
 	["heilgar-spineshatter"]=2,
 	["heilgeili-spineshatter"]=2,
-	["heinblöd-thunderstrike"]=17,
+	["heinblöd-thunderstrike"]=2,
 	["heinzine-spineshatter"]=2,
 	["héïsënbérg-spineshatter"]=13,
 	["heisenburst-spineshatter"]=25,
@@ -17001,7 +17001,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["onegame-spineshatter"]=4,
 	["onehpbtw-spineshatter"]=2,
 	["onemoretïme-spineshatter"]=11,
-	["oneofive-spineshatter"]=17,
+	["oneofive-spineshatter"]=2,
 	["onepangu-spineshatter"]=4,
 	["oneprayer-spineshatter"]=2,
 	["onery-thunderstrike"]=5,
@@ -18961,7 +18961,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["spacetaffy-spineshatter"]=11,
 	["spacetaker-spineshatter"]=5,
 	["spacewarp-spineshatter"]=4,
-	["spacexd-spineshatter"]=23,
+	["spacexd-spineshatter"]=11,
 	["spaghettø-spineshatter"]=3,
 	["spanskter-thunderstrike"]=5,
 	["sparklina-spineshatter"]=5,
@@ -19216,7 +19216,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["sucemaglaive-spineshatter"]=3,
 	["suciamagrebi-spineshatter"]=2,
 	["suddin-spineshatter"]=2,
-	["sudokunt-spineshatter"]=11,
+	["sudokunt-spineshatter"]=23,
 	["suezqt-spineshatter"]=3,
 	["sufarus-spineshatter"]=5,
 	["suffox-thunderstrike"]=23,
@@ -19747,7 +19747,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["tqove-spineshatter"]=25,
 	["traffi-spineshatter"]=9,
 	["trafnovic-spineshatter"]=5,
-	["trafs-spineshatter"]=20,
+	["trafs-spineshatter"]=1,
 	["trailblazèr-spineshatter"]=24,
 	["trakkeh-thunderstrike"]=11,
 	["traktorcho-spineshatter"]=12,
@@ -20116,7 +20116,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["venøs-spineshatter"]=11,
 	["vensrkiou-spineshatter"]=7,
 	["venthyr-spineshatter"]=3,
-	["venthyrlol-spineshatter"]=3,
+	["venthyrlol-spineshatter"]=19,
 	["verenisja-thunderstrike"]=2,
 	["vermillwarri-spineshatter"]=15,
 	["vermin-spineshatter"]=2,

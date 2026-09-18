@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5306 characters, read 2026-09-18 10:00 AM.
+-- Region eu, 5306 characters, read 2026-09-18 11:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6753,7 +6753,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["headshottss-shekzeer"]=4,
 	["headzhot-shekzeer"]=4,
 	["healbooster-mirage-raceway"]=3,
-	["héälböt-mirage-raceway"]=7,
+	["héälböt-mirage-raceway"]=29,
 	["healing-shekzeer"]=6,
 	["healintincan-mirage-raceway"]=5,
 	["heallnah-shekzeer"]=9,
@@ -7661,7 +7661,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["maxiwho-shekzeer"]=0,
 	["maxthepala-everlook"]=15,
 	["maybemonk-mirage-raceway"]=29,
-	["mazia-shekzeer"]=2,
+	["mazia-shekzeer"]=10,
 	["mbs-shekzeer"]=13,
 	["mby-shekzeer"]=29,
 	["mco-mirage-raceway"]=4,
@@ -8421,7 +8421,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["quackbae-shekzeer"]=0,
 	["qualitytime-garalon"]=13,
 	["quarok-shekzeer"]=28,
-	["quastwex-shekzeer"]=30,
+	["quastwex-shekzeer"]=15,
 	["queuepóp-shekzeer"]=5,
 	["quickerz-norushen"]=10,
 	["quilmes-mirage-raceway"]=9,
@@ -8452,7 +8452,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["ragnaros-ook-ook"]=19,
 	["rainbowrider-shekzeer"]=9,
 	["rainbowrïder-shekzeer"]=3,
-	["rainbôwrider-shekzeer"]=19,
+	["rainbôwrider-shekzeer"]=16,
 	["raîtchuu-auberdine"]=11,
 	["rakamvp-shekzeer"]=13,
 	["raketenrudy-everlook"]=4,
