@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 10503 characters, read 2026-09-18 05:59 AM.
+-- Region tbc-eu, 10503 characters, read 2026-09-18 06:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12195,7 +12195,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["cuddlér-spineshatter"]=3,
 	["cudds-spineshatter"]=11,
 	["cukara-spineshatter"]=1,
-	["cureshotp-spineshatter"]=17,
+	["cureshotp-spineshatter"]=2,
 	["cureshotx-spineshatter"]=13,
 	["cureshotxs-spineshatter"]=13,
 	["curromuu-spineshatter"]=1,
@@ -12450,7 +12450,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["denzz-spineshatter"]=5,
 	["depijln-spineshatter"]=25,
 	["deremi-spineshatter"]=5,
-	["dergrelgodx-spineshatter"]=5,
+	["dergrelgodx-spineshatter"]=15,
 	["dergulopaty-spineshatter"]=11,
 	["dérheni-spineshatter"]=11,
 	["derposh-thunderstrike"]=10,
@@ -14629,7 +14629,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["jappjappjapp-spineshatter"]=5,
 	["japuni-spineshatter"]=2,
 	["jardagodx-spineshatter"]=6,
-	["jarlentox-thunderstrike"]=12,
+	["jarlentox-thunderstrike"]=11,
 	["jarmano-thunderstrike"]=12,
 	["jarnotrolli-spineshatter"]=11,
 	["jarviz-spineshatter"]=2,
@@ -17814,7 +17814,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["realkoreea-spineshatter"]=11,
 	["reallylight-spineshatter"]=10,
 	["reallzooro-thunderstrike"]=1,
-	["realmoist-spineshatter"]=17,
+	["realmoist-spineshatter"]=2,
 	["realslmshady-spineshatter"]=25,
 	["realzooro-thunderstrike"]=5,
 	["reâper-spineshatter"]=3,
@@ -19103,7 +19103,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["stepsîs-spineshatter"]=3,
 	["stepsisterxz-thunderstrike"]=3,
 	["stepsoundz-thunderstrike"]=3,
-	["stepu-spineshatter"]=25,
+	["stepu-spineshatter"]=24,
 	["stepwgn-spineshatter"]=11,
 	["stepx-spineshatter"]=3,
 	["stevebuscemí-spineshatter"]=2,
@@ -19397,7 +19397,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["tbcjocke-spineshatter"]=2,
 	["tbckek-spineshatter"]=5,
 	["tbcpveandy-spineshatter"]=25,
-	["tbctourist-spineshatter"]=2,
+	["tbctourist-spineshatter"]=17,
 	["tbcwhenlol-spineshatter"]=2,
 	["tbcxyesos-spineshatter"]=1,
 	["tblchyo-thunderstrike"]=5,

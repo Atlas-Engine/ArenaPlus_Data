@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5161 characters, read 2026-09-18 05:59 AM.
+-- Region us, 5161 characters, read 2026-09-18 06:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7385,7 +7385,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["kelmight-pagle"]=16,
 	["kelse-pagle"]=14,
 	["kelthane-raden"]=6,
-	["kengriffyjr-pagle"]=7,
+	["kengriffyjr-pagle"]=23,
 	["kenomist-pagle"]=4,
 	["kenotrappin-pagle"]=3,
 	["kenquit-pagle"]=6,
@@ -7418,7 +7418,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["kilgorë-immerseus"]=19,
 	["killa-grobbulus"]=7,
 	["killa-immerseus"]=16,
-	["killallmages-pagle"]=6,
+	["killallmages-pagle"]=25,
 	["killbeer-pagle"]=2,
 	["killcommande-pagle"]=18,
 	["killerkaos-galakras"]=12,
@@ -7454,7 +7454,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["klept-raden"]=4,
 	["kleptix-raden"]=34,
 	["knottypawz-pagle"]=17,
-	["knuckles-pagle"]=7,
+	["knuckles-pagle"]=23,
 	["knucklès-pagle"]=2,
 	["knûckles-pagle"]=5,
 	["kñuckles-pagle"]=6,
@@ -9536,7 +9536,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["therealtasty-raden"]=2,
 	["therotfather-pagle"]=6,
 	["thespot-pagle"]=12,
-	["thetalk-pagle"]=10,
+	["thetalk-pagle"]=4,
 	["thewalker-lei-shen"]=4,
 	["theweave-raden"]=4,
 	["thicthighsqt-pagle"]=16,

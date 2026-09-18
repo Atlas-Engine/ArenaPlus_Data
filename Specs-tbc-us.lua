@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9772 characters, read 2026-09-18 05:58 AM.
+-- Region tbc-us, 9772 characters, read 2026-09-18 06:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -13860,8 +13860,8 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["jiigglypoofs-nightslayer"]=12,
 	["jimbald-nightslayer"]=13,
 	["jimboi-nightslayer"]=10,
-	["jimbosalami-nightslayer"]=2,
-	["jimboslicé-nightslayer"]=19,
+	["jimbosalami-nightslayer"]=18,
+	["jimboslicé-nightslayer"]=10,
 	["jimmboe-nightslayer"]=7,
 	["jimmjimm-nightslayer"]=16,
 	["jimmyd-nightslayer"]=7,
@@ -15406,7 +15406,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["neeble-nightslayer"]=13,
 	["needadefib-nightslayer"]=10,
 	["neekosan-dreamscythe"]=5,
-	["neen-nightslayer"]=18,
+	["neen-nightslayer"]=2,
 	["neesan-dreamscythe"]=19,
 	["nefitatemata-dreamscythe"]=5,
 	["negatîva-nightslayer"]=1,
@@ -15418,7 +15418,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["neijuan-dreamscythe"]=4,
 	["neilie-nightslayer"]=10,
 	["neiliee-nightslayer"]=9,
-	["neilyoqt-nightslayer"]=5,
+	["neilyoqt-nightslayer"]=8,
 	["nekkó-nightslayer"]=9,
 	["nekobearmeow-nightslayer"]=7,
 	["nekryss-nightslayer"]=1,
@@ -16098,7 +16098,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["playgrounds-nightslayer"]=2,
 	["playhardx-nightslayer"]=2,
 	["playtimex-dreamscythe"]=5,
-	["playtolose-nightslayer"]=1,
+	["playtolose-nightslayer"]=12,
 	["pleadeal-nightslayer"]=11,
 	["pleasé-nightslayer"]=1,
 	["pleasinggang-nightslayer"]=1,
@@ -17305,7 +17305,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["sicksadworld-nightslayer"]=2,
 	["sickup-nightslayer"]=13,
 	["sidejuan-nightslayer"]=12,
-	["sidian-nightslayer"]=0,
+	["sidian-nightslayer"]=18,
 	["sienar-nightslayer"]=11,
 	["siffilis-dreamscythe"]=9,
 	["sighklone-nightslayer"]=7,
@@ -18037,7 +18037,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["tazërface-nightslayer"]=18,
 	["tbalc-nightslayer"]=1,
 	["tbcisawful-nightslayer"]=17,
-	["tbcisdeadcya-nightslayer"]=17,
+	["tbcisdeadcya-nightslayer"]=15,
 	["tbcpremium-dreamscythe"]=14,
 	["tbcrival-nightslayer"]=13,
 	["tbcsimp-nightslayer"]=7,
