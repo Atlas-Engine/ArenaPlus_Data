@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5162 characters, read 2026-09-18 08:59 AM.
+-- Region us, 5162 characters, read 2026-09-18 09:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6515,7 +6515,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["fíngerplay-galakras"]=15,
 	["fingerplay-raden"]=16,
 	["fingerrfkr-nazgrim"]=5,
-	["finja-lei-shen"]=34,
+	["finja-lei-shen"]=14,
 	["finkledinkle-pagle"]=16,
 	["finnese-pagle"]=1,
 	["firecano-raden"]=1,
@@ -6974,7 +6974,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["holyfender-pagle"]=16,
 	["holyfkbubs-pagle"]=2,
 	["holyflamez-pagle"]=2,
-	["holyfluxq-pagle"]=21,
+	["holyfluxq-pagle"]=9,
 	["holygym-nazgrim"]=9,
 	["holymar-pagle"]=6,
 	["holymoly-raden"]=9,
@@ -8418,7 +8418,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["penguinxl-pagle"]=6,
 	["penhitter-pagle"]=7,
 	["penitential-raden"]=21,
-	["pennisrodman-pagle"]=15,
+	["pennisrodman-pagle"]=22,
 	["penpaly-galakras"]=16,
 	["pepsí-lei-shen"]=2,
 	["percosett-raden"]=7,
@@ -8434,7 +8434,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["peteslimjim-galakras"]=7,
 	["pewpilpopper-pagle"]=3,
 	["péz-pagle"]=10,
-	["pezdispencer-raden"]=2,
+	["pezdispencer-raden"]=16,
 	["phöoba-pagle"]=12,
 	["phrra-pagle"]=7,
 	["phugoid-pagle"]=29,
@@ -8481,7 +8481,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["poixon-pagle"]=3,
 	["poizøønzx-galakras"]=34,
 	["pokehunter-galakras"]=3,
-	["pokekek-raden"]=14,
+	["pokekek-raden"]=34,
 	["pokemonk-galakras"]=10,
 	["polilla-pagle"]=28,
 	["poliwarx-pagle"]=6,
