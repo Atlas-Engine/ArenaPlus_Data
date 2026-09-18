@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9776 characters, read 2026-09-18 10:58 AM.
+-- Region tbc-us, 9776 characters, read 2026-09-18 11:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11716,7 +11716,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["dharkest-nightslayer"]=19,
 	["dhb-nightslayer"]=10,
 	["dhez-nightslayer"]=4,
-	["dhhez-nightslayer"]=14,
+	["dhhez-nightslayer"]=1,
 	["dhonky-nightslayer"]=3,
 	["dhorik-nightslayer"]=10,
 	["diablototems-dreamscythe"]=10,
@@ -12186,7 +12186,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["elchingadera-nightslayer"]=10,
 	["elda-nightslayer"]=8,
 	["eldak-dreamscythe"]=1,
-	["eldenblingz-nightslayer"]=12,
+	["eldenblingz-nightslayer"]=1,
 	["elðhim-nightslayer"]=1,
 	["eldridwar-dreamscythe"]=18,
 	["elduelisto-nightslayer"]=4,
@@ -15204,7 +15204,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["mookoocowboy-nightslayer"]=3,
 	["moolu-nightslayer"]=3,
 	["moonbadger-nightslayer"]=7,
-	["moondoctore-nightslayer"]=7,
+	["moondoctore-nightslayer"]=3,
 	["moondragoon-nightslayer"]=19,
 	["moonfirelawl-nightslayer"]=7,
 	["mooninite-nightslayer"]=10,
@@ -15306,7 +15306,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["mxrkzy-dreamscythe"]=7,
 	["myahisback-nightslayer"]=9,
 	["mycatsinheat-dreamscythe"]=1,
-	["mykaratist-nightslayer"]=22,
+	["mykaratist-nightslayer"]=7,
 	["mylken-nightslayer"]=10,
 	["mymeatsosore-nightslayer"]=5,
 	["mymm-nightslayer"]=18,
@@ -18114,9 +18114,9 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["thanksagains-nightslayer"]=2,
 	["thanksmate-dreamscythe"]=5,
 	["thatchdruid-dreamscythe"]=7,
-	["thatdruid-nightslayer"]=3,
+	["thatdruid-nightslayer"]=7,
 	["thatwaytwin-dreamscythe"]=1,
-	["thawar-nightslayer"]=16,
+	["thawar-nightslayer"]=13,
 	["thayssadru-dreamscythe"]=7,
 	["thayssaqt-dreamscythe"]=5,
 	["theame-nightslayer"]=10,
