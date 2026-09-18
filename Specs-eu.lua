@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5309 characters, read 2026-09-17 07:00 PM.
+-- Region eu, 5309 characters, read 2026-09-17 08:01 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5401,7 +5401,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["ashamedavah-shekzeer"]=24,
 	["ashtwooed-shekzeer"]=1,
 	["askaig-auberdine"]=4,
-	["askespreder-shekzeer"]=23,
+	["askespreder-shekzeer"]=17,
 	["aslanzito-hoptallus"]=1,
 	["asmadeus-shekzeer"]=22,
 	["Àsmi-ook-ook"]=1,
@@ -5485,7 +5485,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["backsidess-shekzeer"]=21,
 	["backtobsns-norushen"]=6,
 	["badabøøm-shekzeer"]=19,
-	["baddemm-norushen"]=15,
+	["baddemm-norushen"]=5,
 	["bademsekeri-shekzeer"]=1,
 	["badlama-hoptallus"]=15,
 	["badmanchazo-garalon"]=0,
@@ -6839,7 +6839,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["holypia-shekzeer"]=22,
 	["holyqiti-mirage-raceway"]=5,
 	["holyshadx-shekzeer"]=9,
-	["holyshadxx-shekzeer"]=6,
+	["holyshadxx-shekzeer"]=7,
 	["holysnap-shekzeer"]=5,
 	["holywar-shekzeer"]=9,
 	["honshu-shekzeer"]=16,
