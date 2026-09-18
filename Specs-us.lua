@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5163 characters, read 2026-09-17 08:59 PM.
+-- Region us, 5163 characters, read 2026-09-17 09:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7166,7 +7166,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["inperitus-arugal-au"]=15,
 	["insomniaxx-pagle"]=14,
 	["instantcarry-raden"]=10,
-	["integrityqt-pagle"]=21,
+	["integrityqt-pagle"]=13,
 	["intercepts-pagle"]=7,
 	["intrerri-pagle"]=34,
 	["intru-raden"]=3,
@@ -7369,7 +7369,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["kárin-nazgrim"]=9,
 	["karlmarxpunk-pagle"]=7,
 	["karolinna-raden"]=9,
-	["kartika-raden"]=20,
+	["kartika-raden"]=18,
 	["kaskudo-nazgrim"]=23,
 	["kasmein-pagle"]=18,
 	["katacaine-pagle"]=18,
@@ -8382,7 +8382,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["pallyboss-galakras"]=0,
 	["pallylynch-raden"]=16,
 	["palodan-arugal-au"]=2,
-	["palpatîne-pagle"]=24,
+	["palpatîne-pagle"]=28,
 	["palyvash-galakras"]=16,
 	["palyy-raden"]=16,
 	["panchodelsur-nazgrim"]=1,
@@ -9183,7 +9183,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["sniper-raden"]=3,
 	["sniperfetzz-pagle"]=18,
 	["sniperr-raden"]=3,
-	["snipertwo-raden"]=20,
+	["snipertwo-raden"]=3,
 	["snitzelbelle-pagle"]=11,
 	["snorken-lei-shen"]=3,
 	["snowdrop-arugal-au"]=14,

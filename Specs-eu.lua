@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5309 characters, read 2026-09-17 09:00 PM.
+-- Region eu, 5311 characters, read 2026-09-17 10:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2954,6 +2954,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["ooffa-hoptallus"]=60,
 	["Øòóòóõöø-shekzeer"]=10,
 	["oøøps-auberdine"]=21,
+	["Øøopscat-auberdine"]=51,
 	["oop-hoptallus"]=41,
 	["Ôp-norushen"]=21,
 	["operator-mirage-raceway"]=21,
@@ -3750,6 +3751,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["srtwhippa-everlook"]=41,
 	["sryimboosted-shekzeer"]=41,
 	["ßangaranga-shekzeer"]=11,
+	["ßär-shekzeer"]=41,
 	["ßazy-shekzeer"]=11,
 	["ßázy-shekzeer"]=11,
 	["ßázý-shekzeer"]=41,
@@ -5226,7 +5228,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Äjâx-auberdine"]=24,
 	["Äjäx-auberdine"]=20,
 	["akamugi-shekzeer"]=9,
-	["Ákamugi-shekzeer"]=0,
 	["akar-shekzeer"]=10,
 	["akerbz-shekzeer"]=6,
 	["akerm-shekzeer"]=17,
@@ -8004,6 +8005,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["nighteagle-hoptallus"]=3,
 	["nightfever-hoptallus"]=15,
 	["nightkiller-hoptallus"]=4,
+	["nightstream-hoptallus"]=0,
 	["nîghtvîper-mirage-raceway"]=24,
 	["niikke-auberdine"]=26,
 	["niix-norushen"]=1,
@@ -8174,6 +8176,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Øølimpian-shekzeer"]=0,
 	["Øòóòóõöø-shekzeer"]=2,
 	["oøøps-auberdine"]=26,
+	["Øøopscat-auberdine"]=22,
 	["oop-hoptallus"]=11,
 	["Ôp-norushen"]=1,
 	["operator-mirage-raceway"]=16,
@@ -9004,6 +9007,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["srtwhippa-everlook"]=3,
 	["sryimboosted-shekzeer"]=3,
 	["ßangaranga-shekzeer"]=12,
+	["ßär-shekzeer"]=3,
 	["ßazy-shekzeer"]=6,
 	["ßázy-shekzeer"]=4,
 	["ßázý-shekzeer"]=9,
