@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5307 characters, read 2026-09-18 01:00 PM.
+-- Region eu, 5307 characters, read 2026-09-18 02:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -730,7 +730,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["charbotwo-everlook"]=101,
 	["chargedif-shekzeer"]=11,
 	["charity-garalon"]=51,
-	["charityrevn-shekzeer"]=10,
+	["charityrevn-shekzeer"]=11,
 	["charityshift-shekzeer"]=41,
 	["charoma-shekzeer"]=41,
 	["charos-norushen"]=80,
@@ -5526,7 +5526,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["barackokarma-shekzeer"]=0,
 	["barbarian-shekzeer"]=1,
 	["barbarianx-shekzeer"]=1,
-	["barilas-norushen"]=17,
+	["barilas-norushen"]=28,
 	["barkwinde-shekzeer"]=26,
 	["bassboosted-auberdine"]=6,
 	["bastion-gehennas"]=0,
@@ -6336,7 +6336,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["elumin-shekzeer"]=9,
 	["elunadris-shekzeer"]=3,
 	["elviá-hoptallus"]=14,
-	["emilur-shekzeer"]=25,
+	["emilur-shekzeer"]=1,
 	["emilyblunt-norushen"]=1,
 	["eminana-shekzeer"]=15,
 	["emmyrossum-shekzeer"]=3,
@@ -6399,7 +6399,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["faithful-everlook"]=23,
 	["fakekickqt-everlook"]=5,
 	["fakenurse-shekzeer"]=9,
-	["fakepriest-shekzeer"]=23,
+	["fakepriest-shekzeer"]=17,
 	["fakesofke-shekzeer"]=6,
 	["fakeyøu-shekzeer"]=0,
 	["falkìne-auberdine"]=15,

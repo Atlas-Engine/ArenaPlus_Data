@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5161 characters, read 2026-09-18 12:59 PM.
+-- Region us, 5161 characters, read 2026-09-18 01:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6135,7 +6135,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dizz-lei-shen"]=7,
 	["dizzrock-lei-shen"]=15,
 	["djabita-nazgrim"]=1,
-	["djinx-raden"]=14,
+	["djinx-raden"]=29,
 	["djnox-pagle"]=24,
 	["Ðjsnake-raden"]=0,
 	["djsol-pagle"]=16,
@@ -6211,7 +6211,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["drãkã-nazgrim"]=15,
 	["draknyel-galakras"]=10,
 	["draùnz-pagle"]=4,
-	["drazzuh-pagle"]=17,
+	["drazzuh-pagle"]=5,
 	["drbojackal-pagle"]=9,
 	["drcrusher-galakras"]=9,
 	["dreadedshotz-raden"]=3,
@@ -6277,7 +6277,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dumdum-nazgrim"]=18,
 	["dúmß-raden"]=7,
 	["dúmßer-raden"]=16,
-	["dunardel-raden"]=30,
+	["dunardel-raden"]=7,
 	["dunkindotnut-raden"]=0,
 	["dunkyb-raden"]=1,
 	["dunsun-galakras"]=10,
@@ -7297,7 +7297,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["joksim-galakras"]=29,
 	["jonâh-raden"]=17,
 	["jönah-raden"]=16,
-	["jonal-lei-shen"]=9,
+	["jonal-lei-shen"]=21,
 	["jonboywalton-raden"]=16,
 	["jonny-pagle"]=34,
 	["jonnyslash-immerseus"]=7,
