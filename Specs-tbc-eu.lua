@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 10478 characters, read 2026-09-18 11:59 PM.
+-- Region tbc-eu, 10478 characters, read 2026-09-19 12:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12131,10 +12131,10 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["critagain-spineshatter"]=9,
 	["critrightnow-spineshatter"]=23,
 	["critshaman-spineshatter"]=12,
-	["críttycat-spineshatter"]=6,
+	["críttycat-spineshatter"]=1,
 	["critzá-spineshatter"]=23,
 	["critzo-spineshatter"]=11,
-	["croissantx-spineshatter"]=17,
+	["croissantx-spineshatter"]=2,
 	["crömer-spineshatter"]=7,
 	["cromulon-spineshatter"]=8,
 	["croswenjah-spineshatter"]=8,
@@ -14352,7 +14352,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["iixii-spineshatter"]=25,
 	["iixqt-spineshatter"]=3,
 	["iixxqt-spineshatter"]=0,
-	["ijustcall-spineshatter"]=19,
+	["ijustcall-spineshatter"]=3,
 	["ikardashl-spineshatter"]=5,
 	["ikarhu-spineshatter"]=5,
 	["ikarostass-spineshatter"]=1,
@@ -18164,7 +18164,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["samasuke-spineshatter"]=12,
 	["samenub-spineshatter"]=1,
 	["samfury-spineshatter"]=23,
-	["samspeed-spineshatter"]=8,
+	["samspeed-spineshatter"]=2,
 	["samsrogue-spineshatter"]=19,
 	["samstone-spineshatter"]=23,
 	["samwellx-spineshatter"]=1,
@@ -20294,7 +20294,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["whtgoesarnd-spineshatter"]=3,
 	["whyalwysme-spineshatter"]=19,
 	["whysofrost-spineshatter"]=9,
-	["whytrabit-spineshatter"]=19,
+	["whytrabit-spineshatter"]=3,
 	["wickman-spineshatter"]=13,
 	["widdee-thunderstrike"]=2,
 	["wiesenfelder-thunderstrike"]=15,

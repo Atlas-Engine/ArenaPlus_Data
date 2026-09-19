@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5160 characters, read 2026-09-18 11:59 PM.
+-- Region us, 5160 characters, read 2026-09-19 12:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6697,7 +6697,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ghizzlane-galakras"]=13,
 	["ghosteyed-pagle"]=0,
 	["ghostßlades-pagle"]=29,
-	["ghostz-pagle"]=34,
+	["ghostz-pagle"]=14,
 	["ghoulgrabber-pagle"]=0,
 	["gigasimpx-pagle"]=7,
 	["gigawimpx-raden"]=6,
@@ -6940,7 +6940,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["hibashiba-galakras"]=20,
 	["hickery-arugal-au"]=14,
 	["hideandhunt-galakras"]=20,
-	["hifukface-raden"]=12,
+	["hifukface-raden"]=5,
 	["hifvckface-raden"]=10,
 	["highc-galakras"]=22,
 	["highç-galakras"]=27,
@@ -7927,7 +7927,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["misprëdictio-nazgrim"]=21,
 	["missatrinni-pagle"]=0,
 	["missmama-galakras"]=5,
-	["missrollings-pagle"]=4,
+	["missrollings-pagle"]=10,
 	["misstotem-pagle"]=15,
 	["missyu-immerseus"]=23,
 	["mistafistuh-pagle"]=4,
@@ -8272,7 +8272,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["oglimpbizkit-pagle"]=4,
 	["ogmudtrunk-pagle"]=7,
 	["ogmurk-raden"]=18,
-	["ogshoks-nazgrim"]=10,
+	["ogshoks-nazgrim"]=27,
 	["ogthiqstiq-raden"]=0,
 	["ohjustshifts-pagle"]=12,
 	["ohwowbaby-raden"]=6,
@@ -9026,7 +9026,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["shocked-lei-shen"]=19,
 	["shockleone-pagle"]=15,
 	["shockoné-pagle"]=4,
-	["shocktopus-pagle"]=22,
+	["shocktopus-pagle"]=19,
 	["shøcktuah-raden"]=15,
 	["shòckwâve-galakras"]=22,
 	["shøckz-galakras"]=22,
