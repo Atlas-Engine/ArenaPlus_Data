@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5307 characters, read 2026-09-18 08:00 PM.
+-- Region eu, 5307 characters, read 2026-09-18 09:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5344,7 +5344,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["apparatus-everlook"]=19,
 	["apparition-everlook"]=19,
 	["apteka-shekzeer"]=12,
-	["aptukdj-shekzeer"]=20,
+	["aptukdj-shekzeer"]=4,
 	["aptukk-shekzeer"]=4,
 	["aptukxexe-shekzeer"]=4,
 	["apxangel-shekzeer"]=5,
@@ -8782,7 +8782,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["shadoff-shekzeer"]=12,
 	["shadotix-everlook"]=23,
 	["shaðøw-auberdine"]=12,
-	["shadowbøømzt-auberdine"]=12,
+	["shadowbøømzt-auberdine"]=9,
 	["shadowdeath-shekzeer"]=12,
 	["shadoweed-shekzeer"]=12,
 	["shadowgap-shekzeer"]=24,
@@ -9115,7 +9115,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["susrog-shekzeer"]=24,
 	["sussham-shekzeer"]=19,
 	["susubibi-shekzeer"]=4,
-	["suwney-shekzeer"]=2,
+	["suwney-shekzeer"]=10,
 	["suzukishîft-everlook"]=3,
 	["suzuran-ook-ook"]=6,
 	["suzuu-shekzeer"]=0,
@@ -9594,7 +9594,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["voireg-shekzeer"]=15,
 	["voldreth-everlook"]=15,
 	["voldrex-everlook"]=16,
-	["voljix-shekzeer"]=4,
+	["voljix-shekzeer"]=14,
 	["voljiz-shekzeer"]=1,
 	["volkris-shekzeer"]=15,
 	["volkrz-shekzeer"]=19,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9783 characters, read 2026-09-18 07:58 PM.
+-- Region tbc-us, 9783 characters, read 2026-09-18 08:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11389,7 +11389,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["creationx-nightslayer"]=22,
 	["creationz-nightslayer"]=7,
 	["credomuthwa-nightslayer"]=24,
-	["creedzm-nightslayer"]=6,
+	["creedzm-nightslayer"]=0,
 	["crepps-nightslayer"]=11,
 	["cresy-nightslayer"]=12,
 	["cresyda-nightslayer"]=12,
@@ -11798,7 +11798,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["discustingx-nightslayer"]=1,
 	["discx-nightslayer"]=1,
 	["discynormus-dreamscythe"]=1,
-	["disdisc-nightslayer"]=14,
+	["disdisc-nightslayer"]=12,
 	["diseasedrat-nightslayer"]=2,
 	["disgracey-nightslayer"]=17,
 	["dispelhell-nightslayer"]=1,
@@ -13773,7 +13773,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["jaggies-nightslayer"]=13,
 	["jaguarinsito-dreamscythe"]=22,
 	["jahanara-dreamscythe"]=1,
-	["jahboy-dreamscythe"]=0,
+	["jahboy-dreamscythe"]=14,
 	["jahimjabbar-nightslayer"]=13,
 	["jahwa-dreamscythe"]=10,
 	["jainer-nightslayer"]=4,
@@ -14605,7 +14605,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["lockmike-nightslayer"]=13,
 	["locksac-dreamscythe"]=13,
 	["lockshmear-nightslayer"]=16,
-	["locktoy-dreamscythe"]=23,
+	["locktoy-dreamscythe"]=13,
 	["lockyoualot-nightslayer"]=16,
 	["lockyzz-nightslayer"]=13,
 	["locopompyro-nightslayer"]=6,
@@ -15149,7 +15149,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["mizraelka-dreamscythe"]=10,
 	["mizzermac-nightslayer"]=15,
 	["mjölk-nightslayer"]=9,
-	["mkgx-nightslayer"]=16,
+	["mkgx-nightslayer"]=13,
 	["mkhammer-dreamscythe"]=19,
 	["mknz-nightslayer"]=5,
 	["mksham-dreamscythe"]=10,
@@ -18223,7 +18223,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["thundaqt-dreamscythe"]=15,
 	["thunderbro-nightslayer"]=2,
 	["thundercáck-nightslayer"]=10,
-	["thunderdommy-nightslayer"]=24,
+	["thunderdommy-nightslayer"]=19,
 	["thunderfried-nightslayer"]=10,
 	["thunderscore-nightslayer"]=6,
 	["thúnderthÿ-nightslayer"]=22,

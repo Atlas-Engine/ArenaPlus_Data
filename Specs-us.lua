@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5162 characters, read 2026-09-18 07:59 PM.
+-- Region us, 5162 characters, read 2026-09-18 08:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3917,7 +3917,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["shockäflocka-pagle"]=20,
 	["shocked-lei-shen"]=30,
 	["shockleone-pagle"]=60,
-	["shockoné-pagle"]=11,
+	["shockoné-pagle"]=10,
 	["shocktopus-pagle"]=111,
 	["shøcktuah-raden"]=30,
 	["shòckwâve-galakras"]=20,
@@ -5095,7 +5095,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["alette-pagle"]=2,
 	["aléxandros-nazgrim"]=7,
 	["alexmateo-pagle"]=7,
-	["alexrrbb-raden"]=23,
+	["alexrrbb-raden"]=7,
 	["alextraxas-pagle"]=7,
 	["alezaar-raden"]=5,
 	["algreen-pagle"]=4,
@@ -6945,7 +6945,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["hibashiba-galakras"]=20,
 	["hickery-arugal-au"]=14,
 	["hideandhunt-galakras"]=20,
-	["hifukface-raden"]=5,
+	["hifukface-raden"]=12,
 	["hifvckface-raden"]=10,
 	["highc-galakras"]=22,
 	["highç-galakras"]=27,
@@ -7993,7 +7993,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["monuei-raden"]=10,
 	["moobookaiyah-galakras"]=7,
 	["mooleone-pagle"]=5,
-	["mòónfirebeam-raden"]=12,
+	["mòónfirebeam-raden"]=5,
 	["moonloon-pagle"]=17,
 	["moonpieelite-immerseus"]=1,
 	["moonrip-raden"]=12,
@@ -8503,7 +8503,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["poppcorn-raden"]=5,
 	["popsmokè-pagle"]=29,
 	["pörch-pagle"]=14,
-	["porkchopx-nazgrim"]=10,
+	["porkchopx-nazgrim"]=4,
 	["porkfriedrai-immerseus"]=4,
 	["portholio-pagle"]=4,
 	["potatoes-arugal-au"]=18,
@@ -9245,7 +9245,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["spiffymonk-nazgrim"]=10,
 	["spiftdk-pagle"]=6,
 	["spiftf-pagle"]=1,
-	["spifth-grobbulus"]=20,
+	["spifth-grobbulus"]=3,
 	["spiftm-grobbulus"]=10,
 	["spiftp-pagle"]=16,
 	["spiftr-pagle"]=14,
@@ -10038,7 +10038,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ybats-grobbulus"]=24,
 	["yeardme-pagle"]=1,
 	["yecnay-galakras"]=7,
-	["yecum-galakras"]=21,
+	["yecum-galakras"]=9,
 	["yekcoh-pagle"]=29,
 	["yellowspwn-raden"]=21,
 	["yelly-pagle"]=20,
