@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5161 characters, read 2026-09-19 09:59 AM.
+-- Region us, 5162 characters, read 2026-09-19 10:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6571,7 +6571,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["forion-galakras"]=3,
 	["førmality-raden"]=1,
 	["fórsaken-pagle"]=0,
-	["fossy-pagle"]=17,
+	["fossy-pagle"]=5,
 	["fotmwarrs-raden"]=16,
 	["fotosyntetic-raden"]=5,
 	["foureyepottr-pagle"]=1,
@@ -8225,7 +8225,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["nrash-raden"]=14,
 	["nukkz-arugal-au"]=14,
 	["nunnya-raden"]=4,
-	["nupper-pagle"]=23,
+	["nupper-pagle"]=7,
 	["nurfthemonk-pagle"]=10,
 	["nurfwarr-raden"]=7,
 	["nusubito-pagle"]=29,
@@ -8319,6 +8319,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["opurtz-pagle"]=7,
 	["Øráñgè-arugal-au"]=17,
 	["Örbköbë-pagle"]=4,
+	["orbs-arugal-au"]=0,
 	["orbscripter-pagle"]=4,
 	["orcsamabin-pagle"]=15,
 	["orcz-pagle"]=7,

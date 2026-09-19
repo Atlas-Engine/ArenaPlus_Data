@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 10435 characters, read 2026-09-19 09:59 AM.
+-- Region tbc-eu, 10435 characters, read 2026-09-19 10:54 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -13922,7 +13922,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["hapu-spineshatter"]=2,
 	["häränsilmä-spineshatter"]=25,
 	["harawly-spineshatter"]=10,
-	["harawx-spineshatter"]=22,
+	["harawx-spineshatter"]=5,
 	["hárbarðr-spineshatter"]=2,
 	["hardfight-spineshatter"]=25,
 	["hardrenaline-spineshatter"]=3,
@@ -15658,7 +15658,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["maaxholiday-spineshatter"]=7,
 	["mäb-spineshatter"]=2,
 	["mabongo-spineshatter"]=5,
-	["macecarries-thunderstrike"]=5,
+	["macecarries-thunderstrike"]=15,
 	["macegoesface-thunderstrike"]=11,
 	["machicoula-spineshatter"]=2,
 	["mackeqts-spineshatter"]=12,
@@ -15690,7 +15690,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["mafialock-spineshatter"]=13,
 	["mafialocko-spineshatter"]=13,
 	["mafrino-spineshatter"]=5,
-	["maganà-spineshatter"]=11,
+	["maganà-spineshatter"]=23,
 	["magebalde-spineshatter"]=9,
 	["magemasterx-spineshatter"]=9,
 	["magepalaulol-spineshatter"]=9,
@@ -17724,7 +17724,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["recommended-spineshatter"]=0,
 	["recrize-thunderstrike"]=3,
 	["rectalpumper-spineshatter"]=5,
-	["recz-spineshatter"]=2,
+	["recz-spineshatter"]=17,
 	["redhairkaren-spineshatter"]=3,
 	["redmercury-spineshatter"]=2,
 	["rédmist-spineshatter"]=19,
@@ -17790,7 +17790,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["resistplz-spineshatter"]=5,
 	["resistshade-spineshatter"]=1,
 	["reso-spineshatter"]=5,
-	["resort-thunderstrike"]=15,
+	["resort-thunderstrike"]=5,
 	["resortm-thunderstrike"]=4,
 	["rest-spineshatter"]=3,
 	["restobe-thunderstrike"]=1,
@@ -18015,7 +18015,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["rundpall-spineshatter"]=5,
 	["rundz-thunderstrike"]=12,
 	["runexx-spineshatter"]=3,
-	["runforest-spineshatter"]=1,
+	["runforest-spineshatter"]=6,
 	["runyoufoolz-spineshatter"]=7,
 	["rusho-spineshatter"]=15,
 	["russellcrowe-spineshatter"]=2,
