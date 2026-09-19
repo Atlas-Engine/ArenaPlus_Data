@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5160 characters, read 2026-09-18 10:59 PM.
+-- Region us, 5160 characters, read 2026-09-18 11:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5982,7 +5982,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["darkstrider-raden"]=3,
 	["darkwaifu-lei-shen"]=26,
 	["darneljr-raden"]=1,
-	["darthdeath-pagle"]=7,
+	["darthdeath-pagle"]=23,
 	["darthmaos-nazgrim"]=16,
 	["dásh-nazgrim"]=2,
 	["datittycuz-galakras"]=20,
@@ -6633,7 +6633,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["fuzzywaifu-lei-shen"]=10,
 	["fxd-arugal-au"]=5,
 	["gaarah-pagle"]=1,
-	["gaejustin-pagle"]=33,
+	["gaejustin-pagle"]=12,
 	["gaêl-lei-shen"]=18,
 	["gaethje-raden"]=0,
 	["gaiden-nazgrim"]=34,
@@ -7540,7 +7540,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["laveauu-pagle"]=3,
 	["lawlurdead-raden"]=34,
 	["lawydruid-pagle"]=5,
-	["laydat-lei-shen"]=4,
+	["laydat-lei-shen"]=10,
 	["laydatpipe-lei-shen"]=12,
 	["layenda-lei-shen"]=16,
 	["laynerz-raden"]=0,
@@ -8371,7 +8371,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["palapala-pagle"]=2,
 	["pallyboss-galakras"]=0,
 	["pallylynch-raden"]=16,
-	["palodan-arugal-au"]=2,
+	["palodan-arugal-au"]=16,
 	["palpatîne-pagle"]=28,
 	["palyvash-galakras"]=16,
 	["palyy-raden"]=16,
@@ -8610,7 +8610,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["räïden-raden"]=19,
 	["raidenx-nazgrim"]=26,
 	["raíín-galakras"]=9,
-	["raijinkumax-pagle"]=15,
+	["raijinkumax-pagle"]=19,
 	["raijjin-pagle"]=19,
 	["rãin-pagle"]=14,
 	["raineclaw-raden"]=5,
@@ -8678,7 +8678,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["rejuvemoo-pagle"]=5,
 	["rekkingball-galakras"]=7,
 	["rekkzz-raden"]=20,
-	["rekstorm-nazgrim"]=30,
+	["rekstorm-nazgrim"]=7,
 	["rektalrager-galakras"]=22,
 	["rekzor-raden"]=7,
 	["rel-nazgrim"]=6,
@@ -9835,7 +9835,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["vonxx-pagle"]=8,
 	["vonzxy-pagle"]=11,
 	["vorag-nazgrim"]=10,
-	["voromyr-lei-shen"]=23,
+	["voromyr-lei-shen"]=7,
 	["vorthorne-raden"]=23,
 	["voshay-pagle"]=15,
 	["vovaii-pagle"]=12,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9772 characters, read 2026-09-18 10:58 PM.
+-- Region tbc-us, 9772 characters, read 2026-09-18 11:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10711,7 +10711,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bourner-nightslayer"]=7,
 	["boutjou-dreamscythe"]=20,
 	["bouzies-nightslayer"]=7,
-	["boward-nightslayer"]=6,
+	["boward-nightslayer"]=4,
 	["bowphamet-nightslayer"]=15,
 	["boxbanger-nightslayer"]=7,
 	["boxeddots-nightslayer"]=13,
@@ -11733,7 +11733,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["diddystep-nightslayer"]=5,
 	["diddytoys-nightslayer"]=7,
 	["dieagnose-nightslayer"]=1,
-	["diesy-dreamscythe"]=10,
+	["diesy-dreamscythe"]=19,
 	["diffbro-nightslayer"]=13,
 	["digletthumb-nightslayer"]=9,
 	["diguin-nightslayer"]=4,
@@ -12186,7 +12186,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["elchingadera-nightslayer"]=10,
 	["elda-nightslayer"]=8,
 	["eldak-dreamscythe"]=1,
-	["eldenblingz-nightslayer"]=1,
+	["eldenblingz-nightslayer"]=12,
 	["elðhim-nightslayer"]=1,
 	["eldridwar-dreamscythe"]=18,
 	["elduelisto-nightslayer"]=4,
@@ -13693,7 +13693,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["iplayforfood-nightslayer"]=7,
 	["iranianspice-nightslayer"]=11,
 	["irilis-nightslayer"]=19,
-	["irisanga-nightslayer"]=16,
+	["irisanga-nightslayer"]=13,
 	["irlchadx-nightslayer"]=2,
 	["ironbloom-nightslayer"]=7,
 	["ironfox-nightslayer"]=7,
@@ -14173,7 +14173,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["kiahshelley-nightslayer"]=10,
 	["kiaree-nightslayer"]=5,
 	["kickerm-nightslayer"]=4,
-	["kickinbutts-dreamscythe"]=2,
+	["kickinbutts-dreamscythe"]=18,
 	["kiggzm-nightslayer"]=4,
 	["kiggzp-nightslayer"]=11,
 	["kiladelph-nightslayer"]=7,
@@ -16404,7 +16404,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["rafuhio-nightslayer"]=8,
 	["ragdollme-nightslayer"]=4,
 	["ragekawk-nightslayer"]=19,
-	["ragemastuh-nightslayer"]=20,
+	["ragemastuh-nightslayer"]=2,
 	["ragequitqtt-nightslayer"]=7,
 	["ragerette-nightslayer"]=15,
 	["rageykamms-nightslayer"]=2,
@@ -17042,7 +17042,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["serolol-nightslayer"]=5,
 	["seroqt-nightslayer"]=12,
 	["sèrpeñt-nightslayer"]=7,
-	["sesamme-nightslayer"]=9,
+	["sesamme-nightslayer"]=25,
 	["setback-nightslayer"]=18,
 	["setrok-nightslayer"]=1,
 	["sets-nightslayer"]=5,
