@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9793 characters, read 2026-09-19 05:58 AM.
+-- Region tbc-us, 9793 characters, read 2026-09-19 06:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11574,7 +11574,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["darkcoil-nightslayer"]=13,
 	["darkdan-nightslayer"]=1,
 	["darkentt-nightslayer"]=2,
-	["darkflamex-nightslayer"]=2,
+	["darkflamex-nightslayer"]=18,
 	["darkjane-nightslayer"]=13,
 	["darknos-nightslayer"]=13,
 	["darkridah-dreamscythe"]=2,
@@ -16945,17 +16945,17 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["saroxwarr-dreamscythe"]=18,
 	["sashimì-nightslayer"]=4,
 	["sath-nightslayer"]=2,
-	["satisfyx-nightslayer"]=4,
+	["satisfyx-nightslayer"]=6,
 	["saucelordd-nightslayer"]=1,
 	["saucerman-nightslayer"]=5,
-	["saucý-nightslayer"]=8,
+	["saucý-nightslayer"]=5,
 	["saunajerkx-nightslayer"]=5,
 	["saunter-nightslayer"]=10,
 	["savagegodx-nightslayer"]=5,
 	["savagegodxtv-nightslayer"]=10,
-	["savela-nightslayer"]=23,
-	["savigor-nightslayer"]=0,
-	["savs-dreamscythe"]=2,
+	["savela-nightslayer"]=16,
+	["savigor-nightslayer"]=7,
+	["savs-dreamscythe"]=18,
 	["sawfur-nightslayer"]=7,
 	["sayfuddin-dreamscythe"]=2,
 	["sayohyeah-nightslayer"]=14,
@@ -19268,7 +19268,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["yiza-dreamscythe"]=11,
 	["yizzi-nightslayer"]=7,
 	["yizzy-nightslayer"]=5,
-	["ykor-nightslayer"]=6,
+	["ykor-nightslayer"]=4,
 	["ylock-dreamscythe"]=23,
 	["ynform-nightslayer"]=7,
 	["ynmagni-nightslayer"]=7,
