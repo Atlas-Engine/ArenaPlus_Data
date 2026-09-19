@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5162 characters, read 2026-09-19 06:59 AM.
+-- Region us, 5161 characters, read 2026-09-19 07:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -891,7 +891,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["craniüm-pagle"]=20,
 	["crapbucket-raden"]=40,
 	["crapes-immerseus"]=61,
-	["crapes-pagle"]=61,
 	["crapes-raden"]=41,
 	["crashdavis-raden"]=220,
 	["crashhoutt-pagle"]=11,
@@ -2210,7 +2209,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["jeffrence-pagle"]=10,
 	["jefmago-raden"]=10,
 	["jellierolls-pagle"]=11,
-	["jellytugger-raden"]=11,
+	["jellytugger-raden"]=10,
 	["jërrÿ-galakras"]=80,
 	["jerryjuve-lei-shen"]=41,
 	["jerrymonk-lei-shen"]=11,
@@ -5870,7 +5869,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["craniüm-pagle"]=7,
 	["crapbucket-raden"]=17,
 	["crapes-immerseus"]=12,
-	["crapes-pagle"]=12,
 	["crapes-raden"]=12,
 	["crashdavis-raden"]=23,
 	["crashhoutt-pagle"]=6,
@@ -7087,7 +7085,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["idestroyedu-pagle"]=10,
 	["idhrenoh-raden"]=7,
 	["ididntdoit-nazgrim"]=28,
-	["idomorecritz-raden"]=19,
+	["idomorecritz-raden"]=15,
 	["idontfeartwo-raden"]=24,
 	["idrainyou-pagle"]=28,
 	["ieattidepods-raden"]=21,
@@ -7214,7 +7212,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["jadespwn-raden"]=10,
 	["jâdestyles-nazgrim"]=4,
 	["jäeger-raden"]=3,
-	["jáffáar-pagle"]=28,
+	["jáffáar-pagle"]=24,
 	["jáffáar-raden"]=24,
 	["jaganoto-immerseus"]=7,
 	["jaggon-galakras"]=7,
@@ -9440,7 +9438,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["taariq-pagle"]=0,
 	["tachimukai-lei-shen"]=3,
 	["taekwonbow-pagle"]=20,
-	["tahotauren-galakras"]=5,
+	["tahotauren-galakras"]=17,
 	["taîchi-pagle"]=4,
 	["taikwanchung-pagle"]=4,
 	["tailung-raden"]=7,
@@ -9466,7 +9464,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["tastyshotz-raden"]=3,
 	["tatís-pagle"]=21,
 	["taulastria-nazgrim"]=24,
-	["taurenmen-immerseus"]=5,
+	["taurenmen-immerseus"]=33,
 	["tauruz-lei-shen"]=25,
 	["taybird-raden"]=7,
 	["tbk-raden"]=16,
