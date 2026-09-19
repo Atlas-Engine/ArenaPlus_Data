@@ -42,7 +42,7 @@ local ns = ArenaPlusData
 -- source_item, so gems are stored as real item ids the client can draw and only
 -- the enchant text has to ship.
 --
--- Region us, 413 characters, 364 glyph names, read 2026-09-19 11:20 AM.
+-- Region us, 413 characters, 364 glyph names, read 2026-09-19 12:20 PM.
 ns.GLYPH_NAMES = ns.GLYPH_NAMES or {}
 
 for id, name in pairs({
@@ -418,43 +418,14 @@ for id, name in pairs({
 ns.TALENT_NAMES = ns.TALENT_NAMES or {}
 
 for id, name in pairs({
-	[605]="Dominate Mind",
-	[1463]="Incanter's Ward",
 	[5211]="Mighty Bash",
-	[11426]="Ice Barrier",
-	[11958]="Cold Snap",
-	[12043]="Presence of Mind",
-	[12292]="Bloodbath",
-	[12323]="Piercing Howl",
-	[29838]="Second Wind",
-	[44457]="Living Bomb",
-	[46924]="Bladestorm",
-	[55694]="Enraged Regeneration",
-	[102060]="Disrupting Shout",
 	[102280]="Displacer Beast",
 	[102351]="Cenarion Ward",
 	[102401]="Wild Charge",
-	[103826]="Juggernaut",
-	[103827]="Double Time",
 	[106737]="Force of Nature",
-	[107570]="Storm Bolt",
 	[108288]="Heart of the Wild",
-	[108839]="Ice Floes",
-	[108921]="Psyfiend",
-	[109142]="Twist of Fate",
-	[109186]="From Darkness, Comes Light",
-	[110744]="Divine Star",
-	[112833]="Spectral Guise",
-	[113724]="Ring of Frost",
-	[114003]="Invocation",
-	[114029]="Safeguard",
-	[114030]="Vigilance",
 	[114107]="Soul of the Forest",
-	[118000]="Dragon Roar",
-	[121536]="Angelic Feather",
-	[123040]="Mindbender",
 	[132469]="Typhoon",
-	[140468]="Flameglow",
 }) do ns.TALENT_NAMES[id] = name end
 
 -- Which talent a rank-spell belongs to, and how many ranks that talent has.

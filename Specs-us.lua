@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5162 characters, read 2026-09-19 11:59 AM.
+-- Region us, 5162 characters, read 2026-09-19 12:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6208,7 +6208,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["draculad-pagle"]=6,
 	["dragonzballs-pagle"]=25,
 	["drãkã-nazgrim"]=15,
-	["draknyel-galakras"]=10,
+	["draknyel-galakras"]=4,
 	["draùnz-pagle"]=4,
 	["drazzuh-pagle"]=17,
 	["drbojackal-pagle"]=9,
@@ -6289,7 +6289,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dvz-pagle"]=23,
 	["dweebz-pagle"]=22,
 	["dwells-raden"]=0,
-	["dwl-raden"]=5,
+	["dwl-raden"]=12,
 	["dyingwhale-pagle"]=3,
 	["Ðyst-pagle"]=11,
 	["dystopia-pagle"]=33,
@@ -7752,7 +7752,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["magician-arugal-au"]=1,
 	["magicsheep-pagle"]=2,
 	["magikanus-grobbulus"]=1,
-	["mãgnum-raden"]=25,
+	["mãgnum-raden"]=26,
 	["magnusz-nazgrim"]=7,
 	["maguuz-raden"]=3,
 	["mahshriv-galakras"]=1,
