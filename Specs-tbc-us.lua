@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9793 characters, read 2026-09-19 04:58 AM.
+-- Region tbc-us, 9793 characters, read 2026-09-19 05:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10953,7 +10953,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["camîlâ-nightslayer"]=2,
 	["cammac-nightslayer"]=11,
 	["cammancamman-dreamscythe"]=2,
-	["cammerdin-nightslayer"]=11,
+	["cammerdin-nightslayer"]=25,
 	["cammerpriest-nightslayer"]=1,
 	["camorra-nightslayer"]=1,
 	["camroon-dreamscythe"]=4,
@@ -11590,7 +11590,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["darthlegolas-nightslayer"]=2,
 	["darthmaal-nightslayer"]=2,
 	["darwìn-dreamscythe"]=7,
-	["dashing-nightslayer"]=7,
+	["dashing-nightslayer"]=3,
 	["dasiden-dreamscythe"]=2,
 	["dasishocks-dreamscythe"]=10,
 	["datgalbig-nightslayer"]=1,
@@ -12022,7 +12022,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["dro-nightslayer"]=2,
 	["dronefootage-nightslayer"]=5,
 	["droobae-nightslayer"]=19,
-	["dropbananas-dreamscythe"]=18,
+	["dropbananas-dreamscythe"]=2,
 	["droppin-nightslayer"]=13,
 	["droptotems-dreamscythe"]=19,
 	["dropwar-dreamscythe"]=2,
@@ -13327,7 +13327,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["hemolytic-nightslayer"]=13,
 	["hemoth-nightslayer"]=13,
 	["hemph-nightslayer"]=13,
-	["henessey-nightslayer"]=4,
+	["henessey-nightslayer"]=6,
 	["hennesseyx-nightslayer"]=22,
 	["hennydietc-nightslayer"]=10,
 	["hennypennyy-nightslayer"]=19,
@@ -14128,7 +14128,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["keap-dreamscythe"]=24,
 	["kebabwarrior-nightslayer"]=2,
 	["keddz-nightslayer"]=5,
-	["keefer-nightslayer"]=10,
+	["keefer-nightslayer"]=19,
 	["keefuwu-nightslayer"]=5,
 	["keegers-nightslayer"]=18,
 	["keegle-nightslayer"]=1,
@@ -14954,7 +14954,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["mdpt-nightslayer"]=23,
 	["mdromglolptr-nightslayer"]=7,
 	["mdrptdomglol-nightslayer"]=2,
-	["mdwe-nightslayer"]=7,
+	["mdwe-nightslayer"]=22,
 	["mea-nightslayer"]=2,
 	["meantom-nightslayer"]=2,
 	["meatcomputr-nightslayer"]=24,
@@ -18343,7 +18343,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["tomkazansky-nightslayer"]=4,
 	["tommi-nightslayer"]=23,
 	["tommycartel-nightslayer"]=22,
-	["tommyd-nightslayer"]=19,
+	["tommyd-nightslayer"]=10,
 	["tommytaunt-nightslayer"]=2,
 	["tommytopdam-nightslayer"]=2,
 	["tommytopgun-nightslayer"]=1,
