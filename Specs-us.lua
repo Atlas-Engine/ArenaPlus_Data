@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5163 characters, read 2026-09-19 01:59 AM.
+-- Region us, 5163 characters, read 2026-09-19 02:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4727,6 +4727,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["waynekritzky-raden"]=10,
 	["wb-galakras"]=10,
 	["weakergender-pagle"]=41,
+	["wealthycat-raden"]=41,
 	["wearefoals-raden"]=41,
 	["webeballin-pagle"]=50,
 	["wekker-pagle"]=10,
@@ -5576,7 +5577,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["brainlag-raden"]=3,
 	["brainsurgeon-raden"]=0,
 	["bramanmanman-grobbulus"]=15,
-	["brandoncle-galakras"]=16,
+	["brandoncle-galakras"]=2,
 	["brazzeal-pagle"]=16,
 	["brbcloning-pagle"]=17,
 	["brbsheeping-pagle"]=1,
@@ -6640,7 +6641,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["fuzzywaifu-lei-shen"]=10,
 	["fxd-arugal-au"]=5,
 	["gaarah-pagle"]=1,
-	["gaejustin-pagle"]=12,
+	["gaejustin-pagle"]=33,
 	["gaêl-lei-shen"]=18,
 	["gaethje-raden"]=0,
 	["gaiden-nazgrim"]=34,
@@ -9634,7 +9635,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["trancarua-nazgrim"]=26,
 	["trapaholic-raden"]=18,
 	["trapandcrit-pagle"]=3,
-	["trapbot-raden"]=3,
+	["trapbot-raden"]=20,
 	["trapfiendx-raden"]=18,
 	["traplauncher-pagle"]=3,
 	["trapreckly-raden"]=3,
@@ -9882,8 +9883,8 @@ ns.SPECS_BY_REGION["us"] = {
 	["waynekritzky-raden"]=20,
 	["wb-galakras"]=28,
 	["weakergender-pagle"]=21,
-	["wealthycat-raden"]=0,
-	["wearefoals-raden"]=5,
+	["wealthycat-raden"]=5,
+	["wearefoals-raden"]=17,
 	["webeballin-pagle"]=9,
 	["wekker-pagle"]=2,
 	["westjet-raden"]=7,
