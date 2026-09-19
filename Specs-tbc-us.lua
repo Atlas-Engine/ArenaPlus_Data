@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9754 characters, read 2026-09-19 02:58 PM.
+-- Region tbc-us, 9754 characters, read 2026-09-19 03:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11742,7 +11742,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["dinnoo-nightslayer"]=2,
 	["dinstir-nightslayer"]=3,
 	["dìp-dreamscythe"]=22,
-	["dipla-dreamscythe"]=8,
+	["dipla-dreamscythe"]=5,
 	["dipt-nightslayer"]=19,
 	["dirkz-nightslayer"]=5,
 	["dirts-nightslayer"]=12,
@@ -11754,7 +11754,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["dirtyplayd-nightslayer"]=22,
 	["dirtyplayr-nightslayer"]=22,
 	["dirtysoda-nightslayer"]=19,
-	["dirtysouf-nightslayer"]=5,
+	["dirtysouf-nightslayer"]=8,
 	["discdaddy-nightslayer"]=1,
 	["discdrive-nightslayer"]=1,
 	["discenjoyer-nightslayer"]=12,
@@ -12815,7 +12815,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["gawtchax-nightslayer"]=2,
 	["gaybiman-nightslayer"]=7,
 	["gayonhandz-nightslayer"]=9,
-	["gayve-nightslayer"]=8,
+	["gayve-nightslayer"]=5,
 	["gbox-dreamscythe"]=7,
 	["gcd-nightslayer"]=7,
 	["gde-nightslayer"]=0,
@@ -16579,7 +16579,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["rewrite-nightslayer"]=4,
 	["rexadilla-nightslayer"]=13,
 	["rexxrawrr-dreamscythe"]=15,
-	["reyoulolz-nightslayer"]=2,
+	["reyoulolz-nightslayer"]=20,
 	["reyyzz-nightslayer"]=2,
 	["rezlina-nightslayer"]=5,
 	["rezyth-nightslayer"]=19,
@@ -17448,7 +17448,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["smalljamal-dreamscythe"]=12,
 	["smallpipi-nightslayer"]=13,
 	["smallyop-dreamscythe"]=13,
-	["smarthorde-nightslayer"]=18,
+	["smarthorde-nightslayer"]=2,
 	["smashnextt-nightslayer"]=18,
 	["smaxor-nightslayer"]=2,
 	["smeal-nightslayer"]=5,
@@ -17927,7 +17927,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["swomper-nightslayer"]=10,
 	["swootzx-dreamscythe"]=1,
 	["swordful-nightslayer"]=11,
-	["swordseeker-dreamscythe"]=18,
+	["swordseeker-dreamscythe"]=2,
 	["swyftmend-nightslayer"]=7,
 	["sxdo-nightslayer"]=5,
 	["syl-nightslayer"]=5,
