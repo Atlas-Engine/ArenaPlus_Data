@@ -18,7 +18,7 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region eu, season 14, read 2026-09-19 03:00 AM.
+-- Region eu, season 14, read 2026-09-19 04:00 AM.
 -- Realm display names, because the ladder only carries slugs and no rule
 -- turns one back into the other: raden is Ra-den, lei-shen is Lei Shen and
 -- arugal-au is Arugal (AU). Read from Blizzard's realm index; a slug with no
@@ -35,9 +35,9 @@ ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["eu"] = {
 	region  = "eu",
-	checked = "2026-09-19 03:00 AM",
-	checkedEpoch = 1789801207,
-	snapshot = "2026-09-19 04:13",
+	checked = "2026-09-19 04:00 AM",
+	checkedEpoch = 1789804808,
+	snapshot = "2026-09-19 07:13",
 
 	[1] = {  -- 2v2, 5000 places, down to rating 1046 -- the API stops here, short of the cutoff
 		{ rank=1, name="Ay", realm="shekzeer", rating=2734, won=127, lost=3, faction="ALLIANCE", dr=0, dk=0 },
@@ -522,14 +522,14 @@ ns.LEADERBOARD_BY_REGION["eu"] = {
 		{ rank=479, name="Fthisgame", realm="ook-ook", rating=2199, won=157, lost=153, faction="ALLIANCE", dr=0, dk=0 },
 		{ rank=479, name="Thematsie", realm="shekzeer", rating=2199, won=217, lost=223, faction="ALLIANCE", dr=0, dk=0 },
 		{ rank=482, name="Filmar", realm="shekzeer", rating=2198, won=256, lost=210, faction="ALLIANCE", dr=0, dk=0 },
+		{ rank=483, name="Crystalsteal", realm="shekzeer", rating=2197, won=57, lost=34, faction="ALLIANCE", mr=2201, dr=3, dk=-7 },
 		{ rank=483, name="Pasnormal", realm="shekzeer", rating=2197, won=81, lost=61, faction="ALLIANCE", dr=0, dk=0 },
 		{ rank=483, name="Snøwy", realm="shekzeer", rating=2197, won=115, lost=81, faction="ALLIANCE", dr=0, dk=0 },
-		{ rank=485, name="Albaner", realm="ook-ook", rating=2196, won=114, lost=95, faction="ALLIANCE", dr=0, dk=0 },
-		{ rank=485, name="Ìmperius", realm="shekzeer", rating=2196, won=58, lost=33, faction="ALLIANCE", dr=0, dk=0 },
-		{ rank=485, name="Jebx", realm="shekzeer", rating=2196, won=61, lost=37, faction="ALLIANCE", dr=0, dk=0 },
-		{ rank=488, name="Ablaacissej", realm="shekzeer", rating=2195, won=54, lost=13, faction="ALLIANCE", dr=0, dk=0 },
-		{ rank=488, name="Tbax", realm="shekzeer", rating=2195, won=47, lost=43, faction="ALLIANCE", dr=0, dk=0 },
-		{ rank=490, name="Crystalsteal", realm="shekzeer", rating=2194, won=56, lost=34, faction="ALLIANCE", mr=2201, dr=0, dk=0 },
+		{ rank=486, name="Albaner", realm="ook-ook", rating=2196, won=114, lost=95, faction="ALLIANCE", dr=0, dk=1 },
+		{ rank=486, name="Ìmperius", realm="shekzeer", rating=2196, won=58, lost=33, faction="ALLIANCE", dr=0, dk=1 },
+		{ rank=486, name="Jebx", realm="shekzeer", rating=2196, won=61, lost=37, faction="ALLIANCE", dr=0, dk=1 },
+		{ rank=489, name="Ablaacissej", realm="shekzeer", rating=2195, won=54, lost=13, faction="ALLIANCE", dr=0, dk=1 },
+		{ rank=489, name="Tbax", realm="shekzeer", rating=2195, won=47, lost=43, faction="ALLIANCE", dr=0, dk=1 },
 		{ rank=491, name="Caerys", realm="auberdine", rating=2193, won=48, lost=34, faction="ALLIANCE", dr=0, dk=0 },
 		{ rank=491, name="Drainhunter", realm="shekzeer", rating=2193, won=86, lost=76, faction="ALLIANCE", dr=0, dk=0 },
 		{ rank=491, name="Fácemash", realm="shekzeer", rating=2193, won=79, lost=69, faction="ALLIANCE", dr=0, dk=0 },

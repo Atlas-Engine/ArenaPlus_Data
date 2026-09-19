@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 10420 characters, read 2026-09-19 02:59 AM.
+-- Region tbc-eu, 10420 characters, read 2026-09-19 03:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12502,7 +12502,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["djoub-spineshatter"]=4,
 	["djoubi-spineshatter"]=1,
 	["djpoof-spineshatter"]=17,
-	["djpoppz-spineshatter"]=3,
+	["djpoppz-spineshatter"]=19,
 	["djpoppzinna-spineshatter"]=1,
 	["djreaper-spineshatter"]=3,
 	["Ðjshockgødx-spineshatter"]=23,
@@ -13195,7 +13195,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["fattyjuicer-spineshatter"]=1,
 	["fattypodge-thunderstrike"]=1,
 	["fawzzrogue-spineshatter"]=3,
-	["faxe-spineshatter"]=7,
+	["faxe-spineshatter"]=26,
 	["faxefax-spineshatter"]=12,
 	["fäyde-spineshatter"]=10,
 	["fayu-spineshatter"]=7,
@@ -14816,7 +14816,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["kanbei-spineshatter"]=2,
 	["kändmålare-spineshatter"]=4,
 	["kantdestroyr-spineshatter"]=23,
-	["kantona-spineshatter"]=1,
+	["kantona-spineshatter"]=6,
 	["kanzhul-spineshatter"]=11,
 	["kaolbasa-thunderstrike"]=11,
 	["käp-spineshatter"]=15,
@@ -18471,7 +18471,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["siag-spineshatter"]=5,
 	["sibbos-spineshatter"]=11,
 	["siccus-spineshatter"]=9,
-	["sickfk-spineshatter"]=5,
+	["sickfk-spineshatter"]=15,
 	["sîcky-spineshatter"]=2,
 	["siconau-spineshatter"]=1,
 	["sidaeth-thunderstrike"]=10,
@@ -19414,7 +19414,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["thorendor-spineshatter"]=23,
 	["thorgini-spineshatter"]=12,
 	["thorinn-spineshatter"]=8,
-	["thorny-spineshatter"]=2,
+	["thorny-spineshatter"]=17,
 	["thorzo-spineshatter"]=3,
 	["thøs-spineshatter"]=5,
 	["thp-spineshatter"]=7,
@@ -19690,7 +19690,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["tutyfrutty-spineshatter"]=2,
 	["tuufwl-spineshatter"]=13,
 	["tuupsham-spineshatter"]=12,
-	["tuupsie-spineshatter"]=5,
+	["tuupsie-spineshatter"]=15,
 	["tuupson-spineshatter"]=5,
 	["tuupsy-spineshatter"]=7,
 	["tuupz-spineshatter"]=5,

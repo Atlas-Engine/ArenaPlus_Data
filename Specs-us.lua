@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5163 characters, read 2026-09-19 02:59 AM.
+-- Region us, 5163 characters, read 2026-09-19 03:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7872,8 +7872,8 @@ ns.SPECS_BY_REGION["us"] = {
 	["merckup-pagle"]=4,
 	["mercyx-raden"]=6,
 	["merkon-lei-shen"]=7,
-	["mesosilence-pagle"]=29,
-	["messey-lei-shen"]=28,
+	["mesosilence-pagle"]=14,
+	["messey-lei-shen"]=24,
 	["messigoat-nazgrim"]=10,
 	["mesv-pagle"]=1,
 	["metaclassin-raden"]=5,
@@ -8877,7 +8877,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["sarces-immerseus"]=13,
 	["saregore-raden"]=26,
 	["sàrëna-pagle"]=17,
-	["sarenity-raden"]=27,
+	["sarenity-raden"]=10,
 	["sasafras-pagle"]=5,
 	["sashastorm-pagle"]=24,
 	["sassybooty-galakras"]=10,
@@ -8900,7 +8900,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["sazzieu-raden"]=7,
 	["scarlen-pagle"]=1,
 	["scarybarnowl-grobbulus"]=17,
-	["scarykitty-raden"]=17,
+	["scarykitty-raden"]=5,
 	["scarymonster-raden"]=6,
 	["scattershotz-raden"]=3,
 	["scattrapwily-pagle"]=20,
