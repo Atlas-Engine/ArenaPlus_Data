@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5163 characters, read 2026-09-19 05:59 PM.
+-- Region us, 5163 characters, read 2026-09-19 06:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5957,7 +5957,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dankendwarf-pagle"]=22,
 	["dankenelf-pagle"]=5,
 	["dankenshroom-lei-shen"]=5,
-	["dankenstein-lei-shen"]=22,
+	["dankenstein-lei-shen"]=19,
 	["dankorbs-pagle"]=4,
 	["dankshots-lei-shen"]=3,
 	["dankumss-immerseus"]=16,
@@ -6944,7 +6944,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["hibashiba-galakras"]=20,
 	["hickery-arugal-au"]=14,
 	["hideandhunt-galakras"]=20,
-	["hifukface-raden"]=12,
+	["hifukface-raden"]=5,
 	["hifvckface-raden"]=10,
 	["highc-galakras"]=22,
 	["highç-galakras"]=27,
@@ -7430,7 +7430,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["killsontop-pagle"]=21,
 	["killstrike-immerseus"]=7,
 	["killzo-raden"]=18,
-	["kiluminati-pagle"]=4,
+	["kiluminati-pagle"]=10,
 	["kimiluv-raden"]=6,
 	["kìñgdëmøñ-pagle"]=16,
 	["kìngrøach-galakras"]=14,

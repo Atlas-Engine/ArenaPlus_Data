@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9758 characters, read 2026-09-19 05:58 PM.
+-- Region tbc-us, 9758 characters, read 2026-09-19 06:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9844,7 +9844,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["allcapz-nightslayer"]=2,
 	["allegheny-nightslayer"]=2,
 	["allemin-nightslayer"]=5,
-	["allenstout-nightslayer"]=15,
+	["allenstout-nightslayer"]=21,
 	["alles-nightslayer"]=10,
 	["allstarsocal-nightslayer"]=17,
 	["allstarxx-nightslayer"]=15,
@@ -9920,7 +9920,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["animalsong-nightslayer"]=15,
 	["animocity-nightslayer"]=7,
 	["animz-nightslayer"]=7,
-	["anirox-nightslayer"]=8,
+	["anirox-nightslayer"]=5,
 	["anitadrink-nightslayer"]=1,
 	["anjeer-nightslayer"]=8,
 	["anjurus-nightslayer"]=4,
@@ -11079,7 +11079,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["chieefkeef-nightslayer"]=2,
 	["chikeeta-nightslayer"]=2,
 	["chilibolt-dreamscythe"]=4,
-	["chilifries-nightslayer"]=2,
+	["chilifries-nightslayer"]=18,
 	["chillcosby-nightslayer"]=6,
 	["chilliheeler-nightslayer"]=1,
 	["chimechanga-nightslayer"]=1,
@@ -11402,7 +11402,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["crrøng-nightslayer"]=24,
 	["crumbey-nightslayer"]=2,
 	["crumbles-dreamscythe"]=1,
-	["crustiee-dreamscythe"]=16,
+	["crustiee-dreamscythe"]=13,
 	["crustygoose-nightslayer"]=1,
 	["cry-dreamscythe"]=2,
 	["cryptbreaker-nightslayer"]=16,
@@ -13292,7 +13292,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["henessey-nightslayer"]=6,
 	["hennesseyx-nightslayer"]=22,
 	["hennydietc-nightslayer"]=10,
-	["hennypennyy-nightslayer"]=19,
+	["hennypennyy-nightslayer"]=10,
 	["henra-nightslayer"]=4,
 	["henryfondle-nightslayer"]=24,
 	["hentaihen-nightslayer"]=1,
@@ -13502,7 +13502,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["hydrowarrior-nightslayer"]=2,
 	["hynix-nightslayer"]=5,
 	["hyperaktiv-nightslayer"]=5,
-	["hyperiion-nightslayer"]=15,
+	["hyperiion-nightslayer"]=17,
 	["hypertreephy-dreamscythe"]=3,
 	["hypna-dreamscythe"]=24,
 	["hypnòs-nightslayer"]=6,
@@ -14539,7 +14539,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["linenbandage-nightslayer"]=1,
 	["liniselia-dreamscythe"]=4,
 	["linlie-nightslayer"]=13,
-	["linorchid-nightslayer"]=3,
+	["linorchid-nightslayer"]=7,
 	["linshift-nightslayer"]=7,
 	["lion-nightslayer"]=5,
 	["lionette-dreamscythe"]=2,
@@ -17156,7 +17156,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["sheptide-dreamscythe"]=19,
 	["sherbetlemon-nightslayer"]=6,
 	["shesadude-nightslayer"]=18,
-	["shewbedobedo-nightslayer"]=5,
+	["shewbedobedo-nightslayer"]=8,
 	["shgain-nightslayer"]=19,
 	["shhimcasting-nightslayer"]=19,
 	["shialâbeouf-nightslayer"]=8,
