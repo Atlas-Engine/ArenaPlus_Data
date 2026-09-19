@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 10471 characters, read 2026-09-18 09:59 PM.
+-- Region tbc-eu, 10471 characters, read 2026-09-18 10:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -14365,7 +14365,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["illunya-spineshatter"]=5,
 	["illusham-spineshatter"]=12,
 	["illusioñ-thunderstrike"]=3,
-	["illusíons-thunderstrike"]=3,
+	["illusíons-thunderstrike"]=19,
 	["ilokc-spineshatter"]=2,
 	["ilovejade-spineshatter"]=3,
 	["ilovejenna-spineshatter"]=1,
@@ -14428,7 +14428,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["inntalee-spineshatter"]=6,
 	["inntoxx-spineshatter"]=2,
 	["inquis-spineshatter"]=3,
-	["inquislôl-spineshatter"]=19,
+	["inquislôl-spineshatter"]=3,
 	["insalva-spineshatter"]=11,
 	["insanebrain-spineshatter"]=9,
 	["inshayne-spineshatter"]=5,
@@ -19567,7 +19567,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["títytwister-spineshatter"]=12,
 	["tixana-thunderstrike"]=3,
 	["tjameh-thunderstrike"]=19,
-	["tjuranacke-spineshatter"]=1,
+	["tjuranacke-spineshatter"]=6,
 	["tjw-spineshatter"]=1,
 	["tjyna-spineshatter"]=11,
 	["tjynathree-spineshatter"]=11,
