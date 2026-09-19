@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5309 characters, read 2026-09-19 02:00 PM.
+-- Region eu, 5309 characters, read 2026-09-19 03:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6320,7 +6320,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Êlestê-shekzeer"]=15,
 	["elf-shekzeer"]=21,
 	["elfie-shekzeer"]=12,
-	["elfiee-shekzeer"]=24,
+	["elfiee-shekzeer"]=26,
 	["elgh-shekzeer"]=20,
 	["elghh-shekzeer"]=13,
 	["elgoogle-everlook"]=5,
@@ -6338,7 +6338,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["elumin-shekzeer"]=9,
 	["elunadris-shekzeer"]=3,
 	["elviá-hoptallus"]=14,
-	["emilur-shekzeer"]=1,
+	["emilur-shekzeer"]=18,
 	["emilyblunt-norushen"]=1,
 	["eminana-shekzeer"]=15,
 	["emmyrossum-shekzeer"]=3,
@@ -7443,7 +7443,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["levitate-everlook"]=9,
 	["levn-shekzeer"]=4,
 	["lexyka-shekzeer"]=6,
-	["leyna-shekzeer"]=28,
+	["leyna-shekzeer"]=23,
 	["lfhealonmain-shekzeer"]=9,
 	["liadrìn-garalon"]=5,
 	["liajin-shekzeer"]=11,

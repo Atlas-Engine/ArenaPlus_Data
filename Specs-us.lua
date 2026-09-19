@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5161 characters, read 2026-09-19 01:59 PM.
+-- Region us, 5161 characters, read 2026-09-19 02:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1837,7 +1837,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["haileyy-raden"]=11,
 	["hairarmpit-benediction"]=11,
 	["haircheck-raden"]=10,
-	["hairyarms-raden"]=41,
+	["hairyarms-raden"]=40,
 	["hakarn-galakras"]=20,
 	["hallowground-immerseus"]=101,
 	["häm-nazgrim"]=100,
@@ -5920,7 +5920,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["cutter-raden"]=3,
 	["cvex-raden"]=23,
 	["cvs-raden"]=21,
-	["cwpas-raden"]=31,
+	["cwpas-raden"]=1,
 	["cwpaslock-raden"]=24,
 	["cwpasx-raden"]=7,
 	["cybrooke-lei-shen"]=20,
@@ -5937,13 +5937,13 @@ ns.SPECS_BY_REGION["us"] = {
 	["daddybangz-raden"]=21,
 	["daddypompum-raden"]=5,
 	["daemz-pagle"]=16,
-	["daffykinz-pagle"]=24,
+	["daffykinz-pagle"]=28,
 	["daggertwist-raden"]=14,
 	["dahkkaun-pagle"]=20,
 	["dailou-grobbulus"]=7,
 	["daiyus-pagle"]=14,
 	["dákar-galakras"]=7,
-	["dakini-raden"]=18,
+	["dakini-raden"]=3,
 	["dakleh-pagle"]=10,
 	["damacus-raden"]=1,
 	["Ðamaia-pagle"]=7,
@@ -5984,7 +5984,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["darneljr-raden"]=1,
 	["darthdeath-pagle"]=23,
 	["darthmaos-nazgrim"]=16,
-	["dásh-nazgrim"]=2,
+	["dásh-nazgrim"]=16,
 	["datittycuz-galakras"]=20,
 	["daunit-raden"]=23,
 	["davebluntz-raden"]=2,
@@ -6942,7 +6942,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["hibashiba-galakras"]=20,
 	["hickery-arugal-au"]=14,
 	["hideandhunt-galakras"]=20,
-	["hifukface-raden"]=5,
+	["hifukface-raden"]=12,
 	["hifvckface-raden"]=10,
 	["highc-galakras"]=22,
 	["highç-galakras"]=27,
@@ -7816,7 +7816,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["matraxs-raden"]=34,
 	["mátrix-pagle"]=14,
 	["matthew-raden"]=21,
-	["mattylocks-raden"]=24,
+	["mattylocks-raden"]=28,
 	["mattymaage-raden"]=1,
 	["mattysp-raden"]=21,
 	["máuii-pagle"]=16,
