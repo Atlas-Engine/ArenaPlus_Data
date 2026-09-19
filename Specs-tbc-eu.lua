@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 10435 characters, read 2026-09-19 08:59 AM.
+-- Region tbc-eu, 10435 characters, read 2026-09-19 09:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -14504,12 +14504,12 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["jagjocke-spineshatter"]=12,
 	["jagtarden-spineshatter"]=13,
 	["jaguár-spineshatter"]=9,
-	["jahacica-spineshatter"]=7,
+	["jahacica-spineshatter"]=10,
 	["jahaz-spineshatter"]=5,
-	["jahïthber-spineshatter"]=5,
+	["jahïthber-spineshatter"]=15,
 	["jahra-spineshatter"]=5,
 	["jaimonji-spineshatter"]=8,
-	["jaizzobozo-spineshatter"]=3,
+	["jaizzobozo-spineshatter"]=19,
 	["jajoheli-spineshatter"]=13,
 	["jakal-spineshatter"]=5,
 	["jakken-spineshatter"]=2,
@@ -16830,7 +16830,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["odradek-thunderstrike"]=7,
 	["oelol-spineshatter"]=10,
 	["offline-thunderstrike"]=15,
-	["ogdulduras-spineshatter"]=4,
+	["ogdulduras-spineshatter"]=9,
 	["ogexz-spineshatter"]=3,
 	["ogformd-spineshatter"]=20,
 	["ogforms-spineshatter"]=20,
@@ -18351,7 +18351,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["shamarn-spineshatter"]=11,
 	["shamayces-thunderstrike"]=23,
 	["shamâzing-thunderstrike"]=11,
-	["shamcheez-thunderstrike"]=23,
+	["shamcheez-thunderstrike"]=11,
 	["shamencer-thunderstrike"]=11,
 	["shamlox-spineshatter"]=12,
 	["shamlôx-spineshatter"]=12,
@@ -19022,7 +19022,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["stiligwarr-spineshatter"]=5,
 	["stimulate-thunderstrike"]=5,
 	["stimulation-spineshatter"]=2,
-	["stinkschnidl-spineshatter"]=9,
+	["stinkschnidl-spineshatter"]=4,
 	["stiopa-thunderstrike"]=9,
 	["stivpinne-spineshatter"]=1,
 	["stmaria-spineshatter"]=2,
@@ -20005,7 +20005,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["viddls-spineshatter"]=11,
 	["videogamerx-spineshatter"]=3,
 	["vieonic-spineshatter"]=12,
-	["viesorsan-spineshatter"]=19,
+	["viesorsan-spineshatter"]=3,
 	["vifluux-spineshatter"]=9,
 	["viganon-spineshatter"]=5,
 	["viiksikeijo-spineshatter"]=13,
@@ -20513,7 +20513,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["yép-thunderstrike"]=3,
 	["yepho-spineshatter"]=6,
 	["yermeezylr-spineshatter"]=3,
-	["yermeezyy-spineshatter"]=15,
+	["yermeezyy-spineshatter"]=5,
 	["yessa-spineshatter"]=3,
 	["yestor-spineshatter"]=1,
 	["yezay-spineshatter"]=11,
