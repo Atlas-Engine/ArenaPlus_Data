@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5310 characters, read 2026-09-19 11:00 AM.
+-- Region eu, 5310 characters, read 2026-09-19 12:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3346,7 +3346,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["rnð-shekzeer"]=11,
 	["rndrx-everlook"]=51,
 	["rngbistrø-mirage-raceway"]=11,
-	["rngmonsterx-shekzeer"]=10,
+	["rngmonsterx-shekzeer"]=11,
 	["robikenzd-shekzeer"]=10,
 	["robinbobin-everlook"]=11,
 	["robinhoodx-auberdine"]=11,
@@ -6400,7 +6400,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["faithful-everlook"]=23,
 	["fakekickqt-everlook"]=5,
 	["fakenurse-shekzeer"]=9,
-	["fakepriest-shekzeer"]=17,
+	["fakepriest-shekzeer"]=28,
 	["fakesofke-shekzeer"]=6,
 	["fakeyøu-shekzeer"]=0,
 	["falkìne-auberdine"]=15,
@@ -8345,7 +8345,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["politician-shekzeer"]=26,
 	["polynesia-shekzeer"]=2,
 	["ponthuntxd-shekzeer"]=4,
-	["poofacee-shekzeer"]=14,
+	["poofacee-shekzeer"]=20,
 	["poohbear-shekzeer"]=13,
 	["pøøks-shekzeer"]=11,
 	["pooshooter-shekzeer"]=14,
