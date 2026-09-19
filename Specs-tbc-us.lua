@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9758 characters, read 2026-09-19 04:58 PM.
+-- Region tbc-us, 9758 characters, read 2026-09-19 05:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -13748,7 +13748,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["jahboy-dreamscythe"]=14,
 	["jahimjabbar-nightslayer"]=13,
 	["jahwa-dreamscythe"]=10,
-	["jainer-nightslayer"]=4,
+	["jainer-nightslayer"]=6,
 	["jâìro-nightslayer"]=2,
 	["jâîro-nightslayer"]=2,
 	["jajaidiota-nightslayer"]=13,
@@ -16724,12 +16724,12 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["rondop-nightslayer"]=1,
 	["rongoat-nightslayer"]=10,
 	["ronics-dreamscythe"]=10,
-	["ronicss-dreamscythe"]=10,
+	["ronicss-dreamscythe"]=19,
 	["rönin-nightslayer"]=2,
 	["ronniemexico-nightslayer"]=2,
 	["ronoc-nightslayer"]=5,
 	["rooftrellen-nightslayer"]=22,
-	["roofuzz-nightslayer"]=18,
+	["roofuzz-nightslayer"]=2,
 	["roosterblock-dreamscythe"]=4,
 	["ropzhéll-nightslayer"]=4,
 	["roquansmith-dreamscythe"]=7,
@@ -17155,7 +17155,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["shepdemption-dreamscythe"]=11,
 	["sheptide-dreamscythe"]=19,
 	["sherbetlemon-nightslayer"]=6,
-	["shesadude-nightslayer"]=2,
+	["shesadude-nightslayer"]=18,
 	["shewbedobedo-nightslayer"]=5,
 	["shgain-nightslayer"]=19,
 	["shhimcasting-nightslayer"]=19,
@@ -18023,7 +18023,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["tayswíft-nightslayer"]=1,
 	["tazërface-nightslayer"]=18,
 	["tbalc-nightslayer"]=1,
-	["tbcisawful-nightslayer"]=15,
+	["tbcisawful-nightslayer"]=17,
 	["tbcisdeadcya-nightslayer"]=15,
 	["tbcpremium-dreamscythe"]=14,
 	["tbcrival-nightslayer"]=13,
@@ -18220,7 +18220,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["timbaz-nightslayer"]=7,
 	["tîmeless-dreamscythe"]=4,
 	["timéless-nightslayer"]=14,
-	["timenoughfl-nightslayer"]=7,
+	["timenoughfl-nightslayer"]=22,
 	["timeonly-nightslayer"]=24,
 	["tímmi-nightslayer"]=11,
 	["tìmmi-nightslayer"]=11,
@@ -18631,7 +18631,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["varnigan-nightslayer"]=1,
 	["varrain-nightslayer"]=2,
 	["vauks-nightslayer"]=7,
-	["vav-nightslayer"]=8,
+	["vav-nightslayer"]=5,
 	["vaydah-nightslayer"]=16,
 	["vays-nightslayer"]=10,
 	["vazenborg-dreamscythe"]=5,

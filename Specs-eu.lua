@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5311 characters, read 2026-09-19 05:00 PM.
+-- Region eu, 5311 characters, read 2026-09-19 06:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -656,7 +656,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["buzzey-shekzeer"]=11,
 	["býàkùgan-shekzeer"]=11,
 	["cabalthewar-everlook"]=10,
-	["caerys-auberdine"]=41,
 	["Çaims-auberdine"]=31,
 	["caísy-garalon"]=51,
 	["calculated-norushen"]=80,
@@ -5749,7 +5748,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bumbelbegodx-shekzeer"]=14,
 	["bumbelbemonk-shekzeer"]=7,
 	["bumbeldruid-shekzeer"]=21,
-	["bumbelgnome-shekzeer"]=29,
+	["bumbelgnome-shekzeer"]=7,
 	["bumbelmonk-garalon"]=7,
 	["bumbelmonk-shekzeer"]=7,
 	["bumbelorc-garalon"]=7,
@@ -5765,10 +5764,10 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bùtcher-shekzeer"]=1,
 	["buttérfly-garalon"]=2,
 	["buxuna-shekzeer"]=21,
-	["buzzey-shekzeer"]=17,
+	["buzzey-shekzeer"]=28,
 	["býàkùgan-shekzeer"]=6,
 	["cabalthewar-everlook"]=1,
-	["caerys-auberdine"]=2,
+	["caerys-auberdine"]=0,
 	["Çaims-auberdine"]=16,
 	["caísy-garalon"]=9,
 	["calculated-norushen"]=10,
@@ -7826,7 +7825,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["monkedruid-shekzeer"]=3,
 	["monkerino-garalon"]=6,
 	["monkeyah-shekzeer"]=6,
-	["monkeys-shekzeer"]=7,
+	["monkeys-shekzeer"]=6,
 	["monkhere-mirage-raceway"]=6,
 	["monkloide-shekzeer"]=6,
 	["monkrus-shekzeer"]=6,

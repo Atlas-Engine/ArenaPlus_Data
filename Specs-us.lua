@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5163 characters, read 2026-09-19 04:59 PM.
+-- Region us, 5163 characters, read 2026-09-19 05:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5362,7 +5362,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["beijingdy-grobbulus"]=17,
 	["beijingms-grobbulus"]=13,
 	["beijingsa-grobbulus"]=19,
-	["beijingss-grobbulus"]=24,
+	["beijingss-grobbulus"]=28,
 	["beish-pagle"]=15,
 	["bektal-pagle"]=19,
 	["beladorit-pagle"]=24,
@@ -6035,7 +6035,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["degaüss-raden"]=16,
 	["dekk-raden"]=6,
 	["delané-raden"]=3,
-	["delaway-lei-shen"]=24,
+	["delaway-lei-shen"]=28,
 	["delgars-galakras"]=3,
 	["delude-arugal-au"]=1,
 	["delvina-raden"]=2,
@@ -6585,7 +6585,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["frankieboy-galakras"]=0,
 	["frankinator-raden"]=4,
 	["frasno-nazgrim"]=14,
-	["frawbinbowls-pagle"]=16,
+	["frawbinbowls-pagle"]=32,
 	["fraydk-arugal-au"]=6,
 	["freakshowx-raden"]=5,
 	["freakuency-pagle"]=23,
@@ -6644,7 +6644,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["gaisêric-pagle"]=7,
 	["galactus-arugal-au"]=1,
 	["galaxysbtw-raden"]=7,
-	["galekk-immerseus"]=4,
+	["galekk-immerseus"]=10,
 	["galey-galakras"]=23,
 	["galica-immerseus"]=30,
 	["gallagher-raden"]=1,
@@ -9073,7 +9073,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["sírchargé-lei-shen"]=7,
 	["sisterfista-raden"]=10,
 	["sitdog-pagle"]=29,
-	["sithtyshades-galakras"]=21,
+	["sithtyshades-galakras"]=9,
 	["síx-nazgrim"]=6,
 	["sixmonth-raden"]=4,
 	["sixpathsage-pagle"]=4,
@@ -10156,7 +10156,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["zoeyjean-pagle"]=1,
 	["zolve-lei-shen"]=20,
 	["zoodom-raden"]=2,
-	["zoohunter-raden"]=3,
+	["zoohunter-raden"]=20,
 	["zookin-benediction"]=5,
 	["zootmeister-raden"]=3,
 	["zopos-pagle"]=0,
