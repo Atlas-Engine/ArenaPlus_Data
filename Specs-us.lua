@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5161 characters, read 2026-09-19 03:59 PM.
+-- Region us, 5163 characters, read 2026-09-19 04:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -569,7 +569,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["bonwick-arugal-au"]=81,
 	["boofed-raden"]=11,
 	["booku-pagle"]=10,
-	["boomantics-pagle"]=40,
+	["boomantics-pagle"]=41,
 	["boomchicken-galakras"]=60,
 	["boomydo-raden"]=41,
 	["böön-pagle"]=50,
@@ -1236,6 +1236,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["drippyberry-pagle"]=40,
 	["drivêbyê-galakras"]=20,
 	["drizzla-pagle"]=51,
+	["drkelp-pagle"]=50,
 	["drlovee-benediction"]=11,
 	["drmundø-raden"]=40,
 	["dro-raden"]=10,
@@ -3777,7 +3778,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["säviôrself-lei-shen"]=11,
 	["savs-pagle"]=11,
 	["savsceo-pagle"]=11,
-	["saxagebites-pagle"]=41,
+	["saxagebites-pagle"]=80,
 	["saxagelee-pagle"]=10,
 	["saydar-raden"]=11,
 	["sazzieu-raden"]=10,
@@ -6235,6 +6236,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["drivêbyê-galakras"]=3,
 	["Ðrizko-raden"]=0,
 	["drizzla-pagle"]=14,
+	["drkelp-pagle"]=9,
 	["drlovee-benediction"]=2,
 	["drmundø-raden"]=9,
 	["dro-raden"]=23,
@@ -7016,6 +7018,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["hottedsheal-pagle"]=21,
 	["hottedss-pagle"]=5,
 	["hotty-pagle"]=12,
+	["howbowdah-pagle"]=0,
 	["howlertwo-pagle"]=25,
 	["howryaladdy-pagle"]=32,
 	["hperoxide-pagle"]=28,
@@ -7092,7 +7095,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ifaceroll-galakras"]=7,
 	["ifearyu-pagle"]=8,
 	["ifireinside-pagle"]=1,
-	["ifireman-raden"]=1,
+	["ifireman-raden"]=11,
 	["ifistu-galakras"]=4,
 	["igather-galakras"]=17,
 	["ihatemetoo-raden"]=0,
@@ -7341,7 +7344,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["kahnwild-pagle"]=5,
 	["kahta-raden"]=9,
 	["kaick-pagle"]=9,
-	["kaijoû-raden"]=10,
+	["kaijoû-raden"]=4,
 	["kaijoü-raden"]=3,
 	["kairixo-benediction"]=5,
 	["kalaikras-galakras"]=6,
@@ -10165,7 +10168,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ztrainlol-raden"]=16,
 	["ztrec-raden"]=17,
 	["zubuwar-pagle"]=7,
-	["zuggzugga-immerseus"]=30,
+	["zuggzugga-immerseus"]=7,
 	["zugman-raden"]=7,
 	["zugsmorc-raden"]=10,
 	["zugww-raden"]=10,
