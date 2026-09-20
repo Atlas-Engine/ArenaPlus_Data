@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5167 characters, read 2026-09-20 08:59 AM.
+-- Region us, 5167 characters, read 2026-09-20 09:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4743,7 +4743,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["whiskeyglass-atiesh"]=250,
 	["whiskii-galakras"]=50,
 	["whiskylock-raden"]=50,
-	["whîtë-arugal-au"]=41,
 	["whïtë-pagle"]=11,
 	["whitebøyrick-immerseus"]=50,
 	["whítéé-raden"]=10,
@@ -8341,7 +8340,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ouchmyloot-nazgrim"]=7,
 	["outplayedd-pagle"]=14,
 	["outsmart-raden"]=6,
-	["ouushii-raden"]=14,
+	["ouushii-raden"]=29,
 	["overatedpvp-raden"]=7,
 	["overclass-raden"]=7,
 	["overkilla-galakras"]=3,
@@ -8422,7 +8421,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["penguinxl-pagle"]=6,
 	["penhitter-pagle"]=7,
 	["penitential-raden"]=21,
-	["pennisrodman-pagle"]=22,
+	["pennisrodman-pagle"]=15,
 	["penpaly-galakras"]=16,
 	["pepsí-lei-shen"]=2,
 	["percosett-raden"]=7,
@@ -9904,7 +9903,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["whiskeyglass-atiesh"]=10,
 	["whiskii-galakras"]=11,
 	["whiskylock-raden"]=28,
-	["whîtë-arugal-au"]=9,
+	["whîtë-arugal-au"]=0,
 	["whïtë-pagle"]=2,
 	["whitebøyrick-immerseus"]=21,
 	["whítéé-raden"]=6,
