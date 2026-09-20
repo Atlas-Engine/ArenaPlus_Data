@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5164 characters, read 2026-09-20 10:59 AM.
+-- Region us, 5164 characters, read 2026-09-20 11:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6211,7 +6211,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["drãkã-nazgrim"]=15,
 	["draknyel-galakras"]=4,
 	["draùnz-pagle"]=4,
-	["drazzuh-pagle"]=17,
+	["drazzuh-pagle"]=5,
 	["drbojackal-pagle"]=9,
 	["drcrusher-galakras"]=9,
 	["dreadedshotz-raden"]=3,
@@ -6331,7 +6331,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["elania-pagle"]=9,
 	["elchjager-pagle"]=20,
 	["elcubano-raden"]=5,
-	["eldiablobbx-raden"]=14,
+	["eldiablobbx-raden"]=29,
 	["electabuzz-raden"]=3,
 	["electrikal-lei-shen"]=15,
 	["electroxx-galakras"]=27,
@@ -8543,7 +8543,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["psicoloca-pagle"]=9,
 	["psicoloco-pagle"]=7,
 	["psicopirata-nazgrim"]=19,
-	["psicotico-galakras"]=19,
+	["psicotico-galakras"]=15,
 	["psilocÿbin-pagle"]=5,
 	["pspspsps-galakras"]=5,
 	["psyced-galakras"]=24,

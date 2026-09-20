@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9748 characters, read 2026-09-20 10:58 AM.
+-- Region tbc-us, 9748 characters, read 2026-09-20 11:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10868,7 +10868,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["buttonz-dreamscythe"]=2,
 	["buttquake-dreamscythe"]=19,
 	["buttschtuff-dreamscythe"]=7,
-	["butud-nightslayer"]=1,
+	["butud-nightslayer"]=14,
 	["buumn-nightslayer"]=19,
 	["buxexa-nightslayer"]=1,
 	["buzzbuzz-nightslayer"]=1,
@@ -10976,7 +10976,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["cazaanos-nightslayer"]=4,
 	["cazsandra-dreamscythe"]=2,
 	["cazwyn-nightslayer"]=7,
-	["cazzi-nightslayer"]=14,
+	["cazzi-nightslayer"]=1,
 	["cbte-nightslayer"]=5,
 	["cbtz-nightslayer"]=2,
 	["cbúm-nightslayer"]=2,
@@ -13123,7 +13123,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["güth-nightslayer"]=5,
 	["gutsz-dreamscythe"]=2,
 	["guydiamond-nightslayer"]=7,
-	["gvcci-nightslayer"]=8,
+	["gvcci-nightslayer"]=5,
 	["gwall-nightslayer"]=2,
 	["gwedysseus-nightslayer"]=11,
 	["gwinny-dreamscythe"]=13,
@@ -17357,7 +17357,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["skörm-nightslayer"]=13,
 	["skoromilkers-nightslayer"]=22,
 	["skorop-nightslayer"]=14,
-	["skorototem-nightslayer"]=10,
+	["skorototem-nightslayer"]=19,
 	["skratchbless-nightslayer"]=9,
 	["skratchx-nightslayer"]=24,
 	["skreamism-nightslayer"]=1,
