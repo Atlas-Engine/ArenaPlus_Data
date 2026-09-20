@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5162 characters, read 2026-09-19 11:59 PM.
+-- Region us, 5162 characters, read 2026-09-20 01:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6643,7 +6643,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["gaisêric-pagle"]=7,
 	["galactus-arugal-au"]=1,
 	["galaxysbtw-raden"]=7,
-	["galekk-immerseus"]=10,
+	["galekk-immerseus"]=4,
 	["galey-galakras"]=23,
 	["galica-immerseus"]=30,
 	["gallagher-raden"]=1,
@@ -7322,7 +7322,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["juicedupd-pagle"]=5,
 	["juisyblight-galakras"]=6,
 	["juisytouch-galakras"]=4,
-	["jujubeanz-raden"]=3,
+	["jujubeanz-raden"]=20,
 	["juleran-pagle"]=8,
 	["julliian-pagle"]=25,
 	["jumpinropes-pagle"]=16,
@@ -7901,7 +7901,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["mikemonks-pagle"]=4,
 	["mikesangry-pagle"]=7,
 	["miku-galakras"]=0,
-	["milkwrecker-pagle"]=34,
+	["milkwrecker-pagle"]=29,
 	["míllicent-lei-shen"]=29,
 	["milox-nazgrim"]=7,
 	["mimö-raden"]=0,
@@ -8324,7 +8324,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ordanary-pagle"]=4,
 	["ordinary-galakras"]=5,
 	["orgian-pagle"]=5,
-	["orgimmar-raden"]=11,
+	["orgimmar-raden"]=1,
 	["originalgank-pagle"]=0,
 	["orkage-immerseus"]=4,
 	["ositgominola-nazgrim"]=4,
@@ -8595,7 +8595,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["rabidwolf-pagle"]=19,
 	["racket-pagle"]=14,
 	["radaggast-lei-shen"]=1,
-	["radendznuts-raden"]=22,
+	["radendznuts-raden"]=15,
 	["radix-raden"]=0,
 	["raelenaa-pagle"]=1,
 	["raenix-pagle"]=14,
@@ -9028,7 +9028,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["shocked-lei-shen"]=19,
 	["shockleone-pagle"]=15,
 	["shockoné-pagle"]=4,
-	["shocktopus-pagle"]=19,
+	["shocktopus-pagle"]=22,
 	["shøcktuah-raden"]=15,
 	["shòckwâve-galakras"]=22,
 	["shøckz-galakras"]=22,

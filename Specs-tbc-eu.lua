@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 10377 characters, read 2026-09-19 11:59 PM.
+-- Region tbc-eu, 10377 characters, read 2026-09-20 12:41 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10475,7 +10475,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["alatwist-spineshatter"]=12,
 	["albedowaifu-spineshatter"]=2,
 	["albi-spineshatter"]=9,
-	["alecbaldwins-spineshatter"]=19,
+	["alecbaldwins-spineshatter"]=3,
 	["alestorm-spineshatter"]=5,
 	["alexchama-spineshatter"]=3,
 	["alexmad-spineshatter"]=3,
@@ -13353,7 +13353,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["forseik-spineshatter"]=9,
 	["försvunnit-spineshatter"]=1,
 	["fortel-spineshatter"]=2,
-	["fortyna-spineshatter"]=9,
+	["fortyna-spineshatter"]=4,
 	["forzademon-spineshatter"]=2,
 	["forzamvpiks-spineshatter"]=3,
 	["forzaxd-spineshatter"]=11,
@@ -19002,7 +19002,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["sulgerino-spineshatter"]=2,
 	["sull-spineshatter"]=9,
 	["summerjam-spineshatter"]=25,
-	["sumwear-spineshatter"]=14,
+	["sumwear-spineshatter"]=13,
 	["sumyud-spineshatter"]=3,
 	["sunbather-thunderstrike"]=5,
 	["sundryx-spineshatter"]=2,
