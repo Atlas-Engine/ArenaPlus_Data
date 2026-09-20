@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 10377 characters, read 2026-09-20 01:59 AM.
+-- Region tbc-eu, 10377 characters, read 2026-09-20 02:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11877,7 +11877,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["coffeecold-spineshatter"]=4,
 	["coffeecup-spineshatter"]=2,
 	["coggers-spineshatter"]=2,
-	["coggersblast-spineshatter"]=4,
+	["coggersblast-spineshatter"]=9,
 	["coifcore-spineshatter"]=2,
 	["cokedietx-spineshatter"]=0,
 	["colazero-thunderstrike"]=3,
@@ -12084,7 +12084,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["dabèzd-spineshatter"]=8,
 	["dabuti-spineshatter"]=6,
 	["dackers-spineshatter"]=8,
-	["daddyamor-spineshatter"]=25,
+	["daddyamor-spineshatter"]=24,
 	["daddyitshim-spineshatter"]=9,
 	["daddyitshim-thunderstrike"]=9,
 	["daddyjoe-spineshatter"]=13,
@@ -13830,7 +13830,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["hanniko-spineshatter"]=3,
 	["hânsî-thunderstrike"]=11,
 	["hansiboss-spineshatter"]=11,
-	["hansoons-spineshatter"]=8,
+	["hansoons-spineshatter"]=2,
 	["hantzy-spineshatter"]=17,
 	["hanunik-spineshatter"]=5,
 	["hanzõ-spineshatter"]=3,
@@ -15052,7 +15052,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["kpopstar-spineshatter"]=5,
 	["kpvs-spineshatter"]=23,
 	["kqtwo-thunderstrike"]=1,
-	["kraanks-spineshatter"]=11,
+	["kraanks-spineshatter"]=12,
 	["krackelf-thunderstrike"]=7,
 	["kraftlos-spineshatter"]=5,
 	["kraftprotz-spineshatter"]=5,
@@ -18962,7 +18962,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["strobe-spineshatter"]=13,
 	["strongmind-spineshatter"]=3,
 	["strontlucht-spineshatter"]=5,
-	["stroud-spineshatter"]=5,
+	["stroud-spineshatter"]=15,
 	["strugz-spineshatter"]=3,
 	["stukawarrior-spineshatter"]=5,
 	["stungød-spineshatter"]=3,
@@ -19886,7 +19886,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["victoric-thunderstrike"]=3,
 	["vidapriest-spineshatter"]=8,
 	["viddls-spineshatter"]=11,
-	["videogamerx-spineshatter"]=3,
+	["videogamerx-spineshatter"]=19,
 	["vieonic-spineshatter"]=12,
 	["viesorsan-spineshatter"]=3,
 	["vifluux-spineshatter"]=9,
@@ -20135,7 +20135,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["witó-spineshatter"]=3,
 	["wittr-thunderstrike"]=9,
 	["wittrr-thunderstrike"]=9,
-	["wiwka-thunderstrike"]=9,
+	["wiwka-thunderstrike"]=4,
 	["wiza-spineshatter"]=2,
 	["wizbis-spineshatter"]=9,
 	["wiziam-spineshatter"]=1,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5163 characters, read 2026-09-20 01:59 AM.
+-- Region us, 5163 characters, read 2026-09-20 02:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7162,7 +7162,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["inperitus-arugal-au"]=15,
 	["insomniaxx-pagle"]=14,
 	["instantcarry-raden"]=10,
-	["integrityqt-pagle"]=21,
+	["integrityqt-pagle"]=13,
 	["intercepts-pagle"]=7,
 	["intrerri-pagle"]=34,
 	["intru-raden"]=3,
@@ -7204,7 +7204,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["jablinksi-immerseus"]=27,
 	["jabullsheeit-pagle"]=3,
 	["jabzul-galakras"]=3,
-	["jackelinc-pagle"]=18,
+	["jackelinc-pagle"]=20,
 	["jackietan-pagle"]=4,
 	["jackmorgan-pagle"]=16,
 	["jackxo-arugal-au"]=11,
@@ -7865,7 +7865,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["mercyx-raden"]=6,
 	["merkon-lei-shen"]=7,
 	["mesosilence-pagle"]=14,
-	["messey-lei-shen"]=24,
+	["messey-lei-shen"]=28,
 	["messigoat-nazgrim"]=10,
 	["mesv-pagle"]=1,
 	["metaclassin-raden"]=5,
@@ -7886,7 +7886,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["miataz-raden"]=6,
 	["miawci-galakras"]=5,
 	["michaaeell-pagle"]=6,
-	["míchaeldk-pagle"]=25,
+	["míchaeldk-pagle"]=26,
 	["mictlan-raden"]=1,
 	["midnîght-pagle"]=25,
 	["miekasa-lei-shen"]=16,
@@ -7894,7 +7894,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["migeneral-nazgrim"]=5,
 	["mightymagus-raden"]=1,
 	["migué-pagle"]=16,
-	["mihal-nazgrim"]=11,
+	["mihal-nazgrim"]=1,
 	["miichael-pagle"]=2,
 	["miintpwnagex-nazgrim"]=18,
 	["mikejan-raden"]=2,
