@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5165 characters, read 2026-09-20 02:59 PM.
+-- Region us, 5165 characters, read 2026-09-20 03:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5679,7 +5679,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["candity-arugal-au"]=3,
 	["candykanes-pagle"]=28,
 	["canera-galakras"]=10,
-	["canible-raden"]=1,
+	["canible-raden"]=31,
 	["cannabimorph-pagle"]=5,
 	["cannibirilla-pagle"]=7,
 	["canogapark-pagle"]=28,
@@ -5785,7 +5785,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["chuppie-pagle"]=2,
 	["chuuonu-benediction"]=33,
 	["chyse-pagle"]=1,
-	["ciapsyop-pagle"]=12,
+	["ciapsyop-pagle"]=5,
 	["cìel-pagle"]=10,
 	["cinch-lei-shen"]=3,
 	["citizentroll-immerseus"]=22,
@@ -6221,7 +6221,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["drellus-pagle"]=15,
 	["Ðressrøsa-immerseus"]=10,
 	["drewdipsy-pagle"]=7,
-	["drewleon-pagle"]=12,
+	["drewleon-pagle"]=5,
 	["drewwd-nazgrim"]=17,
 	["dreyad-pagle"]=5,
 	["dreyas-pagle"]=7,
@@ -6331,7 +6331,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["elcubano-raden"]=5,
 	["eldiablobbx-raden"]=29,
 	["electabuzz-raden"]=3,
-	["electrikal-lei-shen"]=15,
+	["electrikal-lei-shen"]=19,
 	["electroxx-galakras"]=27,
 	["elementoos-lei-shen"]=19,
 	["elfakiller-nazgrim"]=18,
@@ -9026,7 +9026,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["shocked-lei-shen"]=19,
 	["shockleone-pagle"]=15,
 	["shockoné-pagle"]=4,
-	["shocktopus-pagle"]=19,
+	["shocktopus-pagle"]=22,
 	["shøcktuah-raden"]=15,
 	["shòckwâve-galakras"]=22,
 	["shøckz-galakras"]=22,
@@ -10034,7 +10034,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ybats-grobbulus"]=24,
 	["yeardme-pagle"]=1,
 	["yecnay-galakras"]=7,
-	["yecum-galakras"]=21,
+	["yecum-galakras"]=9,
 	["yekcoh-pagle"]=29,
 	["yellowspwn-raden"]=21,
 	["yelly-pagle"]=20,
