@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9746 characters, read 2026-09-20 04:58 AM.
+-- Region tbc-us, 9746 characters, read 2026-09-20 05:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12176,7 +12176,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["elementruler-nightslayer"]=19,
 	["elemony-nightslayer"]=24,
 	["elendriea-dreamscythe"]=19,
-	["elenezz-nightslayer"]=24,
+	["elenezz-nightslayer"]=10,
 	["elernet-nightslayer"]=2,
 	["elesaar-dreamscythe"]=15,
 	["elfzero-nightslayer"]=11,
@@ -12674,7 +12674,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["freea-nightslayer"]=24,
 	["freecast-nightslayer"]=4,
 	["freegardy-nightslayer"]=1,
-	["freegucci-nightslayer"]=24,
+	["freegucci-nightslayer"]=10,
 	["freepfdx-nightslayer"]=13,
 	["freestyler-nightslayer"]=4,
 	["freewin-dreamscythe"]=5,
@@ -12756,7 +12756,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["gabry-nightslayer"]=2,
 	["gaea-nightslayer"]=3,
 	["gaealight-nightslayer"]=4,
-	["gaekpoong-nightslayer"]=19,
+	["gaekpoong-nightslayer"]=10,
 	["gaenari-nightslayer"]=1,
 	["gafboy-nightslayer"]=23,
 	["galactik-nightslayer"]=19,
@@ -16589,7 +16589,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["rhordo-dreamscythe"]=10,
 	["rhozlad-nightslayer"]=2,
 	["rhozlet-nightslayer"]=2,
-	["rhozy-nightslayer"]=9,
+	["rhozy-nightslayer"]=25,
 	["rhyjz-nightslayer"]=7,
 	["rhythmic-nightslayer"]=8,
 	["rhythmqt-dreamscythe"]=1,
@@ -16599,9 +16599,9 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["richardlolz-nightslayer"]=2,
 	["richardmillk-nightslayer"]=22,
 	["richardpig-nightslayer"]=10,
-	["richardrogue-dreamscythe"]=5,
+	["richardrogue-dreamscythe"]=8,
 	["richcaine-nightslayer"]=4,
-	["richiecaine-nightslayer"]=2,
+	["richiecaine-nightslayer"]=20,
 	["richiepz-nightslayer"]=1,
 	["richoffbtc-nightslayer"]=24,
 	["richoffeth-nightslayer"]=16,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5307 characters, read 2026-09-20 05:00 AM.
+-- Region eu, 5307 characters, read 2026-09-20 06:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5547,7 +5547,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bcacu-shekzeer"]=1,
 	["bdm-auberdine"]=15,
 	["bðring-shekzeer"]=9,
-	["bearburst-shekzeer"]=21,
+	["bearburst-shekzeer"]=32,
 	["bearia-shekzeer"]=4,
 	["beastmastr-everlook"]=4,
 	["bedanadin-hoptallus"]=5,
@@ -7217,7 +7217,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["kenhavefun-shekzeer"]=6,
 	["kenkofot-garalon"]=10,
 	["kennyk-garalon"]=18,
-	["kennyk-shekzeer"]=1,
+	["kennyk-shekzeer"]=18,
 	["kennykk-garalon"]=1,
 	["kennyykofot-garalon"]=34,
 	["kenoh-shekzeer"]=18,
@@ -7679,7 +7679,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["mdzzmonk-shekzeer"]=7,
 	["meatpyre-mirage-raceway"]=1,
 	["medbis-shekzeer"]=1,
-	["medhotup-shekzeer"]=21,
+	["medhotup-shekzeer"]=32,
 	["medtabletkka-shekzeer"]=3,
 	["mëdüsa-mirage-raceway"]=24,
 	["medvedbzxc-shekzeer"]=2,
@@ -9677,7 +9677,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["whereâreyûat-everlook"]=23,
 	["wheyx-shekzeer"]=12,
 	["wheyxthree-shekzeer"]=12,
-	["wheyxw-shekzeer"]=1,
+	["wheyxw-shekzeer"]=25,
 	["whipmepls-shekzeer"]=8,
 	["whisp-garalon"]=11,
 	["whoppa-shekzeer"]=1,
@@ -9762,7 +9762,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["xælthiar-everlook"]=9,
 	["xæthra-everlook"]=11,
 	["xakerone-mirage-raceway"]=4,
-	["xály-shekzeer"]=21,
+	["xály-shekzeer"]=32,
 	["xanæi-everlook"]=6,
 	["xanará-everlook"]=5,
 	["xánarâ-everlook"]=4,
@@ -10087,7 +10087,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Варсонгермс-flamegor"]=1,
 	["Варсонгерск-flamegor"]=19,
 	["Варсонгерх-flamegor"]=4,
-	["Варсонгуч-flamegor"]=21,
+	["Варсонгуч-flamegor"]=32,
 	["Веедмен-flamegor"]=33,
 	["Венсвей-flamegor"]=5,
 	["Вермишелька-flamegor"]=2,
@@ -10204,7 +10204,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Круглыйветер-flamegor"]=6,
 	["Ксурка-flamegor"]=5,
 	["Куникум-flamegor"]=2,
-	["Кусямба-flamegor"]=21,
+	["Кусямба-flamegor"]=32,
 	["Кхили-flamegor"]=13,
 	["Кэндифлос-flamegor"]=34,
 	["Кяото-flamegor"]=7,
