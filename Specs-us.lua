@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5167 characters, read 2026-09-20 07:59 AM.
+-- Region us, 5167 characters, read 2026-09-20 08:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1781,7 +1781,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["graysonkash-pagle"]=10,
 	["greaf-grobbulus"]=41,
 	["greafer-grobbulus"]=11,
-	["grêéñ-arugal-au"]=41,
 	["greenblud-nazgrim"]=10,
 	["grella-raden"]=11,
 	["grepes-pagle"]=21,
@@ -6800,7 +6799,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["graysonkash-pagle"]=20,
 	["greaf-grobbulus"]=5,
 	["greafer-grobbulus"]=6,
-	["grêéñ-arugal-au"]=4,
+	["grêéñ-arugal-au"]=0,
 	["greenblud-nazgrim"]=25,
 	["grella-raden"]=6,
 	["grepes-pagle"]=19,
@@ -6975,7 +6974,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["holtxd-raden"]=7,
 	["holyangelz-pagle"]=2,
 	["holycøcktail-raden"]=2,
-	["holyfender-pagle"]=16,
+	["holyfender-pagle"]=2,
 	["holyfkbubs-pagle"]=2,
 	["holyflamez-pagle"]=2,
 	["holyfluxq-pagle"]=9,
@@ -9305,7 +9304,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ßrøwñ-arugal-au"]=7,
 	["sßeve-lei-shen"]=3,
 	["ßulldøzer-pagle"]=16,
-	["ßxß-raden"]=4,
+	["ßxß-raden"]=10,
 	["ßylug-pagle"]=17,
 	["stabbath-raden"]=14,
 	["stábbý-pagle"]=29,

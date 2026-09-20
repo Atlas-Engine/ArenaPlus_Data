@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9751 characters, read 2026-09-20 07:58 AM.
+-- Region tbc-us, 9751 characters, read 2026-09-20 08:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10807,7 +10807,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bucketthead-nightslayer"]=8,
 	["buckme-dreamscythe"]=1,
 	["bucksnot-nightslayer"]=2,
-	["budamedame-nightslayer"]=23,
+	["budamedame-nightslayer"]=13,
 	["budamedameyo-nightslayer"]=1,
 	["budamk-nightslayer"]=2,
 	["buddydin-nightslayer"]=11,
@@ -10846,11 +10846,11 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["burnik-nightslayer"]=16,
 	["burnser-nightslayer"]=18,
 	["burnshady-nightslayer"]=5,
-	["burnswarr-dreamscythe"]=2,
+	["burnswarr-dreamscythe"]=18,
 	["burstíng-nightslayer"]=0,
 	["burts-nightslayer"]=2,
 	["burtstark-nightslayer"]=4,
-	["burzy-nightslayer"]=2,
+	["burzy-nightslayer"]=18,
 	["buschfury-nightslayer"]=19,
 	["buschlattez-nightslayer"]=4,
 	["bushdid-nightslayer"]=25,
@@ -13027,7 +13027,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["gòuki-nightslayer"]=2,
 	["goydric-nightslayer"]=9,
 	["gph-nightslayer"]=6,
-	["grabar-dreamscythe"]=5,
+	["grabar-dreamscythe"]=8,
 	["grãcexo-dreamscythe"]=0,
 	["grainbin-dreamscythe"]=9,
 	["grakun-dreamscythe"]=19,
@@ -13312,7 +13312,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["hidetatsu-nightslayer"]=4,
 	["hielo-nightslayer"]=0,
 	["higher-nightslayer"]=5,
-	["highqt-nightslayer"]=9,
+	["highqt-nightslayer"]=25,
 	["highqts-nightslayer"]=4,
 	["hightirl-nightslayer"]=19,
 	["highwire-nightslayer"]=13,
@@ -15012,7 +15012,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["microfelon-nightslayer"]=13,
 	["midam-nightslayer"]=4,
 	["midgetpigeon-nightslayer"]=2,
-	["midi-nightslayer"]=5,
+	["midi-nightslayer"]=8,
 	["midnightdru-nightslayer"]=7,
 	["mierko-nightslayer"]=5,
 	["miestylite-nightslayer"]=4,
@@ -16532,7 +16532,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["relyzjr-nightslayer"]=17,
 	["remiixx-dreamscythe"]=13,
 	["remyzero-nightslayer"]=10,
-	["renaisxance-nightslayer"]=1,
+	["renaisxance-nightslayer"]=14,
 	["rendbot-nightslayer"]=18,
 	["rended-nightslayer"]=24,
 	["rendezvoo-nightslayer"]=2,
