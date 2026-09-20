@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5161 characters, read 2026-09-19 07:59 PM.
+-- Region us, 5161 characters, read 2026-09-19 08:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3550,6 +3550,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["razorcut-pagle"]=81,
 	["razpuutin-pagle"]=260,
 	["räzz-raden"]=11,
+	["rdrus-raden"]=41,
 	["reactionz-pagle"]=10,
 	["realcute-raden"]=101,
 	["realugly-galakras"]=11,
@@ -6321,7 +6322,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["eidottnawi-pagle"]=18,
 	["eikou-pagle"]=2,
 	["eivi-lei-shen"]=14,
-	["eka-raden"]=18,
+	["eka-raden"]=20,
 	["eladriel-pagle"]=16,
 	["elalin-pagle"]=17,
 	["elania-pagle"]=9,
@@ -6938,7 +6939,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["hibashiba-galakras"]=20,
 	["hickery-arugal-au"]=14,
 	["hideandhunt-galakras"]=20,
-	["hifukface-raden"]=5,
+	["hifukface-raden"]=12,
 	["hifvckface-raden"]=10,
 	["highc-galakras"]=22,
 	["highç-galakras"]=27,
@@ -8602,7 +8603,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ragebäbe-raden"]=5,
 	["ragequitx-raden"]=7,
 	["ragesalot-lei-shen"]=7,
-	["raginape-raden"]=15,
+	["raginape-raden"]=22,
 	["raginggoat-lei-shen"]=7,
 	["ragnárok-raden"]=7,
 	["ragnorx-nazgrim"]=22,
@@ -8643,7 +8644,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["razorcut-pagle"]=12,
 	["razpuutin-pagle"]=27,
 	["räzz-raden"]=29,
-	["rdrus-raden"]=0,
+	["rdrus-raden"]=5,
 	["reactionz-pagle"]=25,
 	["realcute-raden"]=6,
 	["realugly-galakras"]=26,
@@ -9973,7 +9974,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["xarrstorm-immerseus"]=22,
 	["xarshadow-immerseus"]=24,
 	["xarstorm-immerseus"]=1,
-	["xatica-pagle"]=29,
+	["xatica-pagle"]=14,
 	["xatyka-pagle"]=1,
 	["xavilier-pagle"]=14,
 	["xb-galakras"]=10,

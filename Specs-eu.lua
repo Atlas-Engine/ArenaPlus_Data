@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5307 characters, read 2026-09-19 08:00 PM.
+-- Region eu, 5307 characters, read 2026-09-19 09:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5250,7 +5250,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["alepoudiaris-garalon"]=15,
 	["alexandereu-shekzeer"]=10,
 	["alfagr-garalon"]=4,
-	["alfajer-shekzeer"]=4,
+	["alfajer-shekzeer"]=14,
 	["algerian-shekzeer"]=4,
 	["algharib-everlook"]=8,
 	["alibumaye-everlook"]=0,
@@ -5392,7 +5392,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["asapmilly-garalon"]=6,
 	["ascaredman-shekzeer"]=8,
 	["ascenda-shekzeer"]=6,
-	["ascéndéd-shekzeer"]=19,
+	["ascéndéd-shekzeer"]=16,
 	["ascensus-shekzeer"]=6,
 	["ascezug-garalon"]=16,
 	["asdamp-garalon"]=1,
@@ -5691,7 +5691,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bossik-everlook"]=2,
 	["bõssnex-shekzeer"]=8,
 	["bosviool-shekzeer"]=3,
-	["boundless-norushen"]=10,
+	["boundless-norushen"]=2,
 	["bourinøss-auberdine"]=5,
 	["bowdown-shekzeer"]=0,
 	["bøwjøbë-mirage-raceway"]=4,
@@ -7818,7 +7818,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["monduk-auberdine"]=7,
 	["moneylong-shekzeer"]=17,
 	["mongoliamonk-hoptallus"]=13,
-	["mongue-garalon"]=12,
+	["mongue-garalon"]=9,
 	["monkasxd-everlook"]=6,
 	["monkasxd-ook-ook"]=6,
 	["monkatoz-shekzeer"]=7,
@@ -8043,7 +8043,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["nixtreffich-everlook"]=3,
 	["nizze-shekzeer"]=11,
 	["nktz-garalon"]=2,
-	["nme-hoptallus"]=2,
+	["nme-hoptallus"]=10,
 	["nnpriest-shekzeer"]=12,
 	["nobrazil-mirage-raceway"]=8,
 	["nocislife-everlook"]=11,
@@ -8575,7 +8575,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["ridahk-shekzeer"]=23,
 	["riemukupla-shekzeer"]=9,
 	["righthook-shekzeer"]=7,
-	["rihannaøwned-everlook"]=2,
+	["rihannaøwned-everlook"]=10,
 	["rikimaru-shekzeer"]=26,
 	["ripgødx-garalon"]=1,
 	["rippilon-auberdine"]=13,
@@ -8990,7 +8990,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["søtek-everlook"]=1,
 	["sotu-shekzeer"]=2,
 	["souljaboy-shekzeer"]=26,
-	["sovushka-shekzeer"]=11,
+	["sovushka-shekzeer"]=3,
 	["sowz-shekzeer"]=14,
 	["sòwz-shekzeer"]=5,
 	["sparâdräp-auberdine"]=22,
