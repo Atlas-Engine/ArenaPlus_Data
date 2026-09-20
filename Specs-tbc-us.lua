@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9748 characters, read 2026-09-20 11:58 AM.
+-- Region tbc-us, 9748 characters, read 2026-09-20 12:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10512,7 +10512,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["blackadam-nightslayer"]=10,
 	["blackberrys-nightslayer"]=7,
 	["blackchedda-nightslayer"]=16,
-	["blackcircle-nightslayer"]=6,
+	["blackcircle-nightslayer"]=4,
 	["blackcocoa-dreamscythe"]=11,
 	["blackcrows-nightslayer"]=1,
 	["blackdahila-nightslayer"]=2,
@@ -10769,7 +10769,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["brujablanca-nightslayer"]=13,
 	["brumx-nightslayer"]=6,
 	["brunsonburn-dreamscythe"]=1,
-	["bruss-nightslayer"]=2,
+	["bruss-nightslayer"]=18,
 	["brussw-nightslayer"]=2,
 	["brustifield-nightslayer"]=10,
 	["brutain-nightslayer"]=8,
@@ -10857,7 +10857,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bushdid-nightslayer"]=25,
 	["busitwide-nightslayer"]=4,
 	["busterschick-nightslayer"]=6,
-	["butexiron-nightslayer"]=2,
+	["butexiron-nightslayer"]=18,
 	["butir-nightslayer"]=19,
 	["butsp-nightslayer"]=0,
 	["buttbreath-nightslayer"]=1,
@@ -12466,7 +12466,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["fearwardgg-nightslayer"]=14,
 	["feathel-nightslayer"]=7,
 	["featherfeet-dreamscythe"]=1,
-	["featherfeet-nightslayer"]=16,
+	["featherfeet-nightslayer"]=13,
 	["fecklyy-dreamscythe"]=13,
 	["feeblemind-nightslayer"]=5,
 	["feesherr-nightslayer"]=14,
@@ -12610,7 +12610,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["floobytooby-nightslayer"]=19,
 	["floody-nightslayer"]=3,
 	["floofyz-dreamscythe"]=1,
-	["flooreo-dreamscythe"]=18,
+	["flooreo-dreamscythe"]=2,
 	["floowqt-nightslayer"]=4,
 	["floppydiscjr-nightslayer"]=7,
 	["floridaboi-nightslayer"]=5,
@@ -16485,7 +16485,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["redmaxx-dreamscythe"]=4,
 	["redneckwo-nightslayer"]=19,
 	["redpally-nightslayer"]=9,
-	["redqt-nightslayer"]=4,
+	["redqt-nightslayer"]=6,
 	["redram-nightslayer"]=10,
 	["redsouls-dreamscythe"]=1,
 	["redubbed-nightslayer"]=5,

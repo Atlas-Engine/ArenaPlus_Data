@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5164 characters, read 2026-09-20 11:59 AM.
+-- Region us, 5164 characters, read 2026-09-20 12:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4161,7 +4161,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["ßöömbrew-lei-shen"]=11,
 	["ßöömdk-lei-shen"]=11,
 	["ßöömjudge-lei-shen"]=11,
-	["ßrøwñ-arugal-au"]=11,
 	["sßeve-lei-shen"]=40,
 	["ßulldøzer-pagle"]=60,
 	["ßxß-raden"]=11,
@@ -6093,7 +6092,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["diddyjones-pagle"]=6,
 	["diddylee-raden"]=0,
 	["diddywave-pagle"]=4,
-	["diegonis-raden"]=16,
+	["diegonis-raden"]=2,
 	["dieinahole-galakras"]=7,
 	["diella-raden"]=9,
 	["diellza-raden"]=7,
@@ -6275,7 +6274,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dumdum-nazgrim"]=18,
 	["dúmß-raden"]=7,
 	["dúmßer-raden"]=16,
-	["dunardel-raden"]=30,
+	["dunardel-raden"]=7,
 	["dunkindotnut-raden"]=0,
 	["dunkyb-raden"]=1,
 	["dunsun-galakras"]=10,
@@ -8335,7 +8334,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ouchmyloot-nazgrim"]=7,
 	["outplayedd-pagle"]=14,
 	["outsmart-raden"]=6,
-	["ouushii-raden"]=29,
+	["ouushii-raden"]=14,
 	["overatedpvp-raden"]=7,
 	["overclass-raden"]=7,
 	["overkilla-galakras"]=3,
@@ -9295,7 +9294,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ßöömbrew-lei-shen"]=27,
 	["ßöömdk-lei-shen"]=6,
 	["ßöömjudge-lei-shen"]=16,
-	["ßrøwñ-arugal-au"]=7,
+	["ßrøwñ-arugal-au"]=0,
 	["sßeve-lei-shen"]=3,
 	["ßulldøzer-pagle"]=16,
 	["ßxß-raden"]=10,
