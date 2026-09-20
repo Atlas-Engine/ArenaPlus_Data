@@ -42,7 +42,7 @@ local ns = ArenaPlusData
 -- source_item, so gems are stored as real item ids the client can draw and only
 -- the enchant text has to ship.
 --
--- Region us, 414 characters, 365 glyph names, read 2026-09-20 01:20 PM.
+-- Region us, 414 characters, 365 glyph names, read 2026-09-20 02:20 PM.
 ns.GLYPH_NAMES = ns.GLYPH_NAMES or {}
 
 for id, name in pairs({
@@ -419,62 +419,13 @@ for id, name in pairs({
 ns.TALENT_NAMES = ns.TALENT_NAMES or {}
 
 for id, name in pairs({
-	[99]="Disorienting Roar",
-	[605]="Dominate Mind",
-	[5211]="Mighty Bash",
-	[10060]="Power Infusion",
-	[29838]="Second Wind",
 	[30283]="Shadowfury",
-	[64129]="Body and Soul",
-	[74001]="Combat Readiness",
-	[79008]="Elusiveness",
-	[102280]="Displacer Beast",
-	[102351]="Cenarion Ward",
-	[102359]="Mass Entanglement",
-	[102793]="Ursol's Vortex",
-	[103827]="Double Time",
-	[106731]="Incarnation",
-	[106737]="Force of Nature",
-	[107566]="Staggering Shout",
-	[107574]="Avatar",
-	[108208]="Subterfuge",
-	[108210]="Nerve Strike",
-	[108212]="Burst of Speed",
-	[108215]="Paralytic Poison",
-	[108288]="Heart of the Wild",
 	[108359]="Dark Regeneration",
 	[108503]="Grimoire of Sacrifice",
 	[108505]="Archimonde's Darkness",
-	[108920]="Void Tendrils",
-	[108921]="Psyfiend",
-	[108945]="Angelic Bulwark",
-	[109142]="Twist of Fate",
-	[109175]="Divine Insight",
-	[109186]="From Darkness, Comes Light",
-	[110744]="Divine Star",
 	[110913]="Dark Bargain",
 	[111397]="Blood Horror",
-	[112833]="Spectral Guise",
-	[114029]="Safeguard",
-	[114107]="Soul of the Forest",
-	[115098]="Chi Wave",
-	[115399]="Chi Brew",
-	[116841]="Tiger's Lust",
-	[116847]="Rushing Jade Wind",
-	[118000]="Dragon Roar",
-	[119381]="Leg Sweep",
-	[120517]="Halo",
-	[121135]="Cascade",
-	[121536]="Angelic Feather",
-	[122278]="Dampen Harm",
-	[122280]="Healing Elixirs",
-	[123040]="Mindbender",
-	[123904]="Invoke Xuen, the White Tiger",
-	[131511]="Prey on the Weak",
-	[132469]="Typhoon",
 	[137587]="Kil'jaeden's Cunning",
-	[137619]="Marked for Death",
-	[145108]="Ysera's Gift",
 }) do ns.TALENT_NAMES[id] = name end
 
 -- Which talent a rank-spell belongs to, and how many ranks that talent has.

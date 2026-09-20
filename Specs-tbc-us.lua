@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9746 characters, read 2026-09-20 01:58 PM.
+-- Region tbc-us, 9746 characters, read 2026-09-20 02:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10580,7 +10580,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bluedandan-nightslayer"]=6,
 	["bluedollar-nightslayer"]=5,
 	["blueesclues-dreamscythe"]=15,
-	["bluenano-nightslayer"]=2,
+	["bluenano-nightslayer"]=18,
 	["bluerangea-nightslayer"]=24,
 	["bluescum-nightslayer"]=4,
 	["bluespy-nightslayer"]=4,
@@ -10723,11 +10723,11 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bravehearrt-nightslayer"]=9,
 	["brawls-nightslayer"]=5,
 	["braxxy-nightslayer"]=2,
-	["brdr-dreamscythe"]=8,
+	["brdr-dreamscythe"]=5,
 	["break-nightslayer"]=2,
 	["breakin-nightslayer"]=24,
 	["breakthemeta-nightslayer"]=9,
-	["breathë-nightslayer"]=2,
+	["breathë-nightslayer"]=18,
 	["breckieisbae-nightslayer"]=4,
 	["brenzo-dreamscythe"]=2,
 	["brewi-nightslayer"]=3,
@@ -12737,7 +12737,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["furgotten-nightslayer"]=4,
 	["furiah-nightslayer"]=7,
 	["furioustrike-dreamscythe"]=10,
-	["furiousxz-nightslayer"]=5,
+	["furiousxz-nightslayer"]=8,
 	["furizzles-dreamscythe"]=7,
 	["furlicious-nightslayer"]=3,
 	["furynips-nightslayer"]=2,
@@ -12822,7 +12822,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["geenox-nightslayer"]=6,
 	["geenoxx-nightslayer"]=6,
 	["geforcee-nightslayer"]=2,
-	["gegee-nightslayer"]=20,
+	["gegee-nightslayer"]=2,
 	["geh-nightslayer"]=15,
 	["gemcat-nightslayer"]=7,
 	["gemnz-nightslayer"]=2,
@@ -16077,7 +16077,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["plasticsurgn-nightslayer"]=9,
 	["plastictoo-dreamscythe"]=5,
 	["platelets-nightslayer"]=2,
-	["platinumamex-nightslayer"]=22,
+	["platinumamex-nightslayer"]=7,
 	["playgrounds-nightslayer"]=18,
 	["playhardx-nightslayer"]=2,
 	["playtimex-dreamscythe"]=5,
@@ -18065,7 +18065,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["thanksagains-nightslayer"]=2,
 	["thanksmate-dreamscythe"]=5,
 	["thatchdruid-dreamscythe"]=7,
-	["thatdruid-nightslayer"]=3,
+	["thatdruid-nightslayer"]=7,
 	["thatwaytwin-dreamscythe"]=1,
 	["thawar-nightslayer"]=13,
 	["thayssadru-dreamscythe"]=7,
@@ -18730,7 +18730,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["volboura-nightslayer"]=3,
 	["voldang-dreamscythe"]=6,
 	["voleibalada-nightslayer"]=2,
-	["voleizinha-nightslayer"]=12,
+	["voleizinha-nightslayer"]=1,
 	["voljintina-nightslayer"]=19,
 	["voljintini-nightslayer"]=19,
 	["volmir-nightslayer"]=9,

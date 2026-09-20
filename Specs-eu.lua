@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5308 characters, read 2026-09-20 02:00 PM.
+-- Region eu, 5308 characters, read 2026-09-20 03:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2532,7 +2532,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["mezcladito-shekzeer"]=30,
 	["mhealkà-auberdine"]=101,
 	["mhyaazz-hoptallus"]=11,
-	["micayahr-everlook"]=11,
+	["micayahr-everlook"]=10,
 	["michaell-shekzeer"]=10,
 	["michaelo-norushen"]=20,
 	["miczaczlak-norushen"]=101,
@@ -5526,7 +5526,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["barackokarma-shekzeer"]=0,
 	["barbarian-shekzeer"]=1,
 	["barbarianx-shekzeer"]=1,
-	["barilas-norushen"]=28,
+	["barilas-norushen"]=17,
 	["barkwinde-shekzeer"]=24,
 	["bassboosted-auberdine"]=6,
 	["bastion-gehennas"]=0,
@@ -6139,7 +6139,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["discopanda-norushen"]=6,
 	["discoprälle-shekzeer"]=9,
 	["discovery-shekzeer"]=7,
-	["diskotrisko-norushen"]=12,
+	["diskotrisko-norushen"]=9,
 	["dispelz-shekzeer"]=9,
 	["disperse-mirage-raceway"]=9,
 	["distørdëx-shekzeer"]=9,
@@ -8337,7 +8337,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["plåýßøt-shekzeer"]=7,
 	["plïnki-auberdine"]=8,
 	["plmbeachpete-shekzeer"]=7,
-	["plushfire-everlook"]=23,
+	["plushfire-everlook"]=17,
 	["plushy-shekzeer"]=2,
 	["pm-shekzeer"]=8,
 	["poalala-shekzeer"]=16,
@@ -8985,7 +8985,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["sorcery-shekzeer"]=15,
 	["sørex-shekzeer"]=26,
 	["sortilex-auberdine"]=2,
-	["sosoczka-shekzeer"]=25,
+	["sosoczka-shekzeer"]=1,
 	["sosoo-shekzeer"]=3,
 	["søtek-everlook"]=1,
 	["sottolano-shekzeer"]=1,
