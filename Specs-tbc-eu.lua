@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 10377 characters, read 2026-09-20 12:41 AM.
+-- Region tbc-eu, 10377 characters, read 2026-09-20 01:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11539,7 +11539,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["burstik-spineshatter"]=11,
 	["burstmanyo-spineshatter"]=10,
 	["burstyao-spineshatter"]=11,
-	["buryza-thunderstrike"]=25,
+	["buryza-thunderstrike"]=16,
 	["busa-spineshatter"]=5,
 	["bushleague-spineshatter"]=3,
 	["bushlord-spineshatter"]=3,
@@ -12092,7 +12092,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["daden-spineshatter"]=2,
 	["dadincoffin-thunderstrike"]=9,
 	["daemonxz-spineshatter"]=0,
-	["daerniss-spineshatter"]=2,
+	["daerniss-spineshatter"]=8,
 	["daeryc-spineshatter"]=7,
 	["dafuk-spineshatter"]=9,
 	["dafunk-spineshatter"]=5,
@@ -13853,7 +13853,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["hárp-thunderstrike"]=24,
 	["harrionx-spineshatter"]=5,
 	["harrydôtter-spineshatter"]=13,
-	["harrygerpo-spineshatter"]=13,
+	["harrygerpo-spineshatter"]=18,
 	["harryhoudini-spineshatter"]=5,
 	["harrypottert-thunderstrike"]=9,
 	["hartvik-spineshatter"]=5,
@@ -17245,7 +17245,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["prayer-spineshatter"]=2,
 	["prayforng-spineshatter"]=7,
 	["prayforya-spineshatter"]=2,
-	["praysx-spineshatter"]=19,
+	["praysx-spineshatter"]=3,
 	["praytwo-spineshatter"]=12,
 	["prea-spineshatter"]=2,
 	["prealock-spineshatter"]=13,
@@ -18020,7 +18020,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["sänsho-spineshatter"]=1,
 	["sante-spineshatter"]=7,
 	["säntoryu-spineshatter"]=5,
-	["santtuhehe-spineshatter"]=9,
+	["santtuhehe-spineshatter"]=4,
 	["sanuk-spineshatter"]=2,
 	["saowa-spineshatter"]=1,
 	["sap-spineshatter"]=19,
@@ -19886,7 +19886,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["victoric-thunderstrike"]=3,
 	["vidapriest-spineshatter"]=8,
 	["viddls-spineshatter"]=11,
-	["videogamerx-spineshatter"]=19,
+	["videogamerx-spineshatter"]=3,
 	["vieonic-spineshatter"]=12,
 	["viesorsan-spineshatter"]=3,
 	["vifluux-spineshatter"]=9,
