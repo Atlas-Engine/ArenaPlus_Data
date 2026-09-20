@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5164 characters, read 2026-09-20 12:59 PM.
+-- Region us, 5165 characters, read 2026-09-20 01:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1900,7 +1900,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["hellshót-galakras"]=20,
 	["hellshott-galakras"]=20,
 	["hellskreem-galakras"]=20,
-	["helphelppls-pagle"]=11,
+	["helphelppls-pagle"]=10,
 	["helvyra-pagle"]=41,
 	["helynnis-pagle"]=11,
 	["henneko-raden"]=10,
@@ -4154,8 +4154,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["ßlakee-grobbulus"]=11,
 	["ßløømtoðèàth-raden"]=11,
 	["ßløømtøðèàth-raden"]=41,
-	["ßlûé-arugal-au"]=30,
-	["ßlûè-arugal-au"]=11,
 	["ßluekey-pagle"]=81,
 	["ßoogie-pagle"]=81,
 	["ßöömbrew-lei-shen"]=11,
@@ -4925,6 +4923,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["zacoite-nazgrim"]=21,
 	["zaddeus-raden"]=111,
 	["zaddykinz-pagle"]=10,
+	["zagham-raden"]=10,
 	["zahboomafoo-pagle"]=10,
 	["zakaru-bloodsail-buccaneers"]=11,
 	["zakirra-lei-shen"]=11,
@@ -6920,7 +6919,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["hellshót-galakras"]=3,
 	["hellshott-galakras"]=3,
 	["hellskreem-galakras"]=22,
-	["helphelppls-pagle"]=11,
+	["helphelppls-pagle"]=1,
 	["helvyra-pagle"]=21,
 	["helynnis-pagle"]=3,
 	["henneko-raden"]=7,
@@ -7160,7 +7159,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["inperitus-arugal-au"]=15,
 	["insomniaxx-pagle"]=14,
 	["instantcarry-raden"]=10,
-	["integrityqt-pagle"]=9,
+	["integrityqt-pagle"]=21,
 	["intercepts-pagle"]=7,
 	["intrerri-pagle"]=34,
 	["intru-raden"]=3,
@@ -9287,8 +9286,8 @@ ns.SPECS_BY_REGION["us"] = {
 	["ßlakee-grobbulus"]=2,
 	["ßløømtoðèàth-raden"]=2,
 	["ßløømtøðèàth-raden"]=5,
-	["ßlûé-arugal-au"]=15,
-	["ßlûè-arugal-au"]=1,
+	["ßlûé-arugal-au"]=0,
+	["ßlûè-arugal-au"]=0,
 	["ßluekey-pagle"]=21,
 	["ßoogie-pagle"]=21,
 	["ßöömbrew-lei-shen"]=27,
@@ -10087,6 +10086,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["zacoite-nazgrim"]=23,
 	["zaddeus-raden"]=22,
 	["zaddykinz-pagle"]=7,
+	["zagham-raden"]=7,
 	["zahboomafoo-pagle"]=1,
 	["zakaru-bloodsail-buccaneers"]=16,
 	["zakirra-lei-shen"]=16,

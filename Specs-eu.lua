@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5308 characters, read 2026-09-20 01:00 PM.
+-- Region eu, 5308 characters, read 2026-09-20 02:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3418,7 +3418,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["rxsebøy-auberdine"]=11,
 	["rýdøthâðwlx-everlook"]=41,
 	["rydothedk-everlook"]=11,
-	["rýdøthègøátx-everlook"]=111,
+	["rýdøthègøátx-everlook"]=110,
 	["rydotheholy-everlook"]=10,
 	["rydothemage-everlook"]=11,
 	["rydothemonk-everlook"]=11,
@@ -6321,7 +6321,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Êlestê-shekzeer"]=15,
 	["elf-shekzeer"]=21,
 	["elfie-shekzeer"]=12,
-	["elfiee-shekzeer"]=26,
+	["elfiee-shekzeer"]=24,
 	["elgh-shekzeer"]=20,
 	["elghh-shekzeer"]=13,
 	["elgoogle-everlook"]=5,
@@ -8251,7 +8251,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["pasnormal-shekzeer"]=9,
 	["pasuhi-shekzeer"]=7,
 	["pät-ook-ook"]=25,
-	["pathétïc-shekzeer"]=10,
+	["pathétïc-shekzeer"]=2,
 	["patronas-shekzeer"]=3,
 	["patrondefqon-mirage-raceway"]=19,
 	["pattong-hoptallus"]=34,
@@ -8724,7 +8724,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["satineta-shekzeer"]=34,
 	["satisfiedpri-shekzeer"]=9,
 	["saunabeer-gehennas"]=0,
-	["saúro-garalon"]=2,
+	["saúro-garalon"]=27,
 	["saveny-everlook"]=2,
 	["savexx-shekzeer"]=2,
 	["savocid-shekzeer"]=5,
@@ -10361,7 +10361,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Теонн-flamegor"]=26,
 	["Тильтасен-flamegor"]=32,
 	["Тимадеус-flamegor"]=13,
-	["Тираэлиз-flamegor"]=10,
+	["Тираэлиз-flamegor"]=2,
 	["Тириошх-flamegor"]=8,
 	["Тмоперао-flamegor"]=18,
 	["Тнэш-flamegor"]=1,
