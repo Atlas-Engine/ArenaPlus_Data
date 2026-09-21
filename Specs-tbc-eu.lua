@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 10353 characters, read 2026-09-21 02:56 AM.
+-- Region tbc-eu, 10353 characters, read 2026-09-21 03:54 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11655,9 +11655,9 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["cezy-spineshatter"]=2,
 	["chaals-spineshatter"]=1,
 	["chaalx-spineshatter"]=2,
-	["chacar-thunderstrike"]=11,
+	["chacar-thunderstrike"]=23,
 	["chacaron-thunderstrike"]=2,
-	["chacarona-spineshatter"]=23,
+	["chacarona-spineshatter"]=11,
 	["chacarona-thunderstrike"]=2,
 	["chacayoyo-thunderstrike"]=5,
 	["chachasmooth-thunderstrike"]=6,
@@ -14734,7 +14734,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["karolxgodx-spineshatter"]=25,
 	["karoups-spineshatter"]=3,
 	["karstentorb-spineshatter"]=2,
-	["karthx-spineshatter"]=22,
+	["karthx-spineshatter"]=15,
 	["karuzo-spineshatter"]=2,
 	["kasajohna-thunderstrike"]=3,
 	["kasjopea-spineshatter"]=2,
@@ -19265,7 +19265,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["thenøtorious-spineshatter"]=2,
 	["theodoreicke-spineshatter"]=8,
 	["theoilman-spineshatter"]=3,
-	["theory-thunderstrike"]=2,
+	["theory-thunderstrike"]=17,
 	["theprince-spineshatter"]=9,
 	["thequalizer-spineshatter"]=4,
 	["therealcuk-spineshatter"]=7,

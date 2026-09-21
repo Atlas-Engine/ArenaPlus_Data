@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5166 characters, read 2026-09-21 02:59 AM.
+-- Region us, 5166 characters, read 2026-09-21 03:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7092,7 +7092,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ifaceroll-galakras"]=7,
 	["ifearyu-pagle"]=8,
 	["ifireinside-pagle"]=1,
-	["ifireman-raden"]=11,
+	["ifireman-raden"]=1,
 	["ifistu-galakras"]=4,
 	["igather-galakras"]=17,
 	["igziluhraet-pagle"]=34,
@@ -7160,7 +7160,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["inperitus-arugal-au"]=15,
 	["insomniaxx-pagle"]=14,
 	["instantcarry-raden"]=10,
-	["integrityqt-pagle"]=13,
+	["integrityqt-pagle"]=21,
 	["intercepts-pagle"]=7,
 	["intrerri-pagle"]=34,
 	["intru-raden"]=3,
@@ -7237,7 +7237,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["jealusmuch-arugal-au"]=0,
 	["jedicowie-pagle"]=13,
 	["jeewwjitsu-raden"]=10,
-	["jeffatality-nazgrim"]=27,
+	["jeffatality-nazgrim"]=10,
 	["jeffrence-pagle"]=16,
 	["jefmago-raden"]=11,
 	["jellierolls-pagle"]=4,
@@ -9240,7 +9240,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["spiffymonk-nazgrim"]=10,
 	["spiftdk-pagle"]=6,
 	["spiftf-pagle"]=1,
-	["spifth-grobbulus"]=20,
+	["spifth-grobbulus"]=3,
 	["spiftm-grobbulus"]=10,
 	["spiftp-pagle"]=16,
 	["spiftr-pagle"]=14,
@@ -9627,7 +9627,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["trancarua-nazgrim"]=26,
 	["trapaholic-raden"]=3,
 	["trapandcrit-pagle"]=3,
-	["trapbot-raden"]=20,
+	["trapbot-raden"]=3,
 	["trapfiendx-raden"]=18,
 	["traplauncher-pagle"]=3,
 	["trapreckly-raden"]=3,

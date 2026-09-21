@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5308 characters, read 2026-09-21 03:00 AM.
+-- Region eu, 5308 characters, read 2026-09-21 04:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7287,7 +7287,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["kmymonk-shekzeer"]=6,
 	["knaifulady-shekzeer"]=9,
 	["knifemare-shekzeer"]=24,
-	["knouckouds-auberdine"]=8,
+	["knouckouds-auberdine"]=31,
 	["knxwn-shekzeer"]=0,
 	["kobieciarz-shekzeer"]=5,
 	["kobra-shekzeer"]=24,
@@ -7570,7 +7570,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["mactor-hoptallus"]=1,
 	["macuni-shekzeer"]=1,
 	["madfridge-shekzeer"]=2,
-	["madlore-shekzeer"]=25,
+	["madlore-shekzeer"]=1,
 	["madmyke-shekzeer"]=1,
 	["madsgirgas-shekzeer"]=15,
 	["maedic-shekzeer"]=5,
@@ -7974,7 +7974,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["nérílía-everlook"]=5,
 	["nervis-shekzeer"]=7,
 	["nerviz-shekzeer"]=8,
-	["netrinkuet-shekzeer"]=10,
+	["netrinkuet-shekzeer"]=2,
 	["nëtz-shekzeer"]=15,
 	["neuromaniac-shekzeer"]=1,
 	["nëverblind-shekzeer"]=26,
@@ -8783,7 +8783,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["sergiokatana-shekzeer"]=26,
 	["serras-mirage-raceway"]=7,
 	["sëvën-shekzeer"]=9,
-	["severins-norushen"]=11,
+	["severins-norushen"]=21,
 	["shaâl-auberdine"]=11,
 	["shaddor-ook-ook"]=1,
 	["shadoff-shekzeer"]=12,
