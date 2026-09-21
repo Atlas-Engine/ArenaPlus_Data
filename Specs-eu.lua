@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5308 characters, read 2026-09-21 12:00 AM.
+-- Region eu, 5308 characters, read 2026-09-21 01:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3036,7 +3036,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["pattong-hoptallus"]=51,
 	["pátulják-shekzeer"]=30,
 	["pauliewalnut-shekzeer"]=10,
-	["pawngik-mirage-raceway"]=31,
+	["pawngik-mirage-raceway"]=30,
 	["päwnstars-auberdine"]=41,
 	["paxyba-hoptallus"]=10,
 	["pazuzu-norushen"]=50,
@@ -7491,7 +7491,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["liusu-shekzeer"]=3,
 	["livanà-everlook"]=12,
 	["lkkrwiepen-shekzeer"]=6,
-	["llorona-garalon"]=20,
+	["llorona-garalon"]=14,
 	["loadcum-shekzeer"]=13,
 	["lockdjävul-mirage-raceway"]=23,
 	["lockdownqt-everlook"]=23,
@@ -8313,7 +8313,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["pikemi-shekzeer"]=6,
 	["pikemw-shekzeer"]=6,
 	["pikqz-auberdine"]=3,
-	["pillarhumpa-shekzeer"]=16,
+	["pillarhumpa-shekzeer"]=13,
 	["pînetatante-shekzeer"]=17,
 	["pingfade-shekzeer"]=12,
 	["pipelayer-shekzeer"]=24,
