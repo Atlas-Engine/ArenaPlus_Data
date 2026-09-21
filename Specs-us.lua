@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5166 characters, read 2026-09-21 03:59 AM.
+-- Region us, 5166 characters, read 2026-09-21 04:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5473,7 +5473,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["blazco-raden"]=9,
 	["blazedboii-pagle"]=18,
 	["blazingchi-arugal-au"]=4,
-	["bleeko-immerseus"]=17,
+	["bleeko-immerseus"]=5,
 	["blickkyyx-pagle"]=18,
 	["blicko-pagle"]=2,
 	["blindedlight-raden"]=2,
@@ -5864,7 +5864,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["cozeno-pagle"]=17,
 	["cpc-raden"]=14,
 	["cptfauk-pagle"]=24,
-	["cptoomerica-pagle"]=16,
+	["cptoomerica-pagle"]=2,
 	["cptstabbin-pagle"]=14,
 	["crabrangoon-galakras"]=2,
 	["cradlemebro-raden"]=7,
@@ -6116,7 +6116,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dirtydiaperz-pagle"]=10,
 	["dirtyshizbit-galakras"]=18,
 	["dirtysoap-raden"]=20,
-	["discborn-pagle"]=21,
+	["discborn-pagle"]=13,
 	["dischealzz-raden"]=21,
 	["discodancer-raden"]=4,
 	["discuits-raden"]=0,
@@ -9679,7 +9679,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["tsukawashime-raden"]=4,
 	["tsunadè-nazgrim"]=9,
 	["ttawdirg-pagle"]=20,
-	["tubalcain-galakras"]=19,
+	["tubalcain-galakras"]=15,
 	["tukko-raden"]=14,
 	["tuladepiedra-pagle"]=7,
 	["tuptuptup-raden"]=25,
