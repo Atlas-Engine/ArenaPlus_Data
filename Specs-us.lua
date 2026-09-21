@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5165 characters, read 2026-09-21 04:59 PM.
+-- Region us, 5165 characters, read 2026-09-21 05:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5570,7 +5570,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["brainlag-raden"]=3,
 	["brainsurgeon-raden"]=0,
 	["bramanmanman-grobbulus"]=15,
-	["brandoncle-galakras"]=2,
+	["brandoncle-galakras"]=16,
 	["brazzeal-pagle"]=16,
 	["brbcloning-pagle"]=17,
 	["brbsheeping-pagle"]=1,
@@ -7970,7 +7970,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["moneymay-pagle"]=14,
 	["moniboo-pagle"]=12,
 	["monimoves-raden"]=24,
-	["monjeqt-raden"]=27,
+	["monjeqt-raden"]=4,
 	["monkeypee-pagle"]=10,
 	["monkeypee-raden"]=4,
 	["monkeypoó-pagle"]=4,
@@ -9191,7 +9191,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["sockemboper-pagle"]=16,
 	["södah-raden"]=5,
 	["sofeorr-pagle"]=3,
-	["sofí-pagle"]=4,
+	["sofí-pagle"]=10,
 	["solaarflare-pagle"]=7,
 	["solarshield-raden"]=9,
 	["solartide-pagle"]=19,
