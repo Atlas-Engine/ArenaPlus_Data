@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 10358 characters, read 2026-09-21 05:59 AM.
+-- Region tbc-eu, 10358 characters, read 2026-09-21 06:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11468,7 +11468,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["bruydekouil-spineshatter"]=11,
 	["brysõn-spineshatter"]=12,
 	["bsabbath-spineshatter"]=20,
-	["btotem-spineshatter"]=12,
+	["btotem-spineshatter"]=11,
 	["bü-thunderstrike"]=5,
 	["bubbledispel-spineshatter"]=17,
 	["bubblefastdw-spineshatter"]=10,
@@ -11640,7 +11640,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["ceiol-spineshatter"]=7,
 	["cekckot-spineshatter"]=6,
 	["ceku-spineshatter"]=3,
-	["celeb-spineshatter"]=5,
+	["celeb-spineshatter"]=22,
 	["cellador-thunderstrike"]=1,
 	["cellyo-spineshatter"]=3,
 	["celmydeluxe-spineshatter"]=8,
@@ -12135,7 +12135,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["darisa-spineshatter"]=9,
 	["darise-thunderstrike"]=3,
 	["darkavenge-spineshatter"]=19,
-	["darkbetrayed-thunderstrike"]=5,
+	["darkbetrayed-thunderstrike"]=15,
 	["darkbone-spineshatter"]=2,
 	["darkbuster-spineshatter"]=13,
 	["darkexpertxx-spineshatter"]=19,
@@ -17213,7 +17213,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["ppwrlck-spineshatter"]=18,
 	["praayx-spineshatter"]=3,
 	["prasica-spineshatter"]=1,
-	["prästhämtarn-spineshatter"]=17,
+	["prästhämtarn-spineshatter"]=2,
 	["prästx-spineshatter"]=2,
 	["pray-spineshatter"]=11,
 	["prayer-spineshatter"]=2,
@@ -19490,7 +19490,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["trianz-spineshatter"]=9,
 	["trickbetrug-spineshatter"]=3,
 	["tricksix-thunderstrike"]=3,
-	["trickyo-spineshatter"]=19,
+	["trickyo-spineshatter"]=3,
 	["trickypaul-spineshatter"]=13,
 	["tridushka-spineshatter"]=3,
 	["trigger-spineshatter"]=2,
