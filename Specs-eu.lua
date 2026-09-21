@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5312 characters, read 2026-09-21 04:00 PM.
+-- Region eu, 5312 characters, read 2026-09-21 05:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3700,6 +3700,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["smxa-shekzeer"]=11,
 	["snairip-shekzeer"]=41,
 	["snakerogue-shekzeer"]=11,
+	["snaredog-shekzeer"]=11,
 	["sneakxz-shekzeer"]=11,
 	["sneatz-garalon"]=21,
 	["sneijz-shekzeer"]=10,
@@ -7521,7 +7522,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["lorry-shekzeer"]=1,
 	["loseandicba-ook-ook"]=20,
 	["lostpinky-shekzeer"]=0,
-	["lotengoio-shekzeer"]=29,
+	["lotengoio-shekzeer"]=7,
 	["lotvein-hoptallus"]=26,
 	["loty-shekzeer"]=1,
 	["louikrypton-shekzeer"]=1,
@@ -8175,7 +8176,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["ongbak-shekzeer"]=6,
 	["onlydamage-hoptallus"]=2,
 	["onlyfox-ook-ook"]=4,
-	["onlyhuman-shekzeer"]=17,
+	["onlyhuman-shekzeer"]=23,
 	["onlyspikes-shekzeer"]=12,
 	["onlyswaps-shekzeer"]=17,
 	["Ønlyswaps-shekzeer"]=17,
@@ -8953,7 +8954,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["smxa-shekzeer"]=24,
 	["snairip-shekzeer"]=21,
 	["snakerogue-shekzeer"]=24,
-	["snaredog-shekzeer"]=0,
+	["snaredog-shekzeer"]=2,
 	["sneakxz-shekzeer"]=24,
 	["sneatz-garalon"]=1,
 	["sneijz-shekzeer"]=1,
@@ -9642,7 +9643,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["waix-shekzeer"]=10,
 	["walkerr-hoptallus"]=15,
 	["wãlter-shekzeer"]=9,
-	["warcrimes-shekzeer"]=1,
+	["warcrimes-shekzeer"]=25,
 	["wardz-mirage-raceway"]=2,
 	["wardz-shekzeer"]=2,
 	["warning-shekzeer"]=1,
@@ -10017,7 +10018,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Аззон-flamegor"]=15,
 	["Азуо-flamegor"]=15,
 	["Азьезмь-flamegor"]=3,
-	["Аймиар-flamegor"]=25,
+	["Аймиар-flamegor"]=1,
 	["Айрбет-flamegor"]=10,
 	["Айсстори-flamegor"]=2,
 	["Аквамелиз-flamegor"]=2,
@@ -10086,7 +10087,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Вагаса-flamegor"]=15,
 	["Вагонетка-flamegor"]=15,
 	["Вадябэниекс-flamegor"]=6,
-	["Вандеркаст-flamegor"]=10,
+	["Вандеркаст-flamegor"]=2,
 	["Ванилко-flamegor"]=5,
 	["Ваняплетка-flamegor"]=8,
 	["Варбрис-flamegor"]=25,
