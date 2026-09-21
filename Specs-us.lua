@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5166 characters, read 2026-09-21 01:59 AM.
+-- Region us, 5166 characters, read 2026-09-21 02:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2122,7 +2122,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["infurryator-raden"]=40,
 	["initis-raden"]=10,
 	["injury-pagle"]=10,
-	["inkárri-arugal-au"]=11,
+	["inkárri-arugal-au"]=10,
 	["inmortalwar-raden"]=11,
 	["innerdemon-lei-shen"]=111,
 	["innoofirgize-raden"]=40,
@@ -5117,7 +5117,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["alloceñ-pagle"]=6,
 	["alloria-arugal-au"]=9,
 	["allric-raden"]=12,
-	["allsmk-pagle"]=34,
+	["allsmk-pagle"]=29,
 	["alswaron-immerseus"]=7,
 	["altec-nazgrim"]=7,
 	["altertime-raden"]=1,
@@ -5788,7 +5788,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["chuppie-pagle"]=2,
 	["chuuonu-benediction"]=33,
 	["chyse-pagle"]=1,
-	["ciapsyop-pagle"]=5,
+	["ciapsyop-pagle"]=12,
 	["cìel-pagle"]=10,
 	["cinch-lei-shen"]=3,
 	["citizentroll-immerseus"]=22,
@@ -6885,7 +6885,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["hatehord-pagle"]=18,
 	["havitýx-raden"]=0,
 	["hãzel-pagle"]=17,
-	["hazi-galakras"]=3,
+	["hazi-galakras"]=20,
 	["hazí-pagle"]=1,
 	["hazzerrdd-pagle"]=6,
 	["hdz-arugal-au"]=0,
@@ -7152,7 +7152,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["infurryator-raden"]=12,
 	["initis-raden"]=7,
 	["injury-pagle"]=7,
-	["inkárri-arugal-au"]=4,
+	["inkárri-arugal-au"]=10,
 	["inmortalwar-raden"]=7,
 	["innerdemon-lei-shen"]=19,
 	["innoofirgize-raden"]=5,
@@ -7929,7 +7929,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["missrollings-pagle"]=10,
 	["misstotem-pagle"]=15,
 	["missyu-immerseus"]=23,
-	["mistafistuh-pagle"]=4,
+	["mistafistuh-pagle"]=10,
 	["mistnme-pagle"]=0,
 	["mistortea-pagle"]=4,
 	["mistwalk-pagle"]=0,
