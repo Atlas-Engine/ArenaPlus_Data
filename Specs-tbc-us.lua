@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9756 characters, read 2026-09-21 07:58 AM.
+-- Region tbc-us, 9756 characters, read 2026-09-21 08:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12038,7 +12038,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["druudix-nightslayer"]=7,
 	["druumbi-dreamscythe"]=7,
 	["druwidynn-nightslayer"]=10,
-	["drwareheim-nightslayer"]=10,
+	["drwareheim-nightslayer"]=19,
 	["dry-nightslayer"]=7,
 	["dspt-nightslayer"]=1,
 	["dsquarias-nightslayer"]=5,
@@ -12593,7 +12593,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["flammy-nightslayer"]=19,
 	["flanfreezes-dreamscythe"]=4,
 	["flapnuts-nightslayer"]=13,
-	["flapnutz-nightslayer"]=22,
+	["flapnutz-nightslayer"]=7,
 	["flashheal-nightslayer"]=13,
 	["flashtko-nightslayer"]=7,
 	["flavatown-nightslayer"]=7,
@@ -15378,7 +15378,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["naturalhigh-nightslayer"]=7,
 	["natureboywoo-nightslayer"]=10,
 	["naturegodx-nightslayer"]=7,
-	["natwar-nightslayer"]=18,
+	["natwar-nightslayer"]=2,
 	["naughtydr-nightslayer"]=1,
 	["naughtyword-dreamscythe"]=19,
 	["naüseate-nightslayer"]=12,
@@ -19449,7 +19449,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["zynrelapse-nightslayer"]=13,
 	["zynwithin-nightslayer"]=13,
 	["zynxx-nightslayer"]=14,
-	["zyzzbruhx-nightslayer"]=22,
+	["zyzzbruhx-nightslayer"]=7,
 	["zyzzup-nightslayer"]=2,
 	["zzc-nightslayer"]=2,
 	["zzie-nightslayer"]=11,

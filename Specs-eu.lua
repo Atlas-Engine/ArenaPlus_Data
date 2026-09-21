@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5309 characters, read 2026-09-21 08:00 AM.
+-- Region eu, 5309 characters, read 2026-09-21 09:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2029,7 +2029,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["katkota-shekzeer"]=11,
 	["kâto-shekzeer"]=10,
 	["katoshi-garalon"]=50,
-	["katoyui-garalon"]=11,
+	["katoyui-garalon"]=21,
 	["kattmedklør-shekzeer"]=40,
 	["kavabangax-shekzeer"]=11,
 	["kawai-shekzeer"]=11,
@@ -7103,7 +7103,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["jonathon-mirage-raceway"]=1,
 	["jønky-shekzeer"]=9,
 	["jonsnow-mirage-raceway"]=32,
-	["jontrian-hoptallus"]=8,
+	["jontrian-hoptallus"]=33,
 	["jooko-hoptallus"]=23,
 	["jorislecon-auberdine"]=5,
 	["jornironside-shekzeer"]=8,
@@ -7229,7 +7229,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["kepsy-garalon"]=5,
 	["kepsyx-shekzeer"]=21,
 	["kerber-mirage-raceway"]=23,
-	["kermane-mirage-raceway"]=26,
+	["kermane-mirage-raceway"]=24,
 	["kêrolina-shekzeer"]=3,
 	["keskia-auberdine"]=5,
 	["ketagenießer-everlook"]=16,
