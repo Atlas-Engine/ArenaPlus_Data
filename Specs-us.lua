@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5166 characters, read 2026-09-20 07:59 PM.
+-- Region us, 5166 characters, read 2026-09-20 08:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5139,7 +5139,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["anakkrakatoa-nazgrim"]=11,
 	["anaksol-pagle"]=11,
 	["analayla-lei-shen"]=0,
-	["anariita-nazgrim"]=20,
+	["anariita-nazgrim"]=3,
 	["anastari-pagle"]=1,
 	["anastasiah-raden"]=24,
 	["anastasiahh-raden"]=21,
@@ -5626,7 +5626,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["bubbleøsevèn-immerseus"]=2,
 	["bubblespeced-raden"]=2,
 	["bubbleßöò-pagle"]=2,
-	["buckup-pagle"]=3,
+	["buckup-pagle"]=18,
 	["buckyfive-pagle"]=28,
 	["buckyfivee-pagle"]=28,
 	["budabaiano-pagle"]=4,
@@ -7537,7 +7537,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["latitifit-nazgrim"]=10,
 	["lavablob-pagle"]=15,
 	["laveauu-pagle"]=3,
-	["lawlurdead-raden"]=34,
+	["lawlurdead-raden"]=29,
 	["lawydruid-pagle"]=5,
 	["laydatpipe-lei-shen"]=12,
 	["layenda-lei-shen"]=16,
@@ -7705,7 +7705,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["lumantho-pagle"]=7,
 	["lumanwarx-pagle"]=7,
 	["lumapal-pagle"]=16,
-	["luminarìa-pagle"]=16,
+	["luminarìa-pagle"]=2,
 	["lumineth-pagle"]=9,
 	["lunishamtwo-raden"]=0,
 	["lusts-raden"]=10,
