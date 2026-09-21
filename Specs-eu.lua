@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5309 characters, read 2026-09-21 11:00 AM.
+-- Region eu, 5309 characters, read 2026-09-21 12:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2037,7 +2037,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["kaworu-auberdine"]=11,
 	["kayzee-ook-ook"]=11,
 	["kazakhstani-shekzeer"]=11,
-	["kazemí-everlook"]=11,
+	["kazemí-everlook"]=10,
 	["kazui-shekzeer"]=11,
 	["kbxdk-shekzeer"]=11,
 	["keaganator-mirage-raceway"]=11,
@@ -6746,7 +6746,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["hasuni-shekzeer"]=9,
 	["hasunimi-hoptallus"]=31,
 	["haudruff-mirage-raceway"]=1,
-	["hauq-shekzeer"]=6,
+	["hauq-shekzeer"]=7,
 	["havana-ook-ook"]=18,
 	["havecluelol-shekzeer"]=20,
 	["havitýx-shekzeer"]=0,
@@ -8422,7 +8422,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["qikka-shekzeer"]=14,
 	["qk-shekzeer"]=9,
 	["qkz-shekzeer"]=4,
-	["qo-shekzeer"]=3,
+	["qo-shekzeer"]=11,
 	["qopsz-shekzeer"]=20,
 	["qraven-shekzeer"]=4,
 	["qriik-ook-ook"]=5,
@@ -8435,7 +8435,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["qtr-shekzeer"]=21,
 	["quackbae-shekzeer"]=0,
 	["qualitytime-garalon"]=13,
-	["quarok-shekzeer"]=28,
+	["quarok-shekzeer"]=23,
 	["quastwex-shekzeer"]=15,
 	["queuepóp-shekzeer"]=5,
 	["quickerz-norushen"]=10,
@@ -8502,7 +8502,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["reàlbumbel-shekzeer"]=18,
 	["realbumbelbe-shekzeer"]=7,
 	["realbúmbelbe-shekzeer"]=7,
-	["realbumbell-garalon"]=7,
+	["realbumbell-garalon"]=29,
 	["realshifter-shekzeer"]=1,
 	["realwoippey-shekzeer"]=4,
 	["reauna-shekzeer"]=4,
