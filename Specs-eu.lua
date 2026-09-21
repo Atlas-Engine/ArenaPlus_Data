@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5309 characters, read 2026-09-21 02:00 PM.
+-- Region eu, 5309 characters, read 2026-09-21 03:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5415,7 +5415,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["asylklot-shekzeer"]=8,
 	["asylumseeker-shekzeer"]=26,
 	["aszaléa-auberdine"]=9,
-	["atalzul-mirage-raceway"]=12,
+	["atalzul-mirage-raceway"]=9,
 	["ateam-shekzeer"]=5,
 	["atheistpally-shekzeer"]=15,
 	["athenahz-shekzeer"]=3,
@@ -6121,7 +6121,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["diidact-shekzeer"]=7,
 	["diikayz-shekzeer"]=8,
 	["dikiy-shekzeer"]=31,
-	["dimako-shekzeer"]=3,
+	["dimako-shekzeer"]=11,
 	["dimsumfu-shekzeer"]=0,
 	["dindriezz-everlook"]=2,
 	["dinhoo-mirage-raceway"]=22,
@@ -6302,7 +6302,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["eelmaster-shekzeer"]=6,
 	["eeveé-shekzeer"]=9,
 	["eeyuh-shekzeer"]=3,
-	["efd-everlook"]=6,
+	["efd-everlook"]=7,
 	["egirlmanager-shekzeer"]=6,
 	["egirlshealer-shekzeer"]=3,
 	["egortaxistzp-shekzeer"]=15,
@@ -6376,7 +6376,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Éverlast-hoptallus"]=1,
 	["evilhoney-garalon"]=23,
 	["evilhoney-mirage-raceway"]=23,
-	["eviltamer-mirage-raceway"]=4,
+	["eviltamer-mirage-raceway"]=14,
 	["ewaqz-shekzeer"]=25,
 	["exactly-shekzeer"]=17,
 	["exconvicta-shekzeer"]=11,
