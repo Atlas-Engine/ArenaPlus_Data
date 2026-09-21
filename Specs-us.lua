@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5165 characters, read 2026-09-21 08:59 AM.
+-- Region us, 5165 characters, read 2026-09-21 09:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6815,7 +6815,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["grumpyaussie-galakras"]=28,
 	["grungecraft-raden"]=16,
 	["grxvy-nazgrim"]=18,
-	["gryn-nazgrim"]=3,
+	["gryn-nazgrim"]=20,
 	["gtfø-raden"]=1,
 	["guanyîn-raden"]=21,
 	["guccilinen-nazgrim"]=20,
@@ -8428,7 +8428,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["péstilence-pagle"]=6,
 	["peteslimjim-galakras"]=7,
 	["pewpilpopper-pagle"]=3,
-	["péz-pagle"]=10,
+	["péz-pagle"]=27,
 	["pezdispencer-raden"]=16,
 	["phöoba-pagle"]=5,
 	["phrra-pagle"]=7,
@@ -8466,7 +8466,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["pleuro-immerseus"]=20,
 	["plinkoitup-galakras"]=4,
 	["plsdontban-pagle"]=15,
-	["plum-raden"]=4,
+	["plum-raden"]=10,
 	["plume-raden"]=17,
 	["plv-raden"]=29,
 	["pochen-nazgrim"]=9,
@@ -9966,7 +9966,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["xaery-pagle"]=17,
 	["xaj-raden"]=5,
 	["xanaxlolz-galakras"]=12,
-	["xander-raden"]=28,
+	["xander-raden"]=24,
 	["xanybar-raden"]=17,
 	["xarblade-immerseus"]=3,
 	["xarped-nazgrim"]=17,
@@ -9974,7 +9974,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["xarrstorm-immerseus"]=22,
 	["xarshadow-immerseus"]=24,
 	["xarstorm-immerseus"]=1,
-	["xatica-pagle"]=14,
+	["xatica-pagle"]=29,
 	["xatyka-pagle"]=1,
 	["xavilier-pagle"]=14,
 	["xb-galakras"]=10,

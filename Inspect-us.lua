@@ -42,7 +42,7 @@ local ns = ArenaPlusData
 -- source_item, so gems are stored as real item ids the client can draw and only
 -- the enchant text has to ship.
 --
--- Region us, 414 characters, 365 glyph names, read 2026-09-21 08:20 AM.
+-- Region us, 414 characters, 365 glyph names, read 2026-09-21 09:20 AM.
 ns.GLYPH_NAMES = ns.GLYPH_NAMES or {}
 
 for id, name in pairs({
@@ -419,39 +419,22 @@ for id, name in pairs({
 ns.TALENT_NAMES = ns.TALENT_NAMES or {}
 
 for id, name in pairs({
-	[26023]="Pursuit of Justice",
+	[1463]="Incanter's Ward",
+	[11958]="Cold Snap",
+	[12043]="Presence of Mind",
 	[30283]="Shadowfury",
-	[48743]="Death Pact",
-	[49039]="Lichborne",
-	[50041]="Chilblains",
-	[51462]="Runic Corruption",
-	[81229]="Runic Empowerment",
-	[85499]="Speed of Light",
-	[85804]="Selfless Healer",
-	[105593]="Fist of Justice",
-	[105622]="Clemency",
-	[105809]="Holy Avenger",
-	[108170]="Roiling Blood",
-	[108194]="Asphyxiate",
-	[108201]="Desecrated Ground",
+	[44457]="Living Bomb",
+	[102051]="Frostjaw",
 	[108359]="Dark Regeneration",
 	[108503]="Grimoire of Sacrifice",
 	[108505]="Archimonde's Darkness",
+	[108843]="Blazing Speed",
 	[110913]="Dark Bargain",
 	[111397]="Blood Horror",
-	[114039]="Hand of Purity",
-	[114157]="Execution Sentence",
-	[114163]="Eternal Flame",
-	[115098]="Chi Wave",
-	[115396]="Ascension",
-	[115399]="Chi Brew",
-	[116841]="Tiger's Lust",
-	[116847]="Rushing Jade Wind",
-	[119381]="Leg Sweep",
-	[119975]="Conversion",
-	[122280]="Healing Elixirs",
-	[123693]="Plague Leech",
+	[113724]="Ring of Frost",
+	[114003]="Invocation",
 	[137587]="Kil'jaeden's Cunning",
+	[140468]="Flameglow",
 }) do ns.TALENT_NAMES[id] = name end
 
 -- Which talent a rank-spell belongs to, and how many ranks that talent has.
@@ -1576,7 +1559,7 @@ for id, name in pairs({
 ns.INSPECT_BY_REGION = ns.INSPECT_BY_REGION or {}
 
 ns.INSPECT_BY_REGION["us"] = {
-	["qwanya-raden"]={g={head={100330,0,76885,76628},neck={100232,0},shoulder={100336,4806,76668},chest={100334,4419,76694,76668},waist={100207,0,76616,76628},legs={100332,4895,76694,76616},feet={100213,4429,76668},wrist={100218,4414},hands={100328,4430,76616},finger_1={100234,0},finger_2={100235,0},trinket_1={100491,0},trinket_2={100490,0},back={100221,4892},main_hand={100488,5124},off_hand={100223,4434},tabard={98162,0}},t={12043,113724,140468,11958,1463,44457},y={1081,329,447,700,698,948},s={{1203,2,2},{1109,5,5}},p={"engineering","tailoring"},k={hands=4898},v={4243,7674,7045,295,119,128,17791,22916,467227,29378,109,1569,1806,2500,1806,0,3948},r=1,x=0,c="mage"},
+	["qwanya-raden"]={g={head={100330,0,76885,76628},neck={100232,0},shoulder={100336,4806,76668},chest={100334,4419,76694,76668},waist={100207,0,76616,76628},legs={100332,4895,76694,76616},feet={100213,4429,76668},wrist={100218,4414},hands={100328,4430,76616},finger_1={100234,0},finger_2={100235,0},trinket_1={100491,0},trinket_2={100490,0},back={100221,4892},main_hand={100488,5124},off_hand={100223,4434},tabard={98162,0}},t={12043,113724,140468,11958,1463,44457},y={1081,329,447,700,698,948},s={{1203,2,2},{1109,5,5}},p={"engineering","tailoring"},k={hands=4898},v={4243,7674,7045,295,124,134,18680,22916,467227,27596,114,1069,1806,1535,1806,0,3948},r=1,x=0,c="mage"},
 	["acx-raden"]={g={head={100387,0,76885,76694},neck={100233,0},shoulder={100391,4806,76668},chest={100383,4419,76694,76668},waist={100375,0,76686,76694},legs={100389,4826,76694,76686},feet={100377,4429,76668},wrist={100381,4414,76699},hands={100385,4430,76686,76699},finger_1={100236,0},finger_2={100234,0},trinket_1={100490,0},trinket_2={100491,0},back={100220,4892},main_hand={100299,5124},off_hand={100225,4434},tabard={51534,0}},t={26023,110301,114163,105622,86172,114165},y={457,455,988,559,454,200},s={{1203,2,2},{1110,5,5}},p={"blacksmithing","tailoring"},k={},v={5209,8836,2377,5254,271,194,18568,23018,468655,27484,792,1370,2079,1935,3287,0,1495},r=1,x=1,c="paladin"},
 	["magician-arugal-au"]={g={head={100330,0,76885,76694},neck={100232,0},shoulder={100336,4806,76668},shirt={53,0},chest={100334,4419,76694,76668},waist={100207,0,76682,76694},legs={100332,4895,76694,76682},feet={100213,4429,76668},wrist={100218,4414},hands={100328,4430,76682},finger_1={100234,0},finger_2={100235,0},trinket_1={100490,0},trinket_2={100491,0},back={100221,4892},main_hand={100488,5124},off_hand={100223,4434},tabard={98162,0}},t={12043,113724,140468,11958,1463,44457},y={700,948,329},s={{1203,2,2},{1109,5,5}},p={"engineering","tailoring"},k={waist=4223,hands=4898,back=4897},v={3584,8258,7120,295,119,128,17791,22916,467227,26707,109,959,1943,1391,1943,0,3973},r=1,x=1,c="mage"},
 	["sugarbear-raden"]={g={head={100330,0,76885,76694},neck={100232,0},shoulder={100336,4806,76668},chest={100334,4419,76694,76668},waist={100207,0,76682,76694},legs={100332,4825,76694,76682},feet={100213,4429,76668},wrist={100218,4414},hands={100328,4430,76682},finger_1={100234,0},finger_2={100235,0},trinket_1={100491,0},trinket_2={100490,0},back={100221,4892},main_hand={100488,4442},off_hand={100223,4434},tabard={23705,0}},t={108843,111264,140468,11958,1463,44457},y={445,700,451,948,698,321},s={{1203,2,2},{1109,5,5}},p={"engineering","tailoring"},k={hands=4898},v={4553,6598,10460,295,119,128,18106,22916,467227,29724,109,1620,1552,2064,1552,0,5087},r=1,x=1,c="mage"},

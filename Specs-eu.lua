@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5309 characters, read 2026-09-21 09:00 AM.
+-- Region eu, 5309 characters, read 2026-09-21 10:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2683,6 +2683,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["munkbulle-shekzeer"]=10,
 	["munkkï-hoptallus"]=41,
 	["munkskunk-shekzeer"]=10,
+	["mûrre-mirage-raceway"]=11,
 	["muryokusho-shekzeer"]=41,
 	["muskelimaisa-shekzeer"]=11,
 	["mwman-shekzeer"]=40,
@@ -4658,7 +4659,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["ziggemaster-shekzeer"]=40,
 	["ziihon-everlook"]=50,
 	["zimvra-shekzeer"]=11,
-	["zinewtf-auberdine"]=10,
 	["zinouaflic-shekzeer"]=11,
 	["zipfe-everlook"]=41,
 	["zipzipzapzap-shekzeer"]=11,
@@ -7144,7 +7144,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["juvinsk-norushen"]=5,
 	["jx-shekzeer"]=4,
 	["jý-shekzeer"]=7,
-	["jyxa-everlook"]=9,
+	["jyxa-everlook"]=22,
 	["jzong-shekzeer"]=24,
 	["kabadineo-shekzeer"]=1,
 	["kabana-shekzeer"]=1,
@@ -7878,12 +7878,13 @@ ns.SPECS_BY_REGION["eu"] = {
 	["munkbulle-shekzeer"]=7,
 	["munkkï-hoptallus"]=6,
 	["munkskunk-shekzeer"]=7,
+	["mûrre-mirage-raceway"]=6,
 	["muryokusho-shekzeer"]=9,
 	["muskelimaisa-shekzeer"]=1,
 	["mwman-shekzeer"]=6,
 	["mwmwmwmw-shekzeer"]=6,
 	["mwqew-shekzeer"]=6,
-	["mxed-shekzeer"]=24,
+	["mxed-shekzeer"]=26,
 	["mxge-mirage-raceway"]=2,
 	["mxgehc-mirage-raceway"]=2,
 	["mycopa-shekzeer"]=4,
@@ -8988,7 +8989,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["sorcery-shekzeer"]=15,
 	["sørex-shekzeer"]=26,
 	["sortilex-auberdine"]=2,
-	["sosoczka-shekzeer"]=18,
+	["sosoczka-shekzeer"]=1,
 	["sosoo-shekzeer"]=3,
 	["søtek-everlook"]=1,
 	["sottolano-shekzeer"]=1,
@@ -9636,7 +9637,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["waix-shekzeer"]=10,
 	["walkerr-hoptallus"]=15,
 	["wãlter-shekzeer"]=9,
-	["warcrimes-shekzeer"]=25,
+	["warcrimes-shekzeer"]=1,
 	["wardz-mirage-raceway"]=2,
 	["wardz-shekzeer"]=2,
 	["warning-shekzeer"]=1,
@@ -9952,7 +9953,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["ziggemaster-shekzeer"]=20,
 	["ziihon-everlook"]=2,
 	["zimvra-shekzeer"]=8,
-	["zinewtf-auberdine"]=1,
 	["zinouaflic-shekzeer"]=17,
 	["zipfe-everlook"]=9,
 	["zipzipzapzap-shekzeer"]=17,
