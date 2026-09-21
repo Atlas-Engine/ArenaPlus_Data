@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5165 characters, read 2026-09-21 05:59 PM.
+-- Region us, 5165 characters, read 2026-09-21 06:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5548,7 +5548,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["boreing-lei-shen"]=26,
 	["bornhard-pagle"]=14,
 	["bossdon-pagle"]=7,
-	["bouddha-raden"]=10,
+	["bouddha-raden"]=4,
 	["bovinelegend-galakras"]=0,
 	["bowflexy-raden"]=3,
 	["bowhog-galakras"]=3,
@@ -6207,7 +6207,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["drãkã-nazgrim"]=15,
 	["draknyel-galakras"]=4,
 	["draùnz-pagle"]=4,
-	["drazzuh-pagle"]=17,
+	["drazzuh-pagle"]=12,
 	["drbojackal-pagle"]=9,
 	["drcrusher-galakras"]=9,
 	["dreadedshotz-raden"]=3,
@@ -7627,7 +7627,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["linares-lei-shen"]=24,
 	["linaress-lei-shen"]=16,
 	["linearly-pagle"]=19,
-	["linktrol-pagle"]=20,
+	["linktrol-pagle"]=18,
 	["linnker-pagle"]=9,
 	["lionner-lei-shen"]=10,
 	["liopleurodon-nazgrim"]=9,
@@ -8444,7 +8444,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["pinkfinder-pagle"]=21,
 	["pinkfiregg-pagle"]=10,
 	["pinkisntwell-immerseus"]=9,
-	["pinkoutbreak-galakras"]=33,
+	["pinkoutbreak-galakras"]=17,
 	["pinkponyboy-raden"]=7,
 	["pinkspwn-raden"]=2,
 	["pinzas-pagle"]=21,
