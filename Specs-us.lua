@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5170 characters, read 2026-09-22 09:59 AM.
+-- Region us, 5168 characters, read 2026-09-22 10:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -670,7 +670,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["buffdeets-pagle"]=10,
 	["bullchiasse-pagle"]=100,
 	["bulletdrop-raden"]=30,
-	["bullhazard-pagle"]=60,
 	["bullpig-galakras"]=60,
 	["bullshót-galakras"]=60,
 	["bumscrub-galakras"]=100,
@@ -1237,7 +1236,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["drkelp-pagle"]=50,
 	["drlovee-benediction"]=11,
 	["drmundø-raden"]=40,
-	["dro-raden"]=10,
 	["drô-raden"]=11,
 	["droowyd-pagle"]=41,
 	["droppingdotz-pagle"]=11,
@@ -2704,12 +2702,12 @@ ns.LOOKS_BY_REGION["us"] = {
 	["majörtöm-lei-shen"]=10,
 	["mak-raden"]=20,
 	["makizenin-nazgrim"]=51,
-	["mákka-arugal-au"]=50,
 	["makulu-raden"]=10,
 	["makura-raden"]=11,
 	["malavenar-raden"]=41,
 	["maleficá-nazgrim"]=101,
 	["mállkü-pagle"]=21,
+	["mallkually-pagle"]=111,
 	["malmighty-pagle"]=40,
 	["malonelam-nazgrim"]=20,
 	["malvan-pagle"]=50,
@@ -5641,7 +5639,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["buffdeets-pagle"]=7,
 	["bullchiasse-pagle"]=16,
 	["bulletdrop-raden"]=3,
-	["bullhazard-pagle"]=5,
 	["bullpig-galakras"]=22,
 	["bullshót-galakras"]=18,
 	["bumscrub-galakras"]=2,
@@ -6161,7 +6158,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dojareborn-pagle"]=20,
 	["dokkó-pagle"]=14,
 	["doktroz-nazgrim"]=7,
-	["dollamenuhoj-raden"]=16,
+	["dollamenuhoj-raden"]=2,
 	["dolomit-raden"]=10,
 	["dølph-raden"]=15,
 	["domoalis-pagle"]=18,
@@ -6238,7 +6235,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["drkelp-pagle"]=9,
 	["drlovee-benediction"]=2,
 	["drmundø-raden"]=9,
-	["dro-raden"]=23,
 	["drô-raden"]=24,
 	["droowyd-pagle"]=5,
 	["droppingdotz-pagle"]=28,
@@ -6369,7 +6365,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["endeerr-nazgrim"]=20,
 	["enes-raden"]=7,
 	["enforcerr-pagle"]=7,
-	["enhanstow-galakras"]=22,
+	["enhanstow-galakras"]=15,
 	["eninex-raden"]=1,
 	["enrage-raden"]=7,
 	["entimbador-pagle"]=16,
@@ -7766,12 +7762,12 @@ ns.SPECS_BY_REGION["us"] = {
 	["majörtöm-lei-shen"]=20,
 	["mak-raden"]=10,
 	["makizenin-nazgrim"]=9,
-	["mákka-arugal-au"]=4,
 	["makulu-raden"]=3,
 	["makura-raden"]=1,
 	["malavenar-raden"]=12,
 	["maleficá-nazgrim"]=24,
 	["mállkü-pagle"]=22,
+	["mallkually-pagle"]=15,
 	["malmighty-pagle"]=3,
 	["malonelam-nazgrim"]=7,
 	["malvan-pagle"]=24,
