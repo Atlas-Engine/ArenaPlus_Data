@@ -1,0 +1,27 @@
+## Interface: 20506
+## Title: ArenaPlus Data
+## Author: David / Atlas-Engine
+## Version: 2026.09.22.0901
+## Notes: The ladder, cutoffs, specs and gear that ArenaPlus reads. Refreshed on its own so the addon itself does not have to be republished for it.
+## X-Curse-Project-ID: 1672414
+## X-Curse-Repository-ID: https://github.com/Atlas-Engine/ArenaPlus_Data
+
+# What the Anniversary client loads. The client reads the TOC named for its own
+# game in place of ArenaPlus_Data.toc, so the Mists files are never read here.
+#
+# The header above is ArenaPlus_Data.toc's; see the notes there. Publish-Data
+# writes the version into every .toc in the folder.
+#
+# No Titles: the Anniversary profile namespace does not serve achievements.
+Cutoffs-tbc-us.lua
+Cutoffs-tbc-eu.lua
+Leaderboard-tbc-us.lua
+Leaderboard-tbc-eu.lua
+Specs-tbc-us.lua
+Specs-tbc-eu.lua
+Inspect-tbc-us.lua
+Inspect-tbc-eu.lua
+
+# Last, as in ArenaPlus_Data.toc: its generator reads the leaderboard.
+Activity-tbc-us.lua
+Activity-tbc-eu.lua

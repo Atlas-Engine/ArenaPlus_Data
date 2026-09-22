@@ -29,6 +29,12 @@
 # Nothing here is hand-written. Every file is produced by the scripts in
 # ArenaPlus\tools\ and overwritten wholesale on the next run.
 #
+# Neither game reads this list any more. ArenaPlus_Data_Mists.toc and
+# ArenaPlus_Data_TBC.toc each name only their own game's files, and a client
+# takes the TOC for its game over this one. This one stays for the Interface
+# line above, which is what CurseForge publishes as the supported versions,
+# and for a client that knows neither name.
+#
 # Order matters only in that the cutoffs are small and read first.
 Cutoffs-us.lua
 Cutoffs-eu.lua
