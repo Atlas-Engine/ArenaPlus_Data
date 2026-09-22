@@ -1,0 +1,33 @@
+## Interface: 50500, 50502, 50503, 50504
+## Title: ArenaPlus Data
+## Author: David / Atlas-Engine
+## Version: 2026.09.22.0901
+## Notes: The ladder, cutoffs, specs and gear that ArenaPlus reads. Refreshed on its own so the addon itself does not have to be republished for it.
+## X-Curse-Project-ID: 1672414
+## X-Curse-Repository-ID: https://github.com/Atlas-Engine/ArenaPlus_Data
+
+# What the Mists client loads. The client reads the TOC named for its own game
+# in place of ArenaPlus_Data.toc, the same way Details, WeakAuras and Bagnon
+# ship theirs, so the Anniversary files are never read here at all.
+#
+# They were 31 of the addon's 47 MB, measured in Lua 5.1 on the 2026-09-21
+# data -- the Anniversary ladders are three times the length of these -- for
+# a ladder this client has no use for: its own rating, its own realms and its
+# own inspect all come from Mists.
+#
+# The header above is ArenaPlus_Data.toc's; see the notes there. Publish-Data
+# writes the version into every .toc in the folder.
+Cutoffs-us.lua
+Cutoffs-eu.lua
+Leaderboard-us.lua
+Leaderboard-eu.lua
+Specs-us.lua
+Specs-eu.lua
+Inspect-us.lua
+Inspect-eu.lua
+Titles-us.lua
+Titles-eu.lua
+
+# Last, as in ArenaPlus_Data.toc: its generator reads the leaderboard.
+Activity-us.lua
+Activity-eu.lua
