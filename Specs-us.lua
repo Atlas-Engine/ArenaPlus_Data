@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5165 characters, read 2026-09-21 08:59 PM.
+-- Region us, 5165 characters, read 2026-09-21 09:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6283,7 +6283,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dvz-pagle"]=23,
 	["dweebz-pagle"]=22,
 	["dwells-raden"]=0,
-	["dwl-raden"]=12,
+	["dwl-raden"]=5,
 	["dyingwhale-pagle"]=3,
 	["Ðyst-pagle"]=11,
 	["dystopia-pagle"]=33,
@@ -6938,7 +6938,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["hibashiba-galakras"]=20,
 	["hickery-arugal-au"]=14,
 	["hideandhunt-galakras"]=20,
-	["hifukface-raden"]=5,
+	["hifukface-raden"]=12,
 	["hifvckface-raden"]=4,
 	["highc-galakras"]=22,
 	["highç-galakras"]=27,
@@ -7200,7 +7200,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["jablinksi-immerseus"]=27,
 	["jabullsheeit-pagle"]=3,
 	["jabzul-galakras"]=3,
-	["jackelinc-pagle"]=18,
+	["jackelinc-pagle"]=20,
 	["jackietan-pagle"]=4,
 	["jackmorgan-pagle"]=16,
 	["jackxo-arugal-au"]=11,
@@ -8140,7 +8140,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["neverbckdown-nazgrim"]=10,
 	["neverblinkx-pagle"]=1,
 	["nevergiveupx-raden"]=22,
-	["nevreth-pagle"]=20,
+	["nevreth-pagle"]=3,
 	["neworld-pagle"]=7,
 	["ngmi-pagle"]=1,
 	["nguyen-raden"]=17,
@@ -8222,7 +8222,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["nukkz-arugal-au"]=14,
 	["nunnya-raden"]=4,
 	["nupper-pagle"]=7,
-	["nurfthemonk-pagle"]=10,
+	["nurfthemonk-pagle"]=4,
 	["nurfwarr-raden"]=7,
 	["nusubito-pagle"]=29,
 	["nutgrabber-pagle"]=34,
@@ -8367,7 +8367,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["paladtty-lei-shen"]=16,
 	["palafornia-raden"]=16,
 	["palalazy-pagle"]=16,
-	["palamán-raden"]=32,
+	["palamán-raden"]=16,
 	["palapala-pagle"]=2,
 	["pallyboss-galakras"]=0,
 	["pallylynch-raden"]=16,
@@ -9336,7 +9336,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["stonêd-raden"]=16,
 	["stooter-nazgrim"]=5,
 	["stooty-nazgrim"]=7,
-	["stoptalkme-raden"]=4,
+	["stoptalkme-raden"]=10,
 	["stormdaddyx-pagle"]=22,
 	["størmie-raden"]=15,
 	["stormieskye-galakras"]=17,
@@ -10098,7 +10098,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["zaravarena-pagle"]=2,
 	["zarhunt-pagle"]=18,
 	["zârkø-nazgrim"]=7,
-	["zatairi-galakras"]=15,
+	["zatairi-galakras"]=19,
 	["zate-galakras"]=12,
 	["zdetmrpudln-pagle"]=16,
 	["zeemenson-nazgrim"]=7,

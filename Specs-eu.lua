@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5312 characters, read 2026-09-21 09:00 PM.
+-- Region eu, 5312 characters, read 2026-09-21 10:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3160,7 +3160,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["psykbengel-shekzeer"]=11,
 	["puckfiggers-shekzeer"]=11,
 	["puipuii-garalon"]=260,
-	["pullontwo-norushen"]=11,
 	["pulsing-mirage-raceway"]=11,
 	["pumy-shekzeer"]=220,
 	["punchgodx-shekzeer"]=11,
@@ -3674,6 +3673,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["slamftw-shekzeer"]=10,
 	["slamgirl-everlook"]=11,
 	["slåpåtæven-mirage-raceway"]=10,
+	["slapskidogx-garalon"]=81,
 	["slemheks-shekzeer"]=11,
 	["slîcklol-shekzeer"]=11,
 	["slimmyboi-norushen"]=81,
@@ -6562,7 +6562,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["fyratre-shekzeer"]=12,
 	["fzqt-shekzeer"]=26,
 	["gagmoondha-shekzeer"]=11,
-	["gagrothe-auberdine"]=31,
+	["gagrothe-auberdine"]=33,
 	["gajubøø-auberdine"]=16,
 	["galadrial-ook-ook"]=22,
 	["galaxyrise-shekzeer"]=0,
@@ -7223,7 +7223,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["kenblöck-mirage-raceway"]=15,
 	["kenhavefun-shekzeer"]=6,
 	["kenkofot-garalon"]=10,
-	["kennyk-garalon"]=18,
+	["kennyk-garalon"]=1,
 	["kennyk-shekzeer"]=18,
 	["kennykk-garalon"]=1,
 	["kennyykofot-garalon"]=34,
@@ -8397,7 +8397,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["psykbengel-shekzeer"]=7,
 	["puckfiggers-shekzeer"]=8,
 	["puipuii-garalon"]=2,
-	["pullontwo-norushen"]=2,
 	["pulsing-mirage-raceway"]=12,
 	["pumy-shekzeer"]=21,
 	["punchgodx-shekzeer"]=7,
@@ -8928,6 +8927,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["slamftw-shekzeer"]=1,
 	["slamgirl-everlook"]=1,
 	["slåpåtæven-mirage-raceway"]=8,
+	["slapskidogx-garalon"]=10,
 	["slemheks-shekzeer"]=23,
 	["slîcklol-shekzeer"]=7,
 	["slimmyboi-norushen"]=20,
