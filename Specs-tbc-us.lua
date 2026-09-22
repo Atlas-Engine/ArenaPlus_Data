@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9704 characters, read 2026-09-22 08:58 AM.
+-- Region tbc-us, 9704 characters, read 2026-09-22 09:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10375,7 +10375,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["biggnaturalz-nightslayer"]=4,
 	["biggrief-nightslayer"]=5,
 	["biggwake-nightslayer"]=18,
-	["bighogsquirt-nightslayer"]=8,
+	["bighogsquirt-nightslayer"]=5,
 	["bigjamalsack-dreamscythe"]=9,
 	["bigjossa-nightslayer"]=10,
 	["bigmagenut-nightslayer"]=4,
@@ -12759,7 +12759,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["gatekeeperxd-nightslayer"]=13,
 	["gatø-nightslayer"]=13,
 	["gatorrage-nightslayer"]=2,
-	["gaulsneaky-nightslayer"]=2,
+	["gaulsneaky-nightslayer"]=18,
 	["gaup-nightslayer"]=4,
 	["gaupjr-nightslayer"]=6,
 	["gaupm-nightslayer"]=4,
@@ -12963,7 +12963,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["gorgorath-nightslayer"]=5,
 	["gørilla-nightslayer"]=2,
 	["gosari-nightslayer"]=5,
-	["gosarí-nightslayer"]=8,
+	["gosarí-nightslayer"]=5,
 	["gosugank-dreamscythe"]=16,
 	["gothamcity-nightslayer"]=5,
 	["gothicgooner-nightslayer"]=13,
@@ -14988,7 +14988,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["milesh-dreamscythe"]=3,
 	["milhair-nightslayer"]=0,
 	["milkernips-nightslayer"]=19,
-	["milkiezz-nightslayer"]=18,
+	["milkiezz-nightslayer"]=2,
 	["milkmadam-dreamscythe"]=2,
 	["milktables-nightslayer"]=12,
 	["milkypaw-dreamscythe"]=7,
@@ -17450,7 +17450,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["soakk-dreamscythe"]=5,
 	["sobxrbe-nightslayer"]=5,
 	["soccerdad-nightslayer"]=12,
-	["socialfox-dreamscythe"]=10,
+	["socialfox-dreamscythe"]=19,
 	["sockdru-nightslayer"]=7,
 	["sockta-nightslayer"]=10,
 	["socktap-nightslayer"]=1,
