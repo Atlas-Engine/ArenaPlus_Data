@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5169 characters, read 2026-09-22 04:59 PM.
+-- Region us, 5169 characters, read 2026-09-22 05:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5529,7 +5529,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["bonkeeh-pagle"]=2,
 	["bonkyoass-pagle"]=7,
 	["bonnith-pagle"]=7,
-	["bonwick-arugal-au"]=9,
+	["bonwick-arugal-au"]=21,
 	["boofed-raden"]=1,
 	["booku-pagle"]=25,
 	["boomantics-pagle"]=17,
@@ -5627,7 +5627,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["bubbleøsevèn-immerseus"]=2,
 	["bubblespeced-raden"]=2,
 	["bubbleßöò-pagle"]=2,
-	["buckup-pagle"]=18,
+	["buckup-pagle"]=3,
 	["buckyfive-pagle"]=28,
 	["buckyfivee-pagle"]=28,
 	["budabaiano-pagle"]=4,
@@ -5648,7 +5648,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["burstinflams-pagle"]=0,
 	["burstzum-nazgrim"]=15,
 	["buryniceqt-raden"]=4,
-	["buster-raden"]=20,
+	["buster-raden"]=3,
 	["bustyshots-raden"]=20,
 	["buttafingaz-pagle"]=17,
 	["buttercupjam-pagle"]=5,

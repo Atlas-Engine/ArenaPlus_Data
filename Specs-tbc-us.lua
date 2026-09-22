@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9720 characters, read 2026-09-22 04:58 PM.
+-- Region tbc-us, 9720 characters, read 2026-09-22 05:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9759,7 +9759,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["aitri-nightslayer"]=19,
 	["ajaxpk-nightslayer"]=5,
 	["ajnin-nightslayer"]=5,
-	["ajnyn-nightslayer"]=14,
+	["ajnyn-nightslayer"]=1,
 	["akaeden-dreamscythe"]=6,
 	["akalikali-nightslayer"]=8,
 	["akaran-nightslayer"]=7,
@@ -9821,7 +9821,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["almostiesh-nightslayer"]=4,
 	["almostokay-nightslayer"]=5,
 	["alocer-dreamscythe"]=2,
-	["aloda-nightslayer"]=5,
+	["aloda-nightslayer"]=8,
 	["alohadawn-nightslayer"]=11,
 	["alosar-nightslayer"]=7,
 	["alphonce-dreamscythe"]=7,
@@ -12338,7 +12338,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ezboost-nightslayer"]=4,
 	["ezc-nightslayer"]=2,
 	["ezclapfr-nightslayer"]=15,
-	["ezgirl-nightslayer"]=8,
+	["ezgirl-nightslayer"]=5,
 	["ezi-nightslayer"]=20,
 	["ezololington-nightslayer"]=5,
 	["ezoswdington-nightslayer"]=1,
@@ -14661,7 +14661,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["lvsham-nightslayer"]=10,
 	["lvutupac-nightslayer"]=11,
 	["lw-nightslayer"]=7,
-	["lxr-nightslayer"]=18,
+	["lxr-nightslayer"]=2,
 	["lyariïi-dreamscythe"]=3,
 	["lyricalz-nightslayer"]=1,
 	["lyzlock-nightslayer"]=13,
@@ -17863,7 +17863,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["swinè-nightslayer"]=14,
 	["swineherder-nightslayer"]=2,
 	["swinemode-nightslayer"]=1,
-	["swipealot-nightslayer"]=7,
+	["swipealot-nightslayer"]=3,
 	["swirlbones-dreamscythe"]=5,
 	["swìrly-dreamscythe"]=11,
 	["swk-nightslayer"]=5,

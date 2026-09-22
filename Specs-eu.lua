@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5312 characters, read 2026-09-22 05:00 PM.
+-- Region eu, 5312 characters, read 2026-09-22 06:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3425,7 +3425,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["rydothemage-everlook"]=11,
 	["rydothemonk-everlook"]=11,
 	["rydotheret-everlook"]=11,
-	["rydotheroq-everlook"]=11,
+	["rydotheroq-everlook"]=10,
 	["rydothetrap-everlook"]=11,
 	["rydothetwink-everlook"]=41,
 	["rydothewar-everlook"]=11,
@@ -5748,7 +5748,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bulotmayo-auberdine"]=7,
 	["bumbelbé-shekzeer"]=14,
 	["bumbelbegodx-shekzeer"]=14,
-	["bumbelbemonk-shekzeer"]=7,
+	["bumbelbemonk-shekzeer"]=29,
 	["bumbeldruid-shekzeer"]=21,
 	["bumbelgnome-shekzeer"]=7,
 	["bumbelmonk-garalon"]=7,
@@ -6194,7 +6194,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["domiino-shekzeer"]=12,
 	["dominant-garalon"]=28,
 	["dominant-shekzeer"]=2,
-	["dominoo-shekzeer"]=21,
+	["dominoo-shekzeer"]=3,
 	["dönald-auberdine"]=17,
 	["dondrippiano-shekzeer"]=6,
 	["donjacky-shekzeer"]=6,
@@ -6712,7 +6712,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["gutalax-ook-ook"]=8,
 	["guugur-auberdine"]=2,
 	["gww-garalon"]=1,
-	["gyatthunter-norushen"]=12,
+	["gyatthunter-norushen"]=9,
 	["gymbunny-shekzeer"]=15,
 	["gypsysniper-shekzeer"]=4,
 	["haberer-everlook"]=1,
@@ -9687,7 +9687,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["whereâreyûat-everlook"]=23,
 	["wheyx-shekzeer"]=12,
 	["wheyxthree-shekzeer"]=12,
-	["wheyxw-shekzeer"]=25,
+	["wheyxw-shekzeer"]=1,
 	["whipmepls-shekzeer"]=8,
 	["whisp-garalon"]=11,
 	["whoppa-shekzeer"]=1,
