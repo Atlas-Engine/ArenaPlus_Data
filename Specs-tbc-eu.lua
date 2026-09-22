@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 10319 characters, read 2026-09-22 02:59 AM.
+-- Region tbc-eu, 10319 characters, read 2026-09-22 03:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -13804,7 +13804,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["háte-spineshatter"]=5,
 	["hateorlove-spineshatter"]=11,
 	["hatered-spineshatter"]=11,
-	["hattori-thunderstrike"]=3,
+	["hattori-thunderstrike"]=19,
 	["hausa-spineshatter"]=2,
 	["havila-spineshatter"]=5,
 	["havityx-spineshatter"]=0,
@@ -13955,13 +13955,13 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["holyrob-spineshatter"]=10,
 	["holysaxyböw-spineshatter"]=25,
 	["holysaxyböy-spineshatter"]=7,
-	["holyschlong-spineshatter"]=7,
+	["holyschlong-spineshatter"]=26,
 	["hólysense-spineshatter"]=2,
 	["holysuka-spineshatter"]=7,
 	["holysunshine-spineshatter"]=10,
 	["holzbein-spineshatter"]=2,
 	["homelander-spineshatter"]=3,
-	["homelanderx-spineshatter"]=19,
+	["homelanderx-spineshatter"]=3,
 	["homerjayx-spineshatter"]=24,
 	["hommerhaddoc-spineshatter"]=5,
 	["hompelompen-thunderstrike"]=13,
@@ -19734,7 +19734,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["vekintq-spineshatter"]=9,
 	["velania-spineshatter"]=2,
 	["velatil-spineshatter"]=23,
-	["velatte-spineshatter"]=5,
+	["velatte-spineshatter"]=15,
 	["veldruk-spineshatter"]=3,
 	["velerath-spineshatter"]=1,
 	["velicopter-spineshatter"]=25,
