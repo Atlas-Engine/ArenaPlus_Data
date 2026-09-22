@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5312 characters, read 2026-09-22 04:00 PM.
+-- Region eu, 5312 characters, read 2026-09-22 05:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5947,7 +5947,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["conversionop-shekzeer"]=31,
 	["corléonne-auberdine"]=6,
 	["corruptx-shekzeer"]=8,
-	["coryth-mirage-raceway"]=2,
+	["coryth-mirage-raceway"]=10,
 	["coulozx-shekzeer"]=6,
 	["cptnmandøs-everlook"]=12,
 	["craawe-shekzeer"]=21,
@@ -7303,7 +7303,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["kodzha-mirage-raceway"]=1,
 	["kokw-mirage-raceway"]=17,
 	["kokz-shekzeer"]=2,
-	["kolomoinheal-auberdine"]=7,
+	["kolomoinheal-auberdine"]=6,
 	["kominík-shekzeer"]=24,
 	["komunistmark-shekzeer"]=1,
 	["konataizumii-shekzeer"]=8,
@@ -9265,7 +9265,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["thatmathguy-norushen"]=2,
 	["thaumi-auberdine"]=3,
 	["theånswer-shekzeer"]=0,
-	["thedoctorftw-shekzeer"]=5,
+	["thedoctorftw-shekzeer"]=15,
 	["thedrot-garalon"]=26,
 	["thehrc-auberdine"]=9,
 	["theicer-garalon"]=2,
