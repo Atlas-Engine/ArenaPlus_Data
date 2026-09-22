@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9716 characters, read 2026-09-22 10:58 AM.
+-- Region tbc-us, 9716 characters, read 2026-09-22 11:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10021,7 +10021,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["astrrid-nightslayer"]=10,
 	["asxce-nightslayer"]=5,
 	["atares-dreamscythe"]=18,
-	["atd-nightslayer"]=2,
+	["atd-nightslayer"]=18,
 	["atelierwitch-nightslayer"]=0,
 	["athletefx-nightslayer"]=9,
 	["athrax-nightslayer"]=16,
@@ -13573,7 +13573,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["imsocooked-nightslayer"]=0,
 	["imsouglyx-nightslayer"]=5,
 	["imsrymsjaxon-dreamscythe"]=2,
-	["imsrywinston-nightslayer"]=2,
+	["imsrywinston-nightslayer"]=18,
 	["imstiff-nightslayer"]=10,
 	["imtrans-nightslayer"]=11,
 	["imustfart-dreamscythe"]=12,
@@ -15253,7 +15253,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["myahisback-nightslayer"]=9,
 	["mycatsinheat-dreamscythe"]=1,
 	["mykaratist-nightslayer"]=7,
-	["mylken-nightslayer"]=10,
+	["mylken-nightslayer"]=24,
 	["mymeatsosore-nightslayer"]=5,
 	["mymm-nightslayer"]=18,
 	["myñd-nightslayer"]=5,
@@ -15407,7 +15407,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["newfatz-nightslayer"]=24,
 	["newratz-nightslayer"]=13,
 	["newtinme-nightslayer"]=7,
-	["newtrat-nightslayer"]=18,
+	["newtrat-nightslayer"]=2,
 	["nexd-dreamscythe"]=3,
 	["nexecute-dreamscythe"]=18,
 	["nexshot-dreamscythe"]=15,
@@ -15893,7 +15893,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["peejay-nightslayer"]=4,
 	["peesha-nightslayer"]=5,
 	["peestream-nightslayer"]=24,
-	["peeyen-nightslayer"]=19,
+	["peeyen-nightslayer"]=24,
 	["peezylust-nightslayer"]=10,
 	["peggii-nightslayer"]=1,
 	["pehbak-nightslayer"]=1,
@@ -17355,7 +17355,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["sliceblade-nightslayer"]=5,
 	["sliceface-nightslayer"]=8,
 	["slicemaster-nightslayer"]=2,
-	["slicenbryce-nightslayer"]=5,
+	["slicenbryce-nightslayer"]=8,
 	["slickrapid-dreamscythe"]=8,
 	["slimacacotbc-nightslayer"]=2,
 	["slimefeld-nightslayer"]=2,
@@ -17854,7 +17854,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["swiftsteps-nightslayer"]=5,
 	["swiftys-dreamscythe"]=7,
 	["swimzy-nightslayer"]=5,
-	["swinè-nightslayer"]=1,
+	["swinè-nightslayer"]=14,
 	["swineherder-nightslayer"]=2,
 	["swinemode-nightslayer"]=1,
 	["swipealot-nightslayer"]=7,
