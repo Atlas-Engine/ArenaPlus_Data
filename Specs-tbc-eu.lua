@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 10318 characters, read 2026-09-22 01:54 AM.
+-- Region tbc-eu, 10319 characters, read 2026-09-22 02:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7105,6 +7105,7 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["questionable-spineshatter"]=20,
 	["quichex-spineshatter"]=21,
 	["quickness-spineshatter"]=21,
+	["quickset-thunderstrike"]=41,
 	["quietplease-spineshatter"]=51,
 	["quiff-spineshatter"]=21,
 	["quiffwar-spineshatter"]=11,
@@ -10897,7 +10898,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["baldgoat-thunderstrike"]=0,
 	["baldøldman-spineshatter"]=9,
 	["baldrakker-spineshatter"]=23,
-	["baliang-spineshatter"]=3,
+	["baliang-spineshatter"]=19,
 	["balkanbackup-spineshatter"]=1,
 	["ballasekk-spineshatter"]=1,
 	["ballen-spineshatter"]=3,
@@ -11243,7 +11244,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["blurbrogue-spineshatter"]=3,
 	["blurbunter-spineshatter"]=25,
 	["blvckmvgic-spineshatter"]=2,
-	["blyeet-spineshatter"]=11,
+	["blyeet-spineshatter"]=12,
 	["blygt-spineshatter"]=26,
 	["blysche-spineshatter"]=11,
 	["blyskacham-spineshatter"]=12,
@@ -13989,7 +13990,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["horsebreeder-spineshatter"]=25,
 	["horsti-spineshatter"]=5,
 	["horû-spineshatter"]=3,
-	["hóru-spineshatter"]=4,
+	["hóru-spineshatter"]=9,
 	["horvathan-spineshatter"]=11,
 	["horviee-spineshatter"]=2,
 	["hotblaster-spineshatter"]=6,
@@ -17381,6 +17382,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["questionable-spineshatter"]=23,
 	["quichex-spineshatter"]=3,
 	["quickness-spineshatter"]=3,
+	["quickset-thunderstrike"]=1,
 	["quietplease-spineshatter"]=3,
 	["quiff-spineshatter"]=5,
 	["quiffwar-spineshatter"]=5,
@@ -17954,7 +17956,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["sashagreen-thunderstrike"]=1,
 	["sashax-spineshatter"]=8,
 	["sasóri-spineshatter"]=3,
-	["sasso-spineshatter"]=15,
+	["sasso-spineshatter"]=5,
 	["sasukke-spineshatter"]=3,
 	["satisfiedz-spineshatter"]=5,
 	["satisfyx-spineshatter"]=2,
