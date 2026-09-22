@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5176 characters, read 2026-09-21 10:59 PM.
+-- Region us, 5176 characters, read 2026-09-21 11:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -991,7 +991,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["darkferocity-grobbulus"]=10,
 	["darkjdm-lei-shen"]=20,
 	["darkkníght-grobbulus"]=10,
-	["darklegendz-raden"]=11,
 	["darknessfury-pagle"]=11,
 	["darknuns-pagle"]=41,
 	["darkphecy-pagle"]=20,
@@ -5981,7 +5980,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["darkferocity-grobbulus"]=21,
 	["darkjdm-lei-shen"]=6,
 	["darkkníght-grobbulus"]=6,
-	["darklegendz-raden"]=24,
+	["darklegendz-raden"]=0,
 	["darknessfury-pagle"]=6,
 	["darknuns-pagle"]=9,
 	["darkphecy-pagle"]=22,
@@ -8595,7 +8594,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["quartêrmain-pagle"]=3,
 	["quelss-pagle"]=2,
 	["quesø-pagle"]=29,
-	["questopresto-nazgrim"]=4,
+	["questopresto-nazgrim"]=10,
 	["quickscopex-pagle"]=3,
 	["quickvanish-pagle"]=34,
 	["qwanya-raden"]=1,
@@ -8744,7 +8743,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["rhyno-lei-shen"]=18,
 	["ribeyesteak-raden"]=7,
 	["richesness-lei-shen"]=2,
-	["rickgrimes-raden"]=14,
+	["rickgrimes-raden"]=29,
 	["ridyah-pagle"]=7,
 	["riitzx-pagle"]=1,
 	["riko-pagle"]=3,
