@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 10327 characters, read 2026-09-22 06:59 AM.
+-- Region tbc-eu, 10327 characters, read 2026-09-22 07:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -15279,7 +15279,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["lifou-spineshatter"]=12,
 	["liftkingz-spineshatter"]=5,
 	["lightcringe-thunderstrike"]=2,
-	["lighttaker-spineshatter"]=7,
+	["lighttaker-spineshatter"]=26,
 	["lihp-spineshatter"]=2,
 	["lihvan-spineshatter"]=3,
 	["likeashadow-thunderstrike"]=3,
@@ -15490,7 +15490,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["luzdelhielo-spineshatter"]=9,
 	["lviy-thunderstrike"]=4,
 	["lxrk-spineshatter"]=9,
-	["lyam-spineshatter"]=19,
+	["lyam-spineshatter"]=3,
 	["lyckz-spineshatter"]=2,
 	["lyft-spineshatter"]=5,
 	["lymen-spineshatter"]=2,
@@ -16798,7 +16798,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["ossuary-spineshatter"]=18,
 	["ostronie-spineshatter"]=19,
 	["osz-spineshatter"]=13,
-	["Öt-spineshatter"]=19,
+	["Öt-spineshatter"]=3,
 	["otäck-spineshatter"]=5,
 	["otherone-spineshatter"]=9,
 	["otrex-spineshatter"]=1,
@@ -18476,7 +18476,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["sladderorc-spineshatter"]=25,
 	["sladdisojos-spineshatter"]=2,
 	["sladewilson-spineshatter"]=9,
-	["sladewilson-thunderstrike"]=4,
+	["sladewilson-thunderstrike"]=9,
 	["slæm-spineshatter"]=23,
 	["slai-spineshatter"]=2,
 	["slapka-spineshatter"]=23,
@@ -20006,7 +20006,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["whusi-thunderstrike"]=10,
 	["whyalwysme-spineshatter"]=19,
 	["whysofrost-spineshatter"]=9,
-	["whytrabit-spineshatter"]=3,
+	["whytrabit-spineshatter"]=27,
 	["wickeddiana-spineshatter"]=13,
 	["wickman-spineshatter"]=13,
 	["widdee-thunderstrike"]=2,
@@ -20325,7 +20325,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["ymbr-spineshatter"]=3,
 	["ymbw-spineshatter"]=5,
 	["ynnxx-spineshatter"]=1,
-	["yns-spineshatter"]=15,
+	["yns-spineshatter"]=5,
 	["ynx-spineshatter"]=1,
 	["yobeubeu-spineshatter"]=1,
 	["yoggx-spineshatter"]=5,
