@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5168 characters, read 2026-09-22 11:59 AM.
+-- Region us, 5168 characters, read 2026-09-22 12:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4222,7 +4222,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["strly-pagle"]=11,
 	["stticka-pagle"]=11,
 	["studbolt-lei-shen"]=11,
-	["stungød-pagle"]=11,
+	["stungød-pagle"]=10,
 	["stwongspell-pagle"]=50,
 	["subàti-pagle"]=50,
 	["subdub-nazgrim"]=81,
@@ -6225,7 +6225,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dreynite-pagle"]=6,
 	["drfault-immerseus"]=5,
 	["drgspit-pagle"]=28,
-	["drhub-galakras"]=13,
+	["drhub-galakras"]=21,
 	["driadstorm-raden"]=12,
 	["drinkbeerz-raden"]=12,
 	["dripkingk-pagle"]=1,
@@ -8212,7 +8212,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["notantics-pagle"]=17,
 	["notdeathwing-galakras"]=11,
 	["notemily-raden"]=2,
-	["notgaylordz-raden"]=5,
+	["notgaylordz-raden"]=17,
 	["notluke-raden"]=14,
 	["notmystcdark-pagle"]=7,
 	["notsocially-raden"]=2,
@@ -8631,7 +8631,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["rambios-pagle"]=10,
 	["ramenfueled-pagle"]=1,
 	["rándom-pagle"]=16,
-	["randomia-nazgrim"]=7,
+	["randomia-nazgrim"]=30,
 	["randybo-nazgrim"]=17,
 	["rangetsu-raden"]=0,
 	["ráquel-raden"]=13,
@@ -9361,7 +9361,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["stticka-pagle"]=1,
 	["studbolt-lei-shen"]=1,
 	["stuffyknows-raden"]=0,
-	["stungød-pagle"]=14,
+	["stungød-pagle"]=29,
 	["stwongspell-pagle"]=28,
 	["subàti-pagle"]=9,
 	["subdub-nazgrim"]=14,

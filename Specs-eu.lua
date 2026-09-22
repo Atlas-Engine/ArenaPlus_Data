@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5309 characters, read 2026-09-22 12:00 PM.
+-- Region eu, 5310 characters, read 2026-09-22 01:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -418,6 +418,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["ballbusting-shekzeer"]=11,
 	["ballbustingq-shekzeer"]=11,
 	["balmond-shekzeer"]=10,
+	["balyozcuma-shekzeer"]=10,
 	["bamberg-shekzeer"]=11,
 	["bambonito-shekzeer"]=11,
 	["bambulover-shekzeer"]=251,
@@ -2893,7 +2894,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["nøxylol-everlook"]=30,
 	["Ñqqa-shekzeer"]=11,
 	["nrg-shekzeer"]=11,
-	["nsé-garalon"]=11,
+	["nsé-garalon"]=10,
 	["ntbf-shekzeer"]=11,
 	["ntbfq-shekzeer"]=11,
 	["ntxfake-shekzeer"]=41,
@@ -4817,7 +4818,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["Вспышкинх-flamegor"]=50,
 	["Вэалзи-flamegor"]=11,
 	["Вэйдэм-flamegor"]=220,
-	["Вэрш-flamegor"]=21,
+	["Вэрш-flamegor"]=20,
 	["Гарантииный-flamegor"]=20,
 	["Гармоника-flamegor"]=51,
 	["Гартен-flamegor"]=10,
@@ -5518,6 +5519,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["ballbusting-shekzeer"]=24,
 	["ballbustingq-shekzeer"]=2,
 	["balmond-shekzeer"]=15,
+	["balyozcuma-shekzeer"]=15,
 	["bamberg-shekzeer"]=5,
 	["bambonito-shekzeer"]=26,
 	["bambulover-shekzeer"]=6,
@@ -5528,7 +5530,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["barackokarma-shekzeer"]=0,
 	["barbarian-shekzeer"]=1,
 	["barbarianx-shekzeer"]=1,
-	["barilas-norushen"]=17,
+	["barilas-norushen"]=28,
 	["barkwinde-shekzeer"]=24,
 	["bassboosted-auberdine"]=6,
 	["bastion-gehennas"]=0,
@@ -6638,7 +6640,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["gomugomuno-shekzeer"]=8,
 	["gonga-shekzeer"]=14,
 	["goodmorgen-garalon"]=6,
-	["goodrich-shekzeer"]=17,
+	["goodrich-shekzeer"]=28,
 	["goofel-gehennas"]=0,
 	["googlemex-everlook"]=13,
 	["googleorb-shekzeer"]=6,
@@ -8110,7 +8112,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["nøxylol-everlook"]=13,
 	["Ñqqa-shekzeer"]=1,
 	["nrg-shekzeer"]=24,
-	["nsé-garalon"]=15,
+	["nsé-garalon"]=5,
 	["ntbf-shekzeer"]=24,
 	["ntbfq-shekzeer"]=9,
 	["ntxfake-shekzeer"]=11,
