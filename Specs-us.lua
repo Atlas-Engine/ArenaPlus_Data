@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5168 characters, read 2026-09-22 01:59 PM.
+-- Region us, 5168 characters, read 2026-09-22 02:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3824,7 +3824,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["sekyriu-pagle"]=80,
 	["selania-pagle"]=11,
 	["seleste-raden"]=111,
-	["selfplay-raden"]=11,
+	["selfplay-raden"]=10,
 	["selina-lei-shen"]=221,
 	["semingg-pagle"]=11,
 	["senddudesqt-pagle"]=20,
@@ -5869,7 +5869,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["crapes-immerseus"]=12,
 	["crapes-raden"]=12,
 	["crashdavis-raden"]=23,
-	["crashhoutt-pagle"]=6,
+	["crashhoutt-pagle"]=26,
 	["crashmoore-pagle"]=7,
 	["crayinmymind-pagle"]=7,
 	["crazè-pagle"]=34,
@@ -6088,7 +6088,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["diddyjones-pagle"]=6,
 	["diddylee-raden"]=0,
 	["diddywave-pagle"]=4,
-	["diegonis-raden"]=16,
+	["diegonis-raden"]=2,
 	["dieinahole-galakras"]=7,
 	["diella-raden"]=9,
 	["diellza-raden"]=7,
@@ -8719,7 +8719,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["reticence-pagle"]=10,
 	["retmainxd-raden"]=18,
 	["retrostance-galakras"]=2,
-	["rettek-raden"]=28,
+	["rettek-raden"]=8,
 	["revcole-raden"]=9,
 	["revènge-raden"]=7,
 	["reverencex-pagle"]=24,
@@ -8735,7 +8735,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["rhop-pagle"]=1,
 	["rhyno-lei-shen"]=18,
 	["richesness-lei-shen"]=2,
-	["rickgrimes-raden"]=29,
+	["rickgrimes-raden"]=14,
 	["ridyah-pagle"]=7,
 	["riitzx-pagle"]=1,
 	["riko-pagle"]=3,

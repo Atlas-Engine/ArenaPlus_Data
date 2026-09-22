@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5310 characters, read 2026-09-22 02:00 PM.
+-- Region eu, 5310 characters, read 2026-09-22 03:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1794,7 +1794,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["indié-everlook"]=11,
 	["indîe-everlook"]=11,
 	["ineedtopoo-shekzeer"]=10,
-	["ineo-shekzeer"]=11,
+	["ineo-shekzeer"]=10,
 	["inertemplier-shekzeer"]=10,
 	["infection-shekzeer"]=10,
 	["infectiøns-auberdine"]=11,
@@ -5530,7 +5530,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["barackokarma-shekzeer"]=0,
 	["barbarian-shekzeer"]=1,
 	["barbarianx-shekzeer"]=1,
-	["barilas-norushen"]=28,
+	["barilas-norushen"]=17,
 	["barkwinde-shekzeer"]=24,
 	["bassboosted-auberdine"]=6,
 	["bastion-gehennas"]=0,
@@ -5733,7 +5733,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["brywen-shekzeer"]=24,
 	["bs-mirage-raceway"]=13,
 	["bsød-mirage-raceway"]=13,
-	["bubblebêé-everlook"]=5,
+	["bubblebêé-everlook"]=15,
 	["bubblegmz-mirage-raceway"]=12,
 	["búbblès-shekzeer"]=17,
 	["bubudeathete-shekzeer"]=9,
@@ -6269,7 +6269,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["dunderpallan-shekzeer"]=5,
 	["dunkelheit-shekzeer"]=9,
 	["dúpond-auberdine"]=3,
-	["durianlover-shekzeer"]=11,
+	["durianlover-shekzeer"]=3,
 	["duskmeh-shekzeer"]=1,
 	["duskyn-shekzeer"]=20,
 	["dusoleil-shekzeer"]=24,
@@ -6278,7 +6278,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["dwg-shekzeer"]=3,
 	["dwgz-shekzeer"]=9,
 	["dxab-shekzeer"]=22,
-	["dxbam-shekzeer"]=9,
+	["dxbam-shekzeer"]=12,
 	["dxbamoon-shekzeer"]=7,
 	["dxbom-shekzeer"]=3,
 	["dynarsia-shekzeer"]=3,
@@ -8684,7 +8684,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["ryuuko-shekzeer"]=17,
 	["ryuuren-garalon"]=9,
 	["saala-shekzeer"]=1,
-	["saasaa-shekzeer"]=16,
+	["saasaa-shekzeer"]=13,
 	["sachikø-shekzeer"]=9,
 	["sacredvow-shekzeer"]=5,
 	["sadeqool-mirage-raceway"]=8,
@@ -8694,7 +8694,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["sahika-hoptallus"]=10,
 	["sâif-mirage-raceway"]=1,
 	["sâîf-mirage-raceway"]=8,
-	["saigon-shekzeer"]=11,
+	["saigon-shekzeer"]=21,
 	["saintefouf-shekzeer"]=9,
 	["sair-norushen"]=6,
 	["saivelom-shekzeer"]=24,
@@ -8799,7 +8799,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["shadowdeath-shekzeer"]=12,
 	["shadoweed-shekzeer"]=12,
 	["shadowgap-shekzeer"]=24,
-	["shadowlife-shekzeer"]=12,
+	["shadowlife-shekzeer"]=9,
 	["shadowretri-mirage-raceway"]=15,
 	["shadr-shekzeer"]=17,
 	["shaina-auberdine"]=3,
