@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5169 characters, read 2026-09-22 05:59 PM.
+-- Region us, 5169 characters, read 2026-09-22 06:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5361,7 +5361,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["beijingdy-grobbulus"]=17,
 	["beijingms-grobbulus"]=13,
 	["beijingsa-grobbulus"]=19,
-	["beijingss-grobbulus"]=24,
+	["beijingss-grobbulus"]=28,
 	["beish-pagle"]=15,
 	["bektal-pagle"]=19,
 	["beladorit-pagle"]=24,
@@ -5683,7 +5683,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["cannabimorph-pagle"]=5,
 	["cannibirilla-pagle"]=7,
 	["canogapark-pagle"]=28,
-	["cantgetmeoff-pagle"]=30,
+	["cantgetmeoff-pagle"]=7,
 	["cäpriëstsun-pagle"]=9,
 	["carbontaxes-pagle"]=1,
 	["cardpally-galakras"]=16,
@@ -8021,7 +8021,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["mozzi-raden"]=7,
 	["mp-raden"]=9,
 	["mslusty-pagle"]=10,
-	["msnurfme-raden"]=17,
+	["msnurfme-raden"]=5,
 	["msr-galakras"]=3,
 	["mtj-atiesh"]=17,
 	["mufasaz-pagle"]=10,
