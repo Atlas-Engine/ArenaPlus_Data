@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 10317 characters, read 2026-09-21 09:59 PM.
+-- Region tbc-eu, 10317 characters, read 2026-09-21 10:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10676,9 +10676,9 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["arthurshelby-spineshatter"]=8,
 	["artmagus-spineshatter"]=9,
 	["arturos-spineshatter"]=7,
-	["arunika-spineshatter"]=18,
+	["arunika-spineshatter"]=13,
 	["arusho-spineshatter"]=5,
-	["Àryn-spineshatter"]=26,
+	["Àryn-spineshatter"]=7,
 	["Äryn-spineshatter"]=11,
 	["aryssia-spineshatter"]=6,
 	["Âryyn-spineshatter"]=4,
@@ -11900,7 +11900,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["cræbxz-spineshatter"]=7,
 	["craesy-spineshatter"]=7,
 	["crahomm-spineshatter"]=1,
-	["cranegødx-spineshatter"]=2,
+	["cranegødx-spineshatter"]=17,
 	["crankié-spineshatter"]=9,
 	["crankshãft-spineshatter"]=5,
 	["crankyx-thunderstrike"]=24,
@@ -17585,7 +17585,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["renntech-spineshatter"]=21,
 	["reno-spineshatter"]=2,
 	["renovario-thunderstrike"]=11,
-	["rens-spineshatter"]=13,
+	["rens-spineshatter"]=14,
 	["rensl-spineshatter"]=13,
 	["rensw-spineshatter"]=13,
 	["rentari-spineshatter"]=1,
@@ -18530,7 +18530,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["smøkyyx-spineshatter"]=19,
 	["smoothing-spineshatter"]=3,
 	["smoothìng-spineshatter"]=9,
-	["smooya-spineshatter"]=2,
+	["smooya-spineshatter"]=17,
 	["smörskelett-spineshatter"]=3,
 	["smosbyxdd-spineshatter"]=7,
 	["smourneprio-spineshatter"]=5,
@@ -18873,7 +18873,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["strixz-spineshatter"]=18,
 	["strobe-spineshatter"]=13,
 	["strogg-spineshatter"]=17,
-	["strongmind-spineshatter"]=19,
+	["strongmind-spineshatter"]=3,
 	["strontlucht-spineshatter"]=5,
 	["stroud-spineshatter"]=15,
 	["strugz-spineshatter"]=3,
