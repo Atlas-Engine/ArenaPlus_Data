@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5168 characters, read 2026-09-22 02:59 PM.
+-- Region us, 5168 characters, read 2026-09-22 03:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5936,7 +5936,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["daddypompum-raden"]=5,
 	["daemz-pagle"]=16,
 	["daffykinz-pagle"]=24,
-	["daggertwist-raden"]=14,
+	["daggertwist-raden"]=29,
 	["dahkkaun-pagle"]=20,
 	["dailou-grobbulus"]=7,
 	["daiyus-pagle"]=14,
@@ -5965,7 +5965,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["Ðark-nazgrim"]=6,
 	["darkavengerr-grobbulus"]=28,
 	["darkdankdope-raden"]=10,
-	["darkdeamon-pagle"]=1,
+	["darkdeamon-pagle"]=11,
 	["darkestcyn-galakras"]=28,
 	["darkferocity-grobbulus"]=21,
 	["darkjdm-lei-shen"]=6,
@@ -7201,7 +7201,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["jablinksi-immerseus"]=27,
 	["jabullsheeit-pagle"]=3,
 	["jabzul-galakras"]=3,
-	["jackelinc-pagle"]=20,
+	["jackelinc-pagle"]=18,
 	["jackietan-pagle"]=4,
 	["jackmorgan-pagle"]=16,
 	["jackxo-arugal-au"]=11,
@@ -7369,7 +7369,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["katharsh-pagle"]=9,
 	["kâto-pagle"]=16,
 	["kavarnxx-raden"]=28,
-	["kawika-pagle"]=32,
+	["kawika-pagle"]=16,
 	["kazakuz-raden"]=21,
 	["kazamon-pagle"]=24,
 	["keeferjar-pagle"]=3,
