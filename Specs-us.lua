@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5170 characters, read 2026-09-22 04:59 AM.
+-- Region us, 5170 characters, read 2026-09-22 05:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6964,7 +6964,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["hohenhymn-raden"]=25,
 	["hojosatoru-raden"]=16,
 	["hojville-pagle"]=16,
-	["holidayhamii-pagle"]=32,
+	["holidayhamii-pagle"]=2,
 	["holtxd-raden"]=7,
 	["holyangelz-pagle"]=2,
 	["holycøcktail-raden"]=2,
@@ -7597,7 +7597,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["lickmypimple-nazgrim"]=19,
 	["lifebilder-pagle"]=9,
 	["lifeblderapp-pagle"]=20,
-	["lifesavérs-pagle"]=9,
+	["lifesavérs-pagle"]=13,
 	["lighi-raden"]=3,
 	["lightenforge-pagle"]=2,
 	["lightglare-pagle"]=7,
@@ -8591,7 +8591,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["quartêrmain-pagle"]=3,
 	["quelss-pagle"]=2,
 	["quesø-pagle"]=29,
-	["questopresto-nazgrim"]=10,
+	["questopresto-nazgrim"]=4,
 	["quickscopex-pagle"]=3,
 	["quickvanish-pagle"]=34,
 	["qwanya-raden"]=1,
@@ -9686,7 +9686,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["tsukawashime-raden"]=4,
 	["tsunadè-nazgrim"]=9,
 	["ttawdirg-pagle"]=20,
-	["tubalcain-galakras"]=15,
+	["tubalcain-galakras"]=19,
 	["tukko-raden"]=14,
 	["tuladepiedra-pagle"]=7,
 	["tuptuptup-raden"]=25,
