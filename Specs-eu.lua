@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5312 characters, read 2026-09-21 07:00 PM.
+-- Region eu, 5312 characters, read 2026-09-21 08:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2037,7 +2037,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["kaworu-auberdine"]=11,
 	["kayzee-ook-ook"]=11,
 	["kazakhstani-shekzeer"]=11,
-	["kazemí-everlook"]=10,
+	["kazemí-everlook"]=11,
 	["kazui-shekzeer"]=11,
 	["kbxdk-shekzeer"]=11,
 	["keaganator-mirage-raceway"]=11,
@@ -5497,7 +5497,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["badmanchazo-garalon"]=0,
 	["badmanchazo-shekzeer"]=0,
 	["badmannersx-shekzeer"]=6,
-	["badtank-garalon"]=15,
+	["badtank-garalon"]=30,
 	["badteam-garalon"]=0,
 	["bãe-shekzeer"]=9,
 	["baejs-shekzeer"]=9,
@@ -9220,7 +9220,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["tarhya-everlook"]=19,
 	["tarpetty-auberdine"]=25,
 	["taryene-shekzeer"]=16,
-	["tastemydmg-shekzeer"]=4,
+	["tastemydmg-shekzeer"]=20,
 	["tastyd-shekzeer"]=3,
 	["tawnyx-everlook"]=3,
 	["taylôrswiftx-mirage-raceway"]=6,
@@ -9230,7 +9230,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["tbax-shekzeer"]=3,
 	["tbk-auberdine"]=15,
 	["tdzd-firemaw"]=21,
-	["teals-shekzeer"]=20,
+	["teals-shekzeer"]=4,
 	["tealsbrew-shekzeer"]=29,
 	["teegärtner-everlook"]=7,
 	["tejbz-everlook"]=5,

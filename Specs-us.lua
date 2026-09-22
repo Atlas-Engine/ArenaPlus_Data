@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5165 characters, read 2026-09-21 06:59 PM.
+-- Region us, 5165 characters, read 2026-09-21 07:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2134,6 +2134,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["intercepts-pagle"]=11,
 	["intrerri-pagle"]=220,
 	["intru-raden"]=11,
+	["intruz-raden"]=11,
 	["invaderr-galakras"]=50,
 	["invîctûs-pagle"]=10,
 	["ipmann-galakras"]=260,
@@ -2505,7 +2506,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["lebenn-pagle"]=11,
 	["lebzozo-pagle"]=11,
 	["leddydk-pagle"]=11,
-	["leddyshxx-pagle"]=31,
+	["leddyshx-pagle"]=21,
 	["leddywx-pagle"]=11,
 	["leddyx-pagle"]=51,
 	["legendary-raden"]=11,
@@ -4047,7 +4048,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["sniper-raden"]=11,
 	["sniperfetzz-pagle"]=100,
 	["sniperr-raden"]=11,
-	["snipertwo-raden"]=11,
 	["snitzelbelle-pagle"]=101,
 	["snorken-lei-shen"]=30,
 	["snowdrop-arugal-au"]=81,
@@ -5320,7 +5320,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["bashlee-lei-shen"]=7,
 	["battleground-pagle"]=17,
 	["battleground-raden"]=4,
-	["bayol-raden"]=13,
+	["bayol-raden"]=21,
 	["bâz-arugal-au"]=1,
 	["bazblast-arugal-au"]=15,
 	["bazflay-arugal-au"]=21,
@@ -7161,6 +7161,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["intercepts-pagle"]=7,
 	["intrerri-pagle"]=34,
 	["intru-raden"]=3,
+	["intruz-raden"]=6,
 	["invaderr-galakras"]=29,
 	["invîctûs-pagle"]=10,
 	["ipmann-galakras"]=4,
@@ -7549,7 +7550,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["lebenn-pagle"]=1,
 	["lebzozo-pagle"]=9,
 	["leddydk-pagle"]=6,
-	["leddyshxx-pagle"]=19,
+	["leddyshx-pagle"]=19,
 	["leddywx-pagle"]=7,
 	["leddyx-pagle"]=4,
 	["legendary-raden"]=1,
@@ -9170,7 +9171,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["sniper-raden"]=3,
 	["sniperfetzz-pagle"]=18,
 	["sniperr-raden"]=3,
-	["snipertwo-raden"]=3,
 	["snitzelbelle-pagle"]=11,
 	["snorken-lei-shen"]=3,
 	["snowdrop-arugal-au"]=14,
