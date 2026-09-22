@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 10318 characters, read 2026-09-21 11:59 PM.
+-- Region tbc-eu, 10318 characters, read 2026-09-22 12:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10653,7 +10653,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["arimash-spineshatter"]=25,
 	["arísé-spineshatter"]=5,
 	["Ârise-thunderstrike"]=2,
-	["ariving-spineshatter"]=10,
+	["ariving-spineshatter"]=26,
 	["arkivx-spineshatter"]=7,
 	["arkoudoss-thunderstrike"]=1,
 	["arleniaqt-spineshatter"]=7,
@@ -10664,7 +10664,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["arnegardxx-spineshatter"]=4,
 	["arnesson-spineshatter"]=2,
 	["arqsmol-spineshatter"]=15,
-	["arranarr-spineshatter"]=5,
+	["arranarr-spineshatter"]=15,
 	["arrïmadas-spineshatter"]=3,
 	["arrowstâck-spineshatter"]=25,
 	["artexd-spineshatter"]=5,
@@ -11558,7 +11558,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["carldrogo-thunderstrike"]=2,
 	["carmnelectra-spineshatter"]=23,
 	["carnagexo-spineshatter"]=2,
-	["cárney-spineshatter"]=26,
+	["cárney-spineshatter"]=7,
 	["carnivor-spineshatter"]=5,
 	["carodejmore-spineshatter"]=8,
 	["caroux-spineshatter"]=1,
