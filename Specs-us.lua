@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5165 characters, read 2026-09-21 07:59 PM.
+-- Region us, 5165 characters, read 2026-09-21 08:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5036,7 +5036,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["acx-raden"]=2,
 	["acxblue-raden"]=19,
 	["adamandsteve-immerseus"]=9,
-	["adamwarløck-nazgrim"]=24,
+	["adamwarløck-nazgrim"]=28,
 	["adeathians-lei-shen"]=6,
 	["adepto-pagle"]=7,
 	["adgavert-lei-shen"]=32,
@@ -5050,7 +5050,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["aellane-pagle"]=6,
 	["Ærîthøs-pagle"]=16,
 	["aeroes-pagle"]=3,
-	["aerzkei-arugal-au"]=17,
+	["aerzkei-arugal-au"]=5,
 	["aës-pagle"]=1,
 	["afekz-immerseus"]=29,
 	["affliktt-arugal-au"]=9,
@@ -6192,7 +6192,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dosak-pagle"]=10,
 	["dóssy-immerseus"]=34,
 	["dotdotgoose-immerseus"]=28,
-	["dothkar-galakras"]=11,
+	["dothkar-galakras"]=1,
 	["dotwaves-pagle"]=3,
 	["dôtzz-galakras"]=24,
 	["double-lei-shen"]=14,
@@ -8973,7 +8973,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["shamhertz-nazgrim"]=22,
 	["shamiee-raden"]=15,
 	["shamitdamnit-pagle"]=22,
-	["shammans-pagle"]=22,
+	["shammans-pagle"]=19,
 	["shamshocksz-pagle"]=15,
 	["shamwowx-nazgrim"]=15,
 	["shanak-nazgrim"]=9,
