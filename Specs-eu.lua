@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5309 characters, read 2026-09-23 07:00 AM.
+-- Region eu, 5309 characters, read 2026-09-23 08:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -374,6 +374,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["Äzard-shekzeer"]=11,
 	["azarrd-shekzeer"]=41,
 	["azdor-mirage-raceway"]=20,
+	["azelu-everlook"]=11,
 	["azraiil-garalon"]=20,
 	["azrailon-shekzeer"]=31,
 	["azrd-shekzeer"]=41,
@@ -5464,7 +5465,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Äzard-shekzeer"]=24,
 	["azarrd-shekzeer"]=21,
 	["azdor-mirage-raceway"]=19,
-	["azelu-everlook"]=0,
+	["azelu-everlook"]=29,
 	["azraiil-garalon"]=8,
 	["azrailon-shekzeer"]=13,
 	["azrd-shekzeer"]=3,
@@ -9536,7 +9537,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["vayn-shekzeer"]=5,
 	["vazir-shekzeer"]=11,
 	["vazyx-shekzeer"]=16,
-	["vazyxsdad-shekzeer"]=6,
+	["vazyxsdad-shekzeer"]=7,
 	["vealis-shekzeer"]=13,
 	["veera-shekzeer"]=26,
 	["vegz-garalon"]=5,
