@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9681 characters, read 2026-09-23 04:58 AM.
+-- Region tbc-us, 9681 characters, read 2026-09-23 05:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -13550,7 +13550,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["innovatorx-nightslayer"]=18,
 	["innovindill-dreamscythe"]=21,
 	["inquislolxd-nightslayer"]=0,
-	["insam-nightslayer"]=7,
+	["insam-nightslayer"]=3,
 	["insomniaq-nightslayer"]=12,
 	["insto-nightslayer"]=6,
 	["instruct-nightslayer"]=4,
@@ -14193,7 +14193,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["krymek-nightslayer"]=7,
 	["krypte-nightslayer"]=8,
 	["ksc-nightslayer"]=5,
-	["ktrx-nightslayer"]=3,
+	["ktrx-nightslayer"]=7,
 	["kuchittx-nightslayer"]=1,
 	["kudwiz-nightslayer"]=6,
 	["kudzug-nightslayer"]=10,
@@ -14369,7 +14369,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["lickmenip-nightslayer"]=1,
 	["lido-nightslayer"]=15,
 	["lidruzybussy-nightslayer"]=11,
-	["liekey-nightslayer"]=4,
+	["liekey-nightslayer"]=6,
 	["lifeordef-nightslayer"]=7,
 	["liferox-nightslayer"]=1,
 	["lifted-dreamscythe"]=24,
@@ -15001,7 +15001,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["missahgt-nightslayer"]=4,
 	["missdiarrhea-dreamscythe"]=18,
 	["missedfears-nightslayer"]=1,
-	["missingnoo-nightslayer"]=8,
+	["missingnoo-nightslayer"]=5,
 	["missmi-nightslayer"]=1,
 	["missmoo-nightslayer"]=7,
 	["missrobin-nightslayer"]=10,
@@ -15845,7 +15845,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["pehbak-nightslayer"]=1,
 	["pehdru-nightslayer"]=7,
 	["peiign-nightslayer"]=8,
-	["pek-nightslayer"]=23,
+	["pek-nightslayer"]=16,
 	["pekoe-nightslayer"]=12,
 	["peladini-nightslayer"]=11,
 	["pelafin-nightslayer"]=5,
