@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5170 characters, read 2026-09-22 11:59 PM.
+-- Region us, 5170 characters, read 2026-09-23 12:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6202,7 +6202,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["drãkã-nazgrim"]=15,
 	["draknyel-galakras"]=4,
 	["draùnz-pagle"]=4,
-	["drazzuh-pagle"]=12,
+	["drazzuh-pagle"]=17,
 	["drbojackal-pagle"]=9,
 	["drcrusher-galakras"]=9,
 	["dreadedshotz-raden"]=3,
@@ -6476,7 +6476,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["feliixthecat-lei-shen"]=16,
 	["felipebr-raden"]=33,
 	["felixtthecat-lei-shen"]=6,
-	["fellixthecat-lei-shen"]=3,
+	["fellixthecat-lei-shen"]=20,
 	["fellixthecat-pagle"]=16,
 	["fëlöny-pagle"]=28,
 	["feluccaxz-raden"]=10,
@@ -7433,7 +7433,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["kiqsl-pagle"]=28,
 	["kiqsw-pagle"]=7,
 	["kiripha-arugal-au"]=15,
-	["kitezz-pagle"]=3,
+	["kitezz-pagle"]=20,
 	["kittybruiser-galakras"]=12,
 	["kîwï-pagle"]=19,
 	["kíyo-raden"]=2,
@@ -7474,7 +7474,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["kratøs-galakras"]=7,
 	["kreanthor-raden"]=25,
 	["kreirianstus-pagle"]=6,
-	["krelana-pagle"]=21,
+	["krelana-pagle"]=9,
 	["kreleda-pagle"]=6,
 	["kreyadrin-pagle"]=6,
 	["krico-raden"]=10,
@@ -9709,7 +9709,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["tyrannius-raden"]=7,
 	["tyranosaur-pagle"]=4,
 	["tytlefight-pagle"]=7,
-	["tyvm-arugal-au"]=13,
+	["tyvm-arugal-au"]=9,
 	["ubart-pagle"]=7,
 	["ucmenow-raden"]=29,
 	["uddermadlad-pagle"]=26,

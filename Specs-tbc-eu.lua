@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 10221 characters, read 2026-09-22 11:59 PM.
+-- Region tbc-eu, 10222 characters, read 2026-09-23 12:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4108,6 +4108,7 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["jbx-spineshatter"]=50,
 	["jcengi-spineshatter"]=11,
 	["jckstein-spineshatter"]=31,
+	["jcohen-spineshatter"]=30,
 	["jdaps-spineshatter"]=80,
 	["jdoublev-spineshatter"]=81,
 	["jeah-spineshatter"]=21,
@@ -13181,7 +13182,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["frailis-spineshatter"]=1,
 	["fralleep-spineshatter"]=2,
 	["framför-spineshatter"]=3,
-	["frandiks-thunderstrike"]=3,
+	["frandiks-thunderstrike"]=19,
 	["frankkastle-thunderstrike"]=12,
 	["frankyy-spineshatter"]=24,
 	["fränni-spineshatter"]=9,
@@ -13305,7 +13306,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["garthmoo-spineshatter"]=1,
 	["garthsham-spineshatter"]=23,
 	["garwarkh-thunderstrike"]=5,
-	["garylolz-spineshatter"]=9,
+	["garylolz-spineshatter"]=4,
 	["gârylolz-spineshatter"]=2,
 	["gârylölz-spineshatter"]=13,
 	["gärylölz-spineshatter"]=10,
@@ -14260,6 +14261,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["jbx-spineshatter"]=9,
 	["jcengi-spineshatter"]=3,
 	["jckstein-spineshatter"]=2,
+	["jcohen-spineshatter"]=2,
 	["jdaps-spineshatter"]=2,
 	["jdoublev-spineshatter"]=5,
 	["jeah-spineshatter"]=19,
@@ -16639,7 +16641,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["outtogetyou-thunderstrike"]=2,
 	["ovanlig-spineshatter"]=11,
 	["oveisback-spineshatter"]=2,
-	["ovemeíster-spineshatter"]=11,
+	["ovemeíster-spineshatter"]=12,
 	["overdamage-spineshatter"]=13,
 	["overdmg-spineshatter"]=3,
 	["overhealxd-spineshatter"]=8,
@@ -16923,7 +16925,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["plsoverwatch-spineshatter"]=2,
 	["plushh-spineshatter"]=2,
 	["plzhêlp-spineshatter"]=1,
-	["pnox-spineshatter"]=7,
+	["pnox-spineshatter"]=26,
 	["pnv-spineshatter"]=3,
 	["pnyxa-spineshatter"]=12,
 	["poalala-spineshatter"]=12,
@@ -17255,7 +17257,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["radical-spineshatter"]=24,
 	["radulo-spineshatter"]=13,
 	["raffãh-spineshatter"]=2,
-	["rafikï-thunderstrike"]=11,
+	["rafikï-thunderstrike"]=12,
 	["raftershaman-spineshatter"]=23,
 	["ragà-spineshatter"]=2,
 	["ragah-spineshatter"]=6,
