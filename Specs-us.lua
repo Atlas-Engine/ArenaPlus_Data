@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5174 characters, read 2026-09-23 07:59 AM.
+-- Region us, 5174 characters, read 2026-09-23 08:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6772,7 +6772,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["goonerqt-pagle"]=21,
 	["goop-arugal-au"]=1,
 	["gooseus-pagle"]=16,
-	["gorack-nazgrim"]=18,
+	["gorack-nazgrim"]=3,
 	["gørdàwg-pagle"]=0,
 	["gordonslaya-pagle"]=16,
 	["goreleone-pagle"]=7,
@@ -6985,7 +6985,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["holyswiss-pagle"]=16,
 	["holythugx-pagle"]=16,
 	["holytick-pagle"]=2,
-	["holyvale-pagle"]=13,
+	["holyvale-pagle"]=21,
 	["hólyy-raden"]=16,
 	["holyywarr-raden"]=7,
 	["holyzephyr-raden"]=9,
@@ -9402,7 +9402,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["supérsaiyan-raden"]=2,
 	["superstikkyy-pagle"]=29,
 	["supersweat-pagle"]=7,
-	["survivorzx-raden"]=2,
+	["survivorzx-raden"]=16,
 	["sushibanks-pagle"]=7,
 	["sushichi-galakras"]=4,
 	["sushimaki-galakras"]=7,
