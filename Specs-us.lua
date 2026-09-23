@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5173 characters, read 2026-09-23 12:59 PM.
+-- Region us, 5174 characters, read 2026-09-23 01:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3783,6 +3783,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["saxagebites-pagle"]=80,
 	["saxagelee-pagle"]=10,
 	["saydar-raden"]=11,
+	["sazzieu-raden"]=10,
 	["scarlen-pagle"]=11,
 	["scarybarnowl-grobbulus"]=80,
 	["scarykitty-raden"]=41,
@@ -5559,7 +5560,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["bowjakkson-immerseus"]=3,
 	["bowjo-lei-shen"]=3,
 	["bowjyden-pagle"]=3,
-	["bowlbasaur-pagle"]=29,
+	["bowlbasaur-pagle"]=34,
 	["bowlshift-raden"]=12,
 	["bowner-pagle"]=3,
 	["bównër-raden"]=18,
@@ -6188,7 +6189,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dosak-pagle"]=10,
 	["dóssy-immerseus"]=34,
 	["dotdotgoose-immerseus"]=28,
-	["dothkar-galakras"]=1,
+	["dothkar-galakras"]=11,
 	["dotwaves-pagle"]=3,
 	["dôtzz-galakras"]=24,
 	["double-lei-shen"]=14,
@@ -6630,7 +6631,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["fxd-arugal-au"]=5,
 	["gaarah-pagle"]=1,
 	["gabimaru-raden"]=4,
-	["gaejustin-pagle"]=12,
+	["gaejustin-pagle"]=33,
 	["gaêl-lei-shen"]=18,
 	["gaethje-raden"]=0,
 	["gaiden-nazgrim"]=34,
@@ -8601,7 +8602,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["rabidwolf-pagle"]=19,
 	["racket-pagle"]=14,
 	["radaggast-lei-shen"]=1,
-	["radendznuts-raden"]=22,
+	["radendznuts-raden"]=15,
 	["radix-raden"]=0,
 	["raelenaa-pagle"]=1,
 	["raenix-pagle"]=14,
@@ -8901,6 +8902,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["saxagelee-pagle"]=10,
 	["saydar-raden"]=1,
 	["sayuka-raden"]=0,
+	["sazzieu-raden"]=7,
 	["scarlen-pagle"]=1,
 	["scarybarnowl-grobbulus"]=17,
 	["scarykitty-raden"]=5,
@@ -10043,7 +10045,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ybats-grobbulus"]=24,
 	["yeardme-pagle"]=1,
 	["yecnay-galakras"]=7,
-	["yecum-galakras"]=9,
+	["yecum-galakras"]=21,
 	["yekcoh-pagle"]=29,
 	["yellowspwn-raden"]=21,
 	["yelly-pagle"]=20,
@@ -10057,7 +10059,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["yglol-pagle"]=4,
 	["yglol-raden"]=4,
 	["ygn-pagle"]=7,
-	["yhelena-pagle"]=34,
+	["yhelena-pagle"]=29,
 	["yhk-pagle"]=16,
 	["yiana-nazgrim"]=13,
 	["yimchad-raden"]=19,

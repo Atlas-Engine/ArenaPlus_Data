@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5309 characters, read 2026-09-23 01:00 PM.
+-- Region eu, 5309 characters, read 2026-09-23 02:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5308,7 +5308,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["angrypickle-shekzeer"]=6,
 	["angrywarrior-shekzeer"]=1,
 	["angrywife-shekzeer"]=7,
-	["anika-shekzeer"]=30,
+	["anika-shekzeer"]=5,
 	["anikilador-shekzeer"]=34,
 	["animalleader-shekzeer"]=3,
 	["ankalagor-mirage-raceway"]=2,
@@ -6462,7 +6462,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["figment-garalon"]=3,
 	["figuar-garalon"]=4,
 	["fiksiuss-mirage-raceway"]=15,
-	["filmar-shekzeer"]=4,
+	["filmar-shekzeer"]=20,
 	["filmarisa-shekzeer"]=26,
 	["filthyfresh-shekzeer"]=12,
 	["finq-mirage-raceway"]=17,
@@ -6737,7 +6737,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["hanamichi-norushen"]=7,
 	["hängo-shekzeer"]=9,
 	["hánnibál-shekzeer"]=0,
-	["haølod-hoptallus"]=1,
+	["haølod-hoptallus"]=25,
 	["haori-shekzeer"]=9,
 	["hapless-everlook"]=7,
 	["happyfather-shekzeer"]=16,
@@ -8683,7 +8683,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["ryuuko-shekzeer"]=17,
 	["ryuuren-garalon"]=9,
 	["saala-shekzeer"]=1,
-	["saasaa-shekzeer"]=13,
+	["saasaa-shekzeer"]=16,
 	["sachikø-shekzeer"]=9,
 	["sacredvow-shekzeer"]=5,
 	["sadeqool-mirage-raceway"]=8,
@@ -8704,7 +8704,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["salvatoriel-auberdine"]=5,
 	["salvxx-shekzeer"]=9,
 	["samaddhi-shekzeer"]=17,
-	["samael-auberdine"]=12,
+	["samael-auberdine"]=22,
 	["samaruh-mirage-raceway"]=20,
 	["samisa-shekzeer"]=9,
 	["sàmsara-shekzeer"]=10,
