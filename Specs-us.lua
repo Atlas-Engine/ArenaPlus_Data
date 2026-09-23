@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5174 characters, read 2026-09-23 02:59 PM.
+-- Region us, 5174 characters, read 2026-09-23 03:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5852,7 +5852,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["costaricax-pagle"]=20,
 	["cottenijoe-pagle"]=15,
 	["coughmed-arugal-au"]=24,
-	["coughsizzurp-galakras"]=3,
+	["coughsizzurp-galakras"]=18,
 	["cøunselør-pagle"]=11,
 	["covidhoj-pagle"]=16,
 	["cowboyup-pagle"]=0,
@@ -5925,7 +5925,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["cybrooke-lei-shen"]=18,
 	["cyclicc-pagle"]=0,
 	["cyclonebot-lei-shen"]=5,
-	["cyns-galakras"]=21,
+	["cyns-galakras"]=13,
 	["daarkglare-pagle"]=23,
 	["dabalot-raden"]=6,
 	["dabblax-nazgrim"]=20,
@@ -5984,7 +5984,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["darthdeath-pagle"]=23,
 	["darthmaos-nazgrim"]=16,
 	["dartmaul-pagle"]=6,
-	["dásh-nazgrim"]=2,
+	["dásh-nazgrim"]=16,
 	["datittycuz-galakras"]=20,
 	["daunit-raden"]=23,
 	["davebluntz-raden"]=2,
@@ -8881,7 +8881,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["sarces-immerseus"]=13,
 	["saregore-raden"]=26,
 	["sàrëna-pagle"]=17,
-	["sarenity-raden"]=10,
+	["sarenity-raden"]=27,
 	["saridor-arugal-au"]=20,
 	["sasafras-pagle"]=5,
 	["sashastorm-pagle"]=24,
