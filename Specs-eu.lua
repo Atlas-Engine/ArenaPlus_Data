@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5309 characters, read 2026-09-23 11:00 AM.
+-- Region eu, 5309 characters, read 2026-09-23 12:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6193,7 +6193,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["domiino-shekzeer"]=12,
 	["dominant-garalon"]=28,
 	["dominant-shekzeer"]=2,
-	["dominoo-shekzeer"]=3,
+	["dominoo-shekzeer"]=21,
 	["dönald-auberdine"]=17,
 	["dondrippiano-shekzeer"]=6,
 	["donjacky-shekzeer"]=6,
@@ -6877,7 +6877,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["huggab-shekzeer"]=2,
 	["hugsnotdrugs-shekzeer"]=17,
 	["huiying-auberdine"]=20,
-	["huln-shekzeer"]=14,
+	["huln-shekzeer"]=4,
 	["humbelbee-shekzeer"]=14,
 	["humblé-shekzeer"]=17,
 	["hùntdc-auberdine"]=4,
@@ -8437,7 +8437,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["quackbae-shekzeer"]=0,
 	["qualitytime-garalon"]=13,
 	["quarok-shekzeer"]=23,
-	["quastwex-shekzeer"]=15,
+	["quastwex-shekzeer"]=30,
 	["queuepóp-shekzeer"]=5,
 	["quickerz-norushen"]=10,
 	["quilmes-mirage-raceway"]=9,
