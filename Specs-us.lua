@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5168 characters, read 2026-09-22 08:59 PM.
+-- Region us, 5168 characters, read 2026-09-22 09:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3633,6 +3633,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["ridyah-pagle"]=40,
 	["riitzx-pagle"]=11,
 	["riko-pagle"]=11,
+	["rikugan-raden"]=41,
 	["rinki-lei-shen"]=90,
 	["rinni-lei-shen"]=101,
 	["ripcharlikrk-raden"]=11,
@@ -5667,7 +5668,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["caledonis-pagle"]=9,
 	["calihooligan-grobbulus"]=17,
 	["callmelongbo-galakras"]=20,
-	["calltoarms-pagle"]=32,
+	["calltoarms-pagle"]=16,
 	["calmish-lei-shen"]=10,
 	["cámelot-raden"]=7,
 	["camerano-pagle"]=7,
@@ -6175,7 +6176,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["Ðøøzy-pagle"]=25,
 	["dorayeda-galakras"]=10,
 	["dorky-arugal-au"]=0,
-	["dorris-raden"]=5,
+	["dorris-raden"]=17,
 	["dorsil-galakras"]=1,
 	["dorsïl-galakras"]=4,
 	["dörsil-pagle"]=7,
@@ -8734,7 +8735,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ridyah-pagle"]=7,
 	["riitzx-pagle"]=1,
 	["riko-pagle"]=3,
-	["rikugan-raden"]=0,
+	["rikugan-raden"]=5,
 	["rinki-lei-shen"]=19,
 	["rinni-lei-shen"]=28,
 	["ripcharlikrk-raden"]=1,

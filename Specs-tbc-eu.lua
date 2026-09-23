@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 10220 characters, read 2026-09-22 08:59 PM.
+-- Region tbc-eu, 10221 characters, read 2026-09-22 09:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9311,6 +9311,7 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["vanvid-spineshatter"]=51,
 	["varakari-spineshatter"]=60,
 	["vardenfail-spineshatter"]=41,
+	["variance-spineshatter"]=80,
 	["variety-spineshatter"]=50,
 	["vårlöck-spineshatter"]=11,
 	["varya-spineshatter"]=11,
@@ -13873,7 +13874,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["hqhqhq-spineshatter"]=9,
 	["hqte-spineshatter"]=3,
 	["hsankor-spineshatter"]=2,
-	["htx-spineshatter"]=19,
+	["htx-spineshatter"]=3,
 	["hubschrauber-spineshatter"]=8,
 	["huccí-spineshatter"]=10,
 	["huertas-spineshatter"]=5,
@@ -14469,7 +14470,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["kåb-spineshatter"]=3,
 	["kabanhero-spineshatter"]=24,
 	["kabellock-spineshatter"]=18,
-	["kabelp-spineshatter"]=2,
+	["kabelp-spineshatter"]=17,
 	["kadavchik-spineshatter"]=11,
 	["kadyrof-spineshatter"]=9,
 	["kæben-spineshatter"]=3,
@@ -18168,7 +18169,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["signis-spineshatter"]=12,
 	["siittäjä-thunderstrike"]=13,
 	["sijuh-spineshatter"]=25,
-	["sikoous-spineshatter"]=25,
+	["sikoous-spineshatter"]=24,
 	["sikorex-spineshatter"]=14,
 	["síl-spineshatter"]=7,
 	["silencegoy-spineshatter"]=13,
@@ -18465,7 +18466,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["søumî-spineshatter"]=0,
 	["soundzk-thunderstrike"]=4,
 	["soxy-spineshatter"]=2,
-	["spacebar-spineshatter"]=4,
+	["spacebar-spineshatter"]=9,
 	["spacebutt-spineshatter"]=9,
 	["spacecreated-spineshatter"]=10,
 	["spaceflow-spineshatter"]=11,
@@ -19523,6 +19524,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["vanvid-spineshatter"]=3,
 	["varakari-spineshatter"]=1,
 	["vardenfail-spineshatter"]=6,
+	["variance-spineshatter"]=8,
 	["variety-spineshatter"]=3,
 	["vårlöck-spineshatter"]=13,
 	["varya-spineshatter"]=3,
