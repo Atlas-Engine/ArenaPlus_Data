@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5312 characters, read 2026-09-22 07:00 PM.
+-- Region eu, 5312 characters, read 2026-09-22 08:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5419,7 +5419,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["asylklot-shekzeer"]=8,
 	["asylumseeker-shekzeer"]=26,
 	["aszaléa-auberdine"]=9,
-	["atalzul-mirage-raceway"]=9,
+	["atalzul-mirage-raceway"]=12,
 	["ateam-shekzeer"]=5,
 	["atheistpally-shekzeer"]=15,
 	["athenahz-shekzeer"]=3,
@@ -6861,7 +6861,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["høpps-norushen"]=9,
 	["hordemaster-shekzeer"]=1,
 	["horderising-shekzeer"]=11,
-	["hordy-shekzeer"]=3,
+	["hordy-shekzeer"]=11,
 	["horrendouss-shekzeer"]=15,
 	["hoses-mirage-raceway"]=13,
 	["høtbaddie-everlook"]=4,
@@ -8908,7 +8908,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["sixxthunter-shekzeer"]=14,
 	["sjömonstret-shekzeer"]=24,
 	["skarium-auberdine"]=15,
-	["skatokolos-shekzeer"]=16,
+	["skatokolos-shekzeer"]=13,
 	["skayzz-auberdine"]=4,
 	["skazkar-garalon"]=1,
 	["skepnad-mirage-raceway"]=12,
