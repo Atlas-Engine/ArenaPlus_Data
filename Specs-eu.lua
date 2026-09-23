@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5311 characters, read 2026-09-23 01:00 AM.
+-- Region eu, 5311 characters, read 2026-09-23 02:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6127,7 +6127,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["diidact-shekzeer"]=7,
 	["diikayz-shekzeer"]=8,
 	["dikiy-shekzeer"]=31,
-	["dimako-shekzeer"]=11,
+	["dimako-shekzeer"]=3,
 	["dimsumfu-shekzeer"]=0,
 	["dindriezz-everlook"]=2,
 	["dinhoo-mirage-raceway"]=22,
@@ -7685,7 +7685,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["mdzzmonk-shekzeer"]=7,
 	["meatpyre-mirage-raceway"]=1,
 	["medbis-shekzeer"]=1,
-	["medhotup-shekzeer"]=21,
+	["medhotup-shekzeer"]=32,
 	["medtabletkka-shekzeer"]=3,
 	["medvedbzxc-shekzeer"]=2,
 	["medvedix-mirage-raceway"]=21,
@@ -8647,7 +8647,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["roundxxfight-hoptallus"]=0,
 	["rousen-shekzeer"]=9,
 	["roush-hoptallus"]=1,
-	["røvklásker-garalon"]=21,
+	["røvklásker-garalon"]=32,
 	["rövpanna-shekzeer"]=8,
 	["roxani-garalon"]=4,
 	["roxxar-shekzeer"]=20,
@@ -9770,7 +9770,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["xælthiar-everlook"]=9,
 	["xæthra-everlook"]=11,
 	["xakerone-mirage-raceway"]=4,
-	["xály-shekzeer"]=21,
+	["xály-shekzeer"]=32,
 	["xanæi-everlook"]=6,
 	["xanará-everlook"]=5,
 	["xánarâ-everlook"]=4,
@@ -9897,7 +9897,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["zahada-shekzeer"]=17,
 	["zahe-garalon"]=2,
 	["zahide-shekzeer"]=24,
-	["zaînà-auberdine"]=22,
+	["zaînà-auberdine"]=12,
 	["zajko-mirage-raceway"]=33,
 	["zaperoni-shekzeer"]=16,
 	["zapoi-auberdine"]=2,
@@ -10213,7 +10213,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Круглыйветер-flamegor"]=6,
 	["Ксурка-flamegor"]=5,
 	["Куникум-flamegor"]=2,
-	["Кусямба-flamegor"]=21,
+	["Кусямба-flamegor"]=32,
 	["Кхили-flamegor"]=13,
 	["Кэндифлос-flamegor"]=34,
 	["Кяото-flamegor"]=7,
