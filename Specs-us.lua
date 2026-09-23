@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5170 characters, read 2026-09-23 04:59 PM.
+-- Region us, 5170 characters, read 2026-09-23 05:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5469,7 +5469,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["blazco-raden"]=9,
 	["blazedboii-pagle"]=18,
 	["blazingchi-arugal-au"]=4,
-	["bleeko-immerseus"]=5,
+	["bleeko-immerseus"]=17,
 	["blickkyyx-pagle"]=18,
 	["blicko-pagle"]=2,
 	["blindedlight-raden"]=2,
@@ -5608,7 +5608,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["brunelan-pagle"]=0,
 	["brunosars-pagle"]=6,
 	["brustle-raden"]=5,
-	["brutality-galakras"]=7,
+	["brutality-galakras"]=23,
 	["brutalmystic-nazgrim"]=15,
 	["brutasaurus-galakras"]=7,
 	["brutøn-raden"]=7,
@@ -5636,7 +5636,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["bulletdrop-raden"]=3,
 	["bullpig-galakras"]=22,
 	["bullshót-galakras"]=18,
-	["bumscrub-galakras"]=2,
+	["bumscrub-galakras"]=32,
 	["burntbum-pagle"]=1,
 	["burntchef-raden"]=1,
 	["burstinflams-pagle"]=0,
@@ -5724,7 +5724,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["chaotichunts-galakras"]=0,
 	["chaoticrush-lei-shen"]=24,
 	["chapazuzie-nazgrim"]=1,
-	["charleez-nazgrim"]=9,
+	["charleez-nazgrim"]=13,
 	["chathdria-nazgrim"]=9,
 	["cheapoe-galakras"]=27,
 	["chechorojas-galakras"]=29,
@@ -7045,7 +7045,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["hypnozy-raden"]=2,
 	["hysteria-pagle"]=9,
 	["iachoku-raden"]=1,
-	["iambackbby-raden"]=9,
+	["iambackbby-raden"]=13,
 	["iamgodamsam-nazgrim"]=24,
 	["iamkam-raden"]=1,
 	["ianduncan-pagle"]=28,

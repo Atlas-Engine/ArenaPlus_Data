@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9682 characters, read 2026-09-23 04:58 PM.
+-- Region tbc-us, 9682 characters, read 2026-09-23 05:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12624,7 +12624,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["frosthealz-nightslayer"]=3,
 	["frostilicuss-nightslayer"]=4,
 	["frostipriest-dreamscythe"]=1,
-	["frosy-nightslayer"]=5,
+	["frosy-nightslayer"]=8,
 	["frotted-nightslayer"]=7,
 	["frow-nightslayer"]=2,
 	["frownyface-dreamscythe"]=24,
@@ -13974,9 +13974,9 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["kaysar-nightslayer"]=15,
 	["kayvinh-nightslayer"]=5,
 	["kaywii-nightslayer"]=1,
-	["kazelol-nightslayer"]=5,
+	["kazelol-nightslayer"]=8,
 	["kazif-nightslayer"]=23,
-	["kazoopriest-nightslayer"]=1,
+	["kazoopriest-nightslayer"]=14,
 	["kazugrim-dreamscythe"]=2,
 	["kbert-nightslayer"]=5,
 	["kcal-nightslayer"]=1,
@@ -14212,7 +14212,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["kurel-dreamscythe"]=1,
 	["kuritas-nightslayer"]=1,
 	["kurlk-nightslayer"]=5,
-	["kuromiya-dreamscythe"]=14,
+	["kuromiya-dreamscythe"]=1,
 	["kuromo-dreamscythe"]=13,
 	["kúshlørdx-nightslayer"]=2,
 	["kuumi-dreamscythe"]=7,
@@ -14597,7 +14597,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["lustplease-nightslayer"]=10,
 	["lutenantdan-nightslayer"]=12,
 	["luvs-nightslayer"]=4,
-	["luxurylife-nightslayer"]=23,
+	["luxurylife-nightslayer"]=13,
 	["lvap-dreamscythe"]=18,
 	["lvmh-nightslayer"]=5,
 	["lvsham-nightslayer"]=10,
@@ -15812,7 +15812,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["pathoen-dreamscythe"]=13,
 	["patïence-nightslayer"]=7,
 	["patmaweeni-dreamscythe"]=1,
-	["paty-nightslayer"]=9,
+	["paty-nightslayer"]=11,
 	["pauladeene-dreamscythe"]=2,
 	["pauljardin-nightslayer"]=2,
 	["pause-nightslayer"]=2,
@@ -16601,7 +16601,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["rollex-nightslayer"]=4,
 	["rollface-nightslayer"]=2,
 	["rollies-nightslayer"]=13,
-	["romilat-dreamscythe"]=20,
+	["romilat-dreamscythe"]=18,
 	["romulo-nightslayer"]=2,
 	["ronbot-nightslayer"]=4,
 	["ronchon-nightslayer"]=1,
@@ -18862,7 +18862,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["wooliebullie-dreamscythe"]=7,
 	["woolixd-nightslayer"]=10,
 	["wootinabox-nightslayer"]=16,
-	["woozylol-dreamscythe"]=6,
+	["woozylol-dreamscythe"]=4,
 	["wopz-nightslayer"]=1,
 	["wordtomydead-nightslayer"]=13,
 	["woreen-dreamscythe"]=18,
