@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 10221 characters, read 2026-09-22 10:59 PM.
+-- Region tbc-eu, 10221 characters, read 2026-09-22 11:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10198,7 +10198,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["abovenbeyond-spineshatter"]=23,
 	["abradenha-spineshatter"]=12,
 	["abrødolph-spineshatter"]=20,
-	["absá-spineshatter"]=3,
+	["absá-spineshatter"]=19,
 	["absosx-spineshatter"]=13,
 	["abstak-spineshatter"]=3,
 	["abusala-spineshatter"]=9,
@@ -10236,7 +10236,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["aduna-spineshatter"]=7,
 	["adusham-spineshatter"]=11,
 	["adventice-spineshatter"]=19,
-	["adventicexd-spineshatter"]=3,
+	["adventicexd-spineshatter"]=19,
 	["Ädxr-spineshatter"]=2,
 	["aegia-spineshatter"]=3,
 	["aegïs-spineshatter"]=2,
@@ -11272,7 +11272,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["brittunculi-spineshatter"]=12,
 	["brizi-spineshatter"]=3,
 	["brkn-spineshatter"]=11,
-	["broadwayffs-spineshatter"]=24,
+	["broadwayffs-spineshatter"]=25,
 	["brockobama-spineshatter"]=9,
 	["broderborra-spineshatter"]=2,
 	["brohly-thunderstrike"]=15,
@@ -19641,7 +19641,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["vinijnr-spineshatter"]=5,
 	["vinyoda-spineshatter"]=11,
 	["vio-spineshatter"]=11,
-	["viodith-spineshatter"]=26,
+	["viodith-spineshatter"]=10,
 	["vipershot-spineshatter"]=25,
 	["vippen-spineshatter"]=3,
 	["vircotto-thunderstrike"]=15,
