@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5174 characters, read 2026-09-23 09:59 AM.
+-- Region us, 5173 characters, read 2026-09-23 10:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -206,7 +206,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["ancient-raden"]=41,
 	["andreiaa-pagle"]=11,
 	["anêl-pagle"]=50,
-	["angrycubanx-raden"]=11,
 	["angrydewd-raden"]=10,
 	["anihalator-pagle"]=10,
 	["anikdote-raden"]=11,
@@ -5151,7 +5150,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["ancient-raden"]=9,
 	["andreiaa-pagle"]=6,
 	["anêl-pagle"]=21,
-	["angrycubanx-raden"]=2,
 	["angrydewd-raden"]=23,
 	["anihalator-pagle"]=6,
 	["anikdote-raden"]=16,
@@ -5582,7 +5580,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["brbsheeping-pagle"]=1,
 	["breewdable-pagle"]=10,
 	["brendedoo-galakras"]=3,
-	["brewsleè-raden"]=10,
+	["brewsleè-raden"]=27,
 	["brewtãlity-pagle"]=27,
 	["brickyboi-lei-shen"]=6,
 	["bringindeath-galakras"]=23,
@@ -6316,7 +6314,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["edumage-nazgrim"]=1,
 	["eerii-raden"]=13,
 	["eezz-nazgrim"]=13,
-	["efekz-immerseus"]=29,
+	["efekz-immerseus"]=14,
 	["eggfooyoung-immerseus"]=4,
 	["eidottnawi-pagle"]=18,
 	["eikou-pagle"]=2,

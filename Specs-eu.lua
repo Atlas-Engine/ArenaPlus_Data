@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5309 characters, read 2026-09-23 10:00 AM.
+-- Region eu, 5309 characters, read 2026-09-23 11:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6588,7 +6588,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["genetixz-shekzeer"]=2,
 	["genó-hoptallus"]=15,
 	["gepster-mirage-raceway"]=15,
-	["getbajs-shekzeer"]=19,
+	["getbajs-shekzeer"]=16,
 	["gethorned-garalon"]=3,
 	["gétòst-shekzeer"]=2,
 	["ggtopnotch-shekzeer"]=1,
@@ -6830,7 +6830,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["hispálgor-shekzeer"]=15,
 	["hitaxa-shekzeer"]=6,
 	["hitofzaza-shekzeer"]=9,
-	["hls-shekzeer"]=13,
+	["hls-shekzeer"]=19,
 	["hobex-shekzeer"]=3,
 	["hokokaku-garalon"]=14,
 	["hollôw-shekzeer"]=26,
@@ -7018,7 +7018,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["jackynko-hoptallus"]=15,
 	["jäckynko-hoptallus"]=4,
 	["jäckynkô-hoptallus"]=6,
-	["jackynkoo-hoptallus"]=8,
+	["jackynkoo-hoptallus"]=31,
 	["jäckynkôô-hoptallus"]=6,
 	["jackynoo-hoptallus"]=19,
 	["jâckywhâcky-shekzeer"]=4,
@@ -8498,7 +8498,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["rbgme-norushen"]=1,
 	["rc-shekzeer"]=2,
 	["realbum-garalon"]=7,
-	["realbumbe-garalon"]=29,
+	["realbumbe-garalon"]=7,
 	["realbumbe-shekzeer"]=7,
 	["realbûmbel-shekzeer"]=26,
 	["reàlbumbel-shekzeer"]=25,

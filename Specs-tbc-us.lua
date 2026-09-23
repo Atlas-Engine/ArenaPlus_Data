@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9686 characters, read 2026-09-23 09:58 AM.
+-- Region tbc-us, 9686 characters, read 2026-09-23 10:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -13502,7 +13502,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ilpigll-nightslayer"]=1,
 	["ilu-dreamscythe"]=19,
 	["ilumiel-nightslayer"]=1,
-	["imabadhunter-nightslayer"]=15,
+	["imabadhunter-nightslayer"]=17,
 	["imadotyou-nightslayer"]=13,
 	["imafuhwhicha-nightslayer"]=5,
 	["imagentdisc-nightslayer"]=1,
@@ -13556,7 +13556,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["innatep-nightslayer"]=9,
 	["innater-nightslayer"]=5,
 	["innovatorx-nightslayer"]=18,
-	["innovindill-dreamscythe"]=17,
+	["innovindill-dreamscythe"]=21,
 	["inquislolxd-nightslayer"]=0,
 	["insam-nightslayer"]=3,
 	["insomniaq-nightslayer"]=12,
@@ -14194,7 +14194,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["kroyweezy-nightslayer"]=4,
 	["krsmatic-nightslayer"]=13,
 	["krsmaticx-nightslayer"]=24,
-	["krump-nightslayer"]=11,
+	["krump-nightslayer"]=25,
 	["kruni-nightslayer"]=2,
 	["krunksd-nightslayer"]=3,
 	["kruviana-nightslayer"]=1,
@@ -18300,7 +18300,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["turtlesquad-nightslayer"]=2,
 	["tusamak-nightslayer"]=10,
 	["tuskmender-nightslayer"]=10,
-	["tutubo-dreamscythe"]=4,
+	["tutubo-dreamscythe"]=6,
 	["tutuko-dreamscythe"]=5,
 	["tuxoss-nightslayer"]=21,
 	["tuxthebear-dreamscythe"]=7,
@@ -18315,7 +18315,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["twiisty-nightslayer"]=5,
 	["twinkfather-dreamscythe"]=1,
 	["twinkrage-dreamscythe"]=2,
-	["twinsterber-nightslayer"]=2,
+	["twinsterber-nightslayer"]=20,
 	["twistas-nightslayer"]=19,
 	["twistdpsycho-nightslayer"]=6,
 	["twistedpal-nightslayer"]=11,
