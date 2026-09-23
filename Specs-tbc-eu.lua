@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 10222 characters, read 2026-09-23 02:59 AM.
+-- Region tbc-eu, 10221 characters, read 2026-09-23 03:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6776,7 +6776,6 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["pompayoo-spineshatter"]=50,
 	["pomshaman-spineshatter"]=111,
 	["pomvano-spineshatter"]=50,
-	["ponttooni-spineshatter"]=50,
 	["poochi-spineshatter"]=101,
 	["poofington-spineshatter"]=21,
 	["poolia-spineshatter"]=41,
@@ -15730,7 +15729,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["milân-spineshatter"]=5,
 	["milched-spineshatter"]=12,
 	["milchpumpe-thunderstrike"]=5,
-	["milchtütejr-spineshatter"]=12,
+	["milchtütejr-spineshatter"]=11,
 	["mileijavier-spineshatter"]=11,
 	["milevan-spineshatter"]=1,
 	["mileysaprus-spineshatter"]=3,
@@ -16055,7 +16054,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["mythpala-spineshatter"]=7,
 	["mzmzx-spineshatter"]=7,
 	["naali-spineshatter"]=1,
-	["naambawan-spineshatter"]=2,
+	["naambawan-spineshatter"]=17,
 	["naano-thunderstrike"]=1,
 	["nabila-spineshatter"]=13,
 	["nabyllou-spineshatter"]=10,
@@ -16125,14 +16124,14 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["nâsse-spineshatter"]=26,
 	["nassed-spineshatter"]=6,
 	["nasseh-spineshatter"]=16,
-	["nâssem-spineshatter"]=9,
+	["nâssem-spineshatter"]=4,
 	["nást-thunderstrike"]=10,
 	["nasteale-spineshatter"]=3,
 	["nastrid-spineshatter"]=13,
 	["nataliemars-spineshatter"]=5,
 	["nate-spineshatter"]=13,
 	["nathux-spineshatter"]=3,
-	["natron-thunderstrike"]=26,
+	["natron-thunderstrike"]=10,
 	["natsenx-spineshatter"]=18,
 	["náttfari-spineshatter"]=19,
 	["natur-spineshatter"]=3,
@@ -16954,7 +16953,6 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["pompayoo-spineshatter"]=4,
 	["pomshaman-spineshatter"]=23,
 	["pomvano-spineshatter"]=9,
-	["ponttooni-spineshatter"]=2,
 	["poochi-spineshatter"]=7,
 	["poofington-spineshatter"]=18,
 	["poolia-spineshatter"]=1,
@@ -18409,7 +18407,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["snyggabbi-spineshatter"]=5,
 	["sobored-thunderstrike"]=6,
 	["soddylol-thunderstrike"]=0,
-	["soell-spineshatter"]=26,
+	["soell-spineshatter"]=7,
 	["soëzi-spineshatter"]=2,
 	["sóf-thunderstrike"]=15,
 	["softehp-thunderstrike"]=2,
