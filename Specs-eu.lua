@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5312 characters, read 2026-09-22 08:00 PM.
+-- Region eu, 5312 characters, read 2026-09-22 09:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5284,7 +5284,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["amaunett-mirage-raceway"]=3,
 	["ambinoise-shekzeer"]=20,
 	["ambrian-shekzeer"]=1,
-	["amissa-auberdine"]=9,
+	["amissa-auberdine"]=12,
 	["amniman-shekzeer"]=7,
 	["ampow-shekzeer"]=2,
 	["anadearmaz-shekzeer"]=23,
@@ -9487,7 +9487,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["unðertaker-everlook"]=17,
 	["undo-shekzeer"]=24,
 	["Ùñhöly-shekzeer"]=0,
-	["univrs-shekzeer"]=4,
+	["univrs-shekzeer"]=14,
 	["unknowx-shekzeer"]=3,
 	["unpeudgàzouz-auberdine"]=30,
 	["unravel-everlook"]=5,
@@ -9687,7 +9687,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["whereâreyûat-everlook"]=23,
 	["wheyx-shekzeer"]=12,
 	["wheyxthree-shekzeer"]=12,
-	["wheyxw-shekzeer"]=1,
+	["wheyxw-shekzeer"]=25,
 	["whipmepls-shekzeer"]=8,
 	["whisp-garalon"]=11,
 	["whoppa-shekzeer"]=1,
