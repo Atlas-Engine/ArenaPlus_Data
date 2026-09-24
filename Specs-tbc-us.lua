@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9681 characters, read 2026-09-24 01:58 PM.
+-- Region tbc-us, 9681 characters, read 2026-09-24 02:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -13025,13 +13025,13 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["gummy-nightslayer"]=14,
 	["gundolff-nightslayer"]=1,
 	["gunhand-nightslayer"]=15,
-	["gunnagitcha-nightslayer"]=10,
+	["gunnagitcha-nightslayer"]=24,
 	["gunnyd-nightslayer"]=7,
 	["gunnym-nightslayer"]=4,
 	["gunzbangbang-nightslayer"]=21,
 	["gurdock-nightslayer"]=3,
 	["gurgrom-nightslayer"]=3,
-	["gurthyrat-nightslayer"]=18,
+	["gurthyrat-nightslayer"]=2,
 	["güth-nightslayer"]=5,
 	["gutsz-dreamscythe"]=2,
 	["guydiamond-nightslayer"]=7,
@@ -14652,7 +14652,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["magicstompzz-nightslayer"]=6,
 	["magicthoap-nightslayer"]=6,
 	["magnilol-nightslayer"]=1,
-	["maheloo-nightslayer"]=19,
+	["maheloo-nightslayer"]=24,
 	["mahiko-nightslayer"]=5,
 	["mainbeam-nightslayer"]=7,
 	["mainim-nightslayer"]=1,
@@ -15753,7 +15753,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["painulti-nightslayer"]=10,
 	["pairofcrits-nightslayer"]=18,
 	["pakalo-nightslayer"]=3,
-	["paladynn-nightslayer"]=1,
+	["paladynn-nightslayer"]=12,
 	["palajuan-nightslayer"]=9,
 	["palantis-nightslayer"]=2,
 	["palapapa-nightslayer"]=9,
@@ -17738,7 +17738,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["sundrix-nightslayer"]=11,
 	["sunkeñ-nightslayer"]=5,
 	["sunneh-nightslayer"]=4,
-	["sunnoh-dreamscythe"]=7,
+	["sunnoh-dreamscythe"]=3,
 	["sunnysideupp-nightslayer"]=2,
 	["sunsetlocal-nightslayer"]=5,
 	["sunshîne-nightslayer"]=9,
@@ -17866,7 +17866,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["tariffsman-nightslayer"]=7,
 	["tarthbrienne-nightslayer"]=2,
 	["tarzi-nightslayer"]=1,
-	["tarzx-nightslayer"]=5,
+	["tarzx-nightslayer"]=8,
 	["tarzxx-nightslayer"]=9,
 	["tasky-nightslayer"]=10,
 	["tasshole-nightslayer"]=6,
@@ -18187,7 +18187,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["touge-nightslayer"]=4,
 	["toulw-nightslayer"]=16,
 	["toulwl-nightslayer"]=13,
-	["toumingkids-nightslayer"]=24,
+	["toumingkids-nightslayer"]=10,
 	["touristirl-nightslayer"]=10,
 	["towow-nightslayer"]=24,
 	["toxicá-nightslayer"]=5,

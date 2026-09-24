@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5315 characters, read 2026-09-24 02:00 PM.
+-- Region eu, 5315 characters, read 2026-09-24 03:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6898,7 +6898,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["hyped-shekzeer"]=2,
 	["hypertouch-shekzeer"]=1,
 	["hypnodotcum-shekzeer"]=17,
-	["hypnogodq-shekzeer"]=9,
+	["hypnogodq-shekzeer"]=12,
 	["hypnogodz-shekzeer"]=11,
 	["hysel-garalon"]=15,
 	["hyxro-mirage-raceway"]=9,
@@ -7826,7 +7826,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["momequ-norushen"]=2,
 	["momine-shekzeer"]=3,
 	["momíne-shekzeer"]=3,
-	["monais-shekzeer"]=16,
+	["monais-shekzeer"]=13,
 	["monduk-auberdine"]=7,
 	["moneylong-shekzeer"]=17,
 	["mongoliamonk-hoptallus"]=13,
@@ -8300,7 +8300,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["peregrinuss-shekzeer"]=1,
 	["pereza-shekzeer"]=25,
 	["perkalator-garalon"]=24,
-	["perrí-shekzeer"]=16,
+	["perrí-shekzeer"]=13,
 	["perrun-mirage-raceway"]=13,
 	["perryprecog-shekzeer"]=5,
 	["pêrsa-everlook"]=5,
