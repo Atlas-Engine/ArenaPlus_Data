@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5315 characters, read 2026-09-23 08:00 PM.
+-- Region eu, 5315 characters, read 2026-09-23 09:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5255,7 +5255,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["alexandereu-shekzeer"]=10,
 	["alfagr-garalon"]=4,
 	["alfajer-shekzeer"]=14,
-	["algerian-shekzeer"]=4,
+	["algerian-shekzeer"]=20,
 	["algharib-everlook"]=8,
 	["alieh-shekzeer"]=15,
 	["aliice-garalon"]=3,
@@ -5376,7 +5376,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["armadyl-auberdine"]=2,
 	["arminmeiwes-shekzeer"]=6,
 	["arnnsdealer-shekzeer"]=1,
-	["arnostelest-shekzeer"]=2,
+	["arnostelest-shekzeer"]=10,
 	["arnostelestt-shekzeer"]=9,
 	["arpar-everlook"]=0,
 	["arpar-shekzeer"]=0,
@@ -5428,7 +5428,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["athenahz-shekzeer"]=3,
 	["athoran-everlook"]=2,
 	["ativa-shekzeer"]=1,
-	["atlántis-mirage-raceway"]=8,
+	["atlántis-mirage-raceway"]=33,
 	["atlasx-shekzeer"]=5,
 	["atmobile-shekzeer"]=2,
 	["atropa-shekzeer"]=0,
@@ -9086,7 +9086,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["straviouse-hoptallus"]=5,
 	["strick-norushen"]=25,
 	["strikex-shekzeer"]=0,
-	["strikexo-shekzeer"]=4,
+	["strikexo-shekzeer"]=20,
 	["strip-mirage-raceway"]=6,
 	["striva-mirage-raceway"]=1,
 	["strongbanana-shekzeer"]=15,
@@ -9225,7 +9225,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["tardhun-shekzeer"]=0,
 	["tarhya-everlook"]=19,
 	["tarpetty-auberdine"]=25,
-	["tastemydmg-shekzeer"]=20,
+	["tastemydmg-shekzeer"]=4,
 	["tastyd-shekzeer"]=3,
 	["tawnyx-everlook"]=3,
 	["taylôrswiftx-mirage-raceway"]=6,

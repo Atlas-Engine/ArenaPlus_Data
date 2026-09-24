@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5169 characters, read 2026-09-23 07:59 PM.
+-- Region us, 5169 characters, read 2026-09-23 08:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5675,7 +5675,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["cäpriëstsun-pagle"]=9,
 	["carbontaxes-pagle"]=1,
 	["cardpally-galakras"]=16,
-	["carnàxx-pagle"]=24,
+	["carnàxx-pagle"]=28,
 	["càrnaxx-pagle"]=1,
 	["carpetman-galakras"]=14,
 	["cartermyboy-raden"]=6,
@@ -8066,7 +8066,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["nalx-raden"]=5,
 	["naniaids-lei-shen"]=28,
 	["nanikilla-lei-shen"]=4,
-	["nanismasha-lei-shen"]=15,
+	["nanismasha-lei-shen"]=22,
 	["nanixita-raden"]=24,
 	["naoki-bloodsail-buccaneers"]=16,
 	["nápalm-pagle"]=20,
@@ -9069,7 +9069,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["sírchargé-lei-shen"]=7,
 	["sisterfista-raden"]=10,
 	["sitdog-pagle"]=29,
-	["sithtyshades-galakras"]=21,
+	["sithtyshades-galakras"]=9,
 	["síx-nazgrim"]=6,
 	["sixmonth-raden"]=4,
 	["sixpathsage-pagle"]=27,
