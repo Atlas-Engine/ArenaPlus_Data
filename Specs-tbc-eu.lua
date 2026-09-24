@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 10206 characters, read 2026-09-24 12:59 AM.
+-- Region tbc-eu, 10206 characters, read 2026-09-24 01:54 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12670,7 +12670,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["eloryel-spineshatter"]=4,
 	["elotheras-spineshatter"]=15,
 	["elowryn-spineshatter"]=3,
-	["elplomo-thunderstrike"]=25,
+	["elplomo-thunderstrike"]=24,
 	["elpotato-spineshatter"]=1,
 	["elpotatò-spineshatter"]=1,
 	["elquentus-spineshatter"]=3,
@@ -15924,7 +15924,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["moufasa-spineshatter"]=1,
 	["moukarijeppe-spineshatter"]=11,
 	["moumouche-spineshatter"]=9,
-	["mouninjap-spineshatter"]=26,
+	["mouninjap-spineshatter"]=10,
 	["mouss-spineshatter"]=5,
 	["mout-spineshatter"]=1,
 	["mouthbrether-spineshatter"]=25,
@@ -16218,7 +16218,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["nergitankee-spineshatter"]=1,
 	["nerly-spineshatter"]=3,
 	["nérly-spineshatter"]=3,
-	["neronche-spineshatter"]=3,
+	["neronche-spineshatter"]=19,
 	["neru-spineshatter"]=5,
 	["nerval-spineshatter"]=3,
 	["nervéx-spineshatter"]=13,
@@ -16942,7 +16942,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["poppaluikuri-spineshatter"]=12,
 	["poppaveli-spineshatter"]=23,
 	["poproguetv-spineshatter"]=3,
-	["popzy-spineshatter"]=17,
+	["popzy-spineshatter"]=2,
 	["pørksláyer-spineshatter"]=3,
 	["pornello-spineshatter"]=2,
 	["poroseenok-spineshatter"]=5,
@@ -19837,7 +19837,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["wokewilma-spineshatter"]=1,
 	["wolfbullman-spineshatter"]=23,
 	["woliwar-spineshatter"]=13,
-	["wololoc-spineshatter"]=13,
+	["wololoc-spineshatter"]=18,
 	["womancat-spineshatter"]=6,
 	["womennizerr-spineshatter"]=5,
 	["wondzy-spineshatter"]=2,
