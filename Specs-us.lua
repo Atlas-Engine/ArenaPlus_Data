@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5169 characters, read 2026-09-24 04:59 PM.
+-- Region us, 5169 characters, read 2026-09-24 05:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5863,7 +5863,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["crazykreder-pagle"]=5,
 	["crazywick-pagle"]=16,
 	["creamytotem-galakras"]=15,
-	["crearly-galakras"]=25,
+	["crearly-galakras"]=6,
 	["crepes-pagle"]=12,
 	["crepuscolo-pagle"]=2,
 	["crepusculé-pagle"]=1,
@@ -6565,7 +6565,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["franco-nazgrim"]=25,
 	["frankieboy-galakras"]=0,
 	["frankinator-raden"]=4,
-	["frasno-nazgrim"]=34,
+	["frasno-nazgrim"]=14,
 	["frawbinbowls-pagle"]=32,
 	["fraydk-arugal-au"]=6,
 	["freakshowx-raden"]=5,
@@ -6800,7 +6800,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["gripman-pagle"]=0,
 	["grizma-immerseus"]=3,
 	["grokkc-raden"]=5,
-	["groosaalugg-lei-shen"]=7,
+	["groosaalugg-lei-shen"]=30,
 	["grumpyaussie-galakras"]=28,
 	["grungecraft-raden"]=16,
 	["grxvy-nazgrim"]=18,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9686 characters, read 2026-09-24 04:58 PM.
+-- Region tbc-us, 9686 characters, read 2026-09-24 05:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10954,7 +10954,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["charginmalzr-nightslayer"]=6,
 	["charleez-nightslayer"]=1,
 	["charliemung-nightslayer"]=13,
-	["charlo-nightslayer"]=18,
+	["charlo-nightslayer"]=2,
 	["charsong-dreamscythe"]=7,
 	["chartremor-dreamscythe"]=7,
 	["chasecheddar-nightslayer"]=4,
@@ -13238,7 +13238,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["himo-nightslayer"]=4,
 	["himora-nightslayer"]=5,
 	["himothyleary-nightslayer"]=1,
-	["hinaki-nightslayer"]=5,
+	["hinaki-nightslayer"]=8,
 	["hipclick-nightslayer"]=13,
 	["hípocrita-nightslayer"]=19,
 	["hippiepriest-nightslayer"]=1,
@@ -14460,7 +14460,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["lizardwar-nightslayer"]=2,
 	["lj-nightslayer"]=2,
 	["lladael-dreamscythe"]=0,
-	["llamallamaa-dreamscythe"]=15,
+	["llamallamaa-dreamscythe"]=17,
 	["llamicorn-nightslayer"]=7,
 	["lls-nightslayer"]=4,
 	["lluminati-nightslayer"]=25,
@@ -16182,7 +16182,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["pune-nightslayer"]=5,
 	["punîsher-nightslayer"]=2,
 	["puppycheeks-dreamscythe"]=1,
-	["puramaldad-nightslayer"]=2,
+	["puramaldad-nightslayer"]=18,
 	["pureaddict-nightslayer"]=11,
 	["puregalaxy-dreamscythe"]=11,
 	["puretwo-dreamscythe"]=6,
@@ -16327,7 +16327,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ransomed-nightslayer"]=5,
 	["rapcher-nightslayer"]=5,
 	["rapidrogue-nightslayer"]=5,
-	["rapidslol-nightslayer"]=4,
+	["rapidslol-nightslayer"]=6,
 	["rapidtugi-nightslayer"]=15,
 	["rapsidian-nightslayer"]=19,
 	["rarepax-nightslayer"]=5,
@@ -16479,7 +16479,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["reverencèx-nightslayer"]=23,
 	["revért-nightslayer"]=23,
 	["revilxx-nightslayer"]=1,
-	["revivé-nightslayer"]=12,
+	["revivé-nightslayer"]=1,
 	["reviveblack-nightslayer"]=12,
 	["revivexoxo-nightslayer"]=1,
 	["révs-nightslayer"]=19,
