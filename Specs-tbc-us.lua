@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9679 characters, read 2026-09-24 10:58 AM.
+-- Region tbc-us, 9679 characters, read 2026-09-24 11:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -13545,7 +13545,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["innovatorx-nightslayer"]=18,
 	["innovindill-dreamscythe"]=21,
 	["inquislolxd-nightslayer"]=0,
-	["insam-nightslayer"]=3,
+	["insam-nightslayer"]=7,
 	["insomniaq-nightslayer"]=12,
 	["insto-nightslayer"]=6,
 	["instruct-nightslayer"]=4,
@@ -14357,7 +14357,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["lgdarm-nightslayer"]=10,
 	["lghtsknjsus-nightslayer"]=12,
 	["lhem-nightslayer"]=4,
-	["liamnelson-nightslayer"]=5,
+	["liamnelson-nightslayer"]=8,
 	["libbytard-nightslayer"]=4,
 	["libbytears-nightslayer"]=10,
 	["libtardmaxer-nightslayer"]=12,
@@ -14554,7 +14554,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["luckyguy-nightslayer"]=2,
 	["luckyguys-nightslayer"]=7,
 	["luckyowl-nightslayer"]=5,
-	["lucystool-nightslayer"]=25,
+	["lucystool-nightslayer"]=11,
 	["ludacris-nightslayer"]=2,
 	["ludacritzz-nightslayer"]=2,
 	["ludessita-nightslayer"]=14,

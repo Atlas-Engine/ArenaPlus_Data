@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5170 characters, read 2026-09-24 10:59 AM.
+-- Region us, 5170 characters, read 2026-09-24 11:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7147,7 +7147,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["inperitus-arugal-au"]=15,
 	["insomniaxx-pagle"]=14,
 	["instantcarry-raden"]=10,
-	["integrityqt-pagle"]=13,
+	["integrityqt-pagle"]=9,
 	["intercepts-pagle"]=7,
 	["intrerri-pagle"]=34,
 	["intru-raden"]=3,
@@ -8086,7 +8086,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["natuhhlee-nazgrim"]=13,
 	["naturalqt-pagle"]=2,
 	["navij-pagle"]=4,
-	["navio-pagle"]=16,
+	["navio-pagle"]=2,
 	["nâx-pagle"]=11,
 	["nâxxrâmâs-arugal-au"]=7,
 	["nayrish-pagle"]=2,
@@ -8356,7 +8356,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["pahlava-immerseus"]=21,
 	["painbarrier-lei-shen"]=9,
 	["painnkillerr-galakras"]=0,
-	["paladtty-lei-shen"]=16,
+	["paladtty-lei-shen"]=32,
 	["palafornia-raden"]=16,
 	["palalazy-pagle"]=16,
 	["palamán-raden"]=16,

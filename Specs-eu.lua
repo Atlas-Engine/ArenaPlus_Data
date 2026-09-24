@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5313 characters, read 2026-09-24 11:00 AM.
+-- Region eu, 5313 characters, read 2026-09-24 12:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1470,7 +1470,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["girø-mirage-raceway"]=11,
 	["gitrdone-shekzeer"]=11,
 	["givroz-auberdine"]=10,
-	["givus-shekzeer"]=220,
+	["givus-shekzeer"]=221,
 	["glacieon-shekzeer"]=10,
 	["gladiatørbee-shekzeer"]=10,
 	["glamourmw-mirage-raceway"]=11,
@@ -6711,7 +6711,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["gutalax-ook-ook"]=8,
 	["guugur-auberdine"]=2,
 	["gww-garalon"]=1,
-	["gyatthunter-norushen"]=9,
+	["gyatthunter-norushen"]=12,
 	["gymbunny-shekzeer"]=15,
 	["gypsysniper-shekzeer"]=4,
 	["haberer-everlook"]=1,
@@ -6777,7 +6777,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["healman-shekzeer"]=5,
 	["healryclntn-mirage-raceway"]=9,
 	["healzlul-shekzeer"]=9,
-	["healzpower-garalon"]=29,
+	["healzpower-garalon"]=6,
 	["hearboi-mirage-raceway"]=4,
 	["hearthslam-everlook"]=1,
 	["hearthsoul-everlook"]=17,
@@ -6894,7 +6894,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["hyped-shekzeer"]=2,
 	["hypertouch-shekzeer"]=1,
 	["hypnodotcum-shekzeer"]=17,
-	["hypnogodq-shekzeer"]=12,
+	["hypnogodq-shekzeer"]=9,
 	["hypnogodz-shekzeer"]=11,
 	["hysel-garalon"]=15,
 	["hyxro-mirage-raceway"]=9,
@@ -8511,7 +8511,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["reàlbumbel-shekzeer"]=25,
 	["realbumbelbe-shekzeer"]=7,
 	["realbúmbelbe-shekzeer"]=7,
-	["realbumbell-garalon"]=29,
+	["realbumbell-garalon"]=7,
 	["realshifter-shekzeer"]=1,
 	["realwoippey-shekzeer"]=4,
 	["reauna-shekzeer"]=4,
@@ -10023,7 +10023,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Айрбет-flamegor"]=10,
 	["Айсстори-flamegor"]=2,
 	["Аквамелиз-flamegor"]=2,
-	["Акраменс-flamegor"]=2,
+	["Акраменс-flamegor"]=27,
 	["Аллроуд-flamegor"]=8,
 	["Амсприст-flamegor"]=22,
 	["Андрюшахекс-flamegor"]=13,
