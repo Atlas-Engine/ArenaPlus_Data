@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5314 characters, read 2026-09-24 12:00 AM.
+-- Region eu, 5315 characters, read 2026-09-24 01:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3962,6 +3962,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["tastyd-shekzeer"]=41,
 	["tawnyx-everlook"]=40,
 	["taylôrswiftx-mirage-raceway"]=11,
+	["taylorswitch-garalon"]=10,
 	["tazes-shekzeer"]=10,
 	["tazeskeg-shekzeer"]=11,
 	["tbax-shekzeer"]=41,
@@ -7498,7 +7499,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["lingettesale-auberdine"]=6,
 	["linsie-auberdine"]=26,
 	["lipglossxoxo-garalon"]=5,
-	["liplinerxoxo-garalon"]=23,
+	["liplinerxoxo-garalon"]=28,
 	["lipmode-norushen"]=14,
 	["lippy-norushen"]=2,
 	["liquidity-shekzeer"]=8,
@@ -9229,6 +9230,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["tastyd-shekzeer"]=3,
 	["tawnyx-everlook"]=3,
 	["taylôrswiftx-mirage-raceway"]=6,
+	["taylorswitch-garalon"]=1,
 	["tazes-shekzeer"]=7,
 	["tazeskeg-shekzeer"]=1,
 	["tbax-shekzeer"]=3,

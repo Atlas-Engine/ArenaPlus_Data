@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5174 characters, read 2026-09-23 11:59 PM.
+-- Region us, 5174 characters, read 2026-09-24 12:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5378,7 +5378,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["berell-raden"]=5,
 	["berkson-galakras"]=20,
 	["bertharro-galakras"]=1,
-	["bertoxxulos-galakras"]=28,
+	["bertoxxulos-galakras"]=24,
 	["bestiiaa-raden"]=20,
 	["bestmonkus-raden"]=4,
 	["betashaman-nazgrim"]=15,
@@ -6024,7 +6024,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["degaüss-raden"]=16,
 	["dekk-raden"]=6,
 	["delané-raden"]=3,
-	["delaway-lei-shen"]=24,
+	["delaway-lei-shen"]=28,
 	["delgars-galakras"]=3,
 	["delude-arugal-au"]=1,
 	["delvina-raden"]=2,
@@ -6631,7 +6631,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["gaisêric-pagle"]=7,
 	["galactus-arugal-au"]=1,
 	["galaxysbtw-raden"]=7,
-	["galekk-immerseus"]=10,
+	["galekk-immerseus"]=4,
 	["galey-galakras"]=23,
 	["galica-immerseus"]=30,
 	["gallagher-raden"]=1,
@@ -7650,7 +7650,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["liyarlena-raden"]=14,
 	["lizizi-raden"]=1,
 	["llaski-galakras"]=18,
-	["llinc-pagle"]=3,
+	["llinc-pagle"]=20,
 	["lloydx-pagle"]=26,
 	["loaofdietcke-pagle"]=7,
 	["lockholidays-pagle"]=28,
@@ -8217,7 +8217,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["notsocially-raden"]=2,
 	["noturtype-pagle"]=13,
 	["novä-lei-shen"]=13,
-	["novalight-arugal-au"]=21,
+	["novalight-arugal-au"]=13,
 	["nøved-pagle"]=1,
 	["novokaine-immerseus"]=7,
 	["nøx-pagle"]=1,
@@ -8320,7 +8320,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["orbscripter-pagle"]=4,
 	["orcsamabin-pagle"]=15,
 	["orcz-pagle"]=23,
-	["ordanary-pagle"]=4,
+	["ordanary-pagle"]=27,
 	["ordinary-galakras"]=5,
 	["orgian-pagle"]=5,
 	["orgimmar-raden"]=1,
