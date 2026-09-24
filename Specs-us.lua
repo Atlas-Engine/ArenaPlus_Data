@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5170 characters, read 2026-09-24 02:59 AM.
+-- Region us, 5170 characters, read 2026-09-24 03:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5464,7 +5464,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["blazco-raden"]=9,
 	["blazedboii-pagle"]=18,
 	["blazingchi-arugal-au"]=4,
-	["bleeko-immerseus"]=17,
+	["bleeko-immerseus"]=5,
 	["blickkyyx-pagle"]=18,
 	["blicko-pagle"]=2,
 	["blindedlight-raden"]=2,
@@ -6106,7 +6106,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["Ðispie-pagle"]=6,
 	["distorte-pagle"]=5,
 	["Ðistrøyer-immerseus"]=7,
-	["ditrisus-pagle"]=3,
+	["ditrisus-pagle"]=20,
 	["diviñe-pagle"]=2,
 	["divinebleed-raden"]=7,
 	["divinehymnal-raden"]=0,
@@ -7802,7 +7802,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["mastrodaumus-pagle"]=19,
 	["matasuegra-raden"]=7,
 	["matemage-pagle"]=7,
-	["mathsmoansgg-pagle"]=25,
+	["mathsmoansgg-pagle"]=26,
 	["matix-nazgrim"]=16,
 	["matraxs-raden"]=34,
 	["mátrix-pagle"]=14,
@@ -9627,7 +9627,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["trapaholic-raden"]=3,
 	["trapandcrit-pagle"]=3,
 	["trapbot-raden"]=3,
-	["trapfiendx-raden"]=18,
+	["trapfiendx-raden"]=3,
 	["traplauncher-pagle"]=3,
 	["trapreckly-raden"]=3,
 	["träps-pagle"]=3,
@@ -9808,7 +9808,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["vildennx-raden"]=0,
 	["vilhelms-nazgrim"]=7,
 	["violet-raden"]=1,
-	["vipyrs-pagle"]=8,
+	["vipyrs-pagle"]=28,
 	["virtuus-galakras"]=7,
 	["vîs-lei-shen"]=16,
 	["viscio-pagle"]=1,
@@ -9831,7 +9831,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["vonxx-pagle"]=24,
 	["vonzxy-pagle"]=11,
 	["vorag-nazgrim"]=10,
-	["voromyr-lei-shen"]=23,
+	["voromyr-lei-shen"]=7,
 	["vorthorne-raden"]=30,
 	["voshay-pagle"]=15,
 	["vovaii-pagle"]=12,

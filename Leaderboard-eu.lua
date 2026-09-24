@@ -18,7 +18,7 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region eu, season 14, read 2026-09-24 03:00 AM.
+-- Region eu, season 14, read 2026-09-24 04:00 AM.
 -- Realm display names, because the ladder only carries slugs and no rule
 -- turns one back into the other: raden is Ra-den, lei-shen is Lei Shen and
 -- arugal-au is Arugal (AU). Read from Blizzard's realm index; a slug with no
@@ -35,9 +35,9 @@ ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["eu"] = {
 	region  = "eu",
-	checked = "2026-09-24 03:00 AM",
-	checkedEpoch = 1790233204,
-	snapshot = "2026-09-24 04:17",
+	checked = "2026-09-24 04:00 AM",
+	checkedEpoch = 1790236804,
+	snapshot = "2026-09-24 07:17",
 
 	[1] = {  -- 2v2, 5002 places, down to rating 1045 -- the API stops here, short of the cutoff
 		{ rank=1, name="Ay", realm="shekzeer", rating=2734, won=127, lost=3, faction="ALLIANCE", dr=0, dk=0 },
@@ -3757,7 +3757,7 @@ ns.LEADERBOARD_BY_REGION["eu"] = {
 		{ rank=3712, name="Kampiix", realm="everlook", rating=1622, won=23, lost=22, faction="ALLIANCE", dr=0, dk=96 },
 		{ rank=3712, name="Lolipopislol", realm="ook-ook", rating=1622, won=28, lost=34, faction="HORDE", dr=0, dk=96 },
 		{ rank=3712, name="Minetrap", realm="shekzeer", rating=1622, won=21, lost=12, faction="ALLIANCE", dr=0, dk=96 },
-		{ rank=3712, name="Zirkniaq", realm="shekzeer", rating=1622, won=81, lost=89, faction="ALLIANCE", dr=0, dk=96 },
+		{ rank=3712, name="Zirkniaq", realm="shekzeer", rating=1622, won=81, lost=101, faction="ALLIANCE", dr=0, dk=96 },
 		{ rank=3712, name="Чёспвебалом", realm="flamegor", rating=1622, won=28, lost=32, faction="HORDE", dr=0, dk=96 },
 		{ rank=3720, name="Gymbunny", realm="shekzeer", rating=1621, won=21, lost=17, faction="ALLIANCE", dr=0, dk=96 },
 		{ rank=3720, name="Miroc", realm="shekzeer", rating=1621, won=63, lost=69, faction="HORDE", dr=0, dk=96 },
@@ -4529,7 +4529,7 @@ ns.LEADERBOARD_BY_REGION["eu"] = {
 		{ rank=4484, name="Fastaim", realm="shekzeer", rating=1542, won=66, lost=123, faction="ALLIANCE", dr=0, dk=100 },
 		{ rank=4484, name="Kenthalyriøs", realm="auberdine", rating=1542, won=34, lost=53, faction="ALLIANCE", dr=0, dk=100 },
 		{ rank=4484, name="Nidlex", realm="norushen", rating=1542, won=19, lost=19, faction="HORDE", dr=0, dk=100 },
-		{ rank=4484, name="Nightstream", realm="hoptallus", rating=1542, won=21, lost=56, faction="ALLIANCE", dr=70, dk=-394 },
+		{ rank=4484, name="Nightstream", realm="hoptallus", rating=1542, won=21, lost=57, faction="ALLIANCE", dr=70, dk=-394 },
 		{ rank=4484, name="Spelià", realm="auberdine", rating=1542, won=17, lost=13, faction="ALLIANCE", dr=0, dk=100 },
 		{ rank=4484, name="Suniclaybtw", realm="auberdine", rating=1542, won=17, lost=11, faction="ALLIANCE", dr=0, dk=100 },
 		{ rank=4484, name="Takenn", realm="shekzeer", rating=1542, won=17, lost=18, faction="ALLIANCE", dr=0, dk=100 },

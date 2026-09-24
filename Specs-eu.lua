@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5315 characters, read 2026-09-24 03:00 AM.
+-- Region eu, 5315 characters, read 2026-09-24 04:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6239,7 +6239,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["dreakkova-shekzeer"]=12,
 	["dreamchaser-shekzeer"]=21,
 	["dreamfox-shekzeer"]=6,
-	["dreamhunnt-mirage-raceway"]=20,
+	["dreamhunnt-mirage-raceway"]=4,
 	["dreckavac-shekzeer"]=9,
 	["dreizweieins-shekzeer"]=24,
 	["dréwa-auberdine"]=26,
@@ -8195,7 +8195,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["onüç-shekzeer"]=7,
 	["oo-shekzeer"]=16,
 	["ooboom-shekzeer"]=11,
-	["oof-shekzeer"]=4,
+	["oof-shekzeer"]=20,
 	["ooffa-hoptallus"]=11,
 	["Óófromlipain-shekzeer"]=0,
 	["Øølimpian-shekzeer"]=0,
@@ -9758,7 +9758,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["worstrogueeu-ook-ook"]=24,
 	["wotblud-mirage-raceway"]=1,
 	["wpereborn-shekzeer"]=6,
-	["wps-hoptallus"]=8,
+	["wps-hoptallus"]=31,
 	["wrøngtarget-shekzeer"]=19,
 	["wrongwilson-shekzeer"]=23,
 	["wrs-shekzeer"]=34,
