@@ -18,7 +18,7 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region tbc-eu, season 3, read 2026-09-24 01:59 AM.
+-- Region tbc-eu, season 3, read 2026-09-24 02:59 AM.
 -- Realm display names, because the ladder only carries slugs and no rule
 -- turns one back into the other: raden is Ra-den, lei-shen is Lei Shen and
 -- arugal-au is Arugal (AU). Read from Blizzard's realm index; a slug with no
@@ -32,8 +32,8 @@ ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["tbc-eu"] = {
 	region  = "tbc-eu",
-	checked = "2026-09-24 01:59 AM",
-	checkedEpoch = 1790229546,
+	checked = "2026-09-24 02:59 AM",
+	checkedEpoch = 1790233141,
 	snapshot = "2026-09-24 04:12",
 
 	[1] = {  -- 2v2, 5041 places, down to rating 1486 -- the API stops here, short of the cutoff
@@ -790,6 +790,7 @@ ns.LEADERBOARD_BY_REGION["tbc-eu"] = {
 		{ rank=748, name="Requiemit", realm="spineshatter", rating=2047, won=126, lost=98, faction="HORDE", mr=2168, dr=-8, dk=196 },
 		{ rank=752, name="Cekckot", realm="spineshatter", rating=2046, won=137, lost=126, faction="ALLIANCE", dr=149, dk=-982 },
 		{ rank=752, name="Hqte", realm="spineshatter", rating=2046, won=47, lost=29, faction="ALLIANCE", dr=246, dk=-2200 },
+		{ rank=752, name="Luminarra", realm="spineshatter", rating=2046, won=149, lost=129, faction="ALLIANCE", dr=192, dk=-1383 },
 		{ rank=752, name="Máelle", realm="spineshatter", rating=2046, won=89, lost=62, faction="ALLIANCE", dr=57, dk=-296 },
 		{ rank=752, name="Noliss", realm="spineshatter", rating=2046, won=47, lost=29, faction="ALLIANCE", dr=246, dk=-2200 },
 		{ rank=752, name="Peppyn", realm="spineshatter", rating=2046, won=60, lost=50, faction="ALLIANCE", dr=37, dk=-78 },
@@ -797,10 +798,9 @@ ns.LEADERBOARD_BY_REGION["tbc-eu"] = {
 		{ rank=752, name="Rewide", realm="spineshatter", rating=2046, won=47, lost=25, faction="HORDE", dr=0, dk=159 },
 		{ rank=752, name="ßßw", realm="spineshatter", rating=2046, won=48, lost=29, faction="ALLIANCE", mr=2086, dr=16, dk=71 },
 		{ rank=752, name="Tilted", realm="spineshatter", rating=2046, won=86, lost=66, faction="ALLIANCE", mr=2070, dr=-24, dk=262 },
-		{ rank=761, name="Luminarra", realm="spineshatter", rating=2045, won=146, lost=128, faction="ALLIANCE", dr=191, dk=-1374 },
-		{ rank=761, name="Opid", realm="spineshatter", rating=2045, won=58, lost=51, faction="ALLIANCE", dr=0, dk=162 },
-		{ rank=761, name="Rammie", realm="spineshatter", rating=2045, won=78, lost=54, faction="ALLIANCE", mr=2078, dr=-33, dk=297 },
-		{ rank=761, name="Zralog", realm="spineshatter", rating=2045, won=139, lost=119, faction="ALLIANCE", dr=188, dk=-1339 },
+		{ rank=762, name="Opid", realm="spineshatter", rating=2045, won=58, lost=51, faction="ALLIANCE", dr=0, dk=163 },
+		{ rank=762, name="Rammie", realm="spineshatter", rating=2045, won=78, lost=54, faction="ALLIANCE", mr=2078, dr=-33, dk=298 },
+		{ rank=762, name="Zralog", realm="spineshatter", rating=2045, won=139, lost=119, faction="ALLIANCE", dr=188, dk=-1338 },
 		{ rank=765, name="Aegia", realm="spineshatter", rating=2044, won=73, lost=51, faction="ALLIANCE", dr=275, dk=-2645 },
 		{ rank=765, name="Brotallus", realm="spineshatter", rating=2044, won=51, lost=43, faction="ALLIANCE", dr=40, dk=-156 },
 		{ rank=765, name="Combatcat", realm="spineshatter", rating=2044, won=469, lost=398, faction="ALLIANCE", mr=2071, dr=77, dk=-405 },

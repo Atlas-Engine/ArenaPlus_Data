@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5170 characters, read 2026-09-24 01:59 AM.
+-- Region us, 5170 characters, read 2026-09-24 02:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7040,7 +7040,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["hypnozy-raden"]=2,
 	["hysteria-pagle"]=9,
 	["iachoku-raden"]=1,
-	["iambackbby-raden"]=13,
+	["iambackbby-raden"]=9,
 	["iamgodamsam-nazgrim"]=24,
 	["iamkam-raden"]=1,
 	["ianduncan-pagle"]=28,
@@ -7240,7 +7240,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["jesse-raden"]=23,
 	["jestymar-raden"]=6,
 	["jesy-lei-shen"]=21,
-	["jeta-raden"]=10,
+	["jeta-raden"]=4,
 	["jetá-raden"]=9,
 	["jetaa-raden"]=4,
 	["jetleelol-pagle"]=10,
@@ -7908,7 +7908,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["mîndless-raden"]=24,
 	["mindlessjack-raden"]=9,
 	["míndléssjáck-raden"]=18,
-	["mindlessjak-raden"]=28,
+	["mindlessjak-raden"]=24,
 	["mindlessjr-nazgrim"]=28,
 	["mindlessjuan-raden"]=28,
 	["mindlless-raden"]=21,
@@ -7922,7 +7922,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["misprëdictio-nazgrim"]=21,
 	["missatrinni-pagle"]=0,
 	["missmama-galakras"]=5,
-	["missrollings-pagle"]=10,
+	["missrollings-pagle"]=4,
 	["misstotem-pagle"]=15,
 	["missyu-immerseus"]=23,
 	["mistafistuh-pagle"]=4,
@@ -8577,7 +8577,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["quartêrmain-pagle"]=3,
 	["quelss-pagle"]=2,
 	["quesø-pagle"]=29,
-	["questopresto-nazgrim"]=4,
+	["questopresto-nazgrim"]=10,
 	["quickscopex-pagle"]=3,
 	["quickvanish-pagle"]=34,
 	["qwanya-raden"]=1,
@@ -8871,7 +8871,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["sàrëna-pagle"]=17,
 	["sarenity-raden"]=27,
 	["saridor-arugal-au"]=20,
-	["sasafras-pagle"]=17,
+	["sasafras-pagle"]=5,
 	["sashastorm-pagle"]=24,
 	["sassybooty-galakras"]=10,
 	["satierf-pagle"]=17,
@@ -9888,7 +9888,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["whammy-raden"]=4,
 	["whatafear-pagle"]=9,
 	["wheresmolly-pagle"]=22,
-	["whhïte-raden"]=24,
+	["whhïte-raden"]=28,
 	["whiichway-pagle"]=3,
 	["whiitemagic-raden"]=9,
 	["whiskii-galakras"]=11,
