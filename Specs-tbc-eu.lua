@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 10174 characters, read 2026-09-24 03:59 AM.
+-- Region tbc-eu, 10174 characters, read 2026-09-24 04:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10515,7 +10515,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["arqsmol-spineshatter"]=15,
 	["arranarr-spineshatter"]=15,
 	["arrïmadas-spineshatter"]=3,
-	["arrowstâck-spineshatter"]=25,
+	["arrowstâck-spineshatter"]=24,
 	["artexd-spineshatter"]=5,
 	["artexz-spineshatter"]=13,
 	["arthamir-spineshatter"]=10,
@@ -11204,7 +11204,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["braubin-spineshatter"]=8,
 	["bravearms-spineshatter"]=15,
 	["brazilianbl-spineshatter"]=12,
-	["breadpiit-spineshatter"]=3,
+	["breadpiit-spineshatter"]=19,
 	["breaked-spineshatter"]=2,
 	["breakingbald-spineshatter"]=11,
 	["breakøut-thunderstrike"]=5,
@@ -15211,7 +15211,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["lucreziax-spineshatter"]=2,
 	["ludacrix-spineshatter"]=2,
 	["ludacriz-spineshatter"]=8,
-	["ludoxdd-spineshatter"]=9,
+	["ludoxdd-spineshatter"]=4,
 	["ludvigxf-thunderstrike"]=6,
 	["luffylølz-spineshatter"]=2,
 	["luftulven-thunderstrike"]=1,
@@ -19838,7 +19838,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["wyxed-spineshatter"]=1,
 	["wyzed-spineshatter"]=15,
 	["wz-spineshatter"]=7,
-	["wznbirdboy-spineshatter"]=6,
+	["wznbirdboy-spineshatter"]=1,
 	["xã-spineshatter"]=3,
 	["xádo-spineshatter"]=11,
 	["xænae-spineshatter"]=9,
