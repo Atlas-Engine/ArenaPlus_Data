@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9681 characters, read 2026-09-24 12:58 PM.
+-- Region tbc-us, 9681 characters, read 2026-09-24 01:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10352,7 +10352,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bigmagenut-nightslayer"]=4,
 	["bigmaily-dreamscythe"]=11,
 	["bigmozels-nightslayer"]=15,
-	["bignsxy-nightslayer"]=7,
+	["bignsxy-nightslayer"]=3,
 	["bignutbobby-dreamscythe"]=15,
 	["bigolcritys-dreamscythe"]=2,
 	["bigpeenance-nightslayer"]=1,
@@ -12052,7 +12052,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ecgcleaning-nightslayer"]=4,
 	["eckthgar-nightslayer"]=10,
 	["eclipzed-nightslayer"]=16,
-	["eclipzedd-nightslayer"]=7,
+	["eclipzedd-nightslayer"]=3,
 	["ectroxo-nightslayer"]=8,
 	["eddygordo-nightslayer"]=19,
 	["edgy-nightslayer"]=11,
@@ -14464,7 +14464,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["lmnllam-nightslayer"]=21,
 	["ln-nightslayer"]=0,
 	["lnln-nightslayer"]=1,
-	["loccoshock-nightslayer"]=19,
+	["loccoshock-nightslayer"]=10,
 	["lochadin-dreamscythe"]=11,
 	["lockajewbaca-nightslayer"]=16,
 	["lockballess-dreamscythe"]=13,
@@ -14889,7 +14889,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["methben-nightslayer"]=7,
 	["methie-nightslayer"]=13,
 	["metrìc-dreamscythe"]=10,
-	["metzbower-nightslayer"]=13,
+	["metzbower-nightslayer"]=16,
 	["mewandya-nightslayer"]=13,
 	["mewzor-nightslayer"]=6,
 	["méz-nightslayer"]=5,
@@ -15149,7 +15149,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["movejoe-nightslayer"]=7,
 	["mowald-dreamscythe"]=1,
 	["möxie-dreamscythe"]=4,
-	["mozartz-nightslayer"]=6,
+	["mozartz-nightslayer"]=4,
 	["mpbaldness-dreamscythe"]=20,
 	["mprst-dreamscythe"]=1,
 	["mssirrobin-nightslayer"]=10,
@@ -16301,7 +16301,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ralphmen-nightslayer"]=5,
 	["ralsay-nightslayer"]=14,
 	["ralz-nightslayer"]=7,
-	["ramboludo-nightslayer"]=6,
+	["ramboludo-nightslayer"]=4,
 	["ramgam-nightslayer"]=18,
 	["ramiusx-nightslayer"]=15,
 	["rammedaddy-nightslayer"]=1,
