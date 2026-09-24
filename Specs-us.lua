@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5170 characters, read 2026-09-24 05:59 AM.
+-- Region us, 5170 characters, read 2026-09-24 06:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5937,7 +5937,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["Ðamaia-pagle"]=7,
 	["damanî-pagle"]=34,
 	["dampeners-raden"]=28,
-	["danar-raden"]=5,
+	["danar-raden"]=17,
 	["dáncingmines-raden"]=5,
 	["dandor-pagle"]=7,
 	["dankenbrew-lei-shen"]=4,
@@ -6961,7 +6961,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["holyfender-pagle"]=2,
 	["holyfkbubs-pagle"]=2,
 	["holyflamez-pagle"]=2,
-	["holyfluxq-pagle"]=9,
+	["holyfluxq-pagle"]=21,
 	["holygym-nazgrim"]=9,
 	["holymar-pagle"]=6,
 	["holymoly-raden"]=9,
@@ -7322,7 +7322,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["jvx-pagle"]=14,
 	["jzx-lei-shen"]=28,
 	["ka-nazgrim"]=0,
-	["kabukka-immerseus"]=25,
+	["kabukka-immerseus"]=6,
 	["kadabra-galakras"]=21,
 	["kaela-pagle"]=1,
 	["kaelay-pagle"]=16,
@@ -7343,7 +7343,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["kamikylol-pagle"]=29,
 	["kamiyam-raden"]=6,
 	["kánabiss-galakras"]=3,
-	["kandì-pagle"]=11,
+	["kandì-pagle"]=1,
 	["kankus-pagle"]=15,
 	["kaptnascend-pagle"]=22,
 	["kaptnhard-pagle"]=24,
@@ -7922,7 +7922,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["misprëdictio-nazgrim"]=21,
 	["missatrinni-pagle"]=0,
 	["missmama-galakras"]=5,
-	["missrollings-pagle"]=4,
+	["missrollings-pagle"]=10,
 	["misstotem-pagle"]=15,
 	["missyu-immerseus"]=23,
 	["mistafistuh-pagle"]=4,
@@ -9142,7 +9142,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["slowroll-lei-shen"]=10,
 	["sludirs-immerseus"]=18,
 	["slumpfoo-raden"]=10,
-	["slumplord-raden"]=34,
+	["slumplord-raden"]=14,
 	["slumplordx-raden"]=14,
 	["smallrass-pagle"]=7,
 	["smalltrain-pagle"]=15,
