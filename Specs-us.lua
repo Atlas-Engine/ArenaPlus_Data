@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5169 characters, read 2026-09-24 02:59 PM.
+-- Region us, 5169 characters, read 2026-09-24 03:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -144,6 +144,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["alassin-galakras"]=40,
 	["albomane-pagle"]=100,
 	["alchemistmed-galakras"]=60,
+	["aldiapoulos-pagle"]=50,
 	["aldrisch-galakras"]=50,
 	["alecasawomen-raden"]=11,
 	["alejinha-raden"]=11,
@@ -5073,7 +5074,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["alassin-galakras"]=4,
 	["albomane-pagle"]=21,
 	["alchemistmed-galakras"]=12,
-	["aldiapoulos-pagle"]=0,
+	["aldiapoulos-pagle"]=11,
 	["aldrisch-galakras"]=1,
 	["alecasawomen-raden"]=4,
 	["alejinha-raden"]=34,
@@ -5951,7 +5952,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["Ðark-nazgrim"]=6,
 	["darkavengerr-grobbulus"]=28,
 	["darkdankdope-raden"]=10,
-	["darkdeamon-pagle"]=11,
+	["darkdeamon-pagle"]=1,
 	["darkestcyn-galakras"]=28,
 	["darkferocity-grobbulus"]=21,
 	["darkjdm-lei-shen"]=6,
