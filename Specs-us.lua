@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5174 characters, read 2026-09-23 10:59 PM.
+-- Region us, 5174 characters, read 2026-09-23 11:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3287,7 +3287,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["palyvash-galakras"]=11,
 	["palyy-raden"]=11,
 	["panchodelsur-nazgrim"]=51,
-	["pandathis-raden"]=251,
 	["pangyo-pagle"]=251,
 	["papatrump-pagle"]=10,
 	["papibolt-pagle"]=80,
@@ -6168,7 +6167,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dookstain-nazgrim"]=10,
 	["doomqt-raden"]=9,
 	["doontsx-pagle"]=7,
-	["doorsil-galakras"]=14,
+	["doorsil-galakras"]=29,
 	["Ðøøzy-pagle"]=25,
 	["dorayeda-galakras"]=10,
 	["dorky-arugal-au"]=0,
@@ -7107,7 +7106,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["illidingus-nazgrim"]=2,
 	["ilnicoll-pagle"]=2,
 	["ilockedyouup-pagle"]=24,
-	["ilockthis-galakras"]=28,
+	["ilockthis-galakras"]=8,
 	["ilpeguerosll-pagle"]=1,
 	["ilpilgrim-raden"]=7,
 	["iluvheffers-pagle"]=16,
@@ -8377,7 +8376,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["palyvash-galakras"]=16,
 	["palyy-raden"]=16,
 	["panchodelsur-nazgrim"]=1,
-	["pandathis-raden"]=4,
+	["pandathis-raden"]=0,
 	["pangyo-pagle"]=7,
 	["papabrew-raden"]=0,
 	["papabrewxl-pagle"]=0,
