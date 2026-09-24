@@ -12,18 +12,18 @@ local ns = ArenaPlusData
 -- Arena title cutoffs, written by tools\UpdateFromBlizzard.ps1 from Blizzard's
 -- own API. Do not edit by hand: rerun the script to refresh.
 --
--- Region us, season 14, cutoffs last changed 2026-09-23 10:18 AM, last checked 2026-09-24 09:59 AM.
+-- Region us, season 14, cutoffs last changed 2026-09-24 10:18 AM, last checked 2026-09-24 10:59 AM.
 ns.CUTOFFS_BY_REGION = ns.CUTOFFS_BY_REGION or {}
 
 ns.CUTOFFS_BY_REGION["us"] = {
 	region  = "us",
-	updated = "2026-09-23 10:18 AM",
-	checked = "2026-09-24 09:59 AM",
-	checkedEpoch = 1790258369,
+	updated = "2026-09-24 10:18 AM",
+	checked = "2026-09-24 10:59 AM",
+	checkedEpoch = 1790261967,
 
-	[1] = { r1=2566, gladiator=2266, duelist=2105, rival=1823, challenger=1056 }, -- 2v2
+	[1] = { r1=2566, gladiator=2272, duelist=2108, rival=1825, challenger=1056 }, -- 2v2
 	[2] = { r1=2449, gladiator=1993, duelist=1888, rival=1631, challenger=864 }, -- 3v3
-	[3] = { r1=2134, gladiator=1338, duelist=1152, rival=1055, challenger=480 }, -- 5v5
+	[3] = { r1=2184, gladiator=1437, duelist=1341, rival=1056, challenger=576 }, -- 5v5
 	[4] = { r1=2039, duelist=1887, rival=1752, challenger=1450 }, -- rbg
 }
 
@@ -32,8 +32,8 @@ ns.CUTOFFS_BY_REGION["us"] = {
 ns.CUTOFF_SLOTS_BY_REGION = ns.CUTOFF_SLOTS_BY_REGION or {}
 
 ns.CUTOFF_SLOTS_BY_REGION["us"] = {
-	[1] = { r1=30, gladiator=210, duelist=545, rival=1793 }, -- 2v2
+	[1] = { r1=30, gladiator=205, duelist=536, rival=1780 }, -- 2v2
 	[2] = { r1=26, gladiator=184, duelist=219, rival=320, challenger=675 }, -- 3v3
-	[3] = { r1=15, gladiator=118, duelist=130, rival=144, challenger=232 }, -- 5v5
+	[3] = { r1=15, gladiator=111, duelist=116, rival=142, challenger=206 }, -- 5v5
 	[4] = { r1=3, duelist=7, rival=26, challenger=123 }, -- rbg
 }

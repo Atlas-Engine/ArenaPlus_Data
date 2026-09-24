@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9679 characters, read 2026-09-24 09:58 AM.
+-- Region tbc-us, 9679 characters, read 2026-09-24 10:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9368,6 +9368,7 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["yntruck-nightslayer"]=70,
 	["ynwithcredit-nightslayer"]=50,
 	["yodead-nightslayer"]=70,
+	["yogibera-nightslayer"]=40,
 	["yohaha-nightslayer"]=31,
 	["yohan-nightslayer"]=11,
 	["yokó-nightslayer"]=40,
@@ -14347,7 +14348,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["lexiwilliams-dreamscythe"]=1,
 	["lexso-nightslayer"]=10,
 	["lexys-dreamscythe"]=2,
-	["leyben-nightslayer"]=6,
+	["leyben-nightslayer"]=4,
 	["lfgbehealin-nightslayer"]=1,
 	["lfghero-nightslayer"]=22,
 	["lfgisraging-nightslayer"]=2,
@@ -14606,7 +14607,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["macestrom-dreamscythe"]=2,
 	["macestubbz-nightslayer"]=2,
 	["macestunloto-nightslayer"]=2,
-	["maceswindu-nightslayer"]=5,
+	["maceswindu-nightslayer"]=8,
 	["macetrainer-nightslayer"]=2,
 	["macewindue-dreamscythe"]=2,
 	["mãchine-nightslayer"]=1,
@@ -14786,7 +14787,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["mbo-dreamscythe"]=3,
 	["mcchickén-nightslayer"]=7,
 	["mcchickèn-nightslayer"]=7,
-	["mcdzee-nightslayer"]=2,
+	["mcdzee-nightslayer"]=20,
 	["mcgnarly-nightslayer"]=5,
 	["mcgovern-nightslayer"]=3,
 	["mcjonwald-nightslayer"]=2,
@@ -14821,7 +14822,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["meetym-nightslayer"]=11,
 	["megaglaze-nightslayer"]=4,
 	["meganfrostx-nightslayer"]=4,
-	["megaphone-nightslayer"]=4,
+	["megaphone-nightslayer"]=6,
 	["megasaur-nightslayer"]=2,
 	["megezz-nightslayer"]=16,
 	["meilleur-nightslayer"]=1,
@@ -17053,7 +17054,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["shigtizzles-nightslayer"]=10,
 	["shigzy-nightslayer"]=1,
 	["shiizzam-dreamscythe"]=7,
-	["shikumunss-dreamscythe"]=3,
+	["shikumunss-dreamscythe"]=7,
 	["shilly-nightslayer"]=2,
 	["shimo-nightslayer"]=2,
 	["shinbet-nightslayer"]=4,
@@ -19048,7 +19049,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["yntruck-nightslayer"]=2,
 	["ynwithcredit-nightslayer"]=6,
 	["yodead-nightslayer"]=2,
-	["yogibera-nightslayer"]=0,
+	["yogibera-nightslayer"]=7,
 	["yohaha-nightslayer"]=9,
 	["yohan-nightslayer"]=5,
 	["yokó-nightslayer"]=3,

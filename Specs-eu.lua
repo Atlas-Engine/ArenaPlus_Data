@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5313 characters, read 2026-09-24 10:00 AM.
+-- Region eu, 5313 characters, read 2026-09-24 11:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6739,7 +6739,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["hanamichi-norushen"]=7,
 	["hängo-shekzeer"]=9,
 	["hánnibál-shekzeer"]=0,
-	["haølod-hoptallus"]=25,
+	["haølod-hoptallus"]=1,
 	["haori-shekzeer"]=9,
 	["hapless-everlook"]=7,
 	["happyfather-shekzeer"]=16,
@@ -6806,7 +6806,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["hentaimama-shekzeer"]=11,
 	["héra-shekzeer"]=9,
 	["hercegovka-norushen"]=22,
-	["herja-shekzeer"]=11,
+	["herja-shekzeer"]=21,
 	["herjâ-shekzeer"]=5,
 	["hermán-shekzeer"]=15,
 	["hermenigilda-shekzeer"]=1,
@@ -7021,7 +7021,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["jackynko-hoptallus"]=15,
 	["jäckynko-hoptallus"]=4,
 	["jäckynkô-hoptallus"]=6,
-	["jackynkoo-hoptallus"]=31,
+	["jackynkoo-hoptallus"]=8,
 	["jäckynkôô-hoptallus"]=6,
 	["jackynoo-hoptallus"]=19,
 	["jâckywhâcky-shekzeer"]=4,
@@ -10028,7 +10028,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Амсприст-flamegor"]=22,
 	["Андрюшахекс-flamegor"]=13,
 	["Арамсик-flamegor"]=1,
-	["Ареанна-flamegor"]=20,
+	["Ареанна-flamegor"]=4,
 	["Аренкопро-flamegor"]=13,
 	["Арент-flamegor"]=26,
 	["Ариск-flamegor"]=16,

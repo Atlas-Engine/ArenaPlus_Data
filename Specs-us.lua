@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5171 characters, read 2026-09-24 09:59 AM.
+-- Region us, 5170 characters, read 2026-09-24 10:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2767,7 +2767,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["mcp-raden"]=10,
 	["mcpm-raden"]=10,
 	["mcstabbiee-pagle"]=10,
-	["meastt-pagle"]=20,
 	["meatballgun-lei-shen"]=111,
 	["meätbol-lei-shen"]=220,
 	["meatbolt-raden"]=31,
@@ -7148,7 +7147,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["inperitus-arugal-au"]=15,
 	["insomniaxx-pagle"]=14,
 	["instantcarry-raden"]=10,
-	["integrityqt-pagle"]=21,
+	["integrityqt-pagle"]=13,
 	["intercepts-pagle"]=7,
 	["intrerri-pagle"]=34,
 	["intru-raden"]=3,
@@ -7830,7 +7829,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["mcp-raden"]=28,
 	["mcpm-raden"]=1,
 	["mcstabbiee-pagle"]=29,
-	["meastt-pagle"]=7,
 	["meatballgun-lei-shen"]=15,
 	["meätbol-lei-shen"]=17,
 	["meatbolt-raden"]=15,
@@ -9649,7 +9647,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["trëv-galakras"]=24,
 	["trinketcleav-pagle"]=29,
 	["triskets-pagle"]=7,
-	["trisomi-pagle"]=18,
+	["trisomi-pagle"]=20,
 	["tritenxyz-raden"]=6,
 	["triver-galakras"]=10,
 	["trogath-atiesh"]=3,
