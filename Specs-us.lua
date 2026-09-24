@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5170 characters, read 2026-09-24 06:59 AM.
+-- Region us, 5171 characters, read 2026-09-24 07:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4493,6 +4493,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["trëv-galakras"]=11,
 	["trinketcleav-pagle"]=11,
 	["triskets-pagle"]=20,
+	["trisomi-pagle"]=11,
 	["tritenxyz-raden"]=11,
 	["triver-galakras"]=260,
 	["trogath-atiesh"]=30,
@@ -9491,7 +9492,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["terowyn-pagle"]=16,
 	["tertran-raden"]=23,
 	["tertuhl-raden"]=7,
-	["terzerd-nazgrim"]=10,
+	["terzerd-nazgrim"]=4,
 	["teshsky-pagle"]=28,
 	["testicls-galakras"]=3,
 	["testndbolwar-raden"]=7,
@@ -9649,6 +9650,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["trëv-galakras"]=24,
 	["trinketcleav-pagle"]=29,
 	["triskets-pagle"]=7,
+	["trisomi-pagle"]=18,
 	["tritenxyz-raden"]=6,
 	["triver-galakras"]=10,
 	["trogath-atiesh"]=3,

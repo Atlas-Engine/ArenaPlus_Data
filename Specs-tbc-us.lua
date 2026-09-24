@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9676 characters, read 2026-09-24 06:58 AM.
+-- Region tbc-us, 9676 characters, read 2026-09-24 07:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -13529,7 +13529,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["influxx-dreamscythe"]=8,
 	["ingii-nightslayer"]=1,
 	["inhalers-nightslayer"]=10,
-	["injureginger-dreamscythe"]=1,
+	["injureginger-dreamscythe"]=12,
 	["inkymess-nightslayer"]=10,
 	["inmates-nightslayer"]=2,
 	["innate-nightslayer"]=13,
@@ -16001,7 +16001,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["plzbite-nightslayer"]=15,
 	["pmotion-nightslayer"]=5,
 	["pmpin-nightslayer"]=2,
-	["pmunny-nightslayer"]=1,
+	["pmunny-nightslayer"]=12,
 	["pnau-nightslayer"]=7,
 	["pnispumper-nightslayer"]=1,
 	["pocketdisc-nightslayer"]=1,
@@ -18350,7 +18350,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ucantmovebro-nightslayer"]=4,
 	["uddernutz-nightslayer"]=7,
 	["ufostamina-dreamscythe"]=22,
-	["Ùgar-nightslayer"]=2,
+	["Ùgar-nightslayer"]=18,
 	["ughsmash-nightslayer"]=2,
 	["uglyandfat-nightslayer"]=14,
 	["uglybaldbaby-nightslayer"]=7,
@@ -19103,7 +19103,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["yzma-nightslayer"]=1,
 	["za-nightslayer"]=12,
 	["zaag-nightslayer"]=10,
-	["zaajaa-nightslayer"]=0,
+	["zaajaa-nightslayer"]=14,
 	["zåch-nightslayer"]=4,
 	["zachm-nightslayer"]=1,
 	["zaghawa-dreamscythe"]=2,
