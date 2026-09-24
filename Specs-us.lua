@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5171 characters, read 2026-09-24 07:59 AM.
+-- Region us, 5171 characters, read 2026-09-24 08:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -838,7 +838,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["cobearsdruid-pagle"]=80,
 	["cobrä-pagle"]=80,
 	["cöbrä-pagle"]=11,
-	["cochonhalal-pagle"]=10,
+	["cochonhalal-pagle"]=11,
 	["codywithak-raden"]=11,
 	["codyxd-pagle"]=10,
 	["cohenx-pagle"]=10,
@@ -3937,7 +3937,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["siffera-pagle"]=101,
 	["sifudragon-galakras"]=50,
 	["siiuu-grobbulus"]=10,
-	["siktir-faerlina"]=21,
 	["silaeriel-raden"]=11,
 	["silhas-galakras"]=101,
 	["sillent-pagle"]=50,
@@ -8495,7 +8494,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["poppcorn-raden"]=5,
 	["popsmokè-pagle"]=29,
 	["pörch-pagle"]=14,
-	["porkchopx-nazgrim"]=10,
+	["porkchopx-nazgrim"]=4,
 	["porkfriedrai-immerseus"]=4,
 	["portholio-pagle"]=4,
 	["potatoes-arugal-au"]=18,
@@ -9053,9 +9052,9 @@ ns.SPECS_BY_REGION["us"] = {
 	["siffera-pagle"]=25,
 	["sifudragon-galakras"]=4,
 	["siiuu-grobbulus"]=7,
-	["siktir-faerlina"]=26,
+	["siktir-faerlina"]=0,
 	["silaeriel-raden"]=10,
-	["silhas-galakras"]=21,
+	["silhas-galakras"]=13,
 	["sillent-pagle"]=14,
 	["silqy-pagle"]=0,
 	["silviaisa-raden"]=14,

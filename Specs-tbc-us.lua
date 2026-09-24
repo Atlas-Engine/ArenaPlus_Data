@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9676 characters, read 2026-09-24 07:58 AM.
+-- Region tbc-us, 9676 characters, read 2026-09-24 08:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10411,7 +10411,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bitfury-nightslayer"]=5,
 	["bitothoap-nightslayer"]=2,
 	["bittersweèt-nightslayer"]=7,
-	["bitterswèet-nightslayer"]=5,
+	["bitterswèet-nightslayer"]=8,
 	["biv-dreamscythe"]=22,
 	["bivalve-nightslayer"]=1,
 	["bizcas-nightslayer"]=13,
@@ -14641,7 +14641,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["mageperson-nightslayer"]=4,
 	["magicborc-nightslayer"]=19,
 	["magicstompzz-nightslayer"]=6,
-	["magicthoap-nightslayer"]=4,
+	["magicthoap-nightslayer"]=6,
 	["magnilol-nightslayer"]=1,
 	["maheloo-nightslayer"]=19,
 	["mahiko-nightslayer"]=5,
@@ -14740,7 +14740,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["massivemules-dreamscythe"]=8,
 	["massivewar-nightslayer"]=2,
 	["mastèrmind-nightslayer"]=1,
-	["masxzaw-nightslayer"]=22,
+	["masxzaw-nightslayer"]=7,
 	["matchalol-nightslayer"]=3,
 	["matchetees-nightslayer"]=9,
 	["matchu-nightslayer"]=3,
@@ -16293,7 +16293,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ralsay-nightslayer"]=14,
 	["ralz-nightslayer"]=7,
 	["ramboludo-nightslayer"]=6,
-	["ramgam-nightslayer"]=2,
+	["ramgam-nightslayer"]=18,
 	["ramiusx-nightslayer"]=17,
 	["rammedaddy-nightslayer"]=1,
 	["rammershock-dreamscythe"]=19,
@@ -18228,7 +18228,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["triptic-nightslayer"]=5,
 	["triptykh-nightslayer"]=1,
 	["tripzee-nightslayer"]=5,
-	["trixzzi-dreamscythe"]=7,
+	["trixzzi-dreamscythe"]=3,
 	["trizzix-nightslayer"]=4,
 	["troggie-nightslayer"]=15,
 	["trolleey-nightslayer"]=1,
@@ -18601,7 +18601,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["volmir-nightslayer"]=9,
 	["voltagespike-dreamscythe"]=1,
 	["voltij-nightslayer"]=4,
-	["voodookilla-dreamscythe"]=1,
+	["voodookilla-dreamscythe"]=12,
 	["voolta-nightslayer"]=24,
 	["vordrik-dreamscythe"]=2,
 	["votrix-nightslayer"]=5,
