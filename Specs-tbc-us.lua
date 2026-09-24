@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9686 characters, read 2026-09-24 03:58 PM.
+-- Region tbc-us, 9686 characters, read 2026-09-24 04:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11868,7 +11868,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["dranly-nightslayer"]=2,
 	["Ðråter-nightslayer"]=2,
 	["draterogib-nightslayer"]=19,
-	["drawnout-nightslayer"]=5,
+	["drawnout-nightslayer"]=8,
 	["drbeartotems-nightslayer"]=19,
 	["drbigpickle-nightslayer"]=1,
 	["drbim-nightslayer"]=0,
@@ -12686,7 +12686,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["gaekpoong-nightslayer"]=10,
 	["gaenari-nightslayer"]=1,
 	["gafboy-nightslayer"]=23,
-	["gagaav-nightslayer"]=25,
+	["gagaav-nightslayer"]=9,
 	["galactik-nightslayer"]=19,
 	["galaxyrog-nightslayer"]=5,
 	["galere-dreamscythe"]=5,
@@ -14169,7 +14169,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["krat-nightslayer"]=0,
 	["krataziqalak-nightslayer"]=0,
 	["kratijjimajj-nightslayer"]=0,
-	["kravey-nightslayer"]=24,
+	["kravey-nightslayer"]=19,
 	["kraý-nightslayer"]=9,
 	["krazhe-nightslayer"]=1,
 	["krazulqt-nightslayer"]=9,
@@ -14625,7 +14625,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["machupicchuu-nightslayer"]=1,
 	["mackalak-dreamscythe"]=10,
 	["mackarov-nightslayer"]=2,
-	["macnjack-dreamscythe"]=9,
+	["macnjack-dreamscythe"]=25,
 	["macro-dreamscythe"]=1,
 	["macroenjoyer-nightslayer"]=15,
 	["macroflayge-nightslayer"]=12,
@@ -16417,7 +16417,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["regardstngth-nightslayer"]=2,
 	["reggieheals-nightslayer"]=7,
 	["reggye-dreamscythe"]=5,
-	["regifted-dreamscythe"]=2,
+	["regifted-dreamscythe"]=18,
 	["rehggin-nightslayer"]=7,
 	["reiígn-nightslayer"]=25,
 	["reikco-dreamscythe"]=18,
@@ -18465,7 +18465,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["valanyrprio-nightslayer"]=10,
 	["valeeka-dreamscythe"]=2,
 	["valeforez-nightslayer"]=9,
-	["valenthirr-nightslayer"]=2,
+	["valenthirr-nightslayer"]=20,
 	["vâleria-nightslayer"]=5,
 	["validos-nightslayer"]=2,
 	["valkera-nightslayer"]=18,

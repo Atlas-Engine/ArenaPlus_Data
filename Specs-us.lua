@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5169 characters, read 2026-09-24 03:59 PM.
+-- Region us, 5169 characters, read 2026-09-24 04:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4585,7 +4585,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["urhero-arugal-au"]=11,
 	["ursarwarrior-lei-shen"]=10,
 	["ursoc-lei-shen"]=221,
-	["urukburzumob-immerseus"]=21,
 	["urukghâshob-immerseus"]=21,
 	["usoppn-pagle"]=10,
 	["usurero-pagle"]=90,
@@ -4606,6 +4605,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["vantage-raden"]=11,
 	["vaporizèd-lei-shen"]=10,
 	["vara-pagle"]=11,
+	["varaki-nazgrim"]=41,
 	["varrè-lei-shen"]=10,
 	["varyags-pagle"]=41,
 	["vathanish-galakras"]=100,
@@ -5772,7 +5772,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["chuppie-pagle"]=2,
 	["chuuonu-benediction"]=33,
 	["chyse-pagle"]=1,
-	["ciapsyop-pagle"]=12,
+	["ciapsyop-pagle"]=5,
 	["cìel-pagle"]=10,
 	["cinch-lei-shen"]=3,
 	["citizentroll-immerseus"]=22,
@@ -9337,7 +9337,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["stonêd-raden"]=16,
 	["stooter-nazgrim"]=5,
 	["stooty-nazgrim"]=7,
-	["stoptalkme-raden"]=4,
+	["stoptalkme-raden"]=10,
 	["stormdaddyx-pagle"]=22,
 	["størmie-raden"]=15,
 	["stormieskye-galakras"]=17,
@@ -9742,7 +9742,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["ursarwarrior-lei-shen"]=23,
 	["ursoc-lei-shen"]=17,
 	["uruka-raden"]=0,
-	["urukburzumob-immerseus"]=6,
 	["urukghâshob-immerseus"]=19,
 	["usoppn-pagle"]=20,
 	["usurero-pagle"]=26,
@@ -9763,6 +9762,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["vantage-raden"]=1,
 	["vaporizèd-lei-shen"]=1,
 	["vara-pagle"]=14,
+	["varaki-nazgrim"]=14,
 	["varrè-lei-shen"]=6,
 	["varyags-pagle"]=17,
 	["vathanish-galakras"]=16,
