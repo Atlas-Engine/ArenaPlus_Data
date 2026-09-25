@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5315 characters, read 2026-09-25 06:00 AM.
+-- Region eu, 5316 characters, read 2026-09-25 07:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3897,6 +3897,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["sweetsheart-shekzeer"]=11,
 	["swiftygolas-everlook"]=41,
 	["swinnyqt-garalon"]=10,
+	["swipe-hoptallus"]=10,
 	["swisky-everlook"]=11,
 	["swoleberg-everlook"]=70,
 	["swoorlz-everlook"]=11,
@@ -7565,7 +7566,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["lûrtz-mirage-raceway"]=20,
 	["luxilae-shekzeer"]=0,
 	["luxilus-hoptallus"]=15,
-	["luxzys-shekzeer"]=6,
+	["luxzys-shekzeer"]=7,
 	["luzdelunà-hoptallus"]=5,
 	["lvka-shekzeer"]=4,
 	["lxry-shekzeer"]=2,
@@ -7898,7 +7899,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["mwman-shekzeer"]=6,
 	["mwmwmwmw-shekzeer"]=6,
 	["mwqew-shekzeer"]=6,
-	["mxed-shekzeer"]=24,
+	["mxed-shekzeer"]=26,
 	["mxge-mirage-raceway"]=2,
 	["mxgehc-mirage-raceway"]=2,
 	["mycopa-shekzeer"]=4,
@@ -8564,7 +8565,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["retardinox-shekzeer"]=15,
 	["retburstdmg-mirage-raceway"]=15,
 	["retee-garalon"]=26,
-	["rethero-shekzeer"]=5,
+	["rethero-shekzeer"]=15,
 	["retourqtz-auberdine"]=4,
 	["retrivout-shekzeer"]=15,
 	["retroburn-shekzeer"]=2,
@@ -9162,6 +9163,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["swiftygolas-everlook"]=4,
 	["swinebutcher-shekzeer"]=0,
 	["swinnyqt-garalon"]=15,
+	["swipe-hoptallus"]=24,
 	["swisky-everlook"]=20,
 	["swoleberg-everlook"]=31,
 	["swoorlz-everlook"]=9,
