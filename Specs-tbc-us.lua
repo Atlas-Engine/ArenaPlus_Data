@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9634 characters, read 2026-09-25 07:58 AM.
+-- Region tbc-us, 9634 characters, read 2026-09-25 08:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10033,7 +10033,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bagelbobert-nightslayer"]=18,
 	["baggdmilk-dreamscythe"]=7,
 	["bagototems-nightslayer"]=19,
-	["bailerz-dreamscythe"]=4,
+	["bailerz-dreamscythe"]=6,
 	["bainal-dreamscythe"]=14,
 	["baitosenshi-nightslayer"]=2,
 	["baiwuya-nightslayer"]=4,
@@ -14075,7 +14075,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["kork-nightslayer"]=4,
 	["korknbeans-nightslayer"]=10,
 	["korkz-nightslayer"]=10,
-	["koryano-dreamscythe"]=2,
+	["koryano-dreamscythe"]=20,
 	["kosta-nightslayer"]=2,
 	["kothack-nightslayer"]=0,
 	["kowski-dreamscythe"]=10,
@@ -18316,7 +18316,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["undrafted-nightslayer"]=8,
 	["undrcvr-nightslayer"]=5,
 	["unemployedw-nightslayer"]=18,
-	["ungodlyrogue-dreamscythe"]=5,
+	["ungodlyrogue-dreamscythe"]=8,
 	["unhingedxo-nightslayer"]=11,
 	["unkborne-nightslayer"]=12,
 	["unknownx-nightslayer"]=23,
@@ -18362,7 +18362,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["validos-nightslayer"]=2,
 	["valkera-nightslayer"]=18,
 	["valkx-nightslayer"]=11,
-	["vallation-nightslayer"]=11,
+	["vallation-nightslayer"]=25,
 	["valleysx-nightslayer"]=10,
 	["valve-nightslayer"]=7,
 	["vamped-dreamscythe"]=19,
@@ -18440,7 +18440,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["veryoldlady-dreamscythe"]=1,
 	["verzika-nightslayer"]=2,
 	["vespias-nightslayer"]=2,
-	["vespirmere-nightslayer"]=16,
+	["vespirmere-nightslayer"]=13,
 	["vester-nightslayer"]=1,
 	["vexmax-nightslayer"]=4,
 	["vexx-nightslayer"]=4,
@@ -18868,7 +18868,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["xooti-dreamscythe"]=24,
 	["xost-nightslayer"]=5,
 	["xostt-nightslayer"]=13,
-	["xown-nightslayer"]=14,
+	["xown-nightslayer"]=1,
 	["xoxoxoxo-nightslayer"]=4,
 	["xpectdeath-nightslayer"]=13,
 	["xpopeleoxiv-dreamscythe"]=12,

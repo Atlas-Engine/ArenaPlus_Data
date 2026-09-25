@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5316 characters, read 2026-09-25 08:00 AM.
+-- Region eu, 5316 characters, read 2026-09-25 09:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1501,7 +1501,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["gojirabolt-garalon"]=20,
 	["gojosatoru-shekzeer"]=11,
 	["golbeer-shekzeer"]=11,
-	["goldeneye-shekzeer"]=11,
+	["goldeneye-shekzeer"]=10,
 	["goldrak-everlook"]=80,
 	["golgee-shekzeer"]=11,
 	["golgoma-garalon"]=10,
@@ -7236,7 +7236,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["kenhavefun-shekzeer"]=6,
 	["kenkofot-garalon"]=10,
 	["kennyk-garalon"]=18,
-	["kennyk-shekzeer"]=18,
+	["kennyk-shekzeer"]=1,
 	["kennykk-garalon"]=1,
 	["kennyykofot-garalon"]=34,
 	["kenoh-shekzeer"]=18,
@@ -7246,7 +7246,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["kepsyx-shekzeer"]=21,
 	["kerber-mirage-raceway"]=23,
 	["kermane-mirage-raceway"]=24,
-	["kêrolina-shekzeer"]=11,
+	["kêrolina-shekzeer"]=3,
 	["keskia-auberdine"]=5,
 	["ketagenießer-everlook"]=16,
 	["ketåmine-shekzeer"]=8,
@@ -7282,7 +7282,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["kinizsipally-mirage-raceway"]=5,
 	["királyfickó-shekzeer"]=2,
 	["kirtapz-garalon"]=15,
-	["kirvessurma-shekzeer"]=1,
+	["kirvessurma-shekzeer"]=25,
 	["kisbirtok-mirage-raceway"]=8,
 	["kispajtás-shekzeer"]=1,
 	["kitcat-mirage-raceway"]=21,
@@ -7315,7 +7315,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["kodzha-mirage-raceway"]=1,
 	["kokw-mirage-raceway"]=17,
 	["kokz-shekzeer"]=2,
-	["kolomoinheal-auberdine"]=6,
+	["kolomoinheal-auberdine"]=7,
 	["kominík-shekzeer"]=24,
 	["komunistmark-shekzeer"]=1,
 	["konataizumii-shekzeer"]=8,
@@ -7899,7 +7899,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["mwman-shekzeer"]=6,
 	["mwmwmwmw-shekzeer"]=6,
 	["mwqew-shekzeer"]=6,
-	["mxed-shekzeer"]=26,
+	["mxed-shekzeer"]=24,
 	["mxge-mirage-raceway"]=2,
 	["mxgehc-mirage-raceway"]=2,
 	["mycopa-shekzeer"]=4,
@@ -9399,7 +9399,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["trendsetter-shekzeer"]=1,
 	["trera-norushen"]=6,
 	["tresiba-garalon"]=2,
-	["trgtacquired-mirage-raceway"]=13,
+	["trgtacquired-mirage-raceway"]=16,
 	["triatpally-shekzeer"]=15,
 	["triatsonbg-shekzeer"]=8,
 	["trigger-garalon"]=15,
@@ -9584,7 +9584,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["veyn-shekzeer"]=24,
 	["vezir-shekzeer"]=11,
 	["victuz-gehennas"]=0,
-	["videostore-shekzeer"]=4,
+	["videostore-shekzeer"]=20,
 	["viint-shekzeer"]=31,
 	["vïïnt-shekzeer"]=21,
 	["vilenciaga-shekzeer"]=1,
