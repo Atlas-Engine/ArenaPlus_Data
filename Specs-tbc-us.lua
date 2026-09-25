@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9642 characters, read 2026-09-25 01:58 PM.
+-- Region tbc-us, 9642 characters, read 2026-09-25 02:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10035,7 +10035,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["baekgitae-nightslayer"]=13,
 	["baekma-nightslayer"]=12,
 	["baerform-nightslayer"]=7,
-	["baesbooty-nightslayer"]=4,
+	["baesbooty-nightslayer"]=6,
 	["bàethoven-nightslayer"]=5,
 	["bagadhin-nightslayer"]=11,
 	["bagelbobert-nightslayer"]=18,
@@ -11057,7 +11057,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["cleav-dreamscythe"]=18,
 	["cleaveoclock-nightslayer"]=2,
 	["cleaveolock-nightslayer"]=13,
-	["cleland-nightslayer"]=6,
+	["cleland-nightslayer"]=4,
 	["cleoxo-nightslayer"]=4,
 	["cleymonslemy-nightslayer"]=13,
 	["climhazzard-nightslayer"]=5,
@@ -12180,7 +12180,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["evilthap-dreamscythe"]=12,
 	["evilxhabibi-nightslayer"]=1,
 	["evirs-dreamscythe"]=10,
-	["evod-nightslayer"]=5,
+	["evod-nightslayer"]=8,
 	["ewokmeow-nightslayer"]=7,
 	["ewokshift-nightslayer"]=7,
 	["ewokz-nightslayer"]=15,
@@ -14818,7 +14818,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["metalz-dreamscythe"]=5,
 	["metatronic-nightslayer"]=10,
 	["metawarlord-dreamscythe"]=18,
-	["metaworldpce-nightslayer"]=7,
+	["metaworldpce-nightslayer"]=3,
 	["methben-nightslayer"]=7,
 	["methie-nightslayer"]=13,
 	["metrìc-dreamscythe"]=10,
@@ -14999,7 +14999,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["molasses-nightslayer"]=4,
 	["mollylou-nightslayer"]=4,
 	["molten-nightslayer"]=6,
-	["moltencrag-nightslayer"]=10,
+	["moltencrag-nightslayer"]=19,
 	["momenamum-nightslayer"]=8,
 	["mommyshome-dreamscythe"]=11,
 	["momskisses-dreamscythe"]=10,
@@ -15630,7 +15630,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["oroszlan-nightslayer"]=2,
 	["orphancriplr-nightslayer"]=18,
 	["orsa-nightslayer"]=3,
-	["osobob-nightslayer"]=0,
+	["osobob-nightslayer"]=7,
 	["Ößälkënrïch-nightslayer"]=0,
 	["osteopathic-nightslayer"]=23,
 	["ostic-nightslayer"]=7,
@@ -18382,7 +18382,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["vamped-dreamscythe"]=19,
 	["vandriel-nightslayer"]=2,
 	["vanhoutte-nightslayer"]=2,
-	["vanishbrb-nightslayer"]=5,
+	["vanishbrb-nightslayer"]=8,
 	["vanishh-nightslayer"]=8,
 	["vanishxoxo-nightslayer"]=1,
 	["vankara-dreamscythe"]=5,

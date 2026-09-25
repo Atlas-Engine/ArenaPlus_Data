@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5317 characters, read 2026-09-25 02:00 PM.
+-- Region eu, 5317 characters, read 2026-09-25 03:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5437,7 +5437,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["atropa-shekzeer"]=0,
 	["attis-norushen"]=14,
 	["augsburg-shekzeer"]=6,
-	["aultrasalt-shekzeer"]=23,
+	["aultrasalt-shekzeer"]=17,
 	["auredian-mirage-raceway"]=15,
 	["aureliavid-auberdine"]=3,
 	["auryen-mirage-raceway"]=4,
@@ -6291,7 +6291,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["dwgz-shekzeer"]=9,
 	["dxab-shekzeer"]=22,
 	["dxbam-shekzeer"]=12,
-	["dxbamoon-shekzeer"]=29,
+	["dxbamoon-shekzeer"]=7,
 	["dxbom-shekzeer"]=3,
 	["dynarsia-shekzeer"]=3,
 	["dynther-shekzeer"]=1,
@@ -7672,7 +7672,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["matinaa-shekzeer"]=14,
 	["matoh-shekzeer"]=15,
 	["matora-ook-ook"]=1,
-	["matroxafk-shekzeer"]=17,
+	["matroxafk-shekzeer"]=23,
 	["mattaris-shekzeer"]=34,
 	["matwx-shekzeer"]=7,
 	["maverchi-norushen"]=6,

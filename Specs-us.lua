@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5173 characters, read 2026-09-25 01:59 PM.
+-- Region us, 5173 characters, read 2026-09-25 02:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5927,12 +5927,12 @@ ns.SPECS_BY_REGION["us"] = {
 	["daiyus-pagle"]=14,
 	["daje-pagle"]=0,
 	["dákar-galakras"]=7,
-	["dakini-raden"]=3,
+	["dakini-raden"]=18,
 	["dakleh-pagle"]=10,
 	["damacus-raden"]=1,
 	["Ðamaia-pagle"]=7,
 	["damanî-pagle"]=34,
-	["dampeners-raden"]=28,
+	["dampeners-raden"]=8,
 	["danar-raden"]=17,
 	["dáncingmines-raden"]=5,
 	["dandor-pagle"]=7,
@@ -5940,7 +5940,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dankendwarf-pagle"]=22,
 	["dankenelf-pagle"]=5,
 	["dankenshroom-lei-shen"]=5,
-	["dankenstein-lei-shen"]=22,
+	["dankenstein-lei-shen"]=19,
 	["dankorbs-pagle"]=4,
 	["dankshots-lei-shen"]=3,
 	["dankumss-immerseus"]=16,
@@ -7488,7 +7488,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["kushgodx-raden"]=1,
 	["kushh-nazgrim"]=4,
 	["kutless-raden"]=16,
-	["kutthroatt-pagle"]=23,
+	["kutthroatt-pagle"]=7,
 	["kutty-nazgrim"]=11,
 	["kvalsvøll-pagle"]=6,
 	["kvälsvøll-pagle"]=6,
@@ -10066,7 +10066,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["yugehackman-pagle"]=7,
 	["yukiì-raden"]=10,
 	["yummymerlock-pagle"]=7,
-	["yunexy-raden"]=22,
+	["yunexy-raden"]=15,
 	["yunghots-raden"]=5,
 	["yurb-bloodsail-buccaneers"]=16,
 	["yurd-bloodsail-buccaneers"]=3,
