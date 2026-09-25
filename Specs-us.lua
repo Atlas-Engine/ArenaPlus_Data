@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5171 characters, read 2026-09-25 04:59 AM.
+-- Region us, 5171 characters, read 2026-09-25 05:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6619,7 +6619,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["fxd-arugal-au"]=5,
 	["gaarah-pagle"]=1,
 	["gabimaru-raden"]=4,
-	["gaejustin-pagle"]=33,
+	["gaejustin-pagle"]=12,
 	["gaêl-lei-shen"]=18,
 	["gaethje-raden"]=0,
 	["gaiden-nazgrim"]=34,
@@ -6971,7 +6971,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["holyswiss-pagle"]=16,
 	["holythugx-pagle"]=16,
 	["holytick-pagle"]=2,
-	["holyvale-pagle"]=21,
+	["holyvale-pagle"]=13,
 	["hólyy-raden"]=16,
 	["holyywarr-raden"]=7,
 	["holyzephyr-raden"]=9,
@@ -7512,7 +7512,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["lameclass-raden"]=7,
 	["lancelobber-raden"]=1,
 	["lanlex-raden"]=7,
-	["lapancha-pagle"]=5,
+	["lapancha-pagle"]=12,
 	["lapanchita-pagle"]=12,
 	["laporemeta-raden"]=5,
 	["largecoq-pagle"]=7,
@@ -7527,7 +7527,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["laveauu-pagle"]=3,
 	["lawlurdead-raden"]=29,
 	["lawydruid-pagle"]=5,
-	["laydatpipe-lei-shen"]=5,
+	["laydatpipe-lei-shen"]=12,
 	["layegua-nazgrim"]=25,
 	["layenda-lei-shen"]=16,
 	["laynerz-raden"]=0,
@@ -7699,7 +7699,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["lumineth-pagle"]=9,
 	["lunchmeat-nazgrim"]=0,
 	["lunishamtwo-raden"]=0,
-	["lunpi-raden"]=10,
+	["lunpi-raden"]=4,
 	["lusts-raden"]=10,
 	["luum-raden"]=5,
 	["luuvmuscle-galakras"]=1,
@@ -9647,7 +9647,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["trëv-galakras"]=24,
 	["trinketcleav-pagle"]=29,
 	["triskets-pagle"]=7,
-	["trisomi-pagle"]=18,
+	["trisomi-pagle"]=20,
 	["tritenxyz-raden"]=6,
 	["triver-galakras"]=10,
 	["trogath-atiesh"]=3,
@@ -9725,7 +9725,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["unclecuh-immerseus"]=17,
 	["undeaddeavo-galakras"]=25,
 	["undeaddevo-galakras"]=1,
-	["undeadøse-nazgrim"]=21,
+	["undeadøse-nazgrim"]=9,
 	["undinger-immerseus"]=7,
 	["undulate-raden"]=22,
 	["unequaled-lei-shen"]=16,

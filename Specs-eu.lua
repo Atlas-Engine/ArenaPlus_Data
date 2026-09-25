@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5315 characters, read 2026-09-25 05:00 AM.
+-- Region eu, 5315 characters, read 2026-09-25 06:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7175,7 +7175,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["kakalocko-shekzeer"]=23,
 	["kakantonkija-shekzeer"]=29,
 	["kakkatykki-shekzeer"]=2,
-	["kalagalla-mirage-raceway"]=6,
+	["kalagalla-mirage-raceway"]=7,
 	["kalash-shekzeer"]=15,
 	["kaleidoscope-shekzeer"]=21,
 	["kaliichi-everlook"]=6,
@@ -7674,7 +7674,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["matora-ook-ook"]=1,
 	["matroxafk-shekzeer"]=17,
 	["mattaris-shekzeer"]=34,
-	["matwx-shekzeer"]=6,
+	["matwx-shekzeer"]=7,
 	["maverchi-norushen"]=6,
 	["mavne-shekzeer"]=32,
 	["maxeem-shekzeer"]=17,
@@ -9624,7 +9624,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["voodooheroy-shekzeer"]=1,
 	["voorh-shekzeer"]=15,
 	["vórkar-mirage-raceway"]=23,
-	["vorn-shekzeer"]=1,
+	["vorn-shekzeer"]=18,
 	["vortunes-hoptallus"]=34,
 	["votezbien-shekzeer"]=6,
 	["votrelec-shekzeer"]=19,
