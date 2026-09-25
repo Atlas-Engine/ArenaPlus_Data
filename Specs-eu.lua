@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5316 characters, read 2026-09-25 05:00 PM.
+-- Region eu, 5316 characters, read 2026-09-25 06:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5760,7 +5760,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bumbelgnome-shekzeer"]=29,
 	["bumbelmonk-garalon"]=7,
 	["bumbelmonk-shekzeer"]=7,
-	["bumbelorc-garalon"]=7,
+	["bumbelorc-garalon"]=29,
 	["bunnyjumperx-garalon"]=8,
 	["burden-shekzeer"]=21,
 	["burgerpickle-shekzeer"]=3,
@@ -5855,7 +5855,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["charityrevn-shekzeer"]=1,
 	["charityshift-shekzeer"]=3,
 	["charoma-shekzeer"]=3,
-	["charos-norushen"]=13,
+	["charos-norushen"]=16,
 	["châs-everlook"]=1,
 	["chð-auberdine"]=6,
 	["chéàps-everlook"]=1,
@@ -6020,7 +6020,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["cyßerstar-shekzeer"]=21,
 	["czy-shekzeer"]=1,
 	["daçtera-shekzeer"]=7,
-	["daddylloyd-garalon"]=5,
+	["daddylloyd-garalon"]=30,
 	["daddysticks-garalon"]=7,
 	["dadsoldman-shekzeer"]=12,
 	["dadsoldmommy-shekzeer"]=12,
@@ -7529,7 +7529,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["lorcmanaudou-auberdine"]=16,
 	["lorelis-everlook"]=0,
 	["lorinser-shekzeer"]=1,
-	["lorjana-shekzeer"]=10,
+	["lorjana-shekzeer"]=2,
 	["lorry-shekzeer"]=1,
 	["loseandicba-ook-ook"]=20,
 	["lostpinky-shekzeer"]=0,
@@ -7562,7 +7562,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["lundsberg-shekzeer"]=13,
 	["lunkka-hoptallus"]=22,
 	["lunnatic-shekzeer"]=23,
-	["lunnkka-hoptallus"]=11,
+	["lunnkka-hoptallus"]=21,
 	["lûrtz-mirage-raceway"]=20,
 	["luxilae-shekzeer"]=0,
 	["luxilus-hoptallus"]=15,
@@ -7828,7 +7828,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["momequ-norushen"]=2,
 	["momine-shekzeer"]=3,
 	["momíne-shekzeer"]=3,
-	["monais-shekzeer"]=13,
+	["monais-shekzeer"]=16,
 	["monduk-auberdine"]=7,
 	["moneylong-shekzeer"]=17,
 	["mongoliamonk-hoptallus"]=13,
@@ -9109,7 +9109,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["sukí-shekzeer"]=3,
 	["sukio-shekzeer"]=9,
 	["sumers-garalon"]=3,
-	["summercoin-shekzeer"]=12,
+	["summercoin-shekzeer"]=22,
 	["summerßreeze-auberdine"]=13,
 	["sumo-norushen"]=1,
 	["sumtinrother-shekzeer"]=5,
@@ -9224,7 +9224,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["tardhun-shekzeer"]=0,
 	["tarhya-everlook"]=19,
 	["tarpetty-auberdine"]=25,
-	["tastemydmg-shekzeer"]=20,
+	["tastemydmg-shekzeer"]=4,
 	["tastyd-shekzeer"]=3,
 	["tawnyx-everlook"]=3,
 	["taylôrswiftx-mirage-raceway"]=6,

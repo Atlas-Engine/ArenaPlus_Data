@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5174 characters, read 2026-09-25 04:59 PM.
+-- Region us, 5174 characters, read 2026-09-25 05:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5536,7 +5536,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["borabow-pagle"]=3,
 	["bordak-raden"]=7,
 	["boredx-pagle"]=16,
-	["boreing-lei-shen"]=26,
+	["boreing-lei-shen"]=25,
 	["bornhard-pagle"]=14,
 	["bossdon-pagle"]=7,
 	["bouddha-raden"]=4,
@@ -5602,7 +5602,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["brunelan-pagle"]=0,
 	["brunosars-pagle"]=6,
 	["brustle-raden"]=5,
-	["brutality-galakras"]=23,
+	["brutality-galakras"]=7,
 	["brutalmystic-nazgrim"]=15,
 	["brutasaurus-galakras"]=7,
 	["brutøn-raden"]=7,
@@ -8090,7 +8090,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["navio-pagle"]=2,
 	["nâx-pagle"]=11,
 	["nâxxrâmâs-arugal-au"]=7,
-	["nayrish-pagle"]=2,
+	["nayrish-pagle"]=16,
 	["naytalyn-atiesh"]=15,
 	["nazmirr-pagle"]=29,
 	["nb-galakras"]=3,
@@ -8100,7 +8100,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["neat-immerseus"]=24,
 	["nebubanana-raden"]=8,
 	["nebuboom-nazgrim"]=17,
-	["nebugrape-raden"]=8,
+	["nebugrape-raden"]=28,
 	["nebupeach-nazgrim"]=8,
 	["nebuplum-raden"]=8,
 	["necris-galakras"]=26,
@@ -9465,7 +9465,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["tastyshotz-raden"]=3,
 	["tatís-pagle"]=21,
 	["taulastria-nazgrim"]=24,
-	["taurenmen-immerseus"]=33,
+	["taurenmen-immerseus"]=17,
 	["tauruz-lei-shen"]=25,
 	["taybird-raden"]=7,
 	["tbk-raden"]=16,
