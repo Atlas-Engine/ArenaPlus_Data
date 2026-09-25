@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 10130 characters, read 2026-09-24 07:59 PM.
+-- Region tbc-eu, 10130 characters, read 2026-09-24 08:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11595,7 +11595,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["coggers-spineshatter"]=17,
 	["coggersblast-spineshatter"]=9,
 	["cøhle-thunderstrike"]=13,
-	["coifcore-spineshatter"]=2,
+	["coifcore-spineshatter"]=17,
 	["cokedietx-spineshatter"]=0,
 	["colazgdx-spineshatter"]=11,
 	["coldbaxter-spineshatter"]=9,
@@ -12938,7 +12938,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["firleslol-spineshatter"]=7,
 	["fishfinder-spineshatter"]=9,
 	["fishtoucher-spineshatter"]=0,
-	["fiska-spineshatter"]=4,
+	["fiska-spineshatter"]=9,
 	["fistoflove-spineshatter"]=7,
 	["fitlad-spineshatter"]=11,
 	["fivé-spineshatter"]=2,
@@ -17479,7 +17479,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["rosvomisa-spineshatter"]=3,
 	["rotarepmi-thunderstrike"]=5,
 	["rotdealer-spineshatter"]=13,
-	["rotebalov-spineshatter"]=3,
+	["rotebalov-spineshatter"]=19,
 	["rothy-spineshatter"]=5,
 	["rotorrz-spineshatter"]=11,
 	["rotta-spineshatter"]=19,
@@ -20092,7 +20092,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["zilina-spineshatter"]=5,
 	["zilinax-spineshatter"]=5,
 	["zilix-spineshatter"]=18,
-	["zinatal-spineshatter"]=11,
+	["zinatal-spineshatter"]=23,
 	["zingohero-spineshatter"]=11,
 	["ziø-spineshatter"]=2,
 	["ziozi-spineshatter"]=3,
@@ -20202,7 +20202,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["zyxolina-spineshatter"]=2,
 	["zyxzoftw-spineshatter"]=11,
 	["zztlock-spineshatter"]=13,
-	["Йооу-anniversary"]=14,
+	["Йооу-anniversary"]=13,
 	["Копчик-anniversary"]=3,
 	["Мадамсезам-anniversary"]=4,
 	["Маз-anniversary"]=5,
