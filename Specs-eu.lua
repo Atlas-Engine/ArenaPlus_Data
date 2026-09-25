@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5319 characters, read 2026-09-24 07:00 PM.
+-- Region eu, 5319 characters, read 2026-09-24 08:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2972,6 +2972,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["ooboom-shekzeer"]=41,
 	["oof-shekzeer"]=11,
 	["ooffa-hoptallus"]=60,
+	["Øølimpian-shekzeer"]=10,
 	["Øòóòóõöø-shekzeer"]=10,
 	["oøøps-auberdine"]=21,
 	["Øøopscat-auberdine"]=51,
@@ -3432,7 +3433,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["rydotheholy-everlook"]=10,
 	["rydothemage-everlook"]=11,
 	["rydothemonk-everlook"]=11,
-	["rydotheret-everlook"]=11,
+	["rydotheret-everlook"]=10,
 	["rydotheroq-everlook"]=10,
 	["rydothetrap-everlook"]=11,
 	["rydothetwink-everlook"]=41,
@@ -4668,7 +4669,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["zinewtf-auberdine"]=10,
 	["zinouaflic-shekzeer"]=11,
 	["zipfe-everlook"]=41,
-	["zipzipzapzap-shekzeer"]=11,
+	["zipzipzapzap-shekzeer"]=10,
 	["zïpzïpzåpzåp-shekzeer"]=11,
 	["zirfar-shekzeer"]=10,
 	["zivojin-mirage-raceway"]=11,
@@ -5540,7 +5541,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["barbarian-shekzeer"]=1,
 	["barbarianx-shekzeer"]=1,
 	["barilas-norushen"]=17,
-	["barkwinde-shekzeer"]=24,
+	["barkwinde-shekzeer"]=26,
 	["bassboosted-auberdine"]=6,
 	["bastion-gehennas"]=0,
 	["batina-shekzeer"]=24,
@@ -6476,7 +6477,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["figment-garalon"]=3,
 	["figuar-garalon"]=4,
 	["fiksiuss-mirage-raceway"]=15,
-	["filmar-shekzeer"]=20,
+	["filmar-shekzeer"]=4,
 	["filmarisa-shekzeer"]=26,
 	["filthyfresh-shekzeer"]=12,
 	["finbekluz-shekzeer"]=2,
@@ -8200,7 +8201,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["oof-shekzeer"]=20,
 	["ooffa-hoptallus"]=11,
 	["Óófromlipain-shekzeer"]=0,
-	["Øølimpian-shekzeer"]=0,
+	["Øølimpian-shekzeer"]=6,
 	["Øòóòóõöø-shekzeer"]=2,
 	["oøøps-auberdine"]=26,
 	["Øøopscat-auberdine"]=22,
@@ -8686,7 +8687,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["rydotheholy-everlook"]=9,
 	["rydothemage-everlook"]=2,
 	["rydothemonk-everlook"]=7,
-	["rydotheret-everlook"]=5,
+	["rydotheret-everlook"]=15,
 	["rydotheroq-everlook"]=26,
 	["rydothetrap-everlook"]=4,
 	["rydothetwink-everlook"]=6,
@@ -9282,7 +9283,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["thehrc-auberdine"]=9,
 	["theicer-garalon"]=2,
 	["thelorde-shekzeer"]=15,
-	["themachiner-shekzeer"]=25,
+	["themachiner-shekzeer"]=1,
 	["themalinman-auberdine"]=1,
 	["thematsie-shekzeer"]=4,
 	["thepríest-mirage-raceway"]=6,
