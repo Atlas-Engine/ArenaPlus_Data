@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5170 characters, read 2026-09-24 09:59 PM.
+-- Region us, 5171 characters, read 2026-09-24 10:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1106,6 +1106,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["dinklebirgh-pagle"]=11,
 	["dinkleburrgh-pagle"]=40,
 	["dintwin-galakras"]=60,
+	["Ðîonysus-raden"]=31,
 	["Ðîóñýsûs-raden"]=41,
 	["Ðîønysus-raden"]=31,
 	["diõr-raden"]=41,
@@ -1252,6 +1253,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["drunknßeagle-lei-shen"]=251,
 	["drwick-pagle"]=40,
 	["Ðßøzxs-raden"]=11,
+	["dtax-pagle"]=20,
 	["dubhub-galakras"]=11,
 	["dubwise-raden"]=11,
 	["dubz-raden"]=41,
@@ -4604,7 +4606,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["vantage-raden"]=11,
 	["vaporizèd-lei-shen"]=10,
 	["vara-pagle"]=11,
-	["varaki-nazgrim"]=41,
 	["varrè-lei-shen"]=10,
 	["varyags-pagle"]=41,
 	["vathanish-galakras"]=100,
@@ -5219,7 +5220,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["astave-nazgrim"]=34,
 	["asthenoz-pagle"]=6,
 	["astraea-arugal-au"]=9,
-	["astrea-raden"]=30,
+	["astrea-raden"]=7,
 	["astyus-pagle"]=7,
 	["asunari-pagle"]=3,
 	["asunyobi-pagle"]=10,
@@ -6088,6 +6089,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dinklebirgh-pagle"]=14,
 	["dinkleburrgh-pagle"]=7,
 	["dintwin-galakras"]=5,
+	["Ðîonysus-raden"]=19,
 	["Ðîóñýsûs-raden"]=4,
 	["Ðîønysus-raden"]=19,
 	["diõr-raden"]=5,
@@ -6242,6 +6244,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["drunknßeagle-lei-shen"]=10,
 	["drwick-pagle"]=17,
 	["Ðßøzxs-raden"]=4,
+	["dtax-pagle"]=34,
 	["dubhub-galakras"]=2,
 	["dubwise-raden"]=2,
 	["dubz-raden"]=4,
@@ -6335,7 +6338,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["eltoromu-nazgrim"]=5,
 	["elusivenes-raden"]=29,
 	["eluulttv-raden"]=10,
-	["eluveth-pagle"]=21,
+	["eluveth-pagle"]=9,
 	["elvaqueromoo-immerseus"]=16,
 	["elvius-raden"]=7,
 	["elyä-pagle"]=16,
@@ -9762,7 +9765,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["vantage-raden"]=1,
 	["vaporizèd-lei-shen"]=1,
 	["vara-pagle"]=14,
-	["varaki-nazgrim"]=14,
 	["varrè-lei-shen"]=6,
 	["varyags-pagle"]=17,
 	["vathanish-galakras"]=16,
