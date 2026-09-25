@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5171 characters, read 2026-09-24 11:59 PM.
+-- Region us, 5171 characters, read 2026-09-25 12:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5169,7 +5169,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["aquandrah-raden"]=5,
 	["ar-pagle"]=1,
 	["arae-pagle"]=24,
-	["araeul-lei-shen"]=20,
+	["araeul-lei-shen"]=3,
 	["arbiter-raden"]=17,
 	["arbolita-raden"]=5,
 	["arbuckyl-galakras"]=16,
@@ -6417,7 +6417,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ezmunk-galakras"]=27,
 	["ezybakeoven-benediction"]=1,
 	["faex-arugal-au"]=1,
-	["faexypriest-arugal-au"]=21,
+	["faexypriest-arugal-au"]=9,
 	["faiderh-nazgrim"]=20,
 	["faiders-raden"]=3,
 	["failaxz-raden"]=3,
@@ -8212,7 +8212,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["notsocially-raden"]=2,
 	["noturtype-pagle"]=13,
 	["novä-lei-shen"]=13,
-	["novalight-arugal-au"]=13,
+	["novalight-arugal-au"]=21,
 	["nøved-pagle"]=1,
 	["novokaine-immerseus"]=7,
 	["nøx-pagle"]=1,
@@ -8314,7 +8314,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["orbscripter-pagle"]=4,
 	["orcsamabin-pagle"]=15,
 	["orcz-pagle"]=23,
-	["ordanary-pagle"]=27,
+	["ordanary-pagle"]=4,
 	["ordinary-galakras"]=5,
 	["orgian-pagle"]=5,
 	["orgimmar-raden"]=1,
