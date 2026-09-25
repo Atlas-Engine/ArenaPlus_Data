@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5316 characters, read 2026-09-25 04:00 PM.
+-- Region eu, 5316 characters, read 2026-09-25 05:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5337,7 +5337,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["ants-shekzeer"]=11,
 	["anxoasa-shekzeer"]=5,
 	["anxoqt-shekzeer"]=7,
-	["anyabaszó-shekzeer"]=4,
+	["anyabaszó-shekzeer"]=20,
 	["anyataylor-shekzeer"]=3,
 	["anyemushi-shekzeer"]=9,
 	["Åøêkrótx-shekzeer"]=4,
@@ -5853,7 +5853,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["chargedif-shekzeer"]=1,
 	["charity-garalon"]=22,
 	["charityrevn-shekzeer"]=1,
-	["charityshift-shekzeer"]=11,
+	["charityshift-shekzeer"]=3,
 	["charoma-shekzeer"]=3,
 	["charos-norushen"]=13,
 	["châs-everlook"]=1,
@@ -5924,7 +5924,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["clickgroundx-shekzeer"]=6,
 	["clickzblue-shekzeer"]=19,
 	["cliekao-norushen"]=5,
-	["clméns-auberdine"]=23,
+	["clméns-auberdine"]=17,
 	["cloudyday-shekzeer"]=3,
 	["cloverfield-mirage-raceway"]=3,
 	["clý-shekzeer"]=9,
@@ -8299,7 +8299,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["pentti-shekzeer"]=11,
 	["pépitô-auberdine"]=4,
 	["peregrinuss-shekzeer"]=1,
-	["pereza-shekzeer"]=25,
+	["pereza-shekzeer"]=18,
 	["perkalator-garalon"]=24,
 	["perrí-shekzeer"]=16,
 	["perrun-mirage-raceway"]=13,
@@ -8913,7 +8913,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["sixxthunter-shekzeer"]=14,
 	["sjömonstret-shekzeer"]=24,
 	["skarium-auberdine"]=15,
-	["skatokolos-shekzeer"]=13,
+	["skatokolos-shekzeer"]=16,
 	["skayzz-auberdine"]=4,
 	["skazkar-garalon"]=1,
 	["skepnad-mirage-raceway"]=12,
@@ -9370,7 +9370,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["toxicfuz-garalon"]=6,
 	["toxiqkid-shekzeer"]=1,
 	["tpriestlx-shekzeer"]=9,
-	["trachea-shekzeer"]=6,
+	["trachea-shekzeer"]=7,
 	["trackk-auberdine"]=24,
 	["tracye-shekzeer"]=9,
 	["trafålguy-garalon"]=6,

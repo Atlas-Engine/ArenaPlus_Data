@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9647 characters, read 2026-09-25 03:58 PM.
+-- Region tbc-us, 9647 characters, read 2026-09-25 04:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10932,7 +10932,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["chego-nightslayer"]=7,
 	["chegoh-nightslayer"]=5,
 	["chegorina-nightslayer"]=1,
-	["chegorita-nightslayer"]=14,
+	["chegorita-nightslayer"]=1,
 	["cherbz-dreamscythe"]=1,
 	["cherrytoss-nightslayer"]=10,
 	["cheryxx-nightslayer"]=4,
@@ -11220,7 +11220,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["craigslistqt-nightslayer"]=4,
 	["cramerh-nightslayer"]=15,
 	["cramitdweeb-nightslayer"]=2,
-	["crankinrobot-nightslayer"]=18,
+	["crankinrobot-nightslayer"]=2,
 	["cranksham-nightslayer"]=19,
 	["crapharis-nightslayer"]=2,
 	["craps-dreamscythe"]=1,
@@ -14572,7 +14572,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["madaw-nightslayer"]=12,
 	["madclaw-nightslayer"]=7,
 	["madeinoregon-nightslayer"]=17,
-	["madgame-nightslayer"]=13,
+	["madgame-nightslayer"]=16,
 	["madgun-nightslayer"]=16,
 	["madmackel-nightslayer"]=13,
 	["madnessxx-nightslayer"]=5,
@@ -14801,7 +14801,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["mendcery-nightslayer"]=1,
 	["menkissmen-nightslayer"]=18,
 	["menosat-nightslayer"]=12,
-	["menswear-nightslayer"]=6,
+	["menswear-nightslayer"]=4,
 	["mentosxp-nightslayer"]=14,
 	["meowbruh-nightslayer"]=5,
 	["méowcules-dreamscythe"]=18,
@@ -16008,7 +16008,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["poup-nightslayer"]=1,
 	["poúpy-nightslayer"]=17,
 	["powercog-nightslayer"]=2,
-	["poweroffaith-nightslayer"]=1,
+	["poweroffaith-nightslayer"]=12,
 	["powerwordsip-dreamscythe"]=1,
 	["powerwrdthud-dreamscythe"]=1,
 	["powi-nightslayer"]=19,
@@ -18273,12 +18273,12 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["tyrandeskye-nightslayer"]=3,
 	["tyrannysbow-nightslayer"]=15,
 	["tyrantgoose-nightslayer"]=3,
-	["tyrkisovjqt-nightslayer"]=3,
+	["tyrkisovjqt-nightslayer"]=7,
 	["tyrone-nightslayer"]=9,
 	["tyronegorfnd-dreamscythe"]=16,
 	["tyrsqt-nightslayer"]=13,
 	["tzel-nightslayer"]=13,
-	["uak-nightslayer"]=5,
+	["uak-nightslayer"]=8,
 	["ubeen-dreamscythe"]=13,
 	["ubeen-nightslayer"]=13,
 	["ubqtous-nightslayer"]=7,
