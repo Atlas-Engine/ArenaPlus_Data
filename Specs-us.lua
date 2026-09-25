@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5170 characters, read 2026-09-25 02:59 AM.
+-- Region us, 5170 characters, read 2026-09-25 03:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1670,7 +1670,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["getclapt-lei-shen"]=10,
 	["getdough-grobbulus"]=11,
 	["getleid-lei-shen"]=10,
-	["getownedbkwz-raden"]=20,
 	["getshton-raden"]=41,
 	["getsmacked-galakras"]=100,
 	["getstøned-raden"]=10,
@@ -6672,7 +6671,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["getclapt-lei-shen"]=6,
 	["getdough-grobbulus"]=16,
 	["getleid-lei-shen"]=7,
-	["getownedbkwz-raden"]=7,
+	["getownedbkwz-raden"]=0,
 	["getshton-raden"]=5,
 	["getsmacked-galakras"]=28,
 	["getstøned-raden"]=7,
@@ -8093,7 +8092,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["nazmirr-pagle"]=29,
 	["nb-galakras"]=3,
 	["nbk-raden"]=20,
-	["nc-lei-shen"]=23,
+	["nc-lei-shen"]=7,
 	["neac-pagle"]=21,
 	["neat-immerseus"]=24,
 	["nebubanana-raden"]=8,
@@ -10062,7 +10061,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["yugehackman-pagle"]=7,
 	["yukiì-raden"]=10,
 	["yummymerlock-pagle"]=7,
-	["yunexy-raden"]=15,
+	["yunexy-raden"]=22,
 	["yunghots-raden"]=5,
 	["yurb-bloodsail-buccaneers"]=16,
 	["yurd-bloodsail-buccaneers"]=3,
