@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5171 characters, read 2026-09-25 11:59 AM.
+-- Region us, 5171 characters, read 2026-09-25 12:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -131,7 +131,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["airbuss-nazgrim"]=80,
 	["airhéads-pagle"]=11,
 	["aisten-galakras"]=100,
-	["aiwindel-galakras"]=20,
+	["aiwindel-galakras"]=50,
 	["akeratin-pagle"]=60,
 	["akesino-pagle"]=11,
 	["akimboyo-pagle"]=10,
@@ -4282,6 +4282,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["systema-raden"]=10,
 	["systematic-galakras"]=81,
 	["szashagpt-pagle"]=50,
+	["szh-nazgrim"]=11,
 	["tachimukai-lei-shen"]=10,
 	["taekwonbow-pagle"]=10,
 	["tahotauren-galakras"]=60,
@@ -5058,7 +5059,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["airbuss-nazgrim"]=18,
 	["airhéads-pagle"]=24,
 	["aisten-galakras"]=2,
-	["aiwindel-galakras"]=7,
+	["aiwindel-galakras"]=23,
 	["akeratin-pagle"]=12,
 	["akesino-pagle"]=16,
 	["akimboyo-pagle"]=3,
@@ -6347,7 +6348,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["enaneitor-raden"]=1,
 	["encantadorah-raden"]=31,
 	["enciyetis-nazgrim"]=3,
-	["endeerr-nazgrim"]=20,
+	["endeerr-nazgrim"]=18,
 	["enes-raden"]=7,
 	["enforcerr-pagle"]=7,
 	["enhanstow-galakras"]=15,
@@ -7797,7 +7798,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["mastrodaumus-pagle"]=19,
 	["matasuegra-raden"]=7,
 	["matemage-pagle"]=7,
-	["mathsmoansgg-pagle"]=26,
+	["mathsmoansgg-pagle"]=25,
 	["matix-nazgrim"]=16,
 	["matraxs-raden"]=34,
 	["mátrix-pagle"]=14,
@@ -8622,7 +8623,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ráquel-raden"]=13,
 	["rasclatt-raden"]=21,
 	["rastafrost-galakras"]=1,
-	["ratcigár-raden"]=5,
+	["ratcigár-raden"]=12,
 	["ratmeatsoup-nazgrim"]=14,
 	["rattled-pagle"]=3,
 	["rávager-pagle"]=19,
@@ -9425,7 +9426,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["systema-raden"]=7,
 	["systematic-galakras"]=14,
 	["szashagpt-pagle"]=9,
-	["szh-nazgrim"]=0,
+	["szh-nazgrim"]=1,
 	["taariq-pagle"]=0,
 	["tachimukai-lei-shen"]=3,
 	["taekwonbow-pagle"]=20,
@@ -10055,7 +10056,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["youngvërcesx-raden"]=27,
 	["youngx-pagle"]=4,
 	["youppl-pagle"]=7,
-	["yourendisher-pagle"]=11,
+	["yourendisher-pagle"]=1,
 	["youz-pagle"]=15,
 	["yrd-pagle"]=9,
 	["yrrlol-pagle"]=17,
