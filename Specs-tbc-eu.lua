@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 10142 characters, read 2026-09-25 01:54 AM.
+-- Region tbc-eu, 10142 characters, read 2026-09-25 02:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10301,7 +10301,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["alwaysshaded-spineshatter"]=15,
 	["alwaystilted-thunderstrike"]=8,
 	["alwen-spineshatter"]=2,
-	["Ãlx-spineshatter"]=3,
+	["Ãlx-spineshatter"]=19,
 	["alyfa-spineshatter"]=12,
 	["alyni-thunderstrike"]=1,
 	["alyzn-thunderstrike"]=11,
@@ -15315,7 +15315,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["malamadre-thunderstrike"]=17,
 	["malanca-spineshatter"]=11,
 	["malchazeem-spineshatter"]=14,
-	["maldarax-spineshatter"]=5,
+	["maldarax-spineshatter"]=15,
 	["maldasz-spineshatter"]=13,
 	["maldér-spineshatter"]=20,
 	["maleficx-thunderstrike"]=13,
@@ -15528,7 +15528,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["mercaoe-spineshatter"]=4,
 	["mercatore-spineshatter"]=3,
 	["merciless-spineshatter"]=3,
-	["mercyq-spineshatter"]=15,
+	["mercyq-spineshatter"]=22,
 	["merely-thunderstrike"]=16,
 	["mèrenoël-spineshatter"]=3,
 	["mériáh-spineshatter"]=2,
@@ -20159,7 +20159,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["zoh-spineshatter"]=9,
 	["zoj-spineshatter"]=2,
 	["zokmok-spineshatter"]=2,
-	["zolyjk-spineshatter"]=11,
+	["zolyjk-spineshatter"]=12,
 	["zomaria-thunderstrike"]=7,
 	["zômbie-thunderstrike"]=3,
 	["zomoimoi-spineshatter"]=4,
