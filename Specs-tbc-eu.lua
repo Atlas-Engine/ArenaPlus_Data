@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 10142 characters, read 2026-09-25 03:59 AM.
+-- Region tbc-eu, 10142 characters, read 2026-09-25 04:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12443,7 +12443,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["dwerfina-spineshatter"]=2,
 	["dwt-spineshatter"]=5,
 	["dwyanewade-spineshatter"]=11,
-	["dwzz-spineshatter"]=13,
+	["dwzz-spineshatter"]=18,
 	["dxtra-spineshatter"]=3,
 	["dyabbun-spineshatter"]=25,
 	["dybt-spineshatter"]=12,
@@ -15343,7 +15343,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["mamuang-spineshatter"]=2,
 	["manaburnceo-thunderstrike"]=2,
 	["manaburnerr-spineshatter"]=2,
-	["manaburnix-spineshatter"]=2,
+	["manaburnix-spineshatter"]=8,
 	["manaburnspam-spineshatter"]=2,
 	["manaduracell-thunderstrike"]=8,
 	["manaintèrnx-spineshatter"]=2,
@@ -16074,7 +16074,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["neepzensham-spineshatter"]=11,
 	["neepzenwl-spineshatter"]=13,
 	["neepzwl-spineshatter"]=14,
-	["negasâi-spineshatter"]=5,
+	["negasâi-spineshatter"]=15,
 	["negativkreep-spineshatter"]=0,
 	["negrim-spineshatter"]=19,
 	["neilmccauley-spineshatter"]=13,
@@ -19678,7 +19678,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["wippa-spineshatter"]=3,
 	["wippaa-spineshatter"]=13,
 	["wirdschon-thunderstrike"]=5,
-	["wishesmaster-spineshatter"]=18,
+	["wishesmaster-spineshatter"]=13,
 	["wishesmaster-thunderstrike"]=13,
 	["wishez-spineshatter"]=2,
 	["withoutsoulx-spineshatter"]=13,
