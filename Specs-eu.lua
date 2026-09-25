@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5316 characters, read 2026-09-25 09:00 AM.
+-- Region eu, 5316 characters, read 2026-09-25 10:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -832,7 +832,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["controlr-norushen"]=50,
 	["controlww-norushen"]=21,
 	["controlx-norushen"]=60,
-	["conversionop-shekzeer"]=111,
 	["corléonne-auberdine"]=10,
 	["corruptx-shekzeer"]=11,
 	["coryth-mirage-raceway"]=50,
@@ -4596,6 +4595,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["yva-shekzeer"]=11,
 	["yvachi-garalon"]=50,
 	["yvachi-shekzeer"]=11,
+	["yvadr-garalon"]=41,
 	["yvas-garalon"]=20,
 	["yvow-garalon"]=21,
 	["ywee-shekzeer"]=111,
@@ -5956,7 +5956,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["controlr-norushen"]=24,
 	["controlww-norushen"]=1,
 	["controlx-norushen"]=4,
-	["conversionop-shekzeer"]=31,
 	["corléonne-auberdine"]=6,
 	["corruptx-shekzeer"]=8,
 	["coryth-mirage-raceway"]=10,
@@ -6908,7 +6907,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["hypnodotcum-shekzeer"]=17,
 	["hypnogodq-shekzeer"]=12,
 	["hypnogodz-shekzeer"]=11,
-	["hysel-garalon"]=15,
+	["hysel-garalon"]=5,
 	["hyxro-mirage-raceway"]=9,
 	["iamcurt-mirage-raceway"]=9,
 	["iaminafullcc-shekzeer"]=3,
@@ -7148,7 +7147,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["juicykon-everlook"]=15,
 	["juicynancy-everlook"]=6,
 	["juicyverÿ-shekzeer"]=17,
-	["juicyzugzug-everlook"]=8,
+	["juicyzugzug-everlook"]=33,
 	["juliká-shekzeer"]=2,
 	["jullas-hoptallus"]=5,
 	["julliboomzxc-shekzeer"]=23,
@@ -9894,6 +9893,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["yva-shekzeer"]=2,
 	["yvachi-garalon"]=6,
 	["yvachi-shekzeer"]=6,
+	["yvadr-garalon"]=3,
 	["yvas-garalon"]=19,
 	["yvow-garalon"]=31,
 	["ywee-shekzeer"]=16,
