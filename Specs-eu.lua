@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5316 characters, read 2026-09-25 11:00 AM.
+-- Region eu, 5316 characters, read 2026-09-25 12:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3118,7 +3118,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["plïnki-auberdine"]=11,
 	["plmbeachpete-shekzeer"]=11,
 	["plushfire-everlook"]=11,
-	["plushy-shekzeer"]=11,
+	["plushy-shekzeer"]=10,
 	["pm-shekzeer"]=11,
 	["poalala-shekzeer"]=31,
 	["pocketheaing-shekzeer"]=10,
@@ -6724,7 +6724,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["gutalax-ook-ook"]=8,
 	["guugur-auberdine"]=2,
 	["gww-garalon"]=1,
-	["gyatthunter-norushen"]=9,
+	["gyatthunter-norushen"]=12,
 	["gymbunny-shekzeer"]=15,
 	["gypsysniper-shekzeer"]=4,
 	["haberer-everlook"]=1,
@@ -6818,7 +6818,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["hentaimama-shekzeer"]=11,
 	["héra-shekzeer"]=9,
 	["hercegovka-norushen"]=22,
-	["herja-shekzeer"]=21,
+	["herja-shekzeer"]=11,
 	["herjâ-shekzeer"]=5,
 	["hermán-shekzeer"]=15,
 	["hermenigilda-shekzeer"]=1,
@@ -7898,7 +7898,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["mwman-shekzeer"]=6,
 	["mwmwmwmw-shekzeer"]=6,
 	["mwqew-shekzeer"]=6,
-	["mxed-shekzeer"]=24,
+	["mxed-shekzeer"]=26,
 	["mxge-mirage-raceway"]=2,
 	["mxgehc-mirage-raceway"]=2,
 	["mycopa-shekzeer"]=4,
@@ -8447,7 +8447,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["quackbae-shekzeer"]=0,
 	["qualitytime-garalon"]=13,
 	["quarok-shekzeer"]=23,
-	["quastwex-shekzeer"]=30,
+	["quastwex-shekzeer"]=15,
 	["queuepóp-shekzeer"]=5,
 	["quickerz-norushen"]=10,
 	["quilmes-mirage-raceway"]=9,
@@ -8507,7 +8507,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["rbgme-norushen"]=1,
 	["rc-shekzeer"]=2,
 	["realbum-garalon"]=7,
-	["realbumbe-garalon"]=7,
+	["realbumbe-garalon"]=29,
 	["realbumbe-shekzeer"]=7,
 	["realbûmbel-shekzeer"]=26,
 	["reàlbumbel-shekzeer"]=25,
