@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5171 characters, read 2026-09-25 06:59 AM.
+-- Region us, 5171 characters, read 2026-09-25 07:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3256,6 +3256,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["ows-pagle"]=30,
 	["oxandrolon-pagle"]=101,
 	["Øxx-pagle"]=11,
+	["oxxy-arugal-au"]=11,
 	["oxy-arugal-au"]=41,
 	["oxydd-arugal-au"]=41,
 	["oxydudu-arugal-au"]=41,
@@ -4283,7 +4284,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["systema-raden"]=10,
 	["systematic-galakras"]=81,
 	["szashagpt-pagle"]=50,
-	["szh-nazgrim"]=11,
 	["tachimukai-lei-shen"]=10,
 	["taekwonbow-pagle"]=10,
 	["tahotauren-galakras"]=60,
@@ -6800,7 +6800,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["grizma-immerseus"]=3,
 	["grokkc-raden"]=5,
 	["groosaalugg-lei-shen"]=30,
-	["grumpyaussie-galakras"]=28,
+	["grumpyaussie-galakras"]=8,
 	["grungecraft-raden"]=16,
 	["grxvy-nazgrim"]=18,
 	["gryn-nazgrim"]=20,
@@ -8339,6 +8339,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ows-pagle"]=22,
 	["oxandrolon-pagle"]=16,
 	["Øxx-pagle"]=10,
+	["oxxy-arugal-au"]=29,
 	["oxy-arugal-au"]=9,
 	["oxydd-arugal-au"]=5,
 	["oxydudu-arugal-au"]=5,
@@ -9428,7 +9429,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["systema-raden"]=7,
 	["systematic-galakras"]=14,
 	["szashagpt-pagle"]=9,
-	["szh-nazgrim"]=1,
 	["taariq-pagle"]=0,
 	["tachimukai-lei-shen"]=3,
 	["taekwonbow-pagle"]=20,
@@ -9460,7 +9460,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["tastyshotz-raden"]=3,
 	["tatís-pagle"]=21,
 	["taulastria-nazgrim"]=24,
-	["taurenmen-immerseus"]=17,
+	["taurenmen-immerseus"]=33,
 	["tauruz-lei-shen"]=25,
 	["taybird-raden"]=7,
 	["tbk-raden"]=16,

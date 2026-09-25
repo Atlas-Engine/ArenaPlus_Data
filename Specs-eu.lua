@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5316 characters, read 2026-09-25 07:00 AM.
+-- Region eu, 5316 characters, read 2026-09-25 08:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6717,7 +6717,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["guirox-auberdine"]=15,
 	["gulavesslan-shekzeer"]=15,
 	["gülizar-shekzeer"]=4,
-	["gumdrops-shekzeer"]=12,
+	["gumdrops-shekzeer"]=9,
 	["gunzales-shekzeer"]=20,
 	["gupa-norushen"]=10,
 	["guriero-norushen"]=3,
@@ -7499,7 +7499,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["lingettesale-auberdine"]=6,
 	["linsie-auberdine"]=26,
 	["lipglossxoxo-garalon"]=5,
-	["liplinerxoxo-garalon"]=28,
+	["liplinerxoxo-garalon"]=17,
 	["lipmode-norushen"]=14,
 	["lippy-norushen"]=2,
 	["liquidity-shekzeer"]=8,
@@ -7531,7 +7531,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["lorcmanaudou-auberdine"]=16,
 	["lorelis-everlook"]=0,
 	["lorinser-shekzeer"]=1,
-	["lorjana-shekzeer"]=2,
+	["lorjana-shekzeer"]=10,
 	["lorry-shekzeer"]=1,
 	["loseandicba-ook-ook"]=20,
 	["lostpinky-shekzeer"]=0,
