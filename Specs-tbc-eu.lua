@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 10141 characters, read 2026-09-24 10:59 PM.
+-- Region tbc-eu, 10141 characters, read 2026-09-24 11:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -15063,7 +15063,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["littletrucco-spineshatter"]=5,
 	["livefast-spineshatter"]=2,
 	["livog-spineshatter"]=6,
-	["lîvog-spineshatter"]=10,
+	["lîvog-spineshatter"]=26,
 	["liyvi-thunderstrike"]=6,
 	["lizton-spineshatter"]=2,
 	["lj-spineshatter"]=8,
@@ -15443,7 +15443,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["maybeyo-spineshatter"]=12,
 	["maydiie-spineshatter"]=5,
 	["maylined-spineshatter"]=3,
-	["maylinzseed-spineshatter"]=18,
+	["maylinzseed-spineshatter"]=14,
 	["mayox-spineshatter"]=9,
 	["maysham-spineshatter"]=11,
 	["mayxkek-spineshatter"]=16,
@@ -16078,7 +16078,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["negrim-spineshatter"]=19,
 	["neilmccauley-spineshatter"]=13,
 	["neilmercey-spineshatter"]=3,
-	["neilsham-spineshatter"]=12,
+	["neilsham-spineshatter"]=11,
 	["nejií-spineshatter"]=11,
 	["nejk-spineshatter"]=15,
 	["nekia-spineshatter"]=26,
@@ -17961,7 +17961,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["shiroh-spineshatter"]=5,
 	["shíroyama-spineshatter"]=9,
 	["shishasho-spineshatter"]=4,
-	["shiskabob-spineshatter"]=17,
+	["shiskabob-spineshatter"]=2,
 	["shivcc-spineshatter"]=11,
 	["shiverqt-spineshatter"]=3,
 	["shivgg-spineshatter"]=11,
@@ -19770,7 +19770,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["xã-spineshatter"]=3,
 	["xádo-spineshatter"]=11,
 	["xænae-spineshatter"]=9,
-	["xaerina-spineshatter"]=24,
+	["xaerina-spineshatter"]=25,
 	["xagan-spineshatter"]=19,
 	["xahr-spineshatter"]=5,
 	["xaì-spineshatter"]=13,
