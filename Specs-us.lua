@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5170 characters, read 2026-09-24 08:59 PM.
+-- Region us, 5170 characters, read 2026-09-24 09:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5042,7 +5042,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["aellane-pagle"]=6,
 	["Ærîthøs-pagle"]=16,
 	["aeroes-pagle"]=3,
-	["aerzkei-arugal-au"]=5,
+	["aerzkei-arugal-au"]=17,
 	["aës-pagle"]=1,
 	["afekz-immerseus"]=29,
 	["affliktt-arugal-au"]=9,
@@ -5058,7 +5058,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["aimonk-raden"]=10,
 	["airbornekid-pagle"]=13,
 	["airbuss-nazgrim"]=18,
-	["airhéads-pagle"]=28,
+	["airhéads-pagle"]=24,
 	["aisten-galakras"]=2,
 	["aiwindel-galakras"]=7,
 	["akeratin-pagle"]=12,
@@ -5130,7 +5130,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["anakkrakatoa-nazgrim"]=11,
 	["anaksol-pagle"]=11,
 	["analayla-lei-shen"]=0,
-	["anariita-nazgrim"]=3,
+	["anariita-nazgrim"]=20,
 	["anastari-pagle"]=1,
 	["anastasiah-raden"]=24,
 	["anastasiahh-raden"]=21,
@@ -5234,7 +5234,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["aureate-raden"]=2,
 	["aureateblue-raden"]=0,
 	["aureatex-raden"]=1,
-	["aurim-nazgrim"]=4,
+	["aurim-nazgrim"]=10,
 	["austiin-immerseus"]=6,
 	["autismaxxer-arugal-au"]=3,
 	["autotrap-raden"]=0,
@@ -6929,7 +6929,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["hibashiba-galakras"]=20,
 	["hickery-arugal-au"]=14,
 	["hideandhunt-galakras"]=20,
-	["hifukface-raden"]=5,
+	["hifukface-raden"]=12,
 	["hifvckface-raden"]=10,
 	["highc-galakras"]=22,
 	["highç-galakras"]=27,
@@ -8566,7 +8566,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["qjqjsdnltmzl-pagle"]=0,
 	["qrux-pagle"]=5,
 	["qsax-raden"]=7,
-	["qsyo-raden"]=20,
+	["qsyo-raden"]=3,
 	["qtips-lei-shen"]=34,
 	["qtmonkbb-pagle"]=4,
 	["qtpiè-pagle"]=4,
