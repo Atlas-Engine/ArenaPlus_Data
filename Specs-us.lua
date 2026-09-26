@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5171 characters, read 2026-09-25 11:59 PM.
+-- Region us, 5171 characters, read 2026-09-26 12:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7320,7 +7320,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["jzx-lei-shen"]=28,
 	["ka-nazgrim"]=0,
 	["kabukka-immerseus"]=6,
-	["kadabra-galakras"]=21,
+	["kadabra-galakras"]=9,
 	["kaela-pagle"]=1,
 	["kaelay-pagle"]=16,
 	["kaelee-pagle"]=5,
@@ -7444,7 +7444,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["knuckles-pagle"]=23,
 	["knucklès-pagle"]=2,
 	["knûckles-pagle"]=17,
-	["kñuckles-pagle"]=6,
+	["kñuckles-pagle"]=26,
 	["knuklefkr-nazgrim"]=24,
 	["kokuzin-pagle"]=7,
 	["kolokk-immerseus"]=26,
@@ -7972,7 +7972,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["monksphere-immerseus"]=10,
 	["monkx-raden"]=10,
 	["monoxidé-pagle"]=21,
-	["monstercrit-raden"]=23,
+	["monstercrit-raden"]=7,
 	["monstuh-pagle"]=0,
 	["monsyu-immerseus"]=10,
 	["monuei-nazgrim"]=10,
@@ -7980,7 +7980,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["moobookaiyah-galakras"]=7,
 	["mooleone-pagle"]=5,
 	["mòónfirebeam-raden"]=5,
-	["moonloon-pagle"]=17,
+	["moonloon-pagle"]=5,
 	["moonpieelite-immerseus"]=1,
 	["moonrip-raden"]=12,
 	["moonspellol-galakras"]=14,
@@ -8662,7 +8662,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["redentress-galakras"]=21,
 	["redfinder-pagle"]=1,
 	["redknight-lei-shen"]=7,
-	["rednax-raden"]=28,
+	["rednax-raden"]=24,
 	["redpandä-pagle"]=0,
 	["redski-pagle"]=0,
 	["redspawn-raden"]=1,
@@ -9023,7 +9023,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["shocked-lei-shen"]=19,
 	["shockleone-pagle"]=15,
 	["shockoné-pagle"]=4,
-	["shocktopus-pagle"]=19,
+	["shocktopus-pagle"]=22,
 	["shøcktuah-raden"]=15,
 	["shòckwâve-galakras"]=22,
 	["shøckz-galakras"]=22,
