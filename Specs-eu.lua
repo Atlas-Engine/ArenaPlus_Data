@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5323 characters, read 2026-09-25 07:00 PM.
+-- Region eu, 5323 characters, read 2026-09-25 08:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5264,7 +5264,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["alexandereu-shekzeer"]=10,
 	["alfagr-garalon"]=4,
 	["alfajer-shekzeer"]=14,
-	["algerian-shekzeer"]=20,
+	["algerian-shekzeer"]=4,
 	["algharib-everlook"]=8,
 	["alieh-shekzeer"]=15,
 	["aliice-garalon"]=3,
@@ -5574,7 +5574,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bélek-shekzeer"]=4,
 	["bélèk-shekzeer"]=7,
 	["beliandra-garalon"]=5,
-	["belkapro-shekzeer"]=2,
+	["belkapro-shekzeer"]=10,
 	["bellator-everlook"]=1,
 	["belnadris-everlook"]=8,
 	["benjaminfra-shekzeer"]=5,
@@ -8254,9 +8254,9 @@ ns.SPECS_BY_REGION["eu"] = {
 	["oxlade-shekzeer"]=5,
 	["oxygen-shekzeer"]=7,
 	["ozirisz-mirage-raceway"]=33,
-	["ozymaadyas-mirage-raceway"]=10,
+	["ozymaadyas-mirage-raceway"]=2,
 	["ozymandiaus-mirage-raceway"]=23,
-	["ozymandius-mirage-raceway"]=4,
+	["ozymandius-mirage-raceway"]=20,
 	["ozzyozbarn-shekzeer"]=0,
 	["pagerodzida-norushen"]=4,
 	["pähkinä-hoptallus"]=26,
