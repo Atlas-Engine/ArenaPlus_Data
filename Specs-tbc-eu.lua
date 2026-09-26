@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 10078 characters, read 2026-09-26 04:00 AM.
+-- Region tbc-eu, 10078 characters, read 2026-09-26 04:44 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11155,7 +11155,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["buddhai-spineshatter"]=2,
 	["buddx-spineshatter"]=4,
 	["budgetjay-spineshatter"]=3,
-	["budgetkbb-spineshatter"]=13,
+	["budgetkbb-spineshatter"]=18,
 	["budgetßolg-spineshatter"]=5,
 	["bue-spineshatter"]=1,
 	["buffalosven-thunderstrike"]=5,
@@ -13347,7 +13347,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["gshockxd-spineshatter"]=11,
 	["gslop-spineshatter"]=10,
 	["gssöü-spineshatter"]=2,
-	["gtb-spineshatter"]=13,
+	["gtb-spineshatter"]=14,
 	["gtwoge-spineshatter"]=3,
 	["guaorh-thunderstrike"]=5,
 	["gucciprada-spineshatter"]=2,
@@ -18901,7 +18901,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["töppis-thunderstrike"]=11,
 	["topsbrown-spineshatter"]=15,
 	["topspriest-spineshatter"]=2,
-	["topsrogue-spineshatter"]=3,
+	["topsrogue-spineshatter"]=19,
 	["toptoro-spineshatter"]=19,
 	["toradus-spineshatter"]=12,
 	["torat-spineshatter"]=13,
