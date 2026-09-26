@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5170 characters, read 2026-09-25 08:59 PM.
+-- Region us, 5170 characters, read 2026-09-25 09:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6201,7 +6201,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["drellus-pagle"]=15,
 	["Ðressrøsa-immerseus"]=10,
 	["drewdipsy-pagle"]=7,
-	["drewleon-pagle"]=5,
+	["drewleon-pagle"]=17,
 	["drewwd-nazgrim"]=5,
 	["dreyad-pagle"]=5,
 	["dreyas-pagle"]=7,
@@ -8356,10 +8356,10 @@ ns.SPECS_BY_REGION["us"] = {
 	["paladtty-lei-shen"]=32,
 	["palafornia-raden"]=16,
 	["palalazy-pagle"]=16,
-	["palamán-raden"]=16,
+	["palamán-raden"]=32,
 	["palapala-pagle"]=2,
 	["pallyboss-galakras"]=0,
-	["palodan-arugal-au"]=2,
+	["palodan-arugal-au"]=16,
 	["palpatîne-pagle"]=28,
 	["palyvash-galakras"]=16,
 	["palyy-raden"]=16,
@@ -8621,7 +8621,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ráquel-raden"]=13,
 	["rasclatt-raden"]=21,
 	["rastafrost-galakras"]=1,
-	["ratcigár-raden"]=12,
+	["ratcigár-raden"]=5,
 	["ratmeatsoup-nazgrim"]=14,
 	["rattled-pagle"]=3,
 	["rávager-pagle"]=19,
