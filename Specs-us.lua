@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5176 characters, read 2026-09-26 04:59 PM.
+-- Region us, 5176 characters, read 2026-09-26 05:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4068,7 +4068,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["sockemboper-pagle"]=10,
 	["södah-raden"]=41,
 	["sofeorr-pagle"]=40,
-	["sofí-pagle"]=11,
+	["sofí-pagle"]=10,
 	["solaarflare-pagle"]=11,
 	["solarshield-raden"]=11,
 	["solartide-pagle"]=111,
@@ -6453,7 +6453,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["fatwog-raden"]=16,
 	["faylaxd-raden"]=5,
 	["fctry-raden"]=3,
-	["fcx-raden"]=1,
+	["fcx-raden"]=11,
 	["fearbane-pagle"]=26,
 	["feardaddy-pagle"]=2,
 	["feardot-pagle"]=28,
@@ -6818,7 +6818,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["gurkaa-galakras"]=7,
 	["gurrd-lei-shen"]=34,
 	["gúrú-pagle"]=11,
-	["gutennacht-pagle"]=9,
+	["gutennacht-pagle"]=21,
 	["guthee-pagle"]=7,
 	["gwendolyn-raden"]=1,
 	["gwuapo-raden"]=7,
@@ -7626,7 +7626,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["litmus-pagle"]=7,
 	["litoutz-pagle"]=11,
 	["littheri-pagle"]=17,
-	["littielight-pagle"]=21,
+	["littielight-pagle"]=13,
 	["littlefláme-pagle"]=1,
 	["littlegirl-raden"]=1,
 	["littletinkle-galakras"]=32,
@@ -7656,7 +7656,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["lolilpop-pagle"]=22,
 	["lolohwow-raden"]=1,
 	["loloove-pagle"]=3,
-	["lonelylonerr-pagle"]=11,
+	["lonelylonerr-pagle"]=1,
 	["loneshadow-pagle"]=0,
 	["lonestarx-raden"]=9,
 	["longbonds-nazgrim"]=15,
@@ -9512,7 +9512,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["thänätos-pagle"]=6,
 	["thannan-raden"]=16,
 	["tharealnerds-pagle"]=1,
-	["thatguyover-lei-shen"]=10,
+	["thatguyover-lei-shen"]=27,
 	["thaviks-raden"]=7,
 	["theægnt-raden"]=4,
 	["theanswer-pagle"]=0,
@@ -10072,7 +10072,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["yugehackman-pagle"]=7,
 	["yukiì-raden"]=10,
 	["yummymerlock-pagle"]=7,
-	["yunexy-raden"]=15,
+	["yunexy-raden"]=22,
 	["yunghots-raden"]=5,
 	["yurb-bloodsail-buccaneers"]=16,
 	["yurd-bloodsail-buccaneers"]=3,

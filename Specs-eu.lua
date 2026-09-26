@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5319 characters, read 2026-09-26 05:00 PM.
+-- Region eu, 5319 characters, read 2026-09-26 06:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5597,7 +5597,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bestmonkna-shekzeer"]=6,
 	["bêstmvp-shekzeer"]=4,
 	["bêteféroce-shekzeer"]=4,
-	["betix-shekzeer"]=4,
+	["betix-shekzeer"]=20,
 	["betrthanyou-shekzeer"]=2,
 	["beware-shekzeer"]=6,
 	["bezdarniy-shekzeer"]=2,
@@ -5745,7 +5745,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["brywen-shekzeer"]=24,
 	["bs-mirage-raceway"]=13,
 	["bsød-mirage-raceway"]=13,
-	["bubblebêé-everlook"]=5,
+	["bubblebêé-everlook"]=15,
 	["bubblegmz-mirage-raceway"]=12,
 	["búbblès-shekzeer"]=17,
 	["bubudeathete-shekzeer"]=9,
@@ -7224,7 +7224,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["keijo-shekzeer"]=7,
 	["kekobij-shekzeer"]=12,
 	["keksy-shekzeer"]=0,
-	["keksyoq-everlook"]=26,
+	["keksyoq-everlook"]=24,
 	["kelsor-auberdine"]=4,
 	["kelsron-norushen"]=1,
 	["kemrez-shekzeer"]=11,
@@ -7236,7 +7236,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["kennyk-garalon"]=1,
 	["kennyk-shekzeer"]=1,
 	["kennykk-garalon"]=1,
-	["kennyykofot-garalon"]=34,
+	["kennyykofot-garalon"]=24,
 	["kenoh-shekzeer"]=18,
 	["kenrize-shekzeer"]=2,
 	["kenthalyriøs-auberdine"]=8,
@@ -9071,7 +9071,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["stinastet-shekzeer"]=11,
 	["stïpix-auberdine"]=24,
 	["stitchvnr-auberdine"]=31,
-	["stivkuling-shekzeer"]=2,
+	["stivkuling-shekzeer"]=10,
 	["stjärto-shekzeer"]=24,
 	["stokssprime-shekzeer"]=20,
 	["stopfear-shekzeer"]=17,
@@ -9186,7 +9186,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["szashå-shekzeer"]=2,
 	["szexjebøaka-mirage-raceway"]=15,
 	["szh-shekzeer"]=2,
-	["tackiella-shekzeer"]=9,
+	["tackiella-shekzeer"]=12,
 	["tactic-shekzeer"]=1,
 	["tadheal-auberdine"]=9,
 	["täe-everlook"]=7,
@@ -10029,7 +10029,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Аззон-flamegor"]=15,
 	["Азуо-flamegor"]=15,
 	["Азьезмь-flamegor"]=3,
-	["Аймиар-flamegor"]=25,
+	["Аймиар-flamegor"]=1,
 	["Айрбет-flamegor"]=10,
 	["Айсстори-flamegor"]=2,
 	["Аквамелиз-flamegor"]=2,
@@ -10090,7 +10090,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Брислок-flamegor"]=17,
 	["Бритлберри-flamegor"]=2,
 	["Будрык-flamegor"]=21,
-	["Будрыкк-flamegor"]=20,
+	["Будрыкк-flamegor"]=4,
 	["Буревестъник-flamegor"]=13,
 	["Бурительдна-flamegor"]=16,
 	["Бурстанутый-flamegor"]=31,
