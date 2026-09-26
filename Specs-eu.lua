@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5321 characters, read 2026-09-26 09:00 AM.
+-- Region eu, 5324 characters, read 2026-09-26 10:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1053,6 +1053,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["djskunk-shekzeer"]=11,
 	["djsosnitsky-shekzeer"]=11,
 	["djssleinad-garalon"]=111,
+	["Ðjsvrxzy-shekzeer"]=11,
 	["djwashedup-shekzeer"]=11,
 	["dksecouille-auberdine"]=20,
 	["dméndez-mirage-raceway"]=101,
@@ -2041,7 +2042,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["kaworu-auberdine"]=11,
 	["kayzee-ook-ook"]=11,
 	["kazakhstani-shekzeer"]=11,
-	["kazemí-everlook"]=11,
+	["kazemí-everlook"]=10,
 	["kazui-shekzeer"]=11,
 	["kbxdk-shekzeer"]=11,
 	["keaganator-mirage-raceway"]=11,
@@ -4425,6 +4426,8 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["willbefine-shekzeer"]=11,
 	["willeps-shekzeer"]=11,
 	["wilshka-auberdine"]=30,
+	["windchimebro-shekzeer"]=11,
+	["windchimepro-shekzeer"]=11,
 	["windpipe-shekzeer"]=11,
 	["windpotata-shekzeer"]=11,
 	["windshot-norushen"]=21,
@@ -6188,6 +6191,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["djskunk-shekzeer"]=5,
 	["djsosnitsky-shekzeer"]=9,
 	["djssleinad-garalon"]=13,
+	["Ðjsvrxzy-shekzeer"]=2,
 	["djwashedup-shekzeer"]=29,
 	["dksecouille-auberdine"]=33,
 	["dméndez-mirage-raceway"]=15,
@@ -7150,7 +7154,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["juicykon-everlook"]=15,
 	["juicynancy-everlook"]=6,
 	["juicyverÿ-shekzeer"]=17,
-	["juicyzugzug-everlook"]=33,
+	["juicyzugzug-everlook"]=8,
 	["juliká-shekzeer"]=2,
 	["jullas-hoptallus"]=5,
 	["julliboomzxc-shekzeer"]=23,
@@ -9721,6 +9725,8 @@ ns.SPECS_BY_REGION["eu"] = {
 	["willbefine-shekzeer"]=9,
 	["willeps-shekzeer"]=2,
 	["wilshka-auberdine"]=13,
+	["windchimebro-shekzeer"]=7,
+	["windchimepro-shekzeer"]=14,
 	["windpipe-shekzeer"]=7,
 	["windpotata-shekzeer"]=7,
 	["windshot-norushen"]=4,
