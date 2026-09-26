@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 10086 characters, read 2026-09-26 10:54 AM.
+-- Region tbc-eu, 10086 characters, read 2026-09-26 11:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10603,7 +10603,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["backsitter-spineshatter"]=1,
 	["backtoschool-spineshatter"]=13,
 	["backttfuture-spineshatter"]=2,
-	["backup-spineshatter"]=19,
+	["backup-spineshatter"]=3,
 	["backx-thunderstrike"]=5,
 	["baconflippin-spineshatter"]=9,
 	["bâd-spineshatter"]=5,
@@ -11924,7 +11924,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["deeznootss-spineshatter"]=10,
 	["defaith-spineshatter"]=2,
 	["deftonebrr-spineshatter"]=12,
-	["deia-spineshatter"]=13,
+	["deia-spineshatter"]=18,
 	["deiligdudu-spineshatter"]=1,
 	["deiligsham-spineshatter"]=11,
 	["deivwl-spineshatter"]=13,
@@ -12662,7 +12662,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["evinea-spineshatter"]=4,
 	["evisceraiper-spineshatter"]=3,
 	["evizabeth-spineshatter"]=1,
-	["evoca-spineshatter"]=11,
+	["evoca-spineshatter"]=23,
 	["evolve-spineshatter"]=8,
 	["evyo-spineshatter"]=2,
 	["ewigejude-spineshatter"]=3,
@@ -13038,7 +13038,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["frendiks-thunderstrike"]=3,
 	["frenni-spineshatter"]=1,
 	["frenschmeat-spineshatter"]=2,
-	["freshdog-spineshatter"]=4,
+	["freshdog-spineshatter"]=9,
 	["freudz-spineshatter"]=2,
 	["freyaxe-spineshatter"]=2,
 	["fridvor-spineshatter"]=20,
@@ -15898,7 +15898,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["nappygodx-spineshatter"]=25,
 	["naprojime-spineshatter"]=5,
 	["nárien-spineshatter"]=2,
-	["narle-spineshatter"]=19,
+	["narle-spineshatter"]=3,
 	["narlewhotwo-spineshatter"]=2,
 	["narny-spineshatter"]=1,
 	["narttuveijo-thunderstrike"]=2,

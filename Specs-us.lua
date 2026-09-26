@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5172 characters, read 2026-09-26 10:59 AM.
+-- Region us, 5172 characters, read 2026-09-26 11:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1580,7 +1580,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["fromeo-raden"]=10,
 	["fromohio-raden"]=30,
 	["fróst-raden"]=81,
-	["frøstðrägøñ-raden"]=10,
+	["frøstðrägøñ-raden"]=11,
 	["frostengine-raden"]=10,
 	["frostfury-raden"]=10,
 	["frosthalyss-raden"]=11,
@@ -6414,7 +6414,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ezmunk-galakras"]=27,
 	["ezybakeoven-benediction"]=1,
 	["faex-arugal-au"]=1,
-	["faexypriest-arugal-au"]=9,
+	["faexypriest-arugal-au"]=21,
 	["faiderh-nazgrim"]=20,
 	["faiders-raden"]=3,
 	["failaxz-raden"]=3,
@@ -6518,7 +6518,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["flashoflight-raden"]=16,
 	["flato-raden"]=18,
 	["flatsixx-pagle"]=11,
-	["flává-raden"]=23,
+	["flává-raden"]=7,
 	["flayzlock-raden"]=24,
 	["flayzr-raden"]=14,
 	["fleshoflight-raden"]=16,
@@ -6551,7 +6551,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["forion-galakras"]=3,
 	["førmality-raden"]=1,
 	["fórsaken-pagle"]=0,
-	["fossy-pagle"]=17,
+	["fossy-pagle"]=5,
 	["fotmwarrs-raden"]=16,
 	["fotosyntetic-raden"]=5,
 	["foureyepottr-pagle"]=1,
@@ -8210,7 +8210,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["nrash-raden"]=14,
 	["nukkz-arugal-au"]=14,
 	["nunnya-raden"]=4,
-	["nupper-pagle"]=23,
+	["nupper-pagle"]=7,
 	["nurfthemonk-pagle"]=4,
 	["nurfwarr-raden"]=7,
 	["nusubito-pagle"]=29,
@@ -8534,7 +8534,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["pspspsps-galakras"]=5,
 	["psyced-galakras"]=24,
 	["psychovic-galakras"]=22,
-	["psykadélik-lei-shen"]=16,
+	["psykadélik-lei-shen"]=2,
 	["psykobunny-raden"]=12,
 	["ptownzxc-lei-shen"]=14,
 	["pukobundy-nazgrim"]=10,
