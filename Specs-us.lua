@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5168 characters, read 2026-09-26 01:54 AM.
+-- Region us, 5168 characters, read 2026-09-26 02:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5291,7 +5291,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["bandicute-pagle"]=14,
 	["bandído-raden"]=14,
 	["bane-raden"]=0,
-	["bàng-galakras"]=4,
+	["bàng-galakras"]=10,
 	["bangyang-galakras"]=22,
 	["bannelion-immerseus"]=5,
 	["barêskin-galakras"]=6,
@@ -8565,7 +8565,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["quartêrmain-pagle"]=3,
 	["quelss-pagle"]=2,
 	["quesø-pagle"]=29,
-	["questopresto-nazgrim"]=27,
+	["questopresto-nazgrim"]=10,
 	["quickscopex-pagle"]=3,
 	["quickvanish-pagle"]=34,
 	["qwanya-raden"]=1,
@@ -9924,7 +9924,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["woland-raden"]=7,
 	["wolfdeathh-raden"]=26,
 	["wolfhunter-pagle"]=20,
-	["wolfielaika-pagle"]=9,
+	["wolfielaika-pagle"]=13,
 	["wolfspriest-nazgrim"]=9,
 	["wølik-pagle"]=15,
 	["wompuz-nazgrim"]=9,
