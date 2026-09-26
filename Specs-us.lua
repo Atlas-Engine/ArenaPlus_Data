@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5172 characters, read 2026-09-26 02:59 PM.
+-- Region us, 5172 characters, read 2026-09-26 03:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5561,7 +5561,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["bramanmanman-grobbulus"]=15,
 	["brandoncle-galakras"]=2,
 	["brazzeal-pagle"]=16,
-	["brbcloning-pagle"]=17,
+	["brbcloning-pagle"]=5,
 	["brbsheeping-pagle"]=1,
 	["breewdable-pagle"]=10,
 	["brendedoo-galakras"]=3,
@@ -5787,7 +5787,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["cleismar-nazgrim"]=2,
 	["clergyorgy-galakras"]=16,
 	["clïanse-pagle"]=29,
-	["clips-pagle"]=18,
+	["clips-pagle"]=20,
 	["Çlix-pagle"]=14,
 	["cloe-raden"]=14,
 	["cloninglab-pagle"]=5,
@@ -5815,7 +5815,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["Çøld-pagle"]=1,
 	["coloredgreen-immerseus"]=12,
 	["combusst-raden"]=1,
-	["comeherepapi-raden"]=34,
+	["comeherepapi-raden"]=29,
 	["comethout-pagle"]=22,
 	["comfypillow-benediction"]=25,
 	["compassiion-raden"]=24,
@@ -5855,7 +5855,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["crapes-immerseus"]=12,
 	["crapes-raden"]=12,
 	["crashdavis-raden"]=23,
-	["crashhoutt-pagle"]=26,
+	["crashhoutt-pagle"]=6,
 	["crashmoore-pagle"]=7,
 	["crayinmymind-pagle"]=7,
 	["crazè-pagle"]=34,
@@ -6104,7 +6104,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["Ðispie-pagle"]=6,
 	["distorte-pagle"]=5,
 	["Ðistrøyer-immerseus"]=7,
-	["ditrisus-pagle"]=3,
+	["ditrisus-pagle"]=20,
 	["diviñe-pagle"]=2,
 	["divinebleed-raden"]=7,
 	["divinehymnal-raden"]=0,
