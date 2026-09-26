@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 10080 characters, read 2026-09-25 10:59 PM.
+-- Region tbc-eu, 10080 characters, read 2026-09-25 11:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -15346,7 +15346,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["maxxholiday-spineshatter"]=19,
 	["máya-spineshatter"]=5,
 	["maybemangle-spineshatter"]=1,
-	["maybeyo-spineshatter"]=11,
+	["maybeyo-spineshatter"]=12,
 	["maydiie-spineshatter"]=5,
 	["maylined-spineshatter"]=3,
 	["maylinzseed-spineshatter"]=14,
@@ -15733,7 +15733,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["mover-spineshatter"]=15,
 	["mowglii-spineshatter"]=18,
 	["mowwgli-spineshatter"]=19,
-	["moxjet-spineshatter"]=9,
+	["moxjet-spineshatter"]=4,
 	["moxnes-spineshatter"]=16,
 	["moxpearl-spineshatter"]=2,
 	["moxruby-spineshatter"]=11,
@@ -18011,7 +18011,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["skurki-spineshatter"]=9,
 	["skurkish-spineshatter"]=11,
 	["skurkishx-spineshatter"]=2,
-	["skurkiw-spineshatter"]=5,
+	["skurkiw-spineshatter"]=15,
 	["skurkq-spineshatter"]=12,
 	["skvrafsk-spineshatter"]=9,
 	["skwi-spineshatter"]=8,
@@ -18038,7 +18038,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["slare-spineshatter"]=9,
 	["slashkekw-spineshatter"]=25,
 	["slashlove-thunderstrike"]=23,
-	["slashnerf-spineshatter"]=23,
+	["slashnerf-spineshatter"]=11,
 	["slauth-spineshatter"]=3,
 	["slavanas-spineshatter"]=15,
 	["slaw-spineshatter"]=2,
