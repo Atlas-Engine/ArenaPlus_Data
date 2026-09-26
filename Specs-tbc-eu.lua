@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 10078 characters, read 2026-09-26 12:59 AM.
+-- Region tbc-eu, 10078 characters, read 2026-09-26 01:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12397,7 +12397,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["ecrøf-spineshatter"]=16,
 	["ecthoor-spineshatter"]=17,
 	["ecthorlock-spineshatter"]=13,
-	["ecthorr-spineshatter"]=17,
+	["ecthorr-spineshatter"]=2,
 	["edaros-spineshatter"]=9,
 	["edaukin-spineshatter"]=5,
 	["eddeded-spineshatter"]=3,
@@ -13283,7 +13283,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["gozxprime-spineshatter"]=3,
 	["gøzzie-spineshatter"]=12,
 	["gqdance-thunderstrike"]=19,
-	["grakee-spineshatter"]=9,
+	["grakee-spineshatter"]=4,
 	["gramazeka-spineshatter"]=8,
 	["grandenmouer-spineshatter"]=8,
 	["grandmasterp-spineshatter"]=13,
@@ -14279,7 +14279,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["kaelyqt-thunderstrike"]=9,
 	["kaepernickk-thunderstrike"]=3,
 	["kaerthyshift-spineshatter"]=6,
-	["kaetoz-spineshatter"]=1,
+	["kaetoz-spineshatter"]=6,
 	["kaex-spineshatter"]=1,
 	["kagg-spineshatter"]=11,
 	["kahagen-spineshatter"]=3,
