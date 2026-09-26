@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9647 characters, read 2026-09-25 07:58 PM.
+-- Region tbc-us, 9647 characters, read 2026-09-25 08:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12752,7 +12752,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["giantjeff-nightslayer"]=2,
 	["gielhsa-nightslayer"]=1,
 	["gigabonk-nightslayer"]=2,
-	["gigabowser-nightslayer"]=1,
+	["gigabowser-nightslayer"]=12,
 	["gigacrab-nightslayer"]=2,
 	["gigadunk-nightslayer"]=2,
 	["gigagigachad-nightslayer"]=0,
@@ -15584,7 +15584,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["onebigstyle-nightslayer"]=5,
 	["onecrumb-nightslayer"]=25,
 	["onefive-dreamscythe"]=4,
-	["onehunga-nightslayer"]=10,
+	["onehunga-nightslayer"]=24,
 	["onemanármy-nightslayer"]=8,
 	["onemorethot-nightslayer"]=7,
 	["oneplusone-nightslayer"]=1,
@@ -15822,7 +15822,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["petiteteen-nightslayer"]=13,
 	["petitevan-nightslayer"]=2,
 	["petito-nightslayer"]=2,
-	["pettyc-nightslayer"]=5,
+	["pettyc-nightslayer"]=8,
 	["pewic-nightslayer"]=24,
 	["pewwpewwer-nightslayer"]=6,
 	["peyotegoat-nightslayer"]=19,
@@ -16761,7 +16761,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["scubay-nightslayer"]=19,
 	["scuffins-nightslayer"]=1,
 	["scuhammed-nightslayer"]=2,
-	["scungy-nightslayer"]=8,
+	["scungy-nightslayer"]=5,
 	["scxtt-nightslayer"]=5,
 	["scyer-nightslayer"]=13,
 	["scyless-nightslayer"]=5,

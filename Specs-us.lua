@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5170 characters, read 2026-09-25 07:59 PM.
+-- Region us, 5170 characters, read 2026-09-25 08:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5037,7 +5037,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["Æçy-raden"]=1,
 	["Æggrophobia-pagle"]=13,
 	["aeliline-pagle"]=0,
-	["aellane-pagle"]=6,
+	["aellane-pagle"]=26,
 	["Ærîthøs-pagle"]=16,
 	["aeroes-pagle"]=3,
 	["aerzkei-arugal-au"]=17,
@@ -5050,13 +5050,13 @@ ns.SPECS_BY_REGION["us"] = {
 	["agility-raden"]=3,
 	["agrosniper-pagle"]=3,
 	["ahrens-raden"]=14,
-	["aidíth-benediction"]=30,
+	["aidíth-benediction"]=7,
 	["aídíth-benediction"]=7,
 	["aidsx-raden"]=12,
 	["aimonk-raden"]=10,
 	["airbornekid-pagle"]=13,
 	["airbuss-nazgrim"]=18,
-	["airhéads-pagle"]=24,
+	["airhéads-pagle"]=28,
 	["aisten-galakras"]=2,
 	["aiwindel-galakras"]=23,
 	["akeratin-pagle"]=12,
@@ -5079,7 +5079,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["alette-pagle"]=2,
 	["aléxandros-nazgrim"]=7,
 	["alexmateo-pagle"]=7,
-	["alexrrbb-raden"]=7,
+	["alexrrbb-raden"]=23,
 	["alextraxas-pagle"]=7,
 	["alezaar-raden"]=5,
 	["algreen-pagle"]=4,
@@ -9263,7 +9263,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["spóöòkyqûeen-pagle"]=4,
 	["spowy-pagle"]=34,
 	["spq-pagle"]=0,
-	["spreadpres-pagle"]=5,
+	["spreadpres-pagle"]=17,
 	["spudbudz-pagle"]=21,
 	["spuntville-pagle"]=22,
 	["sqntzi-pagle"]=17,
