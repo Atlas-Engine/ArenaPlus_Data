@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5317 characters, read 2026-09-26 02:00 PM.
+-- Region eu, 5317 characters, read 2026-09-26 03:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2038,7 +2038,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["kaworu-auberdine"]=11,
 	["kayzee-ook-ook"]=11,
 	["kazakhstani-shekzeer"]=11,
-	["kazemí-everlook"]=10,
+	["kazemí-everlook"]=11,
 	["kazui-shekzeer"]=11,
 	["kbxdk-shekzeer"]=11,
 	["keaganator-mirage-raceway"]=11,
@@ -5585,7 +5585,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bernadette-shekzeer"]=8,
 	["berrett-auberdine"]=24,
 	["bérsérkér-shekzeer"]=1,
-	["berserkvalor-shekzeer"]=31,
+	["berserkvalor-shekzeer"]=33,
 	["bertenator-mirage-raceway"]=1,
 	["berthiine-shekzeer"]=2,
 	["beskunk-shekzeer"]=9,
@@ -6141,7 +6141,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["dinhoo-mirage-raceway"]=22,
 	["Ðïønysus-garalon"]=16,
 	["Ðionysus-shekzeer"]=16,
-	["Ðiønysus-shekzeer"]=13,
+	["Ðiønysus-shekzeer"]=16,
 	["Ðîóñýsûs-shekzeer"]=6,
 	["Ðîønysus-shekzeer"]=5,
 	["Ðïonysüs-shekzeer"]=17,
@@ -6193,7 +6193,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["döberman-shekzeer"]=1,
 	["dobermans-shekzeer"]=6,
 	["Ðoctordeath-shekzeer"]=1,
-	["dog-shekzeer"]=3,
+	["dog-shekzeer"]=11,
 	["dogdogdog-garalon"]=14,
 	["dogecoinxx-shekzeer"]=12,
 	["doha-shekzeer"]=2,
@@ -6280,7 +6280,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["dunderpallan-shekzeer"]=5,
 	["dunkelheit-shekzeer"]=9,
 	["dúpond-auberdine"]=3,
-	["durianlover-shekzeer"]=11,
+	["durianlover-shekzeer"]=3,
 	["duskmeh-shekzeer"]=1,
 	["duskyn-shekzeer"]=20,
 	["dusoleil-shekzeer"]=24,
@@ -8118,7 +8118,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["nøxylol-everlook"]=13,
 	["Ñqqa-shekzeer"]=1,
 	["nrg-shekzeer"]=24,
-	["nsé-garalon"]=15,
+	["nsé-garalon"]=5,
 	["ntbf-shekzeer"]=24,
 	["ntbfq-shekzeer"]=9,
 	["ntxfake-shekzeer"]=11,
@@ -8620,7 +8620,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["rofedex-shekzeer"]=15,
 	["roflmaster-shekzeer"]=15,
 	["rofmagex-mirage-raceway"]=10,
-	["rofmagexy-mirage-raceway"]=10,
+	["rofmagexy-mirage-raceway"]=27,
 	["rogojine-shekzeer"]=5,
 	["rõgue-mirage-raceway"]=24,
 	["rogunjaknoha-norushen"]=24,
