@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5168 characters, read 2026-09-26 02:59 AM.
+-- Region us, 5168 characters, read 2026-09-26 03:54 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7610,7 +7610,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["linktrol-pagle"]=18,
 	["linnker-pagle"]=9,
 	["lionner-lei-shen"]=10,
-	["liopleurodon-nazgrim"]=13,
+	["liopleurodon-nazgrim"]=9,
 	["liorindei-raden"]=33,
 	["liquidated-pagle"]=1,
 	["lìt-pagle"]=7,
@@ -7875,7 +7875,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["mightybeast-raden"]=17,
 	["mightymagus-raden"]=1,
 	["migué-pagle"]=16,
-	["mihal-nazgrim"]=1,
+	["mihal-nazgrim"]=11,
 	["miichael-pagle"]=2,
 	["miintpwnagex-nazgrim"]=18,
 	["mikejan-raden"]=2,
@@ -8307,7 +8307,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["orgian-pagle"]=5,
 	["orgimmar-raden"]=1,
 	["originalgank-pagle"]=0,
-	["orkage-immerseus"]=4,
+	["orkage-immerseus"]=27,
 	["oshhii-pagle"]=1,
 	["ositgominola-nazgrim"]=4,
 	["Ósitoperú-raden"]=1,
@@ -9821,7 +9821,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["vonxx-pagle"]=24,
 	["vonzxy-pagle"]=11,
 	["vorag-nazgrim"]=10,
-	["voromyr-lei-shen"]=7,
+	["voromyr-lei-shen"]=23,
 	["vorthorne-raden"]=30,
 	["voshay-pagle"]=15,
 	["vovaii-pagle"]=12,
