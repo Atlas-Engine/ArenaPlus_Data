@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5171 characters, read 2026-09-26 05:59 AM.
+-- Region us, 5171 characters, read 2026-09-26 06:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7398,7 +7398,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["kilgorë-immerseus"]=19,
 	["killa-grobbulus"]=7,
 	["killa-immerseus"]=16,
-	["killallmages-pagle"]=6,
+	["killallmages-pagle"]=25,
 	["killbeer-pagle"]=2,
 	["killcommande-pagle"]=18,
 	["killdaspliff-pagle"]=22,
@@ -8243,7 +8243,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["obsissj-raden"]=7,
 	["obyone-raden"]=18,
 	["ochango-immerseus"]=9,
-	["ocyruz-pagle"]=32,
+	["ocyruz-pagle"]=16,
 	["oddenuff-immerseus"]=3,
 	["odenslight-raden"]=2,
 	["odessa-raden"]=27,
@@ -8701,7 +8701,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["retdis-pagle"]=16,
 	["reticence-pagle"]=10,
 	["retmainxd-raden"]=18,
-	["rétpáladin-raden"]=16,
+	["rétpáladin-raden"]=2,
 	["retrostance-galakras"]=2,
 	["rettek-raden"]=24,
 	["revcole-raden"]=9,
