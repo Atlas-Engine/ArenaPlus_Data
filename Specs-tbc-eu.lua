@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 10078 characters, read 2026-09-26 07:54 AM.
+-- Region tbc-eu, 10078 characters, read 2026-09-26 08:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10158,7 +10158,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["akumaniac-spineshatter"]=2,
 	["akumiä-spineshatter"]=9,
 	["akuraz-thunderstrike"]=19,
-	["akvzø-spineshatter"]=9,
+	["akvzø-spineshatter"]=4,
 	["alainsaural-spineshatter"]=3,
 	["alalon-spineshatter"]=13,
 	["alanford-spineshatter"]=13,
@@ -12748,7 +12748,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["fartzi-spineshatter"]=15,
 	["fatalíty-spineshatter"]=15,
 	["fatammor-spineshatter"]=13,
-	["fatcritties-spineshatter"]=13,
+	["fatcritties-spineshatter"]=18,
 	["fatflop-spineshatter"]=11,
 	["fathamor-spineshatter"]=9,
 	["fatnan-spineshatter"]=2,
@@ -18311,7 +18311,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["ßßw-spineshatter"]=3,
 	["ßuspelle-spineshatter"]=2,
 	["ßyeßye-spineshatter"]=0,
-	["stabbanana-spineshatter"]=19,
+	["stabbanana-spineshatter"]=3,
 	["stábbý-spineshatter"]=3,
 	["stabbyboii-spineshatter"]=3,
 	["stabilized-spineshatter"]=7,
