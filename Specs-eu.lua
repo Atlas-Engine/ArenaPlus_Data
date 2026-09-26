@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5319 characters, read 2026-09-25 10:00 PM.
+-- Region eu, 5319 characters, read 2026-09-25 11:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7571,7 +7571,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["lûrtz-mirage-raceway"]=20,
 	["luxilae-shekzeer"]=0,
 	["luxilus-hoptallus"]=15,
-	["luxzys-shekzeer"]=7,
+	["luxzys-shekzeer"]=6,
 	["luzdelunà-hoptallus"]=5,
 	["lvka-shekzeer"]=4,
 	["lxry-shekzeer"]=2,
@@ -7719,7 +7719,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["melba-shekzeer"]=11,
 	["melk-shekzeer"]=2,
 	["mellamell-shekzeer"]=7,
-	["mellichka-shekzeer"]=12,
+	["mellichka-shekzeer"]=9,
 	["melomni-shekzeer"]=6,
 	["mely-shekzeer"]=9,
 	["menadine-everlook"]=2,
@@ -8290,7 +8290,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["pb-shekzeer"]=6,
 	["pdaddy-mirage-raceway"]=7,
 	["pdai-shekzeer"]=0,
-	["pðiððy-shekzeer"]=13,
+	["pðiððy-shekzeer"]=16,
 	["peacefùl-shekzeer"]=15,
 	["peacher-gehennas"]=0,
 	["peakone-everlook"]=19,
@@ -9274,7 +9274,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["thatmathguy-norushen"]=2,
 	["thaumi-auberdine"]=3,
 	["theånswer-shekzeer"]=0,
-	["thedoctorftw-shekzeer"]=15,
+	["thedoctorftw-shekzeer"]=5,
 	["thedrot-garalon"]=26,
 	["thehrc-auberdine"]=9,
 	["theicer-garalon"]=2,
@@ -9400,7 +9400,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["trendsetter-shekzeer"]=1,
 	["trera-norushen"]=6,
 	["tresiba-garalon"]=2,
-	["trgtacquired-mirage-raceway"]=16,
+	["trgtacquired-mirage-raceway"]=13,
 	["triatpally-shekzeer"]=15,
 	["triatsonbg-shekzeer"]=8,
 	["trigger-garalon"]=15,
@@ -9444,7 +9444,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["túrle-mirage-raceway"]=8,
 	["turles-shekzeer"]=1,
 	["türtle-garalon"]=13,
-	["tusneldah-everlook"]=15,
+	["tusneldah-everlook"]=30,
 	["tutentotem-mirage-raceway"]=16,
 	["tutze-shekzeer"]=0,
 	["tvarina-shekzeer"]=0,
@@ -9572,7 +9572,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["verlinya-shekzeer"]=5,
 	["verlisham-shekzeer"]=13,
 	["verlitwo-shekzeer"]=5,
-	["verlyna-shekzeer"]=12,
+	["verlyna-shekzeer"]=9,
 	["vérnyúl-shekzeer"]=1,
 	["verrückt-shekzeer"]=16,
 	["verti-norushen"]=33,
@@ -10391,7 +10391,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Тониматата-flamegor"]=1,
 	["Трихинкали-flamegor"]=16,
 	["Трояндочкаа-flamegor"]=3,
-	["Трэрг-flamegor"]=16,
+	["Трэрг-flamegor"]=19,
 	["Трэргор-flamegor"]=13,
 	["Тупасплэщ-flamegor"]=14,
 	["Тупыль-flamegor"]=1,
