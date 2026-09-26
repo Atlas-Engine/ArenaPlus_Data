@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5170 characters, read 2026-09-26 09:59 AM.
+-- Region us, 5172 characters, read 2026-09-26 10:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -733,6 +733,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["catmasterx-raden"]=10,
 	["catpack-raden"]=41,
 	["caulkpunch-immerseus"]=260,
+	["cavalaum-galakras"]=110,
 	["cavallier-pagle"]=100,
 	["caylara-raden"]=41,
 	["cazabrujas-raden"]=10,
@@ -1818,6 +1819,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["habibi-arugal-au"]=11,
 	["hábibi-raden"]=40,
 	["hadíl-pagle"]=11,
+	["hadoukeen-raden"]=70,
 	["hadoukenwwtv-pagle"]=11,
 	["haduth-raden"]=11,
 	["haduukin-raden"]=11,
@@ -2057,7 +2059,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["ifireman-raden"]=11,
 	["ifistu-galakras"]=111,
 	["igather-galakras"]=41,
-	["igziluhraet-pagle"]=10,
 	["ihavenohand-pagle"]=20,
 	["ihealinufeel-pagle"]=60,
 	["ihealufeelz-pagle"]=100,
@@ -5270,7 +5271,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["baedan-raden"]=4,
 	["baedon-raden"]=6,
 	["baelmis-pagle"]=1,
-	["bagahbonesx-pagle"]=9,
+	["bagahbonesx-pagle"]=21,
 	["bagelcave-nazgrim"]=22,
 	["bagelcave-pagle"]=22,
 	["bagelcavee-immerseus"]=22,
@@ -5691,6 +5692,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["catmasterx-raden"]=7,
 	["catpack-raden"]=12,
 	["caulkpunch-immerseus"]=27,
+	["cavalaum-galakras"]=15,
 	["cavallier-pagle"]=32,
 	["caylara-raden"]=20,
 	["cazabrujas-raden"]=20,
@@ -5807,6 +5809,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["codywithak-raden"]=7,
 	["codyxd-pagle"]=16,
 	["coffinrot-pagle"]=1,
+	["cognaccarl-nazgrim"]=0,
 	["cohenx-pagle"]=16,
 	["cohenxx-pagle"]=16,
 	["cojelosuave-pagle"]=2,
@@ -6624,7 +6627,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["galekk-immerseus"]=4,
 	["galey-galakras"]=23,
 	["galica-immerseus"]=30,
-	["gallagher-raden"]=1,
+	["gallagher-raden"]=11,
 	["galletica-pagle"]=23,
 	["galvaron-pagle"]=2,
 	["gambezee-raden"]=21,
@@ -6825,6 +6828,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["habibi-arugal-au"]=1,
 	["hábibi-raden"]=17,
 	["hadíl-pagle"]=1,
+	["hadoukeen-raden"]=1,
 	["hadoukenwwtv-pagle"]=10,
 	["haduth-raden"]=9,
 	["haduukin-raden"]=3,
@@ -7075,7 +7079,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["ifireman-raden"]=11,
 	["ifistu-galakras"]=4,
 	["igather-galakras"]=17,
-	["igziluhraet-pagle"]=34,
 	["ihatemetoo-raden"]=0,
 	["ihavenohand-pagle"]=10,
 	["ihealinufeel-pagle"]=5,
