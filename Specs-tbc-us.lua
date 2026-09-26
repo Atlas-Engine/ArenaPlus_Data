@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9632 characters, read 2026-09-26 12:58 PM.
+-- Region tbc-us, 9632 characters, read 2026-09-26 01:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11150,7 +11150,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["coopes-nightslayer"]=5,
 	["cooruru-nightslayer"]=11,
 	["coosw-nightslayer"]=2,
-	["coozr-nightslayer"]=12,
+	["coozr-nightslayer"]=1,
 	["copealingus-nightslayer"]=0,
 	["coqueta-nightslayer"]=9,
 	["coquina-nightslayer"]=3,
@@ -11241,7 +11241,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["cristíanfeor-nightslayer"]=17,
 	["critaz-dreamscythe"]=2,
 	["critinurface-nightslayer"]=5,
-	["critnyfearz-nightslayer"]=13,
+	["critnyfearz-nightslayer"]=16,
 	["critonmyback-nightslayer"]=18,
 	["critrip-nightslayer"]=15,
 	["crixor-dreamscythe"]=2,
@@ -11628,7 +11628,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["Ðiscøvery-nightslayer"]=1,
 	["discriminatr-nightslayer"]=10,
 	["discustingx-nightslayer"]=1,
-	["discx-nightslayer"]=1,
+	["discx-nightslayer"]=14,
 	["discynormus-dreamscythe"]=1,
 	["disdisc-nightslayer"]=12,
 	["diseasedrat-nightslayer"]=2,
@@ -13092,7 +13092,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["healteamsix-nightslayer"]=1,
 	["healthls-nightslayer"]=11,
 	["healthz-nightslayer"]=1,
-	["healzlol-dreamscythe"]=1,
+	["healzlol-dreamscythe"]=14,
 	["heartwork-nightslayer"]=4,
 	["heaters-dreamscythe"]=18,
 	["heatrash-nightslayer"]=4,
@@ -16430,7 +16430,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["riddicc-nightslayer"]=5,
 	["riffer-nightslayer"]=6,
 	["riggity-nightslayer"]=14,
-	["righteousx-nightslayer"]=16,
+	["righteousx-nightslayer"]=13,
 	["rightknut-nightslayer"]=12,
 	["rigothamus-nightslayer"]=10,
 	["riken-dreamscythe"]=25,
@@ -17398,7 +17398,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["spicelord-nightslayer"]=4,
 	["spicyarmpits-dreamscythe"]=1,
 	["spicycarp-nightslayer"]=3,
-	["spicypasta-dreamscythe"]=3,
+	["spicypasta-dreamscythe"]=7,
 	["spiffaru-nightslayer"]=7,
 	["spikeyshadow-nightslayer"]=15,
 	["spiorc-dreamscythe"]=2,
@@ -17539,7 +17539,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["stoggimeistm-nightslayer"]=4,
 	["stoggimeistr-nightslayer"]=5,
 	["stohmpa-nightslayer"]=3,
-	["stoichy-nightslayer"]=7,
+	["stoichy-nightslayer"]=22,
 	["stokades-dreamscythe"]=11,
 	["stokes-nightslayer"]=18,
 	["stokespp-nightslayer"]=11,
