@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5171 characters, read 2026-09-26 04:59 AM.
+-- Region us, 5171 characters, read 2026-09-26 05:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6310,7 +6310,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["elchjager-pagle"]=20,
 	["elcubano-raden"]=5,
 	["electabuzz-raden"]=3,
-	["electrikal-lei-shen"]=19,
+	["electrikal-lei-shen"]=15,
 	["electroxx-galakras"]=27,
 	["elementoos-lei-shen"]=19,
 	["elfakiller-nazgrim"]=18,
@@ -7576,7 +7576,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["lifely-raden"]=10,
 	["lifesavérs-pagle"]=21,
 	["lighi-raden"]=3,
-	["lightenforge-pagle"]=16,
+	["lightenforge-pagle"]=2,
 	["lightglare-pagle"]=7,
 	["lighthvalor-lei-shen"]=16,
 	["lightoftrump-pagle"]=2,
@@ -8598,7 +8598,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["räïden-raden"]=22,
 	["raidenx-nazgrim"]=26,
 	["raíín-galakras"]=9,
-	["raijinkumax-pagle"]=15,
+	["raijinkumax-pagle"]=19,
 	["raijjin-pagle"]=19,
 	["rãin-pagle"]=14,
 	["raineclaw-raden"]=5,
@@ -9597,7 +9597,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["torontopally-raden"]=2,
 	["tortaslayer-raden"]=4,
 	["toshyro-nazgrim"]=2,
-	["tosi-pagle"]=4,
+	["tosi-pagle"]=10,
 	["totemhub-galakras"]=15,
 	["totemicoo-nazgrim"]=19,
 	["totemposter-pagle"]=15,
@@ -9661,7 +9661,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["truckw-raden"]=7,
 	["truebolt-pagle"]=15,
 	["trueshepard-pagle"]=21,
-	["trueshot-grobbulus"]=3,
+	["trueshot-grobbulus"]=20,
 	["trukanoh-nazgrim"]=22,
 	["trumpchains-galakras"]=26,
 	["trumpscurse-galakras"]=21,
@@ -9672,7 +9672,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["tryitbro-raden"]=24,
 	["tsukawashime-raden"]=4,
 	["tsunadè-nazgrim"]=9,
-	["ttawdirg-pagle"]=20,
+	["ttawdirg-pagle"]=3,
 	["tubalcain-galakras"]=19,
 	["tukko-raden"]=14,
 	["tuladepiedra-pagle"]=7,

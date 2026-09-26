@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9617 characters, read 2026-09-26 04:58 AM.
+-- Region tbc-us, 9617 characters, read 2026-09-26 05:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11436,7 +11436,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["deadlyswords-nightslayer"]=5,
 	["deadpussio-dreamscythe"]=1,
 	["deamya-dreamscythe"]=5,
-	["deanski-nightslayer"]=8,
+	["deanski-nightslayer"]=5,
 	["Ðeathøx-nightslayer"]=3,
 	["deathrolls-nightslayer"]=2,
 	["debia-nightslayer"]=22,
@@ -11587,7 +11587,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["dipt-nightslayer"]=19,
 	["dirkz-nightslayer"]=5,
 	["dirtbike-nightslayer"]=10,
-	["dirts-nightslayer"]=12,
+	["dirts-nightslayer"]=14,
 	["dirtshields-nightslayer"]=10,
 	["dirtydebrah-nightslayer"]=7,
 	["dirtydeedss-dreamscythe"]=8,
@@ -14388,7 +14388,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["lockyzz-nightslayer"]=13,
 	["locopompyro-nightslayer"]=6,
 	["lofi-nightslayer"]=9,
-	["loganqd-dreamscythe"]=2,
+	["loganqd-dreamscythe"]=18,
 	["loganw-nightslayer"]=7,
 	["logicless-nightslayer"]=4,
 	["loignt-nightslayer"]=4,
@@ -14694,7 +14694,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["mbh-dreamscythe"]=15,
 	["mbhjr-dreamscythe"]=15,
 	["mbo-dreamscythe"]=3,
-	["mcchickén-nightslayer"]=7,
+	["mcchickén-nightslayer"]=22,
 	["mcchickèn-nightslayer"]=7,
 	["mcdzee-nightslayer"]=20,
 	["mcgnarly-nightslayer"]=5,
@@ -16171,7 +16171,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ragoone-nightslayer"]=11,
 	["ragu-nightslayer"]=3,
 	["rahlz-dreamscythe"]=7,
-	["raidaslock-nightslayer"]=13,
+	["raidaslock-nightslayer"]=16,
 	["raidaz-nightslayer"]=3,
 	["raiichuu-nightslayer"]=2,
 	["raika-nightslayer"]=13,
@@ -16590,7 +16590,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["sabandija-nightslayer"]=7,
 	["sabarkas-nightslayer"]=7,
 	["saberdot-nightslayer"]=13,
-	["sabin-dreamscythe"]=5,
+	["sabin-dreamscythe"]=8,
 	["sabrosita-nightslayer"]=2,
 	["sabur-nightslayer"]=7,
 	["saburro-nightslayer"]=2,
@@ -17865,7 +17865,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["thesenate-nightslayer"]=19,
 	["theslime-nightslayer"]=13,
 	["thesquil-nightslayer"]=11,
-	["thestevesman-nightslayer"]=19,
+	["thestevesman-nightslayer"]=10,
 	["theuglystick-nightslayer"]=7,
 	["theungodly-nightslayer"]=14,
 	["theylikemike-dreamscythe"]=13,
