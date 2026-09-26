@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9623 characters, read 2026-09-26 03:58 PM.
+-- Region tbc-us, 9623 characters, read 2026-09-26 04:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9615,7 +9615,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["aeiou-nightslayer"]=10,
 	["aelanadorn-dreamscythe"]=2,
 	["aemen-dreamscythe"]=14,
-	["aemina-nightslayer"]=1,
+	["aemina-nightslayer"]=14,
 	["aenima-nightslayer"]=16,
 	["aeolides-dreamscythe"]=10,
 	["aêris-dreamscythe"]=19,
@@ -10163,7 +10163,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bearness-nightslayer"]=22,
 	["bearservice-nightslayer"]=3,
 	["beartam-dreamscythe"]=7,
-	["bearwntme-dreamscythe"]=3,
+	["bearwntme-dreamscythe"]=7,
 	["bearx-dreamscythe"]=14,
 	["beastafx-nightslayer"]=0,
 	["beauchode-nightslayer"]=4,
@@ -11374,7 +11374,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["danthepan-nightslayer"]=5,
 	["danthepann-nightslayer"]=2,
 	["dantos-nightslayer"]=1,
-	["dappadin-nightslayer"]=9,
+	["dappadin-nightslayer"]=25,
 	["dappyduck-nightslayer"]=25,
 	["darbee-nightslayer"]=12,
 	["darc-nightslayer"]=1,
@@ -12710,7 +12710,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ggrogue-nightslayer"]=5,
 	["ggrose-nightslayer"]=1,
 	["gharak-nightslayer"]=2,
-	["ghazra-nightslayer"]=2,
+	["ghazra-nightslayer"]=18,
 	["ghengiskaan-dreamscythe"]=10,
 	["ghettotastic-nightslayer"]=1,
 	["ghidal-nightslayer"]=10,
@@ -12779,7 +12779,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["gloryol-nightslayer"]=12,
 	["glowieooti-dreamscythe"]=7,
 	["glowy-nightslayer"]=11,
-	["glpjuan-nightslayer"]=13,
+	["glpjuan-nightslayer"]=16,
 	["glyphz-nightslayer"]=1,
 	["gnaw-nightslayer"]=7,
 	["gnawbear-dreamscythe"]=8,
@@ -13082,7 +13082,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["healthz-nightslayer"]=1,
 	["healzlol-dreamscythe"]=14,
 	["heartwork-nightslayer"]=4,
-	["heaters-dreamscythe"]=18,
+	["heaters-dreamscythe"]=2,
 	["heatrash-nightslayer"]=4,
 	["heatscores-nightslayer"]=5,
 	["heatscorex-nightslayer"]=2,
@@ -15923,7 +15923,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["poipa-nightslayer"]=7,
 	["pøison-dreamscythe"]=5,
 	["pokan-nightslayer"]=15,
-	["pokeamon-nightslayer"]=5,
+	["pokeamon-nightslayer"]=8,
 	["pokecheeks-dreamscythe"]=5,
 	["pokeljnkv-nightslayer"]=2,
 	["pokemedaddy-dreamscythe"]=8,
@@ -16492,7 +16492,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["roks-nightslayer"]=10,
 	["role-nightslayer"]=15,
 	["roled-nightslayer"]=17,
-	["roleplaying-nightslayer"]=5,
+	["roleplaying-nightslayer"]=8,
 	["roleybones-nightslayer"]=1,
 	["roleyx-nightslayer"]=7,
 	["rolivis-nightslayer"]=23,
