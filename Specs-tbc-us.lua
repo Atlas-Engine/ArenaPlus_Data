@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9609 characters, read 2026-09-27 10:58 AM.
+-- Region tbc-us, 9609 characters, read 2026-09-27 11:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10062,7 +10062,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bandanabeard-nightslayer"]=0,
 	["bandît-nightslayer"]=5,
 	["banedgoldguy-dreamscythe"]=10,
-	["banefull-nightslayer"]=1,
+	["banefull-nightslayer"]=14,
 	["bangcoke-nightslayer"]=18,
 	["banginhotmom-nightslayer"]=11,
 	["banjoirl-nightslayer"]=5,
@@ -11806,7 +11806,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["driggity-nightslayer"]=7,
 	["driippyjones-nightslayer"]=7,
 	["drimjob-nightslayer"]=6,
-	["drimus-nightslayer"]=1,
+	["drimus-nightslayer"]=14,
 	["dringet-nightslayer"]=2,
 	["drinktodrown-dreamscythe"]=19,
 	["drippyjönes-nightslayer"]=1,
@@ -11902,7 +11902,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["duranabolol-nightslayer"]=4,
 	["durbanpoìson-dreamscythe"]=8,
 	["durogonlol-nightslayer"]=15,
-	["durtmcgurt-nightslayer"]=5,
+	["durtmcgurt-nightslayer"]=8,
 	["dushpanda-nightslayer"]=10,
 	["duskybrah-dreamscythe"]=18,
 	["dustbanned-nightslayer"]=13,
@@ -12424,7 +12424,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["floobytooby-nightslayer"]=19,
 	["floody-nightslayer"]=3,
 	["floofyz-dreamscythe"]=1,
-	["flooreo-dreamscythe"]=18,
+	["flooreo-dreamscythe"]=2,
 	["floowqt-nightslayer"]=4,
 	["flopdungler-nightslayer"]=1,
 	["floppydiscjr-nightslayer"]=7,
@@ -17464,7 +17464,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["stealthyman-nightslayer"]=5,
 	["steamtonkx-nightslayer"]=15,
 	["steek-dreamscythe"]=8,
-	["steelydon-nightslayer"]=20,
+	["steelydon-nightslayer"]=2,
 	["steezay-nightslayer"]=5,
 	["stefem-nightslayer"]=2,
 	["stefw-nightslayer"]=18,

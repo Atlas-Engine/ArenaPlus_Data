@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5319 characters, read 2026-09-27 11:00 AM.
+-- Region eu, 5319 characters, read 2026-09-27 12:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5485,7 +5485,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["babooz-shekzeer"]=11,
 	["babulo-shekzeer"]=11,
 	["baby-shekzeer"]=5,
-	["babylizzy-everlook"]=12,
+	["babylizzy-everlook"]=9,
 	["babyoil-norushen"]=4,
 	["bachna-shekzeer"]=1,
 	["backinbsns-shekzeer"]=1,
@@ -5948,7 +5948,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["controlp-norushen"]=5,
 	["controlr-norushen"]=24,
 	["controlww-norushen"]=1,
-	["controlx-norushen"]=14,
+	["controlx-norushen"]=4,
 	["corléonne-auberdine"]=6,
 	["corristo-shekzeer"]=2,
 	["corruptx-shekzeer"]=8,
@@ -6731,7 +6731,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["hacks-shekzeer"]=2,
 	["hacu-shekzeer"]=4,
 	["hadrius-ook-ook"]=0,
-	["hadudruid-shekzeer"]=3,
+	["hadudruid-shekzeer"]=21,
 	["hadupal-shekzeer"]=5,
 	["hadupriest-shekzeer"]=9,
 	["haduqt-shekzeer"]=9,
@@ -7905,7 +7905,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["mysticks-shekzeer"]=0,
 	["mytheridon-shekzeer"]=1,
 	["mythix-garalon"]=26,
-	["mythrugu-shekzeer"]=14,
+	["mythrugu-shekzeer"]=4,
 	["mythrugun-garalon"]=14,
 	["mythrugun-shekzeer"]=14,
 	["mywayz-mirage-raceway"]=2,
@@ -8439,7 +8439,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["quackbae-shekzeer"]=0,
 	["qualitytime-garalon"]=13,
 	["quarok-shekzeer"]=23,
-	["quastwex-shekzeer"]=15,
+	["quastwex-shekzeer"]=30,
 	["queuepóp-shekzeer"]=5,
 	["quickerz-norushen"]=10,
 	["quilmes-mirage-raceway"]=12,
