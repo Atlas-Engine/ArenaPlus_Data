@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9608 characters, read 2026-09-27 07:58 AM.
+-- Region tbc-us, 9608 characters, read 2026-09-27 08:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11787,7 +11787,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["dreadbot-nightslayer"]=2,
 	["dreadv-nightslayer"]=2,
 	["dreamcaliber-nightslayer"]=7,
-	["dred-nightslayer"]=1,
+	["dred-nightslayer"]=14,
 	["drekos-nightslayer"]=2,
 	["dremurs-dreamscythe"]=7,
 	["drenchedd-nightslayer"]=10,
@@ -11810,7 +11810,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["drisv-nightslayer"]=5,
 	["drisyk-nightslayer"]=5,
 	["drïzz-nightslayer"]=5,
-	["drjangle-nightslayer"]=2,
+	["drjangle-nightslayer"]=18,
 	["drmayonnaise-nightslayer"]=7,
 	["drmayonnaisé-nightslayer"]=7,
 	["drmustard-nightslayer"]=7,
@@ -14869,7 +14869,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["mininagas-dreamscythe"]=5,
 	["minískirt-nightslayer"]=7,
 	["minitelanna-nightslayer"]=2,
-	["minixboy-nightslayer"]=21,
+	["minixboy-nightslayer"]=17,
 	["minjii-dreamscythe"]=5,
 	["minmi-nightslayer"]=15,
 	["minochi-nightslayer"]=1,
@@ -15490,7 +15490,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ohrmuzd-nightslayer"]=19,
 	["ohtanifan-nightslayer"]=1,
 	["ojee-nightslayer"]=6,
-	["okaybuddy-nightslayer"]=23,
+	["okaybuddy-nightslayer"]=13,
 	["oku-nightslayer"]=14,
 	["okusang-nightslayer"]=24,
 	["olchungus-nightslayer"]=6,
@@ -15869,7 +15869,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["playgrounds-nightslayer"]=2,
 	["playhardx-nightslayer"]=2,
 	["playtimex-dreamscythe"]=5,
-	["playtolose-nightslayer"]=12,
+	["playtolose-nightslayer"]=1,
 	["pleasé-nightslayer"]=1,
 	["pleasinggang-nightslayer"]=1,
 	["plebster-nightslayer"]=1,
@@ -17097,7 +17097,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["skillfall-nightslayer"]=18,
 	["skillherald-nightslayer"]=2,
 	["skilltercept-nightslayer"]=2,
-	["skilltrap-nightslayer"]=15,
+	["skilltrap-nightslayer"]=21,
 	["skinnay-nightslayer"]=21,
 	["skinnyhorn-nightslayer"]=22,
 	["skipbtw-nightslayer"]=10,

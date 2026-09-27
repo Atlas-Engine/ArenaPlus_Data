@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 10027 characters, read 2026-09-27 07:59 AM.
+-- Region tbc-eu, 10027 characters, read 2026-09-27 08:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -13440,7 +13440,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["healonmuskx-thunderstrike"]=1,
 	["healproholy-spineshatter"]=2,
 	["healthcheck-spineshatter"]=11,
-	["healthybmi-spineshatter"]=3,
+	["healthybmi-spineshatter"]=19,
 	["healycowpter-spineshatter"]=6,
 	["healzwheels-spineshatter"]=11,
 	["heartbit-spineshatter"]=2,
@@ -14732,7 +14732,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["lavkarbo-spineshatter"]=3,
 	["lavmian-spineshatter"]=15,
 	["lawann-spineshatter"]=17,
-	["lawiné-spineshatter"]=2,
+	["lawiné-spineshatter"]=17,
 	["lawrencejame-spineshatter"]=5,
 	["lawson-spineshatter"]=4,
 	["lazaar-spineshatter"]=12,
@@ -16184,7 +16184,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["nyroo-thunderstrike"]=3,
 	["nyrowpala-thunderstrike"]=10,
 	["nýs-spineshatter"]=3,
-	["nyst-spineshatter"]=3,
+	["nyst-spineshatter"]=19,
 	["nytharion-spineshatter"]=9,
 	["nyuft-spineshatter"]=1,
 	["nyura-thunderstrike"]=2,
@@ -16738,7 +16738,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["primeglad-spineshatter"]=1,
 	["primex-spineshatter"]=17,
 	["prinzzen-spineshatter"]=15,
-	["priss-spineshatter"]=19,
+	["priss-spineshatter"]=3,
 	["prlee-spineshatter"]=13,
 	["proares-spineshatter"]=1,
 	["problemx-spineshatter"]=5,
@@ -17880,7 +17880,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["skadooch-spineshatter"]=12,
 	["skâlgrim-thunderstrike"]=2,
 	["skalleskalle-thunderstrike"]=5,
-	["skalletwo-thunderstrike"]=5,
+	["skalletwo-thunderstrike"]=15,
 	["skarabus-spineshatter"]=0,
 	["skarôk-spineshatter"]=3,
 	["skarpne-spineshatter"]=9,
@@ -19314,7 +19314,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["vydr-spineshatter"]=17,
 	["vyraz-spineshatter"]=2,
 	["vyrio-spineshatter"]=2,
-	["vyríus-spineshatter"]=6,
+	["vyríus-spineshatter"]=1,
 	["vyrîus-spineshatter"]=4,
 	["vyryn-thunderstrike"]=5,
 	["vyunia-spineshatter"]=13,
