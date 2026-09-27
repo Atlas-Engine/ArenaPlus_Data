@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5172 characters, read 2026-09-27 03:59 AM.
+-- Region us, 5173 characters, read 2026-09-27 04:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -883,6 +883,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["craniüm-pagle"]=20,
 	["crapbucket-raden"]=40,
 	["crapes-immerseus"]=61,
+	["crapes-pagle"]=61,
 	["crapes-raden"]=41,
 	["crashdavis-raden"]=220,
 	["crashhoutt-pagle"]=11,
@@ -3880,7 +3881,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["shieldzx-lei-shen"]=11,
 	["shiftener-nazgrim"]=60,
 	["shifthaps-raden"]=41,
-	["shìftkey-benediction"]=41,
+	["shìftkey-raden"]=41,
 	["shiftybiloge-galakras"]=60,
 	["shiftycent-raden"]=41,
 	["shîfu-nazgrim"]=260,
@@ -5848,6 +5849,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["craniüm-pagle"]=7,
 	["crapbucket-raden"]=17,
 	["crapes-immerseus"]=12,
+	["crapes-pagle"]=12,
 	["crapes-raden"]=12,
 	["crashdavis-raden"]=23,
 	["crashhoutt-pagle"]=6,
@@ -7001,7 +7003,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["hufflepuffr-pagle"]=1,
 	["hugehammr-lei-shen"]=16,
 	["hulksmashnow-lei-shen"]=7,
-	["humanpvpisez-pagle"]=4,
+	["humanpvpisez-pagle"]=10,
 	["hummuss-raden"]=7,
 	["hùnáy-pagle"]=11,
 	["hungfoo-pagle"]=6,
@@ -7142,7 +7144,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["invaderr-galakras"]=29,
 	["invîctûs-pagle"]=10,
 	["ipmann-galakras"]=4,
-	["iq-raden"]=20,
+	["iq-raden"]=3,
 	["irangoboom-pagle"]=7,
 	["irascible-raden"]=7,
 	["ironhorse-galakras"]=24,
@@ -7624,7 +7626,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["littletinkle-galakras"]=32,
 	["littman-raden"]=29,
 	["litwhit-lei-shen"]=16,
-	["litze-raden"]=16,
+	["litze-raden"]=32,
 	["liusu-pagle"]=5,
 	["liveforeverr-pagle"]=5,
 	["liverr-galakras"]=14,
@@ -7688,7 +7690,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["lumineth-pagle"]=9,
 	["lunchmeat-nazgrim"]=0,
 	["lunishamtwo-raden"]=0,
-	["lunpi-raden"]=27,
+	["lunpi-raden"]=4,
 	["lusts-raden"]=10,
 	["luum-raden"]=5,
 	["luuvmuscle-galakras"]=1,
@@ -8992,7 +8994,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["shieldzx-lei-shen"]=21,
 	["shiftener-nazgrim"]=5,
 	["shifthaps-raden"]=17,
-	["shìftkey-benediction"]=5,
+	["shìftkey-raden"]=5,
 	["shiftybiloge-galakras"]=5,
 	["shiftycent-raden"]=17,
 	["shîfu-nazgrim"]=4,
@@ -9134,7 +9136,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["slumpfoo-raden"]=10,
 	["slumpirlpov-raden"]=1,
 	["slumplord-raden"]=14,
-	["slumplordx-raden"]=14,
+	["slumplordx-raden"]=34,
 	["smallrass-pagle"]=30,
 	["smalltrain-pagle"]=15,
 	["smartpastry-pagle"]=14,
