@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5172 characters, read 2026-09-27 01:59 AM.
+-- Region us, 5172 characters, read 2026-09-27 02:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6013,7 +6013,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["degaüss-raden"]=16,
 	["dekk-raden"]=6,
 	["delané-raden"]=18,
-	["delaway-lei-shen"]=24,
+	["delaway-lei-shen"]=28,
 	["delgars-galakras"]=3,
 	["delude-arugal-au"]=1,
 	["delvina-raden"]=2,
@@ -6624,7 +6624,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["galekk-immerseus"]=4,
 	["galey-galakras"]=23,
 	["galica-immerseus"]=30,
-	["gallagher-raden"]=11,
+	["gallagher-raden"]=1,
 	["galletica-pagle"]=23,
 	["galvaron-pagle"]=2,
 	["gambezee-raden"]=21,
@@ -7211,11 +7211,11 @@ ns.SPECS_BY_REGION["us"] = {
 	["jealusmuch-arugal-au"]=0,
 	["jedicowie-pagle"]=21,
 	["jeewwjitsu-raden"]=10,
-	["jeffatality-nazgrim"]=10,
+	["jeffatality-nazgrim"]=27,
 	["jeffrence-pagle"]=16,
 	["jefmago-raden"]=11,
 	["jellierolls-pagle"]=4,
-	["jellytugger-raden"]=24,
+	["jellytugger-raden"]=8,
 	["jërrÿ-galakras"]=20,
 	["jerryjuve-lei-shen"]=5,
 	["jerrymonk-lei-shen"]=4,
@@ -7573,7 +7573,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["lifely-raden"]=10,
 	["lifesavérs-pagle"]=21,
 	["lighi-raden"]=3,
-	["lightenforge-pagle"]=2,
+	["lightenforge-pagle"]=16,
 	["lightglare-pagle"]=7,
 	["lighthvalor-lei-shen"]=16,
 	["lightoftrump-pagle"]=2,
@@ -7908,8 +7908,8 @@ ns.SPECS_BY_REGION["us"] = {
 	["misprëdictio-nazgrim"]=21,
 	["missatrinni-pagle"]=0,
 	["missmama-galakras"]=5,
-	["missrollings-pagle"]=10,
-	["misstotem-pagle"]=15,
+	["missrollings-pagle"]=4,
+	["misstotem-pagle"]=19,
 	["missyu-immerseus"]=23,
 	["mistafistuh-pagle"]=4,
 	["mistnme-pagle"]=0,
