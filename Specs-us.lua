@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5171 characters, read 2026-09-27 02:59 PM.
+-- Region us, 5171 characters, read 2026-09-27 03:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6612,7 +6612,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["fxd-arugal-au"]=5,
 	["gaarah-pagle"]=1,
 	["gabimaru-raden"]=4,
-	["gaejustin-pagle"]=12,
+	["gaejustin-pagle"]=33,
 	["gaêl-lei-shen"]=18,
 	["gaethje-raden"]=0,
 	["gaiden-nazgrim"]=34,
@@ -9940,7 +9940,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["worstholy-raden"]=16,
 	["worstmageus-pagle"]=1,
 	["worstrogna-pagle"]=14,
-	["worststdus-pagle"]=6,
+	["worststdus-pagle"]=25,
 	["wowamazingcc-raden"]=3,
 	["wowmichael-pagle"]=20,
 	["wraithzy-raden"]=3,
@@ -10053,7 +10053,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["youngvërcesx-raden"]=27,
 	["youngx-pagle"]=4,
 	["youppl-pagle"]=7,
-	["yourendisher-pagle"]=11,
+	["yourendisher-pagle"]=1,
 	["youz-pagle"]=15,
 	["yrd-pagle"]=9,
 	["yrrlol-pagle"]=17,
