@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5174 characters, read 2026-09-27 05:59 PM.
+-- Region us, 5174 characters, read 2026-09-27 06:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5306,7 +5306,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["bashlee-lei-shen"]=7,
 	["battleground-pagle"]=17,
 	["battleground-raden"]=4,
-	["bayol-raden"]=13,
+	["bayol-raden"]=21,
 	["bâz-arugal-au"]=1,
 	["bazblast-arugal-au"]=15,
 	["bazflay-arugal-au"]=21,
@@ -5322,7 +5322,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["bdx-raden"]=1,
 	["beabo-raden"]=7,
 	["bearflow-nazgrim"]=5,
-	["bearhammer-lei-shen"]=7,
+	["bearhammer-lei-shen"]=30,
 	["bearìcade-pagle"]=5,
 	["bearlygoat-lei-shen"]=5,
 	["bearsong-galakras"]=12,
@@ -9609,7 +9609,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["touchofdiddy-raden"]=4,
 	["toughstuff-raden"]=0,
 	["towjam-nazgrim"]=19,
-	["tøxic-nazgrim"]=14,
+	["tøxic-nazgrim"]=34,
 	["tóxica-pagle"]=34,
 	["toxiciguana-pagle"]=29,
 	["toxyc-galakras"]=21,
