@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5171 characters, read 2026-09-27 01:59 PM.
+-- Region us, 5171 characters, read 2026-09-27 02:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4318,7 +4318,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["teamobaggins-galakras"]=60,
 	["teatable-raden"]=11,
 	["technique-raden"]=11,
-	["tectros-pagle"]=61,
+	["tectros-pagle"]=60,
 	["tedespinguee-immerseus"]=11,
 	["teejayc-pagle"]=40,
 	["teejizzleqt-pagle"]=11,
@@ -5773,7 +5773,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["clamsslammer-pagle"]=7,
 	["clawingout-pagle"]=6,
 	["clay-raden"]=10,
-	["clayia-raden"]=17,
+	["clayia-raden"]=12,
 	["clayre-raden"]=13,
 	["cleantoilet-benediction"]=17,
 	["clefero-nazgrim"]=13,
@@ -5916,7 +5916,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["daddypompum-raden"]=5,
 	["daemz-pagle"]=16,
 	["daffykinz-pagle"]=24,
-	["daggertwist-raden"]=14,
+	["daggertwist-raden"]=34,
 	["dahkkaun-pagle"]=20,
 	["dailou-grobbulus"]=7,
 	["daiyus-pagle"]=14,
@@ -5973,7 +5973,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dbravo-lei-shen"]=7,
 	["dcbigtime-raden"]=5,
 	["dccb-nazgrim"]=7,
-	["dcstranger-nazgrim"]=1,
+	["dcstranger-nazgrim"]=11,
 	["ddg-raden"]=21,
 	["ddk-pagle"]=6,
 	["deadlifta-pagle"]=6,
@@ -8700,7 +8700,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["retdis-pagle"]=16,
 	["reticence-pagle"]=10,
 	["retmainxd-raden"]=18,
-	["rétpáladin-raden"]=16,
+	["rétpáladin-raden"]=2,
 	["retrostance-galakras"]=2,
 	["rettek-raden"]=8,
 	["revcole-raden"]=9,
@@ -8849,7 +8849,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["sandore-raden"]=7,
 	["sandosa-pagle"]=10,
 	["sanguinärio-pagle"]=12,
-	["sanguinious-lei-shen"]=7,
+	["sanguinious-lei-shen"]=30,
 	["sàngüinius-pagle"]=2,
 	["saphiiry-galakras"]=12,
 	["saplight-galakras"]=0,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5319 characters, read 2026-09-27 02:00 PM.
+-- Region eu, 5319 characters, read 2026-09-27 03:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1797,7 +1797,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["indié-everlook"]=11,
 	["indîe-everlook"]=11,
 	["ineedtopoo-shekzeer"]=10,
-	["ineo-shekzeer"]=10,
+	["ineo-shekzeer"]=11,
 	["inertemplier-shekzeer"]=10,
 	["infection-shekzeer"]=10,
 	["infectiøns-auberdine"]=11,
@@ -4161,7 +4161,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["twarlx-shekzeer"]=11,
 	["twentyøne-shekzeer"]=11,
 	["twentythirty-shekzeer"]=10,
-	["twodeeps-shekzeer"]=10,
+	["twodeeps-shekzeer"]=11,
 	["twovtwoonly-shekzeer"]=51,
 	["tyââ-shekzeer"]=31,
 	["tykkebrian-shekzeer"]=10,
@@ -6143,7 +6143,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["dinhoo-mirage-raceway"]=22,
 	["Ðïønysus-garalon"]=16,
 	["Ðionysus-shekzeer"]=16,
-	["Ðiønysus-shekzeer"]=16,
+	["Ðiønysus-shekzeer"]=13,
 	["Ðîóñýsûs-shekzeer"]=6,
 	["Ðîønysus-shekzeer"]=5,
 	["Ðïonysüs-shekzeer"]=17,
@@ -6962,7 +6962,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["indié-everlook"]=6,
 	["indîe-everlook"]=1,
 	["ineedtopoo-shekzeer"]=15,
-	["ineo-shekzeer"]=15,
+	["ineo-shekzeer"]=5,
 	["inertemplier-shekzeer"]=15,
 	["infection-shekzeer"]=8,
 	["infectiøns-auberdine"]=9,
@@ -8662,7 +8662,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["runnerbait-shekzeer"]=3,
 	["runplz-shekzeer"]=19,
 	["runshisback-shekzeer"]=9,
-	["runshøsløw-shekzeer"]=22,
+	["runshøsløw-shekzeer"]=9,
 	["runshpower-shekzeer"]=16,
 	["runshtraps-shekzeer"]=4,
 	["rushsys-auberdine"]=13,
