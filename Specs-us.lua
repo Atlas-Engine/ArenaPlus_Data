@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5177 characters, read 2026-09-26 08:59 PM.
+-- Region us, 5177 characters, read 2026-09-26 09:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4324,7 +4324,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["teamobaggins-galakras"]=60,
 	["teatable-raden"]=11,
 	["technique-raden"]=11,
-	["tectros-pagle"]=60,
+	["tectros-pagle"]=61,
 	["tedespinguee-immerseus"]=11,
 	["teejayc-pagle"]=40,
 	["teejizzleqt-pagle"]=11,
@@ -5683,7 +5683,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["cartiermw-raden"]=4,
 	["casaamigos-pagle"]=9,
 	["cashpoorxlm-raden"]=14,
-	["câtâclysm-nazgrim"]=24,
+	["câtâclysm-nazgrim"]=28,
 	["catafracta-pagle"]=7,
 	["catcalling-pagle"]=18,
 	["câtchthïs-raden"]=3,
@@ -6730,7 +6730,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["gloptoppomus-raden"]=7,
 	["gloriosas-raden"]=7,
 	["gnarlyknight-pagle"]=16,
-	["gnarlyshotz-pagle"]=20,
+	["gnarlyshotz-pagle"]=18,
 	["gnomeßeater-pagle"]=4,
 	["gnomshooter-pagle"]=18,
 	["gøàtbrádlëê-raden"]=2,
@@ -7348,7 +7348,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["kárin-nazgrim"]=9,
 	["karlmarxpunk-pagle"]=7,
 	["karolinna-raden"]=9,
-	["kartika-raden"]=18,
+	["kartika-raden"]=20,
 	["kaskudo-nazgrim"]=23,
 	["kasmein-pagle"]=18,
 	["katacaine-pagle"]=18,
