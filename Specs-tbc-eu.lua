@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 10026 characters, read 2026-09-27 12:59 AM.
+-- Region tbc-eu, 10026 characters, read 2026-09-27 01:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10160,7 +10160,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["alpacinó-spineshatter"]=3,
 	["alpak-thunderstrike"]=11,
 	["alpesikecske-spineshatter"]=2,
-	["alphagichter-spineshatter"]=5,
+	["alphagichter-spineshatter"]=22,
 	["alphagooner-spineshatter"]=9,
 	["alphakin-spineshatter"]=3,
 	["alphaprime-spineshatter"]=0,
@@ -11843,7 +11843,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["dedecor-thunderstrike"]=2,
 	["dedrutt-spineshatter"]=1,
 	["dee-spineshatter"]=13,
-	["deeper-spineshatter"]=5,
+	["deeper-spineshatter"]=15,
 	["deepesh-spineshatter"]=2,
 	["deepmindai-spineshatter"]=9,
 	["deeqh-spineshatter"]=2,
@@ -13794,7 +13794,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["incredioh-spineshatter"]=11,
 	["indicator-spineshatter"]=2,
 	["indieqtfu-spineshatter"]=15,
-	["indigna-thunderstrike"]=9,
+	["indigna-thunderstrike"]=4,
 	["indisiouscat-spineshatter"]=1,
 	["indubitably-spineshatter"]=3,
 	["inetherox-spineshatter"]=3,
@@ -14438,7 +14438,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["kindq-spineshatter"]=9,
 	["kindqt-spineshatter"]=9,
 	["kindza-spineshatter"]=9,
-	["kìngkong-spineshatter"]=5,
+	["kìngkong-spineshatter"]=15,
 	["kinjara-spineshatter"]=3,
 	["kinkan-spineshatter"]=3,
 	["kinkoy-spineshatter"]=11,
@@ -15947,7 +15947,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["nerval-spineshatter"]=3,
 	["nervéx-spineshatter"]=13,
 	["nervéxshotx-spineshatter"]=25,
-	["nesayalôl-spineshatter"]=2,
+	["nesayalôl-spineshatter"]=17,
 	["nessay-spineshatter"]=19,
 	["nessie-spineshatter"]=5,
 	["nesswho-spineshatter"]=5,
