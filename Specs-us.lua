@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5177 characters, read 2026-09-26 11:59 PM.
+-- Region us, 5177 characters, read 2026-09-27 12:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3950,7 +3950,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["sisterfista-raden"]=11,
 	["sitdog-pagle"]=50,
 	["sithtyshades-galakras"]=51,
-	["síx-nazgrim"]=11,
+	["síx-nazgrim"]=10,
 	["sixmonth-raden"]=41,
 	["sixpathsage-pagle"]=10,
 	["siyxcr-pagle"]=21,
@@ -5415,7 +5415,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["bígmac-pagle"]=12,
 	["bigmageboy-pagle"]=1,
 	["bigmanvan-raden"]=16,
-	["bigoldumb-benediction"]=2,
+	["bigoldumb-benediction"]=16,
 	["bigolefist-pagle"]=10,
 	["bigolfinger-raden"]=9,
 	["bigperk-galakras"]=7,
@@ -7405,7 +7405,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["kilgorë-immerseus"]=19,
 	["killa-grobbulus"]=7,
 	["killa-immerseus"]=16,
-	["killallmages-pagle"]=25,
+	["killallmages-pagle"]=6,
 	["killbeer-pagle"]=2,
 	["killcommande-pagle"]=18,
 	["killdaspliff-pagle"]=22,
@@ -8311,7 +8311,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["orbs-arugal-au"]=0,
 	["orbscripter-pagle"]=4,
 	["orcsamabin-pagle"]=15,
-	["orcz-pagle"]=23,
+	["orcz-pagle"]=7,
 	["ordanary-pagle"]=4,
 	["ordinary-galakras"]=5,
 	["orgian-pagle"]=5,
@@ -9615,7 +9615,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["touchofdiddy-raden"]=4,
 	["toughstuff-raden"]=0,
 	["towjam-nazgrim"]=19,
-	["tøxic-nazgrim"]=34,
+	["tøxic-nazgrim"]=14,
 	["tóxica-pagle"]=34,
 	["toxiciguana-pagle"]=29,
 	["toxyc-galakras"]=21,
