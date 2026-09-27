@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9614 characters, read 2026-09-27 12:58 PM.
+-- Region tbc-us, 9614 characters, read 2026-09-27 01:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -13165,7 +13165,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["hitchy-nightslayer"]=5,
 	["hitmasterx-nightslayer"]=7,
 	["hitmonlee-dreamscythe"]=2,
-	["hittenalot-dreamscythe"]=20,
+	["hittenalot-dreamscythe"]=2,
 	["hixxak-nightslayer"]=18,
 	["hiyoo-dreamscythe"]=2,
 	["hizzy-dreamscythe"]=5,
@@ -15048,7 +15048,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["mowald-dreamscythe"]=1,
 	["möxie-dreamscythe"]=4,
 	["mozartz-nightslayer"]=6,
-	["mpbaldness-dreamscythe"]=18,
+	["mpbaldness-dreamscythe"]=2,
 	["mprst-dreamscythe"]=1,
 	["mssirrobin-nightslayer"]=10,
 	["mßison-nightslayer"]=5,
@@ -15592,7 +15592,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["orgroxx-nightslayer"]=18,
 	["orkbar-nightslayer"]=17,
 	["orlandodoomz-nightslayer"]=15,
-	["oroszlan-nightslayer"]=2,
+	["oroszlan-nightslayer"]=20,
 	["orphancriplr-nightslayer"]=2,
 	["orsa-nightslayer"]=3,
 	["osobob-nightslayer"]=3,
@@ -17372,7 +17372,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["speedster-nightslayer"]=18,
 	["sphinxyo-nightslayer"]=5,
 	["spicelord-nightslayer"]=4,
-	["spicyarmpits-dreamscythe"]=12,
+	["spicyarmpits-dreamscythe"]=1,
 	["spicycarp-nightslayer"]=3,
 	["spicypasta-dreamscythe"]=7,
 	["spiffaru-nightslayer"]=7,
@@ -17794,7 +17794,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["tempoxo-nightslayer"]=5,
 	["temptx-nightslayer"]=1,
 	["tempurasushi-nightslayer"]=6,
-	["tempurd-nightslayer"]=4,
+	["tempurd-nightslayer"]=6,
 	["tenderpokes-nightslayer"]=8,
 	["tenetd-dreamscythe"]=22,
 	["tenforks-nightslayer"]=5,
@@ -18863,7 +18863,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["xzanelol-nightslayer"]=24,
 	["xzmd-nightslayer"]=5,
 	["xzvcat-nightslayer"]=2,
-	["xzvcatt-nightslayer"]=23,
+	["xzvcatt-nightslayer"]=13,
 	["yaacob-nightslayer"]=7,
 	["yagsimac-nightslayer"]=14,
 	["yahaha-nightslayer"]=5,
