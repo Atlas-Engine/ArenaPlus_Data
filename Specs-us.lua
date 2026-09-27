@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5177 characters, read 2026-09-26 07:59 PM.
+-- Region us, 5177 characters, read 2026-09-26 08:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2208,7 +2208,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["jetleelol-pagle"]=10,
 	["jetwing-pagle"]=11,
 	["jhussethy-raden"]=250,
-	["jimin-raden"]=111,
+	["jimin-raden"]=31,
 	["jimmyjunya-raden"]=10,
 	["jimmyklo-nazgrim"]=11,
 	["jimmyqlo-pagle"]=10,
@@ -5031,7 +5031,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["acx-raden"]=2,
 	["acxblue-raden"]=19,
 	["adamandsteve-immerseus"]=9,
-	["adamwarløck-nazgrim"]=28,
+	["adamwarløck-nazgrim"]=24,
 	["adeathians-lei-shen"]=6,
 	["adepto-pagle"]=7,
 	["adgavert-lei-shen"]=32,
@@ -6206,7 +6206,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["drellus-pagle"]=15,
 	["Ðressrøsa-immerseus"]=10,
 	["drewdipsy-pagle"]=7,
-	["drewleon-pagle"]=17,
+	["drewleon-pagle"]=5,
 	["drewwd-nazgrim"]=5,
 	["dreyad-pagle"]=5,
 	["dreyas-pagle"]=7,
@@ -7885,7 +7885,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["miercy-galakras"]=16,
 	["mightymagus-raden"]=1,
 	["migué-pagle"]=16,
-	["mihal-nazgrim"]=11,
+	["mihal-nazgrim"]=1,
 	["miichael-pagle"]=2,
 	["miintpwnagex-nazgrim"]=18,
 	["mikejan-raden"]=2,
