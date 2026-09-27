@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5321 characters, read 2026-09-27 05:00 AM.
+-- Region eu, 5321 characters, read 2026-09-27 06:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1062,7 +1062,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["dobermãn-shekzeer"]=10,
 	["döberman-shekzeer"]=10,
 	["dobermans-shekzeer"]=10,
-	["Ðoctordeath-shekzeer"]=11,
 	["dog-shekzeer"]=41,
 	["dogdogdog-garalon"]=21,
 	["dogecoinxx-shekzeer"]=11,
@@ -6196,7 +6195,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["dobermãn-shekzeer"]=12,
 	["döberman-shekzeer"]=1,
 	["dobermans-shekzeer"]=6,
-	["Ðoctordeath-shekzeer"]=1,
+	["Ðoctordeath-shekzeer"]=0,
 	["dog-shekzeer"]=11,
 	["dogdogdog-garalon"]=14,
 	["dogecoinxx-shekzeer"]=12,
@@ -7744,7 +7743,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["middlecrew-mirage-raceway"]=4,
 	["midi-shekzeer"]=21,
 	["midia-shekzeer"]=3,
-	["migliore-auberdine"]=14,
+	["migliore-auberdine"]=4,
 	["mihao-everlook"]=3,
 	["miirracle-everlook"]=26,
 	["mikagodx-shekzeer"]=16,
@@ -9673,7 +9672,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["wayla-everlook"]=3,
 	["waylay-shekzeer"]=0,
 	["wazungu-shekzeer"]=8,
-	["wcente-garalon"]=22,
+	["wcente-garalon"]=9,
 	["wdfcrit-garalon"]=19,
 	["wdfcrits-garalon"]=19,
 	["weakaura-shekzeer"]=0,

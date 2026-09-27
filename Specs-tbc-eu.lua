@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 10030 characters, read 2026-09-27 04:59 AM.
+-- Region tbc-eu, 10030 characters, read 2026-09-27 05:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -14404,7 +14404,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["khalié-spineshatter"]=12,
 	["khannitv-spineshatter"]=3,
 	["khazad-spineshatter"]=11,
-	["khazroul-thunderstrike"]=2,
+	["khazroul-thunderstrike"]=8,
 	["khourdqt-spineshatter"]=12,
 	["khourdrix-spineshatter"]=1,
 	["khrynn-spineshatter"]=2,
@@ -15344,7 +15344,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["melissad-spineshatter"]=11,
 	["mellisaxx-spineshatter"]=2,
 	["mèllish-spineshatter"]=5,
-	["melodil-spineshatter"]=13,
+	["melodil-spineshatter"]=18,
 	["meloques-spineshatter"]=2,
 	["meloxd-spineshatter"]=2,
 	["melpomena-spineshatter"]=10,
@@ -16075,7 +16075,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["noemisha-spineshatter"]=11,
 	["noenglish-spineshatter"]=15,
 	["nograta-spineshatter"]=5,
-	["nohandstand-spineshatter"]=25,
+	["nohandstand-spineshatter"]=24,
 	["noidea-spineshatter"]=8,
 	["noiße-spineshatter"]=1,
 	["noitsbecky-spineshatter"]=9,
@@ -17644,7 +17644,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["shadowgoat-spineshatter"]=13,
 	["shadowimp-spineshatter"]=13,
 	["shadowpapa-spineshatter"]=8,
-	["shadowpipa-spineshatter"]=2,
+	["shadowpipa-spineshatter"]=17,
 	["shadowrazz-spineshatter"]=8,
 	["shadowsheza-spineshatter"]=25,
 	["shadowstride-spineshatter"]=24,
@@ -18672,7 +18672,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["theelepels-thunderstrike"]=18,
 	["thefatlock-spineshatter"]=14,
 	["thefist-spineshatter"]=17,
-	["thefruitdude-spineshatter"]=13,
+	["thefruitdude-spineshatter"]=14,
 	["thegreyold-spineshatter"]=5,
 	["thehomeboy-spineshatter"]=2,
 	["thelaflemme-spineshatter"]=23,
@@ -18850,7 +18850,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["tounylol-spineshatter"]=17,
 	["touta-spineshatter"]=4,
 	["tower-spineshatter"]=5,
-	["towhead-spineshatter"]=25,
+	["towhead-spineshatter"]=24,
 	["toxicfluid-spineshatter"]=13,
 	["toxicik-spineshatter"]=24,
 	["toxickn-spineshatter"]=1,
