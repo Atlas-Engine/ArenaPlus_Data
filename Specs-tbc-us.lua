@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9608 characters, read 2026-09-27 06:58 AM.
+-- Region tbc-us, 9608 characters, read 2026-09-27 07:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9997,7 +9997,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["badraztas-nightslayer"]=5,
 	["badßünny-nightslayer"]=8,
 	["badtooglad-nightslayer"]=12,
-	["badzor-nightslayer"]=18,
+	["badzor-nightslayer"]=2,
 	["baekek-nightslayer"]=0,
 	["baekgitae-nightslayer"]=13,
 	["baekma-nightslayer"]=12,
@@ -11997,7 +11997,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["elchingadera-nightslayer"]=10,
 	["elda-nightslayer"]=5,
 	["eldak-dreamscythe"]=1,
-	["eldenblingz-nightslayer"]=1,
+	["eldenblingz-nightslayer"]=12,
 	["elðhim-nightslayer"]=1,
 	["elduelisto-nightslayer"]=4,
 	["eleazhar-nightslayer"]=9,
@@ -12447,7 +12447,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["fokrawr-dreamscythe"]=7,
 	["fonkeyy-nightslayer"]=15,
 	["fonz-nightslayer"]=13,
-	["fonzsham-nightslayer"]=10,
+	["fonzsham-nightslayer"]=19,
 	["fonzyx-nightslayer"]=13,
 	["foofstahz-nightslayer"]=1,
 	["fookler-nightslayer"]=5,
@@ -15144,7 +15144,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["nastynax-nightslayer"]=5,
 	["natelshamann-nightslayer"]=19,
 	["nateurallyop-dreamscythe"]=2,
-	["nathaneil-nightslayer"]=8,
+	["nathaneil-nightslayer"]=5,
 	["natorious-nightslayer"]=7,
 	["nattaleet-nightslayer"]=7,
 	["nattaleetqt-nightslayer"]=2,
@@ -18808,7 +18808,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["xmdz-nightslayer"]=4,
 	["xmo-nightslayer"]=1,
 	["xnm-nightslayer"]=7,
-	["xnn-nightslayer"]=8,
+	["xnn-nightslayer"]=5,
 	["xobmoob-nightslayer"]=24,
 	["xocova-nightslayer"]=5,
 	["xoju-nightslayer"]=22,
