@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5319 characters, read 2026-09-26 07:00 PM.
+-- Region eu, 5319 characters, read 2026-09-26 08:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1593,7 +1593,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["halbelf-ook-ook"]=20,
 	["hâlo-shekzeer"]=41,
 	["halotestin-shekzeer"]=31,
-	["halowar-shekzeer"]=10,
+	["halowar-shekzeer"]=11,
 	["halul-shekzeer"]=11,
 	["hanagata-norushen"]=51,
 	["hanamichi-norushen"]=260,
@@ -5450,7 +5450,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["avenea-shekzeer"]=21,
 	["aviik-norushen"]=22,
 	["awake-shekzeer"]=4,
-	["awoawoawalmx-shekzeer"]=2,
+	["awoawoawalmx-shekzeer"]=10,
 	["awoawoawalwm-shekzeer"]=9,
 	["awuawoawawow-shekzeer"]=2,
 	["axéa-hoptallus"]=1,
@@ -5460,7 +5460,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["ayaya-ook-ook"]=6,
 	["aydan-shekzeer"]=2,
 	["aydedee-garalon"]=20,
-	["ayleena-mirage-raceway"]=7,
+	["ayleena-mirage-raceway"]=6,
 	["ayleenaah-ook-ook"]=8,
 	["ayloupipi-shekzeer"]=2,
 	["ayuaha-shekzeer"]=16,
@@ -5500,7 +5500,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["badmanchazo-garalon"]=0,
 	["badmanchazo-shekzeer"]=0,
 	["badmannersx-shekzeer"]=6,
-	["badtank-garalon"]=30,
+	["badtank-garalon"]=15,
 	["badteam-garalon"]=0,
 	["bãe-shekzeer"]=9,
 	["baejs-shekzeer"]=9,
@@ -8118,7 +8118,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["nøxylol-everlook"]=13,
 	["Ñqqa-shekzeer"]=1,
 	["nrg-shekzeer"]=24,
-	["nsé-garalon"]=5,
+	["nsé-garalon"]=15,
 	["ntbf-shekzeer"]=24,
 	["ntbfq-shekzeer"]=9,
 	["ntxfake-shekzeer"]=11,
@@ -8997,7 +8997,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["soprasa-hoptallus"]=13,
 	["sorcery-shekzeer"]=15,
 	["sørex-shekzeer"]=26,
-	["sosoczka-shekzeer"]=18,
+	["sosoczka-shekzeer"]=1,
 	["sosoo-shekzeer"]=3,
 	["søtek-everlook"]=1,
 	["sottolano-shekzeer"]=1,
@@ -10354,7 +10354,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Седойдед-flamegor"]=8,
 	["Сенжермэн-flamegor"]=34,
 	["Сергейсэр-flamegor"]=2,
-	["Симбикс-flamegor"]=4,
+	["Симбикс-flamegor"]=20,
 	["Симбиш-flamegor"]=26,
 	["Сияниемоё-flamegor"]=22,
 	["Скарадримс-flamegor"]=15,
