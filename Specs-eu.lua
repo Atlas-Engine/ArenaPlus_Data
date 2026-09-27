@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5319 characters, read 2026-09-27 10:00 AM.
+-- Region eu, 5319 characters, read 2026-09-27 11:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2369,7 +2369,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["lunnkka-hoptallus"]=80,
 	["lûrtz-mirage-raceway"]=41,
 	["luxilus-hoptallus"]=10,
-	["luxzys-shekzeer"]=11,
+	["luxzys-shekzeer"]=10,
 	["luzdelunà-hoptallus"]=10,
 	["lvka-shekzeer"]=10,
 	["lxry-shekzeer"]=11,
@@ -3893,7 +3893,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["swpdwxc-shekzeer"]=11,
 	["swpdxl-shekzeer"]=41,
 	["swpx-shekzeer"]=10,
-	["swullzy-shekzeer"]=11,
+	["swullzy-shekzeer"]=10,
 	["sxnto-everlook"]=11,
 	["sydaidisooqa-shekzeer"]=11,
 	["sýgýtt-shekzeer"]=40,
@@ -6421,7 +6421,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["faithful-everlook"]=23,
 	["fakekickqt-everlook"]=5,
 	["fakenurse-shekzeer"]=9,
-	["fakepriest-shekzeer"]=23,
+	["fakepriest-shekzeer"]=28,
 	["fakesofke-shekzeer"]=6,
 	["fakeyøu-shekzeer"]=0,
 	["falkìne-auberdine"]=15,
@@ -8242,7 +8242,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["ozymandiaus-mirage-raceway"]=23,
 	["ozymandius-mirage-raceway"]=20,
 	["ozzyozbarn-shekzeer"]=0,
-	["pachomius-mirage-raceway"]=5,
+	["pachomius-mirage-raceway"]=15,
 	["pagerodzida-norushen"]=4,
 	["pähkinä-hoptallus"]=26,
 	["pakorabani-shekzeer"]=1,
@@ -8615,7 +8615,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["rodnichekx-shekzeer"]=2,
 	["rodnoverny-hoptallus"]=9,
 	["roels-shekzeer"]=2,
-	["ròèls-shekzeer"]=10,
+	["ròèls-shekzeer"]=2,
 	["rofedex-shekzeer"]=15,
 	["roflmaster-shekzeer"]=15,
 	["rofmagex-mirage-raceway"]=10,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5173 characters, read 2026-09-27 09:59 AM.
+-- Region us, 5172 characters, read 2026-09-27 10:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -558,7 +558,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["bonechillerr-pagle"]=10,
 	["bonezap-raden"]=10,
 	["bonitaa-pagle"]=71,
-	["bonkeeh-pagle"]=11,
 	["bonkyoass-pagle"]=21,
 	["bonnith-pagle"]=11,
 	["bonwick-arugal-au"]=81,
@@ -897,6 +896,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["crepes-pagle"]=81,
 	["crepuscolo-pagle"]=101,
 	["crepusculé-pagle"]=101,
+	["crimsonvow-pagle"]=101,
 	["criogenico-immerseus"]=80,
 	["cripton-raden"]=11,
 	["crithub-galakras"]=11,
@@ -5506,7 +5506,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["bonechillerr-pagle"]=11,
 	["bonezap-raden"]=2,
 	["bonitaa-pagle"]=1,
-	["bonkeeh-pagle"]=2,
 	["bonkyoass-pagle"]=7,
 	["bonnith-pagle"]=7,
 	["bonwick-arugal-au"]=21,
@@ -5804,7 +5803,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["codywithak-raden"]=7,
 	["codyxd-pagle"]=16,
 	["coffinrot-pagle"]=1,
-	["cognaccarl-nazgrim"]=0,
 	["cohenx-pagle"]=16,
 	["cohenxx-pagle"]=16,
 	["cojelosuave-pagle"]=2,
@@ -5863,6 +5861,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["crepes-pagle"]=12,
 	["crepuscolo-pagle"]=2,
 	["crepusculé-pagle"]=1,
+	["crimsonvow-pagle"]=2,
 	["criogenico-immerseus"]=1,
 	["cripton-raden"]=1,
 	["crithub-galakras"]=11,
@@ -6536,7 +6535,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["flowpal-pagle"]=2,
 	["flubbynubs-raden"]=26,
 	["flyingnite-pagle"]=16,
-	["flynn-nazgrim"]=4,
+	["flynn-nazgrim"]=10,
 	["fngrplay-galakras"]=5,
 	["fogoflife-pagle"]=13,
 	["foldedsocks-raden"]=2,
@@ -6893,7 +6892,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["heihaheiha-raden"]=10,
 	["heilsatan-galakras"]=9,
 	["heldervince-nazgrim"]=16,
-	["heliio-nazgrim"]=10,
+	["heliio-nazgrim"]=4,
 	["heliós-nazgrim"]=2,
 	["hellhills-pagle"]=3,
 	["hellrïser-raden"]=1,
