@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5315 characters, read 2026-09-27 04:00 PM.
+-- Region eu, 5315 characters, read 2026-09-27 05:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5838,7 +5838,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["chalecos-shekzeer"]=3,
 	["chamonix-norushen"]=12,
 	["champiion-mirage-raceway"]=1,
-	["chandlerbing-shekzeer"]=24,
+	["chandlerbing-shekzeer"]=26,
 	["chaosfaktor-everlook"]=18,
 	["chaoslol-everlook"]=9,
 	["chaostic-shekzeer"]=0,
@@ -6911,7 +6911,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["iamsmeagol-hoptallus"]=17,
 	["iamyzis-mirage-raceway"]=13,
 	["ibiza-mirage-raceway"]=1,
-	["icanfly-everlook"]=25,
+	["icanfly-everlook"]=1,
 	["icantplay-shekzeer"]=1,
 	["icantrap-shekzeer"]=4,
 	["ice-hoptallus"]=5,
@@ -6954,7 +6954,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["inchépakwa-auberdine"]=15,
 	["inchépakwaa-auberdine"]=5,
 	["incørrigible-auberdine"]=1,
-	["incrøyables-auberdine"]=13,
+	["incrøyables-auberdine"]=16,
 	["indark-everlook"]=34,
 	["indié-everlook"]=6,
 	["indîe-everlook"]=1,
@@ -7216,7 +7216,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["kechbatron-norushen"]=1,
 	["kegrolls-shekzeer"]=7,
 	["kegusto-everlook"]=28,
-	["keijo-shekzeer"]=7,
+	["keijo-shekzeer"]=6,
 	["kekobij-shekzeer"]=12,
 	["keksy-shekzeer"]=0,
 	["keksyoq-everlook"]=24,
@@ -8238,7 +8238,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["ozymandiaus-mirage-raceway"]=23,
 	["ozymandius-mirage-raceway"]=20,
 	["ozzyozbarn-shekzeer"]=0,
-	["pachomius-mirage-raceway"]=15,
+	["pachomius-mirage-raceway"]=5,
 	["pagerodzida-norushen"]=4,
 	["pähkinä-hoptallus"]=26,
 	["pakorabani-shekzeer"]=1,
@@ -9492,7 +9492,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["uraltersack-shekzeer"]=25,
 	["urnightmare-shekzeer"]=7,
 	["urssaf-shekzeer"]=6,
-	["usualsuspect-shekzeer"]=4,
+	["usualsuspect-shekzeer"]=20,
 	["utherfather-shekzeer"]=30,
 	["uu-shekzeer"]=7,
 	["uusimene-shekzeer"]=19,
@@ -9890,7 +9890,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["yxan-norushen"]=25,
 	["yzagûy-auberdine"]=15,
 	["zabava-shekzeer"]=0,
-	["zaelita-shekzeer"]=3,
+	["zaelita-shekzeer"]=11,
 	["zaelitwo-shekzeer"]=11,
 	["zaelori-shekzeer"]=26,
 	["zagrox-everlook"]=33,

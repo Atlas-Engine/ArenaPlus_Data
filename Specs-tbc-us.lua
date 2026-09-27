@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9614 characters, read 2026-09-27 03:58 PM.
+-- Region tbc-us, 9614 characters, read 2026-09-27 04:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10980,7 +10980,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["churchie-nightslayer"]=15,
 	["chuugora-nightslayer"]=2,
 	["chuyuh-nightslayer"]=2,
-	["chuyuhm-nightslayer"]=6,
+	["chuyuhm-nightslayer"]=4,
 	["chuyuhs-nightslayer"]=10,
 	["chyeabroni-nightslayer"]=4,
 	["chzzss-nightslayer"]=5,
@@ -12970,7 +12970,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["haao-nightslayer"]=10,
 	["haard-nightslayer"]=10,
 	["haarsm-nightslayer"]=6,
-	["haarsmage-nightslayer"]=6,
+	["haarsmage-nightslayer"]=4,
 	["haarspal-nightslayer"]=9,
 	["habbibss-nightslayer"]=5,
 	["haboheals-dreamscythe"]=1,
@@ -13071,7 +13071,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["healzlol-dreamscythe"]=14,
 	["heartwork-nightslayer"]=4,
 	["heaters-dreamscythe"]=18,
-	["heatrash-nightslayer"]=4,
+	["heatrash-nightslayer"]=6,
 	["heatscores-nightslayer"]=5,
 	["heatscorex-nightslayer"]=2,
 	["heavenleiigh-dreamscythe"]=13,
@@ -13695,7 +13695,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["jmohh-nightslayer"]=2,
 	["jmop-nightslayer"]=9,
 	["jn-nightslayer"]=5,
-	["jøannadark-nightslayer"]=13,
+	["jøannadark-nightslayer"]=23,
 	["joapydoapydo-nightslayer"]=16,
 	["joaquinb-nightslayer"]=7,
 	["jodda-nightslayer"]=1,
@@ -14748,7 +14748,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["meloxicamm-nightslayer"]=1,
 	["meltore-nightslayer"]=13,
 	["melvus-nightslayer"]=12,
-	["memashu-nightslayer"]=11,
+	["memashu-nightslayer"]=9,
 	["memecloth-dreamscythe"]=1,
 	["memegodz-nightslayer"]=1,
 	["memer-nightslayer"]=2,
@@ -15590,7 +15590,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["orëo-dreamscythe"]=15,
 	["orgroxx-nightslayer"]=18,
 	["orkbar-nightslayer"]=17,
-	["orlandodoomz-nightslayer"]=15,
+	["orlandodoomz-nightslayer"]=21,
 	["oroszlan-nightslayer"]=20,
 	["orphancriplr-nightslayer"]=2,
 	["orsa-nightslayer"]=3,
@@ -16149,7 +16149,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["raasclaa-nightslayer"]=1,
 	["raazor-nightslayer"]=2,
 	["raazorcr-nightslayer"]=2,
-	["rabbii-nightslayer"]=6,
+	["rabbii-nightslayer"]=4,
 	["rabear-nightslayer"]=7,
 	["rabishmuley-nightslayer"]=19,
 	["raboute-nightslayer"]=18,
@@ -16399,7 +16399,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["richcaine-nightslayer"]=4,
 	["richiecaine-nightslayer"]=20,
 	["richiepz-nightslayer"]=1,
-	["richoffbtc-nightslayer"]=24,
+	["richoffbtc-nightslayer"]=10,
 	["richoffeth-nightslayer"]=16,
 	["richphobic-nightslayer"]=4,
 	["richtwo-nightslayer"]=3,
