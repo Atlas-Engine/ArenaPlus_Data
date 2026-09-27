@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9614 characters, read 2026-09-27 04:58 PM.
+-- Region tbc-us, 9614 characters, read 2026-09-27 05:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9941,7 +9941,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["autopilot-nightslayer"]=11,
 	["autopilotqt-nightslayer"]=11,
 	["auvon-dreamscythe"]=2,
-	["avalos-nightslayer"]=13,
+	["avalos-nightslayer"]=16,
 	["avannah-nightslayer"]=3,
 	["avarixx-nightslayer"]=4,
 	["avasst-nightslayer"]=1,
@@ -10588,7 +10588,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["brotherboris-dreamscythe"]=23,
 	["brotherßear-nightslayer"]=7,
 	["brovas-nightslayer"]=4,
-	["brownmike-nightslayer"]=18,
+	["brownmike-nightslayer"]=2,
 	["brownpae-nightslayer"]=0,
 	["broxie-nightslayer"]=3,
 	["broxyxdd-nightslayer"]=3,
@@ -11196,7 +11196,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["crcrcrcrcrcr-nightslayer"]=12,
 	["cream-nightslayer"]=4,
 	["creamtotes-nightslayer"]=24,
-	["creation-nightslayer"]=6,
+	["creation-nightslayer"]=4,
 	["creationlawl-nightslayer"]=7,
 	["creationw-nightslayer"]=2,
 	["creationx-nightslayer"]=7,
@@ -11782,7 +11782,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["dranly-nightslayer"]=2,
 	["Ðråter-nightslayer"]=2,
 	["draterogib-nightslayer"]=19,
-	["drawnout-nightslayer"]=8,
+	["drawnout-nightslayer"]=5,
 	["drbeartotems-nightslayer"]=19,
 	["drbigpickle-nightslayer"]=1,
 	["drbim-nightslayer"]=0,
@@ -13519,7 +13519,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["istg-nightslayer"]=5,
 	["isuckatshard-nightslayer"]=12,
 	["itchyholezx-nightslayer"]=5,
-	["ithrowbolts-dreamscythe"]=16,
+	["ithrowbolts-dreamscythe"]=13,
 	["itofu-nightslayer"]=5,
 	["itsacookout-nightslayer"]=5,
 	["itsintuitive-dreamscythe"]=2,
@@ -14116,7 +14116,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["kungol-dreamscythe"]=11,
 	["kungyl-dreamscythe"]=1,
 	["kurbstompaa-nightslayer"]=13,
-	["kurbstompin-nightslayer"]=5,
+	["kurbstompin-nightslayer"]=8,
 	["kurbstomprar-nightslayer"]=1,
 	["kurbstompsha-nightslayer"]=10,
 	["kurel-dreamscythe"]=1,
@@ -14186,7 +14186,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["latinos-nightslayer"]=2,
 	["lattehealz-nightslayer"]=1,
 	["launched-nightslayer"]=9,
-	["lauryanne-nightslayer"]=12,
+	["lauryanne-nightslayer"]=1,
 	["lavacake-nightslayer"]=3,
 	["lavoy-nightslayer"]=5,
 	["lawldots-dreamscythe"]=13,
@@ -14762,7 +14762,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["menswear-nightslayer"]=4,
 	["mentosxp-nightslayer"]=14,
 	["meowbruh-nightslayer"]=5,
-	["méowcules-dreamscythe"]=18,
+	["méowcules-dreamscythe"]=2,
 	["meowformomy-nightslayer"]=19,
 	["meowingtonz-nightslayer"]=7,
 	["meowoowa-nightslayer"]=7,

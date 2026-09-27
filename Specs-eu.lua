@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5315 characters, read 2026-09-27 05:00 PM.
+-- Region eu, 5315 characters, read 2026-09-27 06:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3814,7 +3814,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["strangulol-ook-ook"]=20,
 	["straviouse-hoptallus"]=10,
 	["strick-norushen"]=21,
-	["strikex-shekzeer"]=20,
+	["strikex-shekzeer"]=21,
 	["strikexo-shekzeer"]=11,
 	["strip-mirage-raceway"]=10,
 	["striva-mirage-raceway"]=111,
@@ -4661,7 +4661,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["zinouaflic-shekzeer"]=11,
 	["zipfe-everlook"]=41,
 	["zipzipzapzap-shekzeer"]=10,
-	["zïpzïpzåpzåp-shekzeer"]=11,
+	["zïpzïpzåpzåp-shekzeer"]=10,
 	["zirfar-shekzeer"]=10,
 	["zivojin-mirage-raceway"]=11,
 	["zizmo-shekzeer"]=81,
@@ -9099,7 +9099,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["sukí-shekzeer"]=3,
 	["sukio-shekzeer"]=22,
 	["sumers-garalon"]=3,
-	["summercoin-shekzeer"]=22,
+	["summercoin-shekzeer"]=12,
 	["summerßreeze-auberdine"]=13,
 	["sumo-norushen"]=1,
 	["sumtinrother-shekzeer"]=5,
@@ -10079,7 +10079,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Брислок-flamegor"]=17,
 	["Бритлберри-flamegor"]=2,
 	["Будрык-flamegor"]=21,
-	["Будрыкк-flamegor"]=4,
+	["Будрыкк-flamegor"]=20,
 	["Буревестъник-flamegor"]=13,
 	["Бурительдна-flamegor"]=16,
 	["Бурстанутый-flamegor"]=31,
