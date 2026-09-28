@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9982 characters, read 2026-09-27 09:59 PM.
+-- Region tbc-eu, 9982 characters, read 2026-09-27 10:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -14183,7 +14183,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["kalathea-spineshatter"]=2,
 	["kalimar-thunderstrike"]=3,
 	["kalimbaa-spineshatter"]=9,
-	["kalimbo-spineshatter"]=4,
+	["kalimbo-spineshatter"]=9,
 	["kalith-spineshatter"]=1,
 	["kallbärs-spineshatter"]=3,
 	["kallemera-spineshatter"]=7,
@@ -15984,7 +15984,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["nocihp-spineshatter"]=13,
 	["noctaly-spineshatter"]=10,
 	["noctalz-spineshatter"]=11,
-	["nocthornal-spineshatter"]=1,
+	["nocthornal-spineshatter"]=6,
 	["noctium-spineshatter"]=25,
 	["nodee-spineshatter"]=3,
 	["noemah-spineshatter"]=13,
@@ -18733,7 +18733,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["toscane-spineshatter"]=12,
 	["tøtalschaden-spineshatter"]=9,
 	["totembøy-thunderstrike"]=23,
-	["totembrud-spineshatter"]=11,
+	["totembrud-spineshatter"]=12,
 	["totemgap-spineshatter"]=12,
 	["totemgodxd-spineshatter"]=11,
 	["totemgreta-spineshatter"]=11,
