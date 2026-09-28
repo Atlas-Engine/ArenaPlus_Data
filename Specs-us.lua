@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5179 characters, read 2026-09-28 09:59 AM.
+-- Region us, 5178 characters, read 2026-09-28 10:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -288,7 +288,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["atowel-galakras"]=50,
 	["atrâyu-pagle"]=100,
 	["atreyuz-galakras"]=20,
-	["Åuditore-raden"]=10,
 	["augsburg-pagle"]=51,
 	["aurasmith-raden"]=10,
 	["aureate-raden"]=11,
@@ -5226,7 +5225,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["atowel-galakras"]=13,
 	["atrâyu-pagle"]=16,
 	["atreyuz-galakras"]=7,
-	["Åuditore-raden"]=10,
 	["augsburg-pagle"]=4,
 	["aurasmith-raden"]=16,
 	["aureate-raden"]=2,
@@ -6713,7 +6711,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["gkazz-lei-shen"]=15,
 	["gläcer-raden"]=1,
 	["glacior-pagle"]=1,
-	["glafira-raden"]=7,
+	["glafira-raden"]=23,
 	["glaggy-galakras"]=3,
 	["glas-raden"]=21,
 	["glasstoker-pagle"]=17,
@@ -6862,7 +6860,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["harókz-raden"]=25,
 	["haroldpugh-raden"]=3,
 	["harrick-immerseus"]=34,
-	["härrick-immerseus"]=20,
+	["härrick-immerseus"]=3,
 	["harrydotter-raden"]=28,
 	["haruchann-pagle"]=10,
 	["hashie-pagle"]=12,
@@ -7140,7 +7138,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["inperitus-arugal-au"]=15,
 	["insomniaxx-pagle"]=14,
 	["instantcarry-raden"]=10,
-	["integrityqt-pagle"]=9,
+	["integrityqt-pagle"]=21,
 	["intercepts-pagle"]=7,
 	["intrerri-pagle"]=34,
 	["intru-raden"]=3,
@@ -8007,7 +8005,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["msnurfme-raden"]=5,
 	["msr-galakras"]=3,
 	["mtj-atiesh"]=17,
-	["mufasaz-pagle"]=27,
+	["mufasaz-pagle"]=10,
 	["muffìn-raden"]=7,
 	["mugroso-galakras"]=18,
 	["mulban-pagle"]=14,
@@ -8150,9 +8148,9 @@ ns.SPECS_BY_REGION["us"] = {
 	["nik-galakras"]=0,
 	["niklauss-bloodsail-buccaneers"]=14,
 	["niköl-pagle"]=7,
-	["nikotina-galakras"]=14,
+	["nikotina-galakras"]=29,
 	["nili-pagle"]=28,
-	["nilio-raden"]=1,
+	["nilio-raden"]=31,
 	["nìlla-pagle"]=1,
 	["nimíx-pagle"]=6,
 	["ninedeep-pagle"]=7,
