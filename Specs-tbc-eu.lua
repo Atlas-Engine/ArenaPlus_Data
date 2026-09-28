@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9982 characters, read 2026-09-28 03:54 AM.
+-- Region tbc-eu, 9982 characters, read 2026-09-28 04:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11820,7 +11820,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["deltablades-spineshatter"]=3,
 	["demdemdeli-spineshatter"]=9,
 	["demensramt-spineshatter"]=7,
-	["demetsky-spineshatter"]=7,
+	["demetsky-spineshatter"]=26,
 	["demonalgy-spineshatter"]=18,
 	["demoncasá-spineshatter"]=5,
 	["demoniica-spineshatter"]=13,
@@ -12727,7 +12727,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["fifouladine-spineshatter"]=7,
 	["fifteencenti-spineshatter"]=2,
 	["fifteencentt-spineshatter"]=2,
-	["fifteencentv-spineshatter"]=5,
+	["fifteencentv-spineshatter"]=15,
 	["fíftycent-spineshatter"]=2,
 	["fiftykal-spineshatter"]=25,
 	["fiftysven-spineshatter"]=0,
@@ -16174,7 +16174,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["onehpbtw-spineshatter"]=2,
 	["onelight-spineshatter"]=11,
 	["onemoretïme-spineshatter"]=11,
-	["oneofive-spineshatter"]=2,
+	["oneofive-spineshatter"]=17,
 	["onepangu-spineshatter"]=9,
 	["oneprayer-spineshatter"]=2,
 	["onery-thunderstrike"]=5,
@@ -17051,7 +17051,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["retti-spineshatter"]=7,
 	["retzue-spineshatter"]=7,
 	["revelia-spineshatter"]=7,
-	["reviam-thunderstrike"]=19,
+	["reviam-thunderstrike"]=3,
 	["revien-spineshatter"]=2,
 	["revieñ-spineshatter"]=1,
 	["revinder-spineshatter"]=2,

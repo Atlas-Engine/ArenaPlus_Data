@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5179 characters, read 2026-09-28 03:59 AM.
+-- Region us, 5179 characters, read 2026-09-28 04:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7095,7 +7095,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["illidingus-nazgrim"]=2,
 	["ilnicoll-pagle"]=2,
 	["ilockedyouup-pagle"]=24,
-	["ilockthis-galakras"]=28,
+	["ilockthis-galakras"]=8,
 	["ilpeguerosll-pagle"]=1,
 	["ilpilgrim-raden"]=7,
 	["iluvheffers-pagle"]=16,
@@ -7613,7 +7613,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["limpzr-pagle"]=14,
 	["linares-lei-shen"]=24,
 	["linaress-lei-shen"]=16,
-	["linearly-pagle"]=22,
+	["linearly-pagle"]=19,
 	["linktrol-pagle"]=18,
 	["linnker-pagle"]=9,
 	["lionner-lei-shen"]=10,
@@ -7691,11 +7691,11 @@ ns.SPECS_BY_REGION["us"] = {
 	["lumantho-pagle"]=7,
 	["lumanwarx-pagle"]=7,
 	["lumapal-pagle"]=16,
-	["luminarìa-pagle"]=2,
+	["luminarìa-pagle"]=16,
 	["lumineth-pagle"]=9,
 	["lunchmeat-nazgrim"]=0,
 	["lunishamtwo-raden"]=0,
-	["lunpi-raden"]=4,
+	["lunpi-raden"]=27,
 	["lusts-raden"]=10,
 	["luum-raden"]=5,
 	["luuvmuscle-galakras"]=1,
