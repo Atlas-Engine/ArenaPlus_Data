@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9982 characters, read 2026-09-28 07:59 AM.
+-- Region tbc-eu, 9982 characters, read 2026-09-28 08:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11553,7 +11553,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["crispyzag-thunderstrike"]=11,
 	["critagain-spineshatter"]=4,
 	["critrightnow-spineshatter"]=23,
-	["críttycat-spineshatter"]=1,
+	["críttycat-spineshatter"]=6,
 	["critzá-spineshatter"]=23,
 	["critzo-spineshatter"]=11,
 	["crmzn-spineshatter"]=5,
@@ -12060,7 +12060,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["dooah-spineshatter"]=5,
 	["doób-spineshatter"]=1,
 	["doohand-spineshatter"]=17,
-	["doomlancer-spineshatter"]=9,
+	["doomlancer-spineshatter"]=4,
 	["doomnezeu-spineshatter"]=25,
 	["doomonly-spineshatter"]=13,
 	["døømslâyér-spineshatter"]=15,
@@ -12579,7 +12579,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["exycosa-spineshatter"]=5,
 	["eydh-spineshatter"]=3,
 	["eydrah-thunderstrike"]=3,
-	["eyebreaker-spineshatter"]=5,
+	["eyebreaker-spineshatter"]=15,
 	["eyelessqt-spineshatter"]=3,
 	["eyonw-spineshatter"]=5,
 	["eyta-spineshatter"]=3,
@@ -14127,7 +14127,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["justaduck-spineshatter"]=5,
 	["justawarlock-spineshatter"]=13,
 	["justforjoy-spineshatter"]=3,
-	["justhealbro-thunderstrike"]=20,
+	["justhealbro-thunderstrike"]=1,
 	["justiina-spineshatter"]=15,
 	["justlol-spineshatter"]=1,
 	["justniff-spineshatter"]=3,
@@ -16720,7 +16720,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["ptitetana-spineshatter"]=5,
 	["ptksham-spineshatter"]=11,
 	["ptn-spineshatter"]=2,
-	["puddingvendr-spineshatter"]=3,
+	["puddingvendr-spineshatter"]=19,
 	["puffdaddyog-spineshatter"]=2,
 	["puffpuffzaa-spineshatter"]=6,
 	["puhex-spineshatter"]=2,
@@ -17236,7 +17236,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["royaltée-spineshatter"]=9,
 	["rozbushaka-spineshatter"]=5,
 	["rozma-spineshatter"]=5,
-	["rph-spineshatter"]=13,
+	["rph-spineshatter"]=18,
 	["rrecklessz-spineshatter"]=8,
 	["rrozkrusz-spineshatter"]=24,
 	["rspqt-spineshatter"]=3,
