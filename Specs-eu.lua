@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5317 characters, read 2026-09-28 11:00 AM.
+-- Region eu, 5317 characters, read 2026-09-28 12:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1615,7 +1615,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["hasuni-shekzeer"]=41,
 	["hasunimi-hoptallus"]=100,
 	["haudruff-mirage-raceway"]=10,
-	["hauq-shekzeer"]=11,
 	["havana-ook-ook"]=21,
 	["havecluelol-shekzeer"]=41,
 	["havnis-garalon"]=41,
@@ -6735,7 +6734,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["hacks-shekzeer"]=2,
 	["hacu-shekzeer"]=4,
 	["hadrius-ook-ook"]=0,
-	["hadudruid-shekzeer"]=21,
+	["hadudruid-shekzeer"]=3,
 	["hadupal-shekzeer"]=30,
 	["hadupriest-shekzeer"]=9,
 	["haduqt-shekzeer"]=9,
@@ -6768,7 +6767,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["hasuni-shekzeer"]=9,
 	["hasunimi-hoptallus"]=31,
 	["haudruff-mirage-raceway"]=1,
-	["hauq-shekzeer"]=6,
+	["hauq-shekzeer"]=0,
 	["havana-ook-ook"]=1,
 	["havecluelol-shekzeer"]=20,
 	["havitýx-shekzeer"]=0,
@@ -6875,7 +6874,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["høpps-norushen"]=9,
 	["hordemaster-shekzeer"]=1,
 	["horderising-shekzeer"]=11,
-	["hordy-shekzeer"]=3,
+	["hordy-shekzeer"]=11,
 	["horrendouss-shekzeer"]=15,
 	["hoses-mirage-raceway"]=13,
 	["hotpoint-shekzeer"]=15,
@@ -8522,7 +8521,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["reflectiøn-shekzeer"]=1,
 	["reflex-shekzeer"]=7,
 	["réfréshér-hoptallus"]=1,
-	["refresherr-hoptallus"]=1,
+	["refresherr-hoptallus"]=25,
 	["reginalds-shekzeer"]=5,
 	["regmonkey-hoptallus"]=4,
 	["regula-shekzeer"]=10,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9589 characters, read 2026-09-28 10:58 AM.
+-- Region tbc-us, 9589 characters, read 2026-09-28 11:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11044,7 +11044,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["cocoplum-nightslayer"]=7,
 	["cocoshift-nightslayer"]=3,
 	["cocvendor-nightslayer"]=6,
-	["codeforfood-nightslayer"]=12,
+	["codeforfood-nightslayer"]=1,
 	["coerce-nightslayer"]=15,
 	["côffee-nightslayer"]=24,
 	["coffeedisc-nightslayer"]=1,
@@ -11139,7 +11139,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["cowthings-nightslayer"]=2,
 	["cowyote-nightslayer"]=10,
 	["cowzgomoo-nightslayer"]=9,
-	["coziliz-nightslayer"]=6,
+	["coziliz-nightslayer"]=4,
 	["cozylizy-nightslayer"]=1,
 	["cozytoes-nightslayer"]=1,
 	["cpc-dreamscythe"]=5,
@@ -17674,7 +17674,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["talkxx-nightslayer"]=3,
 	["talladaga-nightslayer"]=1,
 	["tallborture-nightslayer"]=5,
-	["talond-nightslayer"]=22,
+	["talond-nightslayer"]=7,
 	["tamari-nightslayer"]=1,
 	["tamurax-nightslayer"]=7,
 	["tandabtw-nightslayer"]=15,
@@ -18454,7 +18454,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["vynthos-nightslayer"]=2,
 	["vyserion-nightslayer"]=18,
 	["waas-nightslayer"]=7,
-	["wåãx-nightslayer"]=6,
+	["wåãx-nightslayer"]=4,
 	["wabin-nightslayer"]=25,
 	["wackmid-nightslayer"]=5,
 	["waddamelons-nightslayer"]=4,
@@ -19084,7 +19084,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["zukralol-dreamscythe"]=14,
 	["zulamagic-dreamscythe"]=1,
 	["zulbruh-dreamscythe"]=10,
-	["zulkyx-nightslayer"]=1,
+	["zulkyx-nightslayer"]=14,
 	["zullan-dreamscythe"]=16,
 	["zullia-dreamscythe"]=4,
 	["zumion-nightslayer"]=14,
@@ -19093,7 +19093,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["zurnr-dreamscythe"]=5,
 	["zurta-nightslayer"]=11,
 	["zurtflay-nightslayer"]=1,
-	["zusul-nightslayer"]=10,
+	["zusul-nightslayer"]=24,
 	["zuut-nightslayer"]=10,
 	["zvenx-dreamscythe"]=9,
 	["zvn-dreamscythe"]=5,
@@ -19103,7 +19103,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["zylorae-nightslayer"]=11,
 	["zynandcoffee-nightslayer"]=10,
 	["zynkle-nightslayer"]=15,
-	["zynrelapse-nightslayer"]=13,
+	["zynrelapse-nightslayer"]=16,
 	["zynwithin-nightslayer"]=16,
 	["zynxx-nightslayer"]=14,
 	["zyxxs-dreamscythe"]=19,

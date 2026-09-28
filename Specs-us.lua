@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5178 characters, read 2026-09-28 10:59 AM.
+-- Region us, 5178 characters, read 2026-09-28 11:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6520,7 +6520,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["flashoflight-raden"]=16,
 	["flato-raden"]=18,
 	["flatsixx-pagle"]=11,
-	["flává-raden"]=7,
+	["flává-raden"]=23,
 	["flayzlock-raden"]=24,
 	["flayzr-raden"]=14,
 	["fleshoflight-raden"]=16,
@@ -6546,7 +6546,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["fongula-pagle"]=7,
 	["fontainesdc-arugal-au"]=4,
 	["fooksumbody-pagle"]=13,
-	["forbes-pagle"]=4,
+	["forbes-pagle"]=10,
 	["forecast-pagle"]=1,
 	["forever-pagle"]=21,
 	["forgotoshift-pagle"]=5,
@@ -8558,7 +8558,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["pvpcrazy-raden"]=6,
 	["pyrexa-pagle"]=24,
 	["pyrofrost-nazgrim"]=11,
-	["pzychoze-lei-shen"]=13,
+	["pzychoze-lei-shen"]=21,
 	["qc-pagle"]=24,
 	["qinshihuangt-pagle"]=18,
 	["qjqjsdnltmzl-pagle"]=0,
@@ -9575,7 +9575,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["tigrexwp-raden"]=9,
 	["tikky-raden"]=17,
 	["tiktac-immerseus"]=3,
-	["tilted-galakras"]=23,
+	["tilted-galakras"]=7,
 	["tinysmalldk-raden"]=6,
 	["titanofdeath-galakras"]=6,
 	["tjax-raden"]=9,
