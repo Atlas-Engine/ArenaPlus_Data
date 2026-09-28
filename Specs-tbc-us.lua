@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9601 characters, read 2026-09-28 04:58 AM.
+-- Region tbc-us, 9601 characters, read 2026-09-28 05:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12119,7 +12119,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["eternål-dreamscythe"]=4,
 	["eternityz-dreamscythe"]=4,
 	["etnis-nightslayer"]=24,
-	["etø-nightslayer"]=14,
+	["etø-nightslayer"]=1,
 	["eufy-nightslayer"]=5,
 	["eugoogalizor-nightslayer"]=18,
 	["euneekzsham-dreamscythe"]=10,
@@ -13847,7 +13847,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["karatemom-nightslayer"]=1,
 	["kardiiverous-nightslayer"]=3,
 	["kardiverous-nightslayer"]=4,
-	["kardlonoc-nightslayer"]=18,
+	["kardlonoc-nightslayer"]=2,
 	["karlmaloned-nightslayer"]=5,
 	["karmanjakah-nightslayer"]=22,
 	["karndaddy-nightslayer"]=19,
@@ -17506,7 +17506,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["stokeswf-nightslayer"]=24,
 	["stokeszerk-nightslayer"]=20,
 	["stokex-nightslayer"]=3,
-	["stokez-nightslayer"]=18,
+	["stokez-nightslayer"]=2,
 	["stompzz-nightslayer"]=2,
 	["stonedcop-nightslayer"]=1,
 	["stonedlion-nightslayer"]=10,
@@ -18190,7 +18190,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["tyrantgoose-nightslayer"]=3,
 	["tyrkisovjqt-nightslayer"]=7,
 	["tyrone-nightslayer"]=9,
-	["tyronegorfnd-dreamscythe"]=16,
+	["tyronegorfnd-dreamscythe"]=13,
 	["tyrsqt-nightslayer"]=13,
 	["tzel-nightslayer"]=13,
 	["uak-nightslayer"]=8,

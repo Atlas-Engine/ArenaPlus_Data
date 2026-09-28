@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5179 characters, read 2026-09-28 04:59 AM.
+-- Region us, 5179 characters, read 2026-09-28 05:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7461,7 +7461,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["kratøs-galakras"]=7,
 	["kreanthor-raden"]=25,
 	["kreirianstus-pagle"]=6,
-	["krelana-pagle"]=9,
+	["krelana-pagle"]=21,
 	["kreleda-pagle"]=6,
 	["krico-raden"]=10,
 	["kromdorr-pagle"]=25,
@@ -7482,7 +7482,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["kusamgie-galakras"]=2,
 	["kusheatsleep-raden"]=18,
 	["kushgodx-raden"]=1,
-	["kushh-nazgrim"]=4,
+	["kushh-nazgrim"]=10,
 	["kutless-raden"]=16,
 	["kutthroatt-pagle"]=7,
 	["kutty-nazgrim"]=11,
@@ -7625,13 +7625,13 @@ ns.SPECS_BY_REGION["us"] = {
 	["litmus-pagle"]=7,
 	["litoutz-pagle"]=11,
 	["littheri-pagle"]=17,
-	["littielight-pagle"]=13,
+	["littielight-pagle"]=21,
 	["littlefláme-pagle"]=1,
 	["littlegirl-raden"]=1,
 	["littletinkle-galakras"]=32,
 	["littman-raden"]=29,
 	["litwhit-lei-shen"]=16,
-	["litze-raden"]=32,
+	["litze-raden"]=16,
 	["liusu-pagle"]=5,
 	["liveforeverr-pagle"]=5,
 	["liverr-galakras"]=14,
@@ -9663,7 +9663,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["trojanbubble-pagle"]=2,
 	["trojanbubble-raden"]=2,
 	["trojanphobia-pagle"]=9,
-	["trolled-pagle"]=21,
+	["trolled-pagle"]=13,
 	["trolleroni-galakras"]=7,
 	["trollmaoo-galakras"]=11,
 	["trollnando-immerseus"]=23,
@@ -9686,7 +9686,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["tsukawashime-raden"]=4,
 	["tsunadè-nazgrim"]=9,
 	["ttawdirg-pagle"]=3,
-	["tubalcain-galakras"]=19,
+	["tubalcain-galakras"]=15,
 	["tukko-raden"]=14,
 	["tuladepiedra-pagle"]=7,
 	["tuptuptup-raden"]=25,
