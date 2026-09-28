@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5317 characters, read 2026-09-28 07:00 AM.
+-- Region eu, 5317 characters, read 2026-09-28 08:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7016,7 +7016,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["izuska-shekzeer"]=9,
 	["izyform-shekzeer"]=21,
 	["izyldia-shekzeer"]=4,
-	["Îzzûp-everlook"]=6,
+	["Îzzûp-everlook"]=29,
 	["izzyb-shekzeer"]=1,
 	["jaack-shekzeer"]=9,
 	["jaakùx-shekzeer"]=1,
@@ -9539,7 +9539,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["vaylx-everlook"]=4,
 	["vayn-shekzeer"]=5,
 	["vazir-shekzeer"]=11,
-	["vazyx-shekzeer"]=16,
+	["vazyx-shekzeer"]=13,
 	["vazyxsdad-shekzeer"]=7,
 	["vealis-shekzeer"]=13,
 	["veera-shekzeer"]=26,
@@ -10076,7 +10076,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Бочкасманой-flamegor"]=6,
 	["Бравер-flamegor"]=4,
 	["Бризе-flamegor"]=10,
-	["Бризи-flamegor"]=34,
+	["Бризи-flamegor"]=24,
 	["Бризистарфол-flamegor"]=21,
 	["Бринвуд-flamegor"]=7,
 	["Брислок-flamegor"]=17,
