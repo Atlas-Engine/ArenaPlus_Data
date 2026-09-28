@@ -12,14 +12,14 @@ local ns = ArenaPlusData
 -- Arena title cutoffs, written by tools\UpdateFromBlizzard.ps1 from Blizzard's
 -- own API. Do not edit by hand: rerun the script to refresh.
 --
--- Region us, season 14, cutoffs last changed 2026-09-27 10:18 AM, last checked 2026-09-28 02:59 AM.
+-- Region us, season 14, cutoffs last changed 2026-09-27 10:18 AM, last checked 2026-09-28 03:59 AM.
 ns.CUTOFFS_BY_REGION = ns.CUTOFFS_BY_REGION or {}
 
 ns.CUTOFFS_BY_REGION["us"] = {
 	region  = "us",
 	updated = "2026-09-27 10:18 AM",
-	checked = "2026-09-28 02:59 AM",
-	checkedEpoch = 1790578769,
+	checked = "2026-09-28 03:59 AM",
+	checkedEpoch = 1790582369,
 
 	[1] = { r1=2582, gladiator=2292, duelist=2113, rival=1830, challenger=1091 }, -- 2v2
 	[2] = { r1=2449, gladiator=2002, duelist=1888, rival=1645, challenger=864 }, -- 3v3
