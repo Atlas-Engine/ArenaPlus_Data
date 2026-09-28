@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5319 characters, read 2026-09-27 07:00 PM.
+-- Region eu, 5319 characters, read 2026-09-27 08:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -352,7 +352,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["avenea-shekzeer"]=41,
 	["aviik-norushen"]=91,
 	["awake-shekzeer"]=41,
-	["awoawoawalwm-shekzeer"]=41,
+	["awoawoawalwm-shekzeer"]=40,
 	["awuawoawawow-shekzeer"]=11,
 	["axéa-hoptallus"]=11,
 	["axesaw-norushen"]=20,
@@ -5185,7 +5185,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["adamsecurity-shekzeer"]=9,
 	["adanae-norushen"]=15,
 	["adarä-shekzeer"]=5,
-	["aderallmeta-shekzeer"]=11,
+	["aderallmeta-shekzeer"]=3,
 	["adesanya-shekzeer"]=7,
 	["adimor-mirage-raceway"]=6,
 	["adonix-auberdine"]=8,
@@ -5436,7 +5436,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["attis-norushen"]=14,
 	["augsburg-shekzeer"]=6,
 	["aultrasalt-shekzeer"]=17,
-	["auredian-mirage-raceway"]=5,
+	["auredian-mirage-raceway"]=15,
 	["aureliavid-auberdine"]=3,
 	["auryen-mirage-raceway"]=4,
 	["auslogics-shekzeer"]=2,
@@ -5482,7 +5482,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["azzylûm-auberdine"]=18,
 	["babangida-mirage-raceway"]=4,
 	["babayag-garalon"]=34,
-	["babayagoo-shekzeer"]=1,
+	["babayagoo-shekzeer"]=25,
 	["babexqaqx-shekzeer"]=6,
 	["babooz-shekzeer"]=11,
 	["babulo-shekzeer"]=11,
@@ -8941,7 +8941,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["slimmyboi-norushen"]=20,
 	["slipknota-shekzeer"]=14,
 	["slira-shekzeer"]=3,
-	["slouchmighty-everlook"]=11,
+	["slouchmighty-everlook"]=3,
 	["sløwdownbaby-mirage-raceway"]=20,
 	["slowjamz-everlook"]=20,
 	["smäsch-garalon"]=1,
