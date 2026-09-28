@@ -18,7 +18,7 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region tbc-eu, season 3, read 2026-09-27 11:58 PM.
+-- Region tbc-eu, season 3, read 2026-09-28 12:58 AM.
 -- Realm display names, because the ladder only carries slugs and no rule
 -- turns one back into the other: raden is Ra-den, lei-shen is Lei Shen and
 -- arugal-au is Arugal (AU). Read from Blizzard's realm index; a slug with no
@@ -32,11 +32,11 @@ ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["tbc-eu"] = {
 	region  = "tbc-eu",
-	checked = "2026-09-27 11:58 PM",
-	checkedEpoch = 1790567935,
-	snapshot = "2026-09-28 01:12",
+	checked = "2026-09-28 12:58 AM",
+	checkedEpoch = 1790571535,
+	snapshot = "2026-09-28 04:12",
 
-	[1] = {  -- 2v2, 5009 places, down to rating 1484 -- the API stops here, short of the cutoff
+	[1] = {  -- 2v2, 5008 places, down to rating 1484 -- the API stops here, short of the cutoff
 		{ rank=1, name="Neepzdruid", realm="spineshatter", rating=2545, won=127, lost=64, faction="HORDE", dr=9, dk=0 },
 		{ rank=2, name="Dikzysquad", realm="spineshatter", rating=2544, won=101, lost=44, faction="HORDE", dr=9, dk=0 },
 		{ rank=3, name="Lynewebaro", realm="spineshatter", rating=2539, won=100, lost=16, faction="HORDE", dr=5, dk=0 },
@@ -5026,6 +5026,7 @@ ns.LEADERBOARD_BY_REGION["tbc-eu"] = {
 		{ rank=4986, name="Bearwhale", realm="spineshatter", rating=1723, won=184, lost=198, faction="HORDE", mr=1760 },
 		{ rank=4986, name="Butøx", realm="spineshatter", rating=1723, won=16, lost=4, faction="HORDE", dr=0, dk=116 },
 		{ rank=4986, name="Coalminer", realm="spineshatter", rating=1723, won=29, lost=19, faction="ALLIANCE", dr=0, dk=116 },
+		{ rank=4986, name="Cowrpze", realm="spineshatter", rating=1723, won=332, lost=311, faction="HORDE", mr=1841, dr=-61, dk=1337 },
 		{ rank=4986, name="Dazzdingo", realm="spineshatter", rating=1723, won=16, lost=6, faction="HORDE", dr=0, dk=116 },
 		{ rank=4986, name="Dibu", realm="thunderstrike", rating=1723, won=86, lost=92, faction="ALLIANCE", dr=0, dk=116 },
 		{ rank=4986, name="Eluniqo", realm="spineshatter", rating=1723, won=31, lost=25, faction="ALLIANCE", dr=0, dk=116 },
@@ -5044,8 +5045,6 @@ ns.LEADERBOARD_BY_REGION["tbc-eu"] = {
 		{ rank=4986, name="Sphaxx", realm="thunderstrike", rating=1723, won=46, lost=43, faction="HORDE", dr=0, dk=116 },
 		{ rank=4986, name="Srpskagarda", realm="spineshatter", rating=1723, won=20, lost=17, faction="ALLIANCE", mr=1740, dr=0, dk=116 },
 		{ rank=4986, name="Yaoba", realm="spineshatter", rating=1723, won=55, lost=36, faction="ALLIANCE", mr=1732, dr=0, dk=116 },
-		{ rank=5008, name="Mmrgiver", realm="spineshatter", rating=1719, won=16, lost=10, faction="ALLIANCE", mr=1744 },
-		{ rank=5009, name="Grosbraas", realm="spineshatter", rating=1718, won=138, lost=110, faction="ALLIANCE", mr=1735 },
 	},
 	[2] = {  -- 3v3, 5002 places, down to rating 1500 -- the API stops here, short of the cutoff
 		{ rank=1, name="Aegïs", realm="spineshatter", rating=2465, won=193, lost=88, faction="ALLIANCE", dr=15, dk=0 },

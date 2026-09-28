@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5172 characters, read 2026-09-27 11:59 PM.
+-- Region us, 5172 characters, read 2026-09-28 12:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6534,7 +6534,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["flowpal-pagle"]=2,
 	["flubbynubs-raden"]=26,
 	["flyingnite-pagle"]=16,
-	["flynn-nazgrim"]=10,
+	["flynn-nazgrim"]=4,
 	["fngrplay-galakras"]=5,
 	["fogoflife-pagle"]=13,
 	["foldedsocks-raden"]=2,
@@ -6622,7 +6622,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["gaisêric-pagle"]=7,
 	["galactus-arugal-au"]=1,
 	["galaxysbtw-raden"]=7,
-	["galekk-immerseus"]=4,
+	["galekk-immerseus"]=10,
 	["galey-galakras"]=23,
 	["galica-immerseus"]=30,
 	["gallagher-raden"]=1,
@@ -7429,10 +7429,10 @@ ns.SPECS_BY_REGION["us"] = {
 	["klenzen-raden"]=10,
 	["klept-raden"]=4,
 	["knottypawz-pagle"]=17,
-	["knuckles-pagle"]=23,
+	["knuckles-pagle"]=7,
 	["knucklès-pagle"]=2,
 	["knûckles-pagle"]=17,
-	["kñuckles-pagle"]=26,
+	["kñuckles-pagle"]=6,
 	["knuklefkr-nazgrim"]=24,
 	["kokuzin-pagle"]=7,
 	["kolokk-immerseus"]=26,
@@ -7573,7 +7573,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["lifely-raden"]=10,
 	["lifesavérs-pagle"]=21,
 	["lighi-raden"]=3,
-	["lightenforge-pagle"]=16,
+	["lightenforge-pagle"]=2,
 	["lightglare-pagle"]=7,
 	["lighthvalor-lei-shen"]=16,
 	["lightoftrump-pagle"]=2,
@@ -7819,7 +7819,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["meatballgun-lei-shen"]=15,
 	["meätbol-lei-shen"]=17,
 	["meatbolt-raden"]=15,
-	["mecharogue-raden"]=29,
+	["mecharogue-raden"]=14,
 	["meditação-pagle"]=16,
 	["meditated-pagle"]=12,
 	["meditator-pagle"]=5,
@@ -8316,7 +8316,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["outplayedd-pagle"]=14,
 	["outsmart-raden"]=6,
 	["overatedpvp-raden"]=7,
-	["overkilla-galakras"]=3,
+	["overkilla-galakras"]=18,
 	["overmank-raden"]=27,
 	["overqtl-nazgrim"]=16,
 	["overradge-pagle"]=7,
