@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5175 characters, read 2026-09-27 07:59 PM.
+-- Region us, 5175 characters, read 2026-09-27 08:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5039,7 +5039,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["Æçy-raden"]=1,
 	["Æggrophobia-pagle"]=13,
 	["aeliline-pagle"]=0,
-	["aellane-pagle"]=26,
+	["aellane-pagle"]=6,
 	["Ærîthøs-pagle"]=16,
 	["aeroes-pagle"]=3,
 	["aerzkei-arugal-au"]=5,
@@ -5126,7 +5126,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["anakkrakatoa-nazgrim"]=11,
 	["anaksol-pagle"]=11,
 	["analayla-lei-shen"]=0,
-	["anariita-nazgrim"]=3,
+	["anariita-nazgrim"]=20,
 	["anastari-pagle"]=1,
 	["anastasiah-raden"]=24,
 	["anastasiahh-raden"]=21,
@@ -6638,7 +6638,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["gangalee-raden"]=22,
 	["ganggangg-immerseus"]=1,
 	["gangstir-pagle"]=6,
-	["gangzter-lei-shen"]=6,
+	["gangzter-lei-shen"]=26,
 	["gankem-immerseus"]=3,
 	["gankgangg-nazgrim"]=34,
 	["ganksta-pagle"]=25,
@@ -7219,7 +7219,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["jeffrence-pagle"]=16,
 	["jefmago-raden"]=11,
 	["jellierolls-pagle"]=4,
-	["jellytugger-raden"]=8,
+	["jellytugger-raden"]=24,
 	["jërrÿ-galakras"]=20,
 	["jerryjuve-lei-shen"]=5,
 	["jerrymonk-lei-shen"]=4,
