@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5318 characters, read 2026-09-28 06:00 AM.
+-- Region eu, 5317 characters, read 2026-09-28 07:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2631,7 +2631,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["monkedruid-shekzeer"]=220,
 	["monkerino-garalon"]=11,
 	["monkeyah-shekzeer"]=10,
-	["monkeys-shekzeer"]=41,
 	["monkhere-mirage-raceway"]=11,
 	["monkloide-shekzeer"]=11,
 	["monkrus-shekzeer"]=41,
@@ -7836,7 +7835,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["monkedruid-shekzeer"]=3,
 	["monkerino-garalon"]=6,
 	["monkeyah-shekzeer"]=6,
-	["monkeys-shekzeer"]=6,
 	["monkhere-mirage-raceway"]=6,
 	["monkloide-shekzeer"]=6,
 	["monkrus-shekzeer"]=6,
@@ -9580,7 +9578,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["viint-shekzeer"]=31,
 	["vïïnt-shekzeer"]=21,
 	["vilenciaga-shekzeer"]=1,
-	["vindictive-shekzeer"]=6,
+	["vindictive-shekzeer"]=7,
 	["vint-garalon"]=9,
 	["vínt-shekzeer"]=2,
 	["vïnt-shekzeer"]=15,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5179 characters, read 2026-09-28 05:59 AM.
+-- Region us, 5179 characters, read 2026-09-28 06:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9577,7 +9577,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["tigrexwp-raden"]=9,
 	["tikky-raden"]=17,
 	["tiktac-immerseus"]=3,
-	["tilted-galakras"]=7,
+	["tilted-galakras"]=23,
 	["tinysmalldk-raden"]=6,
 	["titanofdeath-galakras"]=6,
 	["tjax-raden"]=9,
@@ -9609,7 +9609,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["torontopally-raden"]=2,
 	["tortaslayer-raden"]=4,
 	["toshyro-nazgrim"]=2,
-	["tosi-pagle"]=10,
+	["tosi-pagle"]=4,
 	["totemhub-galakras"]=15,
 	["totemicoo-nazgrim"]=19,
 	["totemposter-pagle"]=15,
@@ -10024,7 +10024,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["xuvia-pagle"]=21,
 	["xuviâ-pagle"]=18,
 	["xxfa-pagle"]=2,
-	["xxlacrimosa-arugal-au"]=28,
+	["xxlacrimosa-arugal-au"]=8,
 	["xxmunkushizz-nazgrim"]=29,
 	["xylophobia-lei-shen"]=3,
 	["xztdk-raden"]=6,
