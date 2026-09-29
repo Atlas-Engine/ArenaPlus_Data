@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5178 characters, read 2026-09-29 06:59 AM.
+-- Region us, 5178 characters, read 2026-09-29 07:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4285,7 +4285,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["systema-raden"]=10,
 	["systematic-galakras"]=81,
 	["szashagpt-pagle"]=50,
-	["szh-nazgrim"]=10,
+	["szh-nazgrim"]=11,
 	["tachimukai-lei-shen"]=10,
 	["taekwonbow-pagle"]=10,
 	["tahotauren-galakras"]=60,
@@ -7238,7 +7238,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["jetaa-raden"]=4,
 	["jetleelol-pagle"]=10,
 	["jetwing-pagle"]=20,
-	["jhussethy-raden"]=27,
+	["jhussethy-raden"]=10,
 	["jimin-raden"]=19,
 	["jimmyjunya-raden"]=3,
 	["jimmyklo-nazgrim"]=11,
@@ -7248,7 +7248,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["jirensenpai-pagle"]=27,
 	["jïsätg-pagle"]=3,
 	["jivara-pagle"]=2,
-	["jizo-pagle"]=23,
+	["jizo-pagle"]=7,
 	["jjaka-pagle"]=16,
 	["jkae-pagle"]=21,
 	["jkaý-pagle"]=20,
@@ -8965,7 +8965,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["shadowarlock-nazgrim"]=24,
 	["shadowchuckr-nazgrim"]=21,
 	["shadowfroste-lei-shen"]=1,
-	["shadowjacker-pagle"]=9,
+	["shadowjacker-pagle"]=21,
 	["shadowkenja-benediction"]=16,
 	["shadowmends-benediction"]=9,
 	["shadowsige-pagle"]=10,
@@ -9474,7 +9474,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["teamobaggins-galakras"]=12,
 	["teatable-raden"]=1,
 	["technique-raden"]=7,
-	["tectros-pagle"]=7,
+	["tectros-pagle"]=30,
 	["tedespinguee-immerseus"]=4,
 	["teejayc-pagle"]=18,
 	["teejizzleqt-pagle"]=7,
@@ -9495,7 +9495,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["terowyn-pagle"]=16,
 	["tertran-raden"]=7,
 	["tertuhl-raden"]=7,
-	["terzerd-nazgrim"]=10,
+	["terzerd-nazgrim"]=4,
 	["teshsky-pagle"]=28,
 	["testicls-galakras"]=3,
 	["testndbolwar-raden"]=7,

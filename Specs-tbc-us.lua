@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9563 characters, read 2026-09-29 06:58 AM.
+-- Region tbc-us, 9563 characters, read 2026-09-29 07:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10060,7 +10060,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bavitz-dreamscythe"]=5,
 	["baxter-nightslayer"]=2,
 	["baygoners-nightslayer"]=10,
-	["baylers-dreamscythe"]=18,
+	["baylers-dreamscythe"]=2,
 	["bayyn-dreamscythe"]=22,
 	["baziz-nightslayer"]=4,
 	["bazook-nightslayer"]=13,
@@ -11186,7 +11186,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["crumbles-dreamscythe"]=1,
 	["crustygoose-nightslayer"]=1,
 	["cryptbreaker-nightslayer"]=16,
-	["crypticsense-nightslayer"]=8,
+	["crypticsense-nightslayer"]=5,
 	["crysiis-nightslayer"]=19,
 	["crysisx-nightslayer"]=19,
 	["crysugar-nightslayer"]=2,
@@ -12928,7 +12928,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["hairyhuevos-nightslayer"]=1,
 	["haishao-nightslayer"]=11,
 	["haitabao-nightslayer"]=7,
-	["haitama-nightslayer"]=8,
+	["haitama-nightslayer"]=5,
 	["haiyah-nightslayer"]=5,
 	["haiyuri-dreamscythe"]=10,
 	["hakoora-nightslayer"]=2,
@@ -16968,7 +16968,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["sicknature-nightslayer"]=10,
 	["sickô-nightslayer"]=2,
 	["sickrlol-nightslayer"]=1,
-	["sicksadworld-nightslayer"]=2,
+	["sicksadworld-nightslayer"]=18,
 	["sickup-nightslayer"]=13,
 	["sidejuan-nightslayer"]=12,
 	["sidian-nightslayer"]=2,
@@ -17205,7 +17205,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["soakk-dreamscythe"]=5,
 	["sobxrbe-nightslayer"]=5,
 	["soccerdad-nightslayer"]=12,
-	["socialfox-dreamscythe"]=19,
+	["socialfox-dreamscythe"]=10,
 	["sockdru-nightslayer"]=7,
 	["sockta-nightslayer"]=10,
 	["socktap-nightslayer"]=1,
