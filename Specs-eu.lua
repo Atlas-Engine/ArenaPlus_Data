@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5315 characters, read 2026-09-29 01:00 PM.
+-- Region eu, 5315 characters, read 2026-09-29 02:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1396,7 +1396,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["freducator-garalon"]=31,
 	["freedomunit-shekzeer"]=10,
 	["freekchain-mirage-raceway"]=111,
-	["freerating-shekzeer"]=10,
 	["freyâ-shekzeer"]=11,
 	["friederike-ook-ook"]=11,
 	["friedhelm-ook-ook"]=20,
@@ -3416,7 +3415,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["rydothemage-everlook"]=11,
 	["rydothemonk-everlook"]=11,
 	["rydotheret-everlook"]=10,
-	["rydotheroq-everlook"]=11,
+	["rydotheroq-everlook"]=10,
 	["rydothetrap-everlook"]=11,
 	["rydothetwink-everlook"]=41,
 	["rydothewar-everlook"]=11,
@@ -6531,7 +6530,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["freducator-garalon"]=16,
 	["freedomunit-shekzeer"]=8,
 	["freekchain-mirage-raceway"]=16,
-	["freerating-shekzeer"]=6,
+	["freerating-shekzeer"]=0,
 	["freyâ-shekzeer"]=6,
 	["friederike-ook-ook"]=23,
 	["friedhelm-ook-ook"]=4,
@@ -7105,7 +7104,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["jønky-shekzeer"]=9,
 	["jonsnow-mirage-raceway"]=32,
 	["jontrian-hoptallus"]=33,
-	["jooko-hoptallus"]=28,
+	["jooko-hoptallus"]=23,
 	["jorislecon-auberdine"]=5,
 	["jornironside-shekzeer"]=8,
 	["josax-mirage-raceway"]=5,
@@ -8100,7 +8099,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["nøxylol-everlook"]=13,
 	["Ñqqa-shekzeer"]=1,
 	["nrg-shekzeer"]=24,
-	["nsé-garalon"]=15,
+	["nsé-garalon"]=5,
 	["ntbf-shekzeer"]=24,
 	["ntbfq-shekzeer"]=9,
 	["ntxfake-shekzeer"]=11,
@@ -8630,7 +8629,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["rostovondon-shekzeer"]=20,
 	["rotchachi-mirage-raceway"]=8,
 	["rousen-shekzeer"]=9,
-	["roush-hoptallus"]=1,
+	["roush-hoptallus"]=25,
 	["røvklásker-garalon"]=32,
 	["rövpanna-shekzeer"]=8,
 	["roxani-garalon"]=4,
