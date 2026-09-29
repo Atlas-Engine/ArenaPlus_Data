@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5176 characters, read 2026-09-29 01:59 AM.
+-- Region us, 5176 characters, read 2026-09-29 02:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5469,7 +5469,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["bloodofares-nazgrim"]=7,
 	["bloodofnotus-nazgrim"]=27,
 	["bloodrake-nazgrim"]=25,
-	["bloodsoakd-pagle"]=23,
+	["bloodsoakd-pagle"]=7,
 	["bloodvâlor-lei-shen"]=6,
 	["bloombringer-pagle"]=0,
 	["blooms-pagle"]=17,
@@ -6305,7 +6305,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["eezz-nazgrim"]=13,
 	["efekz-immerseus"]=14,
 	["eggfooyoung-immerseus"]=4,
-	["eidottnawi-pagle"]=18,
+	["eidottnawi-pagle"]=3,
 	["eikou-pagle"]=2,
 	["eivi-lei-shen"]=14,
 	["eka-raden"]=18,
@@ -7335,7 +7335,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["kamikylol-pagle"]=29,
 	["kamiyam-raden"]=6,
 	["kánabiss-galakras"]=3,
-	["kandì-pagle"]=31,
+	["kandì-pagle"]=11,
 	["kaptnascend-pagle"]=22,
 	["kaptnhard-pagle"]=24,
 	["karelys-pagle"]=18,
