@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9552 characters, read 2026-09-29 11:58 AM.
+-- Region tbc-us, 9552 characters, read 2026-09-29 12:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11405,7 +11405,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["degennerds-nightslayer"]=4,
 	["degenprayer-nightslayer"]=0,
 	["degz-nightslayer"]=9,
-	["dejjy-nightslayer"]=9,
+	["dejjy-nightslayer"]=25,
 	["dekel-nightslayer"]=2,
 	["dekrypted-nightslayer"]=5,
 	["delasmañas-nightslayer"]=6,
@@ -14785,7 +14785,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["mininagas-dreamscythe"]=5,
 	["minískirt-nightslayer"]=7,
 	["minitelanna-nightslayer"]=2,
-	["minixboy-nightslayer"]=17,
+	["minixboy-nightslayer"]=21,
 	["minjii-dreamscythe"]=5,
 	["minmi-nightslayer"]=15,
 	["minochi-nightslayer"]=1,
@@ -17766,7 +17766,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["thisx-nightslayer"]=13,
 	["thoap-nightslayer"]=1,
 	["thoekribn-dreamscythe"]=8,
-	["thogorn-nightslayer"]=9,
+	["thogorn-nightslayer"]=11,
 	["thorathan-nightslayer"]=18,
 	["thorbren-nightslayer"]=2,
 	["thorlax-nightslayer"]=1,
@@ -17794,7 +17794,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["thunderdommy-nightslayer"]=19,
 	["thunderfried-nightslayer"]=10,
 	["thunderscore-nightslayer"]=6,
-	["thúnderthÿ-nightslayer"]=7,
+	["thúnderthÿ-nightslayer"]=22,
 	["thunderudder-nightslayer"]=10,
 	["thunderwx-nightslayer"]=2,
 	["thunderx-nightslayer"]=6,
