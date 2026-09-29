@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5319 characters, read 2026-09-29 04:00 PM.
+-- Region eu, 5319 characters, read 2026-09-29 05:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5620,7 +5620,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bjork-everlook"]=1,
 	["bjutiflova-shekzeer"]=1,
 	["bláázé-everlook"]=15,
-	["blààzè-everlook"]=25,
+	["blààzè-everlook"]=1,
 	["blaazer-shekzeer"]=5,
 	["blackchi-shekzeer"]=7,
 	["blåckfërãlx-everlook"]=3,
@@ -5915,7 +5915,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["clickgroundx-shekzeer"]=6,
 	["clickzblue-shekzeer"]=19,
 	["cliekao-shekzeer"]=5,
-	["clméns-auberdine"]=23,
+	["clméns-auberdine"]=17,
 	["cloudyday-shekzeer"]=3,
 	["cloverfield-mirage-raceway"]=3,
 	["clý-shekzeer"]=9,
@@ -5930,7 +5930,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["combux-shekzeer"]=2,
 	["comète-shekzeer"]=3,
 	["commandor-garalon"]=15,
-	["commitment-shekzeer"]=5,
+	["commitment-shekzeer"]=15,
 	["compak-everlook"]=26,
 	["compey-everlook"]=33,
 	["comtelucius-auberdine"]=0,
@@ -6901,7 +6901,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["iaminafullcc-shekzeer"]=3,
 	["iammyself-mirage-raceway"]=6,
 	["iamsmeagol-hoptallus"]=17,
-	["iamyzis-mirage-raceway"]=13,
+	["iamyzis-mirage-raceway"]=16,
 	["ibitha-hoptallus"]=6,
 	["ibiza-mirage-raceway"]=1,
 	["icanfly-everlook"]=1,
@@ -9062,7 +9062,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["stinastet-shekzeer"]=11,
 	["stïpix-auberdine"]=24,
 	["stitchvnr-auberdine"]=31,
-	["stivkuling-shekzeer"]=10,
+	["stivkuling-shekzeer"]=2,
 	["stjärto-shekzeer"]=24,
 	["stokssprime-shekzeer"]=20,
 	["stopfear-shekzeer"]=17,
@@ -9261,7 +9261,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["thehrc-auberdine"]=9,
 	["theicer-garalon"]=2,
 	["thelorde-shekzeer"]=15,
-	["themachiner-shekzeer"]=25,
+	["themachiner-shekzeer"]=1,
 	["themalinman-auberdine"]=1,
 	["thematsie-shekzeer"]=4,
 	["thepríest-mirage-raceway"]=6,
@@ -10086,7 +10086,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Вагаса-flamegor"]=15,
 	["Вагонетка-flamegor"]=15,
 	["Вадябэниекс-flamegor"]=6,
-	["Вандеркаст-flamegor"]=10,
+	["Вандеркаст-flamegor"]=2,
 	["Ванилко-flamegor"]=5,
 	["Ваняплетка-flamegor"]=8,
 	["Варбрис-flamegor"]=25,
