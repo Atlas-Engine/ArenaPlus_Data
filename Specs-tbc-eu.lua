@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9986 characters, read 2026-09-29 12:59 AM.
+-- Region tbc-eu, 9986 characters, read 2026-09-29 01:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -13015,7 +13015,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["gegetsuburi-thunderstrike"]=9,
 	["geilegrânny-spineshatter"]=11,
 	["gekkepietje-spineshatter"]=5,
-	["gekkoro-spineshatter"]=3,
+	["gekkoro-spineshatter"]=19,
 	["gemtys-spineshatter"]=9,
 	["gêngar-thunderstrike"]=8,
 	["genjionly-thunderstrike"]=9,
@@ -13579,7 +13579,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["hunterhans-spineshatter"]=25,
 	["huntinator-spineshatter"]=25,
 	["huntriox-spineshatter"]=25,
-	["huohottaja-spineshatter"]=13,
+	["huohottaja-spineshatter"]=18,
 	["hupnoqt-spineshatter"]=8,
 	["hurtie-spineshatter"]=2,
 	["hûschdie-thunderstrike"]=2,
@@ -19086,7 +19086,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["vearnn-spineshatter"]=9,
 	["ved-spineshatter"]=3,
 	["vedklabb-spineshatter"]=1,
-	["vedowar-thunderstrike"]=5,
+	["vedowar-thunderstrike"]=15,
 	["veganfury-spineshatter"]=12,
 	["veganlemons-spineshatter"]=11,
 	["vegeguayz-thunderstrike"]=3,

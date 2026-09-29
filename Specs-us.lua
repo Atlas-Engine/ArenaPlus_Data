@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5176 characters, read 2026-09-29 12:59 AM.
+-- Region us, 5176 characters, read 2026-09-29 01:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -8076,7 +8076,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["natuhhlee-nazgrim"]=13,
 	["naturalqt-pagle"]=2,
 	["navij-pagle"]=10,
-	["navio-pagle"]=2,
+	["navio-pagle"]=16,
 	["nâx-pagle"]=11,
 	["nâxxrâmâs-arugal-au"]=7,
 	["nayrish-pagle"]=16,
@@ -8090,7 +8090,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["nebubanana-raden"]=8,
 	["nebuboom-nazgrim"]=17,
 	["nebugrape-raden"]=28,
-	["nebupeach-nazgrim"]=8,
+	["nebupeach-nazgrim"]=28,
 	["nebuplum-raden"]=8,
 	["necris-galakras"]=26,
 	["necrodo-pagle"]=6,
@@ -8150,7 +8150,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["niköl-pagle"]=7,
 	["nikotina-galakras"]=29,
 	["nili-pagle"]=28,
-	["nilio-raden"]=31,
+	["nilio-raden"]=1,
 	["nìlla-pagle"]=1,
 	["nimíx-pagle"]=6,
 	["ninedeep-pagle"]=7,
@@ -8304,7 +8304,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["Örbköbë-pagle"]=4,
 	["orbs-arugal-au"]=0,
 	["orbscripter-pagle"]=4,
-	["orcetorix-pagle"]=25,
+	["orcetorix-pagle"]=6,
 	["orcsamabin-pagle"]=15,
 	["orcz-pagle"]=7,
 	["ordanary-pagle"]=4,
