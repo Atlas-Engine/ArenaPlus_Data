@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9986 characters, read 2026-09-29 03:59 AM.
+-- Region tbc-eu, 9986 characters, read 2026-09-29 04:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10718,7 +10718,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["bicepsbirgit-spineshatter"]=5,
 	["bidax-spineshatter"]=2,
 	["bidili-spineshatter"]=3,
-	["bieps-spineshatter"]=17,
+	["bieps-spineshatter"]=2,
 	["biepz-spineshatter"]=12,
 	["bierboot-spineshatter"]=2,
 	["bigaf-spineshatter"]=5,
@@ -10869,7 +10869,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["blupac-spineshatter"]=11,
 	["blurbrogue-spineshatter"]=3,
 	["blurbunter-spineshatter"]=25,
-	["blvckmvgic-spineshatter"]=2,
+	["blvckmvgic-spineshatter"]=17,
 	["blygt-spineshatter"]=26,
 	["blysche-spineshatter"]=11,
 	["blyskacham-spineshatter"]=12,
@@ -14892,7 +14892,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["lostmytotem-spineshatter"]=11,
 	["lothwi-spineshatter"]=1,
 	["lothwor-spineshatter"]=6,
-	["lothwori-spineshatter"]=11,
+	["lothwori-spineshatter"]=12,
 	["lotor-spineshatter"]=4,
 	["lotorx-spineshatter"]=9,
 	["lotusjustice-spineshatter"]=19,
@@ -14957,7 +14957,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["lusti-spineshatter"]=11,
 	["luston-spineshatter"]=3,
 	["luulu-thunderstrike"]=6,
-	["luuxíå-spineshatter"]=20,
+	["luuxíå-spineshatter"]=1,
 	["luxani-spineshatter"]=2,
 	["luxbob-spineshatter"]=7,
 	["luzdelhielo-spineshatter"]=9,
@@ -19421,7 +19421,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["wotiww-spineshatter"]=5,
 	["wotlkisdgsht-spineshatter"]=11,
 	["wotlkwar-spineshatter"]=5,
-	["woundedgoat-spineshatter"]=17,
+	["woundedgoat-spineshatter"]=2,
 	["woyaa-spineshatter"]=0,
 	["woyce-spineshatter"]=5,
 	["wpn-spineshatter"]=11,
