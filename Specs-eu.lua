@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5319 characters, read 2026-09-29 05:00 PM.
+-- Region eu, 5319 characters, read 2026-09-29 06:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3906,7 +3906,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["sysmann-hoptallus"]=11,
 	["szarfosclass-norushen"]=21,
 	["szasha-shekzeer"]=11,
-	["szashå-shekzeer"]=10,
+	["szashå-shekzeer"]=11,
 	["szexjebøaka-mirage-raceway"]=11,
 	["szh-shekzeer"]=10,
 	["tackiella-shekzeer"]=41,
@@ -5231,7 +5231,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["akerbz-shekzeer"]=6,
 	["akerm-shekzeer"]=17,
 	["akerman-shekzeer"]=17,
-	["akermy-shekzeer"]=17,
+	["akermy-shekzeer"]=23,
 	["akijean-shekzeer"]=14,
 	["akonrap-garalon"]=25,
 	["akula-mirage-raceway"]=10,
@@ -5681,7 +5681,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["boomshockxx-norushen"]=13,
 	["bøømzt-auberdine"]=16,
 	["bøøpss-auberdine"]=24,
-	["borman-shekzeer"]=15,
+	["borman-shekzeer"]=5,
 	["bornholm-shekzeer"]=3,
 	["borwyndael-garalon"]=8,
 	["borwyndael-shekzeer"]=8,
@@ -5748,7 +5748,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bumbelbegodx-shekzeer"]=14,
 	["bumbelbemonk-shekzeer"]=29,
 	["bumbeldruid-shekzeer"]=21,
-	["bumbelgnome-shekzeer"]=7,
+	["bumbelgnome-shekzeer"]=29,
 	["bumbelmonk-garalon"]=7,
 	["bumbelmonk-shekzeer"]=7,
 	["bumbelorc-garalon"]=29,
@@ -6272,7 +6272,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["dunkelheit-shekzeer"]=9,
 	["dúpond-auberdine"]=3,
 	["durianlover-shekzeer"]=11,
-	["duskmeh-shekzeer"]=1,
+	["duskmeh-shekzeer"]=18,
 	["duskyn-shekzeer"]=20,
 	["dusoleil-shekzeer"]=24,
 	["dwarfs-shekzeer"]=32,
@@ -7828,7 +7828,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["monkshadow-shekzeer"]=6,
 	["monktop-shekzeer"]=0,
 	["monlok-garalon"]=23,
-	["monloko-shekzeer"]=17,
+	["monloko-shekzeer"]=23,
 	["monlokoo-shekzeer"]=17,
 	["monomax-shekzeer"]=8,
 	["mønsìeurfràz-shekzeer"]=20,

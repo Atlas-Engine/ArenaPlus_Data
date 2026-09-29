@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9568 characters, read 2026-09-29 04:58 PM.
+-- Region tbc-us, 9568 characters, read 2026-09-29 05:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10186,7 +10186,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bigbewty-nightslayer"]=13,
 	["bigbewtyx-nightslayer"]=13,
 	["bigblackchim-nightslayer"]=10,
-	["bigblackfiik-nightslayer"]=2,
+	["bigblackfiik-nightslayer"]=18,
 	["bigblaqdisc-nightslayer"]=1,
 	["bigbleaz-nightslayer"]=9,
 	["bigbluebozo-nightslayer"]=4,
@@ -10481,7 +10481,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bottomburps-nightslayer"]=9,
 	["bottomdwellr-nightslayer"]=5,
 	["bouncyheels-nightslayer"]=10,
-	["bourbondrunk-dreamscythe"]=23,
+	["bourbondrunk-dreamscythe"]=13,
 	["bourner-nightslayer"]=7,
 	["boutjou-dreamscythe"]=2,
 	["bouzies-nightslayer"]=7,
@@ -14611,7 +14611,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["maxozy-nightslayer"]=2,
 	["maxpowers-nightslayer"]=10,
 	["maxpoxxy-nightslayer"]=14,
-	["maxwang-nightslayer"]=5,
+	["maxwang-nightslayer"]=8,
 	["mayanwarr-nightslayer"]=18,
 	["maybedyin-dreamscythe"]=1,
 	["maycry-nightslayer"]=5,
@@ -15410,7 +15410,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ohanaftw-nightslayer"]=10,
 	["ohdeng-nightslayer"]=3,
 	["ohe-nightslayer"]=2,
-	["ohemzee-nightslayer"]=11,
+	["ohemzee-nightslayer"]=25,
 	["ohg-nightslayer"]=5,
 	["ohhsnap-nightslayer"]=6,
 	["ohjeezz-dreamscythe"]=23,
@@ -16265,7 +16265,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["repita-nightslayer"]=22,
 	["replecon-dreamscythe"]=2,
 	["repurge-nightslayer"]=10,
-	["reroçk-nightslayer"]=18,
+	["reroçk-nightslayer"]=2,
 	["res-nightslayer"]=24,
 	["resam-nightslayer"]=7,
 	["rescue-nightslayer"]=14,
@@ -16417,7 +16417,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["rogusus-nightslayer"]=5,
 	["rohinyarpp-dreamscythe"]=2,
 	["rokett-nightslayer"]=19,
-	["rokgah-nightslayer"]=3,
+	["rokgah-nightslayer"]=7,
 	["rokkd-nightslayer"]=1,
 	["rokkdd-dreamscythe"]=4,
 	["rokkgar-dreamscythe"]=2,
@@ -17437,7 +17437,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["stohmpa-nightslayer"]=3,
 	["stoichy-nightslayer"]=22,
 	["stokades-dreamscythe"]=11,
-	["stokes-nightslayer"]=2,
+	["stokes-nightslayer"]=18,
 	["stokespp-nightslayer"]=9,
 	["stokeswf-nightslayer"]=10,
 	["stokeszerk-nightslayer"]=2,
