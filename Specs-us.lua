@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5173 characters, read 2026-09-28 06:59 PM.
+-- Region us, 5173 characters, read 2026-09-28 07:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5304,7 +5304,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["bashlee-lei-shen"]=7,
 	["battleground-pagle"]=17,
 	["battleground-raden"]=4,
-	["bayol-raden"]=21,
+	["bayol-raden"]=13,
 	["bâz-arugal-au"]=1,
 	["bazblast-arugal-au"]=15,
 	["bazflay-arugal-au"]=21,
@@ -8700,7 +8700,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["retdis-pagle"]=16,
 	["reticence-pagle"]=10,
 	["retmainxd-raden"]=18,
-	["rétpáladin-raden"]=2,
+	["rétpáladin-raden"]=16,
 	["retrostance-galakras"]=2,
 	["rettek-raden"]=8,
 	["revcole-raden"]=9,
@@ -9236,7 +9236,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["spiffymonk-nazgrim"]=10,
 	["spiftdk-pagle"]=6,
 	["spiftf-pagle"]=1,
-	["spifth-grobbulus"]=3,
+	["spifth-grobbulus"]=20,
 	["spiftm-grobbulus"]=10,
 	["spiftp-pagle"]=16,
 	["spiftr-pagle"]=14,
@@ -9667,7 +9667,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["trumpchains-galakras"]=26,
 	["trumpscurse-galakras"]=21,
 	["trumpsdagger-galakras"]=29,
-	["trumpsdots-galakras"]=24,
+	["trumpsdots-galakras"]=8,
 	["trumpskity-galakras"]=4,
 	["trumpspets-galakras"]=20,
 	["tryitbro-raden"]=24,
