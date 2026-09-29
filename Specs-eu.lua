@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5318 characters, read 2026-09-29 06:00 AM.
+-- Region eu, 5315 characters, read 2026-09-29 07:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -107,7 +107,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["adrianmandos-garalon"]=10,
 	["adroesa-norushen"]=11,
 	["adroesa-shekzeer"]=11,
-	["adromeda-hoptallus"]=10,
 	["Æglæca-shekzeer"]=21,
 	["Ælaíne-everlook"]=11,
 	["aendoril-shekzeer"]=10,
@@ -3433,7 +3432,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["sachikø-shekzeer"]=11,
 	["sacredvow-shekzeer"]=11,
 	["sadeqool-mirage-raceway"]=10,
-	["sådva-shekzeer"]=10,
 	["saefess-auberdine"]=61,
 	["safetyfirst-ook-ook"]=10,
 	["sahika-hoptallus"]=11,
@@ -5017,7 +5015,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["Санлолз-flamegor"]=50,
 	["Санястояк-flamegor"]=11,
 	["Саняюфс-flamegor"]=10,
-	["Сарколемм-flamegor"]=10,
 	["Сархан-flamegor"]=10,
 	["Светоносый-flamegor"]=10,
 	["Свинпаук-flamegor"]=220,
@@ -5184,7 +5181,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["adrianmandos-garalon"]=15,
 	["adroesa-norushen"]=24,
 	["adroesa-shekzeer"]=5,
-	["adromeda-hoptallus"]=15,
 	["Æglæca-shekzeer"]=28,
 	["Ælaíne-everlook"]=5,
 	["aendoril-shekzeer"]=15,
@@ -5233,7 +5229,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["akerbz-shekzeer"]=6,
 	["akerm-shekzeer"]=17,
 	["akerman-shekzeer"]=17,
-	["akermy-shekzeer"]=23,
+	["akermy-shekzeer"]=17,
 	["akijean-shekzeer"]=14,
 	["akonrap-garalon"]=25,
 	["akula-mirage-raceway"]=10,
@@ -6281,7 +6277,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["dwg-shekzeer"]=3,
 	["dwgz-shekzeer"]=9,
 	["dxab-shekzeer"]=22,
-	["dxbam-shekzeer"]=12,
+	["dxbam-shekzeer"]=9,
 	["dxbamoon-shekzeer"]=7,
 	["dxbom-shekzeer"]=3,
 	["dynarsia-shekzeer"]=3,
@@ -8681,7 +8677,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["sachikø-shekzeer"]=9,
 	["sacredvow-shekzeer"]=5,
 	["sadeqool-mirage-raceway"]=8,
-	["sådva-shekzeer"]=15,
 	["saefess-auberdine"]=3,
 	["safetyfirst-ook-ook"]=1,
 	["sahika-hoptallus"]=2,
@@ -10337,7 +10332,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Санлолз-flamegor"]=26,
 	["Санястояк-flamegor"]=4,
 	["Саняюфс-flamegor"]=1,
-	["Сарколемм-flamegor"]=1,
 	["Сархан-flamegor"]=15,
 	["Светоносый-flamegor"]=15,
 	["Свинпаук-flamegor"]=1,
