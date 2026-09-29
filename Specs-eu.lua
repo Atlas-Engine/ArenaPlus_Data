@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5315 characters, read 2026-09-29 09:00 AM.
+-- Region eu, 5316 characters, read 2026-09-29 10:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -246,6 +246,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["antitapclass-everlook"]=11,
 	["antitektonik-auberdine"]=11,
 	["ants-shekzeer"]=41,
+	["anvel-shekzeer"]=10,
 	["anxoasa-shekzeer"]=11,
 	["anxoqt-shekzeer"]=11,
 	["anyabaszó-shekzeer"]=10,
@@ -5324,6 +5325,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["antitapclass-everlook"]=8,
 	["antitektonik-auberdine"]=17,
 	["ants-shekzeer"]=11,
+	["anvel-shekzeer"]=23,
 	["anxoasa-shekzeer"]=5,
 	["anxoqt-shekzeer"]=7,
 	["anyabaszó-shekzeer"]=4,
@@ -6736,7 +6738,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["halotestin-shekzeer"]=19,
 	["halowar-shekzeer"]=1,
 	["halul-shekzeer"]=2,
-	["halyse-shekzeer"]=10,
+	["halyse-shekzeer"]=2,
 	["hammer-garalon"]=0,
 	["hanagata-norushen"]=9,
 	["hanamichi-norushen"]=7,
@@ -7045,7 +7047,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["janwarlock-hoptallus"]=17,
 	["jaquechirac-auberdine"]=1,
 	["jarclass-shekzeer"]=2,
-	["jasmíina-norushen"]=4,
+	["jasmíina-norushen"]=14,
 	["jasplane-shekzeer"]=2,
 	["jaxzon-hoptallus"]=10,
 	["jay-shekzeer"]=2,
@@ -7163,7 +7165,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["kaleidoscope-shekzeer"]=21,
 	["kaliichi-everlook"]=6,
 	["kaliihoj-everlook"]=5,
-	["kaliihunt-everlook"]=20,
+	["kaliihunt-everlook"]=4,
 	["kaliileo-everlook"]=9,
 	["kaliisha-everlook"]=13,
 	["kaliix-everlook"]=22,
@@ -8544,7 +8546,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["retardednerd-shekzeer"]=5,
 	["retardinox-shekzeer"]=15,
 	["retburstdmg-mirage-raceway"]=15,
-	["retee-garalon"]=26,
+	["retee-garalon"]=24,
 	["rethero-shekzeer"]=15,
 	["retourqtz-auberdine"]=4,
 	["retrivout-shekzeer"]=15,
