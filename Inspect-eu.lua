@@ -42,7 +42,7 @@ local ns = ArenaPlusData
 -- source_item, so gems are stored as real item ids the client can draw and only
 -- the enchant text has to ship.
 --
--- Region eu, 429 characters, 372 glyph names, read 2026-09-29 09:21 AM.
+-- Region eu, 429 characters, 372 glyph names, read 2026-09-29 10:20 AM.
 ns.GLYPH_NAMES = ns.GLYPH_NAMES or {}
 
 for id, name in pairs({
@@ -426,38 +426,12 @@ for id, name in pairs({
 ns.TALENT_NAMES = ns.TALENT_NAMES or {}
 
 for id, name in pairs({
-	[6789]="Mortal Coil",
-	[14062]="Nightstalker",
-	[29838]="Second Wind",
-	[31230]="Cheat Death",
-	[36554]="Shadowstep",
-	[46968]="Shockwave",
 	[79008]="Elusiveness",
-	[103827]="Double Time",
-	[107566]="Staggering Shout",
-	[107570]="Storm Bolt",
 	[108208]="Subterfuge",
 	[108210]="Nerve Strike",
 	[108212]="Burst of Speed",
 	[108215]="Paralytic Poison",
 	[108216]="Dirty Tricks",
-	[108359]="Dark Regeneration",
-	[108415]="Soul Link",
-	[108482]="Unbound Will",
-	[108499]="Grimoire of Supremacy",
-	[108503]="Grimoire of Sacrifice",
-	[108505]="Archimonde's Darkness",
-	[114015]="Anticipation",
-	[114028]="Mass Spell Reflection",
-	[114029]="Safeguard",
-	[115098]="Chi Wave",
-	[115399]="Chi Brew",
-	[116841]="Tiger's Lust",
-	[116847]="Rushing Jade Wind",
-	[119381]="Leg Sweep",
-	[122280]="Healing Elixirs",
-	[123904]="Invoke Xuen, the White Tiger",
-	[131511]="Prey on the Weak",
 	[137619]="Marked for Death",
 }) do ns.TALENT_NAMES[id] = name end
 
