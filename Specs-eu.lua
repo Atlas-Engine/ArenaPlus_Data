@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5315 characters, read 2026-09-29 08:00 AM.
+-- Region eu, 5315 characters, read 2026-09-29 09:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7352,7 +7352,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["kuroni-garalon"]=32,
 	["kurtana-shekzeer"]=34,
 	["kurtat-shekzeer"]=24,
-	["kurttuqq-shekzeer"]=24,
+	["kurttuqq-shekzeer"]=26,
 	["kuruna-everlook"]=3,
 	["kusy-shekzeer"]=6,
 	["kusya-shekzeer"]=9,
@@ -7749,7 +7749,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["mindymadango-shekzeer"]=4,
 	["minecraftmax-shekzeer"]=19,
 	["minetrap-shekzeer"]=20,
-	["mingo-shekzeer"]=11,
+	["mingo-shekzeer"]=3,
 	["minikorean-shekzeer"]=1,
 	["minimoo-ook-ook"]=11,
 	["minisparxx-everlook"]=2,
@@ -9442,7 +9442,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Übergeleert-everlook"]=20,
 	["ubik-shekzeer"]=6,
 	["Ùçhîhåxz-shekzeer"]=8,
-	["udk-shekzeer"]=8,
+	["udk-shekzeer"]=33,
 	["ufes-shekzeer"]=12,
 	["ufø-shekzeer"]=0,
 	["uglenator-mirage-raceway"]=11,

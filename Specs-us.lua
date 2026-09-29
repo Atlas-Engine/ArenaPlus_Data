@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5178 characters, read 2026-09-29 07:59 AM.
+-- Region us, 5178 characters, read 2026-09-29 08:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2670,7 +2670,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["magemen-pagle"]=10,
 	["magicclaps-pagle"]=10,
 	["magichi-pagle"]=11,
-	["magician-arugal-au"]=11,
+	["magician-arugal-au"]=10,
 	["magicsheep-pagle"]=111,
 	["magikanus-grobbulus"]=10,
 	["mãgnum-raden"]=10,
@@ -5047,7 +5047,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["aeroes-pagle"]=3,
 	["aerzkei-arugal-au"]=5,
 	["aës-pagle"]=1,
-	["afekz-immerseus"]=14,
+	["afekz-immerseus"]=29,
 	["affliktt-arugal-au"]=9,
 	["afp-raden"]=10,
 	["Àfterlifeqt-pagle"]=5,
@@ -6020,7 +6020,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["degaüss-raden"]=16,
 	["dekk-raden"]=6,
 	["delané-raden"]=18,
-	["delaway-lei-shen"]=28,
+	["delaway-lei-shen"]=24,
 	["delgars-galakras"]=3,
 	["delude-arugal-au"]=1,
 	["delvina-raden"]=2,
@@ -7077,7 +7077,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ifaceroll-galakras"]=7,
 	["ifearyu-pagle"]=8,
 	["ifireinside-pagle"]=1,
-	["ifireman-raden"]=11,
+	["ifireman-raden"]=1,
 	["ifistu-galakras"]=4,
 	["igather-galakras"]=17,
 	["igziluhraet-pagle"]=34,
@@ -8577,7 +8577,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["quartêrmain-pagle"]=3,
 	["quelss-pagle"]=2,
 	["quesø-pagle"]=29,
-	["questopresto-nazgrim"]=27,
+	["questopresto-nazgrim"]=10,
 	["quickscopex-pagle"]=3,
 	["quickvanish-pagle"]=34,
 	["qwanya-raden"]=1,

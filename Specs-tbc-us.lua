@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9563 characters, read 2026-09-29 07:58 AM.
+-- Region tbc-us, 9563 characters, read 2026-09-29 08:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11902,7 +11902,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ebonek-nightslayer"]=7,
 	["ebonstorm-nightslayer"]=19,
 	["ebonstrike-nightslayer"]=19,
-	["ebtfinalboss-nightslayer"]=5,
+	["ebtfinalboss-nightslayer"]=8,
 	["ecgcleaning-nightslayer"]=4,
 	["eckthgar-nightslayer"]=10,
 	["eclipzed-nightslayer"]=16,
@@ -12082,7 +12082,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["everybody-nightslayer"]=2,
 	["evileyes-nightslayer"]=5,
 	["evilherminey-nightslayer"]=4,
-	["evilkin-nightslayer"]=8,
+	["evilkin-nightslayer"]=5,
 	["evilmagicman-nightslayer"]=13,
 	["evilpinkzz-nightslayer"]=13,
 	["evilsweet-nightslayer"]=13,
@@ -12363,7 +12363,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["floobytooby-nightslayer"]=19,
 	["floody-nightslayer"]=3,
 	["floofyz-dreamscythe"]=1,
-	["flooreo-dreamscythe"]=18,
+	["flooreo-dreamscythe"]=2,
 	["floowqt-nightslayer"]=4,
 	["flopdungler-nightslayer"]=1,
 	["floppydiscjr-nightslayer"]=7,
@@ -14648,7 +14648,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["mediumdx-nightslayer"]=11,
 	["meeblers-dreamscythe"]=10,
 	["meenny-nightslayer"]=4,
-	["méepo-nightslayer"]=24,
+	["méepo-nightslayer"]=10,
 	["meetbobjob-nightslayer"]=4,
 	["meetym-nightslayer"]=11,
 	["meganfrostx-nightslayer"]=4,
@@ -18214,7 +18214,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["uzv-nightslayer"]=3,
 	["vagon-nightslayer"]=7,
 	["vagons-nightslayer"]=7,
-	["vajcrusha-nightslayer"]=7,
+	["vajcrusha-nightslayer"]=22,
 	["vakus-nightslayer"]=4,
 	["valeeka-dreamscythe"]=2,
 	["valeforez-nightslayer"]=9,
@@ -18256,7 +18256,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["vectorsum-nightslayer"]=17,
 	["veddr-nightslayer"]=14,
 	["veedor-nightslayer"]=7,
-	["vêgàñghøül-nightslayer"]=14,
+	["vêgàñghøül-nightslayer"]=1,
 	["veganstomper-nightslayer"]=25,
 	["vegasdave-dreamscythe"]=18,
 	["veidaz-nightslayer"]=0,
