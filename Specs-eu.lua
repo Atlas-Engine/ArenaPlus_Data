@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5320 characters, read 2026-09-28 08:00 PM.
+-- Region eu, 5320 characters, read 2026-09-28 09:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3102,7 +3102,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["plåýböt-shekzeer"]=11,
 	["plåýbøt-shekzeer"]=11,
 	["plâybøybûnny-shekzeer"]=11,
-	["plåýßøt-shekzeer"]=11,
+	["plåýßøt-shekzeer"]=21,
 	["plïnki-auberdine"]=11,
 	["plmbeachpete-shekzeer"]=11,
 	["plushfire-everlook"]=11,
@@ -5294,7 +5294,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["analli-mirage-raceway"]=1,
 	["anarak-mirage-raceway"]=6,
 	["anastangel-everlook"]=15,
-	["anathaime-auberdine"]=33,
+	["anathaime-auberdine"]=8,
 	["ancho-shekzeer"]=20,
 	["anchó-shekzeer"]=20,
 	["andréa-shekzeer"]=13,
@@ -5395,7 +5395,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["asapskaya-shekzeer"]=1,
 	["ascaredman-shekzeer"]=8,
 	["ascenda-shekzeer"]=6,
-	["ascéndéd-shekzeer"]=19,
+	["ascéndéd-shekzeer"]=16,
 	["ascensus-shekzeer"]=6,
 	["ascezug-garalon"]=16,
 	["asdamp-garalon"]=1,
