@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5175 characters, read 2026-09-29 05:59 PM.
+-- Region us, 5175 characters, read 2026-09-29 06:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5346,7 +5346,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["beijingcy-grobbulus"]=1,
 	["beijingdy-grobbulus"]=17,
 	["beijingms-grobbulus"]=13,
-	["beijingsa-grobbulus"]=19,
+	["beijingsa-grobbulus"]=15,
 	["beijingss-grobbulus"]=28,
 	["beish-pagle"]=15,
 	["bektal-pagle"]=19,
@@ -6115,7 +6115,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["djabita-nazgrim"]=1,
 	["djadá-pagle"]=4,
 	["djinx-raden"]=29,
-	["djnapples-lei-shen"]=5,
+	["djnapples-lei-shen"]=12,
 	["djnox-pagle"]=24,
 	["Ðjsnake-raden"]=0,
 	["djsol-pagle"]=16,
@@ -6391,7 +6391,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["euspy-raden"]=1,
 	["eustaquio-raden"]=7,
 	["evasif-arugal-au"]=3,
-	["everannaqt-pagle"]=25,
+	["everannaqt-pagle"]=6,
 	["everannaqtt-pagle"]=25,
 	["everelle-pagle"]=0,
 	["everlast-raden"]=24,
@@ -9076,7 +9076,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["siyxcr-pagle"]=24,
 	["skâde-nazgrim"]=18,
 	["skadòósh-nazgrim"]=4,
-	["skantz-pagle"]=3,
+	["skantz-pagle"]=20,
 	["skarv-galakras"]=23,
 	["skatta-raden"]=3,
 	["skeezîx-nazgrim"]=28,
@@ -9261,7 +9261,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["spongeboby-pagle"]=1,
 	["spongethroby-pagle"]=1,
 	["sponsor-raden"]=4,
-	["sponsorx-pagle"]=24,
+	["sponsorx-pagle"]=8,
 	["sponsorx-raden"]=2,
 	["sponsorz-raden"]=19,
 	["spooke-pagle"]=21,
@@ -9296,7 +9296,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ßöömbrew-lei-shen"]=27,
 	["ßöömdk-lei-shen"]=6,
 	["ßöömjudge-lei-shen"]=16,
-	["sßeve-lei-shen"]=3,
+	["sßeve-lei-shen"]=18,
 	["ßulldøzer-pagle"]=16,
 	["ßylug-pagle"]=17,
 	["stabbath-raden"]=14,

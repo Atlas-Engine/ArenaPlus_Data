@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9568 characters, read 2026-09-29 05:58 PM.
+-- Region tbc-us, 9568 characters, read 2026-09-29 06:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11042,7 +11042,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["colinnx-nightslayer"]=2,
 	["cologneguy-dreamscythe"]=1,
 	["colombiangg-nightslayer"]=23,
-	["colombianrat-nightslayer"]=8,
+	["colombianrat-nightslayer"]=5,
 	["colony-nightslayer"]=12,
 	["colt-nightslayer"]=2,
 	["colts-nightslayer"]=1,
@@ -11154,7 +11154,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["creditrisk-nightslayer"]=24,
 	["credomuthwa-nightslayer"]=24,
 	["creedzm-nightslayer"]=0,
-	["crepps-nightslayer"]=11,
+	["crepps-nightslayer"]=25,
 	["cresy-nightslayer"]=1,
 	["cresyda-nightslayer"]=12,
 	["crilton-dreamscythe"]=0,
@@ -12281,7 +12281,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["fightmeandie-nightslayer"]=6,
 	["fightup-nightslayer"]=4,
 	["figuro-nightslayer"]=7,
-	["fiinduilas-nightslayer"]=25,
+	["fiinduilas-nightslayer"]=11,
 	["filthyshot-nightslayer"]=15,
 	["filthytom-nightslayer"]=22,
 	["finalflashx-nightslayer"]=7,
@@ -14686,7 +14686,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["memegodz-nightslayer"]=1,
 	["memer-nightslayer"]=2,
 	["memoriës-nightslayer"]=4,
-	["memphrica-dreamscythe"]=13,
+	["memphrica-dreamscythe"]=16,
 	["memphricala-dreamscythe"]=11,
 	["memz-dreamscythe"]=19,
 	["mendcery-nightslayer"]=1,
@@ -15125,7 +15125,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["needadefib-nightslayer"]=10,
 	["neen-nightslayer"]=2,
 	["neesan-dreamscythe"]=19,
-	["nefitatemata-dreamscythe"]=8,
+	["nefitatemata-dreamscythe"]=5,
 	["negatîva-nightslayer"]=1,
 	["negitoromaki-nightslayer"]=5,
 	["negzor-nightslayer"]=2,
@@ -15520,7 +15520,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["orcyboy-dreamscythe"]=19,
 	["orczig-nightslayer"]=18,
 	["ordinarybone-nightslayer"]=2,
-	["ordinaryxo-nightslayer"]=7,
+	["ordinaryxo-nightslayer"]=22,
 	["orëo-dreamscythe"]=15,
 	["orgroxx-nightslayer"]=18,
 	["orkbar-nightslayer"]=17,
@@ -18289,7 +18289,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ventv-nightslayer"]=24,
 	["verbees-nightslayer"]=23,
 	["verbies-nightslayer"]=2,
-	["verbieslol-nightslayer"]=24,
+	["verbieslol-nightslayer"]=10,
 	["verbilx-nightslayer"]=7,
 	["verelock-nightslayer"]=13,
 	["verlay-nightslayer"]=1,
