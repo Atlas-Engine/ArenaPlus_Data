@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9552 characters, read 2026-09-29 10:58 AM.
+-- Region tbc-us, 9552 characters, read 2026-09-29 11:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11281,7 +11281,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["dampening-nightslayer"]=24,
 	["danapink-nightslayer"]=2,
 	["dancerxo-nightslayer"]=8,
-	["dancheek-nightslayer"]=4,
+	["dancheek-nightslayer"]=6,
 	["dandaleyro-nightslayer"]=15,
 	["dandydylan-nightslayer"]=2,
 	["danerduder-dreamscythe"]=24,
@@ -13956,7 +13956,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["knoxvill-nightslayer"]=5,
 	["koalafury-nightslayer"]=1,
 	["koalakong-dreamscythe"]=7,
-	["kobeba-nightslayer"]=10,
+	["kobeba-nightslayer"]=19,
 	["kobeh-nightslayer"]=5,
 	["kobruhz-dreamscythe"]=5,
 	["kodakblakk-nightslayer"]=10,
@@ -16586,7 +16586,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["scarab-nightslayer"]=10,
 	["scarecrow-nightslayer"]=4,
 	["scarfie-dreamscythe"]=3,
-	["scarlettjane-nightslayer"]=1,
+	["scarlettjane-nightslayer"]=12,
 	["scaryflocks-nightslayer"]=8,
 	["scaryjane-nightslayer"]=5,
 	["scattyshake-nightslayer"]=2,

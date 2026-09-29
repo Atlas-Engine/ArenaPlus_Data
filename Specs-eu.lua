@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5316 characters, read 2026-09-29 11:00 AM.
+-- Region eu, 5316 characters, read 2026-09-29 12:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6724,7 +6724,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["hacu-shekzeer"]=4,
 	["hadrius-ook-ook"]=0,
 	["hadudruid-shekzeer"]=3,
-	["hadupal-shekzeer"]=30,
+	["hadupal-shekzeer"]=5,
 	["hadupriest-shekzeer"]=9,
 	["haduqt-shekzeer"]=9,
 	["hageklasker-garalon"]=25,
@@ -7223,7 +7223,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["kennyk-garalon"]=18,
 	["kennyk-shekzeer"]=1,
 	["kennykk-garalon"]=1,
-	["kennyykofot-garalon"]=34,
+	["kennyykofot-garalon"]=24,
 	["kenoh-shekzeer"]=18,
 	["kenrize-shekzeer"]=2,
 	["kenthalyriøs-auberdine"]=8,
@@ -8039,7 +8039,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["nixtreffich-everlook"]=3,
 	["nizze-shekzeer"]=0,
 	["nktz-garalon"]=2,
-	["nme-hoptallus"]=2,
+	["nme-hoptallus"]=10,
 	["nnpriest-shekzeer"]=12,
 	["nobrazil-mirage-raceway"]=8,
 	["nocislife-everlook"]=11,
