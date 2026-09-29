@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5315 characters, read 2026-09-29 02:00 PM.
+-- Region eu, 5315 characters, read 2026-09-29 03:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3764,6 +3764,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["ßázzy-shekzeer"]=11,
 	["ßenimãru-shekzeer"]=41,
 	["ßlickxy-shekzeer"]=41,
+	["ßlinkd-shekzeer"]=11,
 	["ßm-shekzeer"]=41,
 	["ßoa-norushen"]=51,
 	["ßonk-norushen"]=51,
@@ -5580,7 +5581,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bestmonkna-shekzeer"]=6,
 	["bêstmvp-shekzeer"]=4,
 	["bêteféroce-shekzeer"]=4,
-	["betix-shekzeer"]=20,
+	["betix-shekzeer"]=4,
 	["betrthanyou-shekzeer"]=2,
 	["beware-shekzeer"]=6,
 	["bezdarniy-shekzeer"]=2,
@@ -6266,7 +6267,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["dunderpallan-shekzeer"]=5,
 	["dunkelheit-shekzeer"]=9,
 	["dúpond-auberdine"]=3,
-	["durianlover-shekzeer"]=3,
+	["durianlover-shekzeer"]=11,
 	["duskmeh-shekzeer"]=1,
 	["duskyn-shekzeer"]=20,
 	["dusoleil-shekzeer"]=24,
@@ -6276,7 +6277,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["dwgz-shekzeer"]=9,
 	["dxab-shekzeer"]=22,
 	["dxbam-shekzeer"]=9,
-	["dxbamoon-shekzeer"]=7,
+	["dxbamoon-shekzeer"]=29,
 	["dxbom-shekzeer"]=3,
 	["dynarsia-shekzeer"]=3,
 	["dynther-shekzeer"]=1,
@@ -6431,7 +6432,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["fdx-shekzeer"]=7,
 	["féanïr-auberdine"]=14,
 	["feararenaone-shekzeer"]=17,
-	["fearbreaker-shekzeer"]=17,
+	["fearbreaker-shekzeer"]=23,
 	["feardog-garalon"]=23,
 	["fearedqt-shekzeer"]=23,
 	["fearintofear-shekzeer"]=17,
@@ -9017,7 +9018,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["ßázzy-shekzeer"]=15,
 	["ßenimãru-shekzeer"]=3,
 	["ßlickxy-shekzeer"]=3,
-	["ßlinkd-shekzeer"]=0,
+	["ßlinkd-shekzeer"]=2,
 	["ßm-shekzeer"]=6,
 	["ßoa-norushen"]=9,
 	["ßonk-norushen"]=6,
@@ -9999,7 +10000,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["zuur-garalon"]=9,
 	["zycnz-everlook"]=3,
 	["zygorex-ook-ook"]=1,
-	["zyphor-hoptallus"]=24,
+	["zyphor-hoptallus"]=26,
 	["zzkaineyzz-shekzeer"]=21,
 	["Ааггааммаа-flamegor"]=6,
 	["Аакрах-flamegor"]=11,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9556 characters, read 2026-09-29 01:58 PM.
+-- Region tbc-us, 9556 characters, read 2026-09-29 02:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11008,7 +11008,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["cocoplum-nightslayer"]=7,
 	["cocoshift-nightslayer"]=3,
 	["cocvendor-nightslayer"]=6,
-	["codeforfood-nightslayer"]=1,
+	["codeforfood-nightslayer"]=12,
 	["coerce-nightslayer"]=15,
 	["côffee-nightslayer"]=24,
 	["coffeedisc-nightslayer"]=1,
@@ -11548,7 +11548,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["Ðiscøvery-nightslayer"]=1,
 	["discriminatr-nightslayer"]=10,
 	["discustingx-nightslayer"]=1,
-	["discynormus-dreamscythe"]=1,
+	["discynormus-dreamscythe"]=14,
 	["disdisc-nightslayer"]=12,
 	["diseasedrat-nightslayer"]=2,
 	["disgracey-nightslayer"]=17,
@@ -12276,7 +12276,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["finessinn-nightslayer"]=14,
 	["finlay-dreamscythe"]=7,
 	["finnasqwert-nightslayer"]=1,
-	["finnka-nightslayer"]=6,
+	["finnka-nightslayer"]=4,
 	["finr-nightslayer"]=4,
 	["finsoup-nightslayer"]=5,
 	["finx-nightslayer"]=4,
