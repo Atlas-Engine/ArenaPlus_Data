@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5177 characters, read 2026-09-30 01:59 PM.
+-- Region us, 5177 characters, read 2026-09-30 02:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6094,7 +6094,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dirtyboom-galakras"]=17,
 	["dirtydeedss-galakras"]=25,
 	["dirtydiaperz-pagle"]=10,
-	["dirtyshizbit-galakras"]=3,
+	["dirtyshizbit-galakras"]=18,
 	["dirtysoap-raden"]=20,
 	["discborn-pagle"]=13,
 	["dischealzz-raden"]=21,
@@ -6116,7 +6116,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dizzrock-lei-shen"]=15,
 	["djabita-nazgrim"]=1,
 	["djadá-pagle"]=4,
-	["djinx-raden"]=29,
+	["djinx-raden"]=14,
 	["djnapples-lei-shen"]=12,
 	["djnox-pagle"]=24,
 	["Ðjsnake-raden"]=0,
@@ -6143,7 +6143,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dohrow-pagle"]=15,
 	["dojadruid-raden"]=5,
 	["dojamonktwo-pagle"]=4,
-	["dojareborn-pagle"]=20,
+	["dojareborn-pagle"]=18,
 	["dokkó-pagle"]=14,
 	["doktroz-nazgrim"]=7,
 	["dollamenuhoj-raden"]=2,
@@ -8959,7 +8959,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["sgbtq-raden"]=9,
 	["sgbtqx-raden"]=15,
 	["shadhow-lei-shen"]=29,
-	["shadiez-raden"]=21,
+	["shadiez-raden"]=13,
 	["shadowarlock-nazgrim"]=24,
 	["shadowchuckr-nazgrim"]=21,
 	["shadowfroste-lei-shen"]=1,

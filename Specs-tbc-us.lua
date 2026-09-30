@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9548 characters, read 2026-09-30 01:58 PM.
+-- Region tbc-us, 9548 characters, read 2026-09-30 02:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10558,7 +10558,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bubbleebear-nightslayer"]=3,
 	["bubblewrapr-nightslayer"]=0,
 	["bubblinbenny-nightslayer"]=1,
-	["bubbrill-dreamscythe"]=14,
+	["bubbrill-dreamscythe"]=1,
 	["bubdiddly-nightslayer"]=7,
 	["bubikim-nightslayer"]=7,
 	["bubiss-nightslayer"]=1,
@@ -12008,7 +12008,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["eoin-nightslayer"]=10,
 	["ephemeral-nightslayer"]=3,
 	["ephirion-nightslayer"]=5,
-	["ephrine-nightslayer"]=5,
+	["ephrine-nightslayer"]=8,
 	["epicureus-nightslayer"]=10,
 	["eprios-nightslayer"]=13,
 	["epstunned-nightslayer"]=5,
@@ -12585,7 +12585,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["gêngar-nightslayer"]=5,
 	["geniusbeast-nightslayer"]=7,
 	["gennisp-nightslayer"]=1,
-	["gennisw-nightslayer"]=18,
+	["gennisw-nightslayer"]=2,
 	["gennys-nightslayer"]=10,
 	["gensai-nightslayer"]=5,
 	["gensaix-nightslayer"]=5,
@@ -13093,7 +13093,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["hmach-nightslayer"]=3,
 	["hmm-nightslayer"]=7,
 	["hmmfine-nightslayer"]=5,
-	["hmpx-nightslayer"]=2,
+	["hmpx-nightslayer"]=18,
 	["hneto-nightslayer"]=2,
 	["hoated-dreamscythe"]=1,
 	["hobertdwnyjr-nightslayer"]=1,
@@ -16799,7 +16799,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["shaykh-nightslayer"]=1,
 	["shb-nightslayer"]=9,
 	["shbster-nightslayer"]=10,
-	["sheenyteeds-nightslayer"]=8,
+	["sheenyteeds-nightslayer"]=5,
 	["sheep-nightslayer"]=5,
 	["shëësh-dreamscythe"]=4,
 	["shêêsh-nightslayer"]=5,
