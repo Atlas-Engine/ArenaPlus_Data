@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9573 characters, read 2026-09-29 08:58 PM.
+-- Region tbc-us, 9573 characters, read 2026-09-29 09:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9507,7 +9507,7 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 ns.SPECS_BY_REGION = ns.SPECS_BY_REGION or {}
 
 ns.SPECS_BY_REGION["tbc-us"] = {
-	["aadvark-nightslayer"]=7,
+	["aadvark-nightslayer"]=3,
 	["aargo-nightslayer"]=1,
 	["aathena-nightslayer"]=1,
 	["abadonm-nightslayer"]=2,
@@ -11756,7 +11756,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["drewits-nightslayer"]=7,
 	["drexxjr-dreamscythe"]=14,
 	["drezrogue-dreamscythe"]=8,
-	["drgucci-nightslayer"]=5,
+	["drgucci-nightslayer"]=8,
 	["drickledrip-nightslayer"]=13,
 	["driftings-nightslayer"]=4,
 	["driftingw-nightslayer"]=9,
@@ -11868,7 +11868,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["dusti-nightslayer"]=25,
 	["dutonga-nightslayer"]=18,
 	["duukez-nightslayer"]=2,
-	["duxlol-nightslayer"]=13,
+	["duxlol-nightslayer"]=16,
 	["duxxar-nightslayer"]=15,
 	["duzentosvolt-nightslayer"]=24,
 	["dv-nightslayer"]=7,
@@ -12866,7 +12866,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["grushock-nightslayer"]=19,
 	["gslust-nightslayer"]=24,
 	["gsung-nightslayer"]=13,
-	["gtokqt-dreamscythe"]=19,
+	["gtokqt-dreamscythe"]=10,
 	["gtokxyz-dreamscythe"]=5,
 	["guacatazo-nightslayer"]=11,
 	["guàrd-dreamscythe"]=18,
@@ -13290,7 +13290,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["iceblockx-nightslayer"]=6,
 	["icebreakers-nightslayer"]=4,
 	["icebutler-nightslayer"]=13,
-	["iceckle-nightslayer"]=16,
+	["iceckle-nightslayer"]=23,
 	["icecreamgoat-nightslayer"]=24,
 	["icedancee-nightslayer"]=5,
 	["icedchemex-dreamscythe"]=1,
@@ -14513,7 +14513,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["màlarsìn-nightslayer"]=5,
 	["malasham-nightslayer"]=10,
 	["malazane-nightslayer"]=7,
-	["maldly-nightslayer"]=2,
+	["maldly-nightslayer"]=18,
 	["malewarrior-nightslayer"]=2,
 	["malices-nightslayer"]=7,
 	["malilia-nightslayer"]=7,
@@ -15787,7 +15787,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["pinkèr-nightslayer"]=7,
 	["pinkierr-nightslayer"]=10,
 	["pinkrangerz-nightslayer"]=7,
-	["pinkzz-nightslayer"]=13,
+	["pinkzz-nightslayer"]=23,
 	["pinoh-nightslayer"]=15,
 	["pipidd-dreamscythe"]=7,
 	["pipiss-dreamscythe"]=13,

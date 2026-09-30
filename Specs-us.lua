@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5176 characters, read 2026-09-29 08:59 PM.
+-- Region us, 5176 characters, read 2026-09-29 09:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5029,7 +5029,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["acxblue-raden"]=19,
 	["acxdisciple-raden"]=0,
 	["adamandsteve-immerseus"]=9,
-	["adamwarløck-nazgrim"]=28,
+	["adamwarløck-nazgrim"]=24,
 	["adeathians-lei-shen"]=6,
 	["adepto-pagle"]=7,
 	["adgavert-lei-shen"]=32,
@@ -5273,7 +5273,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["baedan-raden"]=4,
 	["baedon-raden"]=6,
 	["baelmis-pagle"]=1,
-	["bagahbonesx-pagle"]=21,
+	["bagahbonesx-pagle"]=9,
 	["bagelcave-nazgrim"]=22,
 	["bagelcave-pagle"]=22,
 	["bagelcavee-immerseus"]=22,
@@ -5943,7 +5943,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dankendwarf-pagle"]=22,
 	["dankenelf-pagle"]=5,
 	["dankenshroom-lei-shen"]=5,
-	["dankenstein-lei-shen"]=22,
+	["dankenstein-lei-shen"]=19,
 	["dankorbs-pagle"]=4,
 	["dankshots-lei-shen"]=3,
 	["dankumss-immerseus"]=16,
@@ -6886,7 +6886,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["healingmonk-pagle"]=4,
 	["healmeratt-galakras"]=2,
 	["healsbbqt-pagle"]=2,
-	["healsforyou-raden"]=10,
+	["healsforyou-raden"]=4,
 	["healsondek-pagle"]=2,
 	["healszx-pagle"]=0,
 	["heârtless-pagle"]=7,
@@ -9967,7 +9967,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["xaj-raden"]=5,
 	["xanacs-nazgrim"]=4,
 	["xanaxlolz-galakras"]=12,
-	["xander-raden"]=24,
+	["xander-raden"]=28,
 	["xandxr-raden"]=24,
 	["xanybar-raden"]=17,
 	["xarblade-immerseus"]=3,
