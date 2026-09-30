@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5179 characters, read 2026-09-30 04:59 PM.
+-- Region us, 5179 characters, read 2026-09-30 05:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5675,7 +5675,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["carpetman-galakras"]=14,
 	["cartermyboy-raden"]=6,
 	["cartiermw-raden"]=4,
-	["casaamigos-pagle"]=9,
+	["casaamigos-pagle"]=21,
 	["cashpoorxlm-raden"]=14,
 	["câtâclysm-nazgrim"]=28,
 	["catafracta-pagle"]=7,
@@ -5710,7 +5710,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["chakrabolt-pagle"]=28,
 	["chambeazley-pagle"]=2,
 	["chamboyswag-nazgrim"]=19,
-	["champlock-raden"]=28,
+	["champlock-raden"]=24,
 	["champmage-raden"]=1,
 	["chaoscutie-galakras"]=24,
 	["chaossy-pagle"]=24,
@@ -6626,7 +6626,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["fxd-arugal-au"]=5,
 	["gaarah-pagle"]=1,
 	["gabimaru-raden"]=4,
-	["gaejustin-pagle"]=12,
+	["gaejustin-pagle"]=33,
 	["gaêl-lei-shen"]=18,
 	["gaethje-raden"]=0,
 	["gaiden-nazgrim"]=34,
@@ -6845,7 +6845,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["haileyy-raden"]=16,
 	["hairarmpit-benediction"]=4,
 	["haircheck-raden"]=27,
-	["hairyarms-raden"]=5,
+	["hairyarms-raden"]=12,
 	["hallowground-immerseus"]=21,
 	["häm-nazgrim"]=29,
 	["hammerman-lei-shen"]=16,
@@ -7184,7 +7184,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["jablinksi-immerseus"]=27,
 	["jabullsheeit-pagle"]=3,
 	["jabzul-galakras"]=3,
-	["jackelinc-pagle"]=18,
+	["jackelinc-pagle"]=20,
 	["jackietan-pagle"]=4,
 	["jackmorgan-pagle"]=16,
 	["jackxo-arugal-au"]=11,
@@ -10148,7 +10148,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["zheani-raden"]=2,
 	["zhifty-raden"]=5,
 	["zhuofan-lei-shen"]=27,
-	["zìegen-lei-shen"]=1,
+	["zìegen-lei-shen"]=31,
 	["zinw-pagle"]=3,
 	["zíonlion-raden"]=18,
 	["zivarikk-pagle"]=7,
