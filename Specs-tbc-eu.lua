@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9955 characters, read 2026-09-30 03:59 AM.
+-- Region tbc-eu, 9955 characters, read 2026-09-30 04:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -491,7 +491,6 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["atomíc-spineshatter"]=51,
 	["atomìc-spineshatter"]=61,
 	["atomkraftzer-spineshatter"]=41,
-	["atrocita-spineshatter"]=51,
 	["attaroga-spineshatter"]=20,
 	["attarox-spineshatter"]=50,
 	["atvo-spineshatter"]=11,
@@ -10329,7 +10328,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["atomíc-spineshatter"]=2,
 	["atomìc-spineshatter"]=1,
 	["atomkraftzer-spineshatter"]=1,
-	["atrocita-spineshatter"]=3,
+	["atrocita-spineshatter"]=0,
 	["attaroga-spineshatter"]=12,
 	["attarox-spineshatter"]=4,
 	["atvo-spineshatter"]=13,
@@ -10861,7 +10860,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["bojeboje-spineshatter"]=2,
 	["bokhche-spineshatter"]=18,
 	["bokpugx-spineshatter"]=5,
-	["bolarzx-spineshatter"]=18,
+	["bolarzx-spineshatter"]=13,
 	["bolomboy-spineshatter"]=2,
 	["bølzer-thunderstrike"]=3,
 	["bombadïl-spineshatter"]=9,
@@ -12515,7 +12514,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["exelos-thunderstrike"]=3,
 	["exequtedal-spineshatter"]=5,
 	["exlool-spineshatter"]=2,
-	["exô-spineshatter"]=13,
+	["exô-spineshatter"]=18,
 	["exora-spineshatter"]=2,
 	["exoraa-spineshatter"]=1,
 	["exorfál-spineshatter"]=18,
@@ -12895,7 +12894,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["fsxsham-spineshatter"]=11,
 	["ftwfab-spineshatter"]=25,
 	["fuchsbiss-thunderstrike"]=2,
-	["fuegoturbo-spineshatter"]=9,
+	["fuegoturbo-spineshatter"]=4,
 	["fuelex-thunderstrike"]=23,
 	["fülcimpa-thunderstrike"]=1,
 	["fulfrans-spineshatter"]=11,
@@ -13059,7 +13058,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["glockgunnar-spineshatter"]=13,
 	["glødëätinä-spineshatter"]=10,
 	["glodina-spineshatter"]=25,
-	["gloobo-thunderstrike"]=3,
+	["gloobo-thunderstrike"]=19,
 	["gløomy-spineshatter"]=13,
 	["gloomybrook-spineshatter"]=3,
 	["gloonch-spineshatter"]=8,

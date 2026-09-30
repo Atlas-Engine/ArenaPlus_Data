@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5317 characters, read 2026-09-30 04:00 AM.
+-- Region eu, 5317 characters, read 2026-09-30 05:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7227,7 +7227,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["kepsyx-shekzeer"]=21,
 	["kerber-mirage-raceway"]=23,
 	["kermane-mirage-raceway"]=26,
-	["kêrolina-shekzeer"]=11,
+	["kêrolina-shekzeer"]=3,
 	["keskia-auberdine"]=5,
 	["ketagenießer-everlook"]=16,
 	["ketåmine-shekzeer"]=8,
@@ -7808,11 +7808,11 @@ ns.SPECS_BY_REGION["eu"] = {
 	["monduk-auberdine"]=7,
 	["moneylong-shekzeer"]=17,
 	["mongoliamonk-hoptallus"]=13,
-	["mongue-garalon"]=12,
+	["mongue-garalon"]=9,
 	["monkasxd-everlook"]=6,
 	["monkasxd-ook-ook"]=6,
 	["monkatoz-shekzeer"]=7,
-	["monkaye-mirage-raceway"]=6,
+	["monkaye-mirage-raceway"]=7,
 	["monkedruid-shekzeer"]=3,
 	["monkerino-garalon"]=6,
 	["monkeyah-shekzeer"]=6,
@@ -9819,7 +9819,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["xulthiær-everlook"]=9,
 	["xulthiar-everlook"]=9,
 	["xulthior-everlook"]=2,
-	["xuone-hoptallus"]=1,
+	["xuone-hoptallus"]=25,
 	["xyána-everlook"]=9,
 	["xyraine-norushen"]=12,
 	["yagnarok-mirage-raceway"]=1,
