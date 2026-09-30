@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5174 characters, read 2026-09-30 01:59 AM.
+-- Region us, 5174 characters, read 2026-09-30 02:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5858,7 +5858,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["crazykreder-pagle"]=5,
 	["crazywick-pagle"]=16,
 	["creamytotem-galakras"]=15,
-	["crearly-galakras"]=25,
+	["crearly-galakras"]=6,
 	["crepes-pagle"]=12,
 	["crepuscolo-pagle"]=2,
 	["crepusculé-pagle"]=1,
@@ -5939,7 +5939,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dankendwarf-pagle"]=22,
 	["dankenelf-pagle"]=5,
 	["dankenshroom-lei-shen"]=5,
-	["dankenstein-lei-shen"]=19,
+	["dankenstein-lei-shen"]=22,
 	["dankorbs-pagle"]=4,
 	["dankshots-lei-shen"]=3,
 	["dankumss-immerseus"]=16,
@@ -7039,7 +7039,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ibituã-nazgrim"]=5,
 	["iboptanks-nazgrim"]=2,
 	["ibuildwalls-pagle"]=24,
-	["icarryhim-galakras"]=3,
+	["icarryhim-galakras"]=20,
 	["icaru-raden"]=10,
 	["icarú-raden"]=10,
 	["iceblight-nazgrim"]=0,
@@ -8007,7 +8007,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["mslusty-pagle"]=4,
 	["msnurfme-raden"]=5,
 	["msr-galakras"]=3,
-	["mtj-atiesh"]=17,
+	["mtj-atiesh"]=5,
 	["mufasaz-pagle"]=10,
 	["muffìn-raden"]=7,
 	["mugroso-galakras"]=18,
