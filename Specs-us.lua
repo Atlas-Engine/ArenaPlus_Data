@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5177 characters, read 2026-09-30 03:59 PM.
+-- Region us, 5179 characters, read 2026-09-30 04:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3874,6 +3874,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["shatterbust-raden"]=11,
 	["shawdtychad-pagle"]=10,
 	["shed-pagle"]=10,
+	["shedaoshai-pagle"]=250,
 	["sheerwill-pagle"]=11,
 	["sheev-benediction"]=11,
 	["sheikzor-raden"]=11,
@@ -4731,6 +4732,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["whítéé-raden"]=10,
 	["whitellily-raden"]=41,
 	["whìtêmöñstér-raden"]=10,
+	["whitewedding-raden"]=11,
 	["whitlock-lei-shen"]=10,
 	["whittle-lei-shen"]=30,
 	["whodïs-galakras"]=20,
@@ -5769,7 +5771,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["chuppie-pagle"]=2,
 	["chuuonu-benediction"]=33,
 	["chyse-pagle"]=1,
-	["ciapsyop-pagle"]=5,
+	["ciapsyop-pagle"]=12,
 	["cìel-pagle"]=10,
 	["cinch-lei-shen"]=3,
 	["citizentroll-immerseus"]=22,
@@ -5865,7 +5867,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["crepes-pagle"]=12,
 	["crepuscolo-pagle"]=2,
 	["crepusculé-pagle"]=1,
-	["crimsonvow-pagle"]=2,
+	["crimsonvow-pagle"]=16,
 	["criogenico-immerseus"]=1,
 	["cripton-raden"]=1,
 	["crithub-galakras"]=11,
@@ -7984,7 +7986,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["moonrip-raden"]=12,
 	["moonspellol-galakras"]=14,
 	["møønstár-arugal-au"]=17,
-	["møonxz-raden"]=33,
+	["møonxz-raden"]=5,
 	["møønzx-galakras"]=17,
 	["mootski-pagle"]=3,
 	["mopdruid-pagle"]=0,
@@ -8791,7 +8793,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ronsenwinkel-pagle"]=22,
 	["ronsol-nazgrim"]=7,
 	["roontoon-raden"]=25,
-	["roösha-arugal-au"]=19,
+	["roösha-arugal-au"]=15,
 	["roprah-pagle"]=4,
 	["rorán-nazgrim"]=16,
 	["röshí-raden"]=15,
@@ -8994,6 +8996,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["shatterbust-raden"]=11,
 	["shawdtychad-pagle"]=16,
 	["shed-pagle"]=26,
+	["shedaoshai-pagle"]=4,
 	["sheerwill-pagle"]=2,
 	["sheev-benediction"]=20,
 	["sheikzor-raden"]=11,
@@ -9708,7 +9711,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ucmenow-raden"]=29,
 	["uddermadlad-pagle"]=26,
 	["uglybaldbaby-raden"]=12,
-	["uglybroad-raden"]=13,
+	["uglybroad-raden"]=9,
 	["ugoblindeez-nazgrim"]=13,
 	["ui-pagle"]=4,
 	["uiik-pagle"]=10,
@@ -9902,6 +9905,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["whítéé-raden"]=6,
 	["whitellily-raden"]=5,
 	["whìtêmöñstér-raden"]=10,
+	["whitewedding-raden"]=7,
 	["whitlock-lei-shen"]=11,
 	["whittle-lei-shen"]=9,
 	["whodïs-galakras"]=3,
