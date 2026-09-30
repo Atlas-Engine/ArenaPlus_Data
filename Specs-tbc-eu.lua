@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9956 characters, read 2026-09-30 10:59 AM.
+-- Region tbc-eu, 9956 characters, read 2026-09-30 11:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10295,7 +10295,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["asferto-spineshatter"]=23,
 	["ashamedtwist-spineshatter"]=7,
 	["Åshka-spineshatter"]=9,
-	["ashniko-spineshatter"]=2,
+	["ashniko-spineshatter"]=17,
 	["ashstorm-spineshatter"]=7,
 	["ashyrahahaha-spineshatter"]=2,
 	["asiastabs-spineshatter"]=19,
@@ -11663,7 +11663,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["darkfaid-thunderstrike"]=8,
 	["darkflamez-spineshatter"]=13,
 	["darklinxs-thunderstrike"]=9,
-	["darkmid-spineshatter"]=23,
+	["darkmid-spineshatter"]=11,
 	["darkncreamy-spineshatter"]=5,
 	["darkolak-spineshatter"]=11,
 	["darkolakgodx-spineshatter"]=11,
@@ -12266,7 +12266,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["eidô-thunderstrike"]=9,
 	["eikas-spineshatter"]=9,
 	["eikdin-spineshatter"]=7,
-	["eikdruid-spineshatter"]=1,
+	["eikdruid-spineshatter"]=6,
 	["eikdruìd-spineshatter"]=1,
 	["eïn-spineshatter"]=15,
 	["eingelocht-spineshatter"]=5,
@@ -12527,7 +12527,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["extas-spineshatter"]=13,
 	["extracare-spineshatter"]=5,
 	["extramoo-spineshatter"]=5,
-	["extraspicyx-spineshatter"]=15,
+	["extraspicyx-spineshatter"]=5,
 	["extrmways-spineshatter"]=3,
 	["exycosa-spineshatter"]=5,
 	["eydh-spineshatter"]=3,
@@ -12548,7 +12548,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["fã-spineshatter"]=0,
 	["fabdps-spineshatter"]=2,
 	["fabolouslol-spineshatter"]=11,
-	["facecontrol-spineshatter"]=17,
+	["facecontrol-spineshatter"]=2,
 	["facee-spineshatter"]=5,
 	["fachkraftqt-spineshatter"]=23,
 	["fàde-thunderstrike"]=3,
@@ -15164,7 +15164,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["mcser-spineshatter"]=9,
 	["mcstâbby-spineshatter"]=3,
 	["mctruff-spineshatter"]=25,
-	["mcy-spineshatter"]=2,
+	["mcy-spineshatter"]=17,
 	["mdamazingx-spineshatter"]=1,
 	["mdâx-spineshatter"]=25,
 	["mdfast-spineshatter"]=2,
@@ -16517,7 +16517,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["pornello-spineshatter"]=2,
 	["poroseenok-spineshatter"]=5,
 	["pørtoss-thunderstrike"]=5,
-	["pøsipaka-spineshatter"]=19,
+	["pøsipaka-spineshatter"]=3,
 	["posledniÿraz-spineshatter"]=3,
 	["poslédniyraz-spineshatter"]=3,
 	["postarinke-spineshatter"]=14,

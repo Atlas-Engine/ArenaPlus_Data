@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5317 characters, read 2026-09-30 11:00 AM.
+-- Region eu, 5317 characters, read 2026-09-30 12:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6445,7 +6445,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["fengmoon-garalon"]=5,
 	["fentanyler-garalon"]=9,
 	["fentmaster-shekzeer"]=4,
-	["fergußs-everlook"]=24,
+	["fergußs-everlook"]=26,
 	["ferizelius-shekzeer"]=20,
 	["ferlaz-shekzeer"]=11,
 	["fernandoó-shekzeer"]=8,
@@ -6690,7 +6690,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["grondax-norushen"]=5,
 	["grsy-shekzeer"]=6,
 	["grumpyolbaby-shekzeer"]=11,
-	["grumshado-hoptallus"]=7,
+	["grumshado-hoptallus"]=6,
 	["gsek-shekzeer"]=1,
 	["guangtou-shekzeer"]=1,
 	["guaposensei-shekzeer"]=3,
@@ -6732,7 +6732,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["halotestin-shekzeer"]=19,
 	["halowar-shekzeer"]=1,
 	["halul-shekzeer"]=2,
-	["halyse-shekzeer"]=10,
+	["halyse-shekzeer"]=2,
 	["hammer-garalon"]=0,
 	["hanagata-norushen"]=9,
 	["hanamichi-norushen"]=7,
@@ -6753,7 +6753,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["hasunimi-hoptallus"]=8,
 	["haudruff-mirage-raceway"]=1,
 	["hauq-shekzeer"]=0,
-	["havana-ook-ook"]=1,
+	["havana-ook-ook"]=25,
 	["havecluelol-shekzeer"]=20,
 	["havnis-garalon"]=3,
 	["hawken-shekzeer"]=4,

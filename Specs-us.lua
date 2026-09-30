@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5177 characters, read 2026-09-30 10:59 AM.
+-- Region us, 5177 characters, read 2026-09-30 11:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6271,7 +6271,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dvz-pagle"]=7,
 	["dweebz-pagle"]=22,
 	["dwells-raden"]=0,
-	["dwl-raden"]=12,
+	["dwl-raden"]=5,
 	["dyingwhale-pagle"]=3,
 	["Ðyst-pagle"]=11,
 	["dystopia-pagle"]=33,
@@ -6531,7 +6531,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["fleshoflight-raden"]=16,
 	["flexi-pagle"]=10,
 	["flexism-pagle"]=11,
-	["flexismx-pagle"]=24,
+	["flexismx-pagle"]=8,
 	["flexismxx-pagle"]=11,
 	["flightschool-pagle"]=5,
 	["flipssix-lei-shen"]=18,
@@ -6634,7 +6634,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["galekk-immerseus"]=4,
 	["galey-galakras"]=23,
 	["galica-immerseus"]=30,
-	["gallagher-raden"]=11,
+	["gallagher-raden"]=1,
 	["galletica-pagle"]=23,
 	["galvaron-pagle"]=2,
 	["gambezee-raden"]=21,
@@ -8159,7 +8159,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["niköl-pagle"]=7,
 	["nikotina-galakras"]=29,
 	["nili-pagle"]=28,
-	["nilio-raden"]=1,
+	["nilio-raden"]=31,
 	["nìlla-pagle"]=1,
 	["nimíx-pagle"]=6,
 	["ninedeep-pagle"]=7,
@@ -8682,7 +8682,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["rekstorm-nazgrim"]=7,
 	["rektalrager-galakras"]=22,
 	["rekzor-raden"]=7,
-	["rel-nazgrim"]=6,
+	["rel-nazgrim"]=26,
 	["relapse-lei-shen"]=1,
 	["relaxx-lei-shen"]=9,
 	["réligion-raden"]=25,
