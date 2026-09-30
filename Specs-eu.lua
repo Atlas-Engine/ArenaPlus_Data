@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5317 characters, read 2026-09-30 12:00 AM.
+-- Region eu, 5317 characters, read 2026-09-30 01:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3073,6 +3073,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["pharaoh-shekzeer"]=40,
 	["phellian-shekzeer"]=10,
 	["phicon-shekzeer"]=11,
+	["phillip-shekzeer"]=11,
 	["phishing-shekzeer"]=11,
 	["phoemchu-everlook"]=41,
 	["phora-shekzeer"]=11,
@@ -3103,7 +3104,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["plåýböt-shekzeer"]=11,
 	["plåýbøt-shekzeer"]=11,
 	["plâybøybûnny-shekzeer"]=11,
-	["plåýßøt-shekzeer"]=21,
+	["plåýßøt-shekzeer"]=20,
 	["plïnki-auberdine"]=11,
 	["plmbeachpete-shekzeer"]=11,
 	["plushfire-everlook"]=11,
@@ -4374,7 +4375,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["weedhugger-hoptallus"]=41,
 	["weizyh-shekzeer"]=11,
 	["weppz-shekzeer"]=41,
-	["wercettix-shekzeer"]=11,
 	["weriano-shekzeer"]=11,
 	["werianoo-shekzeer"]=41,
 	["wevenxd-shekzeer"]=41,
@@ -7477,7 +7477,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["liplinerxoxo-garalon"]=17,
 	["lipmode-norushen"]=14,
 	["lippy-norushen"]=2,
-	["liquidity-shekzeer"]=8,
+	["liquidity-shekzeer"]=33,
 	["liriel-shekzeer"]=6,
 	["lirielww-shekzeer"]=7,
 	["listerine-shekzeer"]=4,
@@ -8306,6 +8306,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["phellian-shekzeer"]=2,
 	["pheya-shekzeer"]=0,
 	["phicon-shekzeer"]=17,
+	["phillip-shekzeer"]=20,
 	["phishing-shekzeer"]=4,
 	["phoemchu-everlook"]=3,
 	["phora-shekzeer"]=9,
@@ -8323,7 +8324,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["pingfade-shekzeer"]=12,
 	["pipelayer-shekzeer"]=24,
 	["pipilili-shekzeer"]=1,
-	["pipioe-shekzeer"]=6,
+	["pipioe-shekzeer"]=7,
 	["pipitrix-shekzeer"]=15,
 	["pippilotta-shekzeer"]=9,
 	["pissemaur-shekzeer"]=6,
@@ -9665,7 +9666,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["weedhugger-hoptallus"]=32,
 	["weizyh-shekzeer"]=4,
 	["weppz-shekzeer"]=11,
-	["wercettix-shekzeer"]=2,
 	["weriano-shekzeer"]=34,
 	["werianoo-shekzeer"]=21,
 	["wevenxd-shekzeer"]=6,
