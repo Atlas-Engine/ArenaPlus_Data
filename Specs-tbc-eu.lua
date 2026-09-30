@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9954 characters, read 2026-09-30 07:59 AM.
+-- Region tbc-eu, 9954 characters, read 2026-09-30 08:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10944,7 +10944,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["breadpiit-spineshatter"]=19,
 	["breaked-spineshatter"]=2,
 	["breakingbald-spineshatter"]=11,
-	["breakøut-thunderstrike"]=5,
+	["breakøut-thunderstrike"]=15,
 	["breakz-spineshatter"]=3,
 	["breezbert-spineshatter"]=23,
 	["brelle-spineshatter"]=9,
@@ -11519,7 +11519,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["crowdler-spineshatter"]=3,
 	["crowfather-spineshatter"]=25,
 	["crowxx-spineshatter"]=6,
-	["crtt-spineshatter"]=14,
+	["crtt-spineshatter"]=18,
 	["crtxdd-spineshatter"]=10,
 	["crucifyer-spineshatter"]=5,
 	["crunchibal-spineshatter"]=5,
@@ -15144,7 +15144,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["maylinzseed-spineshatter"]=14,
 	["maysham-spineshatter"]=11,
 	["mayxkek-spineshatter"]=25,
-	["mayxlol-spineshatter"]=9,
+	["mayxlol-spineshatter"]=4,
 	["mayxlol-thunderstrike"]=24,
 	["mazehh-spineshatter"]=10,
 	["mazllo-spineshatter"]=14,
@@ -17519,7 +17519,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["shaniri-spineshatter"]=25,
 	["shankez-spineshatter"]=2,
 	["shanksì-spineshatter"]=3,
-	["shankspank-spineshatter"]=3,
+	["shankspank-spineshatter"]=19,
 	["shannkerzx-spineshatter"]=3,
 	["shanori-spineshatter"]=3,
 	["shantao-thunderstrike"]=6,
@@ -18443,7 +18443,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["telepath-spineshatter"]=2,
 	["telework-spineshatter"]=18,
 	["telsannyr-spineshatter"]=2,
-	["telyar-spineshatter"]=19,
+	["telyar-spineshatter"]=3,
 	["temeteron-spineshatter"]=7,
 	["temperament-spineshatter"]=18,
 	["temptme-spineshatter"]=2,
