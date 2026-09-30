@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9539 characters, read 2026-09-30 04:58 AM.
+-- Region tbc-us, 9539 characters, read 2026-09-30 05:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9953,7 +9953,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bakeya-dreamscythe"]=13,
 	["bakshotlarry-nightslayer"]=4,
 	["bakstab-nightslayer"]=5,
-	["balalalalu-dreamscythe"]=17,
+	["balalalalu-dreamscythe"]=15,
 	["baldandthicc-nightslayer"]=1,
 	["baldbulla-nightslayer"]=13,
 	["baldhealer-nightslayer"]=1,
@@ -10391,7 +10391,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["boltqq-nightslayer"]=24,
 	["boltsmoommy-nightslayer"]=24,
 	["bomano-nightslayer"]=5,
-	["bombalu-nightslayer"]=16,
+	["bombalu-nightslayer"]=13,
 	["bonabtwistn-nightslayer"]=19,
 	["bondstar-nightslayer"]=5,
 	["bonecrank-dreamscythe"]=8,
@@ -12337,7 +12337,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["floobytooby-nightslayer"]=19,
 	["floody-nightslayer"]=3,
 	["floofyz-dreamscythe"]=1,
-	["flooreo-dreamscythe"]=2,
+	["flooreo-dreamscythe"]=18,
 	["floowqt-nightslayer"]=4,
 	["flopdungler-nightslayer"]=1,
 	["floppydiscjr-nightslayer"]=7,
@@ -12404,13 +12404,13 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["freakyswing-nightslayer"]=18,
 	["freddiegibbs-nightslayer"]=10,
 	["freddystealz-nightslayer"]=5,
-	["fredyshield-nightslayer"]=14,
+	["fredyshield-nightslayer"]=1,
 	["fredyshift-nightslayer"]=7,
 	["freea-nightslayer"]=24,
 	["freecast-nightslayer"]=4,
 	["freegardy-nightslayer"]=1,
 	["freegells-nightslayer"]=7,
-	["freegucci-nightslayer"]=24,
+	["freegucci-nightslayer"]=10,
 	["freepfdx-nightslayer"]=13,
 	["freestyler-nightslayer"]=4,
 	["freewin-dreamscythe"]=5,
@@ -17272,7 +17272,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["sprozay-nightslayer"]=16,
 	["spry-nightslayer"]=1,
 	["spybwc-nightslayer"]=5,
-	["spyderi-nightslayer"]=9,
+	["spyderi-nightslayer"]=25,
 	["spyderii-nightslayer"]=3,
 	["spyderiv-nightslayer"]=3,
 	["spyxo-nightslayer"]=1,
@@ -17401,7 +17401,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["stormdreamer-nightslayer"]=19,
 	["stormdrive-nightslayer"]=19,
 	["stormfurei-nightslayer"]=10,
-	["stormheralds-nightslayer"]=18,
+	["stormheralds-nightslayer"]=2,
 	["stormtroopa-nightslayer"]=17,
 	["stormweener-dreamscythe"]=18,
 	["stormxy-nightslayer"]=24,
@@ -18245,7 +18245,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["verybadclass-nightslayer"]=1,
 	["verygoodgame-nightslayer"]=1,
 	["veryhardgame-dreamscythe"]=7,
-	["veryoldlady-dreamscythe"]=1,
+	["veryoldlady-dreamscythe"]=14,
 	["verypolite-dreamscythe"]=1,
 	["verzika-nightslayer"]=18,
 	["vespias-nightslayer"]=2,
