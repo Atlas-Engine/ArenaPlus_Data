@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9544 characters, read 2026-09-30 11:58 AM.
+-- Region tbc-us, 9544 characters, read 2026-09-30 12:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10321,7 +10321,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bloodravenn-nightslayer"]=6,
 	["bloodreap-dreamscythe"]=2,
 	["bloodrog-nightslayer"]=5,
-	["bloodsport-nightslayer"]=8,
+	["bloodsport-nightslayer"]=5,
 	["bloodwaltz-nightslayer"]=2,
 	["bloodxknight-nightslayer"]=2,
 	["bloodydeznut-nightslayer"]=18,
@@ -12178,7 +12178,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["fastex-nightslayer"]=8,
 	["fasthands-nightslayer"]=10,
 	["fastpace-nightslayer"]=5,
-	["fastslow-nightslayer"]=6,
+	["fastslow-nightslayer"]=4,
 	["fatchudd-dreamscythe"]=4,
 	["fateseal-nightslayer"]=5,
 	["fatgeezer-nightslayer"]=19,
@@ -12194,8 +12194,8 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["fattauren-dreamscythe"]=7,
 	["fattrog-nightslayer"]=1,
 	["faunie-nightslayer"]=4,
-	["fawzyx-nightslayer"]=4,
-	["faxx-nightslayer"]=2,
+	["fawzyx-nightslayer"]=6,
+	["faxx-nightslayer"]=18,
 	["fáylaxp-nightslayer"]=1,
 	["fazan-nightslayer"]=17,
 	["fb-dreamscythe"]=19,
@@ -15553,7 +15553,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["panduhsh-nightslayer"]=19,
 	["panna-nightslayer"]=1,
 	["pantheman-nightslayer"]=7,
-	["pantspally-nightslayer"]=11,
+	["pantspally-nightslayer"]=25,
 	["pantspooper-nightslayer"]=1,
 	["paos-nightslayer"]=19,
 	["papabarkskin-nightslayer"]=7,
@@ -16614,7 +16614,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["scxtt-nightslayer"]=5,
 	["scyer-nightslayer"]=13,
 	["scyless-nightslayer"]=5,
-	["scynd-dreamscythe"]=4,
+	["scynd-dreamscythe"]=6,
 	["sdeat-nightslayer"]=5,
 	["sealdverdict-nightslayer"]=11,
 	["sealenagómez-nightslayer"]=11,
