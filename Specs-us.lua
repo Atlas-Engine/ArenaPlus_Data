@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5177 characters, read 2026-09-30 12:59 PM.
+-- Region us, 5177 characters, read 2026-09-30 01:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6169,7 +6169,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["Ðøøzy-pagle"]=25,
 	["dorayeda-galakras"]=10,
 	["dorris-raden"]=17,
-	["dorrsil-galakras"]=12,
+	["dorrsil-galakras"]=5,
 	["dorsil-galakras"]=1,
 	["dorsïl-galakras"]=4,
 	["dörsil-pagle"]=7,
@@ -6179,7 +6179,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dosak-pagle"]=10,
 	["dóssy-immerseus"]=34,
 	["dotdotgoose-immerseus"]=28,
-	["dothkar-galakras"]=11,
+	["dothkar-galakras"]=1,
 	["dotwaves-pagle"]=3,
 	["dôtzz-galakras"]=24,
 	["double-lei-shen"]=14,
@@ -6205,7 +6205,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["drellus-pagle"]=15,
 	["Ðressrøsa-immerseus"]=10,
 	["drewdipsy-pagle"]=7,
-	["drewleon-pagle"]=5,
+	["drewleon-pagle"]=17,
 	["drewwd-nazgrim"]=5,
 	["dreyad-pagle"]=5,
 	["dreyas-pagle"]=7,
@@ -6338,7 +6338,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["eltoromu-nazgrim"]=5,
 	["elusivenes-raden"]=29,
 	["eluulttv-raden"]=10,
-	["eluveth-pagle"]=9,
+	["eluveth-pagle"]=21,
 	["elvaqueromoo-immerseus"]=16,
 	["elvius-raden"]=7,
 	["elyä-pagle"]=16,
@@ -7078,7 +7078,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ifireman-raden"]=1,
 	["ifistu-galakras"]=4,
 	["igather-galakras"]=17,
-	["igziluhraet-pagle"]=34,
+	["igziluhraet-pagle"]=29,
 	["ihatemetoo-raden"]=0,
 	["ihavenohand-pagle"]=10,
 	["ihealinufeel-pagle"]=5,
@@ -9612,7 +9612,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["touchofdiddy-raden"]=4,
 	["toughstuff-raden"]=0,
 	["towjam-nazgrim"]=19,
-	["tøxic-nazgrim"]=34,
+	["tøxic-nazgrim"]=29,
 	["tóxica-pagle"]=34,
 	["toxiciguana-pagle"]=29,
 	["toxyc-galakras"]=21,
@@ -10064,7 +10064,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["youngvërcesx-raden"]=27,
 	["youngx-pagle"]=4,
 	["youppl-pagle"]=7,
-	["yourendisher-pagle"]=1,
+	["yourendisher-pagle"]=11,
 	["youz-pagle"]=15,
 	["yrd-pagle"]=9,
 	["yrrlol-pagle"]=5,
