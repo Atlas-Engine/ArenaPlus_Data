@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5174 characters, read 2026-09-30 02:59 AM.
+-- Region us, 5174 characters, read 2026-09-30 03:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4674,7 +4674,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["vteckicked-pagle"]=41,
 	["vvalaydia-pagle"]=11,
 	["vvarrior-raden"]=10,
-	["vvuvvuuvvuvv-raden"]=11,
+	["vvuvvuuvvuvv-raden"]=10,
 	["vyaphets-immerseus"]=80,
 	["vyndruh-pagle"]=100,
 	["vyrdzugzug-nazgrim"]=20,
@@ -5068,7 +5068,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["alakk-lei-shen"]=7,
 	["alanfury-raden"]=7,
 	["alanfuryx-raden"]=19,
-	["alarayia-raden"]=3,
+	["alarayia-raden"]=18,
 	["alassin-galakras"]=4,
 	["albomane-pagle"]=21,
 	["alchemistmed-galakras"]=12,
@@ -6926,7 +6926,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["hickery-arugal-au"]=14,
 	["hideandhunt-galakras"]=3,
 	["hifukface-raden"]=5,
-	["hifvckface-raden"]=10,
+	["hifvckface-raden"]=4,
 	["highc-galakras"]=22,
 	["highç-galakras"]=27,
 	["hîghc-galakras"]=17,
@@ -7294,7 +7294,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["juggrknot-lei-shen"]=7,
 	["juggzjudy-raden"]=6,
 	["juhquilfa-pagle"]=29,
-	["juicedaddy-pagle"]=16,
+	["juicedaddy-pagle"]=2,
 	["juicedupd-pagle"]=17,
 	["juisyblight-galakras"]=6,
 	["juisytouch-galakras"]=4,
@@ -7692,7 +7692,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["lunarlass-pagle"]=2,
 	["lunchmeat-nazgrim"]=0,
 	["lunishamtwo-raden"]=0,
-	["lunpi-raden"]=4,
+	["lunpi-raden"]=27,
 	["lusts-raden"]=10,
 	["luum-raden"]=5,
 	["luuvmuscle-galakras"]=1,
@@ -9830,7 +9830,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["vonxx-pagle"]=24,
 	["vonzxy-pagle"]=11,
 	["vorag-nazgrim"]=10,
-	["voromyr-lei-shen"]=7,
+	["voromyr-lei-shen"]=23,
 	["vorthorne-raden"]=30,
 	["voshay-pagle"]=15,
 	["vovaii-pagle"]=12,
