@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9956 characters, read 2026-09-30 09:59 AM.
+-- Region tbc-eu, 9956 characters, read 2026-09-30 10:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10480,7 +10480,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["badnéws-spineshatter"]=1,
 	["badpreist-spineshatter"]=2,
 	["badsophie-spineshatter"]=3,
-	["badsyrup-spineshatter"]=2,
+	["badsyrup-spineshatter"]=17,
 	["badwrong-spineshatter"]=5,
 	["bæbïanø-spineshatter"]=9,
 	["bæddy-thunderstrike"]=9,
@@ -10564,7 +10564,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["barkbosse-spineshatter"]=6,
 	["barnesd-spineshatter"]=6,
 	["bärr-spineshatter"]=13,
-	["barrmana-spineshatter"]=14,
+	["barrmana-spineshatter"]=13,
 	["basbijem-spineshatter"]=3,
 	["bashieq-spineshatter"]=7,
 	["basirlas-spineshatter"]=2,
@@ -11190,7 +11190,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["céovery-spineshatter"]=23,
 	["cercle-spineshatter"]=17,
 	["cestlechoc-spineshatter"]=11,
-	["cetozie-spineshatter"]=5,
+	["cetozie-spineshatter"]=15,
 	["cezarep-spineshatter"]=26,
 	["cezy-spineshatter"]=2,
 	["chaals-spineshatter"]=1,
@@ -13268,7 +13268,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["happykite-spineshatter"]=1,
 	["happyslap-spineshatter"]=15,
 	["happytotems-spineshatter"]=0,
-	["hapu-spineshatter"]=17,
+	["hapu-spineshatter"]=2,
 	["häränsilmä-spineshatter"]=25,
 	["harawly-spineshatter"]=10,
 	["harawx-spineshatter"]=5,
@@ -19502,7 +19502,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["xuschá-spineshatter"]=23,
 	["xwei-spineshatter"]=3,
 	["xxtentasion-thunderstrike"]=5,
-	["xygo-spineshatter"]=22,
+	["xygo-spineshatter"]=15,
 	["xylvros-spineshatter"]=3,
 	["xyperious-spineshatter"]=7,
 	["xyrn-spineshatter"]=12,

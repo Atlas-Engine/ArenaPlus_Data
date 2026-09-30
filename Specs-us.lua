@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5178 characters, read 2026-09-30 09:59 AM.
+-- Region us, 5177 characters, read 2026-09-30 10:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4961,7 +4961,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["zeromoon-arugal-au"]=41,
 	["zèüs-raden"]=10,
 	["zêyo-raden"]=11,
-	["zeyox-raden"]=11,
 	["zheani-raden"]=11,
 	["zhifty-raden"]=41,
 	["zhuofan-lei-shen"]=260,
@@ -8432,7 +8431,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["phurby-immerseus"]=17,
 	["phymura-pagle"]=15,
 	["piaget-raden"]=4,
-	["piankeeper-pagle"]=25,
+	["piankeeper-pagle"]=26,
 	["picaflor-pagle"]=14,
 	["pigfarmerjoe-pagle"]=3,
 	["pimen-pagle"]=1,
@@ -8495,7 +8494,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["poppcorn-raden"]=5,
 	["popsmokè-pagle"]=29,
 	["pörch-pagle"]=14,
-	["porkchopx-nazgrim"]=4,
+	["porkchopx-nazgrim"]=10,
 	["porkfriedrai-immerseus"]=4,
 	["portholio-pagle"]=4,
 	["potatoes-arugal-au"]=18,
@@ -10141,7 +10140,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["zethth-raden"]=0,
 	["zèüs-raden"]=2,
 	["zêyo-raden"]=20,
-	["zeyox-raden"]=31,
 	["zgrt-pagle"]=0,
 	["zheani-raden"]=2,
 	["zhifty-raden"]=5,
