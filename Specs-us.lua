@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5178 characters, read 2026-09-30 05:59 AM.
+-- Region us, 5178 characters, read 2026-09-30 06:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2374,7 +2374,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["kimiluv-raden"]=11,
 	["kìñgdëmøñ-pagle"]=10,
 	["kìngrøach-galakras"]=50,
-	["kinoshyba-pagle"]=11,
+	["kinoshyba-pagle"]=10,
 	["kintok-raden"]=11,
 	["kiora-pagle"]=11,
 	["kiqsl-pagle"]=11,
@@ -5195,7 +5195,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["arrowtwist-raden"]=3,
 	["artanissed-pagle"]=6,
 	["arteniss-raden"]=9,
-	["Årterial-pagle"]=12,
+	["Årterial-pagle"]=5,
 	["arthamyel-pagle"]=16,
 	["arthasqt-raden"]=16,
 	["arthuritis-immerseus"]=23,
@@ -6551,7 +6551,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["fongula-pagle"]=7,
 	["fontainesdc-arugal-au"]=4,
 	["fooksumbody-pagle"]=13,
-	["forbes-pagle"]=4,
+	["forbes-pagle"]=10,
 	["forecast-pagle"]=1,
 	["forever-pagle"]=21,
 	["forgotoshift-pagle"]=5,
@@ -7415,7 +7415,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["kìñgdëmøñ-pagle"]=16,
 	["kìngrøach-galakras"]=14,
 	["kinkystwosvn-nazgrim"]=0,
-	["kinoshyba-pagle"]=7,
+	["kinoshyba-pagle"]=30,
 	["kintok-raden"]=6,
 	["kiora-pagle"]=29,
 	["kiqsl-pagle"]=28,
@@ -7427,13 +7427,13 @@ ns.SPECS_BY_REGION["us"] = {
 	["kíyo-raden"]=2,
 	["kiyos-nazgrim"]=4,
 	["kiyos-pagle"]=4,
-	["kju-raden"]=3,
+	["kju-raden"]=18,
 	["kjx-raden"]=15,
 	["kkala-lei-shen"]=5,
 	["klagnoern-pagle"]=21,
 	["klausjr-pagle"]=24,
 	["klenzen-raden"]=10,
-	["klept-raden"]=4,
+	["klept-raden"]=10,
 	["kleptix-raden"]=34,
 	["knottypawz-pagle"]=17,
 	["knuckles-pagle"]=23,

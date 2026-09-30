@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9539 characters, read 2026-09-30 05:58 AM.
+-- Region tbc-us, 9539 characters, read 2026-09-30 06:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9953,7 +9953,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bakeya-dreamscythe"]=13,
 	["bakshotlarry-nightslayer"]=4,
 	["bakstab-nightslayer"]=5,
-	["balalalalu-dreamscythe"]=15,
+	["balalalalu-dreamscythe"]=17,
 	["baldandthicc-nightslayer"]=1,
 	["baldbulla-nightslayer"]=13,
 	["baldhealer-nightslayer"]=1,
@@ -10334,7 +10334,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bluchü-nightslayer"]=19,
 	["bludii-dreamscythe"]=19,
 	["blueberrypie-nightslayer"]=2,
-	["blueboar-dreamscythe"]=18,
+	["blueboar-dreamscythe"]=2,
 	["bluebunny-nightslayer"]=7,
 	["bluecheese-nightslayer"]=14,
 	["bluedollar-nightslayer"]=5,
@@ -11176,7 +11176,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["cuksidious-nightslayer"]=5,
 	["culturesz-nightslayer"]=11,
 	["cultxo-nightslayer"]=1,
-	["cumviction-nightslayer"]=25,
+	["cumviction-nightslayer"]=11,
 	["cunning-nightslayer"]=2,
 	["cunningd-nightslayer"]=4,
 	["curintt-dreamscythe"]=8,
@@ -11197,7 +11197,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["cutyouup-nightslayer"]=1,
 	["cuv-nightslayer"]=1,
 	["cve-dreamscythe"]=7,
-	["cvzz-nightslayer"]=23,
+	["cvzz-nightslayer"]=16,
 	["cwade-nightslayer"]=18,
 	["cwage-nightslayer"]=6,
 	["cxa-nightslayer"]=2,
@@ -12932,7 +12932,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["hard-nightslayer"]=2,
 	["hardnipz-nightslayer"]=4,
 	["hardressed-nightslayer"]=11,
-	["hardx-nightslayer"]=6,
+	["hardx-nightslayer"]=4,
 	["hardybigwood-nightslayer"]=1,
 	["harmac-nightslayer"]=1,
 	["harmes-nightslayer"]=5,
@@ -12996,7 +12996,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["helicopters-nightslayer"]=10,
 	["hellabald-nightslayer"]=2,
 	["hellbug-nightslayer"]=2,
-	["hellguyy-nightslayer"]=8,
+	["hellguyy-nightslayer"]=5,
 	["hellsbear-nightslayer"]=3,
 	["helluu-nightslayer"]=11,
 	["hellzone-nightslayer"]=16,
@@ -14019,7 +14019,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["kurlk-nightslayer"]=5,
 	["kuromiya-dreamscythe"]=1,
 	["kuromo-dreamscythe"]=13,
-	["kúshlørdx-nightslayer"]=18,
+	["kúshlørdx-nightslayer"]=2,
 	["kuumi-dreamscythe"]=7,
 	["kuur-dreamscythe"]=5,
 	["kwakami-dreamscythe"]=4,
@@ -15458,7 +15458,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["oracklol-dreamscythe"]=1,
 	["orangeaxe-nightslayer"]=11,
 	["orangeded-nightslayer"]=5,
-	["orangespy-nightslayer"]=22,
+	["orangespy-nightslayer"]=7,
 	["orangesword-nightslayer"]=2,
 	["oraqt-nightslayer"]=18,
 	["orcblood-nightslayer"]=24,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5317 characters, read 2026-09-30 06:00 AM.
+-- Region eu, 5317 characters, read 2026-09-30 07:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -450,7 +450,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["bcacu-shekzeer"]=10,
 	["bdm-auberdine"]=11,
 	["bðring-shekzeer"]=11,
-	["bearburst-shekzeer"]=41,
 	["bearia-shekzeer"]=11,
 	["beeka-auberdine"]=220,
 	["beervorm-hoptallus"]=40,
@@ -5162,6 +5161,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["ablaacissej-shekzeer"]=2,
 	["abonora-shekzeer"]=6,
 	["abrha-garalon"]=19,
+	["abubaker-shekzeer"]=0,
 	["abyssinskaya-shekzeer"]=6,
 	["acê-shekzeer"]=2,
 	["acemi-ook-ook"]=8,
@@ -5546,7 +5546,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bcacu-shekzeer"]=1,
 	["bdm-auberdine"]=15,
 	["bðring-shekzeer"]=9,
-	["bearburst-shekzeer"]=32,
 	["bearia-shekzeer"]=4,
 	["beeka-auberdine"]=11,
 	["beervorm-hoptallus"]=3,
@@ -7043,7 +7042,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["janwarlock-hoptallus"]=17,
 	["jaquechirac-auberdine"]=1,
 	["jarclass-shekzeer"]=2,
-	["jasmíina-norushen"]=14,
+	["jasmíina-norushen"]=20,
 	["jasplane-shekzeer"]=2,
 	["jaxzon-hoptallus"]=10,
 	["jay-shekzeer"]=2,
@@ -7120,7 +7119,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["jtmx-shekzeer"]=2,
 	["judgemint-shekzeer"]=15,
 	["judithx-shekzeer"]=5,
-	["juggiejr-mirage-raceway"]=1,
+	["juggiejr-mirage-raceway"]=25,
 	["juhi-shekzeer"]=5,
 	["juicedog-shekzeer"]=5,
 	["juicehunter-garalon"]=4,
@@ -9059,7 +9058,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["stitchvnr-auberdine"]=31,
 	["stivkuling-shekzeer"]=2,
 	["stjärto-shekzeer"]=26,
-	["stokssprime-shekzeer"]=20,
+	["stokssprime-shekzeer"]=14,
 	["stopfear-shekzeer"]=17,
 	["stopsheep-shekzeer"]=2,
 	["stormsinger-everlook"]=16,
@@ -9528,7 +9527,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["vayn-shekzeer"]=5,
 	["vazir-shekzeer"]=11,
 	["vazyx-shekzeer"]=13,
-	["vazyxsdad-shekzeer"]=6,
+	["vazyxsdad-shekzeer"]=7,
 	["vealis-shekzeer"]=13,
 	["veera-shekzeer"]=26,
 	["vegz-garalon"]=5,
@@ -9929,7 +9928,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["zeohant-garalon"]=4,
 	["zeoi-shekzeer"]=6,
 	["zephqt-everlook"]=22,
-	["zephxd-everlook"]=9,
+	["zephxd-everlook"]=22,
 	["zephyo-everlook"]=13,
 	["zephyrillia-shekzeer"]=6,
 	["zepp-mirage-raceway"]=21,
