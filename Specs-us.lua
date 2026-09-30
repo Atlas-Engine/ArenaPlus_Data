@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5176 characters, read 2026-09-29 07:59 PM.
+-- Region us, 5176 characters, read 2026-09-29 08:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5070,7 +5070,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["alakk-lei-shen"]=7,
 	["alanfury-raden"]=7,
 	["alanfuryx-raden"]=19,
-	["alarayia-raden"]=18,
+	["alarayia-raden"]=3,
 	["alassin-galakras"]=4,
 	["albomane-pagle"]=21,
 	["alchemistmed-galakras"]=12,
@@ -5081,7 +5081,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["alette-pagle"]=2,
 	["aléxandros-nazgrim"]=7,
 	["alexmateo-pagle"]=7,
-	["alexrrbb-raden"]=7,
+	["alexrrbb-raden"]=23,
 	["alextraxas-pagle"]=7,
 	["alezaar-raden"]=5,
 	["algreen-pagle"]=4,
@@ -5749,7 +5749,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["choé-pagle"]=11,
 	["chonkars-raden"]=0,
 	["choosen-pagle"]=10,
-	["chorizero-immerseus"]=32,
+	["chorizero-immerseus"]=16,
 	["chørizerø-immerseus"]=10,
 	["chorizó-pagle"]=12,
 	["chorizopower-lei-shen"]=6,
@@ -5761,7 +5761,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["chroniclez-pagle"]=33,
 	["chronicnugz-raden"]=22,
 	["chryses-pagle"]=18,
-	["chuckñourish-nazgrim"]=5,
+	["chuckñourish-nazgrim"]=17,
 	["chump-galakras"]=1,
 	["chumpele-raden"]=15,
 	["chumpw-raden"]=7,
@@ -6394,7 +6394,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["euspy-raden"]=1,
 	["eustaquio-raden"]=7,
 	["evasif-arugal-au"]=3,
-	["everannaqt-pagle"]=6,
+	["everannaqt-pagle"]=25,
 	["everannaqtt-pagle"]=25,
 	["everelle-pagle"]=0,
 	["everlast-raden"]=24,
@@ -6551,7 +6551,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["fongula-pagle"]=7,
 	["fontainesdc-arugal-au"]=4,
 	["fooksumbody-pagle"]=13,
-	["forbes-pagle"]=10,
+	["forbes-pagle"]=4,
 	["forecast-pagle"]=1,
 	["forever-pagle"]=21,
 	["forgotoshift-pagle"]=5,
@@ -9072,7 +9072,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["sírchargé-lei-shen"]=7,
 	["sisterfista-raden"]=10,
 	["sitdog-pagle"]=29,
-	["sithtyshades-galakras"]=9,
+	["sithtyshades-galakras"]=21,
 	["síx-nazgrim"]=6,
 	["sixmonth-raden"]=4,
 	["sixpathsage-pagle"]=27,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9573 characters, read 2026-09-29 07:58 PM.
+-- Region tbc-us, 9573 characters, read 2026-09-29 08:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12251,7 +12251,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["feignmoon-nightslayer"]=15,
 	["feldargon-nightslayer"]=13,
 	["feldozer-dreamscythe"]=15,
-	["feleaf-nightslayer"]=2,
+	["feleaf-nightslayer"]=18,
 	["fellgor-nightslayer"]=2,
 	["felorder-nightslayer"]=16,
 	["femboygrabba-nightslayer"]=4,
@@ -14694,7 +14694,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["memegodz-nightslayer"]=1,
 	["memer-nightslayer"]=2,
 	["memoriës-nightslayer"]=4,
-	["memphrica-dreamscythe"]=16,
+	["memphrica-dreamscythe"]=13,
 	["memphricala-dreamscythe"]=11,
 	["memz-dreamscythe"]=19,
 	["mendcery-nightslayer"]=1,
@@ -15719,7 +15719,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["petitevan-nightslayer"]=2,
 	["petito-nightslayer"]=2,
 	["pettyc-nightslayer"]=8,
-	["pewic-nightslayer"]=10,
+	["pewic-nightslayer"]=24,
 	["pewwpewwer-nightslayer"]=6,
 	["peyotegoat-nightslayer"]=19,
 	["pgdruid-nightslayer"]=3,
@@ -18245,7 +18245,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["valleysx-nightslayer"]=10,
 	["valuer-nightslayer"]=7,
 	["valve-nightslayer"]=7,
-	["vamped-dreamscythe"]=19,
+	["vamped-dreamscythe"]=10,
 	["vandriel-nightslayer"]=2,
 	["vanhoutte-nightslayer"]=2,
 	["vanishbrb-nightslayer"]=8,
@@ -18438,7 +18438,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["walalace-dreamscythe"]=22,
 	["waldo-nightslayer"]=5,
 	["walf-nightslayer"]=5,
-	["walkendead-nightslayer"]=4,
+	["walkendead-nightslayer"]=6,
 	["walkindead-nightslayer"]=16,
 	["walla-nightslayer"]=18,
 	["wallasmol-nightslayer"]=2,
@@ -18881,7 +18881,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["yugedbunny-nightslayer"]=2,
 	["yugetotems-nightslayer"]=19,
 	["yukei-nightslayer"]=1,
-	["yulong-dreamscythe"]=5,
+	["yulong-dreamscythe"]=8,
 	["yumbojumbo-nightslayer"]=1,
 	["yumps-dreamscythe"]=8,
 	["yumten-nightslayer"]=8,
