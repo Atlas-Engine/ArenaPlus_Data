@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9542 characters, read 2026-09-30 08:58 AM.
+-- Region tbc-us, 9542 characters, read 2026-09-30 09:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9948,7 +9948,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bajamode-nightslayer"]=7,
 	["bajaphos-nightslayer"]=17,
 	["baka-nightslayer"]=14,
-	["bakalmao-nightslayer"]=11,
+	["bakalmao-nightslayer"]=25,
 	["bakazurog-nightslayer"]=16,
 	["bakenx-nightslayer"]=5,
 	["bakeshaman-nightslayer"]=10,
@@ -10642,7 +10642,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["byeolbi-nightslayer"]=11,
 	["cabesucks-nightslayer"]=7,
 	["cacacacacaca-nightslayer"]=4,
-	["cactussy-nightslayer"]=10,
+	["cactussy-nightslayer"]=24,
 	["caedra-nightslayer"]=3,
 	["caelius-nightslayer"]=4,
 	["caesarxd-nightslayer"]=2,
@@ -10692,7 +10692,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["capss-nightslayer"]=3,
 	["captanks-dreamscythe"]=11,
 	["captjackinit-nightslayer"]=13,
-	["captrawr-dreamscythe"]=7,
+	["captrawr-dreamscythe"]=3,
 	["captzdru-nightslayer"]=7,
 	["capybaron-nightslayer"]=18,
 	["cará-nightslayer"]=6,
@@ -10998,7 +10998,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["coffeedisc-nightslayer"]=1,
 	["cogitatos-nightslayer"]=5,
 	["coguma-nightslayer"]=4,
-	["coileray-nightslayer"]=15,
+	["coileray-nightslayer"]=17,
 	["coilx-dreamscythe"]=16,
 	["cokeewl-nightslayer"]=16,
 	["cokeey-nightslayer"]=13,
@@ -14453,7 +14453,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["maheloo-nightslayer"]=24,
 	["mahiko-nightslayer"]=5,
 	["mahmymilkers-dreamscythe"]=2,
-	["mainbeam-nightslayer"]=22,
+	["mainbeam-nightslayer"]=7,
 	["mainim-nightslayer"]=1,
 	["mainstreeam-dreamscythe"]=19,
 	["maintankonly-nightslayer"]=2,
@@ -18235,7 +18235,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["venomthread-nightslayer"]=5,
 	["venomthreada-nightslayer"]=5,
 	["ventv-nightslayer"]=24,
-	["verbees-nightslayer"]=23,
+	["verbees-nightslayer"]=13,
 	["verbies-nightslayer"]=2,
 	["verbilx-nightslayer"]=7,
 	["verelock-nightslayer"]=13,

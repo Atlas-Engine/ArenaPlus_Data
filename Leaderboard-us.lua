@@ -18,7 +18,7 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region us, season 14, read 2026-09-30 08:59 AM.
+-- Region us, season 14, read 2026-09-30 09:59 AM.
 -- Realm display names, because the ladder only carries slugs and no rule
 -- turns one back into the other: raden is Ra-den, lei-shen is Lei Shen and
 -- arugal-au is Arugal (AU). Read from Blizzard's realm index; a slug with no
@@ -35,8 +35,8 @@ ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["us"] = {
 	region  = "us",
-	checked = "2026-09-30 08:59 AM",
-	checkedEpoch = 1790773168,
+	checked = "2026-09-30 09:59 AM",
+	checkedEpoch = 1790776772,
 	snapshot = "2026-09-30 11:30",
 
 	[1] = {  -- 2v2, 5004 places, down to rating 1104 -- the API stops here, short of the cutoff
@@ -1698,7 +1698,7 @@ ns.LEADERBOARD_BY_REGION["us"] = {
 		{ rank=1654, name="Donceno", realm="nazgrim", rating=1858, won=1339, lost=1544, faction="HORDE", mr=2009, dr=-151, dk=808 },
 		{ rank=1654, name="Drgspit", realm="pagle", rating=1858, won=106, lost=126, faction="ALLIANCE", dr=185, dk=-1437 },
 		{ rank=1654, name="Marcü", realm="pagle", rating=1858, won=269, lost=291, faction="ALLIANCE", mr=1859, dr=17, dk=-44 },
-		{ rank=1654, name="Scorchx", realm="pagle", rating=1858, won=46, lost=42, faction="HORDE", mr=1872 },
+		{ rank=1654, name="Scorchx", realm="pagle", rating=1858, won=46, lost=43, faction="HORDE", mr=1872 },
 		{ rank=1654, name="Ssds", realm="raden", rating=1858, won=32, lost=17, faction="ALLIANCE", dr=0, dk=60 },
 		{ rank=1654, name="Sterlÿng", realm="galakras", rating=1858, won=71, lost=86, faction="HORDE", dr=0, dk=60 },
 		{ rank=1654, name="Stuffyknows", realm="raden", rating=1858, won=39, lost=40, faction="ALLIANCE", dr=0, dk=60 },
@@ -2498,7 +2498,7 @@ ns.LEADERBOARD_BY_REGION["us"] = {
 		{ rank=2456, name="Årterial", realm="pagle", rating=1753, won=53, lost=34, faction="HORDE", dr=0, dk=69 },
 		{ rank=2456, name="Daje", realm="pagle", rating=1753, won=26, lost=23, faction="ALLIANCE", dr=130, dk=-1166 },
 		{ rank=2456, name="Deadlylifts", realm="pagle", rating=1753, won=92, lost=90, faction="ALLIANCE", dr=0, dk=69 },
-		{ rank=2456, name="Gc", realm="raden", rating=1753, won=28, lost=19, faction="ALLIANCE", dr=22, dk=-117 },
+		{ rank=2456, name="Gc", realm="raden", rating=1753, won=28, lost=20, faction="ALLIANCE", dr=22, dk=-117 },
 		{ rank=2456, name="Gizzeh", realm="raden", rating=1753, won=60, lost=57, faction="ALLIANCE", dr=0, dk=69 },
 		{ rank=2456, name="Hêâtêd", realm="pagle", rating=1753, won=218, lost=252, faction="ALLIANCE", mr=1814, dr=19, dk=-85 },
 		{ rank=2456, name="Jonâh", realm="raden", rating=1753, won=66, lost=81, faction="ALLIANCE", dr=0, dk=69 },

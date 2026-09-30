@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5178 characters, read 2026-09-30 08:59 AM.
+-- Region us, 5178 characters, read 2026-09-30 09:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1752,6 +1752,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["goop-arugal-au"]=80,
 	["gooseus-pagle"]=10,
 	["gorack-nazgrim"]=20,
+	["gørdàwg-pagle"]=11,
 	["gordonslaya-pagle"]=10,
 	["goreleone-pagle"]=20,
 	["görëx-lei-shen"]=80,
@@ -6551,7 +6552,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["fongula-pagle"]=7,
 	["fontainesdc-arugal-au"]=4,
 	["fooksumbody-pagle"]=13,
-	["forbes-pagle"]=10,
+	["forbes-pagle"]=4,
 	["forecast-pagle"]=1,
 	["forever-pagle"]=21,
 	["forgotoshift-pagle"]=5,
@@ -6763,7 +6764,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["goop-arugal-au"]=1,
 	["gooseus-pagle"]=16,
 	["gorack-nazgrim"]=3,
-	["gørdàwg-pagle"]=0,
+	["gørdàwg-pagle"]=1,
 	["gordonslaya-pagle"]=16,
 	["goreleone-pagle"]=7,
 	["görëx-lei-shen"]=3,
@@ -6771,7 +6772,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["gorroso-galakras"]=15,
 	["gotcha-raden"]=14,
 	["gotcherback-immerseus"]=14,
-	["gothicsorrow-pagle"]=30,
+	["gothicsorrow-pagle"]=7,
 	["gotmog-lei-shen"]=7,
 	["gotthemjugs-pagle"]=16,
 	["graceless-galakras"]=16,
@@ -6802,7 +6803,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["grizma-immerseus"]=3,
 	["grokkc-raden"]=5,
 	["groosaalugg-lei-shen"]=7,
-	["grumpyaussie-galakras"]=8,
+	["grumpyaussie-galakras"]=28,
 	["grungecraft-raden"]=16,
 	["grxvy-nazgrim"]=18,
 	["gryn-nazgrim"]=3,
@@ -6954,7 +6955,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["holtxd-raden"]=7,
 	["holyangelz-pagle"]=2,
 	["holycøcktail-raden"]=2,
-	["holyfender-pagle"]=2,
+	["holyfender-pagle"]=16,
 	["holyfkbubs-pagle"]=2,
 	["holyflamez-pagle"]=2,
 	["holyfluxq-pagle"]=9,
@@ -10036,7 +10037,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ybats-grobbulus"]=24,
 	["yeardme-pagle"]=1,
 	["yecnay-galakras"]=7,
-	["yecum-galakras"]=21,
+	["yecum-galakras"]=9,
 	["yekcoh-pagle"]=29,
 	["yellowspwn-raden"]=21,
 	["yelly-pagle"]=20,
