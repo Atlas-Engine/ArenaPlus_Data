@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9540 characters, read 2026-10-01 02:58 PM.
+-- Region tbc-us, 9540 characters, read 2026-10-01 03:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10072,7 +10072,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bearkat-nightslayer"]=3,
 	["bearlunch-dreamscythe"]=17,
 	["bearlyeagle-nightslayer"]=3,
-	["bearlysrs-nightslayer"]=3,
+	["bearlysrs-nightslayer"]=7,
 	["bearlyviable-nightslayer"]=7,
 	["bearness-nightslayer"]=7,
 	["bearservice-nightslayer"]=3,
@@ -10100,7 +10100,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["beetlesham-nightslayer"]=10,
 	["beezii-nightslayer"]=7,
 	["behindbehind-nightslayer"]=2,
-	["bekol-dreamscythe"]=5,
+	["bekol-dreamscythe"]=8,
 	["belgas-nightslayer"]=1,
 	["belini-nightslayer"]=16,
 	["bellabear-nightslayer"]=3,
@@ -10141,7 +10141,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bhloader-nightslayer"]=7,
 	["bibbo-nightslayer"]=19,
 	["bibgourmand-nightslayer"]=11,
-	["bibimbop-nightslayer"]=9,
+	["bibimbop-nightslayer"]=11,
 	["bibliophile-nightslayer"]=15,
 	["bickuri-nightslayer"]=26,
 	["bidad-nightslayer"]=12,
@@ -10952,7 +10952,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["clingan-nightslayer"]=5,
 	["cliñt-nightslayer"]=0,
 	["clinxie-nightslayer"]=4,
-	["clinxy-nightslayer"]=14,
+	["clinxy-nightslayer"]=1,
 	["cliped-nightslayer"]=2,
 	["clipy-nightslayer"]=5,
 	["cloakzie-dreamscythe"]=5,
@@ -15401,7 +15401,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["omenkine-dreamscythe"]=24,
 	["omghordemage-nightslayer"]=6,
 	["omgimpurging-nightslayer"]=10,
-	["omgunco-nightslayer"]=7,
+	["omgunco-nightslayer"]=3,
 	["omgyamihere-dreamscythe"]=1,
 	["ominous-nightslayer"]=2,
 	["omni-nightslayer"]=2,
@@ -15969,7 +15969,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["pwnstinature-nightslayer"]=7,
 	["pwrwordkiss-dreamscythe"]=1,
 	["pwrwordpwnd-nightslayer"]=1,
-	["pwz-nightslayer"]=5,
+	["pwz-nightslayer"]=8,
 	["pwzwf-nightslayer"]=10,
 	["pyami-nightslayer"]=7,
 	["pylol-nightslayer"]=4,
