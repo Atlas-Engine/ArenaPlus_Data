@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5180 characters, read 2026-09-30 07:59 PM.
+-- Region us, 5180 characters, read 2026-09-30 08:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5097,7 +5097,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["alipriest-pagle"]=13,
 	["aliría-raden"]=0,
 	["alkaloide-pagle"]=16,
-	["alldotss-pagle"]=28,
+	["alldotss-pagle"]=24,
 	["allecinder-galakras"]=2,
 	["alliâ-lei-shen"]=13,
 	["alliancehatr-pagle"]=16,
@@ -6934,7 +6934,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["hibashiba-galakras"]=20,
 	["hickery-arugal-au"]=14,
 	["hideandhunt-galakras"]=3,
-	["hifukface-raden"]=5,
+	["hifukface-raden"]=12,
 	["hifvckface-raden"]=4,
 	["highc-galakras"]=22,
 	["highç-galakras"]=27,
@@ -7642,7 +7642,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["lixzos-nazgrim"]=18,
 	["liyarlena-raden"]=14,
 	["lizizi-raden"]=1,
-	["lkwjebfb-immerseus"]=13,
+	["lkwjebfb-immerseus"]=9,
 	["llaski-galakras"]=18,
 	["llinc-pagle"]=20,
 	["lloydx-pagle"]=26,
@@ -9033,7 +9033,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["shocked-lei-shen"]=19,
 	["shockleone-pagle"]=15,
 	["shockoné-pagle"]=4,
-	["shocktopus-pagle"]=22,
+	["shocktopus-pagle"]=19,
 	["shøcktuah-raden"]=15,
 	["shòckwâve-galakras"]=22,
 	["shøckz-galakras"]=22,
@@ -9077,7 +9077,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["sírchargé-lei-shen"]=7,
 	["sisterfista-raden"]=10,
 	["sitdog-pagle"]=29,
-	["sithtyshades-galakras"]=21,
+	["sithtyshades-galakras"]=9,
 	["síx-nazgrim"]=6,
 	["sixmonth-raden"]=4,
 	["sixpathsage-pagle"]=27,
@@ -9268,7 +9268,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["spongeboby-pagle"]=1,
 	["spongethroby-pagle"]=1,
 	["sponsor-raden"]=4,
-	["sponsorx-pagle"]=8,
+	["sponsorx-pagle"]=24,
 	["sponsorx-raden"]=2,
 	["sponsorz-raden"]=19,
 	["spooke-pagle"]=21,

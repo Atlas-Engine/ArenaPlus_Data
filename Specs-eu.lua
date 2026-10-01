@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5318 characters, read 2026-09-30 08:00 PM.
+-- Region eu, 5318 characters, read 2026-09-30 09:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5386,7 +5386,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["arxn-shekzeer"]=0,
 	["arÿà-auberdine"]=15,
 	["asapdot-shekzeer"]=23,
-	["asaplucy-shekzeer"]=11,
+	["asaplucy-shekzeer"]=3,
 	["asapmilly-garalon"]=6,
 	["asapskaya-shekzeer"]=1,
 	["ascaredman-shekzeer"]=8,
@@ -5688,7 +5688,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bõssnex-shekzeer"]=8,
 	["bosviool-shekzeer"]=3,
 	["boundless-norushen"]=2,
-	["bourinøss-auberdine"]=15,
+	["bourinøss-auberdine"]=5,
 	["bowdown-shekzeer"]=0,
 	["bøwjøbë-mirage-raceway"]=4,
 	["bowline-shekzeer"]=20,
@@ -6072,7 +6072,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["deathléss-shekzeer"]=11,
 	["dèáthsmile-shekzeer"]=1,
 	["deathwarr-shekzeer"]=1,
-	["deathwàrs-auberdine"]=25,
+	["deathwàrs-auberdine"]=1,
 	["decader-norushen"]=24,
 	["deepfreezee-shekzeer"]=2,
 	["deepfull-shekzeer"]=2,
@@ -10376,7 +10376,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Тониматата-flamegor"]=1,
 	["Трихинкали-flamegor"]=16,
 	["Трояндочкаа-flamegor"]=3,
-	["Трэрг-flamegor"]=16,
+	["Трэрг-flamegor"]=19,
 	["Трэргор-flamegor"]=13,
 	["Тупасплэщ-flamegor"]=14,
 	["Тупыль-flamegor"]=1,
