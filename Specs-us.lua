@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5183 characters, read 2026-09-30 11:59 PM.
+-- Region us, 5183 characters, read 2026-10-01 12:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5408,7 +5408,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["bigdzias-raden"]=7,
 	["bigf-arugal-au"]=1,
 	["bigfighterx-pagle"]=1,
-	["biggertotem-pagle"]=15,
+	["biggertotem-pagle"]=19,
 	["bigghøst-pagle"]=16,
 	["biggreensham-raden"]=15,
 	["bigjae-pagle"]=30,
@@ -6852,7 +6852,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["haileyxo-pagle"]=3,
 	["haileyy-raden"]=16,
 	["hairarmpit-benediction"]=4,
-	["haircheck-raden"]=27,
+	["haircheck-raden"]=10,
 	["hairyarms-raden"]=12,
 	["hallowground-immerseus"]=21,
 	["häm-nazgrim"]=29,
@@ -7106,7 +7106,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ilnicoll-pagle"]=2,
 	["ilockedyouup-pagle"]=24,
 	["ilockthis-galakras"]=8,
-	["ilpeguerosll-pagle"]=11,
+	["ilpeguerosll-pagle"]=1,
 	["ilpilgrim-raden"]=7,
 	["iluvheffers-pagle"]=16,
 	["ilyoil-raden"]=2,
@@ -8372,7 +8372,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["paladtty-lei-shen"]=16,
 	["palafornia-raden"]=16,
 	["palalazy-pagle"]=16,
-	["palamán-raden"]=32,
+	["palamán-raden"]=16,
 	["palapala-pagle"]=2,
 	["pallyboss-galakras"]=0,
 	["palodan-arugal-au"]=2,

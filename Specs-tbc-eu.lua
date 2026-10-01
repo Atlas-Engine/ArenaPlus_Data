@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9949 characters, read 2026-09-30 11:59 PM.
+-- Region tbc-eu, 9947 characters, read 2026-10-01 12:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3297,7 +3297,6 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["gslop-spineshatter"]=100,
 	["gssöü-spineshatter"]=31,
 	["gtb-spineshatter"]=11,
-	["gtwoge-spineshatter"]=50,
 	["guaorh-thunderstrike"]=20,
 	["gucciprada-spineshatter"]=31,
 	["gucciprelle-spineshatter"]=50,
@@ -10772,7 +10771,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["blameothers-spineshatter"]=1,
 	["blåne-thunderstrike"]=11,
 	["blankou-thunderstrike"]=15,
-	["blard-spineshatter"]=4,
+	["blard-spineshatter"]=9,
 	["blarrytotem-spineshatter"]=12,
 	["blasfem-spineshatter"]=7,
 	["blastman-spineshatter"]=9,
@@ -12519,7 +12518,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["eyonw-spineshatter"]=5,
 	["eyupp-spineshatter"]=3,
 	["ezeerf-spineshatter"]=2,
-	["ezekiell-thunderstrike"]=17,
+	["ezekiell-thunderstrike"]=2,
 	["ezyone-spineshatter"]=2,
 	["ezz-spineshatter"]=11,
 	["Ézz-spineshatter"]=10,
@@ -13113,7 +13112,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["greave-spineshatter"]=5,
 	["greåzy-spineshatter"]=5,
 	["greedyfox-spineshatter"]=2,
-	["greekmalakax-spineshatter"]=7,
+	["greekmalakax-spineshatter"]=26,
 	["greenonion-spineshatter"]=11,
 	["greenvillebc-spineshatter"]=1,
 	["greganíus-thunderstrike"]=7,
@@ -13162,7 +13161,6 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["gslop-spineshatter"]=10,
 	["gssöü-spineshatter"]=2,
 	["gtb-spineshatter"]=14,
-	["gtwoge-spineshatter"]=3,
 	["guaorh-thunderstrike"]=5,
 	["gucciprada-spineshatter"]=17,
 	["gucciprelle-spineshatter"]=2,
@@ -17506,7 +17504,6 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["shanori-spineshatter"]=3,
 	["shantao-thunderstrike"]=6,
 	["shâper-spineshatter"]=3,
-	["shapx-spineshatter"]=0,
 	["sharalala-spineshatter"]=1,
 	["sharci-spineshatter"]=9,
 	["sharïx-spineshatter"]=2,
