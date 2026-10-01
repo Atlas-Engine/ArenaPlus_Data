@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5318 characters, read 2026-10-01 09:00 AM.
+-- Region eu, 5318 characters, read 2026-10-01 10:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -158,7 +158,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["akerm-shekzeer"]=11,
 	["akerman-shekzeer"]=11,
 	["akermy-shekzeer"]=11,
-	["akermyn-shekzeer"]=11,
 	["akijean-shekzeer"]=10,
 	["akonrap-garalon"]=220,
 	["akula-mirage-raceway"]=41,
@@ -2641,6 +2640,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["mopster-norushen"]=101,
 	["mopzz-shekzeer"]=11,
 	["mørbidængel-shekzeer"]=10,
+	["mòrd-everlook"]=51,
 	["mórdos-everlook"]=41,
 	["morenemsemmi-shekzeer"]=31,
 	["morepenet-hoptallus"]=11,
@@ -5232,7 +5232,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["akerm-shekzeer"]=17,
 	["akerman-shekzeer"]=23,
 	["akermy-shekzeer"]=17,
-	["akermyn-shekzeer"]=1,
 	["akijean-shekzeer"]=14,
 	["akonrap-garalon"]=25,
 	["akula-mirage-raceway"]=10,
@@ -6739,7 +6738,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["halotestin-shekzeer"]=19,
 	["halowar-shekzeer"]=1,
 	["halul-shekzeer"]=2,
-	["halyse-shekzeer"]=2,
+	["halyse-shekzeer"]=10,
 	["hammer-garalon"]=0,
 	["hanagata-norushen"]=9,
 	["hanamichi-norushen"]=7,
@@ -7123,7 +7122,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["jtmx-shekzeer"]=2,
 	["judgemint-shekzeer"]=15,
 	["judithx-shekzeer"]=5,
-	["juggiejr-mirage-raceway"]=1,
+	["juggiejr-mirage-raceway"]=18,
 	["juhi-shekzeer"]=5,
 	["juicedog-shekzeer"]=5,
 	["juicehunter-garalon"]=4,
@@ -7844,6 +7843,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["mopster-norushen"]=6,
 	["mopzz-shekzeer"]=2,
 	["mørbidængel-shekzeer"]=10,
+	["mòrd-everlook"]=7,
 	["mórdos-everlook"]=3,
 	["morenemsemmi-shekzeer"]=13,
 	["morepenet-hoptallus"]=1,
