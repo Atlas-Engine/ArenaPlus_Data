@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9947 characters, read 2026-10-01 03:59 AM.
+-- Region tbc-eu, 9947 characters, read 2026-10-01 04:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10807,7 +10807,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["bloodmojo-thunderstrike"]=10,
 	["bloodwhiite-spineshatter"]=0,
 	["blóom-spineshatter"]=1,
-	["bloomr-spineshatter"]=3,
+	["bloomr-spineshatter"]=19,
 	["bloomyou-spineshatter"]=1,
 	["bloomz-thunderstrike"]=6,
 	["blossy-spineshatter"]=1,
@@ -12425,7 +12425,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["erotiskdans-spineshatter"]=12,
 	["eround-spineshatter"]=24,
 	["ersyq-spineshatter"]=2,
-	["ertanias-spineshatter"]=1,
+	["ertanias-spineshatter"]=6,
 	["eryc-spineshatter"]=9,
 	["erycxo-spineshatter"]=4,
 	["es-spineshatter"]=5,
@@ -12900,7 +12900,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["fwl-spineshatter"]=12,
 	["fyggzsham-spineshatter"]=12,
 	["fyor-spineshatter"]=10,
-	["gaandalff-spineshatter"]=4,
+	["gaandalff-spineshatter"]=9,
 	["gabbx-spineshatter"]=13,
 	["gábimarü-spineshatter"]=3,
 	["gachiman-spineshatter"]=3,
@@ -13196,7 +13196,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["hachßerrý-spineshatter"]=13,
 	["hadamana-spineshatter"]=11,
 	["hadj-spineshatter"]=13,
-	["hadjx-spineshatter"]=25,
+	["hadjx-spineshatter"]=24,
 	["hadkilz-thunderstrike"]=13,
 	["hadoukenww-spineshatter"]=3,
 	["hadushka-spineshatter"]=3,
@@ -17647,7 +17647,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["signis-spineshatter"]=12,
 	["siittäjä-thunderstrike"]=13,
 	["sijuh-spineshatter"]=25,
-	["sikoous-spineshatter"]=24,
+	["sikoous-spineshatter"]=25,
 	["sikorex-spineshatter"]=13,
 	["síl-spineshatter"]=26,
 	["silencegoy-spineshatter"]=13,
@@ -17679,7 +17679,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["sipri-spineshatter"]=2,
 	["sipsterx-spineshatter"]=7,
 	["siptar-thunderstrike"]=5,
-	["siquu-spineshatter"]=3,
+	["siquu-spineshatter"]=19,
 	["sisäfile-spineshatter"]=12,
 	["siuer-thunderstrike"]=7,
 	["sixsevên-spineshatter"]=11,

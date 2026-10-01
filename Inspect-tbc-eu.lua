@@ -42,7 +42,7 @@ local ns = ArenaPlusData
 -- source_item, so gems are stored as real item ids the client can draw and only
 -- the enchant text has to ship.
 --
--- Region tbc-eu, 337 characters, 0 glyph names, read 2026-10-01 03:20 AM.
+-- Region tbc-eu, 337 characters, 0 glyph names, read 2026-10-01 04:20 AM.
 ns.GLYPH_NAMES = ns.GLYPH_NAMES or {}
 
 for id, name in pairs({
@@ -70,23 +70,7 @@ for id, name in pairs({
 	[12592]="Arcane Subtlety",
 	[12848]="Ignite",
 	[12873]="Improved Scorch",
-	[14751]="Inner Focus",
-	[14767]="Improved Power Word: Fortitude",
-	[14769]="Improved Power Word: Shield",
-	[14777]="Meditation",
-	[14783]="Mental Agility",
-	[14791]="Unbreakable Will",
-	[15011]="Holy Specialization",
-	[15012]="Healing Focus",
-	[15018]="Healing Prayers",
-	[15031]="Spiritual Guidance",
-	[15356]="Spiritual Healing",
-	[15363]="Inspiration",
-	[17191]="Improved Renew",
 	[18460]="Incineration",
-	[18535]="Divine Fury",
-	[20711]="Spirit of Redemption",
-	[27790]="Holy Reach",
 	[28332]="Frost Warding",
 	[29076]="Master of Elements",
 	[29440]="Elemental Precision",
@@ -94,11 +78,7 @@ for id, name in pairs({
 	[31660]="Empowered Fireball",
 	[31661]="Dragon's Breath",
 	[31680]="Molten Fury",
-	[33162]="Empowered Healing",
-	[33167]="Absolution",
 	[34296]="Pyromaniac",
-	[34859]="Holy Concentration",
-	[34861]="Circle of Healing",
 }) do ns.TALENT_NAMES[id] = name end
 
 -- Which talent a rank-spell belongs to, and how many ranks that talent has.
@@ -122,23 +102,7 @@ for spell, talent in pairs({
 	[12592]=74,
 	[12848]=34,
 	[12873]=25,
-	[14751]=348,
-	[14767]=344,
-	[14769]=343,
-	[14777]=347,
-	[14783]=341,
-	[14791]=342,
-	[15011]=401,
-	[15012]=410,
-	[15018]=413,
-	[15031]=402,
-	[15356]=404,
-	[15363]=361,
-	[17191]=406,
 	[18460]=1141,
-	[18535]=1181,
-	[20711]=1561,
-	[27790]=1635,
 	[28332]=70,
 	[29076]=1639,
 	[29440]=1649,
@@ -146,11 +110,7 @@ for spell, talent in pairs({
 	[31660]=1734,
 	[31661]=1735,
 	[31680]=1732,
-	[33162]=1767,
-	[33167]=1769,
 	[34296]=1733,
-	[34859]=1768,
-	[34861]=1815,
 }) do ns.TALENT_OF_SPELL[spell] = talent end
 
 ns.TALENT_MAX_RANK = ns.TALENT_MAX_RANK or {}
@@ -172,23 +132,7 @@ for talent, rank in pairs({
 	[69]=1,
 	[70]=2,
 	[74]=2,
-	[341]=5,
-	[342]=5,
-	[343]=3,
-	[344]=2,
-	[347]=3,
-	[348]=1,
-	[361]=3,
-	[401]=5,
-	[402]=5,
-	[404]=5,
-	[406]=3,
-	[410]=2,
-	[413]=2,
 	[1141]=2,
-	[1181]=5,
-	[1561]=1,
-	[1635]=2,
 	[1639]=3,
 	[1649]=3,
 	[1730]=3,
@@ -196,10 +140,6 @@ for talent, rank in pairs({
 	[1733]=3,
 	[1734]=5,
 	[1735]=1,
-	[1767]=5,
-	[1768]=2,
-	[1769]=1,
-	[1815]=1,
 }) do ns.TALENT_MAX_RANK[talent] = rank end
 
 ns.ENCHANT_TEXT = ns.ENCHANT_TEXT or {}
