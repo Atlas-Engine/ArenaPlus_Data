@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5179 characters, read 2026-10-01 12:59 PM.
+-- Region us, 5180 characters, read 2026-10-01 01:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3704,6 +3704,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["ruged-immerseus"]=60,
 	["ruggone-pagle"]=80,
 	["rugrats-raden"]=11,
+	["rugratzmage-raden"]=11,
 	["ruhzong-pagle"]=60,
 	["ruinous-raden"]=11,
 	["rumblìng-pagle"]=30,
@@ -6180,7 +6181,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dosak-pagle"]=10,
 	["dóssy-immerseus"]=34,
 	["dotdotgoose-immerseus"]=28,
-	["dothkar-galakras"]=1,
+	["dothkar-galakras"]=11,
 	["dotwaves-pagle"]=3,
 	["dôtzz-galakras"]=24,
 	["double-lei-shen"]=14,
@@ -6206,7 +6207,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["drellus-pagle"]=15,
 	["Ðressrøsa-immerseus"]=10,
 	["drewdipsy-pagle"]=7,
-	["drewleon-pagle"]=17,
+	["drewleon-pagle"]=5,
 	["drewwd-nazgrim"]=5,
 	["dreyad-pagle"]=5,
 	["dreyas-pagle"]=7,
@@ -7736,7 +7737,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["magicclaps-pagle"]=24,
 	["magichi-pagle"]=10,
 	["magician-arugal-au"]=1,
-	["magicsheep-pagle"]=16,
+	["magicsheep-pagle"]=2,
 	["magikanus-grobbulus"]=1,
 	["mãgnum-raden"]=26,
 	["magnusz-nazgrim"]=7,
@@ -8817,6 +8818,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ruged-immerseus"]=5,
 	["ruggone-pagle"]=25,
 	["rugrats-raden"]=4,
+	["rugratzmage-raden"]=1,
 	["ruhzong-pagle"]=20,
 	["ruinous-raden"]=7,
 	["rumblìng-pagle"]=19,

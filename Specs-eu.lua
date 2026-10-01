@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5320 characters, read 2026-10-01 01:00 PM.
+-- Region eu, 5320 characters, read 2026-10-01 02:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5690,7 +5690,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bõssnex-shekzeer"]=8,
 	["bosviool-shekzeer"]=3,
 	["boundless-norushen"]=2,
-	["bourinøss-auberdine"]=5,
+	["bourinøss-auberdine"]=15,
 	["bowdown-shekzeer"]=0,
 	["bøwjøbë-mirage-raceway"]=4,
 	["bowline-shekzeer"]=20,
@@ -6141,7 +6141,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["dirtydan-ook-ook"]=6,
 	["dirtyhomopal-shekzeer"]=15,
 	["dirtymank-norushen"]=6,
-	["dirtyshifts-shekzeer"]=32,
+	["dirtyshifts-shekzeer"]=21,
 	["disastrous-mirage-raceway"]=1,
 	["discography-mirage-raceway"]=22,
 	["disconysus-garalon"]=9,
@@ -6557,7 +6557,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["fthx-shekzeer"]=4,
 	["ftwx-shekzeer"]=9,
 	["fugexhunter-mirage-raceway"]=20,
-	["fülimanó-shekzeer"]=15,
+	["fülimanó-shekzeer"]=5,
 	["fulldemangö-mirage-raceway"]=6,
 	["funkadelic-shekzeer"]=1,
 	["funkytunes-everlook"]=20,
@@ -7010,7 +7010,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["jáakux-shekzeer"]=1,
 	["jabbyb-shekzeer"]=7,
 	["jackarrowx-mirage-raceway"]=4,
-	["jackí-norushen"]=12,
+	["jackí-norushen"]=9,
 	["jackiepain-shekzeer"]=7,
 	["jackson-ook-ook"]=1,
 	["jackynko-hoptallus"]=15,
