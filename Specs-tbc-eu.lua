@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9949 characters, read 2026-09-30 10:59 PM.
+-- Region tbc-eu, 9949 characters, read 2026-09-30 11:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10915,7 +10915,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["boug-spineshatter"]=23,
 	["bouncus-spineshatter"]=13,
 	["boxxiye-spineshatter"]=3,
-	["boyhuntard-spineshatter"]=24,
+	["boyhuntard-spineshatter"]=25,
 	["bqoorh-spineshatter"]=1,
 	["bracksir-spineshatter"]=18,
 	["bracksirx-spineshatter"]=11,
@@ -11658,7 +11658,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["darkoxd-spineshatter"]=3,
 	["darkrouge-spineshatter"]=3,
 	["darksiderx-spineshatter"]=3,
-	["darkspellman-thunderstrike"]=8,
+	["darkspellman-thunderstrike"]=2,
 	["darktigrou-spineshatter"]=0,
 	["darktimesx-spineshatter"]=9,
 	["darkwarex-thunderstrike"]=1,
@@ -14872,7 +14872,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["luonar-thunderstrike"]=10,
 	["luriie-spineshatter"]=23,
 	["lurker-spineshatter"]=5,
-	["lurni-spineshatter"]=5,
+	["lurni-spineshatter"]=15,
 	["lurnicouette-spineshatter"]=5,
 	["lurpassarn-spineshatter"]=3,
 	["luslisa-spineshatter"]=2,
@@ -16894,7 +16894,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["recommended-spineshatter"]=0,
 	["recrize-thunderstrike"]=3,
 	["recz-spineshatter"]=2,
-	["redhairkaren-spineshatter"]=3,
+	["redhairkaren-spineshatter"]=19,
 	["redmercury-spineshatter"]=2,
 	["rédmist-spineshatter"]=3,
 	["rednoodle-spineshatter"]=12,
@@ -19326,7 +19326,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["woøsa-spineshatter"]=11,
 	["wooshwoosh-thunderstrike"]=22,
 	["wooten-spineshatter"]=4,
-	["woozzy-spineshatter"]=2,
+	["woozzy-spineshatter"]=17,
 	["worldemoboss-spineshatter"]=1,
 	["worldofdogs-spineshatter"]=10,
 	["worldstarx-spineshatter"]=11,
