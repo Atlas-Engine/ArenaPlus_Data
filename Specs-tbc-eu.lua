@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9947 characters, read 2026-10-01 12:59 AM.
+-- Region tbc-eu, 9947 characters, read 2026-10-01 01:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11103,7 +11103,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["candre-spineshatter"]=5,
 	["candypriest-thunderstrike"]=8,
 	["cantbearsed-spineshatter"]=3,
-	["cantpoly-spineshatter"]=9,
+	["cantpoly-spineshatter"]=4,
 	["cantrootme-spineshatter"]=5,
 	["cantuna-spineshatter"]=26,
 	["capex-spineshatter"]=2,
@@ -12319,7 +12319,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["elonroots-thunderstrike"]=1,
 	["elonzie-spineshatter"]=3,
 	["eloqt-spineshatter"]=2,
-	["elor-spineshatter"]=2,
+	["elor-spineshatter"]=17,
 	["elorsz-spineshatter"]=2,
 	["eloryel-spineshatter"]=4,
 	["elotheras-spineshatter"]=5,
@@ -14040,7 +14040,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["jürgendickn-spineshatter"]=2,
 	["jusni-spineshatter"]=2,
 	["justadog-spineshatter"]=3,
-	["justaduc-spineshatter"]=14,
+	["justaduc-spineshatter"]=13,
 	["justaduck-spineshatter"]=5,
 	["justawarlock-spineshatter"]=13,
 	["justforjoy-spineshatter"]=3,
@@ -14085,7 +14085,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["kaizenxz-spineshatter"]=9,
 	["káizer-spineshatter"]=12,
 	["kajebabz-spineshatter"]=2,
-	["kajebabzie-spineshatter"]=2,
+	["kajebabzie-spineshatter"]=17,
 	["kajedo-spineshatter"]=3,
 	["kajex-spineshatter"]=3,
 	["kajiebabz-spineshatter"]=8,
@@ -14444,7 +14444,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["kruttlappen-thunderstrike"]=7,
 	["krvken-thunderstrike"]=5,
 	["krykar-thunderstrike"]=5,
-	["krylard-spineshatter"]=25,
+	["krylard-spineshatter"]=24,
 	["kryptopwnzz-spineshatter"]=17,
 	["krystalbest-spineshatter"]=8,
 	["ksmvr-thunderstrike"]=15,
@@ -15033,7 +15033,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["manceps-spineshatter"]=9,
 	["mandaloza-spineshatter"]=12,
 	["mandawtf-spineshatter"]=1,
-	["mangas-thunderstrike"]=5,
+	["mangas-thunderstrike"]=15,
 	["mangeljanne-spineshatter"]=4,
 	["mangemortal-spineshatter"]=2,
 	["manilow-spineshatter"]=13,
@@ -17059,7 +17059,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["røciel-spineshatter"]=7,
 	["rocky-thunderstrike"]=1,
 	["rockymachine-spineshatter"]=13,
-	["rödelralle-spineshatter"]=13,
+	["rödelralle-spineshatter"]=18,
 	["rôdeo-spineshatter"]=9,
 	["rodlek-thunderstrike"]=5,
 	["rodulunayra-spineshatter"]=3,
@@ -19035,7 +19035,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["vermin-spineshatter"]=2,
 	["vero-spineshatter"]=8,
 	["veronelol-spineshatter"]=2,
-	["verrana-spineshatter"]=2,
+	["verrana-spineshatter"]=17,
 	["verybigkahba-spineshatter"]=15,
 	["verylarge-spineshatter"]=11,
 	["verynicee-spineshatter"]=2,

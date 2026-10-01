@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5323 characters, read 2026-10-01 01:00 AM.
+-- Region eu, 5323 characters, read 2026-10-01 02:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4628,7 +4628,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["zëlleph-auberdine"]=100,
 	["zelq-shekzeer"]=11,
 	["zelyxgodx-firemaw"]=11,
-	["zemillion-shekzeer"]=10,
+	["zemillion-shekzeer"]=11,
 	["zengø-shekzeer"]=11,
 	["zeohant-garalon"]=11,
 	["zeoi-shekzeer"]=11,
@@ -8166,7 +8166,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["ollapelle-shekzeer"]=5,
 	["olvikolomone-hoptallus"]=15,
 	["ombrà-auberdine"]=34,
-	["omglolno-shekzeer"]=11,
+	["omglolno-shekzeer"]=3,
 	["omnissiah-shekzeer"]=17,
 	["omnity-shekzeer"]=15,
 	["oneclap-norushen"]=19,
@@ -8175,7 +8175,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["onlydamage-hoptallus"]=10,
 	["onlyfox-ook-ook"]=4,
 	["onlyhuman-shekzeer"]=23,
-	["onlyinhuman-shekzeer"]=7,
+	["onlyinhuman-shekzeer"]=6,
 	["onlyspikes-shekzeer"]=12,
 	["onlyswaps-shekzeer"]=17,
 	["Ønlyswaps-shekzeer"]=17,
