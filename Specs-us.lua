@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5179 characters, read 2026-10-01 09:59 AM.
+-- Region us, 5179 characters, read 2026-10-01 10:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2489,7 +2489,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["leafvee-nazgrim"]=51,
 	["leanman-pagle"]=10,
 	["leap-raden"]=11,
-	["lebenn-pagle"]=11,
+	["lebenn-pagle"]=10,
 	["lebzozo-pagle"]=11,
 	["leddydk-pagle"]=11,
 	["leddyshx-pagle"]=21,
@@ -3449,7 +3449,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["pullouts-raden"]=11,
 	["pumpermcgee-arugal-au"]=50,
 	["pumpz-raden"]=11,
-	["punchfisto-pagle"]=11,
 	["punchmonkey-pagle"]=260,
 	["pupator-lei-shen"]=10,
 	["puppygirlz-pagle"]=101,
@@ -6871,11 +6870,11 @@ ns.SPECS_BY_REGION["us"] = {
 	["harókz-raden"]=25,
 	["haroldpugh-raden"]=3,
 	["harrick-immerseus"]=34,
-	["härrick-immerseus"]=3,
+	["härrick-immerseus"]=20,
 	["harrydotter-raden"]=28,
 	["haruchann-pagle"]=10,
 	["hashie-pagle"]=12,
-	["hatehord-pagle"]=20,
+	["hatehord-pagle"]=18,
 	["havitýx-raden"]=0,
 	["hãzel-pagle"]=17,
 	["hazi-galakras"]=20,
@@ -8472,7 +8471,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["poinge-pagle"]=5,
 	["poisonblades-pagle"]=34,
 	["poixon-pagle"]=3,
-	["poizøønzx-galakras"]=34,
+	["poizøønzx-galakras"]=29,
 	["pokehunter-galakras"]=3,
 	["pokekek-raden"]=34,
 	["pokemonk-galakras"]=10,
@@ -8548,7 +8547,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["pullouts-raden"]=7,
 	["pumpermcgee-arugal-au"]=21,
 	["pumpz-raden"]=7,
-	["punchfisto-pagle"]=10,
+	["punchfisto-pagle"]=0,
 	["punchmonkey-pagle"]=10,
 	["pupator-lei-shen"]=7,
 	["puppygirlz-pagle"]=16,
