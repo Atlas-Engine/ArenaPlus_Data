@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5184 characters, read 2026-10-01 01:59 AM.
+-- Region us, 5184 characters, read 2026-10-01 02:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1208,7 +1208,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["drbojackal-pagle"]=11,
 	["drcrusher-galakras"]=50,
 	["dreadedshotz-raden"]=11,
-	["dreadparadox-raden"]=21,
+	["dreadparadox-raden"]=20,
 	["dréäm-raden"]=11,
 	["dreamgrrl-pagle"]=41,
 	["dreathhammer-raden"]=10,
@@ -6098,7 +6098,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dintwin-galakras"]=5,
 	["Ðîonysus-raden"]=19,
 	["Ðîóñýsûs-raden"]=4,
-	["Ðîønysus-raden"]=19,
+	["Ðîønysus-raden"]=15,
 	["diõr-raden"]=5,
 	["dirtyboom-galakras"]=17,
 	["dirtydeedss-galakras"]=25,
@@ -7988,13 +7988,13 @@ ns.SPECS_BY_REGION["us"] = {
 	["monuei-raden"]=10,
 	["moobookaiyah-galakras"]=7,
 	["mooleone-pagle"]=5,
-	["mòónfirebeam-raden"]=5,
+	["mòónfirebeam-raden"]=12,
 	["moonloon-pagle"]=5,
 	["moonpieelite-immerseus"]=1,
 	["moonrip-raden"]=12,
 	["moonspellol-galakras"]=14,
 	["møønstár-arugal-au"]=17,
-	["møonxz-raden"]=5,
+	["møonxz-raden"]=33,
 	["møønzx-galakras"]=17,
 	["mootski-pagle"]=3,
 	["mopdruid-pagle"]=0,
@@ -9383,7 +9383,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["sugarich-pagle"]=7,
 	["sugarkill-raden"]=0,
 	["sugarpox-pagle"]=6,
-	["suigintou-raden"]=2,
+	["suigintou-raden"]=16,
 	["suigth-pagle"]=3,
 	["suký-pagle"]=7,
 	["sumbodee-pagle"]=7,
