@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5320 characters, read 2026-10-01 02:00 PM.
+-- Region eu, 5320 characters, read 2026-10-01 03:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3594,7 +3594,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["shinero-garalon"]=21,
 	["shiningday-shekzeer"]=41,
 	["shinobistep-garalon"]=11,
-	["shiryup-auberdine"]=11,
+	["shiryup-auberdine"]=10,
 	["shiryùp-auberdine"]=30,
 	["shiryuù-auberdine"]=11,
 	["shixx-ook-ook"]=11,
@@ -5331,7 +5331,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["anvel-shekzeer"]=23,
 	["anxoasa-shekzeer"]=5,
 	["anxoqt-shekzeer"]=7,
-	["anyabaszó-shekzeer"]=4,
+	["anyabaszó-shekzeer"]=20,
 	["anyataylor-shekzeer"]=3,
 	["anyemushi-shekzeer"]=9,
 	["Åøêkrótx-shekzeer"]=4,
@@ -8300,7 +8300,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["petpulledsoz-hoptallus"]=4,
 	["pettar-hoptallus"]=5,
 	["pewpewshot-shekzeer"]=20,
-	["pewpewsôn-shekzeer"]=2,
+	["pewpewsôn-shekzeer"]=10,
 	["pewpewzzxo-shekzeer"]=4,
 	["pfizergodx-mirage-raceway"]=1,
 	["pharagon-mirage-raceway"]=3,
@@ -8735,7 +8735,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["satineta-shekzeer"]=34,
 	["satisfiedpri-shekzeer"]=9,
 	["saunabeer-gehennas"]=0,
-	["saúro-garalon"]=2,
+	["saúro-garalon"]=27,
 	["saveny-everlook"]=2,
 	["savexx-shekzeer"]=2,
 	["savocid-shekzeer"]=5,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9540 characters, read 2026-10-01 01:58 PM.
+-- Region tbc-us, 9540 characters, read 2026-10-01 02:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10990,7 +10990,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["cocoplum-nightslayer"]=7,
 	["cocoshift-nightslayer"]=3,
 	["cocvendor-nightslayer"]=6,
-	["codeforfood-nightslayer"]=12,
+	["codeforfood-nightslayer"]=1,
 	["coerce-nightslayer"]=15,
 	["côffee-nightslayer"]=24,
 	["coffeedisc-nightslayer"]=1,
@@ -12079,7 +12079,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["expert-nightslayer"]=5,
 	["expirelol-nightslayer"]=4,
 	["expiry-nightslayer"]=1,
-	["explicitlol-nightslayer"]=5,
+	["explicitlol-nightslayer"]=8,
 	["explicitlul-nightslayer"]=5,
 	["exponential-nightslayer"]=18,
 	["exqtt-nightslayer"]=13,
@@ -13825,7 +13825,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["kenulas-dreamscythe"]=17,
 	["keqing-nightslayer"]=3,
 	["kerador-nightslayer"]=5,
-	["keris-nightslayer"]=8,
+	["keris-nightslayer"]=5,
 	["kerosiné-nightslayer"]=5,
 	["kerpp-dreamscythe"]=1,
 	["kerppy-dreamscythe"]=1,
@@ -14244,7 +14244,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["lluminati-nightslayer"]=25,
 	["lmaoidiot-nightslayer"]=13,
 	["lmnc-nightslayer"]=1,
-	["lmnllam-nightslayer"]=21,
+	["lmnllam-nightslayer"]=15,
 	["ln-nightslayer"]=0,
 	["lnln-nightslayer"]=1,
 	["loccoshock-nightslayer"]=10,
@@ -16229,7 +16229,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["resurged-nightslayer"]=2,
 	["reszult-nightslayer"]=16,
 	["retcherx-nightslayer"]=4,
-	["retgrim-dreamscythe"]=11,
+	["retgrim-dreamscythe"]=25,
 	["retiredation-nightslayer"]=4,
 	["retkon-nightslayer"]=11,
 	["retna-nightslayer"]=13,
@@ -18463,7 +18463,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["whateverz-nightslayer"]=16,
 	["whattehpho-dreamscythe"]=5,
 	["whatthefk-nightslayer"]=12,
-	["whatupcuhh-nightslayer"]=5,
+	["whatupcuhh-nightslayer"]=8,
 	["whatwindfury-nightslayer"]=19,
 	["wheatchex-nightslayer"]=23,
 	["wheeznation-dreamscythe"]=13,
