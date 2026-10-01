@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9546 characters, read 2026-10-01 05:58 AM.
+-- Region tbc-us, 9546 characters, read 2026-10-01 06:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10140,7 +10140,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bestwestern-nightslayer"]=10,
 	["betico-nightslayer"]=18,
 	["bettayboop-nightslayer"]=2,
-	["betterdad-nightslayer"]=6,
+	["betterdad-nightslayer"]=4,
 	["bewbyy-nightslayer"]=24,
 	["bewzt-nightslayer"]=15,
 	["bgzp-nightslayer"]=5,
@@ -11766,7 +11766,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["drthai-dreamscythe"]=3,
 	["drtimewizard-dreamscythe"]=25,
 	["drugdealin-nightslayer"]=1,
-	["drugsareokay-nightslayer"]=16,
+	["drugsareokay-nightslayer"]=13,
 	["druidalina-nightslayer"]=7,
 	["druidmilker-nightslayer"]=7,
 	["druidsterly-nightslayer"]=7,
@@ -13981,7 +13981,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["krazulqt-nightslayer"]=9,
 	["kreejohm-nightslayer"]=2,
 	["kreezuss-nightslayer"]=11,
-	["kressto-dreamscythe"]=10,
+	["kressto-dreamscythe"]=24,
 	["krg-nightslayer"]=13,
 	["krgh-nightslayer"]=15,
 	["krip-nightslayer"]=8,
@@ -14515,7 +14515,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["markandrews-dreamscythe"]=20,
 	["markdtf-dreamscythe"]=1,
 	["markeet-nightslayer"]=2,
-	["marktheshark-nightslayer"]=2,
+	["marktheshark-nightslayer"]=18,
 	["markylol-nightslayer"]=2,
 	["markyqt-nightslayer"]=19,
 	["mãrlin-dreamscythe"]=15,
@@ -17068,7 +17068,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["slimefeldx-nightslayer"]=2,
 	["slimeyz-nightslayer"]=1,
 	["slimjohnson-nightslayer"]=6,
-	["slimreaper-nightslayer"]=8,
+	["slimreaper-nightslayer"]=5,
 	["slïpknøt-nightslayer"]=15,
 	["slippyisback-dreamscythe"]=15,
 	["slipqtz-nightslayer"]=7,
@@ -18691,7 +18691,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["xooti-dreamscythe"]=24,
 	["xost-nightslayer"]=5,
 	["xostt-nightslayer"]=13,
-	["xown-nightslayer"]=12,
+	["xown-nightslayer"]=1,
 	["xoxoxoxo-nightslayer"]=4,
 	["xpectdeath-nightslayer"]=13,
 	["xraka-nightslayer"]=2,

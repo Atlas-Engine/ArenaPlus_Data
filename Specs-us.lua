@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5186 characters, read 2026-10-01 05:59 AM.
+-- Region us, 5186 characters, read 2026-10-01 06:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2330,7 +2330,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["kazamon-pagle"]=20,
 	["keeferjar-pagle"]=11,
 	["keekster-pagle"]=11,
-	["keepithood-pagle"]=11,
+	["keepithood-pagle"]=10,
 	["kegsmashed-raden"]=11,
 	["kelaía-pagle"]=11,
 	["kelmight-pagle"]=10,
@@ -6463,7 +6463,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["fatguccimane-raden"]=1,
 	["fatrass-pagle"]=34,
 	["fatsob-lei-shen"]=2,
-	["fattitude-pagle"]=9,
+	["fattitude-pagle"]=13,
 	["fattitude-raden"]=13,
 	["fattymcgee-lei-shen"]=1,
 	["fatwog-raden"]=16,
@@ -6945,7 +6945,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["hickery-arugal-au"]=14,
 	["hideandhunt-galakras"]=3,
 	["hifukface-raden"]=5,
-	["hifvckface-raden"]=4,
+	["hifvckface-raden"]=10,
 	["highc-galakras"]=22,
 	["highç-galakras"]=27,
 	["hîghc-galakras"]=17,
@@ -7453,7 +7453,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["knuckles-pagle"]=7,
 	["knucklès-pagle"]=2,
 	["knûckles-pagle"]=17,
-	["kñuckles-pagle"]=6,
+	["kñuckles-pagle"]=26,
 	["knuklefkr-nazgrim"]=24,
 	["kokuzin-pagle"]=7,
 	["kolokk-immerseus"]=26,
@@ -9680,7 +9680,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["truckw-raden"]=7,
 	["truebolt-pagle"]=15,
 	["trueshepard-pagle"]=21,
-	["trueshot-grobbulus"]=3,
+	["trueshot-grobbulus"]=20,
 	["trukanoh-nazgrim"]=22,
 	["trumpchains-galakras"]=26,
 	["trumpscurse-galakras"]=21,
