@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9537 characters, read 2026-10-01 11:58 AM.
+-- Region tbc-us, 9537 characters, read 2026-10-01 12:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10373,7 +10373,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bobthunder-nightslayer"]=19,
 	["bobylawl-dreamscythe"]=4,
 	["bofur-nightslayer"]=12,
-	["boggerz-nightslayer"]=1,
+	["boggerz-nightslayer"]=14,
 	["boggerzz-nightslayer"]=1,
 	["bogmanx-nightslayer"]=14,
 	["bogwart-nightslayer"]=10,
@@ -12740,7 +12740,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["goreshocks-nightslayer"]=19,
 	["gorgorath-nightslayer"]=8,
 	["gørilla-nightslayer"]=2,
-	["gosari-nightslayer"]=8,
+	["gosari-nightslayer"]=5,
 	["gosarí-nightslayer"]=5,
 	["gosugank-dreamscythe"]=16,
 	["gothamcity-nightslayer"]=5,
@@ -14164,7 +14164,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["lighterr-dreamscythe"]=9,
 	["lightofgay-nightslayer"]=11,
 	["lightofseven-nightslayer"]=19,
-	["lightpowerhh-nightslayer"]=1,
+	["lightpowerhh-nightslayer"]=14,
 	["lightremains-nightslayer"]=11,
 	["lightshart-nightslayer"]=12,
 	["lightsreign-nightslayer"]=25,
@@ -14348,7 +14348,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["lukex-nightslayer"]=5,
 	["lukwa-dreamscythe"]=7,
 	["lumbre-nightslayer"]=11,
-	["lumëns-nightslayer"]=9,
+	["lumëns-nightslayer"]=25,
 	["lumers-nightslayer"]=4,
 	["luminarex-nightslayer"]=1,
 	["lumoos-nightslayer"]=2,
@@ -18197,7 +18197,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["vectorsum-nightslayer"]=17,
 	["veddr-nightslayer"]=1,
 	["veedor-nightslayer"]=7,
-	["vêgàñghøül-nightslayer"]=14,
+	["vêgàñghøül-nightslayer"]=1,
 	["veganstomper-nightslayer"]=25,
 	["vegasdave-dreamscythe"]=18,
 	["veidaz-nightslayer"]=0,

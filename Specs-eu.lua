@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5318 characters, read 2026-10-01 12:00 PM.
+-- Region eu, 5320 characters, read 2026-10-01 01:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -66,6 +66,7 @@ ns.SPEC_SLUGS_BY_REGION["eu"] = {
 	"druid-guardian",
 	"death-knight-frost",
 	"rogue-assassination",
+	"warrior-initial",
 }
 
 -- Kept for anything still reading the old name; it is the same list this file
@@ -816,6 +817,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["colmillo-mirage-raceway"]=10,
 	["cõmbustz-shekzeer"]=11,
 	["combux-shekzeer"]=11,
+	["comeclarity-shekzeer"]=10,
 	["comète-shekzeer"]=41,
 	["commandor-garalon"]=100,
 	["commitment-shekzeer"]=11,
@@ -1397,7 +1399,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["freducator-garalon"]=31,
 	["freedomunit-shekzeer"]=10,
 	["freekchain-mirage-raceway"]=111,
-	["freerating-shekzeer"]=10,
 	["freyâ-shekzeer"]=11,
 	["friederike-ook-ook"]=11,
 	["friedhelm-ook-ook"]=20,
@@ -3523,6 +3524,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["seksi-shekzeer"]=41,
 	["selenabg-norushen"]=101,
 	["selenagomez-hoptallus"]=40,
+	["selenagomezy-shekzeer"]=41,
 	["selvik-shekzeer"]=11,
 	["senarius-shekzeer"]=10,
 	["senasha-shekzeer"]=10,
@@ -5912,6 +5914,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["cleotrin-everlook"]=4,
 	["cley-hoptallus"]=12,
 	["cleylock-shekzeer"]=28,
+	["click-shekzeer"]=0,
 	["clickgroundx-shekzeer"]=6,
 	["clickzblue-shekzeer"]=19,
 	["cliekao-shekzeer"]=5,
@@ -5928,6 +5931,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["colmillo-mirage-raceway"]=25,
 	["cõmbustz-shekzeer"]=2,
 	["combux-shekzeer"]=2,
+	["comeclarity-shekzeer"]=2,
 	["comète-shekzeer"]=3,
 	["commandor-garalon"]=15,
 	["commitment-shekzeer"]=15,
@@ -6534,7 +6538,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["freducator-garalon"]=16,
 	["freedomunit-shekzeer"]=8,
 	["freekchain-mirage-raceway"]=16,
-	["freerating-shekzeer"]=6,
 	["freyâ-shekzeer"]=6,
 	["friederike-ook-ook"]=23,
 	["friedhelm-ook-ook"]=4,
@@ -6711,7 +6714,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["gunzales-shekzeer"]=20,
 	["gupa-norushen"]=10,
 	["guriero-norushen"]=3,
-	["guruglenn-shekzeer"]=1,
+	["guruglenn-shekzeer"]=35,
 	["gutalax-ook-ook"]=8,
 	["guugur-auberdine"]=2,
 	["gww-garalon"]=1,
@@ -8774,6 +8777,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["seksi-shekzeer"]=11,
 	["selenabg-norushen"]=4,
 	["selenagomez-hoptallus"]=11,
+	["selenagomezy-shekzeer"]=9,
 	["selvik-shekzeer"]=9,
 	["senarius-shekzeer"]=1,
 	["senasha-shekzeer"]=23,
@@ -10042,7 +10046,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Баблюнаодин-flamegor"]=5,
 	["Баззей-flamegor"]=2,
 	["Баззэй-flamegor"]=11,
-	["Базиль-flamegor"]=14,
+	["Базиль-flamegor"]=4,
 	["Балс-flamegor"]=4,
 	["Бананыпродаю-flamegor"]=13,
 	["Барабаниван-flamegor"]=6,

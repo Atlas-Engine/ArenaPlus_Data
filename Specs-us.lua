@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5179 characters, read 2026-10-01 11:59 AM.
+-- Region us, 5179 characters, read 2026-10-01 12:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6497,7 +6497,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["fibbing-raden"]=22,
 	["fiercearms-pagle"]=7,
 	["fightcancer-pagle"]=0,
-	["fightmebch-galakras"]=14,
+	["fightmebch-galakras"]=34,
 	["fiirberger-bloodsail-buccaneers"]=16,
 	["findout-raden"]=7,
 	["fingerplay-galakras"]=16,
@@ -7442,7 +7442,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["knottypawz-pagle"]=17,
 	["knuckles-pagle"]=7,
 	["knucklès-pagle"]=2,
-	["knûckles-pagle"]=17,
+	["knûckles-pagle"]=5,
 	["kñuckles-pagle"]=26,
 	["knuklefkr-nazgrim"]=24,
 	["kokuzin-pagle"]=7,
@@ -8960,7 +8960,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["sgbtq-raden"]=9,
 	["sgbtqx-raden"]=15,
 	["shadhow-lei-shen"]=29,
-	["shadiez-raden"]=13,
+	["shadiez-raden"]=21,
 	["shadowarlock-nazgrim"]=24,
 	["shadowchuckr-nazgrim"]=21,
 	["shadowfroste-lei-shen"]=1,
