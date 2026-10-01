@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9556 characters, read 2026-09-30 08:58 PM.
+-- Region tbc-us, 9556 characters, read 2026-09-30 09:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10488,7 +10488,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bqss-nightslayer"]=2,
 	["bradchad-nightslayer"]=2,
 	["bradiator-nightslayer"]=11,
-	["bradzw-nightslayer"]=18,
+	["bradzw-nightslayer"]=2,
 	["braila-nightslayer"]=18,
 	["brainheal-nightslayer"]=10,
 	["brainlatency-nightslayer"]=13,
@@ -10610,7 +10610,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bunnyhoppy-nightslayer"]=3,
 	["bunzy-nightslayer"]=2,
 	["buom-nightslayer"]=5,
-	["burdienz-dreamscythe"]=22,
+	["burdienz-dreamscythe"]=7,
 	["burg-nightslayer"]=4,
 	["burnër-nightslayer"]=12,
 	["burnese-nightslayer"]=26,
@@ -10805,7 +10805,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["charginmalzr-nightslayer"]=6,
 	["charleez-nightslayer"]=1,
 	["charliemung-nightslayer"]=13,
-	["charlo-nightslayer"]=2,
+	["charlo-nightslayer"]=18,
 	["charsong-dreamscythe"]=7,
 	["chartremor-dreamscythe"]=7,
 	["chasecheddar-nightslayer"]=4,
@@ -10972,7 +10972,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["cliped-nightslayer"]=2,
 	["clipy-nightslayer"]=5,
 	["cloakzie-dreamscythe"]=5,
-	["clochan-nightslayer"]=16,
+	["clochan-nightslayer"]=13,
 	["clochen-nightslayer"]=24,
 	["clonely-nightslayer"]=3,
 	["clonx-nightslayer"]=19,
@@ -12460,7 +12460,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["frostipriest-dreamscythe"]=1,
 	["frosy-nightslayer"]=8,
 	["frotted-nightslayer"]=7,
-	["frow-nightslayer"]=2,
+	["frow-nightslayer"]=18,
 	["frownyface-dreamscythe"]=24,
 	["froxhen-nightslayer"]=1,
 	["frozencone-nightslayer"]=4,
@@ -15082,7 +15082,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["nausty-nightslayer"]=21,
 	["navigator-nightslayer"]=2,
 	["naviorc-nightslayer"]=13,
-	["nawandorder-nightslayer"]=15,
+	["nawandorder-nightslayer"]=21,
 	["nayate-nightslayer"]=5,
 	["naytt-nightslayer"]=2,
 	["nazgara-dreamscythe"]=1,
@@ -15494,7 +15494,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["oraqt-nightslayer"]=18,
 	["orcblood-nightslayer"]=24,
 	["orciz-nightslayer"]=10,
-	["orcmasseuse-nightslayer"]=2,
+	["orcmasseuse-nightslayer"]=18,
 	["orcsole-nightslayer"]=2,
 	["orcwarbtw-nightslayer"]=2,
 	["orcyboy-dreamscythe"]=19,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5180 characters, read 2026-09-30 08:59 PM.
+-- Region us, 5180 characters, read 2026-09-30 09:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1544,7 +1544,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["flynn-nazgrim"]=21,
 	["fngrplay-galakras"]=61,
 	["fogoflife-pagle"]=11,
-	["foldedsocks-raden"]=11,
+	["foldedsocks-raden"]=10,
 	["following-pagle"]=10,
 	["fongula-pagle"]=10,
 	["fontainesdc-arugal-au"]=41,
@@ -5033,7 +5033,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["acxblue-raden"]=19,
 	["acxdisciple-raden"]=0,
 	["adamandsteve-immerseus"]=9,
-	["adamwarløck-nazgrim"]=24,
+	["adamwarløck-nazgrim"]=28,
 	["adeathians-lei-shen"]=6,
 	["adepto-pagle"]=7,
 	["adgavert-lei-shen"]=32,
@@ -5063,7 +5063,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["aimonk-raden"]=10,
 	["airbornekid-pagle"]=13,
 	["airbuss-nazgrim"]=18,
-	["airhéads-pagle"]=28,
+	["airhéads-pagle"]=8,
 	["aisten-galakras"]=2,
 	["aiwindel-galakras"]=23,
 	["akeratin-pagle"]=12,
@@ -5297,7 +5297,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["bamboi-pagle"]=10,
 	["bandicute-pagle"]=14,
 	["bane-raden"]=0,
-	["bàng-galakras"]=4,
+	["bàng-galakras"]=10,
 	["bangyang-galakras"]=22,
 	["bannelion-immerseus"]=5,
 	["barêskin-galakras"]=6,
@@ -6403,7 +6403,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["everelle-pagle"]=0,
 	["everlast-raden"]=24,
 	["everyday-nazgrim"]=10,
-	["evil-immerseus"]=13,
+	["evil-immerseus"]=21,
 	["evilchicken-raden"]=17,
 	["evilforcesgx-pagle"]=14,
 	["eviriaa-pagle"]=25,
@@ -7560,7 +7560,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["leroy-galakras"]=23,
 	["lester-raden"]=3,
 	["lesthoukov-pagle"]=3,
-	["letalor-pagle"]=29,
+	["letalor-pagle"]=14,
 	["leticiaa-pagle"]=3,
 	["letmechoff-pagle"]=4,
 	["letmetrap-pagle"]=0,
@@ -8002,7 +8002,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["morgannx-raden"]=14,
 	["morkeny-nazgrim"]=7,
 	["mornincardio-pagle"]=4,
-	["morphaz-raden"]=1,
+	["morphaz-raden"]=11,
 	["mortalcrimes-nazgrim"]=7,
 	["mortifier-raden"]=34,
 	["mossrtkek-raden"]=4,
@@ -9128,7 +9128,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["slashera-pagle"]=0,
 	["slawbunnies-galakras"]=3,
 	["slaý-galakras"]=7,
-	["sleepïï-pagle"]=5,
+	["sleepïï-pagle"]=17,
 	["sleepii-raden"]=28,
 	["sleepweaver-pagle"]=4,
 	["sleepybiloge-galakras"]=6,
