@@ -42,7 +42,7 @@ local ns = ArenaPlusData
 -- source_item, so gems are stored as real item ids the client can draw and only
 -- the enchant text has to ship.
 --
--- Region us, 421 characters, 375 glyph names, read 2026-10-01 05:20 PM.
+-- Region us, 421 characters, 375 glyph names, read 2026-10-01 06:20 PM.
 ns.GLYPH_NAMES = ns.GLYPH_NAMES or {}
 
 for id, name in pairs({
@@ -429,20 +429,6 @@ for id, name in pairs({
 ns.TALENT_NAMES = ns.TALENT_NAMES or {}
 
 for id, name in pairs({
-	[605]="Dominate Mind",
-	[12292]="Bloodbath",
-	[12323]="Piercing Howl",
-	[29838]="Second Wind",
-	[46924]="Bladestorm",
-	[46968]="Shockwave",
-	[55694]="Enraged Regeneration",
-	[102060]="Disrupting Shout",
-	[103826]="Juggernaut",
-	[103827]="Double Time",
-	[103840]="Impending Victory",
-	[107566]="Staggering Shout",
-	[107570]="Storm Bolt",
-	[107574]="Avatar",
 	[108921]="Psyfiend",
 	[109142]="Twist of Fate",
 	[109175]="Divine Insight",
@@ -452,21 +438,10 @@ for id, name in pairs({
 	[109306]="Thrill of the Hunt",
 	[110744]="Divine Star",
 	[112833]="Spectral Guise",
-	[114029]="Safeguard",
-	[114030]="Vigilance",
-	[115098]="Chi Wave",
-	[115396]="Ascension",
-	[115399]="Chi Brew",
-	[116841]="Tiger's Lust",
-	[116847]="Rushing Jade Wind",
 	[117050]="Glaive Toss",
-	[118000]="Dragon Roar",
 	[118675]="Crouching Tiger, Hidden Chimera",
-	[119381]="Leg Sweep",
-	[120517]="Halo",
 	[120679]="Dire Beast",
 	[121536]="Angelic Feather",
-	[122280]="Healing Elixirs",
 	[131894]="A Murder of Crows",
 }) do ns.TALENT_NAMES[id] = name end
 
