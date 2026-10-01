@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5184 characters, read 2026-10-01 02:59 AM.
+-- Region us, 5184 characters, read 2026-10-01 03:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2068,6 +2068,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["ihealufeelz-pagle"]=100,
 	["ihuntyourmum-arugal-au"]=10,
 	["iightz-raden"]=11,
+	["ikillondc-raden"]=41,
 	["ikillufeel-pagle"]=50,
 	["ikissemily-raden"]=41,
 	["Íliatopuria-raden"]=11,
@@ -4680,7 +4681,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["vteckicked-pagle"]=41,
 	["vvalaydia-pagle"]=11,
 	["vvarrior-raden"]=10,
-	["vvuvvuuvvuvv-raden"]=10,
+	["vvuvvuuvvuvv-raden"]=11,
 	["vyaphets-immerseus"]=80,
 	["vyndruh-pagle"]=100,
 	["vyrdzugzug-nazgrim"]=20,
@@ -7098,7 +7099,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ihealufeelz-pagle"]=2,
 	["ihuntyourmum-arugal-au"]=3,
 	["iightz-raden"]=9,
-	["ikillondc-raden"]=0,
+	["ikillondc-raden"]=4,
 	["ikillufeel-pagle"]=24,
 	["ikissemily-raden"]=4,
 	["Íliatopuria-raden"]=7,
@@ -8523,7 +8524,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["prettigood-raden"]=4,
 	["price-raden"]=28,
 	["pridice-raden"]=9,
-	["priesthoods-pagle"]=21,
+	["priesthoods-pagle"]=9,
 	["priestiq-galakras"]=21,
 	["priincess-raden"]=6,
 	["primalfear-pagle"]=7,
@@ -9133,7 +9134,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["slashera-pagle"]=0,
 	["slawbunnies-galakras"]=3,
 	["slaý-galakras"]=7,
-	["sleepïï-pagle"]=17,
+	["sleepïï-pagle"]=5,
 	["sleepii-raden"]=28,
 	["sleepweaver-pagle"]=4,
 	["sleepybiloge-galakras"]=6,
@@ -9353,7 +9354,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["stonêd-raden"]=16,
 	["stooter-nazgrim"]=5,
 	["stooty-nazgrim"]=7,
-	["stoptalkme-raden"]=4,
+	["stoptalkme-raden"]=10,
 	["stormdaddyx-pagle"]=22,
 	["størmie-raden"]=15,
 	["stormieskye-galakras"]=17,
@@ -9892,7 +9893,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["wb-galakras"]=28,
 	["weakergender-pagle"]=21,
 	["wealthycat-raden"]=5,
-	["wearefoals-raden"]=5,
+	["wearefoals-raden"]=17,
 	["webeballin-pagle"]=9,
 	["wekker-pagle"]=2,
 	["westjet-raden"]=7,

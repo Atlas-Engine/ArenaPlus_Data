@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5323 characters, read 2026-10-01 03:00 AM.
+-- Region eu, 5323 characters, read 2026-10-01 04:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4519,7 +4519,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["xpa-everlook"]=41,
 	["xpally-shekzeer"]=10,
 	["xpendlol-shekzeer"]=40,
-	["xpm-everlook"]=10,
+	["xpm-everlook"]=11,
 	["xpu-everlook"]=41,
 	["xstabbe-shekzeer"]=11,
 	["xúén-shekzeer"]=11,
@@ -7248,7 +7248,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["khaddafear-shekzeer"]=23,
 	["khaliope-everlook"]=9,
 	["khazooq-mirage-raceway"]=25,
-	["khobkhunkrap-shekzeer"]=11,
+	["khobkhunkrap-shekzeer"]=3,
 	["khofo-shekzeer"]=17,
 	["khunta-shekzeer"]=13,
 	["kickbot-shekzeer"]=26,
@@ -7903,7 +7903,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["mythrugun-shekzeer"]=4,
 	["mywayz-mirage-raceway"]=2,
 	["mztx-shekzeer"]=20,
-	["nabek-shekzeer"]=16,
+	["nabek-shekzeer"]=13,
 	["nadgar-hoptallus"]=3,
 	["nadsa-mirage-raceway"]=12,
 	["næctis-shekzeer"]=8,
@@ -9822,7 +9822,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["xpa-everlook"]=9,
 	["xpally-shekzeer"]=15,
 	["xpendlol-shekzeer"]=21,
-	["xpm-everlook"]=7,
+	["xpm-everlook"]=6,
 	["xpu-everlook"]=9,
 	["xstabbe-shekzeer"]=26,
 	["xuen-everlook"]=0,
@@ -9839,7 +9839,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["yambol-garalon"]=3,
 	["yangka-shekzeer"]=0,
 	["yantra-shekzeer"]=16,
-	["yapful-shekzeer"]=5,
+	["yapful-shekzeer"]=15,
 	["yåpful-shekzeer"]=17,
 	["yaraki-mirage-raceway"]=2,
 	["yaruna-mirage-raceway"]=2,
