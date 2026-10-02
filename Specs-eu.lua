@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5316 characters, read 2026-10-02 05:00 PM.
+-- Region eu, 5316 characters, read 2026-10-02 06:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1794,7 +1794,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["indié-everlook"]=11,
 	["indîe-everlook"]=11,
 	["ineedtopoo-shekzeer"]=10,
-	["ineo-shekzeer"]=10,
+	["ineo-shekzeer"]=11,
 	["inertemplier-shekzeer"]=10,
 	["infection-shekzeer"]=10,
 	["infectiøns-auberdine"]=11,
@@ -5806,7 +5806,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["cazador-shekzeer"]=4,
 	["cbsboss-norushen"]=4,
 	["ccp-mirage-raceway"]=7,
-	["ccreticsback-mirage-raceway"]=18,
+	["ccreticsback-mirage-raceway"]=1,
 	["cdewig-shekzeer"]=13,
 	["ceendar-auberdine"]=3,
 	["ceendare-auberdine"]=31,
@@ -6373,7 +6373,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["etherion-shekzeer"]=19,
 	["Étoiledefeu-shekzeer"]=15,
 	["eulalya-shekzeer"]=20,
-	["eurythmic-shekzeer"]=27,
+	["eurythmic-shekzeer"]=2,
 	["evarqtx-auberdine"]=15,
 	["everine-everlook"]=24,
 	["Éverlast-hoptallus"]=1,
@@ -7828,7 +7828,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["monktop-shekzeer"]=0,
 	["monlok-garalon"]=23,
 	["monloko-shekzeer"]=17,
-	["monlokoo-shekzeer"]=23,
+	["monlokoo-shekzeer"]=17,
 	["monomax-shekzeer"]=8,
 	["mønsìeurfràz-shekzeer"]=20,
 	["mønsignøre-shekzeer"]=5,
@@ -8320,7 +8320,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["pikemi-shekzeer"]=6,
 	["pikemw-shekzeer"]=6,
 	["pikqz-auberdine"]=3,
-	["pillarhumpa-shekzeer"]=13,
+	["pillarhumpa-shekzeer"]=16,
 	["pînetatante-shekzeer"]=17,
 	["pingfade-shekzeer"]=12,
 	["pipelayer-shekzeer"]=24,
