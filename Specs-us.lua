@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5180 characters, read 2026-10-02 04:59 AM.
+-- Region us, 5180 characters, read 2026-10-02 05:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7619,7 +7619,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["limpzr-pagle"]=14,
 	["linares-lei-shen"]=24,
 	["linaress-lei-shen"]=16,
-	["linearly-pagle"]=19,
+	["linearly-pagle"]=22,
 	["linktrol-pagle"]=18,
 	["linnker-pagle"]=9,
 	["lionner-lei-shen"]=10,
@@ -7648,7 +7648,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["lkwjebfb-immerseus"]=9,
 	["llaski-galakras"]=18,
 	["llinc-pagle"]=20,
-	["lloydx-pagle"]=6,
+	["lloydx-pagle"]=26,
 	["loaofdietcke-pagle"]=7,
 	["lockholidays-pagle"]=28,
 	["lockholidayz-pagle"]=28,
@@ -9685,7 +9685,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["tsukawashime-raden"]=4,
 	["tsunadè-nazgrim"]=9,
 	["ttawdirg-pagle"]=3,
-	["tubalcain-galakras"]=15,
+	["tubalcain-galakras"]=19,
 	["tuladepiedra-pagle"]=7,
 	["turaoferao-raden"]=17,
 	["turbantime-pagle"]=4,
@@ -9731,7 +9731,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["unbalance-immerseus"]=6,
 	["unclecuh-immerseus"]=17,
 	["undeaddeavo-galakras"]=25,
-	["undeaddevo-galakras"]=11,
+	["undeaddevo-galakras"]=1,
 	["undeadøse-nazgrim"]=9,
 	["undinger-immerseus"]=7,
 	["undulate-raden"]=22,

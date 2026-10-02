@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9910 characters, read 2026-10-02 04:59 AM.
+-- Region tbc-eu, 9910 characters, read 2026-10-02 05:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10355,7 +10355,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["azéo-spineshatter"]=5,
 	["azerøth-spineshatter"]=11,
 	["azerouth-spineshatter"]=8,
-	["azgä-spineshatter"]=5,
+	["azgä-spineshatter"]=15,
 	["azhenyo-spineshatter"]=19,
 	["azhu-spineshatter"]=1,
 	["aziegodx-spineshatter"]=5,
@@ -11254,7 +11254,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["chx-spineshatter"]=2,
 	["chyrok-spineshatter"]=13,
 	["chz-spineshatter"]=7,
-	["cialt-thunderstrike"]=5,
+	["cialt-thunderstrike"]=15,
 	["cicá-thunderstrike"]=5,
 	["cicasaurus-thunderstrike"]=7,
 	["cicilol-spineshatter"]=8,
@@ -11692,7 +11692,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["dee-spineshatter"]=18,
 	["deeper-spineshatter"]=5,
 	["deepesh-spineshatter"]=2,
-	["deepmindai-spineshatter"]=9,
+	["deepmindai-spineshatter"]=4,
 	["deeqh-spineshatter"]=2,
 	["deerhoi-spineshatter"]=7,
 	["deespair-spineshatter"]=8,
@@ -14313,7 +14313,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["kolouchex-spineshatter"]=14,
 	["kolouchova-spineshatter"]=2,
 	["kolperog-spineshatter"]=3,
-	["kolun-spineshatter"]=3,
+	["kolun-spineshatter"]=19,
 	["kombikorm-spineshatter"]=1,
 	["komiszar-spineshatter"]=2,
 	["koncovshikx-spineshatter"]=10,
@@ -15587,7 +15587,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["namzug-spineshatter"]=5,
 	["nanap-spineshatter"]=9,
 	["nanomishka-spineshatter"]=6,
-	["nanooxid-spineshatter"]=19,
+	["nanooxid-spineshatter"]=3,
 	["nanosh-spineshatter"]=3,
 	["nantee-spineshatter"]=5,
 	["nanuka-spineshatter"]=11,
