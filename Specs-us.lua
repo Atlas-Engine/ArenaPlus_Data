@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5181 characters, read 2026-10-02 12:59 PM.
+-- Region us, 5181 characters, read 2026-10-02 01:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3022,7 +3022,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["necris-galakras"]=50,
 	["necrodo-pagle"]=10,
 	["necrolife-nazgrim"]=21,
-	["necrømancer-immerseus"]=50,
 	["nefion-pagle"]=101,
 	["neftyo-raden"]=11,
 	["negarun-raden"]=10,
@@ -6266,7 +6265,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dumdum-nazgrim"]=18,
 	["dúmß-raden"]=7,
 	["dúmßer-raden"]=16,
-	["dunardel-raden"]=30,
+	["dunardel-raden"]=7,
 	["dunkindotnut-raden"]=0,
 	["dunkyb-raden"]=1,
 	["dunsun-galakras"]=10,
@@ -6323,7 +6322,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["elchjager-pagle"]=20,
 	["elcubano-raden"]=5,
 	["electabuzz-raden"]=3,
-	["electrikal-lei-shen"]=15,
+	["electrikal-lei-shen"]=19,
 	["electroxx-galakras"]=27,
 	["elementoos-lei-shen"]=19,
 	["elfakiller-nazgrim"]=18,
@@ -8106,7 +8105,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["necris-galakras"]=26,
 	["necrodo-pagle"]=6,
 	["necrolife-nazgrim"]=24,
-	["necrømancer-immerseus"]=11,
 	["nefion-pagle"]=23,
 	["neftyo-raden"]=9,
 	["negarun-raden"]=7,
@@ -8710,6 +8708,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["reppas-galakras"]=0,
 	["rerollx-raden"]=7,
 	["reserved-lei-shen"]=7,
+	["respawn-immerseus"]=0,
 	["restoads-pagle"]=5,
 	["restris-raden"]=34,
 	["retbullqt-raden"]=16,
@@ -8967,7 +8966,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["sgbtq-raden"]=9,
 	["sgbtqx-raden"]=15,
 	["shadhow-lei-shen"]=29,
-	["shadiez-raden"]=21,
+	["shadiez-raden"]=13,
 	["shadowarlock-nazgrim"]=24,
 	["shadowchuckr-nazgrim"]=21,
 	["shadowfroste-lei-shen"]=1,
@@ -8997,7 +8996,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["sharpsix-raden"]=4,
 	["shaszx-raden"]=1,
 	["shatenza-pagle"]=10,
-	["shatiel-galakras"]=16,
+	["shatiel-galakras"]=32,
 	["shatterbust-raden"]=11,
 	["shawdtychad-pagle"]=16,
 	["shed-pagle"]=26,
@@ -9027,7 +9026,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["shizue-nazgrim"]=5,
 	["shlorky-pagle"]=5,
 	["shluhpickle-raden"]=23,
-	["shmacked-lei-shen"]=1,
+	["shmacked-lei-shen"]=11,
 	["shmagey-pagle"]=31,
 	["shmeezmack-galakras"]=10,
 	["shmopmonk-galakras"]=4,
@@ -10128,7 +10127,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["zenflow-raden"]=4,
 	["zenfocus-raden"]=27,
 	["zengirl-raden"]=10,
-	["zeniitsu-pagle"]=7,
+	["zeniitsu-pagle"]=30,
 	["zenithrax-pagle"]=6,
 	["zenmaxxing-pagle"]=10,
 	["zentore-raden"]=7,

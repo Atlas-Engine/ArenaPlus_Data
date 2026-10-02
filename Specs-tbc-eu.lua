@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9906 characters, read 2026-10-02 12:59 PM.
+-- Region tbc-eu, 9906 characters, read 2026-10-02 01:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11465,7 +11465,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["crydictus-spineshatter"]=5,
 	["cryeth-spineshatter"]=23,
 	["crymez-thunderstrike"]=3,
-	["crymoar-spineshatter"]=4,
+	["crymoar-spineshatter"]=9,
 	["crynoob-spineshatter"]=1,
 	["cryomace-spineshatter"]=11,
 	["crypticas-spineshatter"]=6,
@@ -11748,7 +11748,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["dexcc-spineshatter"]=23,
 	["dexdodo-thunderstrike"]=1,
 	["dexdudu-spineshatter"]=1,
-	["dexeen-thunderstrike"]=13,
+	["dexeen-thunderstrike"]=14,
 	["dexory-spineshatter"]=1,
 	["déxory-spineshatter"]=2,
 	["dexorys-spineshatter"]=11,
@@ -12355,7 +12355,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["erhaazg-spineshatter"]=12,
 	["erhotica-thunderstrike"]=3,
 	["erikafontes-spineshatter"]=9,
-	["erïs-thunderstrike"]=20,
+	["erïs-thunderstrike"]=1,
 	["erobiquegirl-spineshatter"]=13,
 	["eroen-thunderstrike"]=3,
 	["eròth-spineshatter"]=10,
@@ -13422,7 +13422,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["hpalxd-spineshatter"]=7,
 	["hqhq-thunderstrike"]=3,
 	["hqte-spineshatter"]=3,
-	["hsankor-spineshatter"]=2,
+	["hsankor-spineshatter"]=8,
 	["hubschrauber-spineshatter"]=8,
 	["huertas-spineshatter"]=5,
 	["hugedebt-spineshatter"]=11,
@@ -15571,7 +15571,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["námeless-spineshatter"]=12,
 	["namesplate-spineshatter"]=5,
 	["namooste-spineshatter"]=5,
-	["namro-spineshatter"]=3,
+	["namro-spineshatter"]=19,
 	["namrotok-spineshatter"]=5,
 	["namzir-spineshatter"]=3,
 	["namzug-spineshatter"]=5,
@@ -15736,7 +15736,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["neverdotx-spineshatter"]=13,
 	["neverjr-thunderstrike"]=2,
 	["neverlolxqt-spineshatter"]=23,
-	["nevermindx-spineshatter"]=19,
+	["nevermindx-spineshatter"]=3,
 	["névermore-spineshatter"]=3,
 	["nevershearx-spineshatter"]=5,
 	["nevinna-spineshatter"]=11,
