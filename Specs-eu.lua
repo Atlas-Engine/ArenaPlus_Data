@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5321 characters, read 2026-10-01 07:00 PM.
+-- Region eu, 5321 characters, read 2026-10-01 08:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -371,7 +371,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["ayus-shekzeer"]=111,
 	["ayvara-shekzeer"]=11,
 	["ayxx-shekzeer"]=41,
-	["Äzard-shekzeer"]=11,
+	["Äzard-shekzeer"]=50,
 	["azarrd-shekzeer"]=41,
 	["azarrdd-garalon"]=50,
 	["azdor-mirage-raceway"]=20,
@@ -419,7 +419,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["bakatrap-shekzeer"]=11,
 	["bakomba-shekzeer"]=10,
 	["balanced-shekzeer"]=41,
-	["balasino-shekzeer"]=10,
+	["balasino-shekzeer"]=11,
 	["ballawatsch-shekzeer"]=50,
 	["ballbusting-shekzeer"]=11,
 	["ballbustingq-shekzeer"]=11,
@@ -5455,7 +5455,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["aydan-shekzeer"]=2,
 	["aydedee-garalon"]=20,
 	["ayleena-mirage-raceway"]=6,
-	["ayleenaah-ook-ook"]=8,
+	["ayleenaah-ook-ook"]=31,
 	["ayloupipi-shekzeer"]=2,
 	["ayuaha-shekzeer"]=16,
 	["ayus-shekzeer"]=15,
@@ -7224,7 +7224,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["kenhavefun-shekzeer"]=6,
 	["kenkofot-garalon"]=10,
 	["kennyk-garalon"]=18,
-	["kennyk-shekzeer"]=18,
+	["kennyk-shekzeer"]=1,
 	["kennykk-garalon"]=1,
 	["kennyykofot-garalon"]=24,
 	["kenoh-shekzeer"]=18,
@@ -8301,7 +8301,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["petpulledsoz-hoptallus"]=4,
 	["pettar-hoptallus"]=5,
 	["pewpewshot-shekzeer"]=20,
-	["pewpewsôn-shekzeer"]=10,
+	["pewpewsôn-shekzeer"]=2,
 	["pewpewzzxo-shekzeer"]=4,
 	["pfizergodx-mirage-raceway"]=1,
 	["pharagon-mirage-raceway"]=3,
@@ -8425,7 +8425,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["qikka-shekzeer"]=14,
 	["qk-shekzeer"]=9,
 	["qkz-shekzeer"]=4,
-	["qo-shekzeer"]=11,
+	["qo-shekzeer"]=3,
 	["qopsz-shekzeer"]=20,
 	["qraven-shekzeer"]=4,
 	["qriik-ook-ook"]=5,
