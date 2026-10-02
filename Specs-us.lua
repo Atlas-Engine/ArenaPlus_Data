@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5187 characters, read 2026-10-02 01:59 AM.
+-- Region us, 5187 characters, read 2026-10-02 02:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6634,7 +6634,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["fuzyywuzyy-nazgrim"]=13,
 	["fuzzywaifu-lei-shen"]=10,
 	["fxd-arugal-au"]=5,
-	["fyruss-pagle"]=3,
+	["fyruss-pagle"]=20,
 	["gaarah-pagle"]=1,
 	["gabimaru-raden"]=4,
 	["gaejustin-pagle"]=33,
@@ -7293,7 +7293,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["jonny-pagle"]=29,
 	["jonnyslash-immerseus"]=7,
 	["jontejr-raden"]=15,
-	["jootfob-galakras"]=23,
+	["jootfob-galakras"]=30,
 	["jorkmeslow-pagle"]=0,
 	["jorogin-grobbulus"]=14,
 	["josept-pagle"]=9,
@@ -7931,8 +7931,8 @@ ns.SPECS_BY_REGION["us"] = {
 	["misprëdictio-nazgrim"]=21,
 	["missatrinni-pagle"]=0,
 	["missmama-galakras"]=5,
-	["missrollings-pagle"]=10,
-	["misstotem-pagle"]=15,
+	["missrollings-pagle"]=4,
+	["misstotem-pagle"]=19,
 	["missyu-immerseus"]=23,
 	["mistafistuh-pagle"]=4,
 	["mistnme-pagle"]=0,
@@ -8011,7 +8011,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["morgannx-raden"]=14,
 	["morkeny-nazgrim"]=7,
 	["mornincardio-pagle"]=4,
-	["morphaz-raden"]=11,
+	["morphaz-raden"]=1,
 	["mortalcrimes-nazgrim"]=7,
 	["mortifier-raden"]=34,
 	["mossrtkek-raden"]=4,
@@ -9812,7 +9812,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["verstepper-pagle"]=0,
 	["vertara-raden"]=2,
 	["veryuska-pagle"]=13,
-	["vettaex-arugal-au"]=21,
+	["vettaex-arugal-au"]=9,
 	["vexe-pagle"]=2,
 	["veygâ-pagle"]=20,
 	["viadin-lei-shen"]=16,
