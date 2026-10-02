@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9907 characters, read 2026-10-02 09:59 AM.
+-- Region tbc-eu, 9907 characters, read 2026-10-02 10:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11079,7 +11079,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["carrado-spineshatter"]=11,
 	["carrÿ-spineshatter"]=9,
 	["carrysham-spineshatter"]=12,
-	["carstem-thunderstrike"]=18,
+	["carstem-thunderstrike"]=13,
 	["cartlock-spineshatter"]=13,
 	["cartw-spineshatter"]=5,
 	["casá-spineshatter"]=2,
@@ -11585,7 +11585,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["darisa-spineshatter"]=9,
 	["darkavenge-spineshatter"]=19,
 	["darkbetrayed-thunderstrike"]=15,
-	["darkbone-spineshatter"]=2,
+	["darkbone-spineshatter"]=17,
 	["darkbuster-spineshatter"]=13,
 	["darkface-spineshatter"]=2,
 	["darkfaid-thunderstrike"]=8,
@@ -11683,7 +11683,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["dee-spineshatter"]=18,
 	["deeper-spineshatter"]=5,
 	["deepesh-spineshatter"]=2,
-	["deepmindai-spineshatter"]=4,
+	["deepmindai-spineshatter"]=9,
 	["deeqh-spineshatter"]=2,
 	["deerhoi-spineshatter"]=7,
 	["deespair-spineshatter"]=8,
@@ -14220,7 +14220,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["kikkobtw-spineshatter"]=5,
 	["kikoho-spineshatter"]=1,
 	["kikoobandit-spineshatter"]=3,
-	["kikoobibtoo-spineshatter"]=2,
+	["kikoobibtoo-spineshatter"]=17,
 	["kilata-thunderstrike"]=11,
 	["kilipäärambo-spineshatter"]=9,
 	["killerbeebop-spineshatter"]=18,
@@ -14747,7 +14747,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["lortharx-spineshatter"]=5,
 	["lorttoveijo-thunderstrike"]=10,
 	["losarack-spineshatter"]=18,
-	["löschen-spineshatter"]=3,
+	["löschen-spineshatter"]=19,
 	["loserpaladin-spineshatter"]=7,
 	["losgambas-spineshatter"]=4,
 	["loslassen-thunderstrike"]=1,
@@ -15196,7 +15196,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["migrosh-spineshatter"]=11,
 	["mihtal-thunderstrike"]=2,
 	["mihx-thunderstrike"]=2,
-	["miilakunis-spineshatter"]=5,
+	["miilakunis-spineshatter"]=15,
 	["miireille-spineshatter"]=3,
 	["miji-spineshatter"]=3,
 	["mijilol-spineshatter"]=3,
