@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9916 characters, read 2026-10-01 09:59 PM.
+-- Region tbc-eu, 9916 characters, read 2026-10-01 10:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10420,7 +10420,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["backx-thunderstrike"]=5,
 	["baconflippin-spineshatter"]=9,
 	["bâd-spineshatter"]=5,
-	["badboygamer-spineshatter"]=14,
+	["badboygamer-spineshatter"]=13,
 	["badføød-spineshatter"]=5,
 	["badforyá-spineshatter"]=1,
 	["badidea-spineshatter"]=18,
@@ -13651,7 +13651,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["insalva-spineshatter"]=11,
 	["insaneqt-spineshatter"]=18,
 	["inshayne-spineshatter"]=5,
-	["insølolz-spineshatter"]=9,
+	["insølolz-spineshatter"]=4,
 	["insømniac-spineshatter"]=1,
 	["inspirefear-spineshatter"]=5,
 	["instantv-spineshatter"]=9,
@@ -17784,7 +17784,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["smøkÿÿ-spineshatter"]=8,
 	["smøkyyx-spineshatter"]=3,
 	["smoothing-spineshatter"]=3,
-	["smooya-spineshatter"]=17,
+	["smooya-spineshatter"]=2,
 	["smörskelett-spineshatter"]=3,
 	["smosbyxdd-spineshatter"]=7,
 	["smourneprio-spineshatter"]=5,
