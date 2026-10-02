@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5321 characters, read 2026-10-02 12:00 AM.
+-- Region eu, 5321 characters, read 2026-10-02 01:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2137,6 +2137,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["koosje-shekzeer"]=111,
 	["kopcap-shekzeer"]=250,
 	["køpul-auberdine"]=10,
+	["koreanpriest-shekzeer"]=41,
 	["korial-shekzeer"]=11,
 	["korpensham-shekzeer"]=250,
 	["kôrsäkôff-auberdine"]=10,
@@ -4437,7 +4438,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["wizzwíllìams-shekzeer"]=11,
 	["wjagge-shekzeer"]=10,
 	["wmdabuser-shekzeer"]=11,
-	["wmdmeta-shekzeer"]=41,
 	["wmwmwmwmwmw-shekzeer"]=41,
 	["wnky-shekzeer"]=10,
 	["wodarmsopx-shekzeer"]=10,
@@ -7314,6 +7314,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["koosje-shekzeer"]=20,
 	["kopcap-shekzeer"]=6,
 	["køpul-auberdine"]=15,
+	["koreanpriest-shekzeer"]=9,
 	["korial-shekzeer"]=1,
 	["korpensham-shekzeer"]=19,
 	["kôrsäkôff-auberdine"]=20,
@@ -9734,7 +9735,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["wizzwíllìams-shekzeer"]=2,
 	["wjagge-shekzeer"]=1,
 	["wmdabuser-shekzeer"]=1,
-	["wmdmeta-shekzeer"]=3,
 	["wmwmwmwmwmw-shekzeer"]=3,
 	["wnky-shekzeer"]=5,
 	["wodarmsopx-shekzeer"]=1,

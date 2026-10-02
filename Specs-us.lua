@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5183 characters, read 2026-10-01 11:59 PM.
+-- Region us, 5183 characters, read 2026-10-02 12:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5628,7 +5628,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["bullpig-galakras"]=22,
 	["bullshót-galakras"]=18,
 	["bumscrub-galakras"]=32,
-	["burei-lei-shen"]=13,
+	["burei-lei-shen"]=9,
 	["burntbum-pagle"]=1,
 	["burntchef-raden"]=1,
 	["burstinflams-pagle"]=0,
@@ -6371,7 +6371,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["epsilon-pagle"]=0,
 	["erass-nazgrim"]=16,
 	["eredark-raden"]=22,
-	["erieshotz-pagle"]=18,
+	["erieshotz-pagle"]=20,
 	["erik-nazgrim"]=7,
 	["erikane-nazgrim"]=4,
 	["erikhai-nazgrim"]=3,
@@ -6826,7 +6826,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["gurkaa-galakras"]=7,
 	["gurrd-lei-shen"]=34,
 	["gúrú-pagle"]=11,
-	["gutennacht-pagle"]=21,
+	["gutennacht-pagle"]=9,
 	["guthee-pagle"]=7,
 	["gwendolyn-raden"]=1,
 	["gwuapo-raden"]=7,
@@ -7656,7 +7656,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["lockinseason-pagle"]=28,
 	["lockitingary-galakras"]=18,
 	["lockslop-raden"]=28,
-	["locksmith-pagle"]=24,
+	["locksmith-pagle"]=28,
 	["lokî-raden"]=19,
 	["lokopoko-pagle"]=5,
 	["lolggz-galakras"]=14,
