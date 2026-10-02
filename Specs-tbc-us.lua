@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9551 characters, read 2026-10-01 07:58 PM.
+-- Region tbc-us, 9551 characters, read 2026-10-01 08:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11304,7 +11304,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["darkdan-nightslayer"]=1,
 	["darkentt-nightslayer"]=2,
 	["darkflamex-nightslayer"]=2,
-	["darkguanyin-dreamscythe"]=1,
+	["darkguanyin-dreamscythe"]=14,
 	["darkhealzin-dreamscythe"]=1,
 	["darkjane-nightslayer"]=13,
 	["darknos-nightslayer"]=13,
@@ -12091,7 +12091,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["exk-nightslayer"]=4,
 	["exotik-nightslayer"]=1,
 	["expelledp-dreamscythe"]=12,
-	["expense-dreamscythe"]=4,
+	["expense-dreamscythe"]=6,
 	["expert-nightslayer"]=5,
 	["expirelol-nightslayer"]=4,
 	["expiry-nightslayer"]=1,
@@ -13466,7 +13466,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["jackeyloh-dreamscythe"]=25,
 	["jackkbro-nightslayer"]=19,
 	["jackncloak-nightslayer"]=5,
-	["jacknumbers-nightslayer"]=2,
+	["jacknumbers-nightslayer"]=18,
 	["jackodawackö-nightslayer"]=5,
 	["jacktherager-nightslayer"]=2,
 	["jacobd-nightslayer"]=11,
@@ -13543,7 +13543,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["jcoles-dreamscythe"]=5,
 	["jcrumpo-nightslayer"]=8,
 	["jdawn-nightslayer"]=12,
-	["jdaymeowl-nightslayer"]=7,
+	["jdaymeowl-nightslayer"]=3,
 	["jdela-dreamscythe"]=5,
 	["jdots-nightslayer"]=1,
 	["jdragon-dreamscythe"]=1,
@@ -13757,7 +13757,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["kanine-nightslayer"]=7,
 	["kanjaeden-dreamscythe"]=23,
 	["kannabal-nightslayer"]=5,
-	["kanst-nightslayer"]=13,
+	["kanst-nightslayer"]=16,
 	["kaobeecee-nightslayer"]=10,
 	["kapowz-nightslayer"]=2,
 	["kappakingp-nightslayer"]=5,
@@ -14489,7 +14489,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["manaproblemz-dreamscythe"]=10,
 	["manbarepig-nightslayer"]=10,
 	["manbearzul-nightslayer"]=3,
-	["mandalorianz-nightslayer"]=15,
+	["mandalorianz-nightslayer"]=21,
 	["mandog-nightslayer"]=10,
 	["manfernee-nightslayer"]=5,
 	["mangletron-nightslayer"]=3,
@@ -16165,7 +16165,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["rebarslayer-nightslayer"]=4,
 	["rebeld-nightslayer"]=5,
 	["rebelion-nightslayer"]=1,
-	["recklessly-nightslayer"]=18,
+	["recklessly-nightslayer"]=2,
 	["recks-nightslayer"]=2,
 	["reconus-nightslayer"]=1,
 	["recs-nightslayer"]=24,
