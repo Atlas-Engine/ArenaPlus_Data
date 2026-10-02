@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5181 characters, read 2026-10-02 11:59 AM.
+-- Region us, 5181 characters, read 2026-10-02 12:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6360,7 +6360,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["enaneitor-raden"]=1,
 	["encantadorah-raden"]=31,
 	["enciyetis-nazgrim"]=3,
-	["endeerr-nazgrim"]=20,
+	["endeerr-nazgrim"]=18,
 	["enforcerr-pagle"]=7,
 	["enhanstow-galakras"]=22,
 	["eninex-raden"]=1,
@@ -9689,7 +9689,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ttawdirg-pagle"]=3,
 	["tubalcain-galakras"]=19,
 	["tuladepiedra-pagle"]=7,
-	["turaoferao-raden"]=17,
+	["turaoferao-raden"]=5,
 	["turbantime-pagle"]=4,
 	["turbomóist-pagle"]=15,
 	["turbopwn-pagle"]=6,
