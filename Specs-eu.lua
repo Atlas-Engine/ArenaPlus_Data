@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5316 characters, read 2026-10-02 04:00 PM.
+-- Region eu, 5316 characters, read 2026-10-02 05:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3320,7 +3320,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["retxgodx-shekzeer"]=11,
 	["rével-garalon"]=101,
 	["rëven-shekzeer"]=40,
-	["revenânt-shekzeer"]=10,
+	["revenânt-shekzeer"]=11,
 	["revenwtf-auberdine"]=20,
 	["rexas-shekzeer"]=50,
 	["rexhex-garalon"]=20,
@@ -5484,7 +5484,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["backtobsns-norushen"]=6,
 	["badabøøm-shekzeer"]=19,
 	["bàdcát-auberdine"]=21,
-	["baddemm-norushen"]=5,
+	["baddemm-norushen"]=15,
 	["bademsekeri-shekzeer"]=1,
 	["badlama-hoptallus"]=15,
 	["badmanchazo-garalon"]=0,
@@ -5939,7 +5939,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["controlww-norushen"]=1,
 	["controlx-norushen"]=4,
 	["corléonne-auberdine"]=6,
-	["corristo-shekzeer"]=10,
+	["corristo-shekzeer"]=2,
 	["corruptx-shekzeer"]=8,
 	["coryth-mirage-raceway"]=10,
 	["coulozx-shekzeer"]=6,
@@ -6268,7 +6268,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["duskmeh-shekzeer"]=18,
 	["duskyn-shekzeer"]=20,
 	["dusoleil-shekzeer"]=24,
-	["dwarfs-shekzeer"]=32,
+	["dwarfs-shekzeer"]=21,
 	["dwarfspirit-shekzeer"]=2,
 	["dwg-shekzeer"]=3,
 	["dwgz-shekzeer"]=9,
@@ -7752,7 +7752,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["mindymadango-shekzeer"]=4,
 	["minecraftmax-shekzeer"]=19,
 	["minetrap-shekzeer"]=20,
-	["mingo-shekzeer"]=3,
+	["mingo-shekzeer"]=11,
 	["minikorean-shekzeer"]=1,
 	["minimoo-ook-ook"]=11,
 	["minisparxx-everlook"]=2,
@@ -9306,7 +9306,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["tiroxmage-garalon"]=2,
 	["tiroxshaman-garalon"]=16,
 	["titangel-shekzeer"]=1,
-	["titanià-shekzeer"]=18,
+	["titanià-shekzeer"]=25,
 	["titanii-shekzeer"]=1,
 	["titaniis-shekzeer"]=1,
 	["titaniiz-shekzeer"]=3,
@@ -10084,7 +10084,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Вагаса-flamegor"]=15,
 	["Вагонетка-flamegor"]=15,
 	["Вадябэниекс-flamegor"]=6,
-	["Вандеркаст-flamegor"]=10,
+	["Вандеркаст-flamegor"]=2,
 	["Ваняплетка-flamegor"]=8,
 	["Варбрис-flamegor"]=25,
 	["Варнаса-flamegor"]=1,
@@ -10366,7 +10366,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Теонн-flamegor"]=26,
 	["Тильтасен-flamegor"]=32,
 	["Тимадеус-flamegor"]=13,
-	["Тираэлиз-flamegor"]=10,
+	["Тираэлиз-flamegor"]=2,
 	["Тириошх-flamegor"]=8,
 	["Тмоперао-flamegor"]=18,
 	["Тнэш-flamegor"]=1,
