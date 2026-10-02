@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5183 characters, read 2026-10-02 05:59 PM.
+-- Region us, 5183 characters, read 2026-10-02 06:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1250,7 +1250,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["druidtrainer-arugal-au"]=41,
 	["drummah-pagle"]=40,
 	["drumuss-galakras"]=80,
-	["drunknßeagle-lei-shen"]=251,
+	["drunknßeagle-lei-shen"]=250,
 	["drwick-pagle"]=40,
 	["Ðßøzxs-raden"]=11,
 	["dtax-pagle"]=20,
@@ -5508,7 +5508,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["boltsboy-raden"]=8,
 	["boltzito-pagle"]=24,
 	["bonalls-immerseus"]=4,
-	["bonechillerr-pagle"]=11,
+	["bonechillerr-pagle"]=1,
 	["bonezap-raden"]=2,
 	["bonitaa-pagle"]=1,
 	["bonkyoass-pagle"]=7,
@@ -5533,7 +5533,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["borabow-pagle"]=3,
 	["bordak-raden"]=7,
 	["boredx-pagle"]=16,
-	["boreing-lei-shen"]=25,
+	["boreing-lei-shen"]=26,
 	["bornhard-pagle"]=14,
 	["bossdon-pagle"]=7,
 	["bouddha-raden"]=4,
@@ -5600,7 +5600,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["brunelan-pagle"]=0,
 	["brunosars-pagle"]=6,
 	["brustle-raden"]=5,
-	["brutality-galakras"]=7,
+	["brutality-galakras"]=23,
 	["brutalmystic-nazgrim"]=15,
 	["brutasaurus-galakras"]=7,
 	["brutøn-raden"]=7,
@@ -6249,7 +6249,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["druidtrainer-arugal-au"]=5,
 	["drummah-pagle"]=5,
 	["drumuss-galakras"]=28,
-	["drunknßeagle-lei-shen"]=10,
+	["drunknßeagle-lei-shen"]=27,
 	["drwick-pagle"]=17,
 	["Ðßøzxs-raden"]=4,
 	["dtax-pagle"]=34,
@@ -6280,7 +6280,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dvz-pagle"]=7,
 	["dweebz-pagle"]=22,
 	["dwells-raden"]=0,
-	["dwl-raden"]=5,
+	["dwl-raden"]=12,
 	["dyingwhale-pagle"]=3,
 	["Ðyst-pagle"]=11,
 	["dystopia-pagle"]=33,
@@ -8719,7 +8719,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["rethealadin-immerseus"]=16,
 	["reticence-pagle"]=10,
 	["retmainxd-raden"]=18,
-	["rétpáladin-raden"]=16,
+	["rétpáladin-raden"]=2,
 	["retrostance-galakras"]=2,
 	["revcole-raden"]=9,
 	["revènge-raden"]=7,
@@ -9338,7 +9338,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["sterleus-galakras"]=19,
 	["sterlìng-galakras"]=7,
 	["sterlinng-galakras"]=10,
-	["sterlÿng-galakras"]=2,
+	["sterlÿng-galakras"]=16,
 	["stevebox-myzrael"]=0,
 	["stevenrae-nazgrim"]=7,
 	["stickychicks-pagle"]=1,

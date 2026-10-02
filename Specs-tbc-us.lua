@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9543 characters, read 2026-10-02 05:58 PM.
+-- Region tbc-us, 9543 characters, read 2026-10-02 06:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10267,7 +10267,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bla-nightslayer"]=4,
 	["blackadam-nightslayer"]=10,
 	["blackberrys-nightslayer"]=7,
-	["blackchedda-nightslayer"]=13,
+	["blackchedda-nightslayer"]=16,
 	["blackcipher-nightslayer"]=5,
 	["blackcircle-nightslayer"]=4,
 	["blackcocoa-dreamscythe"]=11,
@@ -10897,7 +10897,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["chumpz-nightslayer"]=5,
 	["chunkgae-nightslayer"]=10,
 	["chunkyblue-nightslayer"]=10,
-	["chunkylover-nightslayer"]=12,
+	["chunkylover-nightslayer"]=1,
 	["chuntbussy-nightslayer"]=13,
 	["chupamehh-nightslayer"]=7,
 	["churchie-nightslayer"]=15,
@@ -11406,7 +11406,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["delusto-nightslayer"]=1,
 	["dembootys-nightslayer"]=5,
 	["demðn-nightslayer"]=19,
-	["demerara-nightslayer"]=7,
+	["demerara-nightslayer"]=3,
 	["demias-nightslayer"]=10,
 	["demics-nightslayer"]=13,
 	["demiimoore-nightslayer"]=5,
@@ -15061,7 +15061,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["nearsìghted-nightslayer"]=17,
 	["necowboogie-dreamscythe"]=7,
 	["necronipps-nightslayer"]=2,
-	["necrosatanic-nightslayer"]=1,
+	["necrosatanic-nightslayer"]=14,
 	["necroseed-dreamscythe"]=13,
 	["necrospleen-nightslayer"]=23,
 	["nedkar-dreamscythe"]=18,
@@ -15206,7 +15206,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["noliquidity-nightslayer"]=1,
 	["nolm-nightslayer"]=21,
 	["nomanz-nightslayer"]=8,
-	["nomdiff-dreamscythe"]=4,
+	["nomdiff-dreamscythe"]=6,
 	["nomdiff-nightslayer"]=5,
 	["nomiehomie-dreamscythe"]=7,
 	["nomotion-nightslayer"]=6,
