@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5323 characters, read 2026-10-02 07:00 AM.
+-- Region eu, 5323 characters, read 2026-10-02 08:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1463,7 +1463,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["ghosttown-garalon"]=11,
 	["ghrip-shekzeer"]=10,
 	["ghst-shekzeer"]=11,
-	["giantzemi-shekzeer"]=10,
+	["giantzemi-shekzeer"]=11,
 	["giantzlion-shekzeer"]=20,
 	["ginftw-shekzeer"]=11,
 	["ginkin-ook-ook"]=41,
@@ -6744,7 +6744,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["halowar-shekzeer"]=1,
 	["halowl-shekzeer"]=17,
 	["halul-shekzeer"]=2,
-	["halyse-shekzeer"]=10,
+	["halyse-shekzeer"]=2,
 	["hammer-garalon"]=0,
 	["hanagata-norushen"]=9,
 	["hanamichi-norushen"]=7,
@@ -6806,7 +6806,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["hellgorr-garalon"]=4,
 	["hellgrace-shekzeer"]=12,
 	["helliiaa-everlook"]=9,
-	["hellmourn-garalon"]=13,
+	["hellmourn-garalon"]=16,
 	["hellnight-auberdine"]=31,
 	["helløkitty-garalon"]=4,
 	["helmetboy-shekzeer"]=1,
@@ -7521,7 +7521,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["lorcmanaudou-auberdine"]=16,
 	["lorelis-everlook"]=0,
 	["lorinser-shekzeer"]=1,
-	["lorjana-shekzeer"]=10,
+	["lorjana-shekzeer"]=2,
 	["lorry-shekzeer"]=1,
 	["loseandicba-ook-ook"]=20,
 	["loses-shekzeer"]=8,
@@ -9554,7 +9554,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["veilvet-auberdine"]=1,
 	["vej-shekzeer"]=23,
 	["velani-shekzeer"]=7,
-	["velena-shekzeer"]=33,
+	["velena-shekzeer"]=8,
 	["velibaba-shekzeer"]=15,
 	["vemer-shekzeer"]=31,
 	["vendeta-shekzeer"]=8,

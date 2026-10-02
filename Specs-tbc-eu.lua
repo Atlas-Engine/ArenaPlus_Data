@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9911 characters, read 2026-10-02 06:59 AM.
+-- Region tbc-eu, 9911 characters, read 2026-10-02 07:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11590,7 +11590,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["daregii-spineshatter"]=5,
 	["dargonsalyer-spineshatter"]=3,
 	["darisa-spineshatter"]=9,
-	["darkavenge-spineshatter"]=3,
+	["darkavenge-spineshatter"]=19,
 	["darkbetrayed-thunderstrike"]=15,
 	["darkbone-spineshatter"]=17,
 	["darkbuster-spineshatter"]=13,
@@ -13068,7 +13068,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["greyna-thunderstrike"]=12,
 	["grichkà-spineshatter"]=3,
 	["gridius-spineshatter"]=13,
-	["grieef-spineshatter"]=14,
+	["grieef-spineshatter"]=13,
 	["griefx-spineshatter"]=3,
 	["griepn-thunderstrike"]=2,
 	["gríft-spineshatter"]=23,
@@ -13351,7 +13351,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["hoiland-spineshatter"]=5,
 	["hojhelga-spineshatter"]=7,
 	["hokabra-spineshatter"]=1,
-	["hokins-spineshatter"]=2,
+	["hokins-spineshatter"]=17,
 	["hokkies-spineshatter"]=7,
 	["høky-spineshatter"]=2,
 	["høkyrage-spineshatter"]=5,
@@ -16067,7 +16067,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["openbar-spineshatter"]=9,
 	["ophidianx-spineshatter"]=1,
 	["opid-spineshatter"]=3,
-	["oppyrogche-thunderstrike"]=19,
+	["oppyrogche-thunderstrike"]=3,
 	["optionselect-spineshatter"]=21,
 	["orangejeeda-spineshatter"]=6,
 	["orannisha-spineshatter"]=11,
@@ -19152,7 +19152,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["wendÿ-spineshatter"]=2,
 	["weneedpaj-spineshatter"]=8,
 	["wentswinging-spineshatter"]=11,
-	["werican-spineshatter"]=5,
+	["werican-spineshatter"]=22,
 	["wericiah-spineshatter"]=25,
 	["wericiahunt-spineshatter"]=25,
 	["werlok-spineshatter"]=13,

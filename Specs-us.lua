@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5180 characters, read 2026-10-02 06:59 AM.
+-- Region us, 5181 characters, read 2026-10-02 07:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -286,6 +286,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["atowel-galakras"]=50,
 	["atrâyu-pagle"]=100,
 	["atreyuz-galakras"]=20,
+	["Åuditore-raden"]=10,
 	["augsburg-pagle"]=51,
 	["aurasmith-raden"]=10,
 	["aureate-raden"]=11,
@@ -3667,6 +3668,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["rodriguez-raden"]=10,
 	["rogerr-galakras"]=51,
 	["roguehl-pagle"]=10,
+	["roguéx-raden"]=20,
 	["rohírím-pagle"]=10,
 	["roidráge-galakras"]=20,
 	["rokh-pagle"]=20,
@@ -5224,6 +5226,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["atowel-galakras"]=13,
 	["atrâyu-pagle"]=16,
 	["atreyuz-galakras"]=7,
+	["Åuditore-raden"]=10,
 	["augsburg-pagle"]=4,
 	["aurasmith-raden"]=16,
 	["aureate-raden"]=2,
@@ -7257,11 +7260,11 @@ ns.SPECS_BY_REGION["us"] = {
 	["jkae-pagle"]=21,
 	["jkaý-pagle"]=20,
 	["jkorbbot-pagle"]=4,
-	["jkorbbot-raden"]=4,
+	["jkorbbot-raden"]=27,
 	["jkrs-pagle"]=4,
 	["jnick-raden"]=12,
 	["jocah-raden"]=9,
-	["jocelynflore-raden"]=2,
+	["jocelynflore-raden"]=16,
 	["jocksarotten-arugal-au"]=9,
 	["jodido-lei-shen"]=25,
 	["joefro-raden"]=16,
@@ -7320,7 +7323,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["jvx-pagle"]=14,
 	["jzx-lei-shen"]=28,
 	["ka-nazgrim"]=0,
-	["kabukka-immerseus"]=6,
+	["kabukka-immerseus"]=25,
 	["kadabra-galakras"]=9,
 	["kaela-pagle"]=1,
 	["kaelay-pagle"]=16,
@@ -7365,7 +7368,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["kcidymkcus-arugal-au"]=0,
 	["keeferjar-pagle"]=3,
 	["keekster-pagle"]=9,
-	["keepithood-pagle"]=14,
+	["keepithood-pagle"]=34,
 	["kegsmashed-raden"]=4,
 	["kekmeister-raden"]=5,
 	["kelaía-pagle"]=9,
@@ -8011,7 +8014,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["mozzi-raden"]=7,
 	["mp-raden"]=9,
 	["mslusty-pagle"]=4,
-	["msnurfme-raden"]=5,
+	["msnurfme-raden"]=17,
 	["msr-galakras"]=3,
 	["mtj-atiesh"]=5,
 	["mufasaz-pagle"]=10,
@@ -8781,7 +8784,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["rodriguez-raden"]=25,
 	["rogerr-galakras"]=14,
 	["roguehl-pagle"]=14,
-	["roguéx-raden"]=0,
+	["roguéx-raden"]=34,
 	["rohírím-pagle"]=2,
 	["roidráge-galakras"]=15,
 	["rokh-pagle"]=3,
