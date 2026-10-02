@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9550 characters, read 2026-10-02 02:58 AM.
+-- Region tbc-us, 9550 characters, read 2026-10-02 03:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9792,7 +9792,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["arlofox-nightslayer"]=7,
 	["armadda-nightslayer"]=3,
 	["armanous-nightslayer"]=2,
-	["armesty-dreamscythe"]=8,
+	["armesty-dreamscythe"]=5,
 	["armiv-nightslayer"]=25,
 	["armssx-nightslayer"]=1,
 	["armsx-nightslayer"]=2,
@@ -11990,7 +11990,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["endlessqc-nightslayer"]=2,
 	["energybar-nightslayer"]=5,
 	["enhancechad-nightslayer"]=19,
-	["enhancedmale-nightslayer"]=10,
+	["enhancedmale-nightslayer"]=19,
 	["enilotipac-nightslayer"]=19,
 	["enohese-dreamscythe"]=2,
 	["enreizx-dreamscythe"]=6,
@@ -14630,7 +14630,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["melkkør-dreamscythe"]=18,
 	["melkov-nightslayer"]=18,
 	["melladin-nightslayer"]=9,
-	["mellanmjölk-nightslayer"]=16,
+	["mellanmjölk-nightslayer"]=13,
 	["mellohype-nightslayer"]=18,
 	["melonpop-nightslayer"]=1,
 	["meloxicamm-nightslayer"]=1,
@@ -16601,7 +16601,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["scottyyscott-nightslayer"]=7,
 	["scranår-nightslayer"]=5,
 	["scratchie-nightslayer"]=5,
-	["scrimp-nightslayer"]=14,
+	["scrimp-nightslayer"]=1,
 	["scrimpito-nightslayer"]=7,
 	["scriptsphd-nightslayer"]=16,
 	["scroatal-nightslayer"]=18,
@@ -17228,7 +17228,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["soviety-nightslayer"]=1,
 	["sowaggy-nightslayer"]=3,
 	["soyah-nightslayer"]=24,
-	["soyamilk-nightslayer"]=6,
+	["soyamilk-nightslayer"]=4,
 	["soyoung-nightslayer"]=4,
 	["sozu-nightslayer"]=5,
 	["spaceborn-nightslayer"]=10,

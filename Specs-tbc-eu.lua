@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9910 characters, read 2026-10-02 02:59 AM.
+-- Region tbc-eu, 9910 characters, read 2026-10-02 03:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9911,7 +9911,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["adríanne-thunderstrike"]=2,
 	["adrinamo-spineshatter"]=3,
 	["adrod-spineshatter"]=2,
-	["adshox-spineshatter"]=11,
+	["adshox-spineshatter"]=12,
 	["aduna-spineshatter"]=7,
 	["adusham-spineshatter"]=11,
 	["adventice-spineshatter"]=3,
@@ -11577,7 +11577,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["dängi-spineshatter"]=5,
 	["danidevito-spineshatter"]=2,
 	["danieldüse-spineshatter"]=11,
-	["dannés-spineshatter"]=24,
+	["dannés-spineshatter"]=25,
 	["dannymcbride-spineshatter"]=5,
 	["dànte-spineshatter"]=15,
 	["dantelol-spineshatter"]=4,
@@ -14030,7 +14030,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["kaizenmogsu-spineshatter"]=0,
 	["kaizenxz-spineshatter"]=9,
 	["káizer-spineshatter"]=12,
-	["kajebabz-spineshatter"]=2,
+	["kajebabz-spineshatter"]=17,
 	["kajebabzie-spineshatter"]=17,
 	["kajedo-spineshatter"]=3,
 	["kajex-spineshatter"]=3,
@@ -17596,7 +17596,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["silimiz-spineshatter"]=9,
 	["silje-spineshatter"]=25,
 	["sillibreyt-spineshatter"]=2,
-	["sìlly-spineshatter"]=3,
+	["sìlly-spineshatter"]=19,
 	["silmariel-thunderstrike"]=15,
 	["siltwist-spineshatter"]=7,
 	["silvershock-spineshatter"]=26,
@@ -19311,7 +19311,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["wyzed-spineshatter"]=5,
 	["wz-spineshatter"]=7,
 	["xã-spineshatter"]=3,
-	["xádo-spineshatter"]=23,
+	["xádo-spineshatter"]=11,
 	["xænae-spineshatter"]=9,
 	["xaerina-spineshatter"]=24,
 	["xahr-spineshatter"]=5,
