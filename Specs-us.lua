@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5181 characters, read 2026-10-02 02:59 PM.
+-- Region us, 5181 characters, read 2026-10-02 03:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3812,7 +3812,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["segredinho-pagle"]=11,
 	["segwaymaster-pagle"]=20,
 	["seitanic-pagle"]=11,
-	["sekhmethy-pagle"]=51,
 	["sekyriu-pagle"]=80,
 	["selania-pagle"]=11,
 	["seleste-raden"]=111,
@@ -5053,7 +5052,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["afp-raden"]=10,
 	["Àfterlifeqt-pagle"]=5,
 	["aggron-galakras"]=0,
-	["agility-raden"]=3,
+	["agility-raden"]=20,
 	["agrosniper-pagle"]=3,
 	["ahrens-raden"]=14,
 	["aidíth-benediction"]=7,
@@ -5870,7 +5869,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["crepes-pagle"]=12,
 	["crepuscolo-pagle"]=2,
 	["crepusculé-pagle"]=1,
-	["crimsonvow-pagle"]=16,
+	["crimsonvow-pagle"]=2,
 	["criogenico-immerseus"]=1,
 	["cripton-raden"]=1,
 	["crithub-galakras"]=11,
@@ -5928,7 +5927,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["daddypompum-raden"]=5,
 	["daemz-pagle"]=16,
 	["daffykinz-pagle"]=24,
-	["daggertwist-raden"]=14,
+	["daggertwist-raden"]=34,
 	["dailou-grobbulus"]=7,
 	["daiyus-pagle"]=14,
 	["daje-pagle"]=0,
@@ -6015,7 +6014,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["deedanielss-lei-shen"]=5,
 	["deepsïx-nazgrim"]=25,
 	["deepwounds-raden"]=7,
-	["deezknuckz-pagle"]=10,
+	["deezknuckz-pagle"]=27,
 	["Ðefeated-pagle"]=6,
 	["defeated-raden"]=6,
 	["defnotanj-pagle"]=3,
@@ -6936,7 +6935,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["hibashiba-galakras"]=20,
 	["hickery-arugal-au"]=14,
 	["hideandhunt-galakras"]=3,
-	["hifukface-raden"]=5,
+	["hifukface-raden"]=12,
 	["hifvckface-raden"]=10,
 	["highc-galakras"]=22,
 	["highç-galakras"]=27,
@@ -8938,7 +8937,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["segredinho-pagle"]=4,
 	["segwaymaster-pagle"]=7,
 	["seitanic-pagle"]=6,
-	["sekhmethy-pagle"]=9,
+	["sekhmethy-pagle"]=0,
 	["sekyriu-pagle"]=5,
 	["selania-pagle"]=7,
 	["seleste-raden"]=9,
