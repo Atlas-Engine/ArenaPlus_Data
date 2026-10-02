@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9542 characters, read 2026-10-02 10:58 AM.
+-- Region tbc-us, 9542 characters, read 2026-10-02 11:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10536,7 +10536,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bruu-nightslayer"]=2,
 	["bruubae-nightslayer"]=5,
 	["bruvd-dreamscythe"]=24,
-	["brysontbc-nightslayer"]=22,
+	["brysontbc-nightslayer"]=7,
 	["brysontoo-nightslayer"]=10,
 	["bsl-nightslayer"]=18,
 	["bsmoke-nightslayer"]=12,
@@ -15377,7 +15377,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ojee-nightslayer"]=6,
 	["okaybuddy-nightslayer"]=13,
 	["oku-nightslayer"]=14,
-	["okusang-nightslayer"]=0,
+	["okusang-nightslayer"]=24,
 	["olchungus-nightslayer"]=6,
 	["oldandslow-nightslayer"]=2,
 	["oldbc-nightslayer"]=19,
@@ -15876,7 +15876,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["prettysnéaky-dreamscythe"]=27,
 	["previe-nightslayer"]=1,
 	["priaa-nightslayer"]=1,
-	["pridicelol-nightslayer"]=14,
+	["pridicelol-nightslayer"]=1,
 	["pridiceqt-nightslayer"]=1,
 	["priestak-nightslayer"]=12,
 	["priestfeast-nightslayer"]=1,
@@ -16937,7 +16937,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["sillyhots-nightslayer"]=7,
 	["silväzoldyck-nightslayer"]=5,
 	["silverkîtty-nightslayer"]=10,
-	["silverlisk-nightslayer"]=10,
+	["silverlisk-nightslayer"]=24,
 	["simmy-nightslayer"]=4,
 	["simplybetter-nightslayer"]=18,
 	["simpsniper-nightslayer"]=5,
