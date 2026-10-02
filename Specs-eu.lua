@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5321 characters, read 2026-10-02 06:00 AM.
+-- Region eu, 5323 characters, read 2026-10-02 07:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1650,6 +1650,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["hellgorr-garalon"]=20,
 	["hellgrace-shekzeer"]=11,
 	["helliiaa-everlook"]=10,
+	["hellmourn-garalon"]=20,
 	["hellnight-auberdine"]=10,
 	["helløkitty-garalon"]=11,
 	["helmetboy-shekzeer"]=10,
@@ -1872,6 +1873,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["jakele-garalon"]=21,
 	["jakesp-garalon"]=50,
 	["jakoba-norushen"]=51,
+	["jakónda-garalon"]=260,
 	["jalinu-everlook"]=41,
 	["jallakebab-shekzeer"]=31,
 	["jámié-shekzeer"]=11,
@@ -3120,6 +3122,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["politician-shekzeer"]=10,
 	["polynesia-shekzeer"]=11,
 	["ponthuntxd-shekzeer"]=11,
+	["poofacee-shekzeer"]=41,
 	["poohbear-shekzeer"]=31,
 	["pøøks-shekzeer"]=40,
 	["pooshooter-shekzeer"]=10,
@@ -5930,7 +5933,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["colmillo-mirage-raceway"]=25,
 	["cõmbustz-shekzeer"]=2,
 	["combux-shekzeer"]=2,
-	["comeclarity-shekzeer"]=0,
 	["comète-shekzeer"]=3,
 	["commandor-garalon"]=15,
 	["commitment-shekzeer"]=15,
@@ -6804,6 +6806,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["hellgorr-garalon"]=4,
 	["hellgrace-shekzeer"]=12,
 	["helliiaa-everlook"]=9,
+	["hellmourn-garalon"]=13,
 	["hellnight-auberdine"]=31,
 	["helløkitty-garalon"]=4,
 	["helmetboy-shekzeer"]=1,
@@ -7040,6 +7043,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["jakele-garalon"]=16,
 	["jakesp-garalon"]=12,
 	["jakoba-norushen"]=6,
+	["jakónda-garalon"]=6,
 	["jalinu-everlook"]=3,
 	["jallakebab-shekzeer"]=16,
 	["jámié-shekzeer"]=6,
@@ -7358,7 +7362,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["kuroni-garalon"]=32,
 	["kurtana-shekzeer"]=34,
 	["kurtat-shekzeer"]=24,
-	["kurttuqq-shekzeer"]=24,
+	["kurttuqq-shekzeer"]=34,
 	["kuruna-everlook"]=3,
 	["kusy-shekzeer"]=6,
 	["kusya-shekzeer"]=9,
@@ -8360,6 +8364,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["politician-shekzeer"]=26,
 	["polynesia-shekzeer"]=2,
 	["ponthuntxd-shekzeer"]=4,
+	["poofacee-shekzeer"]=20,
 	["poohbear-shekzeer"]=13,
 	["pøøks-shekzeer"]=11,
 	["pooshooter-shekzeer"]=14,
@@ -10113,7 +10118,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Витакрон-flamegor"]=9,
 	["Вишнядк-flamegor"]=8,
 	["Вишнядру-flamegor"]=3,
-	["Вишнямонк-flamegor"]=6,
+	["Вишнямонк-flamegor"]=7,
 	["Водкапиво-flamegor"]=5,
 	["Войняшка-flamegor"]=1,
 	["Волбупедали-flamegor"]=5,

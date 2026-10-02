@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9554 characters, read 2026-10-02 05:58 AM.
+-- Region tbc-us, 9554 characters, read 2026-10-02 06:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -14499,7 +14499,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["mankonameru-nightslayer"]=7,
 	["manlaw-nightslayer"]=7,
 	["manlawlol-nightslayer"]=1,
-	["manley-nightslayer"]=2,
+	["manley-nightslayer"]=18,
 	["manmorghulis-nightslayer"]=13,
 	["manmuffin-nightslayer"]=5,
 	["mannist-nightslayer"]=1,
@@ -15111,7 +15111,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["neonkitchen-nightslayer"]=2,
 	["neonw-nightslayer"]=2,
 	["nephadin-nightslayer"]=11,
-	["nepriestoe-dreamscythe"]=1,
+	["nepriestoe-dreamscythe"]=14,
 	["neps-dreamscythe"]=18,
 	["nepxd-nightslayer"]=8,
 	["nerdsanlol-nightslayer"]=4,
@@ -18366,7 +18366,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["vspades-nightslayer"]=2,
 	["vubae-dreamscythe"]=10,
 	["vugaddi-nightslayer"]=13,
-	["vugsy-nightslayer"]=8,
+	["vugsy-nightslayer"]=5,
 	["vulchur-dreamscythe"]=5,
 	["vulchur-nightslayer"]=5,
 	["vullcosham-dreamscythe"]=19,
