@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5178 characters, read 2026-10-03 07:59 AM.
+-- Region us, 5178 characters, read 2026-10-03 08:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6421,7 +6421,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ezmunk-galakras"]=27,
 	["ezybakeoven-benediction"]=1,
 	["faex-arugal-au"]=1,
-	["faexypriest-arugal-au"]=21,
+	["faexypriest-arugal-au"]=9,
 	["faiderh-nazgrim"]=20,
 	["faiders-raden"]=3,
 	["failaxz-raden"]=3,
@@ -6959,7 +6959,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["holyfkbubs-pagle"]=2,
 	["holyflamez-pagle"]=2,
 	["holyfluxq-pagle"]=9,
-	["holygym-nazgrim"]=9,
+	["holygym-nazgrim"]=13,
 	["holymar-pagle"]=6,
 	["holymoly-raden"]=9,
 	["holypoop-pagle"]=9,
@@ -7696,7 +7696,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["lunarlass-pagle"]=0,
 	["lunchmeat-nazgrim"]=0,
 	["lunishamtwo-raden"]=0,
-	["lunpi-raden"]=4,
+	["lunpi-raden"]=27,
 	["lusts-raden"]=10,
 	["luum-raden"]=5,
 	["lüz-pagle"]=16,

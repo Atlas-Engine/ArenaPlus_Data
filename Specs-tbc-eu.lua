@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9907 characters, read 2026-10-03 07:59 AM.
+-- Region tbc-eu, 9907 characters, read 2026-10-03 08:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10888,7 +10888,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["brattaa-spineshatter"]=1,
 	["bravearms-spineshatter"]=15,
 	["brazilianbl-spineshatter"]=12,
-	["breadpiit-spineshatter"]=19,
+	["breadpiit-spineshatter"]=3,
 	["breaked-spineshatter"]=2,
 	["breakingbald-spineshatter"]=11,
 	["breakøut-thunderstrike"]=15,
@@ -12236,7 +12236,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["elemenjoyer-spineshatter"]=23,
 	["elementiq-spineshatter"]=9,
 	["elementiqs-spineshatter"]=2,
-	["elementor-spineshatter"]=11,
+	["elementor-spineshatter"]=23,
 	["eleshaman-spineshatter"]=23,
 	["elesuprê-spineshatter"]=23,
 	["eleyne-thunderstrike"]=19,
@@ -12763,7 +12763,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["frandiks-thunderstrike"]=19,
 	["frankensteln-spineshatter"]=3,
 	["frankyy-spineshatter"]=24,
-	["fränni-spineshatter"]=4,
+	["fränni-spineshatter"]=9,
 	["fratzz-spineshatter"]=11,
 	["frda-spineshatter"]=19,
 	["frdc-spineshatter"]=9,
@@ -13444,7 +13444,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["huibezrukiy-spineshatter"]=3,
 	["huisoo-spineshatter"]=2,
 	["hulksmash-spineshatter"]=12,
-	["humanpriest-spineshatter"]=11,
+	["humanpriest-spineshatter"]=23,
 	["humbline-spineshatter"]=15,
 	["humbuck-thunderstrike"]=9,
 	["hummis-spineshatter"]=5,
@@ -14552,7 +14552,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["lederen-spineshatter"]=11,
 	["ledzeppinen-spineshatter"]=5,
 	["leêch-spineshatter"]=3,
-	["leekar-spineshatter"]=17,
+	["leekar-spineshatter"]=2,
 	["leftcurve-spineshatter"]=3,
 	["leftformilk-spineshatter"]=9,
 	["lefthumb-spineshatter"]=24,
@@ -14856,7 +14856,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["lysdexia-spineshatter"]=6,
 	["lysebrun-spineshatter"]=5,
 	["lysel-spineshatter"]=11,
-	["lyseria-spineshatter"]=3,
+	["lyseria-spineshatter"]=19,
 	["lyssera-spineshatter"]=6,
 	["lÿx-spineshatter"]=8,
 	["lyxos-spineshatter"]=3,
@@ -18075,7 +18075,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["storboven-thunderstrike"]=25,
 	["storesøster-thunderstrike"]=12,
 	["storjai-spineshatter"]=3,
-	["stormer-thunderstrike"]=23,
+	["stormer-thunderstrike"]=11,
 	["stormfail-spineshatter"]=5,
 	["stormiao-spineshatter"]=6,
 	["stormshróud-spineshatter"]=8,
@@ -19387,7 +19387,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["xnatry-spineshatter"]=1,
 	["xnxny-spineshatter"]=18,
 	["xnzp-thunderstrike"]=2,
-	["xoji-spineshatter"]=4,
+	["xoji-spineshatter"]=9,
 	["xolaire-spineshatter"]=2,
 	["xoolol-spineshatter"]=3,
 	["xouia-spineshatter"]=0,
