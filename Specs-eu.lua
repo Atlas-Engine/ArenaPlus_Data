@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5316 characters, read 2026-10-03 10:00 AM.
+-- Region eu, 5316 characters, read 2026-10-03 11:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3376,7 +3376,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["rodnichekx-shekzeer"]=11,
 	["rodnoverny-hoptallus"]=10,
 	["roels-shekzeer"]=11,
-	["ròèls-shekzeer"]=10,
+	["ròèls-shekzeer"]=11,
 	["rofedex-shekzeer"]=10,
 	["roflmaster-shekzeer"]=11,
 	["rofmagex-mirage-raceway"]=10,
@@ -6955,7 +6955,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["indié-everlook"]=6,
 	["indîe-everlook"]=1,
 	["ineedtopoo-shekzeer"]=15,
-	["ineo-shekzeer"]=15,
+	["ineo-shekzeer"]=5,
 	["inertemplier-shekzeer"]=15,
 	["infection-shekzeer"]=8,
 	["infectiøns-auberdine"]=9,
@@ -8428,7 +8428,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["qikka-shekzeer"]=14,
 	["qk-shekzeer"]=9,
 	["qkz-shekzeer"]=4,
-	["qo-shekzeer"]=3,
+	["qo-shekzeer"]=11,
 	["qopsz-shekzeer"]=20,
 	["qraven-shekzeer"]=4,
 	["qriik-ook-ook"]=5,

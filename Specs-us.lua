@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5178 characters, read 2026-10-03 09:59 AM.
+-- Region us, 5179 characters, read 2026-10-03 10:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1971,7 +1971,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["hoodfav-pagle"]=10,
 	["hophelese-lei-shen"]=11,
 	["horatian-pagle"]=40,
-	["horculez-pagle"]=20,
 	["hordeshanker-pagle"]=10,
 	["hordiddy-pagle"]=61,
 	["horizøn-pagle"]=11,
@@ -3288,6 +3287,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["papipunch-pagle"]=80,
 	["papishot-pagle"]=10,
 	["papismash-pagle"]=10,
+	["paralysiss-pagle"]=31,
 	["pariston-nazgrim"]=20,
 	["paspii-pagle"]=80,
 	["pastullio-raden"]=40,
@@ -3753,6 +3753,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["saphiiry-galakras"]=41,
 	["sapoo-pagle"]=100,
 	["sappinturtle-pagle"]=11,
+	["sarahbelum-pagle"]=11,
 	["sarces-immerseus"]=101,
 	["saregore-raden"]=11,
 	["sàrëna-pagle"]=41,
@@ -6352,7 +6353,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["enaneitor-raden"]=1,
 	["encantadorah-raden"]=31,
 	["enciyetis-nazgrim"]=3,
-	["endeerr-nazgrim"]=18,
+	["endeerr-nazgrim"]=20,
 	["enforcerr-pagle"]=7,
 	["enhanstow-galakras"]=22,
 	["eninex-raden"]=1,
@@ -6989,7 +6990,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["hoodfav-pagle"]=20,
 	["hophelese-lei-shen"]=16,
 	["horatian-pagle"]=7,
-	["horculez-pagle"]=6,
 	["hordeshanker-pagle"]=14,
 	["hordiddy-pagle"]=5,
 	["horizøn-pagle"]=10,
@@ -8379,6 +8379,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["papipunch-pagle"]=10,
 	["papishot-pagle"]=3,
 	["papismash-pagle"]=7,
+	["paralysiss-pagle"]=29,
 	["pariston-nazgrim"]=23,
 	["paspii-pagle"]=20,
 	["pastullio-raden"]=9,
@@ -8868,6 +8869,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["sapoo-pagle"]=14,
 	["sappinturtle-pagle"]=14,
 	["sapyski-galakras"]=0,
+	["sarahbelum-pagle"]=13,
 	["sarces-immerseus"]=13,
 	["saregore-raden"]=26,
 	["sàrëna-pagle"]=17,
