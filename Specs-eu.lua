@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5316 characters, read 2026-10-03 04:00 PM.
+-- Region eu, 5316 characters, read 2026-10-03 05:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -816,6 +816,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["colmillo-mirage-raceway"]=10,
 	["cõmbustz-shekzeer"]=11,
 	["combux-shekzeer"]=11,
+	["comeclarity-shekzeer"]=10,
 	["comète-shekzeer"]=41,
 	["commandor-garalon"]=100,
 	["commitment-shekzeer"]=11,
@@ -5325,7 +5326,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["anvel-shekzeer"]=23,
 	["anxoasa-shekzeer"]=5,
 	["anxoqt-shekzeer"]=7,
-	["anyabaszó-shekzeer"]=4,
+	["anyabaszó-shekzeer"]=20,
 	["anyataylor-shekzeer"]=3,
 	["anyemushi-shekzeer"]=9,
 	["Åøêkrótx-shekzeer"]=4,
@@ -5864,7 +5865,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["chibiarda-auberdine"]=20,
 	["chíckenwíng-everlook"]=11,
 	["chicktock-everlook"]=25,
-	["chiichii-garalon"]=2,
+	["chiichii-garalon"]=10,
 	["chillestguy-shekzeer"]=0,
 	["chillywily-shekzeer"]=6,
 	["chimèrebaddy-shekzeer"]=4,
@@ -5923,7 +5924,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["colmillo-mirage-raceway"]=25,
 	["cõmbustz-shekzeer"]=2,
 	["combux-shekzeer"]=2,
-	["comeclarity-shekzeer"]=0,
+	["comeclarity-shekzeer"]=2,
 	["comète-shekzeer"]=3,
 	["commandor-garalon"]=15,
 	["commitment-shekzeer"]=15,
@@ -6883,7 +6884,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["hugesac-shekzeer"]=5,
 	["hugsnotdrugs-shekzeer"]=17,
 	["huiying-auberdine"]=20,
-	["huln-shekzeer"]=4,
+	["huln-shekzeer"]=14,
 	["humbelbee-shekzeer"]=14,
 	["humblé-shekzeer"]=17,
 	["hùntdc-auberdine"]=4,
@@ -7896,7 +7897,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["mythix-garalon"]=24,
 	["mythrugu-shekzeer"]=4,
 	["mythrugun-garalon"]=4,
-	["mythrugun-shekzeer"]=20,
+	["mythrugun-shekzeer"]=4,
 	["mywayz-mirage-raceway"]=2,
 	["mztx-shekzeer"]=20,
 	["nabek-shekzeer"]=13,
@@ -9359,7 +9360,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["toxicfuz-garalon"]=6,
 	["toxiqkid-shekzeer"]=1,
 	["tpriestlx-shekzeer"]=12,
-	["trachea-shekzeer"]=7,
+	["trachea-shekzeer"]=6,
 	["trackk-auberdine"]=24,
 	["tracye-shekzeer"]=9,
 	["trafålguy-garalon"]=6,
