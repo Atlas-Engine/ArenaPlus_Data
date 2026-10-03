@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5183 characters, read 2026-10-02 10:54 PM.
+-- Region us, 5183 characters, read 2026-10-02 11:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1172,7 +1172,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["dontfollow-arugal-au"]=20,
 	["dóntrun-pagle"]=10,
 	["doodoos-raden"]=11,
-	["Ðôøkïêmåñ-raden"]=11,
 	["dookstain-nazgrim"]=20,
 	["doomqt-raden"]=11,
 	["doontsx-pagle"]=11,
@@ -6170,7 +6169,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dontfollow-arugal-au"]=15,
 	["dóntrun-pagle"]=10,
 	["doodoos-raden"]=20,
-	["Ðôøkïêmåñ-raden"]=7,
+	["Ðôøkïêmåñ-raden"]=0,
 	["dookstain-nazgrim"]=10,
 	["doomqt-raden"]=9,
 	["doontsx-pagle"]=7,
@@ -7090,7 +7089,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ifireinside-pagle"]=1,
 	["ifistu-galakras"]=4,
 	["igather-galakras"]=17,
-	["igziluhraet-pagle"]=29,
+	["igziluhraet-pagle"]=34,
 	["ihatemetoo-raden"]=0,
 	["ihavenohand-pagle"]=10,
 	["ihealinufeel-pagle"]=5,
@@ -7839,7 +7838,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["meatbolt-raden"]=15,
 	["mecharogue-raden"]=14,
 	["meditação-pagle"]=16,
-	["meditated-pagle"]=33,
+	["meditated-pagle"]=12,
 	["meditator-pagle"]=5,
 	["meecrob-pagle"]=18,
 	["mekimeij-raden"]=1,
@@ -8068,8 +8067,8 @@ ns.SPECS_BY_REGION["us"] = {
 	["nairtas-nazgrim"]=3,
 	["nalx-raden"]=5,
 	["naniaids-lei-shen"]=28,
-	["nanikilla-lei-shen"]=10,
-	["nanismasha-lei-shen"]=15,
+	["nanikilla-lei-shen"]=4,
+	["nanismasha-lei-shen"]=19,
 	["nanistab-lei-shen"]=14,
 	["nanixita-raden"]=24,
 	["naoki-bloodsail-buccaneers"]=16,
@@ -8431,7 +8430,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["peteslimjim-galakras"]=7,
 	["pewpilpopper-pagle"]=3,
 	["péz-pagle"]=27,
-	["pezdispencer-raden"]=16,
+	["pezdispencer-raden"]=2,
 	["phöoba-pagle"]=5,
 	["phrra-pagle"]=7,
 	["phugoid-pagle"]=29,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9902 characters, read 2026-10-02 10:59 PM.
+-- Region tbc-eu, 9902 characters, read 2026-10-02 11:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12125,7 +12125,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["dushecol-spineshatter"]=13,
 	["duskmar-thunderstrike"]=2,
 	["duuv-thunderstrike"]=12,
-	["dúyào-spineshatter"]=19,
+	["dúyào-spineshatter"]=3,
 	["dúyàox-spineshatter"]=19,
 	["dveknopki-spineshatter"]=7,
 	["dverik-spineshatter"]=1,
@@ -12264,7 +12264,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["elonroots-thunderstrike"]=1,
 	["elonzie-spineshatter"]=19,
 	["eloqt-spineshatter"]=2,
-	["elor-spineshatter"]=17,
+	["elor-spineshatter"]=2,
 	["elorsz-spineshatter"]=2,
 	["eloryel-spineshatter"]=4,
 	["elotheras-spineshatter"]=5,
@@ -14673,7 +14673,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["liquë-spineshatter"]=3,
 	["lirina-spineshatter"]=1,
 	["lirmaa-spineshatter"]=10,
-	["lirmish-spineshatter"]=25,
+	["lirmish-spineshatter"]=16,
 	["lirmish-thunderstrike"]=25,
 	["lischii-thunderstrike"]=5,
 	["lisoysham-spineshatter"]=12,
@@ -15980,7 +15980,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["obrazéts-spineshatter"]=1,
 	["obshag-spineshatter"]=5,
 	["obstkuched-spineshatter"]=1,
-	["oceandevil-spineshatter"]=8,
+	["oceandevil-spineshatter"]=2,
 	["oceansleeper-spineshatter"]=3,
 	["ocin-spineshatter"]=5,
 	["oclota-thunderstrike"]=5,
@@ -19379,7 +19379,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["xnzp-thunderstrike"]=2,
 	["xoji-spineshatter"]=9,
 	["xolaire-spineshatter"]=2,
-	["xoolol-spineshatter"]=27,
+	["xoolol-spineshatter"]=3,
 	["xouia-spineshatter"]=0,
 	["xpeng-spineshatter"]=19,
 	["xplosiva-thunderstrike"]=6,
