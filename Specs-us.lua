@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5178 characters, read 2026-10-03 04:54 AM.
+-- Region us, 5178 characters, read 2026-10-03 05:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7480,7 +7480,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["kusamgie-galakras"]=2,
 	["kusheatsleep-raden"]=18,
 	["kushgodx-raden"]=1,
-	["kushh-nazgrim"]=10,
+	["kushh-nazgrim"]=4,
 	["kutless-raden"]=16,
 	["kutthroatt-pagle"]=7,
 	["kutty-nazgrim"]=11,
@@ -7505,7 +7505,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["lameclass-raden"]=7,
 	["lancelobber-raden"]=1,
 	["lanlex-raden"]=7,
-	["lapancha-pagle"]=12,
+	["lapancha-pagle"]=5,
 	["lapanchita-pagle"]=12,
 	["laporemeta-raden"]=5,
 	["laranja-raden"]=0,
@@ -7611,7 +7611,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["limpzr-pagle"]=14,
 	["linares-lei-shen"]=24,
 	["linaress-lei-shen"]=16,
-	["linearly-pagle"]=22,
+	["linearly-pagle"]=19,
 	["linktrol-pagle"]=18,
 	["linnker-pagle"]=9,
 	["lionner-lei-shen"]=10,
@@ -7623,7 +7623,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["litmus-pagle"]=7,
 	["litoutz-pagle"]=11,
 	["littheri-pagle"]=17,
-	["littielight-pagle"]=13,
+	["littielight-pagle"]=21,
 	["littlefláme-pagle"]=1,
 	["littlegirl-raden"]=1,
 	["littletinkle-galakras"]=2,
@@ -8015,7 +8015,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["múnchies-lei-shen"]=24,
 	["munkå-pagle"]=10,
 	["murakami-raden"]=6,
-	["murder-raden"]=34,
+	["murder-raden"]=29,
 	["murderstein-raden"]=9,
 	["murdradis-pagle"]=22,
 	["murica-lei-shen"]=3,
@@ -9645,7 +9645,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["trenabuser-raden"]=0,
 	["trëv-galakras"]=24,
 	["trevoso-pagle"]=28,
-	["triis-pagle"]=24,
+	["triis-pagle"]=8,
 	["trinketcleav-pagle"]=29,
 	["triskets-pagle"]=7,
 	["trisomi-pagle"]=20,
@@ -9667,7 +9667,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["truckw-raden"]=7,
 	["truebolt-pagle"]=15,
 	["trueshepard-pagle"]=21,
-	["trueshot-grobbulus"]=20,
+	["trueshot-grobbulus"]=3,
 	["trukanoh-nazgrim"]=22,
 	["trumpchains-galakras"]=26,
 	["trumpscurse-galakras"]=21,

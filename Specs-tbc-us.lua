@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9561 characters, read 2026-10-03 04:58 AM.
+-- Region tbc-us, 9561 characters, read 2026-10-03 05:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10301,7 +10301,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["blakeatron-nightslayer"]=7,
 	["blakecallow-nightslayer"]=2,
 	["blaku-dreamscythe"]=8,
-	["blapz-nightslayer"]=1,
+	["blapz-nightslayer"]=14,
 	["blaquetrans-nightslayer"]=1,
 	["blargan-nightslayer"]=4,
 	["blargyn-nightslayer"]=4,
@@ -10370,7 +10370,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bluespy-nightslayer"]=4,
 	["blueyvuitton-nightslayer"]=19,
 	["blumpysauce-dreamscythe"]=12,
-	["blunder-nightslayer"]=3,
+	["blunder-nightslayer"]=7,
 	["blunderdin-nightslayer"]=11,
 	["blundertwist-nightslayer"]=11,
 	["bluntedlol-nightslayer"]=4,
@@ -12628,7 +12628,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["gharak-nightslayer"]=2,
 	["ghazra-nightslayer"]=18,
 	["ghengiskaan-dreamscythe"]=10,
-	["ghettotastic-nightslayer"]=14,
+	["ghettotastic-nightslayer"]=1,
 	["ghidal-nightslayer"]=10,
 	["ghleitx-nightslayer"]=16,
 	["ghostphase-nightslayer"]=2,
@@ -13857,7 +13857,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["kerso-nightslayer"]=2,
 	["kesua-nightslayer"]=7,
 	["keter-nightslayer"]=7,
-	["ketheriya-nightslayer"]=14,
+	["ketheriya-nightslayer"]=1,
 	["ketusmacopin-dreamscythe"]=9,
 	["kevbigpp-nightslayer"]=12,
 	["kevinboomy-nightslayer"]=7,
@@ -15721,7 +15721,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["piccul-nightslayer"]=10,
 	["pichón-nightslayer"]=10,
 	["picklepics-nightslayer"]=5,
-	["picklepil-nightslayer"]=15,
+	["picklepil-nightslayer"]=17,
 	["pickleshlong-nightslayer"]=5,
 	["picksix-nightslayer"]=14,
 	["pickyaflava-nightslayer"]=7,
