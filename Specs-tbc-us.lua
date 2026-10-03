@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9551 characters, read 2026-10-03 11:58 AM.
+-- Region tbc-us, 9551 characters, read 2026-10-03 12:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6064,6 +6064,7 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["parkwayy-dreamscythe"]=21,
 	["parli-nightslayer"]=101,
 	["parsec-nightslayer"]=50,
+	["parsed-dreamscythe"]=101,
 	["parsegodxx-dreamscythe"]=20,
 	["parsonah-nightslayer"]=50,
 	["partyx-nightslayer"]=20,
@@ -10277,7 +10278,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["blackberrys-nightslayer"]=7,
 	["blackchedda-nightslayer"]=16,
 	["blackcipher-nightslayer"]=5,
-	["blackcircle-nightslayer"]=6,
+	["blackcircle-nightslayer"]=4,
 	["blackcocoa-dreamscythe"]=11,
 	["blackcrows-nightslayer"]=1,
 	["blackdahila-nightslayer"]=2,
@@ -14120,7 +14121,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["leftface-nightslayer"]=1,
 	["lefthandlary-nightslayer"]=12,
 	["lefttenclear-nightslayer"]=15,
-	["leftténclear-nightslayer"]=15,
+	["leftténclear-nightslayer"]=17,
 	["legalcitizen-nightslayer"]=1,
 	["legday-nightslayer"]=18,
 	["legitimately-dreamscythe"]=1,
@@ -14899,7 +14900,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["moontaindew-nightslayer"]=22,
 	["moontotems-nightslayer"]=19,
 	["moonyzz-nightslayer"]=18,
-	["moorehead-dreamscythe"]=2,
+	["moorehead-dreamscythe"]=18,
 	["móose-nightslayer"]=3,
 	["moosedeuce-dreamscythe"]=5,
 	["moosheisty-nightslayer"]=3,
@@ -15574,7 +15575,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["parkwayy-dreamscythe"]=24,
 	["parli-nightslayer"]=25,
 	["parsec-nightslayer"]=4,
-	["parsed-dreamscythe"]=0,
+	["parsed-dreamscythe"]=11,
 	["parsegodxx-dreamscythe"]=2,
 	["parsonah-nightslayer"]=5,
 	["partyx-nightslayer"]=18,
@@ -17636,7 +17637,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["taylorsniffz-nightslayer"]=5,
 	["tayswíft-nightslayer"]=1,
 	["tazërface-nightslayer"]=18,
-	["tbalc-nightslayer"]=12,
+	["tbalc-nightslayer"]=1,
 	["tbcisawful-nightslayer"]=17,
 	["tbcisdeadcya-nightslayer"]=21,
 	["tbcpremium-dreamscythe"]=1,
@@ -18976,7 +18977,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["zoop-nightslayer"]=12,
 	["zooper-nightslayer"]=7,
 	["zoox-nightslayer"]=21,
-	["zorbroz-nightslayer"]=1,
+	["zorbroz-nightslayer"]=12,
 	["zorgam-nightslayer"]=6,
 	["zornee-nightslayer"]=4,
 	["zorpo-nightslayer"]=5,
@@ -19000,7 +19001,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["zukoji-nightslayer"]=25,
 	["zukralol-dreamscythe"]=1,
 	["zulamagic-dreamscythe"]=1,
-	["zulbruh-dreamscythe"]=10,
+	["zulbruh-dreamscythe"]=19,
 	["zulkyx-nightslayer"]=14,
 	["zullan-dreamscythe"]=16,
 	["zullia-dreamscythe"]=4,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5179 characters, read 2026-10-03 11:59 AM.
+-- Region us, 5179 characters, read 2026-10-03 12:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6203,7 +6203,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["drellus-pagle"]=15,
 	["Ðressrøsa-immerseus"]=10,
 	["drewdipsy-pagle"]=7,
-	["drewleon-pagle"]=17,
+	["drewleon-pagle"]=5,
 	["drewwd-nazgrim"]=5,
 	["dreyad-pagle"]=5,
 	["dreyas-pagle"]=7,
@@ -6255,7 +6255,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dulcínea-raden"]=7,
 	["dumbcrumb-nazgrim"]=18,
 	["dumbpoptart-benediction"]=7,
-	["dumdum-nazgrim"]=18,
+	["dumdum-nazgrim"]=20,
 	["dúmß-raden"]=7,
 	["dúmßer-raden"]=16,
 	["dunardel-raden"]=7,
@@ -6316,7 +6316,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["elchjager-pagle"]=20,
 	["elcubano-raden"]=5,
 	["electabuzz-raden"]=3,
-	["electrikal-lei-shen"]=19,
+	["electrikal-lei-shen"]=15,
 	["electroxx-galakras"]=27,
 	["elementoos-lei-shen"]=19,
 	["elfakiller-nazgrim"]=18,
@@ -6448,7 +6448,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["fatfistsal-lei-shen"]=10,
 	["fatgirlsxxl-raden"]=1,
 	["fatguccimane-raden"]=1,
-	["fatrass-pagle"]=34,
+	["fatrass-pagle"]=14,
 	["fatsob-lei-shen"]=2,
 	["fattitude-pagle"]=13,
 	["fattitude-raden"]=13,
@@ -6502,7 +6502,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["fíngerplay-galakras"]=15,
 	["fingerplay-raden"]=16,
 	["fingerrfkr-nazgrim"]=5,
-	["fingølfin-pagle"]=14,
+	["fingølfin-pagle"]=29,
 	["finja-lei-shen"]=34,
 	["finkledinkle-pagle"]=16,
 	["finnese-pagle"]=1,
