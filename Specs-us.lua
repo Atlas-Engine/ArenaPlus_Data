@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5178 characters, read 2026-10-03 01:59 AM.
+-- Region us, 5178 characters, read 2026-10-03 02:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6620,7 +6620,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["fuzyywuzyy-nazgrim"]=13,
 	["fuzzywaifu-lei-shen"]=10,
 	["fxd-arugal-au"]=5,
-	["fyruss-pagle"]=3,
+	["fyruss-pagle"]=20,
 	["gaarah-pagle"]=1,
 	["gabimaru-raden"]=4,
 	["gaejustin-pagle"]=33,
@@ -7135,7 +7135,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["infurryator-raden"]=12,
 	["initis-raden"]=7,
 	["injury-pagle"]=7,
-	["inkárri-arugal-au"]=4,
+	["inkárri-arugal-au"]=10,
 	["inmortalwar-raden"]=7,
 	["innoofirgize-raden"]=5,
 	["inorie-raden"]=4,
@@ -7914,7 +7914,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["misprëdictio-nazgrim"]=21,
 	["missatrinni-pagle"]=0,
 	["missmama-galakras"]=5,
-	["missrollings-pagle"]=10,
+	["missrollings-pagle"]=4,
 	["misstotem-pagle"]=19,
 	["missyu-immerseus"]=23,
 	["mistafistuh-pagle"]=4,
@@ -7939,7 +7939,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["mjhunter-galakras"]=18,
 	["mltchell-pagle"]=15,
 	["mlzn-raden"]=1,
-	["mmerida-raden"]=17,
+	["mmerida-raden"]=33,
 	["mmonk-nazgrim"]=10,
 	["mmrcat-raden"]=12,
 	["mnzak-raden"]=4,
@@ -8007,7 +8007,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["msnurfme-raden"]=17,
 	["msr-galakras"]=3,
 	["msthickmeat-raden"]=22,
-	["mtj-atiesh"]=5,
+	["mtj-atiesh"]=17,
 	["mufasaz-pagle"]=10,
 	["muffìn-raden"]=7,
 	["mugroso-galakras"]=18,
@@ -9772,7 +9772,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["varrè-lei-shen"]=6,
 	["varyags-pagle"]=17,
 	["vathanish-galakras"]=16,
-	["veddr-galakras"]=16,
+	["veddr-galakras"]=2,
 	["veegeettaa-raden"]=2,
 	["veidaz-raden"]=0,
 	["velcer-raden"]=11,
@@ -9838,7 +9838,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["vonzxy-pagle"]=11,
 	["vorag-nazgrim"]=10,
 	["voromyr-lei-shen"]=7,
-	["vorthorne-raden"]=30,
+	["vorthorne-raden"]=23,
 	["voshay-pagle"]=15,
 	["vovaii-pagle"]=12,
 	["vrilly-pagle"]=7,
