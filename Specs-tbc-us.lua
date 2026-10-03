@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9561 characters, read 2026-10-03 02:58 AM.
+-- Region tbc-us, 9561 characters, read 2026-10-03 03:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10306,7 +10306,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["blargyn-nightslayer"]=4,
 	["blasterboy-nightslayer"]=15,
 	["blasthisass-nightslayer"]=4,
-	["blaxmagix-nightslayer"]=14,
+	["blaxmagix-nightslayer"]=1,
 	["blazecraft-dreamscythe"]=16,
 	["blazingwrath-dreamscythe"]=3,
 	["blazinkush-nightslayer"]=5,
@@ -10417,7 +10417,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bombalu-nightslayer"]=13,
 	["bonabtwistn-nightslayer"]=19,
 	["bondstar-nightslayer"]=5,
-	["bonecrank-dreamscythe"]=8,
+	["bonecrank-dreamscythe"]=0,
 	["bonecrushin-dreamscythe"]=2,
 	["bonejovie-nightslayer"]=1,
 	["bonesmoke-nightslayer"]=5,
@@ -13002,7 +13002,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["heavyanchor-nightslayer"]=10,
 	["heavycup-nightslayer"]=4,
 	["heckinbork-dreamscythe"]=10,
-	["hedgefundguy-nightslayer"]=6,
+	["hedgefundguy-nightslayer"]=4,
 	["heebhunter-nightslayer"]=15,
 	["hëff-nightslayer"]=3,
 	["heibaihua-nightslayer"]=7,
@@ -13023,7 +13023,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["hemolytic-nightslayer"]=13,
 	["hemoth-nightslayer"]=13,
 	["hemph-nightslayer"]=13,
-	["henessey-nightslayer"]=6,
+	["henessey-nightslayer"]=4,
 	["hennesseyx-nightslayer"]=22,
 	["hennydietc-nightslayer"]=10,
 	["hennypennyy-nightslayer"]=10,
@@ -14658,7 +14658,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["memphisninja-nightslayer"]=5,
 	["memphrica-dreamscythe"]=13,
 	["memphricala-dreamscythe"]=11,
-	["memz-dreamscythe"]=19,
+	["memz-dreamscythe"]=24,
 	["mendcery-nightslayer"]=14,
 	["menkissmen-nightslayer"]=18,
 	["menosat-nightslayer"]=12,
@@ -15230,7 +15230,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["nohunt-nightslayer"]=15,
 	["noikar-dreamscythe"]=20,
 	["noimmichael-nightslayer"]=2,
-	["noliquidity-nightslayer"]=1,
+	["noliquidity-nightslayer"]=0,
 	["nolm-nightslayer"]=21,
 	["nomanz-nightslayer"]=8,
 	["nomdiff-dreamscythe"]=6,
@@ -15698,7 +15698,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["phathomxd-nightslayer"]=18,
 	["phatpoohcee-nightslayer"]=2,
 	["phaya-dreamscythe"]=19,
-	["phde-nightslayer"]=13,
+	["phde-nightslayer"]=0,
 	["phdphil-nightslayer"]=8,
 	["phebz-nightslayer"]=5,
 	["phemtoss-nightslayer"]=13,
