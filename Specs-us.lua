@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5180 characters, read 2026-10-03 05:59 PM.
+-- Region us, 5180 characters, read 2026-10-03 06:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3146,7 +3146,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["nuzzles-raden"]=41,
 	["nvmxxtxx-raden"]=11,
 	["nvrtrinket-raden"]=41,
-	["nvxl-pagle"]=10,
 	["nyarlatet-pagle"]=11,
 	["nyctrius-raden"]=41,
 	["nyloras-pagle"]=10,
@@ -5468,7 +5467,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["bloodofares-nazgrim"]=7,
 	["bloodofnotus-nazgrim"]=27,
 	["bloodrake-nazgrim"]=25,
-	["bloodsoakd-pagle"]=7,
+	["bloodsoakd-pagle"]=23,
 	["bloodvâlor-lei-shen"]=6,
 	["bloombringer-pagle"]=0,
 	["blooms-pagle"]=17,
@@ -5529,7 +5528,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["borabow-pagle"]=3,
 	["bordak-raden"]=7,
 	["boredx-pagle"]=16,
-	["boreing-lei-shen"]=26,
+	["boreing-lei-shen"]=25,
 	["bornhard-pagle"]=14,
 	["bossdon-pagle"]=7,
 	["bouddha-raden"]=4,
@@ -6317,7 +6316,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["elchjager-pagle"]=20,
 	["elcubano-raden"]=5,
 	["electabuzz-raden"]=3,
-	["electrikal-lei-shen"]=15,
+	["electrikal-lei-shen"]=19,
 	["electroxx-galakras"]=27,
 	["elementoos-lei-shen"]=19,
 	["elfakiller-nazgrim"]=18,
@@ -6503,7 +6502,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["fíngerplay-galakras"]=15,
 	["fingerplay-raden"]=16,
 	["fingerrfkr-nazgrim"]=5,
-	["fingølfin-pagle"]=29,
+	["fingølfin-pagle"]=14,
 	["finja-lei-shen"]=34,
 	["finkledinkle-pagle"]=16,
 	["finnese-pagle"]=1,
@@ -8228,7 +8227,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["nuzzles-raden"]=5,
 	["nvmxxtxx-raden"]=4,
 	["nvrtrinket-raden"]=5,
-	["nvxl-pagle"]=1,
+	["nvxl-pagle"]=0,
 	["nyarlatet-pagle"]=6,
 	["nyctrius-raden"]=18,
 	["nyloras-pagle"]=7,
@@ -10142,7 +10141,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["zheani-raden"]=2,
 	["zhifty-raden"]=5,
 	["zhuofan-lei-shen"]=27,
-	["zìegen-lei-shen"]=1,
+	["zìegen-lei-shen"]=31,
 	["zinw-pagle"]=20,
 	["zíonlion-raden"]=18,
 	["zipzipzapzap-raden"]=28,
