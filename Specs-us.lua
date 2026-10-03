@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5182 characters, read 2026-10-02 08:59 PM.
+-- Region us, 5182 characters, read 2026-10-02 09:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5013,7 +5013,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["aarôn-raden"]=9,
 	["aaronbead-lei-shen"]=32,
 	["aaronns-galakras"]=3,
-	["aauruum-raden"]=3,
+	["aauruum-raden"]=18,
 	["abadon-pagle"]=25,
 	["abn-raden"]=1,
 	["abouttime-raden"]=18,
@@ -5062,9 +5062,9 @@ ns.SPECS_BY_REGION["us"] = {
 	["aídíth-benediction"]=7,
 	["aidsx-raden"]=12,
 	["aimonk-raden"]=10,
-	["airbornekid-pagle"]=13,
+	["airbornekid-pagle"]=9,
 	["airbuss-nazgrim"]=18,
-	["airhéads-pagle"]=24,
+	["airhéads-pagle"]=8,
 	["aisten-galakras"]=2,
 	["aiwindel-galakras"]=23,
 	["akeratin-pagle"]=12,
@@ -5456,7 +5456,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["blasterjaxx-pagle"]=14,
 	["blastmaster-lei-shen"]=15,
 	["blazco-raden"]=9,
-	["blazedboii-pagle"]=3,
+	["blazedboii-pagle"]=18,
 	["blazingchi-arugal-au"]=4,
 	["bleeko-immerseus"]=5,
 	["blickkyyx-pagle"]=18,
@@ -6211,7 +6211,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["drellus-pagle"]=15,
 	["Ðressrøsa-immerseus"]=10,
 	["drewdipsy-pagle"]=7,
-	["drewleon-pagle"]=5,
+	["drewleon-pagle"]=17,
 	["drewwd-nazgrim"]=5,
 	["dreyad-pagle"]=5,
 	["dreyas-pagle"]=7,
@@ -9281,7 +9281,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["spóöòkyqûeen-pagle"]=4,
 	["spowy-pagle"]=34,
 	["spq-pagle"]=0,
-	["spreadpres-pagle"]=17,
+	["spreadpres-pagle"]=5,
 	["spudbudz-pagle"]=21,
 	["spuntville-pagle"]=22,
 	["sqntzi-pagle"]=17,

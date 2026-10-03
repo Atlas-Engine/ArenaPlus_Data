@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9543 characters, read 2026-10-02 08:58 PM.
+-- Region tbc-us, 9543 characters, read 2026-10-02 09:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10039,7 +10039,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["baygoners-nightslayer"]=10,
 	["baylers-dreamscythe"]=2,
 	["bayyn-dreamscythe"]=22,
-	["baziz-nightslayer"]=4,
+	["baziz-nightslayer"]=6,
 	["bazook-nightslayer"]=13,
 	["bazooko-nightslayer"]=1,
 	["bazrael-nightslayer"]=13,
@@ -14252,7 +14252,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["lockballess-dreamscythe"]=13,
 	["lockenlode-nightslayer"]=16,
 	["lockmainxd-nightslayer"]=5,
-	["lockmike-nightslayer"]=23,
+	["lockmike-nightslayer"]=13,
 	["locksac-dreamscythe"]=13,
 	["lockshmear-nightslayer"]=13,
 	["locktoy-dreamscythe"]=13,
@@ -14791,7 +14791,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["mithral-nightslayer"]=5,
 	["mithrandeër-dreamscythe"]=5,
 	["mithridate-nightslayer"]=15,
-	["mitoh-nightslayer"]=4,
+	["mitoh-nightslayer"]=6,
 	["mitprofessor-dreamscythe"]=22,
 	["mits-nightslayer"]=10,
 	["mittinz-nightslayer"]=18,
@@ -16520,7 +16520,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["sanin-nightslayer"]=4,
 	["sannas-nightslayer"]=5,
 	["santamadres-dreamscythe"]=1,
-	["santerpok-nightslayer"]=6,
+	["santerpok-nightslayer"]=4,
 	["santycloz-dreamscythe"]=6,
 	["sapito-nightslayer"]=6,
 	["saplinq-nightslayer"]=5,
@@ -18557,7 +18557,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["wolf-nightslayer"]=5,
 	["wolfib-nightslayer"]=13,
 	["wolfz-nightslayer"]=5,
-	["wolk-nightslayer"]=8,
+	["wolk-nightslayer"]=5,
 	["womenrights-dreamscythe"]=15,
 	["wompwompuded-nightslayer"]=1,
 	["wonderfulcop-nightslayer"]=2,
