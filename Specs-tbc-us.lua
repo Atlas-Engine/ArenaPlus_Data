@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9521 characters, read 2026-10-03 02:58 PM.
+-- Region tbc-us, 9521 characters, read 2026-10-03 03:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -13150,7 +13150,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["hugemantys-nightslayer"]=2,
 	["huggibear-dreamscythe"]=16,
 	["huggibow-dreamscythe"]=15,
-	["hughjaynas-dreamscythe"]=12,
+	["hughjaynas-dreamscythe"]=1,
 	["huka-nightslayer"]=8,
 	["huku-nightslayer"]=20,
 	["hulabob-nightslayer"]=11,
@@ -14873,7 +14873,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["moritwotoe-nightslayer"]=2,
 	["mork-nightslayer"]=18,
 	["moroto-nightslayer"]=19,
-	["morralla-nightslayer"]=17,
+	["morralla-nightslayer"]=15,
 	["morrdruid-dreamscythe"]=7,
 	["morrey-nightslayer"]=4,
 	["morreymagus-nightslayer"]=6,
@@ -15273,7 +15273,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["nxzo-nightslayer"]=2,
 	["nycsharialaw-nightslayer"]=7,
 	["nydee-nightslayer"]=3,
-	["nydig-nightslayer"]=10,
+	["nydig-nightslayer"]=19,
 	["nyips-nightslayer"]=11,
 	["nyloboost-dreamscythe"]=18,
 	["nynnx-nightslayer"]=13,
@@ -17022,7 +17022,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["slothmoo-nightslayer"]=7,
 	["slowbolt-nightslayer"]=4,
 	["sloweyes-nightslayer"]=7,
-	["slowfast-nightslayer"]=16,
+	["slowfast-nightslayer"]=13,
 	["slugpax-nightslayer"]=5,
 	["slumshocks-dreamscythe"]=19,
 	["slumwar-dreamscythe"]=18,
@@ -17823,7 +17823,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["tomseaver-nightslayer"]=13,
 	["tomtomz-nightslayer"]=2,
 	["tomtwocox-nightslayer"]=1,
-	["tomy-nightslayer"]=2,
+	["tomy-nightslayer"]=20,
 	["tondeuse-nightslayer"]=24,
 	["tondo-nightslayer"]=2,
 	["tongass-nightslayer"]=2,
@@ -18354,7 +18354,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["wargath-nightslayer"]=16,
 	["wårgato-nightslayer"]=10,
 	["warglaivs-nightslayer"]=5,
-	["warglayves-nightslayer"]=2,
+	["warglayves-nightslayer"]=18,
 	["warhilda-nightslayer"]=2,
 	["warkhaos-nightslayer"]=18,
 	["warlockhater-nightslayer"]=12,
