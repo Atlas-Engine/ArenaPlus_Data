@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5316 characters, read 2026-10-03 05:00 PM.
+-- Region eu, 5316 characters, read 2026-10-03 06:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5654,7 +5654,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bngjr-shekzeer"]=20,
 	["bobbo-mirage-raceway"]=1,
 	["bobbyshmurda-shekzeer"]=17,
-	["bobbysta-auberdine"]=12,
+	["bobbysta-auberdine"]=9,
 	["bobiroula-mirage-raceway"]=21,
 	["bobjones-norushen"]=12,
 	["bodyfitness-shekzeer"]=2,
@@ -5740,7 +5740,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bumbelbegodx-shekzeer"]=14,
 	["bumbelbemonk-shekzeer"]=29,
 	["bumbeldruid-shekzeer"]=21,
-	["bumbelgnome-shekzeer"]=29,
+	["bumbelgnome-shekzeer"]=7,
 	["bumbelmonk-garalon"]=7,
 	["bumbelmonk-shekzeer"]=29,
 	["bumbelorc-garalon"]=29,
@@ -5915,7 +5915,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["cloudyday-shekzeer"]=3,
 	["cloverfield-mirage-raceway"]=3,
 	["clý-shekzeer"]=9,
-	["coachnick-shekzeer"]=29,
+	["coachnick-shekzeer"]=7,
 	["cocka-auberdine"]=31,
 	["cocotaxi-shekzeer"]=3,
 	["coilstoryx-shekzeer"]=8,
@@ -6851,7 +6851,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["hôlydârknéss-everlook"]=12,
 	["holydayhoe-ook-ook"]=5,
 	["holygeneral-shekzeer"]=5,
-	["holygodx-auberdine"]=30,
+	["holygodx-auberdine"]=15,
 	["holyknightlx-shekzeer"]=5,
 	["holylightx-shekzeer"]=15,
 	["holymarry-shekzeer"]=5,
@@ -8730,7 +8730,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["saripihkur-garalon"]=7,
 	["sarotas-shekzeer"]=9,
 	["sashavolkova-garalon"]=24,
-	["satåna-shekzeer"]=4,
+	["satåna-shekzeer"]=14,
 	["satåntrapbot-shekzeer"]=14,
 	["satara-shekzeer"]=26,
 	["satazhia-shekzeer"]=12,
@@ -9102,7 +9102,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["suki-shekzeer"]=17,
 	["sukí-shekzeer"]=3,
 	["sukio-shekzeer"]=9,
-	["summercoin-shekzeer"]=12,
+	["summercoin-shekzeer"]=22,
 	["summerßreeze-auberdine"]=13,
 	["sumo-norushen"]=1,
 	["sumtinrother-shekzeer"]=5,
@@ -10073,7 +10073,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Брислок-flamegor"]=17,
 	["Бритлберри-flamegor"]=2,
 	["Будрык-flamegor"]=21,
-	["Будрыкк-flamegor"]=20,
+	["Будрыкк-flamegor"]=4,
 	["Буревестъник-flamegor"]=13,
 	["Бурительдна-flamegor"]=16,
 	["Бурстанутый-flamegor"]=31,

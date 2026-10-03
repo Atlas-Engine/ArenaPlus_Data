@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5180 characters, read 2026-10-03 04:59 PM.
+-- Region us, 5180 characters, read 2026-10-03 05:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -8702,7 +8702,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["repentence-pagle"]=16,
 	["reppas-galakras"]=0,
 	["rerollx-raden"]=7,
-	["reserved-lei-shen"]=7,
+	["reserved-lei-shen"]=23,
 	["respawn-immerseus"]=11,
 	["restoads-pagle"]=5,
 	["restris-raden"]=34,
@@ -8931,7 +8931,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["sécrét-raden"]=5,
 	["secretjewz-raden"]=8,
 	["segiya-grobbulus"]=1,
-	["segredinho-pagle"]=4,
+	["segredinho-pagle"]=10,
 	["segwaymaster-pagle"]=7,
 	["seitanic-pagle"]=6,
 	["sekhmethy-pagle"]=0,
@@ -9345,7 +9345,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["stonêd-raden"]=16,
 	["stooter-nazgrim"]=5,
 	["stooty-nazgrim"]=7,
-	["stoptalkme-raden"]=4,
+	["stoptalkme-raden"]=10,
 	["stormdaddyx-pagle"]=22,
 	["størmie-raden"]=15,
 	["stormieskye-galakras"]=17,
@@ -9405,7 +9405,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["swagasaurus-raden"]=1,
 	["swangydangy-raden"]=9,
 	["swasbuck-galakras"]=12,
-	["swatemtawkin-raden"]=15,
+	["swatemtawkin-raden"]=19,
 	["sweatnbullet-galakras"]=18,
 	["sweestrikes-raden"]=7,
 	["swiftone-pagle"]=12,
@@ -10119,7 +10119,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["zenflow-raden"]=4,
 	["zenfocus-raden"]=27,
 	["zengirl-raden"]=10,
-	["zeniitsu-pagle"]=30,
+	["zeniitsu-pagle"]=7,
 	["zenithrax-pagle"]=6,
 	["zenmaxxing-pagle"]=10,
 	["zentore-raden"]=7,
