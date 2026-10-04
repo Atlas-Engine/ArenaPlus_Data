@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9510 characters, read 2026-10-04 05:58 PM.
+-- Region tbc-us, 9510 characters, read 2026-10-04 06:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12939,7 +12939,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["helady-nightslayer"]=13,
 	["helaren-nightslayer"]=3,
 	["helbie-nightslayer"]=2,
-	["helicopters-nightslayer"]=24,
+	["helicopters-nightslayer"]=10,
 	["hellabald-nightslayer"]=18,
 	["hellbug-nightslayer"]=2,
 	["hellguyy-nightslayer"]=5,
@@ -15618,7 +15618,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["phi-nightslayer"]=7,
 	["phofilling-dreamscythe"]=2,
 	["phokinbovine-dreamscythe"]=20,
-	["phokintotems-dreamscythe"]=24,
+	["phokintotems-dreamscythe"]=10,
 	["phonkie-nightslayer"]=10,
 	["phonomenal-dreamscythe"]=1,
 	["phonz-dreamscythe"]=13,
@@ -15676,7 +15676,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["pizzablades-nightslayer"]=5,
 	["pizzaghetti-nightslayer"]=1,
 	["pizzette-nightslayer"]=5,
-	["pjv-nightslayer"]=22,
+	["pjv-nightslayer"]=7,
 	["pjw-nightslayer"]=7,
 	["pkayz-nightslayer"]=4,
 	["placebo-nightslayer"]=9,
