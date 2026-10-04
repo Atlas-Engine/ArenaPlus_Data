@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9528 characters, read 2026-10-03 07:58 PM.
+-- Region tbc-us, 9528 characters, read 2026-10-03 08:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11642,7 +11642,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["douglvs-nightslayer"]=10,
 	["dougotar-nightslayer"]=2,
 	["dougothy-nightslayer"]=5,
-	["dougthar-nightslayer"]=10,
+	["dougthar-nightslayer"]=19,
 	["dougx-nightslayer"]=2,
 	["doujaberry-nightslayer"]=1,
 	["douzrey-dreamscythe"]=2,
@@ -16208,7 +16208,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["revilxx-nightslayer"]=1,
 	["revivé-nightslayer"]=1,
 	["reviveblack-nightslayer"]=12,
-	["revivexoxo-nightslayer"]=12,
+	["revivexoxo-nightslayer"]=1,
 	["révs-nightslayer"]=19,
 	["rewfio-nightslayer"]=13,
 	["rewrite-nightslayer"]=4,
@@ -16319,7 +16319,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["roguedude-nightslayer"]=5,
 	["roguehard-nightslayer"]=5,
 	["rogueini-nightslayer"]=5,
-	["roguekilla-nightslayer"]=18,
+	["roguekilla-nightslayer"]=2,
 	["röguelike-dreamscythe"]=5,
 	["roguelord-dreamscythe"]=8,
 	["rogueluck-nightslayer"]=5,
@@ -16432,7 +16432,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ryuné-nightslayer"]=2,
 	["ryuxd-nightslayer"]=2,
 	["ryxno-dreamscythe"]=5,
-	["ryybo-dreamscythe"]=6,
+	["ryybo-dreamscythe"]=4,
 	["ryyker-dreamscythe"]=21,
 	["ryzp-nightslayer"]=11,
 	["rzka-nightslayer"]=19,
@@ -17167,7 +17167,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["sosuhh-nightslayer"]=1,
 	["söttjej-nightslayer"]=10,
 	["souldrainxo-nightslayer"]=16,
-	["souljin-nightslayer"]=24,
+	["souljin-nightslayer"]=10,
 	["soullessrat-dreamscythe"]=11,
 	["soullessrope-dreamscythe"]=7,
 	["soulshifta-dreamscythe"]=7,
@@ -18323,7 +18323,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["vulvalia-nightslayer"]=19,
 	["vurtnee-nightslayer"]=4,
 	["vuster-nightslayer"]=18,
-	["vvgg-nightslayer"]=6,
+	["vvgg-nightslayer"]=4,
 	["vvsr-nightslayer"]=5,
 	["vyfor-nightslayer"]=13,
 	["vynthos-nightslayer"]=2,

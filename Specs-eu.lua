@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5314 characters, read 2026-10-03 08:00 PM.
+-- Region eu, 5314 characters, read 2026-10-03 09:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -124,7 +124,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["affix-shekzeer"]=11,
 	["afflictia-shekzeer"]=11,
 	["aflixs-shekzeer"]=21,
-	["afqx-garalon"]=50,
+	["afqx-garalon"]=51,
 	["afrai-norushen"]=80,
 	["afrodiñ-shekzeer"]=10,
 	["afterchi-shekzeer"]=10,
@@ -5346,7 +5346,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["arabarb-ook-ook"]=25,
 	["arabicano-shekzeer"]=17,
 	["arabicanoo-shekzeer"]=3,
-	["aram-everlook"]=34,
+	["aram-everlook"]=26,
 	["aramorth-mirage-raceway"]=1,
 	["aranoidea-everlook"]=3,
 	["arcade-gehennas"]=0,
@@ -6296,7 +6296,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["edgelocked-shekzeer"]=17,
 	["edgewrath-garalon"]=3,
 	["edmonddantes-shekzeer"]=24,
-	["edshearin-shekzeer"]=16,
+	["edshearin-shekzeer"]=19,
 	["eelasalways-shekzeer"]=1,
 	["eelmaster-shekzeer"]=6,
 	["eeveé-shekzeer"]=9,
@@ -9126,7 +9126,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["susrog-shekzeer"]=24,
 	["sussham-shekzeer"]=19,
 	["susubibi-shekzeer"]=4,
-	["suwney-shekzeer"]=10,
+	["suwney-shekzeer"]=27,
 	["suzukishîft-everlook"]=3,
 	["suzuran-ook-ook"]=6,
 	["suzuu-shekzeer"]=0,

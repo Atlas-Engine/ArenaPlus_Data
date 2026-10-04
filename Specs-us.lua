@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5185 characters, read 2026-10-03 07:59 PM.
+-- Region us, 5185 characters, read 2026-10-03 08:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -495,7 +495,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["blackspwn-raden"]=11,
 	["blaggie-galakras"]=10,
 	["blaine-raden"]=11,
-	["blakewarrior-raden"]=10,
 	["blameblade-pagle"]=11,
 	["blamelucky-pagle"]=11,
 	["blankis-raden"]=11,
@@ -5083,7 +5082,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["alette-pagle"]=2,
 	["aléxandros-nazgrim"]=7,
 	["alexmateo-pagle"]=7,
-	["alexrrbb-raden"]=23,
+	["alexrrbb-raden"]=7,
 	["alextraxas-pagle"]=7,
 	["alezaar-raden"]=5,
 	["algreen-pagle"]=4,
@@ -5137,9 +5136,9 @@ ns.SPECS_BY_REGION["us"] = {
 	["andreiaa-pagle"]=6,
 	["anêl-pagle"]=21,
 	["angrydewd-raden"]=23,
-	["anihalator-pagle"]=6,
+	["anihalator-pagle"]=26,
 	["anikdote-raden"]=16,
-	["animalzx-lei-shen"]=17,
+	["animalzx-lei-shen"]=5,
 	["anjurus-pagle"]=3,
 	["annatorius-pagle"]=16,
 	["annikà-nazgrim"]=2,
@@ -5167,7 +5166,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["aquandrah-raden"]=5,
 	["ar-pagle"]=1,
 	["arae-pagle"]=24,
-	["araeul-lei-shen"]=20,
+	["araeul-lei-shen"]=3,
 	["arbiter-raden"]=17,
 	["arbolita-raden"]=5,
 	["arbuckyl-galakras"]=16,
@@ -5194,7 +5193,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["arloxz-pagle"]=7,
 	["armedknight-pagle"]=7,
 	["aronm-pagle"]=2,
-	["aronuti-lei-shen"]=5,
+	["aronuti-lei-shen"]=17,
 	["arrowtwist-raden"]=3,
 	["artanissed-pagle"]=6,
 	["arteniss-raden"]=9,
@@ -5449,7 +5448,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["blaggie-galakras"]=16,
 	["blaine-raden"]=1,
 	["blakemøre-raden"]=0,
-	["blakewarrior-raden"]=7,
+	["blakewarrior-raden"]=0,
 	["blameblade-pagle"]=2,
 	["blamelucky-pagle"]=6,
 	["blankis-raden"]=6,
@@ -9240,7 +9239,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["sovice-raden"]=2,
 	["soyinfelíz-raden"]=6,
 	["soytupapi-pagle"]=9,
-	["spaak-raden"]=29,
+	["spaak-raden"]=14,
 	["space-raden"]=1,
 	["spala-pagle"]=0,
 	["sparas-raden"]=1,
@@ -9622,7 +9621,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["touchofdiddy-raden"]=4,
 	["toughstuff-raden"]=0,
 	["towjam-nazgrim"]=19,
-	["tøxic-nazgrim"]=14,
+	["tøxic-nazgrim"]=29,
 	["tóxica-pagle"]=34,
 	["toxiciguana-pagle"]=29,
 	["toxyc-galakras"]=21,
