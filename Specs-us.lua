@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5188 characters, read 2026-10-04 04:59 AM.
+-- Region us, 5188 characters, read 2026-10-04 05:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7523,7 +7523,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["largecoq-pagle"]=7,
 	["largecoqx-pagle"]=4,
 	["larissa-nazgrim"]=18,
-	["laritza-lei-shen"]=7,
+	["laritza-lei-shen"]=23,
 	["larvá-raden"]=6,
 	["lastone-immerseus"]=30,
 	["laterdeen-pagle"]=21,
@@ -7558,7 +7558,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["lekkia-pagle"]=9,
 	["leonidasxd-raden"]=7,
 	["leonidasxl-pagle"]=4,
-	["leowna-pagle"]=16,
+	["leowna-pagle"]=2,
 	["leownaa-pagle"]=2,
 	["lepermesiah-pagle"]=20,
 	["lepson-nazgrim"]=23,
@@ -8724,7 +8724,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["rethealadin-immerseus"]=16,
 	["reticence-pagle"]=10,
 	["retmainxd-raden"]=18,
-	["rétpáladin-raden"]=2,
+	["rétpáladin-raden"]=16,
 	["retrostance-galakras"]=2,
 	["revcole-raden"]=9,
 	["revènge-raden"]=7,
@@ -9359,7 +9359,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["stonêd-raden"]=16,
 	["stooter-nazgrim"]=5,
 	["stooty-nazgrim"]=7,
-	["stoptalkme-raden"]=10,
+	["stoptalkme-raden"]=4,
 	["stormdaddyx-pagle"]=22,
 	["størmie-raden"]=15,
 	["stormieskye-galakras"]=17,
@@ -9615,7 +9615,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["tøpg-raden"]=0,
 	["topshottaa-pagle"]=7,
 	["toquiktokill-benediction"]=20,
-	["torco-immerseus"]=3,
+	["torco-immerseus"]=18,
 	["torontopally-raden"]=2,
 	["tortaslayer-raden"]=4,
 	["toshyro-nazgrim"]=2,
@@ -9642,7 +9642,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["trapaholic-raden"]=3,
 	["trapandcrit-pagle"]=3,
 	["trapbot-raden"]=3,
-	["trapfiendx-raden"]=18,
+	["trapfiendx-raden"]=3,
 	["traplauncher-pagle"]=3,
 	["trapreckly-raden"]=3,
 	["träps-pagle"]=3,
@@ -9982,7 +9982,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["wwzug-raden"]=10,
 	["xaery-pagle"]=17,
 	["xaj-raden"]=5,
-	["xanacs-nazgrim"]=4,
+	["xanacs-nazgrim"]=10,
 	["xanaxlolz-galakras"]=12,
 	["xander-raden"]=24,
 	["xandxr-raden"]=24,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5317 characters, read 2026-10-04 05:00 AM.
+-- Region eu, 5317 characters, read 2026-10-04 06:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2468,7 +2468,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["mashleman-shekzeer"]=250,
 	["maskof-shekzeer"]=10,
 	["massivecnt-shekzeer"]=11,
-	["matiel-shekzeer"]=40,
+	["matiel-shekzeer"]=41,
 	["matinaa-shekzeer"]=11,
 	["matoh-shekzeer"]=10,
 	["matora-ook-ook"]=11,
@@ -4552,7 +4552,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["yezze-shekzeer"]=41,
 	["ygor-shekzeer"]=30,
 	["yhwatch-shekzeer"]=11,
-	["Ÿï-garalon"]=20,
+	["Ÿï-garalon"]=21,
 	["yinyán-shekzeer"]=11,
 	["yiro-shekzeer"]=40,
 	["ynneb-shekzeer"]=11,
@@ -6956,7 +6956,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["indié-everlook"]=6,
 	["indîe-everlook"]=1,
 	["ineedtopoo-shekzeer"]=15,
-	["ineo-shekzeer"]=5,
+	["ineo-shekzeer"]=15,
 	["inertemplier-shekzeer"]=15,
 	["infection-shekzeer"]=8,
 	["infectiøns-auberdine"]=9,
@@ -7657,7 +7657,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["maskof-shekzeer"]=1,
 	["massacro-gehennas"]=0,
 	["massivecnt-shekzeer"]=4,
-	["matiel-shekzeer"]=3,
+	["matiel-shekzeer"]=11,
 	["matinaa-shekzeer"]=14,
 	["matoh-shekzeer"]=15,
 	["matora-ook-ook"]=1,
@@ -7730,7 +7730,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["middlecrew-mirage-raceway"]=4,
 	["midi-shekzeer"]=21,
 	["midia-shekzeer"]=3,
-	["migliore-auberdine"]=4,
+	["migliore-auberdine"]=14,
 	["mihao-everlook"]=3,
 	["miirracle-everlook"]=26,
 	["mikagodx-shekzeer"]=16,
@@ -9681,7 +9681,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["whatwhat-shekzeer"]=6,
 	["wheelkick-shekzeer"]=7,
 	["wheelstorm-shekzeer"]=1,
-	["wheelygood-shekzeer"]=20,
+	["wheelygood-shekzeer"]=4,
 	["whereâreyûat-everlook"]=23,
 	["wheyx-shekzeer"]=12,
 	["wheyxthree-shekzeer"]=12,
