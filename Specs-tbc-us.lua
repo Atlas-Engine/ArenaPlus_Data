@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9528 characters, read 2026-10-04 05:58 AM.
+-- Region tbc-us, 9528 characters, read 2026-10-04 06:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12275,7 +12275,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["fknelson-nightslayer"]=5,
 	["flaako-nightslayer"]=7,
 	["flabbergast-nightslayer"]=1,
-	["flaberz-nightslayer"]=5,
+	["flaberz-nightslayer"]=8,
 	["flahka-dreamscythe"]=12,
 	["flako-nightslayer"]=1,
 	["flameleader-nightslayer"]=13,
@@ -13968,7 +13968,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["krsmaticx-nightslayer"]=24,
 	["krump-nightslayer"]=25,
 	["kruni-nightslayer"]=2,
-	["krunksd-nightslayer"]=3,
+	["krunksd-nightslayer"]=7,
 	["kruviana-nightslayer"]=1,
 	["krxmp-nightslayer"]=5,
 	["kryosan-nightslayer"]=5,
@@ -15806,7 +15806,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["pos-nightslayer"]=11,
 	["postmaløne-nightslayer"]=10,
 	["postmalorne-nightslayer"]=22,
-	["potatoex-nightslayer"]=1,
+	["potatoex-nightslayer"]=14,
 	["potionceler-dreamscythe"]=4,
 	["pouncecake-nightslayer"]=3,
 	["pôundtown-nightslayer"]=5,
@@ -18067,7 +18067,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["uld-dreamscythe"]=18,
 	["ulf-nightslayer"]=5,
 	["ullaron-nightslayer"]=2,
-	["ulrick-dreamscythe"]=24,
+	["ulrick-dreamscythe"]=10,
 	["ulríck-dreamscythe"]=7,
 	["ultrah-nightslayer"]=3,
 	["ultrainstnct-dreamscythe"]=2,
@@ -18435,7 +18435,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["whateverz-nightslayer"]=16,
 	["whattehpho-dreamscythe"]=5,
 	["whatthefk-nightslayer"]=12,
-	["whatupcuhh-nightslayer"]=5,
+	["whatupcuhh-nightslayer"]=8,
 	["whatwindfury-nightslayer"]=19,
 	["wheatchex-nightslayer"]=23,
 	["wheeznation-dreamscythe"]=13,

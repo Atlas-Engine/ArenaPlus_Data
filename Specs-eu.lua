@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5317 characters, read 2026-10-04 06:00 AM.
+-- Region eu, 5317 characters, read 2026-10-04 07:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3886,7 +3886,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["sweetsheart-shekzeer"]=11,
 	["swiftygolas-everlook"]=41,
 	["swinnyqt-garalon"]=10,
-	["swipe-hoptallus"]=10,
 	["swoleberg-everlook"]=70,
 	["swoorlz-everlook"]=11,
 	["swpdez-shekzeer"]=51,
@@ -4288,6 +4287,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["vëx-shekzeer"]=10,
 	["veyn-shekzeer"]=10,
 	["vezir-shekzeer"]=220,
+	["videostore-shekzeer"]=11,
 	["viint-shekzeer"]=11,
 	["vïïnt-shekzeer"]=41,
 	["vilenciaga-shekzeer"]=11,
@@ -6407,7 +6407,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["facesmasher-shekzeer"]=0,
 	["faelivryn-ook-ook"]=9,
 	["fær-shekzeer"]=9,
-	["faithful-everlook"]=17,
+	["faithful-everlook"]=23,
 	["fakekickqt-everlook"]=5,
 	["fakenurse-shekzeer"]=9,
 	["fakepriest-shekzeer"]=23,
@@ -9152,7 +9152,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["swiftygolas-everlook"]=4,
 	["swinebutcher-shekzeer"]=0,
 	["swinnyqt-garalon"]=5,
-	["swipe-hoptallus"]=24,
 	["swoleberg-everlook"]=31,
 	["swoorlz-everlook"]=9,
 	["swpdez-shekzeer"]=6,
@@ -9575,6 +9574,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["veyn-shekzeer"]=24,
 	["vezir-shekzeer"]=11,
 	["victuz-gehennas"]=0,
+	["videostore-shekzeer"]=20,
 	["viint-shekzeer"]=8,
 	["vïïnt-shekzeer"]=21,
 	["vilenciaga-shekzeer"]=1,
