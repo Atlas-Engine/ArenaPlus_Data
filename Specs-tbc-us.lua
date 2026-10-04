@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9538 characters, read 2026-10-04 07:58 AM.
+-- Region tbc-us, 9538 characters, read 2026-10-04 08:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -15619,7 +15619,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["peperoh-dreamscythe"]=2,
 	["peppabear-nightslayer"]=3,
 	["peppinö-dreamscythe"]=0,
-	["pépsicola-nightslayer"]=2,
+	["pépsicola-nightslayer"]=18,
 	["pepsimaxxer-nightslayer"]=2,
 	["percachet-nightslayer"]=16,
 	["perceptioned-nightslayer"]=5,
@@ -16138,7 +16138,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["redmaxx-dreamscythe"]=4,
 	["redneckwo-nightslayer"]=19,
 	["redpally-nightslayer"]=9,
-	["redqt-nightslayer"]=4,
+	["redqt-nightslayer"]=6,
 	["redram-nightslayer"]=10,
 	["redsouls-dreamscythe"]=1,
 	["redvalor-dreamscythe"]=5,
@@ -18745,7 +18745,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["yhaman-nightslayer"]=10,
 	["yikiya-nightslayer"]=8,
 	["yins-nightslayer"]=1,
-	["yinza-dreamscythe"]=13,
+	["yinza-dreamscythe"]=16,
 	["yisele-dreamscythe"]=7,
 	["yizzi-nightslayer"]=7,
 	["yizzy-nightslayer"]=5,
@@ -18925,7 +18925,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["zipzaptom-nightslayer"]=19,
 	["zirenn-nightslayer"]=3,
 	["zirk-nightslayer"]=2,
-	["zithers-dreamscythe"]=13,
+	["zithers-dreamscythe"]=16,
 	["zizugg-dreamscythe"]=19,
 	["zlatt-dreamscythe"]=10,
 	["zlocky-nightslayer"]=13,

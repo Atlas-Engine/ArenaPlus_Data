@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5188 characters, read 2026-10-04 07:59 AM.
+-- Region us, 5188 characters, read 2026-10-04 08:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2356,6 +2356,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["keyastan-galakras"]=100,
 	["keyglock-pagle"]=10,
 	["kfcmanäger-pagle"]=50,
+	["kfcx-benediction"]=11,
 	["khaede-raden"]=31,
 	["khanofwind-pagle"]=10,
 	["khastyel-pagle"]=10,
@@ -6841,7 +6842,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["gyyattso-raden"]=4,
 	["habibi-arugal-au"]=1,
 	["hábibi-raden"]=17,
-	["hadeyss-lei-shen"]=14,
+	["hadeyss-lei-shen"]=29,
 	["hadíl-pagle"]=1,
 	["hadoukeen-raden"]=1,
 	["hadoukenwwtv-pagle"]=10,
@@ -7019,7 +7020,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["hufflepuffr-pagle"]=1,
 	["hugehammr-lei-shen"]=16,
 	["hulksmashnow-lei-shen"]=7,
-	["humanpvpisez-pagle"]=4,
+	["humanpvpisez-pagle"]=10,
 	["hummuss-raden"]=7,
 	["hùnáy-pagle"]=11,
 	["hungfoo-pagle"]=6,
@@ -7053,7 +7054,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ianduncan-pagle"]=28,
 	["iarra-pagle"]=13,
 	["iaspis-nazgrim"]=7,
-	["ibituã-nazgrim"]=5,
+	["ibituã-nazgrim"]=17,
 	["iboptanks-nazgrim"]=2,
 	["ibuildwalls-pagle"]=24,
 	["icarryhim-galakras"]=20,
@@ -7399,7 +7400,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["keyastan-galakras"]=21,
 	["keyglock-pagle"]=10,
 	["kfcmanäger-pagle"]=9,
-	["kfcx-benediction"]=0,
+	["kfcx-benediction"]=3,
 	["khaede-raden"]=15,
 	["khanofwind-pagle"]=4,
 	["khastyel-pagle"]=24,
