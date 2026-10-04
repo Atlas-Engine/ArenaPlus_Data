@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9899 characters, read 2026-10-04 09:59 AM.
+-- Region tbc-eu, 9899 characters, read 2026-10-04 10:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11720,7 +11720,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["deserving-spineshatter"]=2,
 	["desii-spineshatter"]=1,
 	["desm-spineshatter"]=9,
-	["desmondome-spineshatter"]=11,
+	["desmondome-spineshatter"]=12,
 	["desmotis-spineshatter"]=2,
 	["despahito-spineshatter"]=8,
 	["desparà-thunderstrike"]=3,
@@ -13003,7 +13003,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["gnougito-spineshatter"]=8,
 	["gnuss-spineshatter"]=1,
 	["goatedjeed-spineshatter"]=11,
-	["goatetta-thunderstrike"]=23,
+	["goatetta-thunderstrike"]=11,
 	["goatfarmette-thunderstrike"]=5,
 	["gòatman-spineshatter"]=6,
 	["goatminator-spineshatter"]=11,
@@ -14508,7 +14508,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["latutte-spineshatter"]=2,
 	["lause-spineshatter"]=12,
 	["lauviah-spineshatter"]=0,
-	["laveerre-spineshatter"]=24,
+	["laveerre-spineshatter"]=25,
 	["lavíto-spineshatter"]=3,
 	["lavkarbo-spineshatter"]=3,
 	["lavmian-spineshatter"]=15,
@@ -15669,7 +15669,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["nelmoh-spineshatter"]=3,
 	["nelthari-spineshatter"]=1,
 	["nelton-spineshatter"]=9,
-	["neltron-spineshatter"]=5,
+	["neltron-spineshatter"]=15,
 	["nembuss-spineshatter"]=2,
 	["nennekk-spineshatter"]=1,
 	["neofin-spineshatter"]=3,
@@ -17256,7 +17256,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["scraggily-spineshatter"]=2,
 	["scratchx-spineshatter"]=13,
 	["scratchz-spineshatter"]=3,
-	["scratm-spineshatter"]=4,
+	["scratm-spineshatter"]=9,
 	["screamx-spineshatter"]=3,
 	["screepér-thunderstrike"]=14,
 	["screpy-spineshatter"]=5,
@@ -18951,7 +18951,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["vexaction-spineshatter"]=9,
 	["vexontop-spineshatter"]=14,
 	["veylorth-spineshatter"]=3,
-	["veyny-spineshatter"]=1,
+	["veyny-spineshatter"]=6,
 	["vezz-spineshatter"]=14,
 	["vgone-spineshatter"]=5,
 	["vhalnyr-thunderstrike"]=7,

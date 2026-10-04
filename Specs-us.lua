@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5188 characters, read 2026-10-04 09:59 AM.
+-- Region us, 5188 characters, read 2026-10-04 10:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3092,7 +3092,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["njoys-raden"]=11,
 	["nnyte-pagle"]=11,
 	["noä-pagle"]=21,
-	["nóa-pagle"]=11,
+	["nóa-pagle"]=10,
 	["nocarry-raden"]=11,
 	["nocense-immerseus"]=100,
 	["noclonejones-raden"]=41,
@@ -3728,7 +3728,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["ryuù-raden"]=11,
 	["sabracadabra-raden"]=11,
 	["sacér-raden"]=10,
-	["sácera-raden"]=11,
+	["sácera-raden"]=10,
 	["sactrac-nazgrim"]=21,
 	["sadarade-raden"]=11,
 	["sadism-pagle"]=11,
@@ -6223,7 +6223,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dreynite-pagle"]=6,
 	["drfault-immerseus"]=5,
 	["drgspit-pagle"]=28,
-	["drhub-galakras"]=21,
+	["drhub-galakras"]=13,
 	["driadstorm-raden"]=12,
 	["drinkbeerz-raden"]=12,
 	["dripkingk-pagle"]=1,
@@ -6649,7 +6649,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["galvaron-pagle"]=2,
 	["gambezee-raden"]=21,
 	["gamingfiend-raden"]=21,
-	["gamjatang-galakras"]=4,
+	["gamjatang-galakras"]=10,
 	["gamßezee-raden"]=15,
 	["gandolfthgey-raden"]=1,
 	["gangalee-raden"]=22,
@@ -7365,7 +7365,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["katharsh-pagle"]=9,
 	["kâto-pagle"]=16,
 	["kavarnxx-raden"]=28,
-	["kawika-pagle"]=16,
+	["kawika-pagle"]=32,
 	["kazakuz-raden"]=21,
 	["kazamon-pagle"]=24,
 	["kcidymkcus-arugal-au"]=0,
@@ -8183,7 +8183,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["njoys-raden"]=3,
 	["nnyte-pagle"]=14,
 	["noä-pagle"]=3,
-	["nóa-pagle"]=4,
+	["nóa-pagle"]=10,
 	["nocarry-raden"]=10,
 	["nocense-immerseus"]=13,
 	["noclonejones-raden"]=5,
@@ -9791,7 +9791,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["varrè-lei-shen"]=6,
 	["varyags-pagle"]=17,
 	["vathanish-galakras"]=16,
-	["veddr-galakras"]=2,
+	["veddr-galakras"]=16,
 	["veegeettaa-raden"]=2,
 	["veidaz-raden"]=0,
 	["velcer-raden"]=11,

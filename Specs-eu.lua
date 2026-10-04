@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5317 characters, read 2026-10-04 10:00 AM.
+-- Region eu, 5317 characters, read 2026-10-04 11:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5903,7 +5903,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["cips-mirage-raceway"]=11,
 	["ciutix-mirage-raceway"]=4,
 	["cizzo-shekzeer"]=21,
-	["ckk-shekzeer"]=14,
+	["ckk-shekzeer"]=4,
 	["claimitko-shekzeer"]=26,
 	["claimytko-shekzeer"]=10,
 	["clamdown-mirage-raceway"]=3,
@@ -6781,7 +6781,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["headshottss-shekzeer"]=4,
 	["headzhot-shekzeer"]=4,
 	["healbooster-mirage-raceway"]=3,
-	["héälböt-mirage-raceway"]=7,
+	["héälböt-mirage-raceway"]=29,
 	["healing-shekzeer"]=6,
 	["healman-shekzeer"]=5,
 	["healryclntn-mirage-raceway"]=9,
@@ -7816,7 +7816,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["momequ-norushen"]=2,
 	["momine-shekzeer"]=3,
 	["momíne-shekzeer"]=3,
-	["monais-shekzeer"]=16,
+	["monais-shekzeer"]=13,
 	["monduk-auberdine"]=7,
 	["moneylong-shekzeer"]=17,
 	["mongoliamonk-hoptallus"]=13,
@@ -7959,7 +7959,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["nectix-shekzeer"]=1,
 	["needmoremana-shekzeer"]=9,
 	["needmorerage-shekzeer"]=1,
-	["nefer-garalon"]=3,
+	["nefer-garalon"]=11,
 	["neferpitøu-everlook"]=13,
 	["nëgân-auberdine"]=24,
 	["nehlwtf-auberdine"]=15,
@@ -9409,7 +9409,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["tslx-shekzeer"]=13,
 	["tsouvirak-garalon"]=1,
 	["tsüfî-mirage-raceway"]=15,
-	["tsukasà-auberdine"]=13,
+	["tsukasà-auberdine"]=16,
 	["tsukuyommi-garalon"]=3,
 	["tsutso-shekzeer"]=1,
 	["tsutsu-auberdine"]=6,
@@ -9734,7 +9734,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["wnky-shekzeer"]=5,
 	["wodarmsopx-shekzeer"]=1,
 	["wodclassicwr-shekzeer"]=5,
-	["wodenjoyer-shekzeer"]=17,
+	["wodenjoyer-shekzeer"]=28,
 	["woippeÿ-shekzeer"]=30,
 	["woippret-shekzeer"]=5,
 	["wølfgunx-everlook"]=4,
