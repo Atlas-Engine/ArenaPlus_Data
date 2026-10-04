@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9509 characters, read 2026-10-04 01:58 PM.
+-- Region tbc-us, 9509 characters, read 2026-10-04 02:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11624,7 +11624,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["dougthar-nightslayer"]=19,
 	["dougx-nightslayer"]=2,
 	["doujaberry-nightslayer"]=1,
-	["douzrey-dreamscythe"]=2,
+	["douzrey-dreamscythe"]=18,
 	["downyz-nightslayer"]=24,
 	["doxmage-nightslayer"]=4,
 	["doxshaman-nightslayer"]=19,
@@ -14187,7 +14187,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["littlepuffer-nightslayer"]=17,
 	["liveornot-nightslayer"]=10,
 	["liviax-nightslayer"]=5,
-	["livit-dreamscythe"]=7,
+	["livit-dreamscythe"]=3,
 	["lizardwar-nightslayer"]=2,
 	["lj-nightslayer"]=2,
 	["lladael-dreamscythe"]=0,
@@ -14301,7 +14301,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ludessita-nightslayer"]=14,
 	["luhvv-nightslayer"]=13,
 	["luiyiz-nightslayer"]=11,
-	["lukë-nightslayer"]=5,
+	["lukë-nightslayer"]=8,
 	["luked-nightslayer"]=22,
 	["lukeps-nightslayer"]=1,
 	["lukex-nightslayer"]=5,
@@ -15559,7 +15559,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["pek-nightslayer"]=16,
 	["pekoe-nightslayer"]=12,
 	["peladini-nightslayer"]=11,
-	["pelafin-nightslayer"]=8,
+	["pelafin-nightslayer"]=5,
 	["pelusa-nightslayer"]=5,
 	["penancé-nightslayer"]=1,
 	["pénance-nightslayer"]=1,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5188 characters, read 2026-10-04 01:59 PM.
+-- Region us, 5188 characters, read 2026-10-04 02:54 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -869,7 +869,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["cottenijoe-pagle"]=91,
 	["coughmed-arugal-au"]=70,
 	["coughsizzurp-galakras"]=11,
-	["covidhoj-pagle"]=11,
 	["coxãoduro-pagle"]=60,
 	["coyson-immerseus"]=10,
 	["cozeno-pagle"]=41,
@@ -5845,7 +5844,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["cottenijoe-pagle"]=15,
 	["coughmed-arugal-au"]=24,
 	["coughsizzurp-galakras"]=18,
-	["covidhoj-pagle"]=16,
+	["covidhoj-pagle"]=0,
 	["cowboyup-pagle"]=0,
 	["coxãoduro-pagle"]=5,
 	["coyson-immerseus"]=29,
@@ -6018,7 +6017,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["deebonology-pagle"]=8,
 	["dèèdaniels-lei-shen"]=16,
 	["dêêdaniels-lei-shen"]=1,
-	["deedaniels-raden"]=14,
+	["deedaniels-raden"]=29,
 	["deedanielss-lei-shen"]=5,
 	["deepsïx-nazgrim"]=25,
 	["deepwounds-raden"]=7,

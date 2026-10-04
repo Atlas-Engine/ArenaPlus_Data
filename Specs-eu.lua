@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5316 characters, read 2026-10-04 02:00 PM.
+-- Region eu, 5316 characters, read 2026-10-04 03:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3434,7 +3434,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["rydotheret-everlook"]=10,
 	["rydotheroq-everlook"]=11,
 	["rydothetrap-everlook"]=11,
-	["rydothetwink-everlook"]=41,
+	["rydothetwink-everlook"]=40,
 	["rydothewar-everlook"]=11,
 	["rydothewl-everlook"]=10,
 	["ryles-hoptallus"]=10,
@@ -6118,7 +6118,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["diidact-shekzeer"]=7,
 	["diikayz-shekzeer"]=8,
 	["dikiy-shekzeer"]=31,
-	["dimako-shekzeer"]=21,
+	["dimako-shekzeer"]=11,
 	["dimsumfu-shekzeer"]=0,
 	["dindriezz-everlook"]=2,
 	["dinhoo-mirage-raceway"]=22,
@@ -6142,7 +6142,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["diskotrisko-norushen"]=9,
 	["dispelz-shekzeer"]=9,
 	["disperse-mirage-raceway"]=9,
-	["dispersio-mirage-raceway"]=3,
+	["dispersio-mirage-raceway"]=21,
 	["distørdëx-shekzeer"]=9,
 	["dizharmonia-shekzeer"]=14,
 	["djabdel-auberdine"]=21,
@@ -6274,7 +6274,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["dwgz-shekzeer"]=9,
 	["dxab-shekzeer"]=22,
 	["dxbam-shekzeer"]=9,
-	["dxbamoon-shekzeer"]=29,
+	["dxbamoon-shekzeer"]=7,
 	["dxbom-shekzeer"]=3,
 	["dynarsia-shekzeer"]=3,
 	["dynther-shekzeer"]=1,
