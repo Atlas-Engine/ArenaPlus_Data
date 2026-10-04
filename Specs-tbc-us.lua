@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9509 characters, read 2026-10-04 02:58 PM.
+-- Region tbc-us, 9509 characters, read 2026-10-04 03:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10787,7 +10787,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["chegorina-nightslayer"]=1,
 	["chegorita-nightslayer"]=1,
 	["cherbz-dreamscythe"]=1,
-	["cheryxx-nightslayer"]=6,
+	["cheryxx-nightslayer"]=4,
 	["cheshirez-nightslayer"]=0,
 	["chestday-nightslayer"]=10,
 	["chewtoy-nightslayer"]=10,
@@ -13191,7 +13191,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["icaerys-dreamscythe"]=11,
 	["icannotseal-nightslayer"]=11,
 	["icanseeyou-nightslayer"]=13,
-	["iceagentx-nightslayer"]=23,
+	["iceagentx-nightslayer"]=13,
 	["iceblightr-nightslayer"]=5,
 	["iceblockx-nightslayer"]=6,
 	["icebreakers-nightslayer"]=4,
@@ -15434,7 +15434,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["overanalyze-nightslayer"]=25,
 	["Ôverlòad-dreamscythe"]=24,
 	["overtaken-nightslayer"]=5,
-	["owltwistax-nightslayer"]=19,
+	["owltwistax-nightslayer"]=10,
 	["oxee-nightslayer"]=18,
 	["oxii-nightslayer"]=1,
 	["oxilol-nightslayer"]=19,
@@ -16664,7 +16664,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["shamfuku-dreamscythe"]=10,
 	["shamiboy-nightslayer"]=10,
 	["shamilli-nightslayer"]=19,
-	["shamisham-nightslayer"]=10,
+	["shamisham-nightslayer"]=19,
 	["shammix-nightslayer"]=19,
 	["shamoonist-dreamscythe"]=24,
 	["shamorkey-nightslayer"]=10,
