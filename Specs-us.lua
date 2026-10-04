@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5188 characters, read 2026-10-04 12:59 PM.
+-- Region us, 5188 characters, read 2026-10-04 01:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1395,7 +1395,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["estebonlol-pagle"]=50,
 	["eternalslave-pagle"]=10,
 	["eucerin-raden"]=20,
-	["euspy-raden"]=10,
 	["eustaquio-raden"]=10,
 	["evasif-arugal-au"]=11,
 	["everannaqt-pagle"]=11,
@@ -4711,6 +4710,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["washedx-raden"]=11,
 	["wasntmedad-pagle"]=100,
 	["wasreported-raden"]=11,
+	["wâtér-galakras"]=30,
 	["waveey-lei-shen"]=10,
 	["waveman-lei-shen"]=11,
 	["waynekritzky-raden"]=10,
@@ -6401,7 +6401,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["estebonlol-pagle"]=14,
 	["eternalslave-pagle"]=7,
 	["eucerin-raden"]=6,
-	["euspy-raden"]=1,
 	["eustaquio-raden"]=7,
 	["evasif-arugal-au"]=3,
 	["everannaqt-pagle"]=25,
@@ -8878,7 +8877,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["sanguinärio-pagle"]=12,
 	["sanguinious-lei-shen"]=30,
 	["sàngüinius-pagle"]=2,
-	["saphiiry-galakras"]=12,
+	["saphiiry-galakras"]=33,
 	["saplight-galakras"]=0,
 	["sapoo-pagle"]=14,
 	["sappinturtle-pagle"]=14,
@@ -8921,7 +8920,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["schémes-galakras"]=4,
 	["schèmes-galakras"]=4,
 	["schmiky-raden"]=12,
-	["schmux-galakras"]=16,
+	["schmux-galakras"]=2,
 	["schoxk-raden"]=22,
 	["schrodanger-pagle"]=5,
 	["schwarzanaga-pagle"]=22,
@@ -9893,6 +9892,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["washedx-raden"]=14,
 	["wasntmedad-pagle"]=13,
 	["wasreported-raden"]=10,
+	["wâtér-galakras"]=2,
 	["waveey-lei-shen"]=16,
 	["waveman-lei-shen"]=1,
 	["waynekritzky-raden"]=20,

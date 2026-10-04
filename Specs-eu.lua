@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5316 characters, read 2026-10-04 01:00 PM.
+-- Region eu, 5316 characters, read 2026-10-04 02:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6227,7 +6227,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["dreakkova-shekzeer"]=12,
 	["dreamchaser-shekzeer"]=21,
 	["dreamfox-shekzeer"]=6,
-	["dreamhunnt-mirage-raceway"]=4,
+	["dreamhunnt-mirage-raceway"]=20,
 	["dreckavac-shekzeer"]=9,
 	["dreizweieins-shekzeer"]=24,
 	["dréwa-auberdine"]=26,
@@ -6323,7 +6323,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["elemanth-shekzeer"]=16,
 	["elendîl-shekzeer"]=15,
 	["Êlestê-shekzeer"]=15,
-	["elf-shekzeer"]=21,
+	["elf-shekzeer"]=3,
 	["elfie-shekzeer"]=12,
 	["elfiee-shekzeer"]=24,
 	["elgh-shekzeer"]=20,
@@ -8314,7 +8314,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["phellian-shekzeer"]=2,
 	["pheya-shekzeer"]=0,
 	["phicon-shekzeer"]=17,
-	["phillack-everlook"]=26,
+	["phillack-everlook"]=34,
 	["phillip-shekzeer"]=4,
 	["phishing-shekzeer"]=4,
 	["phoemchu-everlook"]=3,
@@ -8948,7 +8948,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["smileyslayer-mirage-raceway"]=4,
 	["smille-shekzeer"]=5,
 	["smirnoffice-shekzeer"]=3,
-	["smîte-shekzeer"]=22,
+	["smîte-shekzeer"]=12,
 	["smo-shekzeer"]=11,
 	["smokepûrp-shekzeer"]=23,
 	["smokerz-mirage-raceway"]=24,

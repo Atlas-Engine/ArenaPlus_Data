@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9892 characters, read 2026-10-04 12:54 PM.
+-- Region tbc-eu, 9892 characters, read 2026-10-04 01:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -13411,7 +13411,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["hpalxd-spineshatter"]=7,
 	["hqhq-thunderstrike"]=3,
 	["hqte-spineshatter"]=3,
-	["hsankor-spineshatter"]=8,
+	["hsankor-spineshatter"]=2,
 	["hubschrauber-spineshatter"]=8,
 	["huccí-spineshatter"]=10,
 	["huertas-spineshatter"]=5,
@@ -15013,7 +15013,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["mattlas-thunderstrike"]=13,
 	["mattz-spineshatter"]=5,
 	["matum-spineshatter"]=2,
-	["matyus-spineshatter"]=7,
+	["matyus-spineshatter"]=10,
 	["mauglixd-spineshatter"]=4,
 	["maukass-spineshatter"]=6,
 	["maurhpsuxh-spineshatter"]=8,
@@ -17191,7 +17191,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["savageqt-spineshatter"]=1,
 	["saviola-spineshatter"]=1,
 	["sawax-spineshatter"]=23,
-	["saylar-spineshatter"]=19,
+	["saylar-spineshatter"]=3,
 	["saynzz-spineshatter"]=23,
 	["sayonaraz-spineshatter"]=3,
 	["sbøb-spineshatter"]=11,
@@ -17579,7 +17579,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["siquu-spineshatter"]=3,
 	["sisäfile-spineshatter"]=12,
 	["siuer-thunderstrike"]=7,
-	["sixsevên-spineshatter"]=23,
+	["sixsevên-spineshatter"]=11,
 	["sixsevennine-spineshatter"]=11,
 	["sixtenlol-spineshatter"]=2,
 	["sixthdemon-thunderstrike"]=13,
@@ -18287,7 +18287,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["tbchypè-spineshatter"]=9,
 	["tbcjocke-spineshatter"]=2,
 	["tbckek-spineshatter"]=5,
-	["tbcpveandy-spineshatter"]=16,
+	["tbcpveandy-spineshatter"]=25,
 	["tbctourist-spineshatter"]=2,
 	["tbcwhenlol-spineshatter"]=2,
 	["tbcxyesos-spineshatter"]=1,
