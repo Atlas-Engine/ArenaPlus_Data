@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9538 characters, read 2026-10-04 08:58 AM.
+-- Region tbc-us, 9538 characters, read 2026-10-04 09:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9660,7 +9660,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["anabolicrl-nightslayer"]=5,
 	["anakïn-nightslayer"]=5,
 	["analtater-nightslayer"]=2,
-	["anaståsia-nightslayer"]=1,
+	["anaståsia-nightslayer"]=12,
 	["anathe-nightslayer"]=3,
 	["anavarkazar-nightslayer"]=2,
 	["andinas-dreamscythe"]=7,
@@ -15367,7 +15367,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["okaybud-dreamscythe"]=2,
 	["okaybuddy-nightslayer"]=13,
 	["oku-nightslayer"]=14,
-	["okusang-nightslayer"]=10,
+	["okusang-nightslayer"]=24,
 	["olchungus-nightslayer"]=6,
 	["oldandslow-nightslayer"]=2,
 	["oldbc-nightslayer"]=19,
@@ -15621,7 +15621,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["peppinö-dreamscythe"]=0,
 	["pépsicola-nightslayer"]=18,
 	["pepsimaxxer-nightslayer"]=2,
-	["percachet-nightslayer"]=16,
+	["percachet-nightslayer"]=13,
 	["perceptioned-nightslayer"]=5,
 	["percprot-nightslayer"]=11,
 	["peremi-nightslayer"]=1,
@@ -18086,7 +18086,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["uld-dreamscythe"]=18,
 	["ulf-nightslayer"]=5,
 	["ullaron-nightslayer"]=2,
-	["ulrick-dreamscythe"]=10,
+	["ulrick-dreamscythe"]=24,
 	["ulríck-dreamscythe"]=7,
 	["ultrah-nightslayer"]=3,
 	["ultrainstnct-dreamscythe"]=2,
@@ -18143,7 +18143,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["uselessdudu-nightslayer"]=7,
 	["uselesshpal-nightslayer"]=9,
 	["uselessx-nightslayer"]=1,
-	["uselessxd-nightslayer"]=2,
+	["uselessxd-nightslayer"]=20,
 	["usice-nightslayer"]=6,
 	["utilzer-nightslayer"]=7,
 	["uwiththefeds-nightslayer"]=24,
@@ -18978,7 +18978,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["zulbruh-dreamscythe"]=19,
 	["zulkyx-nightslayer"]=14,
 	["zullia-dreamscythe"]=4,
-	["zumion-nightslayer"]=14,
+	["zumion-nightslayer"]=12,
 	["zurgs-dreamscythe"]=13,
 	["zurgzz-nightslayer"]=2,
 	["zurnr-dreamscythe"]=5,
