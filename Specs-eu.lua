@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5314 characters, read 2026-10-03 07:00 PM.
+-- Region eu, 5314 characters, read 2026-10-03 08:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3422,7 +3422,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["rv-shekzeer"]=10,
 	["rx-shekzeer"]=11,
 	["rxsebøy-auberdine"]=11,
-	["rýdøthâðwlx-everlook"]=40,
+	["rýdøthâðwlx-everlook"]=41,
 	["rydothedk-everlook"]=11,
 	["rýdøthègøátx-everlook"]=110,
 	["rydotheholy-everlook"]=10,
@@ -5445,7 +5445,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["ayaya-ook-ook"]=6,
 	["aydan-shekzeer"]=2,
 	["aydedee-garalon"]=20,
-	["ayleena-mirage-raceway"]=6,
+	["ayleena-mirage-raceway"]=7,
 	["ayleenaah-ook-ook"]=31,
 	["ayloupipi-shekzeer"]=2,
 	["ayuaha-shekzeer"]=16,
@@ -9893,7 +9893,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["zahide-shekzeer"]=24,
 	["zaînà-auberdine"]=12,
 	["zajko-mirage-raceway"]=33,
-	["zajo-mirage-raceway"]=16,
+	["zajo-mirage-raceway"]=19,
 	["zaperoni-shekzeer"]=16,
 	["zapoi-auberdine"]=2,
 	["zapshemalio-auberdine"]=16,
