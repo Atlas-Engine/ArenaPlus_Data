@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5317 characters, read 2026-10-04 07:00 AM.
+-- Region eu, 5317 characters, read 2026-10-04 08:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -298,6 +298,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["Àrsène-auberdine"]=50,
 	["arteyo-shekzeer"]=40,
 	["arti-shekzeer"]=11,
+	["arunx-shekzeer"]=11,
 	["Àrween-auberdine"]=41,
 	["arÿà-auberdine"]=11,
 	["asapdot-shekzeer"]=11,
@@ -5379,7 +5380,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["arti-shekzeer"]=4,
 	["arun-garalon"]=0,
 	["arun-shekzeer"]=0,
-	["arunx-shekzeer"]=0,
+	["arunx-shekzeer"]=2,
 	["Àrween-auberdine"]=3,
 	["arxn-shekzeer"]=0,
 	["arÿà-auberdine"]=15,
@@ -5649,7 +5650,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bloodytrace-shekzeer"]=4,
 	["bluetoad-shekzeer"]=15,
 	["bluevoidd-shekzeer"]=28,
-	["blushxoxo-shekzeer"]=24,
+	["blushxoxo-shekzeer"]=26,
 	["blyatmanx-shekzeer"]=14,
 	["bmsk-shekzeer"]=6,
 	["bmskp-shekzeer"]=5,

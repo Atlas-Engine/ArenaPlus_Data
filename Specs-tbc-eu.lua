@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9912 characters, read 2026-10-04 06:59 AM.
+-- Region tbc-eu, 9912 characters, read 2026-10-04 07:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -15285,7 +15285,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["mirsa-spineshatter"]=2,
 	["mìsá-thunderstrike"]=3,
 	["mîsêry-spineshatter"]=9,
-	["mishaeqimi-spineshatter"]=8,
+	["mishaeqimi-spineshatter"]=2,
 	["míshan-spineshatter"]=15,
 	["mishdrood-spineshatter"]=1,
 	["mishigan-thunderstrike"]=11,
@@ -15463,7 +15463,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["muarin-spineshatter"]=6,
 	["muchachauss-thunderstrike"]=2,
 	["muchachoz-spineshatter"]=2,
-	["muchfaid-thunderstrike"]=19,
+	["muchfaid-thunderstrike"]=3,
 	["muchlord-thunderstrike"]=11,
 	["muciélago-spineshatter"]=1,
 	["mück-spineshatter"]=3,
@@ -16262,7 +16262,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["pekerogue-spineshatter"]=3,
 	["pekkahpig-spineshatter"]=15,
 	["pekkahx-spineshatter"]=11,
-	["pekzugzug-thunderstrike"]=5,
+	["pekzugzug-thunderstrike"]=22,
 	["pellex-spineshatter"]=2,
 	["pelsklumpen-thunderstrike"]=12,
 	["penancehero-spineshatter"]=2,
@@ -18742,7 +18742,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["twigsbee-spineshatter"]=25,
 	["twinii-spineshatter"]=13,
 	["twinklolz-spineshatter"]=3,
-	["twinkøff-spineshatter"]=18,
+	["twinkøff-spineshatter"]=13,
 	["twinsqt-spineshatter"]=23,
 	["twisky-spineshatter"]=4,
 	["twistaaja-spineshatter"]=7,
@@ -19093,7 +19093,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["wadlol-spineshatter"]=3,
 	["wadufaq-spineshatter"]=3,
 	["wagyuheals-spineshatter"]=1,
-	["wagyumommy-spineshatter"]=4,
+	["wagyumommy-spineshatter"]=9,
 	["wagyuyu-spineshatter"]=1,
 	["wahchii-thunderstrike"]=8,
 	["wahum-spineshatter"]=8,
