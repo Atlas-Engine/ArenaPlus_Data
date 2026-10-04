@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5317 characters, read 2026-10-04 12:00 AM.
+-- Region eu, 5317 characters, read 2026-10-04 01:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4291,7 +4291,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["viint-shekzeer"]=11,
 	["vïïnt-shekzeer"]=41,
 	["vilenciaga-shekzeer"]=11,
-	["vindictive-shekzeer"]=11,
+	["vindictive-shekzeer"]=10,
 	["vint-garalon"]=11,
 	["vínt-shekzeer"]=11,
 	["vïnt-shekzeer"]=11,
@@ -4392,6 +4392,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["wheelygood-shekzeer"]=11,
 	["whereâreyûat-everlook"]=11,
 	["wheyx-shekzeer"]=11,
+	["wheyxthree-shekzeer"]=11,
 	["wheyxw-shekzeer"]=11,
 	["whipmepls-shekzeer"]=11,
 	["whisp-garalon"]=41,
@@ -6123,7 +6124,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["dimsumfu-shekzeer"]=0,
 	["dindriezz-everlook"]=2,
 	["dinhoo-mirage-raceway"]=22,
-	["Ðïønysus-garalon"]=13,
+	["Ðïønysus-garalon"]=16,
 	["Ðionysus-shekzeer"]=16,
 	["Ðiønysus-shekzeer"]=13,
 	["Ðîóñýsûs-shekzeer"]=6,
@@ -8361,7 +8362,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["politician-shekzeer"]=26,
 	["polynesia-shekzeer"]=2,
 	["ponthuntxd-shekzeer"]=4,
-	["poofacee-shekzeer"]=20,
+	["poofacee-shekzeer"]=14,
 	["poohbear-shekzeer"]=13,
 	["pøøks-shekzeer"]=11,
 	["pooshooter-shekzeer"]=14,
@@ -9577,7 +9578,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["viint-shekzeer"]=8,
 	["vïïnt-shekzeer"]=21,
 	["vilenciaga-shekzeer"]=1,
-	["vindictive-shekzeer"]=7,
+	["vindictive-shekzeer"]=6,
 	["vint-garalon"]=9,
 	["vínt-shekzeer"]=2,
 	["vïnt-shekzeer"]=15,
@@ -9619,7 +9620,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["votrelec-shekzeer"]=19,
 	["vozir-shekzeer"]=11,
 	["vrct-shekzeer"]=6,
-	["vrctx-shekzeer"]=0,
 	["vrty-shekzeer"]=9,
 	["vru-shekzeer"]=11,
 	["vtuberwalle-shekzeer"]=16,
@@ -9684,7 +9684,8 @@ ns.SPECS_BY_REGION["eu"] = {
 	["wheelygood-shekzeer"]=20,
 	["whereâreyûat-everlook"]=23,
 	["wheyx-shekzeer"]=12,
-	["wheyxw-shekzeer"]=25,
+	["wheyxthree-shekzeer"]=12,
+	["wheyxw-shekzeer"]=1,
 	["whipmepls-shekzeer"]=8,
 	["whisp-garalon"]=11,
 	["whoppa-shekzeer"]=1,

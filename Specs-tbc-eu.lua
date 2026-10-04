@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9903 characters, read 2026-10-03 11:59 PM.
+-- Region tbc-eu, 9904 characters, read 2026-10-04 12:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9682,6 +9682,7 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["zenzey-spineshatter"]=20,
 	["zeola-spineshatter"]=101,
 	["zeostorm-spineshatter"]=110,
+	["zephyrastorm-spineshatter"]=111,
 	["zerfin-spineshatter"]=50,
 	["zerg-spineshatter"]=10,
 	["zerht-spineshatter"]=21,
@@ -14780,7 +14781,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["lpa-spineshatter"]=5,
 	["lplate-spineshatter"]=2,
 	["lqv-spineshatter"]=8,
-	["lsmg-spineshatter"]=4,
+	["lsmg-spineshatter"]=9,
 	["lß-spineshatter"]=2,
 	["ltraine-spineshatter"]=2,
 	["luciã-spineshatter"]=2,
@@ -15528,7 +15529,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["mystikk-spineshatter"]=9,
 	["mythicalx-spineshatter"]=3,
 	["mythicalz-spineshatter"]=3,
-	["mythpala-spineshatter"]=7,
+	["mythpala-spineshatter"]=26,
 	["mzmzx-spineshatter"]=7,
 	["naali-spineshatter"]=1,
 	["naambawan-spineshatter"]=2,
@@ -19590,6 +19591,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["zenzey-spineshatter"]=15,
 	["zeola-spineshatter"]=7,
 	["zeostorm-spineshatter"]=23,
+	["zephyrastorm-spineshatter"]=11,
 	["zerfin-spineshatter"]=4,
 	["zerg-spineshatter"]=15,
 	["zerht-spineshatter"]=5,
