@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5318 characters, read 2026-10-04 04:00 PM.
+-- Region eu, 5318 characters, read 2026-10-04 05:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4438,7 +4438,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["wjagge-shekzeer"]=10,
 	["wmdabuser-shekzeer"]=11,
 	["wmwmwmwmwmw-shekzeer"]=41,
-	["wnky-shekzeer"]=11,
+	["wnky-shekzeer"]=10,
 	["wodarmsopx-shekzeer"]=10,
 	["wodclassicwr-shekzeer"]=11,
 	["wodenjoyer-shekzeer"]=10,
@@ -5249,7 +5249,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["alepoudiaris-garalon"]=15,
 	["alexandereu-shekzeer"]=10,
 	["alfajer-shekzeer"]=4,
-	["algerian-shekzeer"]=4,
+	["algerian-shekzeer"]=20,
 	["algharib-everlook"]=8,
 	["alieh-shekzeer"]=15,
 	["aliice-garalon"]=3,
@@ -5399,7 +5399,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["ashamedavah-shekzeer"]=24,
 	["ashtwooed-shekzeer"]=1,
 	["askaig-auberdine"]=4,
-	["askespreder-shekzeer"]=23,
+	["askespreder-shekzeer"]=17,
 	["aslanzito-hoptallus"]=1,
 	["asmadeus-shekzeer"]=22,
 	["Àsmi-ook-ook"]=1,
@@ -5945,7 +5945,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["controlww-norushen"]=1,
 	["controlx-norushen"]=4,
 	["corléonne-auberdine"]=6,
-	["corristo-shekzeer"]=2,
+	["corristo-shekzeer"]=10,
 	["corruptx-shekzeer"]=8,
 	["coryth-mirage-raceway"]=10,
 	["coulozx-shekzeer"]=6,
@@ -7699,7 +7699,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["mëgâ-mirage-raceway"]=8,
 	["megacita-shekzeer"]=22,
 	["megcecmpa-shekzeer"]=5,
-	["meilev-hoptallus"]=21,
+	["meilev-hoptallus"]=3,
 	["mejorbrujoxd-shekzeer"]=17,
 	["mekishiko-shekzeer"]=22,
 	["melba-shekzeer"]=11,
@@ -7727,7 +7727,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["mewkaqt-shekzeer"]=26,
 	["mezcladito-shekzeer"]=14,
 	["mhealkà-auberdine"]=30,
-	["mhyaazz-hoptallus"]=14,
+	["mhyaazz-hoptallus"]=4,
 	["micayahr-everlook"]=24,
 	["michaell-shekzeer"]=24,
 	["michaelo-norushen"]=4,
