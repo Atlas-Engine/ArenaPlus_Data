@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5186 characters, read 2026-10-04 02:59 AM.
+-- Region us, 5186 characters, read 2026-10-04 03:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6638,7 +6638,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["gaisêric-pagle"]=7,
 	["galactus-arugal-au"]=1,
 	["galaxysbtw-raden"]=7,
-	["galekk-immerseus"]=10,
+	["galekk-immerseus"]=4,
 	["galey-galakras"]=23,
 	["galica-immerseus"]=30,
 	["gallagher-raden"]=1,
@@ -6884,7 +6884,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["hazi-galakras"]=20,
 	["hazí-pagle"]=1,
 	["hazzerrdd-pagle"]=6,
-	["hdn-pagle"]=4,
+	["hdn-pagle"]=10,
 	["hdz-arugal-au"]=0,
 	["hea-lei-shen"]=13,
 	["headbusterz-pagle"]=16,
@@ -6939,7 +6939,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["hickery-arugal-au"]=14,
 	["hideandhunt-galakras"]=20,
 	["hifukface-raden"]=5,
-	["hifvckface-raden"]=10,
+	["hifvckface-raden"]=4,
 	["highc-galakras"]=22,
 	["highç-galakras"]=27,
 	["hîghc-galakras"]=17,
@@ -7818,7 +7818,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["mav-raden"]=1,
 	["mavr-raden"]=14,
 	["mavrïx-raden"]=3,
-	["mavzx-raden"]=7,
+	["mavzx-raden"]=23,
 	["max-raden"]=0,
 	["maxipoo-raden"]=0,
 	["maxximumcat-lei-shen"]=12,
@@ -8723,7 +8723,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["rethealadin-immerseus"]=16,
 	["reticence-pagle"]=10,
 	["retmainxd-raden"]=18,
-	["rétpáladin-raden"]=16,
+	["rétpáladin-raden"]=2,
 	["retrostance-galakras"]=2,
 	["revcole-raden"]=9,
 	["revènge-raden"]=7,
