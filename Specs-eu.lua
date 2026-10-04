@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5318 characters, read 2026-10-04 05:00 PM.
+-- Region eu, 5318 characters, read 2026-10-04 06:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5233,7 +5233,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["akerbz-shekzeer"]=6,
 	["akerm-shekzeer"]=17,
 	["akerman-shekzeer"]=17,
-	["akermy-shekzeer"]=23,
+	["akermy-shekzeer"]=17,
 	["akijean-shekzeer"]=14,
 	["akonrap-garalon"]=25,
 	["akula-mirage-raceway"]=10,
@@ -5744,7 +5744,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bumbelbegodx-shekzeer"]=14,
 	["bumbelbemonk-shekzeer"]=29,
 	["bumbeldruid-shekzeer"]=21,
-	["bumbelgnome-shekzeer"]=7,
+	["bumbelgnome-shekzeer"]=29,
 	["bumbelmonk-garalon"]=7,
 	["bumbelmonk-shekzeer"]=29,
 	["bumbelorc-garalon"]=29,
@@ -5842,7 +5842,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["charbø-everlook"]=1,
 	["charbotwo-everlook"]=15,
 	["chargedif-shekzeer"]=1,
-	["charity-garalon"]=22,
+	["charity-garalon"]=9,
 	["charityrevn-shekzeer"]=1,
 	["charityshift-shekzeer"]=3,
 	["charoma-shekzeer"]=3,
@@ -6126,7 +6126,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["dimsumfu-shekzeer"]=0,
 	["dindriezz-everlook"]=2,
 	["dinhoo-mirage-raceway"]=22,
-	["Ðïønysus-garalon"]=16,
+	["Ðïønysus-garalon"]=13,
 	["Ðionysus-shekzeer"]=16,
 	["Ðiønysus-shekzeer"]=13,
 	["Ðîóñýsûs-shekzeer"]=6,
@@ -6191,7 +6191,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["domiino-shekzeer"]=12,
 	["dominant-garalon"]=28,
 	["dominant-shekzeer"]=2,
-	["dominoo-shekzeer"]=3,
+	["dominoo-shekzeer"]=21,
 	["dönald-auberdine"]=17,
 	["dondrippiano-shekzeer"]=6,
 	["donjacky-shekzeer"]=6,
@@ -9450,7 +9450,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["tyreell-norushen"]=23,
 	["tyreen-everlook"]=5,
 	["tyrellqq-norushen"]=9,
-	["tyyba-norushen"]=23,
+	["tyyba-norushen"]=17,
 	["tzeeni-shekzeer"]=0,
 	["Übergeleert-everlook"]=20,
 	["ubik-shekzeer"]=6,
@@ -9940,7 +9940,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["zephxd-everlook"]=22,
 	["zephyo-everlook"]=13,
 	["zephyrillia-shekzeer"]=6,
-	["zepp-mirage-raceway"]=21,
+	["zepp-mirage-raceway"]=11,
 	["zeppaan-garalon"]=12,
 	["zeptik-garalon"]=23,
 	["zerback-norushen"]=21,
@@ -10088,7 +10088,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Вагаса-flamegor"]=15,
 	["Вагонетка-flamegor"]=15,
 	["Вадябэниекс-flamegor"]=6,
-	["Вандеркаст-flamegor"]=2,
+	["Вандеркаст-flamegor"]=10,
 	["Ваняплетка-flamegor"]=8,
 	["Варбрис-flamegor"]=25,
 	["Варнаса-flamegor"]=1,

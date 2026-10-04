@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5187 characters, read 2026-10-04 04:59 PM.
+-- Region us, 5187 characters, read 2026-10-04 05:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5060,7 +5060,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["aídíth-benediction"]=7,
 	["aidsx-raden"]=12,
 	["aimonk-raden"]=10,
-	["airbornekid-pagle"]=9,
+	["airbornekid-pagle"]=13,
 	["airbuss-nazgrim"]=18,
 	["airhéads-pagle"]=8,
 	["aisten-galakras"]=2,
@@ -5128,7 +5128,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["anakkrakatoa-nazgrim"]=11,
 	["anaksol-pagle"]=11,
 	["analayla-lei-shen"]=0,
-	["anariita-nazgrim"]=20,
+	["anariita-nazgrim"]=3,
 	["anastari-pagle"]=1,
 	["anastasiah-raden"]=24,
 	["anastasiahh-raden"]=21,
@@ -6509,7 +6509,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["fíngerplay-galakras"]=15,
 	["fingerplay-raden"]=16,
 	["fingerrfkr-nazgrim"]=5,
-	["fingølfin-pagle"]=29,
+	["fingølfin-pagle"]=14,
 	["finja-lei-shen"]=34,
 	["finkledinkle-pagle"]=16,
 	["finnese-pagle"]=1,
@@ -7143,7 +7143,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["infurryator-raden"]=12,
 	["initis-raden"]=7,
 	["injury-pagle"]=7,
-	["inkárri-arugal-au"]=4,
+	["inkárri-arugal-au"]=10,
 	["inmortalwar-raden"]=7,
 	["innoofirgize-raden"]=5,
 	["inorie-raden"]=4,
@@ -8695,7 +8695,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["relikemong-pagle"]=28,
 	["rellah-pagle"]=9,
 	["rellsx-nazgrim"]=16,
-	["relyt-pagle"]=29,
+	["relyt-pagle"]=14,
 	["rëmièl-pagle"]=16,
 	["remix-nazgrim"]=21,
 	["remytwotimes-pagle"]=0,
