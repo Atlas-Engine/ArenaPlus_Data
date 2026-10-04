@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5185 characters, read 2026-10-03 08:59 PM.
+-- Region us, 5185 characters, read 2026-10-03 09:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5051,7 +5051,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["afp-raden"]=10,
 	["Àfterlifeqt-pagle"]=5,
 	["aggron-galakras"]=0,
-	["agility-raden"]=20,
+	["agility-raden"]=18,
 	["agrosniper-pagle"]=3,
 	["ahrens-raden"]=14,
 	["aidíth-benediction"]=7,
@@ -6453,7 +6453,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["fatfistsal-lei-shen"]=10,
 	["fatgirlsxxl-raden"]=1,
 	["fatguccimane-raden"]=1,
-	["fatrass-pagle"]=14,
+	["fatrass-pagle"]=34,
 	["fatsob-lei-shen"]=2,
 	["fattitude-pagle"]=13,
 	["fattitude-raden"]=13,
@@ -8411,7 +8411,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["pedreirø-nazgrim"]=18,
 	["peekñheal-arugal-au"]=19,
 	["peligrozx-pagle"]=29,
-	["penelope-raden"]=9,
+	["penelope-raden"]=21,
 	["penguinxl-pagle"]=6,
 	["penhitter-pagle"]=7,
 	["penitential-raden"]=21,
@@ -9239,7 +9239,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["sovice-raden"]=2,
 	["soyinfelíz-raden"]=6,
 	["soytupapi-pagle"]=9,
-	["spaak-raden"]=14,
+	["spaak-raden"]=29,
 	["space-raden"]=1,
 	["spala-pagle"]=0,
 	["sparas-raden"]=1,
