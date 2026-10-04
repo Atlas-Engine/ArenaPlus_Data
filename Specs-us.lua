@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5188 characters, read 2026-10-04 10:59 AM.
+-- Region us, 5188 characters, read 2026-10-04 11:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6268,7 +6268,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dulcínea-raden"]=7,
 	["dumbcrumb-nazgrim"]=18,
 	["dumbpoptart-benediction"]=7,
-	["dumdum-nazgrim"]=20,
+	["dumdum-nazgrim"]=18,
 	["dúmß-raden"]=7,
 	["dúmßer-raden"]=16,
 	["dunardel-raden"]=7,
@@ -6514,7 +6514,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["fíngerplay-galakras"]=15,
 	["fingerplay-raden"]=16,
 	["fingerrfkr-nazgrim"]=5,
-	["fingølfin-pagle"]=14,
+	["fingølfin-pagle"]=29,
 	["finja-lei-shen"]=34,
 	["finkledinkle-pagle"]=16,
 	["finnese-pagle"]=1,
@@ -6538,7 +6538,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["flashoflight-raden"]=16,
 	["flato-raden"]=18,
 	["flatsixx-pagle"]=11,
-	["flává-raden"]=7,
+	["flává-raden"]=23,
 	["flayzlock-raden"]=24,
 	["flayzr-raden"]=14,
 	["flexi-pagle"]=10,
@@ -7155,7 +7155,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["inperitus-arugal-au"]=15,
 	["insomniaxx-pagle"]=14,
 	["instantcarry-raden"]=10,
-	["integrityqt-pagle"]=13,
+	["integrityqt-pagle"]=21,
 	["intercepts-pagle"]=7,
 	["intrerri-pagle"]=34,
 	["intru-raden"]=3,
@@ -8094,7 +8094,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["natuhhlee-nazgrim"]=13,
 	["naturalqt-pagle"]=2,
 	["navij-pagle"]=10,
-	["navio-pagle"]=16,
+	["navio-pagle"]=2,
 	["nâx-pagle"]=11,
 	["nâxxrâmâs-arugal-au"]=7,
 	["nayrish-pagle"]=16,
@@ -8595,7 +8595,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["qwes-raden"]=3,
 	["qwop-raden"]=0,
 	["qzw-galakras"]=4,
-	["raasclaat-pagle"]=12,
+	["raasclaat-pagle"]=5,
 	["rabager-grobbulus"]=19,
 	["rabblerouse-pagle"]=34,
 	["rabidwolf-pagle"]=19,
