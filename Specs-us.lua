@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5179 characters, read 2026-10-03 10:59 PM.
+-- Region us, 5179 characters, read 2026-10-03 11:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6093,7 +6093,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dirtydiaperz-pagle"]=10,
 	["dirtyshizbit-galakras"]=18,
 	["dirtysoap-raden"]=20,
-	["discborn-pagle"]=13,
+	["discborn-pagle"]=21,
 	["dischealzz-raden"]=21,
 	["discnvragain-pagle"]=9,
 	["discodancer-raden"]=4,
@@ -7134,7 +7134,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["infurryator-raden"]=12,
 	["initis-raden"]=7,
 	["injury-pagle"]=7,
-	["inkárri-arugal-au"]=10,
+	["inkárri-arugal-au"]=4,
 	["inmortalwar-raden"]=7,
 	["innoofirgize-raden"]=5,
 	["inorie-raden"]=4,
@@ -8595,7 +8595,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ragebäbe-raden"]=5,
 	["ragequitx-raden"]=7,
 	["ragesalot-lei-shen"]=7,
-	["raginape-raden"]=22,
+	["raginape-raden"]=15,
 	["raginggoat-lei-shen"]=7,
 	["ragnárok-raden"]=7,
 	["ragnorx-nazgrim"]=22,
@@ -9391,7 +9391,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["supérsaiyan-raden"]=2,
 	["superstikkyy-pagle"]=29,
 	["supersweat-pagle"]=7,
-	["survivorzx-raden"]=16,
+	["survivorzx-raden"]=2,
 	["sushibanks-pagle"]=7,
 	["sushichi-galakras"]=4,
 	["sushimaki-galakras"]=7,

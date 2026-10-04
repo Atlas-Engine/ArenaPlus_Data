@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9903 characters, read 2026-10-03 10:59 PM.
+-- Region tbc-eu, 9903 characters, read 2026-10-03 11:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10010,7 +10010,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["alisshaman-spineshatter"]=11,
 	["aljefe-spineshatter"]=5,
 	["alkandia-spineshatter"]=19,
-	["alkofrei-spineshatter"]=2,
+	["alkofrei-spineshatter"]=17,
 	["alkpote-spineshatter"]=3,
 	["Álks-spineshatter"]=3,
 	["alksizback-spineshatter"]=13,
@@ -16437,7 +16437,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["potso-thunderstrike"]=1,
 	["poutsa-spineshatter"]=9,
 	["povain-thunderstrike"]=3,
-	["powergamer-spineshatter"]=2,
+	["powergamer-spineshatter"]=8,
 	["powerlolqt-spineshatter"]=5,
 	["powerspikè-spineshatter"]=10,
 	["ppain-spineshatter"]=5,
@@ -16889,7 +16889,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["revelia-spineshatter"]=7,
 	["reviam-thunderstrike"]=3,
 	["revieñ-spineshatter"]=1,
-	["revinder-spineshatter"]=2,
+	["revinder-spineshatter"]=17,
 	["revironheart-spineshatter"]=2,
 	["revmatik-spineshatter"]=2,
 	["rew-spineshatter"]=5,
@@ -18869,7 +18869,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["valnyx-spineshatter"]=19,
 	["valoriusdawn-spineshatter"]=10,
 	["valuan-spineshatter"]=11,
-	["valy-spineshatter"]=19,
+	["valy-spineshatter"]=3,
 	["valyar-spineshatter"]=5,
 	["vampirelord-spineshatter"]=3,
 	["vandales-spineshatter"]=26,
@@ -19744,7 +19744,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["zyxolina-spineshatter"]=2,
 	["zyxzoftw-spineshatter"]=11,
 	["zztlock-spineshatter"]=13,
-	["Йооу-anniversary"]=13,
+	["Йооу-anniversary"]=14,
 	["Копчик-anniversary"]=19,
 	["Мадамсезам-anniversary"]=4,
 	["Маз-anniversary"]=5,

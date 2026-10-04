@@ -42,7 +42,7 @@ local ns = ArenaPlusData
 -- source_item, so gems are stored as real item ids the client can draw and only
 -- the enchant text has to ship.
 --
--- Region eu, 432 characters, 375 glyph names, read 2026-10-03 09:20 PM.
+-- Region eu, 432 characters, 375 glyph names, read 2026-10-03 11:20 PM.
 ns.GLYPH_NAMES = ns.GLYPH_NAMES or {}
 
 for id, name in pairs({
@@ -429,72 +429,13 @@ for id, name in pairs({
 ns.TALENT_NAMES = ns.TALENT_NAMES or {}
 
 for id, name in pairs({
-	[1463]="Incanter's Ward",
-	[11958]="Cold Snap",
-	[12043]="Presence of Mind",
-	[16188]="Ancestral Swiftness",
-	[19386]="Wyvern Sting",
-	[29838]="Second Wind",
-	[30884]="Nature's Guardian",
-	[44457]="Living Bomb",
-	[46968]="Shockwave",
 	[79008]="Elusiveness",
-	[82726]="Fervor",
-	[85499]="Speed of Light",
-	[86172]="Divine Purpose",
-	[86949]="Cauterize",
-	[102051]="Frostjaw",
-	[103827]="Double Time",
-	[105593]="Fist of Justice",
-	[105622]="Clemency",
-	[107566]="Staggering Shout",
-	[107570]="Storm Bolt",
 	[108208]="Subterfuge",
 	[108210]="Nerve Strike",
 	[108212]="Burst of Speed",
 	[108215]="Paralytic Poison",
 	[108216]="Dirty Tricks",
-	[108273]="Windwalk Totem",
-	[108281]="Ancestral Guidance",
-	[108285]="Call of the Elements",
-	[108287]="Totemic Projection",
-	[108839]="Ice Floes",
-	[108843]="Blazing Speed",
-	[108921]="Psyfiend",
-	[109142]="Twist of Fate",
-	[109175]="Divine Insight",
-	[109186]="From Darkness, Comes Light",
-	[109212]="Spirit Bond",
-	[109215]="Posthaste",
-	[109248]="Binding Shot",
-	[109260]="Aspect of the Iron Hawk",
-	[110744]="Divine Star",
-	[111264]="Ice Ward",
-	[112833]="Spectral Guise",
-	[113724]="Ring of Frost",
-	[114028]="Mass Spell Reflection",
-	[114029]="Safeguard",
-	[114163]="Eternal Flame",
-	[114165]="Holy Prism",
-	[115098]="Chi Wave",
-	[115399]="Chi Brew",
-	[115610]="Temporal Shield",
-	[116011]="Rune of Power",
-	[116841]="Tiger's Lust",
-	[116847]="Rushing Jade Wind",
-	[117012]="Unleashed Fury",
-	[117050]="Glaive Toss",
-	[118675]="Crouching Tiger, Hidden Chimera",
-	[119381]="Leg Sweep",
-	[121536]="Angelic Feather",
-	[122278]="Dampen Harm",
-	[122280]="Healing Elixirs",
-	[123904]="Invoke Xuen, the White Tiger",
-	[130392]="Blink Strikes",
-	[131894]="A Murder of Crows",
 	[137619]="Marked for Death",
-	[140468]="Flameglow",
-	[147074]="Rushing Streams",
 }) do ns.TALENT_NAMES[id] = name end
 
 -- Which talent a rank-spell belongs to, and how many ranks that talent has.
