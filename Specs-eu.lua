@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5315 characters, read 2026-10-05 02:00 PM.
+-- Region eu, 5315 characters, read 2026-10-05 03:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1169,7 +1169,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["dzin-shekzeer"]=31,
 	["dzuki-garalon"]=50,
 	["easygåme-shekzeer"]=31,
-	["eatmyfistz-ook-ook"]=110,
 	["eatmyshield-shekzeer"]=30,
 	["eatyourveg-shekzeer"]=11,
 	["eauminerale-shekzeer"]=11,
@@ -1314,7 +1313,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["fearedqt-shekzeer"]=11,
 	["fearintofear-shekzeer"]=11,
 	["fearwnz-shekzeer"]=11,
-	["feed-shekzeer"]=30,
+	["feed-shekzeer"]=31,
 	["feelbreaker-shekzeer"]=10,
 	["feelsblckman-shekzeer"]=11,
 	["feitdverg-shekzeer"]=11,
@@ -6291,7 +6290,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["dzin-shekzeer"]=13,
 	["dzuki-garalon"]=6,
 	["easygåme-shekzeer"]=16,
-	["eatmyfistz-ook-ook"]=7,
+	["eatmyfistz-ook-ook"]=0,
 	["eatmyshield-shekzeer"]=13,
 	["eatyourveg-shekzeer"]=9,
 	["eauminerale-shekzeer"]=4,
@@ -8715,7 +8714,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["samaruh-mirage-raceway"]=20,
 	["samisa-shekzeer"]=9,
 	["sàmsara-shekzeer"]=10,
-	["samvpz-shekzeer"]=1,
+	["samvpz-shekzeer"]=25,
 	["samzi-shekzeer"]=7,
 	["sándron-everlook"]=3,
 	["sandzakpowaa-shekzeer"]=1,
@@ -8734,7 +8733,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["sarotas-shekzeer"]=9,
 	["sashavolkova-garalon"]=24,
 	["satåna-shekzeer"]=4,
-	["satåntrapbot-shekzeer"]=14,
+	["satåntrapbot-shekzeer"]=4,
 	["satara-shekzeer"]=26,
 	["satazhia-shekzeer"]=12,
 	["satineta-shekzeer"]=34,

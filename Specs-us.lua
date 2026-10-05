@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5187 characters, read 2026-10-05 01:59 PM.
+-- Region us, 5187 characters, read 2026-10-05 02:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6146,8 +6146,8 @@ ns.SPECS_BY_REGION["us"] = {
 	["dogsbuster-pagle"]=18,
 	["dohrow-pagle"]=15,
 	["dojadruid-raden"]=5,
-	["dojamonktwo-pagle"]=4,
-	["dojareborn-pagle"]=18,
+	["dojamonktwo-pagle"]=10,
+	["dojareborn-pagle"]=20,
 	["dokkó-pagle"]=14,
 	["doktroz-nazgrim"]=7,
 	["dollamenuhoj-raden"]=2,
@@ -8077,7 +8077,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["nastyhealz-pagle"]=9,
 	["nastynate-galakras"]=3,
 	["nastytaint-galakras"]=8,
-	["natalia-raden"]=14,
+	["natalia-raden"]=34,
 	["natazo-pagle"]=7,
 	["nathaniel-lei-shen"]=5,
 	["nattypriest-pagle"]=9,
@@ -8880,7 +8880,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["saregore-raden"]=26,
 	["sàrëna-pagle"]=17,
 	["sarenity-raden"]=27,
-	["saridor-arugal-au"]=3,
+	["saridor-arugal-au"]=20,
 	["sasafras-pagle"]=5,
 	["sashastorm-pagle"]=24,
 	["sassybooty-galakras"]=4,

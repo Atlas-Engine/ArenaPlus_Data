@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9524 characters, read 2026-10-05 01:58 PM.
+-- Region tbc-us, 9524 characters, read 2026-10-05 02:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10770,7 +10770,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["chanw-nightslayer"]=13,
 	["chaoseater-nightslayer"]=15,
 	["chaosxd-nightslayer"]=5,
-	["chappyy-dreamscythe"]=7,
+	["chappyy-dreamscythe"]=3,
 	["charginmalzr-nightslayer"]=6,
 	["charleez-nightslayer"]=1,
 	["charliemung-nightslayer"]=13,
@@ -11444,7 +11444,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["dharkest-nightslayer"]=19,
 	["dhb-nightslayer"]=10,
 	["dhez-nightslayer"]=4,
-	["dhhez-nightslayer"]=14,
+	["dhhez-nightslayer"]=1,
 	["dhonky-nightslayer"]=3,
 	["dhorik-nightslayer"]=10,
 	["diablototems-dreamscythe"]=10,
@@ -13363,7 +13363,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["intuitive-dreamscythe"]=5,
 	["inv-nightslayer"]=5,
 	["invisibull-nightslayer"]=7,
-	["invisy-nightslayer"]=4,
+	["invisy-nightslayer"]=6,
 	["inyntz-nightslayer"]=7,
 	["inyokid-nightslayer"]=1,
 	["inyourgutz-nightslayer"]=5,
@@ -14010,7 +14010,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["kyrotechnics-nightslayer"]=6,
 	["kytara-nightslayer"]=7,
 	["kzone-nightslayer"]=10,
-	["la-nightslayer"]=5,
+	["la-nightslayer"]=8,
 	["lackkjr-dreamscythe"]=18,
 	["laclapbombxx-nightslayer"]=5,
 	["lacosanostra-nightslayer"]=1,
