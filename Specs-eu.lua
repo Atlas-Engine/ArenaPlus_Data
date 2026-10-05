@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5315 characters, read 2026-10-05 01:00 PM.
+-- Region eu, 5315 characters, read 2026-10-05 02:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1399,7 +1399,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["fratzngötzl-everlook"]=11,
 	["freaked-shekzeer"]=20,
 	["freakirl-shekzeer"]=11,
-	["freakírl-shekzeer"]=10,
+	["freakírl-shekzeer"]=11,
 	["freakïrl-shekzeer"]=31,
 	["freakz-shekzeer"]=11,
 	["freducator-garalon"]=31,
@@ -3105,7 +3105,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["pînetatante-shekzeer"]=11,
 	["pingfade-shekzeer"]=41,
 	["pipelayer-shekzeer"]=10,
-	["pipilili-shekzeer"]=11,
+	["pipilili-shekzeer"]=10,
 	["pipioe-shekzeer"]=11,
 	["pippilotta-shekzeer"]=11,
 	["pissemaur-shekzeer"]=41,
@@ -5425,7 +5425,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["atropa-shekzeer"]=0,
 	["attis-norushen"]=14,
 	["augsburg-shekzeer"]=6,
-	["aultrasalt-shekzeer"]=17,
+	["aultrasalt-shekzeer"]=23,
 	["auredian-mirage-raceway"]=15,
 	["aureliavid-auberdine"]=3,
 	["auryen-mirage-raceway"]=4,
@@ -7998,7 +7998,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["nexz-everlook"]=0,
 	["neylifive-shekzeer"]=4,
 	["neyrowly-everlook"]=5,
-	["neyvíl-everlook"]=24,
+	["neyvíl-everlook"]=26,
 	["nezuka-mirage-raceway"]=21,
 	["ngmi-shekzeer"]=23,
 	["ngprofessor-shekzeer"]=4,
@@ -8692,7 +8692,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["ryuuko-shekzeer"]=17,
 	["ryuuren-garalon"]=9,
 	["saala-shekzeer"]=1,
-	["saasaa-shekzeer"]=16,
+	["saasaa-shekzeer"]=13,
 	["sachikø-shekzeer"]=9,
 	["sacredvow-shekzeer"]=5,
 	["sadeqool-mirage-raceway"]=8,

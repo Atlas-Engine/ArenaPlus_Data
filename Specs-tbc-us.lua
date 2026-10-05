@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9523 characters, read 2026-10-05 12:58 PM.
+-- Region tbc-us, 9524 characters, read 2026-10-05 01:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -424,6 +424,7 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["astridp-nightslayer"]=101,
 	["astrophyzics-nightslayer"]=71,
 	["astroxz-nightslayer"]=11,
+	["asup-nightslayer"]=50,
 	["asxce-nightslayer"]=11,
 	["atares-dreamscythe"]=11,
 	["atd-nightslayer"]=11,
@@ -461,7 +462,6 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["avamend-nightslayer"]=60,
 	["avannah-nightslayer"]=41,
 	["avarixx-nightslayer"]=11,
-	["avasst-nightslayer"]=50,
 	["avatarbrushi-nightslayer"]=111,
 	["avcbrutality-dreamscythe"]=20,
 	["aversor-nightslayer"]=71,
@@ -7698,6 +7698,7 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["spicelord-nightslayer"]=50,
 	["spicyarmpits-dreamscythe"]=50,
 	["spicycarp-nightslayer"]=61,
+	["spicypasta-dreamscythe"]=41,
 	["spiffaru-nightslayer"]=41,
 	["spikeyshadow-nightslayer"]=21,
 	["spiorc-dreamscythe"]=20,
@@ -9811,6 +9812,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["astridp-nightslayer"]=9,
 	["astrophyzics-nightslayer"]=2,
 	["astroxz-nightslayer"]=6,
+	["asup-nightslayer"]=1,
 	["asxce-nightslayer"]=5,
 	["atares-dreamscythe"]=18,
 	["atd-nightslayer"]=18,
@@ -9849,7 +9851,6 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["avamend-nightslayer"]=22,
 	["avannah-nightslayer"]=3,
 	["avarixx-nightslayer"]=4,
-	["avasst-nightslayer"]=1,
 	["avatarbrushi-nightslayer"]=19,
 	["avcbrutality-dreamscythe"]=2,
 	["aversor-nightslayer"]=4,
@@ -11443,7 +11444,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["dharkest-nightslayer"]=19,
 	["dhb-nightslayer"]=10,
 	["dhez-nightslayer"]=4,
-	["dhhez-nightslayer"]=1,
+	["dhhez-nightslayer"]=14,
 	["dhonky-nightslayer"]=3,
 	["dhorik-nightslayer"]=10,
 	["diablototems-dreamscythe"]=10,
@@ -16305,7 +16306,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["rocuroníum-nightslayer"]=5,
 	["rocyo-nightslayer"]=5,
 	["rodmaster-dreamscythe"]=17,
-	["rodstewart-nightslayer"]=19,
+	["rodstewart-nightslayer"]=10,
 	["rodwar-dreamscythe"]=2,
 	["roebu-nightslayer"]=5,
 	["røflz-nightslayer"]=14,
@@ -17200,6 +17201,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["spicelord-nightslayer"]=4,
 	["spicyarmpits-dreamscythe"]=1,
 	["spicycarp-nightslayer"]=3,
+	["spicypasta-dreamscythe"]=3,
 	["spiffaru-nightslayer"]=7,
 	["spikeyshadow-nightslayer"]=15,
 	["spiorc-dreamscythe"]=2,
@@ -17819,7 +17821,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["tommi-nightslayer"]=23,
 	["tommý-dreamscythe"]=10,
 	["tommycartel-nightslayer"]=22,
-	["tommyd-nightslayer"]=10,
+	["tommyd-nightslayer"]=19,
 	["tommytaunt-nightslayer"]=2,
 	["tommytopdam-nightslayer"]=2,
 	["tommytopgun-nightslayer"]=1,
