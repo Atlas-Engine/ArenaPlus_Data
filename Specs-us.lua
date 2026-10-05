@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5182 characters, read 2026-10-04 07:59 PM.
+-- Region us, 5182 characters, read 2026-10-04 08:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5294,7 +5294,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["bamboi-pagle"]=10,
 	["bandicute-pagle"]=14,
 	["bane-raden"]=0,
-	["bàng-galakras"]=4,
+	["bàng-galakras"]=10,
 	["bangyang-galakras"]=22,
 	["bannelion-immerseus"]=5,
 	["barêskin-galakras"]=6,
@@ -7193,7 +7193,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["jadei-grobbulus"]=0,
 	["jadespwn-raden"]=10,
 	["jâdestyles-nazgrim"]=4,
-	["jäeger-raden"]=3,
+	["jäeger-raden"]=20,
 	["jáffáar-pagle"]=24,
 	["jáffáar-raden"]=24,
 	["jaganoto-immerseus"]=7,
@@ -7416,7 +7416,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["kìngrøach-galakras"]=14,
 	["kinkystwosvn-nazgrim"]=0,
 	["kinoshyba-pagle"]=30,
-	["kintok-raden"]=6,
+	["kintok-raden"]=26,
 	["kiora-pagle"]=29,
 	["kiqsl-pagle"]=28,
 	["kiqsw-pagle"]=0,
@@ -8686,7 +8686,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["relikemong-pagle"]=28,
 	["rellah-pagle"]=9,
 	["rellsx-nazgrim"]=16,
-	["relyt-pagle"]=14,
+	["relyt-pagle"]=29,
 	["rëmièl-pagle"]=16,
 	["remix-nazgrim"]=21,
 	["remytwotimes-pagle"]=0,

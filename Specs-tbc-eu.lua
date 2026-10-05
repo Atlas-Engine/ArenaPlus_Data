@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9873 characters, read 2026-10-04 07:59 PM.
+-- Region tbc-eu, 9873 characters, read 2026-10-04 08:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10225,7 +10225,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["atlifatli-spineshatter"]=7,
 	["atmosphere-spineshatter"]=3,
 	["atomíc-spineshatter"]=2,
-	["atomìc-spineshatter"]=6,
+	["atomìc-spineshatter"]=1,
 	["atomkraftzer-spineshatter"]=1,
 	["atrocita-spineshatter"]=0,
 	["attarox-spineshatter"]=9,
@@ -12349,7 +12349,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["ethima-spineshatter"]=18,
 	["etmejiban-spineshatter"]=2,
 	["etna-thunderstrike"]=5,
-	["etnii-thunderstrike"]=3,
+	["etnii-thunderstrike"]=19,
 	["etoireezy-spineshatter"]=3,
 	["etÿ-spineshatter"]=2,
 	["euphória-spineshatter"]=1,
@@ -13876,7 +13876,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["jokuwarru-spineshatter"]=5,
 	["jolliê-thunderstrike"]=20,
 	["jomamá-spineshatter"]=11,
-	["jonasthemage-spineshatter"]=4,
+	["jonasthemage-spineshatter"]=9,
 	["jonjonesx-spineshatter"]=11,
 	["jonnyjeweler-spineshatter"]=1,
 	["jonte-spineshatter"]=25,
@@ -14155,7 +14155,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["khisu-thunderstrike"]=6,
 	["khourdqt-spineshatter"]=12,
 	["khourdrix-spineshatter"]=1,
-	["khrynn-spineshatter"]=2,
+	["khrynn-spineshatter"]=17,
 	["khrynz-spineshatter"]=5,
 	["khrystalxoxo-spineshatter"]=5,
 	["khx-spineshatter"]=3,
@@ -14726,7 +14726,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["lplate-spineshatter"]=2,
 	["lqv-spineshatter"]=8,
 	["lsmg-spineshatter"]=9,
-	["lß-spineshatter"]=2,
+	["lß-spineshatter"]=8,
 	["ltraine-spineshatter"]=2,
 	["luciã-spineshatter"]=2,
 	["luckyman-spineshatter"]=7,
@@ -17600,7 +17600,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["skufessa-spineshatter"]=2,
 	["skuggnäbben-spineshatter"]=3,
 	["skulldugger-thunderstrike"]=3,
-	["skúm-spineshatter"]=8,
+	["skúm-spineshatter"]=2,
 	["skurki-spineshatter"]=9,
 	["skurkish-spineshatter"]=11,
 	["skurkishx-spineshatter"]=2,
@@ -19269,7 +19269,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["xdonik-thunderstrike"]=11,
 	["xdperhaps-spineshatter"]=8,
 	["xdshera-spineshatter"]=13,
-	["xdskullzz-spineshatter"]=25,
+	["xdskullzz-spineshatter"]=24,
 	["xebic-spineshatter"]=9,
 	["xeeyres-spineshatter"]=1,
 	["xeht-spineshatter"]=12,
