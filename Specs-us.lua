@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5188 characters, read 2026-10-05 04:59 AM.
+-- Region us, 5188 characters, read 2026-10-05 05:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -620,7 +620,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["brocodez-raden"]=81,
 	["brojax-pagle"]=20,
 	["broleebro-raden"]=111,
-	["bromiro-pagle"]=11,
 	["bronzeagebud-raden"]=40,
 	["brotard-immerseus"]=11,
 	["brotart-nazgrim"]=51,
@@ -5582,7 +5581,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["brocodez-raden"]=21,
 	["brojax-pagle"]=7,
 	["broleebro-raden"]=15,
-	["bromiro-pagle"]=14,
+	["bromiro-pagle"]=0,
 	["bronzeagebud-raden"]=12,
 	["brotard-immerseus"]=9,
 	["brotart-nazgrim"]=4,
@@ -6204,7 +6203,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["drbojackal-pagle"]=9,
 	["drcrusher-galakras"]=9,
 	["dreadedshotz-raden"]=3,
-	["dreadparadox-raden"]=26,
+	["dreadparadox-raden"]=6,
 	["dréäm-raden"]=10,
 	["dreamgrrl-pagle"]=5,
 	["dreathhammer-raden"]=2,
@@ -9684,7 +9683,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["truckw-raden"]=7,
 	["truebolt-pagle"]=15,
 	["trueshepard-pagle"]=21,
-	["trueshot-grobbulus"]=20,
+	["trueshot-grobbulus"]=3,
 	["trukanoh-nazgrim"]=22,
 	["trumpchains-galakras"]=26,
 	["trumpscurse-galakras"]=21,
