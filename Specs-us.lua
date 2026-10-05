@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5187 characters, read 2026-10-05 02:59 PM.
+-- Region us, 5187 characters, read 2026-10-05 03:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5957,7 +5957,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["Ðark-nazgrim"]=6,
 	["darkavengerr-pagle"]=0,
 	["darkdankdope-raden"]=10,
-	["darkdeamon-pagle"]=11,
+	["darkdeamon-pagle"]=1,
 	["darkdknight-pagle"]=6,
 	["darkestcyn-galakras"]=28,
 	["darkferocity-pagle"]=21,
@@ -5997,7 +5997,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["deadnutz-nazgrim"]=34,
 	["deadpal-galakras"]=16,
 	["deadpoolwins-pagle"]=6,
-	["deadshottz-galakras"]=18,
+	["deadshottz-galakras"]=3,
 	["deathbreaker-raden"]=0,
 	["deathbringer-lei-shen"]=6,
 	["deathgrips-raden"]=6,
