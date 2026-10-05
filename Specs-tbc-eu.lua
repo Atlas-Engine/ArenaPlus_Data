@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9874 characters, read 2026-10-04 09:59 PM.
+-- Region tbc-eu, 9874 characters, read 2026-10-04 10:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11305,7 +11305,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["conmanxd-spineshatter"]=18,
 	["contango-spineshatter"]=19,
 	["coobe-thunderstrike"]=1,
-	["coókié-spineshatter"]=5,
+	["coókié-spineshatter"]=15,
 	["còókielol-spineshatter"]=2,
 	["coolbean-spineshatter"]=1,
 	["coolcat-spineshatter"]=6,
@@ -13743,7 +13743,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["jasse-spineshatter"]=9,
 	["jauhojutku-thunderstrike"]=2,
 	["jausie-spineshatter"]=2,
-	["jausiebis-spineshatter"]=2,
+	["jausiebis-spineshatter"]=17,
 	["java-spineshatter"]=6,
 	["javlafyfan-spineshatter"]=20,
 	["javra-spineshatter"]=5,
@@ -18011,7 +18011,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["stormiao-spineshatter"]=6,
 	["stormshróud-spineshatter"]=8,
 	["stormstew-spineshatter"]=11,
-	["stormufti-spineshatter"]=9,
+	["stormufti-spineshatter"]=4,
 	["størmvessèl-spineshatter"]=23,
 	["stormvyr-spineshatter"]=11,
 	["stormwitcher-spineshatter"]=23,
