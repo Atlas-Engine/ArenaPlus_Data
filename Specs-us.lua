@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5186 characters, read 2026-10-05 09:59 AM.
+-- Region us, 5187 characters, read 2026-10-05 10:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4753,6 +4753,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["wïntërwîtch-pagle"]=41,
 	["winterzface-nazgrim"]=10,
 	["wiseoleman-pagle"]=20,
+	["wispér-raden"]=11,
 	["wìz-raden"]=11,
 	["wîzärdøføzz-raden"]=31,
 	["wkndxo-raden"]=10,
@@ -6639,7 +6640,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["galvaron-pagle"]=2,
 	["gambezee-raden"]=21,
 	["gamingfiend-raden"]=21,
-	["gamjatang-galakras"]=10,
+	["gamjatang-galakras"]=4,
 	["gamßezee-raden"]=15,
 	["gandolfthgey-raden"]=1,
 	["gangalee-raden"]=22,
@@ -8497,7 +8498,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["poppcorn-raden"]=5,
 	["popsmokè-pagle"]=29,
 	["pörch-pagle"]=14,
-	["porkchopx-nazgrim"]=10,
+	["porkchopx-nazgrim"]=4,
 	["porkfriedrai-immerseus"]=4,
 	["portholio-pagle"]=4,
 	["potatoes-arugal-au"]=18,
@@ -9933,6 +9934,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["wïntërwîtch-pagle"]=25,
 	["winterzface-nazgrim"]=25,
 	["wiseoleman-pagle"]=22,
+	["wispér-raden"]=6,
 	["wìz-raden"]=21,
 	["wîzärdøføzz-raden"]=15,
 	["wkndxo-raden"]=1,
