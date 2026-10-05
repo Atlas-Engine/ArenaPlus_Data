@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9518 characters, read 2026-10-04 08:58 PM.
+-- Region tbc-us, 9518 characters, read 2026-10-04 09:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -13726,7 +13726,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["karrakar-nightslayer"]=8,
 	["karrakhaz-nightslayer"]=3,
 	["karru-nightslayer"]=1,
-	["karsie-dreamscythe"]=1,
+	["karsie-dreamscythe"]=12,
 	["karuu-nightslayer"]=13,
 	["kassen-nightslayer"]=9,
 	["kasupi-nightslayer"]=7,
@@ -14608,7 +14608,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["merdog-nightslayer"]=5,
 	["meresist-nightslayer"]=2,
 	["mericx-nightslayer"]=5,
-	["merlicai-nightslayer"]=4,
+	["merlicai-nightslayer"]=6,
 	["merlinlol-nightslayer"]=4,
 	["meromero-nightslayer"]=2,
 	["merovingien-nightslayer"]=5,
@@ -16012,7 +16012,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ralphmen-nightslayer"]=5,
 	["ralsay-nightslayer"]=14,
 	["ralz-nightslayer"]=7,
-	["ramboludo-nightslayer"]=4,
+	["ramboludo-nightslayer"]=6,
 	["ramgam-nightslayer"]=18,
 	["ramiusx-nightslayer"]=15,
 	["rammedaddy-nightslayer"]=1,
@@ -16184,7 +16184,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["revilxx-nightslayer"]=1,
 	["revivé-nightslayer"]=1,
 	["reviveblack-nightslayer"]=12,
-	["revivexoxo-nightslayer"]=12,
+	["revivexoxo-nightslayer"]=1,
 	["révs-nightslayer"]=19,
 	["rewfio-nightslayer"]=13,
 	["rewrite-nightslayer"]=4,
@@ -18348,7 +18348,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["warhilda-nightslayer"]=2,
 	["warkhaos-nightslayer"]=18,
 	["warlockhater-nightslayer"]=12,
-	["warlorc-nightslayer"]=16,
+	["warlorc-nightslayer"]=13,
 	["warmike-nightslayer"]=2,
 	["warrém-nightslayer"]=2,
 	["warriorbbq-nightslayer"]=18,
