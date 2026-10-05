@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5317 characters, read 2026-10-05 05:00 PM.
+-- Region eu, 5317 characters, read 2026-10-05 06:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1788,7 +1788,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["ilinor-shekzeer"]=41,
 	["iliøuix-shekzeer"]=10,
 	["illaine-everlook"]=41,
-	["illex-shekzeer"]=41,
+	["illex-shekzeer"]=40,
 	["illíllillill-shekzeer"]=11,
 	["ilqweawerzrt-shekzeer"]=41,
 	["ilura-shekzeer"]=111,
@@ -5694,7 +5694,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bøwjøbë-mirage-raceway"]=4,
 	["bowline-shekzeer"]=20,
 	["bôwlognese-shekzeer"]=20,
-	["boyka-norushen"]=6,
+	["boyka-norushen"]=7,
 	["bozoblasta-shekzeer"]=4,
 	["bozzclqwn-everlook"]=19,
 	["bozzclqwnx-shekzeer"]=5,
@@ -8081,7 +8081,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["nømwnøfun-shekzeer"]=0,
 	["nonamé-mirage-raceway"]=16,
 	["nonameww-shekzeer"]=7,
-	["noneedórb-shekzeer"]=6,
+	["noneedórb-shekzeer"]=7,
 	["noneedrdroòd-shekzeer"]=3,
 	["noneedrof-shekzeer"]=2,
 	["noónee-shekzeer"]=9,
@@ -8246,7 +8246,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["ozymandiaus-mirage-raceway"]=23,
 	["ozymandius-mirage-raceway"]=4,
 	["ozzyozbarn-shekzeer"]=0,
-	["pachomius-mirage-raceway"]=15,
+	["pachomius-mirage-raceway"]=5,
 	["pagerodzida-norushen"]=4,
 	["pähkinä-hoptallus"]=26,
 	["pakisman-garalon"]=15,
@@ -8485,7 +8485,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["ragnaros-ook-ook"]=19,
 	["rainbowrider-shekzeer"]=9,
 	["rainbowrïder-shekzeer"]=3,
-	["rainbôwrider-shekzeer"]=19,
+	["rainbôwrider-shekzeer"]=16,
 	["rakamvp-shekzeer"]=13,
 	["raketenrudy-everlook"]=4,
 	["rakû-auberdine"]=1,
@@ -8615,7 +8615,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["rngbistrø-mirage-raceway"]=1,
 	["rngmonsterx-shekzeer"]=2,
 	["robikenzd-shekzeer"]=5,
-	["robinbobin-everlook"]=4,
+	["robinbobin-everlook"]=14,
 	["robinhoodx-auberdine"]=4,
 	["rockdbeat-shekzeer"]=4,
 	["rockdbeatdos-shekzeer"]=4,

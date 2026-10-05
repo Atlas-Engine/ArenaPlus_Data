@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9526 characters, read 2026-10-05 04:58 PM.
+-- Region tbc-us, 9526 characters, read 2026-10-05 05:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11739,7 +11739,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["drresy-nightslayer"]=19,
 	["drshades-nightslayer"]=23,
 	["drspongebob-nightslayer"]=10,
-	["drthai-dreamscythe"]=3,
+	["drthai-dreamscythe"]=7,
 	["drtimewizard-dreamscythe"]=25,
 	["drugdealin-nightslayer"]=1,
 	["drugsareokay-nightslayer"]=13,
@@ -13233,7 +13233,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["icepie-nightslayer"]=4,
 	["iceticklez-nightslayer"]=4,
 	["icetomeetyu-nightslayer"]=4,
-	["icewhite-nightslayer"]=16,
+	["icewhite-nightslayer"]=13,
 	["iceybird-nightslayer"]=3,
 	["ichainhealz-nightslayer"]=10,
 	["ichix-nightslayer"]=4,
@@ -14034,7 +14034,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["lamistar-nightslayer"]=10,
 	["lammymage-nightslayer"]=4,
 	["lanaw-nightslayer"]=2,
-	["landrix-nightslayer"]=10,
+	["landrix-nightslayer"]=19,
 	["lanni-nightslayer"]=1,
 	["lanstar-nightslayer"]=11,
 	["lantt-nightslayer"]=19,
@@ -14251,7 +14251,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["lokap-nightslayer"]=1,
 	["lokapp-nightslayer"]=1,
 	["lokii-nightslayer"]=4,
-	["loko-nightslayer"]=1,
+	["loko-nightslayer"]=12,
 	["lokof-nightslayer"]=2,
 	["lokomotiv-nightslayer"]=5,
 	["lolabrooke-nightslayer"]=1,
