@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9874 characters, read 2026-10-04 10:59 PM.
+-- Region tbc-eu, 9874 characters, read 2026-10-04 11:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12888,7 +12888,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["ghróm-spineshatter"]=1,
 	["ghrrom-spineshatter"]=9,
 	["ghusribul-spineshatter"]=14,
-	["gigachadsky-spineshatter"]=11,
+	["gigachadsky-spineshatter"]=23,
 	["gigademon-spineshatter"]=25,
 	["gigademonx-spineshatter"]=25,
 	["giganicker-thunderstrike"]=8,
@@ -14883,7 +14883,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["malamadre-thunderstrike"]=17,
 	["malanca-spineshatter"]=11,
 	["malchazeem-spineshatter"]=14,
-	["maldarax-spineshatter"]=15,
+	["maldarax-spineshatter"]=5,
 	["maldasz-spineshatter"]=13,
 	["maldér-spineshatter"]=20,
 	["maleficx-thunderstrike"]=13,
@@ -17016,7 +17016,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["ruckababy-spineshatter"]=2,
 	["rucki-spineshatter"]=7,
 	["rucklock-spineshatter"]=18,
-	["rudebøy-spineshatter"]=19,
+	["rudebøy-spineshatter"]=3,
 	["rudivoeller-spineshatter"]=9,
 	["rulda-spineshatter"]=5,
 	["rullatorida-spineshatter"]=2,
@@ -17735,7 +17735,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["snickkas-thunderstrike"]=2,
 	["sniffity-spineshatter"]=8,
 	["snigerpikken-spineshatter"]=3,
-	["snikeysham-spineshatter"]=11,
+	["snikeysham-spineshatter"]=23,
 	["snili-thunderstrike"]=12,
 	["snipemaster-spineshatter"]=3,
 	["snoiken-spineshatter"]=2,
@@ -18059,7 +18059,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["sucemaglaive-spineshatter"]=3,
 	["suciamagrebi-spineshatter"]=2,
 	["suddin-spineshatter"]=2,
-	["sudokunt-spineshatter"]=23,
+	["sudokunt-spineshatter"]=11,
 	["suezqt-spineshatter"]=3,
 	["sufarus-spineshatter"]=5,
 	["suffox-thunderstrike"]=23,
@@ -19057,7 +19057,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["wazp-thunderstrike"]=25,
 	["wclone-spineshatter"]=1,
 	["wdhero-thunderstrike"]=1,
-	["weakpoint-spineshatter"]=19,
+	["weakpoint-spineshatter"]=3,
 	["weatherboy-spineshatter"]=1,
 	["weaveque-spineshatter"]=12,
 	["weavex-spineshatter"]=9,

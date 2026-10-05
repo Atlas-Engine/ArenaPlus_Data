@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5187 characters, read 2026-10-04 10:59 PM.
+-- Region us, 5187 characters, read 2026-10-04 11:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4526,7 +4526,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["ttawdirg-pagle"]=30,
 	["tubalcain-galakras"]=20,
 	["turaoferao-raden"]=40,
-	["turbantime-pagle"]=10,
+	["turbantime-pagle"]=11,
 	["turbomóist-pagle"]=80,
 	["turbopwn-pagle"]=21,
 	["turbotrax-pagle"]=30,
@@ -5045,7 +5045,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["aellane-pagle"]=26,
 	["Ærîthøs-pagle"]=16,
 	["aeroes-pagle"]=3,
-	["aerzkei-arugal-au"]=17,
+	["aerzkei-arugal-au"]=5,
 	["aës-pagle"]=1,
 	["afekz-immerseus"]=14,
 	["affliktt-arugal-au"]=9,
@@ -6676,7 +6676,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["geebroni-pagle"]=16,
 	["gelania-pagle"]=18,
 	["genelron-lei-shen"]=16,
-	["gentleman-pagle"]=26,
+	["gentleman-pagle"]=25,
 	["genuinely-raden"]=1,
 	["geser-raden"]=20,
 	["getclapt-lei-shen"]=6,
@@ -8286,7 +8286,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["oleyellur-pagle"]=9,
 	["olimpux-pagle"]=20,
 	["oliverqueenn-galakras"]=18,
-	["Õmegaa-raden"]=20,
+	["Õmegaa-raden"]=18,
 	["omegaslammin-pagle"]=0,
 	["omegatres-raden"]=1,
 	["omgilovewow-pagle"]=19,
@@ -8696,7 +8696,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["relikemong-pagle"]=28,
 	["rellah-pagle"]=9,
 	["rellsx-nazgrim"]=16,
-	["relyt-pagle"]=29,
+	["relyt-pagle"]=14,
 	["rëmièl-pagle"]=16,
 	["remix-nazgrim"]=21,
 	["remytwotimes-pagle"]=0,
