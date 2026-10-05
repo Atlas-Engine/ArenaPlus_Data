@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9527 characters, read 2026-10-05 02:58 AM.
+-- Region tbc-us, 9527 characters, read 2026-10-05 03:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10322,7 +10322,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["blowchunkzz-nightslayer"]=7,
 	["blows-dreamscythe"]=10,
 	["bluchü-nightslayer"]=19,
-	["bludii-dreamscythe"]=19,
+	["bludii-dreamscythe"]=10,
 	["bluebearys-dreamscythe"]=5,
 	["blueberrypie-nightslayer"]=2,
 	["blueboar-dreamscythe"]=2,
@@ -11974,7 +11974,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["envys-dreamscythe"]=8,
 	["enwrd-nightslayer"]=5,
 	["eoin-nightslayer"]=10,
-	["ephemeral-nightslayer"]=3,
+	["ephemeral-nightslayer"]=7,
 	["ephirion-nightslayer"]=5,
 	["ephrine-nightslayer"]=8,
 	["epicureus-nightslayer"]=10,
@@ -13807,7 +13807,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["kennyloggnz-nightslayer"]=10,
 	["kenova-nightslayer"]=4,
 	["kenpx-nightslayer"]=25,
-	["kenulas-dreamscythe"]=17,
+	["kenulas-dreamscythe"]=15,
 	["keqing-nightslayer"]=3,
 	["kerador-nightslayer"]=5,
 	["keris-nightslayer"]=5,
@@ -14091,7 +14091,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["leftface-nightslayer"]=1,
 	["lefthandlary-nightslayer"]=12,
 	["lefttenclear-nightslayer"]=17,
-	["leftténclear-nightslayer"]=17,
+	["leftténclear-nightslayer"]=15,
 	["legalcitizen-nightslayer"]=1,
 	["legday-nightslayer"]=18,
 	["legitimately-dreamscythe"]=1,
@@ -14288,7 +14288,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["louislol-nightslayer"]=1,
 	["louisxv-nightslayer"]=5,
 	["loumajiao-nightslayer"]=13,
-	["loupal-nightslayer"]=25,
+	["loupal-nightslayer"]=11,
 	["lovebugs-nightslayer"]=1,
 	["lovegiver-nightslayer"]=4,
 	["lovelly-dreamscythe"]=2,
@@ -14621,7 +14621,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["menkissmen-nightslayer"]=18,
 	["menosat-nightslayer"]=12,
 	["menswear-nightslayer"]=6,
-	["mentosxp-nightslayer"]=14,
+	["mentosxp-nightslayer"]=1,
 	["meowbruh-nightslayer"]=5,
 	["méowcules-dreamscythe"]=18,
 	["meowformomy-nightslayer"]=19,
@@ -15352,7 +15352,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["okaybud-dreamscythe"]=2,
 	["okaybuddy-nightslayer"]=13,
 	["oku-nightslayer"]=14,
-	["okusang-nightslayer"]=24,
+	["okusang-nightslayer"]=10,
 	["olchungus-nightslayer"]=6,
 	["oldandslow-nightslayer"]=2,
 	["oldbc-nightslayer"]=19,
@@ -18475,7 +18475,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["widgito-nightslayer"]=10,
 	["wigglytoez-nightslayer"]=1,
 	["wiisepenny-nightslayer"]=10,
-	["wikey-nightslayer"]=21,
+	["wikey-nightslayer"]=15,
 	["wilbèr-nightslayer"]=10,
 	["wildmongoose-dreamscythe"]=6,
 	["wildyz-nightslayer"]=7,
