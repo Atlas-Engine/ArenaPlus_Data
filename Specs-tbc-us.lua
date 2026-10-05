@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9523 characters, read 2026-10-05 11:58 AM.
+-- Region tbc-us, 9523 characters, read 2026-10-05 12:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11060,7 +11060,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["couchman-dreamscythe"]=5,
 	["cøurage-nightslayer"]=0,
 	["cousineddiy-dreamscythe"]=7,
-	["covenant-nightslayer"]=8,
+	["covenant-nightslayer"]=5,
 	["cowasaurus-nightslayer"]=10,
 	["cowfurion-nightslayer"]=22,
 	["cowlbi-nightslayer"]=3,
@@ -14421,7 +14421,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["magnilol-nightslayer"]=1,
 	["mahiko-nightslayer"]=5,
 	["mahmymilkers-dreamscythe"]=2,
-	["mainbeam-nightslayer"]=22,
+	["mainbeam-nightslayer"]=7,
 	["mainim-nightslayer"]=1,
 	["mainlygay-nightslayer"]=4,
 	["mainstreeam-dreamscythe"]=19,
@@ -18954,11 +18954,11 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["zulkyx-nightslayer"]=14,
 	["zullia-dreamscythe"]=4,
 	["zumion-nightslayer"]=12,
-	["zurgs-dreamscythe"]=13,
+	["zurgs-dreamscythe"]=23,
 	["zurgzz-nightslayer"]=2,
 	["zurnr-dreamscythe"]=5,
 	["zurtflay-nightslayer"]=1,
-	["zusul-nightslayer"]=10,
+	["zusul-nightslayer"]=24,
 	["zuut-nightslayer"]=10,
 	["zvenx-dreamscythe"]=9,
 	["zvn-dreamscythe"]=5,
