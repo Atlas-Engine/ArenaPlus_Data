@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5316 characters, read 2026-10-05 12:00 AM.
+-- Region eu, 5317 characters, read 2026-10-05 01:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4433,6 +4433,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["wizzwíllìams-shekzeer"]=11,
 	["wjagge-shekzeer"]=10,
 	["wmdabuser-shekzeer"]=11,
+	["wmdmeta-shekzeer"]=41,
 	["wmwmwmwmwmw-shekzeer"]=41,
 	["wnky-shekzeer"]=10,
 	["wodarmsopx-shekzeer"]=10,
@@ -6152,7 +6153,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["djabdel-auberdine"]=21,
 	["djayer-shekzeer"]=15,
 	["djazaïrwar-auberdine"]=1,
-	["djburst-shekzeer"]=19,
+	["djburst-shekzeer"]=16,
 	["djevica-garalon"]=9,
 	["djevica-shekzeer"]=9,
 	["djevzy-garalon"]=20,
@@ -7486,7 +7487,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["liplinerxoxo-garalon"]=17,
 	["lipmode-norushen"]=14,
 	["lippy-norushen"]=2,
-	["liquidity-shekzeer"]=33,
+	["liquidity-shekzeer"]=8,
 	["liriel-shekzeer"]=6,
 	["lirielww-shekzeer"]=7,
 	["listerine-shekzeer"]=4,
@@ -8334,7 +8335,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["pînetatante-shekzeer"]=17,
 	["pingfade-shekzeer"]=12,
 	["pipelayer-shekzeer"]=24,
-	["pipioe-shekzeer"]=6,
+	["pipioe-shekzeer"]=7,
 	["pippilotta-shekzeer"]=9,
 	["pissemaur-shekzeer"]=6,
 	["pistolpete-shekzeer"]=0,
@@ -9358,7 +9359,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["toxicelitist-shekzeer"]=9,
 	["toxicfuz-garalon"]=6,
 	["toxiqkid-shekzeer"]=1,
-	["tpriestlx-shekzeer"]=12,
+	["tpriestlx-shekzeer"]=9,
 	["trackk-auberdine"]=24,
 	["tracye-shekzeer"]=9,
 	["trafålguy-garalon"]=6,
@@ -9544,7 +9545,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["velani-shekzeer"]=7,
 	["velena-shekzeer"]=8,
 	["velibaba-shekzeer"]=15,
-	["vemer-shekzeer"]=31,
+	["vemer-shekzeer"]=8,
 	["vendeta-shekzeer"]=8,
 	["venire-mirage-raceway"]=3,
 	["venóm-shekzeer"]=14,
@@ -9725,6 +9726,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["wizzwíllìams-shekzeer"]=2,
 	["wjagge-shekzeer"]=1,
 	["wmdabuser-shekzeer"]=1,
+	["wmdmeta-shekzeer"]=3,
 	["wmwmwmwmwmw-shekzeer"]=3,
 	["wnky-shekzeer"]=5,
 	["wodarmsopx-shekzeer"]=1,
@@ -9991,7 +9993,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["zugastrozug-mirage-raceway"]=18,
 	["zugborn-shekzeer"]=1,
 	["zugfu-garalon"]=7,
-	["zugokiji-garalon"]=33,
+	["zugokiji-garalon"]=8,
 	["zuju-mirage-raceway"]=7,
 	["zuldrok-garalon"]=6,
 	["zullf-shekzeer"]=5,

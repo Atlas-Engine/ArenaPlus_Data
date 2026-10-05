@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5187 characters, read 2026-10-04 11:59 PM.
+-- Region us, 5187 characters, read 2026-10-05 12:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2385,7 +2385,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["kinoshyba-pagle"]=10,
 	["kintok-raden"]=11,
 	["kiora-pagle"]=11,
-	["kiqsl-pagle"]=11,
 	["kiripha-arugal-au"]=61,
 	["kitezz-pagle"]=10,
 	["kittybruiser-galakras"]=81,
@@ -3209,7 +3208,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["onehunid-raden"]=10,
 	["onelasthero-raden"]=10,
 	["onepiecem-pagle"]=11,
-	["onëshotwar-raden"]=11,
 	["onlybabynugz-raden"]=70,
 	["onlyfatnugz-galakras"]=20,
 	["onlyfatnugz-raden"]=10,
@@ -5127,7 +5125,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["anakkrakatoa-nazgrim"]=11,
 	["anaksol-pagle"]=11,
 	["analayla-lei-shen"]=0,
-	["anariita-nazgrim"]=3,
+	["anariita-nazgrim"]=20,
 	["anastari-pagle"]=1,
 	["anastasiah-raden"]=24,
 	["anastasiahh-raden"]=21,
@@ -7427,7 +7425,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["kinoshyba-pagle"]=30,
 	["kintok-raden"]=26,
 	["kiora-pagle"]=29,
-	["kiqsl-pagle"]=28,
+	["kiqsl-pagle"]=0,
 	["kiqsw-pagle"]=0,
 	["kiripha-arugal-au"]=15,
 	["kitezz-pagle"]=20,
@@ -8300,7 +8298,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["onehunid-raden"]=3,
 	["onelasthero-raden"]=2,
 	["onepiecem-pagle"]=4,
-	["onëshotwar-raden"]=7,
+	["onëshotwar-raden"]=0,
 	["onlybabynugz-raden"]=11,
 	["onlyfatnugz-galakras"]=1,
 	["onlyfatnugz-raden"]=1,
@@ -8318,7 +8316,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["Örbköbë-pagle"]=4,
 	["orbs-arugal-au"]=0,
 	["orbscripter-pagle"]=4,
-	["orcetorix-pagle"]=6,
+	["orcetorix-pagle"]=25,
 	["orcsamabin-pagle"]=15,
 	["orcz-pagle"]=7,
 	["ordanary-pagle"]=4,
@@ -8351,7 +8349,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["oxandrolon-pagle"]=16,
 	["Øxx-pagle"]=10,
 	["oxxy-arugal-au"]=29,
-	["oxy-arugal-au"]=9,
+	["oxy-arugal-au"]=13,
 	["oxydd-arugal-au"]=5,
 	["oxydudu-arugal-au"]=5,
 	["oxzi-pagle"]=1,
