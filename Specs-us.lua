@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5187 characters, read 2026-10-05 10:59 AM.
+-- Region us, 5187 characters, read 2026-10-05 11:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6401,7 +6401,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["everelle-pagle"]=0,
 	["everlast-raden"]=24,
 	["evil-immerseus"]=21,
-	["evilchicken-raden"]=5,
+	["evilchicken-raden"]=17,
 	["evilforcesgx-pagle"]=14,
 	["eviriaa-pagle"]=25,
 	["evolution-pagle"]=5,
@@ -6622,7 +6622,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["fuzyywuzyy-nazgrim"]=13,
 	["fuzzywaifu-lei-shen"]=10,
 	["fxd-arugal-au"]=5,
-	["fyruss-pagle"]=20,
+	["fyruss-pagle"]=3,
 	["gaarah-pagle"]=1,
 	["gabimaru-raden"]=4,
 	["gaejustin-pagle"]=12,
@@ -8014,7 +8014,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["msr-galakras"]=3,
 	["msthickmeat-raden"]=22,
 	["mtj-atiesh"]=17,
-	["mufasaz-pagle"]=10,
+	["mufasaz-pagle"]=27,
 	["muffìn-raden"]=7,
 	["mugroso-galakras"]=18,
 	["mulban-pagle"]=14,
