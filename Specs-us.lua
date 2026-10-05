@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5186 characters, read 2026-10-05 01:59 AM.
+-- Region us, 5186 characters, read 2026-10-05 02:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2928,7 +2928,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["mòurn-pagle"]=71,
 	["mozzi-raden"]=10,
 	["mp-raden"]=41,
-	["mslusty-pagle"]=10,
+	["mslusty-pagle"]=11,
 	["msnurfme-raden"]=220,
 	["msr-galakras"]=80,
 	["msthickmeat-raden"]=31,
@@ -7256,7 +7256,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["jkae-pagle"]=21,
 	["jkaý-pagle"]=20,
 	["jkorbbot-pagle"]=4,
-	["jkorbbot-raden"]=4,
+	["jkorbbot-raden"]=27,
 	["jkrs-pagle"]=4,
 	["jnick-raden"]=12,
 	["jocah-raden"]=9,
@@ -8008,11 +8008,11 @@ ns.SPECS_BY_REGION["us"] = {
 	["mòurn-pagle"]=28,
 	["mozzi-raden"]=7,
 	["mp-raden"]=9,
-	["mslusty-pagle"]=10,
+	["mslusty-pagle"]=4,
 	["msnurfme-raden"]=5,
 	["msr-galakras"]=3,
 	["msthickmeat-raden"]=22,
-	["mtj-atiesh"]=5,
+	["mtj-atiesh"]=17,
 	["mufasaz-pagle"]=10,
 	["muffìn-raden"]=7,
 	["mugroso-galakras"]=18,
@@ -9412,7 +9412,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["swagasaurus-raden"]=1,
 	["swangydangy-raden"]=9,
 	["swasbuck-galakras"]=12,
-	["swatemtawkin-raden"]=15,
+	["swatemtawkin-raden"]=19,
 	["sweatnbullet-galakras"]=18,
 	["sweestrikes-raden"]=7,
 	["swiftone-pagle"]=12,
