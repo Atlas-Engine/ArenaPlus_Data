@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9522 characters, read 2026-10-05 05:58 AM.
+-- Region tbc-us, 9522 characters, read 2026-10-05 06:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10932,7 +10932,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["cleaveoclock-nightslayer"]=2,
 	["cleaveolock-nightslayer"]=13,
 	["cleland-nightslayer"]=4,
-	["cleoxo-nightslayer"]=4,
+	["cleoxo-nightslayer"]=6,
 	["cleymonslemy-nightslayer"]=13,
 	["climhazzard-nightslayer"]=5,
 	["clingan-nightslayer"]=5,
@@ -14382,7 +14382,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["macestrom-dreamscythe"]=2,
 	["macestubbz-nightslayer"]=2,
 	["macestunloto-nightslayer"]=2,
-	["maceswindu-nightslayer"]=8,
+	["maceswindu-nightslayer"]=5,
 	["macetrainer-nightslayer"]=2,
 	["macewindue-dreamscythe"]=2,
 	["mãchine-nightslayer"]=1,
@@ -14622,7 +14622,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["menswear-nightslayer"]=6,
 	["mentosxp-nightslayer"]=1,
 	["meowbruh-nightslayer"]=5,
-	["méowcules-dreamscythe"]=18,
+	["méowcules-dreamscythe"]=2,
 	["meowformomy-nightslayer"]=19,
 	["meowingtonz-nightslayer"]=7,
 	["meowpussgodx-nightslayer"]=7,
