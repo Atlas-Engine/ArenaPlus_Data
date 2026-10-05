@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9876 characters, read 2026-10-05 07:59 AM.
+-- Region tbc-eu, 9876 characters, read 2026-10-05 08:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6712,7 +6712,6 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["pvparena-spineshatter"]=30,
 	["pvpayne-thunderstrike"]=50,
 	["pvpbob-spineshatter"]=31,
-	["pvpbruce-spineshatter"]=11,
 	["pvpdroid-spineshatter"]=61,
 	["pvpjoe-spineshatter"]=30,
 	["pvprog-spineshatter"]=51,
@@ -12281,7 +12280,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["encode-spineshatter"]=5,
 	["endeavorqt-spineshatter"]=16,
 	["endschlag-spineshatter"]=12,
-	["endtal-spineshatter"]=9,
+	["endtal-spineshatter"]=4,
 	["endwokeness-spineshatter"]=1,
 	["endzeiit-thunderstrike"]=1,
 	["energywyrm-spineshatter"]=3,
@@ -13016,7 +13015,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["grausig-spineshatter"]=9,
 	["gravicius-thunderstrike"]=12,
 	["gravitypro-spineshatter"]=11,
-	["greave-spineshatter"]=5,
+	["greave-spineshatter"]=15,
 	["greåzy-spineshatter"]=5,
 	["greedyfox-spineshatter"]=2,
 	["greekmalakax-spineshatter"]=26,
@@ -16548,7 +16547,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["pvparena-spineshatter"]=3,
 	["pvpayne-thunderstrike"]=3,
 	["pvpbob-spineshatter"]=2,
-	["pvpbruce-spineshatter"]=3,
+	["pvpbruce-spineshatter"]=0,
 	["pvpdroid-spineshatter"]=1,
 	["pvpjoe-spineshatter"]=2,
 	["pvprog-spineshatter"]=3,
@@ -18157,7 +18156,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["swob-spineshatter"]=8,
 	["swoggheal-spineshatter"]=17,
 	["swordpunk-thunderstrike"]=5,
-	["swordrage-thunderstrike"]=5,
+	["swordrage-thunderstrike"]=15,
 	["swørds-thunderstrike"]=5,
 	["sxk-spineshatter"]=2,
 	["sxu-spineshatter"]=23,
@@ -19650,7 +19649,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["zralog-spineshatter"]=3,
 	["zrio-spineshatter"]=9,
 	["zrko-spineshatter"]=11,
-	["zrpbloom-spineshatter"]=6,
+	["zrpbloom-spineshatter"]=1,
 	["zrph-spineshatter"]=24,
 	["zrubman-spineshatter"]=9,
 	["zshinobi-spineshatter"]=3,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9526 characters, read 2026-10-05 07:58 AM.
+-- Region tbc-us, 9526 characters, read 2026-10-05 08:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9524,7 +9524,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["aeolides-dreamscythe"]=10,
 	["aêris-dreamscythe"]=19,
 	["aèrith-nightslayer"]=1,
-	["aermya-nightslayer"]=14,
+	["aermya-nightslayer"]=1,
 	["aesal-nightslayer"]=1,
 	["aesari-nightslayer"]=1,
 	["aeth-nightslayer"]=3,
@@ -11408,7 +11408,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["denthrix-dreamscythe"]=7,
 	["dentotem-nightslayer"]=10,
 	["denverbronco-nightslayer"]=6,
-	["depay-nightslayer"]=18,
+	["depay-nightslayer"]=2,
 	["deportmaxing-nightslayer"]=4,
 	["derekchaumin-nightslayer"]=19,
 	["derezzed-nightslayer"]=2,
@@ -13353,7 +13353,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["innovatorx-nightslayer"]=18,
 	["innovindill-dreamscythe"]=21,
 	["inquislolxd-nightslayer"]=0,
-	["insam-nightslayer"]=3,
+	["insam-nightslayer"]=7,
 	["insomniaq-nightslayer"]=12,
 	["insto-nightslayer"]=6,
 	["instruct-nightslayer"]=4,
@@ -18285,7 +18285,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["voidant-dreamscythe"]=13,
 	["voidpilled-nightslayer"]=0,
 	["voidwaltz-nightslayer"]=13,
-	["voisil-nightslayer"]=13,
+	["voisil-nightslayer"]=16,
 	["volarx-nightslayer"]=9,
 	["volboura-nightslayer"]=3,
 	["voldang-dreamscythe"]=6,
