@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9526 characters, read 2026-10-05 08:58 AM.
+-- Region tbc-us, 9526 characters, read 2026-10-05 09:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4488,6 +4488,7 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["kpns-nightslayer"]=50,
 	["kradekard-nightslayer"]=50,
 	["krapps-nightslayer"]=21,
+	["kratijjimajj-nightslayer"]=70,
 	["kravey-nightslayer"]=20,
 	["kraý-nightslayer"]=11,
 	["krazulqt-nightslayer"]=101,
@@ -13889,7 +13890,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["kitendine-nightslayer"]=7,
 	["kitkitkitkit-dreamscythe"]=5,
 	["kittlydingus-nightslayer"]=3,
-	["kittycat-nightslayer"]=7,
+	["kittycat-nightslayer"]=3,
 	["kittymilk-nightslayer"]=7,
 	["kïttymittens-dreamscythe"]=7,
 	["kix-nightslayer"]=0,
@@ -13954,7 +13955,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["krapps-nightslayer"]=2,
 	["krat-nightslayer"]=0,
 	["krataziqalak-nightslayer"]=0,
-	["kratijjimajj-nightslayer"]=0,
+	["kratijjimajj-nightslayer"]=4,
 	["kravey-nightslayer"]=19,
 	["kraý-nightslayer"]=9,
 	["krazulqt-nightslayer"]=9,
@@ -14199,7 +14200,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["lilzoh-nightslayer"]=8,
 	["linari-nightslayer"]=7,
 	["linckeslol-nightslayer"]=7,
-	["lindseyhealz-nightslayer"]=14,
+	["lindseyhealz-nightslayer"]=1,
 	["linenbandage-nightslayer"]=1,
 	["liniselia-dreamscythe"]=4,
 	["linkenr-nightslayer"]=8,

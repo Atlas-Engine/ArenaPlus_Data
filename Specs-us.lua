@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5186 characters, read 2026-10-05 08:59 AM.
+-- Region us, 5186 characters, read 2026-10-05 09:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6795,14 +6795,14 @@ ns.SPECS_BY_REGION["us"] = {
 	["grilled-pagle"]=31,
 	["grimaldo-nazgrim"]=12,
 	["grimeygoon-pagle"]=3,
-	["grimfrost-pagle"]=26,
+	["grimfrost-pagle"]=25,
 	["grimspwn-raden"]=6,
 	["grímtorn-galakras"]=3,
 	["gripdeeztwo-pagle"]=6,
 	["gripman-pagle"]=0,
 	["grizma-immerseus"]=3,
 	["grokkc-raden"]=5,
-	["groosaalugg-lei-shen"]=7,
+	["groosaalugg-lei-shen"]=30,
 	["grumpyaussie-galakras"]=28,
 	["grungecraft-raden"]=16,
 	["grxvy-nazgrim"]=18,
@@ -6869,7 +6869,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["harókz-raden"]=25,
 	["haroldpugh-raden"]=3,
 	["harrick-immerseus"]=34,
-	["härrick-immerseus"]=3,
+	["härrick-immerseus"]=20,
 	["harrydotter-raden"]=28,
 	["haruchann-pagle"]=10,
 	["hashie-pagle"]=12,
@@ -6891,7 +6891,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["healingmonk-pagle"]=4,
 	["healmeratt-galakras"]=2,
 	["healsbbqt-pagle"]=2,
-	["healsforyou-raden"]=10,
+	["healsforyou-raden"]=4,
 	["healsondek-pagle"]=2,
 	["healszx-pagle"]=0,
 	["heârtless-pagle"]=7,
@@ -9352,7 +9352,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["stonêd-raden"]=16,
 	["stooter-nazgrim"]=5,
 	["stooty-nazgrim"]=7,
-	["stoptalkme-raden"]=4,
+	["stoptalkme-raden"]=27,
 	["stormdaddyx-pagle"]=22,
 	["størmie-raden"]=15,
 	["stormieskye-galakras"]=17,
