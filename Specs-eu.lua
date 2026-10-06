@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5318 characters, read 2026-10-06 01:00 PM.
+-- Region eu, 5318 characters, read 2026-10-06 02:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7824,7 +7824,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["monais-shekzeer"]=16,
 	["monduk-auberdine"]=7,
 	["moneylong-shekzeer"]=17,
-	["mongoliamonk-hoptallus"]=16,
+	["mongoliamonk-hoptallus"]=13,
 	["mongue-garalon"]=9,
 	["monkasxd-everlook"]=6,
 	["monkasxd-ook-ook"]=6,
@@ -8635,7 +8635,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["rofmagexy-mirage-raceway"]=27,
 	["rogojine-shekzeer"]=5,
 	["rõgue-mirage-raceway"]=24,
-	["rogunjaknoha-norushen"]=24,
+	["rogunjaknoha-norushen"]=34,
 	["roheryn-shekzeer"]=1,
 	["roidesinges-shekzeer"]=1,
 	["rokusham-shekzeer"]=16,
@@ -8674,7 +8674,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["runshpower-shekzeer"]=16,
 	["runshtraps-shekzeer"]=4,
 	["rushsys-auberdine"]=13,
-	["rustarch-norushen"]=10,
+	["rustarch-norushen"]=2,
 	["ruzha-shekzeer"]=9,
 	["rv-shekzeer"]=4,
 	["rx-shekzeer"]=24,
@@ -9203,7 +9203,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["takor-shekzeer"]=16,
 	["takør-shekzeer"]=16,
 	["talahfrosti-shekzeer"]=2,
-	["talant-shekzeer"]=24,
+	["talant-shekzeer"]=26,
 	["taleá-everlook"]=21,
 	["tàleeo-shekzeer"]=9,
 	["talenttree-ook-ook"]=3,
@@ -10256,7 +10256,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Морикконе-flamegor"]=5,
 	["Мориконе-flamegor"]=5,
 	["Мором-flamegor"]=15,
-	["Мугрейн-chromie"]=31,
+	["Мугрейн-chromie"]=8,
 	["Мумаса-flamegor"]=13,
 	["Муране-flamegor"]=15,
 	["Мурмау-flamegor"]=21,
@@ -10326,7 +10326,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Роэри-flamegor"]=4,
 	["Рудиарии-flamegor"]=7,
 	["Савона-flamegor"]=1,
-	["Салиноуби-flamegor"]=14,
+	["Салиноуби-flamegor"]=4,
 	["Сальчичонофф-flamegor"]=3,
 	["Самлюцифер-flamegor"]=22,
 	["Саммерфинн-flamegor"]=9,
