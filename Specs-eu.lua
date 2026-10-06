@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5314 characters, read 2026-10-06 04:00 PM.
+-- Region eu, 5314 characters, read 2026-10-06 05:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1209,7 +1209,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["electricity-shekzeer"]=30,
 	["elemanth-shekzeer"]=111,
 	["elendîl-shekzeer"]=10,
-	["elesham-shekzeer"]=21,
 	["Êlestê-shekzeer"]=11,
 	["elf-shekzeer"]=40,
 	["elfie-shekzeer"]=11,
@@ -5945,7 +5944,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["controlp-norushen"]=5,
 	["controlr-norushen"]=24,
 	["controlww-norushen"]=1,
-	["controlx-norushen"]=4,
+	["controlx-norushen"]=14,
 	["corléonne-auberdine"]=6,
 	["corristo-shekzeer"]=10,
 	["corruptx-shekzeer"]=8,
@@ -6233,7 +6232,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["drawdówn-shekzeer"]=3,
 	["Ðraz-shekzeer"]=0,
 	["dréa-auberdine"]=15,
-	["dreakkova-shekzeer"]=12,
+	["dreakkova-shekzeer"]=9,
 	["dreamchaser-shekzeer"]=21,
 	["dreamfox-shekzeer"]=6,
 	["dreamhunnt-mirage-raceway"]=20,
@@ -6332,7 +6331,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["electricity-shekzeer"]=19,
 	["elemanth-shekzeer"]=16,
 	["elendîl-shekzeer"]=15,
-	["elesham-shekzeer"]=16,
+	["elesham-shekzeer"]=0,
 	["Êlestê-shekzeer"]=15,
 	["elf-shekzeer"]=3,
 	["elfie-shekzeer"]=12,
@@ -7025,7 +7024,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["jackynkoo-hoptallus"]=8,
 	["jäckynkôô-hoptallus"]=6,
 	["jackynoo-hoptallus"]=19,
-	["jâckywhâcky-shekzeer"]=4,
+	["jâckywhâcky-shekzeer"]=20,
 	["jacqueline-shekzeer"]=19,
 	["jagälskardig-shekzeer"]=1,
 	["jagerovich-shekzeer"]=11,
@@ -7677,7 +7676,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["maxiwho-shekzeer"]=0,
 	["maxthepala-everlook"]=15,
 	["maybemonk-mirage-raceway"]=29,
-	["mayboo-auberdine"]=24,
+	["mayboo-auberdine"]=34,
 	["mayopatra-shekzeer"]=9,
 	["mazia-shekzeer"]=2,
 	["mbs-shekzeer"]=13,
@@ -9866,7 +9865,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["yuli-shekzeer"]=0,
 	["yumixi-shekzeer"]=29,
 	["yummyx-shekzeer"]=5,
-	["yungdari-garalon"]=11,
+	["yungdari-garalon"]=3,
 	["yuo-garalon"]=1,
 	["yuravski-mirage-raceway"]=13,
 	["yuravskiy-mirage-raceway"]=16,
