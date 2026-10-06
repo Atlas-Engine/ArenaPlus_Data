@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9855 characters, read 2026-10-06 06:59 AM.
+-- Region tbc-eu, 9855 characters, read 2026-10-06 07:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10072,7 +10072,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["anselmvs-spineshatter"]=26,
 	["anshadow-spineshatter"]=19,
 	["añt-spineshatter"]=1,
-	["antarticx-spineshatter"]=4,
+	["antarticx-spineshatter"]=9,
 	["Ánticide-spineshatter"]=5,
 	["antisocialxx-spineshatter"]=2,
 	["antiswar-thunderstrike"]=5,
@@ -10826,7 +10826,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["briizi-spineshatter"]=5,
 	["brippan-spineshatter"]=2,
 	["brittunculi-spineshatter"]=12,
-	["brizi-spineshatter"]=19,
+	["brizi-spineshatter"]=3,
 	["brkn-spineshatter"]=11,
 	["broadwayffs-spineshatter"]=24,
 	["brockobama-spineshatter"]=9,
@@ -13853,7 +13853,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["jontx-spineshatter"]=5,
 	["jonza-spineshatter"]=5,
 	["jopps-spineshatter"]=9,
-	["jörgenflöjt-spineshatter"]=17,
+	["jörgenflöjt-spineshatter"]=2,
 	["jörmungadr-thunderstrike"]=23,
 	["jörppädeluxe-thunderstrike"]=7,
 	["josèphine-spineshatter"]=12,
@@ -14232,7 +14232,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["kolouchex-spineshatter"]=14,
 	["kolouchova-spineshatter"]=17,
 	["kolperog-spineshatter"]=3,
-	["kolun-spineshatter"]=19,
+	["kolun-spineshatter"]=3,
 	["kombikorm-spineshatter"]=1,
 	["komiszar-spineshatter"]=2,
 	["koncovshikx-spineshatter"]=10,
@@ -18638,7 +18638,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["twigsbee-spineshatter"]=25,
 	["twinii-spineshatter"]=13,
 	["twinklolz-spineshatter"]=3,
-	["twinkøff-spineshatter"]=18,
+	["twinkøff-spineshatter"]=13,
 	["twinsqt-spineshatter"]=23,
 	["twisky-spineshatter"]=4,
 	["twistaaja-spineshatter"]=7,
@@ -19192,7 +19192,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["wwqqx-spineshatter"]=9,
 	["wx-spineshatter"]=13,
 	["wxim-spineshatter"]=15,
-	["wypersh-spineshatter"]=12,
+	["wypersh-spineshatter"]=23,
 	["wyrmhide-spineshatter"]=9,
 	["wyxed-spineshatter"]=1,
 	["wyzed-spineshatter"]=15,
