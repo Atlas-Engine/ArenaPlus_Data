@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9852 characters, read 2026-10-06 01:59 AM.
+-- Region tbc-eu, 9852 characters, read 2026-10-06 02:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12470,7 +12470,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["feels-spineshatter"]=1,
 	["feelsokay-thunderstrike"]=13,
 	["feelyourpain-spineshatter"]=2,
-	["feetfanatic-spineshatter"]=2,
+	["feetfanatic-spineshatter"]=17,
 	["feigntrap-spineshatter"]=25,
 	["feinii-spineshatter"]=1,
 	["fejke-spineshatter"]=9,
@@ -12677,7 +12677,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["francuzik-spineshatter"]=13,
 	["frändesjö-spineshatter"]=2,
 	["frandiks-thunderstrike"]=19,
-	["frankensteln-spineshatter"]=3,
+	["frankensteln-spineshatter"]=19,
 	["frankyy-spineshatter"]=24,
 	["fränni-spineshatter"]=9,
 	["fratzz-spineshatter"]=11,
@@ -14932,7 +14932,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["marveth-spineshatter"]=12,
 	["mârvin-spineshatter"]=17,
 	["marvlol-thunderstrike"]=5,
-	["más-spineshatter"]=5,
+	["más-spineshatter"]=15,
 	["mashkov-spineshatter"]=11,
 	["mashylya-spineshatter"]=2,
 	["maslowgødx-spineshatter"]=25,
@@ -16271,7 +16271,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["pixelatelips-spineshatter"]=3,
 	["pixelthirst-thunderstrike"]=5,
 	["pixled-spineshatter"]=11,
-	["pixlerx-spineshatter"]=3,
+	["pixlerx-spineshatter"]=19,
 	["pixxienormus-thunderstrike"]=19,
 	["pîxxy-spineshatter"]=5,
 	["pkr-spineshatter"]=9,
@@ -16955,7 +16955,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["roseros-spineshatter"]=10,
 	["rosewen-spineshatter"]=3,
 	["rosscameron-spineshatter"]=6,
-	["rosvojari-spineshatter"]=19,
+	["rosvojari-spineshatter"]=3,
 	["rosvomisa-spineshatter"]=3,
 	["rotarepmi-thunderstrike"]=5,
 	["rotdealer-spineshatter"]=13,
