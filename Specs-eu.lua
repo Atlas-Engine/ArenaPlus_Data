@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5320 characters, read 2026-10-06 09:00 AM.
+-- Region eu, 5320 characters, read 2026-10-06 10:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -882,7 +882,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["crystalsteal-shekzeer"]=11,
 	["cuccó-garalon"]=20,
 	["cuckmycoocon-shekzeer"]=11,
-	["cuckquatre-shekzeer"]=11,
 	["cúdder-everlook"]=60,
 	["cùdder-everlook"]=21,
 	["cudder-shekzeer"]=11,
@@ -2293,6 +2292,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["lightpaladin-garalon"]=101,
 	["lilbroke-shekzeer"]=10,
 	["lilcaprice-everlook"]=41,
+	["lilîthia-auberdine"]=11,
 	["liljohnson-shekzeer"]=31,
 	["lilkurani-shekzeer"]=11,
 	["lilldoris-garalon"]=101,
@@ -5178,7 +5178,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["adamsecurity-shekzeer"]=9,
 	["adanae-norushen"]=15,
 	["adarä-shekzeer"]=5,
-	["aderallmeta-shekzeer"]=11,
+	["aderallmeta-shekzeer"]=3,
 	["adesanya-shekzeer"]=7,
 	["adimor-mirage-raceway"]=6,
 	["adonix-auberdine"]=8,
@@ -5997,7 +5997,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["crystalsteal-shekzeer"]=1,
 	["cuccó-garalon"]=4,
 	["cuckmycoocon-shekzeer"]=7,
-	["cuckquatre-shekzeer"]=17,
 	["cúdder-everlook"]=11,
 	["cùdder-everlook"]=4,
 	["cudder-shekzeer"]=15,
@@ -6712,7 +6711,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["grönavesslan-shekzeer"]=11,
 	["grondax-norushen"]=5,
 	["grsy-shekzeer"]=6,
-	["grumpyolbaby-shekzeer"]=11,
+	["grumpyolbaby-shekzeer"]=3,
 	["grumshado-hoptallus"]=6,
 	["gsek-shekzeer"]=1,
 	["guangtou-shekzeer"]=1,
@@ -7148,7 +7147,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["juhi-shekzeer"]=5,
 	["juicedog-shekzeer"]=5,
 	["juicehunter-garalon"]=4,
-	["juicyhieler-everlook"]=9,
+	["juicyhieler-everlook"]=22,
 	["juicykon-everlook"]=15,
 	["juicynancy-everlook"]=6,
 	["juicyverÿ-shekzeer"]=17,
@@ -7475,6 +7474,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["lightpaladin-garalon"]=15,
 	["lilbroke-shekzeer"]=4,
 	["lilcaprice-everlook"]=6,
+	["lilîthia-auberdine"]=2,
 	["liljohnson-shekzeer"]=16,
 	["lilkurani-shekzeer"]=20,
 	["lilldoris-garalon"]=15,
@@ -9390,7 +9390,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["tren-shekzeer"]=9,
 	["trend-shekzeer"]=7,
 	["trendsetter-shekzeer"]=1,
-	["trera-norushen"]=6,
+	["trera-norushen"]=7,
 	["tresiba-garalon"]=2,
 	["trgtacquired-mirage-raceway"]=13,
 	["triatpally-shekzeer"]=15,
