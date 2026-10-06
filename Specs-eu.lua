@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5318 characters, read 2026-10-06 06:00 AM.
+-- Region eu, 5320 characters, read 2026-10-06 07:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -882,6 +882,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["crystalsteal-shekzeer"]=11,
 	["cuccó-garalon"]=20,
 	["cuckmycoocon-shekzeer"]=11,
+	["cuckquatre-shekzeer"]=11,
 	["cúdder-everlook"]=60,
 	["cùdder-everlook"]=21,
 	["cudder-shekzeer"]=11,
@@ -5579,7 +5580,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bernadeta-shekzeer"]=19,
 	["bernadette-shekzeer"]=8,
 	["berrett-auberdine"]=24,
-	["berserkvalor-shekzeer"]=33,
+	["berserkvalor-shekzeer"]=31,
 	["berthiine-shekzeer"]=2,
 	["beskunk-shekzeer"]=9,
 	["besospriest-shekzeer"]=22,
@@ -5996,6 +5997,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["crystalsteal-shekzeer"]=1,
 	["cuccó-garalon"]=4,
 	["cuckmycoocon-shekzeer"]=7,
+	["cuckquatre-shekzeer"]=17,
 	["cúdder-everlook"]=11,
 	["cùdder-everlook"]=4,
 	["cudder-shekzeer"]=15,
@@ -6331,6 +6333,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["eláena-hoptallus"]=21,
 	["elbustada-garalon"]=15,
 	["elcarsti-hoptallus"]=15,
+	["elcocoriko-shekzeer"]=0,
 	["elden-everlook"]=5,
 	["eldorado-shekzeer"]=16,
 	["eleabuser-everlook"]=0,
@@ -9578,7 +9581,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["veyn-shekzeer"]=24,
 	["vezir-shekzeer"]=11,
 	["victuz-gehennas"]=0,
-	["videostore-shekzeer"]=20,
+	["videostore-shekzeer"]=4,
 	["viint-shekzeer"]=8,
 	["vïïnt-shekzeer"]=21,
 	["vilenciaga-shekzeer"]=1,

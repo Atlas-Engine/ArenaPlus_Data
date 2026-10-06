@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5190 characters, read 2026-10-06 05:59 AM.
+-- Region us, 5190 characters, read 2026-10-06 06:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7427,7 +7427,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["kìñgdëmøñ-pagle"]=16,
 	["kìngrøach-galakras"]=14,
 	["kinkystwosvn-nazgrim"]=0,
-	["kinoshyba-pagle"]=30,
+	["kinoshyba-pagle"]=7,
 	["kintok-raden"]=26,
 	["kiora-pagle"]=29,
 	["kiqsl-pagle"]=0,
@@ -7447,10 +7447,10 @@ ns.SPECS_BY_REGION["us"] = {
 	["klept-raden"]=10,
 	["kleptix-raden"]=34,
 	["knottypawz-pagle"]=17,
-	["knuckles-pagle"]=7,
+	["knuckles-pagle"]=23,
 	["knucklès-pagle"]=2,
 	["knûckles-pagle"]=5,
-	["kñuckles-pagle"]=6,
+	["kñuckles-pagle"]=26,
 	["knuklefkr-nazgrim"]=24,
 	["kokuzin-pagle"]=7,
 	["kolokk-immerseus"]=26,
@@ -8586,7 +8586,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["quartêrmain-pagle"]=3,
 	["quelss-pagle"]=2,
 	["quesø-pagle"]=29,
-	["questopresto-nazgrim"]=10,
+	["questopresto-nazgrim"]=4,
 	["quickscopex-pagle"]=3,
 	["quickvanish-pagle"]=34,
 	["qwanya-raden"]=1,
