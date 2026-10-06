@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5314 characters, read 2026-10-06 05:00 PM.
+-- Region eu, 5314 characters, read 2026-10-06 06:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2343,7 +2343,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["lorry-shekzeer"]=70,
 	["loseandicba-ook-ook"]=11,
 	["loses-shekzeer"]=11,
-	["løsna-shekzeer"]=11,
+	["løsna-shekzeer"]=10,
 	["lotengoio-shekzeer"]=50,
 	["lotvein-hoptallus"]=250,
 	["loty-shekzeer"]=10,
@@ -4046,7 +4046,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["titanuranuz-mirage-raceway"]=10,
 	["tjyo-everlook"]=11,
 	["tlxdx-shekzeer"]=41,
-	["tlxx-garalon"]=61,
+	["tlxx-garalon"]=60,
 	["tobilock-shekzeer"]=11,
 	["toiletchamx-shekzeer"]=31,
 	["toiletmonkx-shekzeer"]=11,
@@ -4076,7 +4076,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["torrio-shekzeer"]=30,
 	["torryz-shekzeer"]=10,
 	["tosfandes-shekzeer"]=11,
-	["totemgodx-shekzeer"]=21,
+	["totemgodx-shekzeer"]=20,
 	["totemicwave-shekzeer"]=110,
 	["totemkhamun-garalon"]=111,
 	["totemmvp-shekzeer"]=30,
@@ -5742,7 +5742,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bumbelbegodx-shekzeer"]=14,
 	["bumbelbemonk-shekzeer"]=29,
 	["bumbeldruid-shekzeer"]=21,
-	["bumbelgnome-shekzeer"]=29,
+	["bumbelgnome-shekzeer"]=7,
 	["bumbelmonk-garalon"]=7,
 	["bumbelorc-garalon"]=29,
 	["bumbelwar-shekzeer"]=25,
@@ -7055,7 +7055,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["janwarlock-hoptallus"]=17,
 	["jaquechirac-auberdine"]=1,
 	["jarclass-shekzeer"]=2,
-	["jasmíina-norushen"]=20,
+	["jasmíina-norushen"]=14,
 	["jasplane-shekzeer"]=2,
 	["jaxzon-hoptallus"]=10,
 	["jay-shekzeer"]=2,
@@ -8955,7 +8955,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["smileyslayer-mirage-raceway"]=4,
 	["smille-shekzeer"]=5,
 	["smirnoffice-shekzeer"]=3,
-	["smîte-shekzeer"]=12,
+	["smîte-shekzeer"]=22,
 	["smo-shekzeer"]=11,
 	["smokepûrp-shekzeer"]=23,
 	["smokerz-mirage-raceway"]=24,

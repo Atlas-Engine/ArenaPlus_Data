@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5183 characters, read 2026-10-06 04:59 PM.
+-- Region us, 5183 characters, read 2026-10-06 05:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5472,7 +5472,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["bloodofares-nazgrim"]=7,
 	["bloodofnotus-nazgrim"]=27,
 	["bloodrake-nazgrim"]=25,
-	["bloodsoakd-pagle"]=23,
+	["bloodsoakd-pagle"]=7,
 	["bloodvâlor-lei-shen"]=6,
 	["bloombringer-pagle"]=0,
 	["blooms-pagle"]=17,
@@ -5564,7 +5564,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["branco-raden"]=0,
 	["brandoncle-galakras"]=2,
 	["brazzeal-pagle"]=16,
-	["brbcloning-pagle"]=5,
+	["brbcloning-pagle"]=17,
 	["brbsheeping-pagle"]=1,
 	["breewdable-pagle"]=10,
 	["brendedoo-galakras"]=3,
@@ -5670,7 +5670,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["cannabimorph-pagle"]=5,
 	["cannibirilla-pagle"]=7,
 	["canogapark-pagle"]=28,
-	["cantgetmeoff-pagle"]=7,
+	["cantgetmeoff-pagle"]=30,
 	["cäpriëstsun-pagle"]=9,
 	["carbontaxes-pagle"]=1,
 	["cardpally-galakras"]=16,
@@ -5942,7 +5942,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["Ðamaia-pagle"]=7,
 	["damanî-pagle"]=34,
 	["dampeners-raden"]=8,
-	["danar-raden"]=17,
+	["danar-raden"]=5,
 	["dáncingmines-raden"]=5,
 	["dandor-pagle"]=7,
 	["dankenbrew-lei-shen"]=4,
@@ -6794,7 +6794,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["grilled-pagle"]=31,
 	["grimaldo-nazgrim"]=12,
 	["grimeygoon-pagle"]=3,
-	["grimfrost-pagle"]=25,
+	["grimfrost-pagle"]=26,
 	["grimspwn-raden"]=6,
 	["grímtorn-galakras"]=3,
 	["gripdeeztwo-pagle"]=6,
@@ -8188,7 +8188,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["nomids-pagle"]=3,
 	["noneedrdruid-raden"]=5,
 	["nooki-raden"]=20,
-	["noomsee-immerseus"]=21,
+	["noomsee-immerseus"]=9,
 	["nopants-raden"]=1,
 	["norespect-pagle"]=7,
 	["northlane-raden"]=17,
@@ -9334,7 +9334,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["sterleus-galakras"]=19,
 	["sterlìng-galakras"]=7,
 	["sterlinng-galakras"]=10,
-	["sterlÿng-galakras"]=16,
+	["sterlÿng-galakras"]=2,
 	["stevebox-myzrael"]=0,
 	["stevenrae-nazgrim"]=7,
 	["stickychicks-pagle"]=1,
