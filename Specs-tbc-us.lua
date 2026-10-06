@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9502 characters, read 2026-10-06 04:58 AM.
+-- Region tbc-us, 9502 characters, read 2026-10-06 05:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10714,7 +10714,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ceraxià-nightslayer"]=11,
 	["ceredwyn-dreamscythe"]=7,
 	["cerise-nightslayer"]=5,
-	["cerren-nightslayer"]=10,
+	["cerren-nightslayer"]=19,
 	["cevski-nightslayer"]=0,
 	["cfm-nightslayer"]=1,
 	["chachamaru-nightslayer"]=10,
@@ -16017,7 +16017,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["rankonedad-nightslayer"]=5,
 	["rankr-nightslayer"]=1,
 	["ransomed-nightslayer"]=5,
-	["rapcher-nightslayer"]=5,
+	["rapcher-nightslayer"]=8,
 	["rapidrogue-nightslayer"]=5,
 	["rapidslol-nightslayer"]=6,
 	["rapidtugi-nightslayer"]=15,
@@ -16369,7 +16369,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["rushie-nightslayer"]=18,
 	["rushieqt-nightslayer"]=13,
 	["rustyspyda-nightslayer"]=1,
-	["ruthieree-dreamscythe"]=14,
+	["ruthieree-dreamscythe"]=1,
 	["ruusk-nightslayer"]=10,
 	["ruxl-nightslayer"]=18,
 	["ruzok-nightslayer"]=2,
@@ -17262,7 +17262,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["stazx-dreamscythe"]=1,
 	["stealthden-nightslayer"]=5,
 	["stealthdog-nightslayer"]=5,
-	["stealthlol-nightslayer"]=8,
+	["stealthlol-nightslayer"]=5,
 	["stealthster-nightslayer"]=5,
 	["stealthsters-nightslayer"]=5,
 	["stealthyman-nightslayer"]=5,
@@ -18174,7 +18174,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["vespirmere-nightslayer"]=13,
 	["vester-nightslayer"]=1,
 	["vexcc-nightslayer"]=19,
-	["vexmax-nightslayer"]=4,
+	["vexmax-nightslayer"]=6,
 	["vexsa-dreamscythe"]=5,
 	["vexx-nightslayer"]=4,
 	["vexzic-nightslayer"]=15,

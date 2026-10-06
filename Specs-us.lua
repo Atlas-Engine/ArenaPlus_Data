@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5190 characters, read 2026-10-06 04:59 AM.
+-- Region us, 5190 characters, read 2026-10-06 05:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5048,7 +5048,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["aellane-pagle"]=26,
 	["Ærîthøs-pagle"]=16,
 	["aeroes-pagle"]=3,
-	["aerzkei-arugal-au"]=17,
+	["aerzkei-arugal-au"]=5,
 	["aës-pagle"]=1,
 	["afekz-immerseus"]=14,
 	["affliktt-arugal-au"]=9,
@@ -7559,7 +7559,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["lekkia-pagle"]=9,
 	["leonidasxd-raden"]=7,
 	["leonidasxl-pagle"]=4,
-	["leowna-pagle"]=2,
+	["leowna-pagle"]=16,
 	["leownaa-pagle"]=2,
 	["lepermesiah-pagle"]=20,
 	["lepson-nazgrim"]=7,
@@ -9667,7 +9667,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["triis-pagle"]=8,
 	["trinketcleav-pagle"]=29,
 	["triskets-pagle"]=7,
-	["trisomi-pagle"]=20,
+	["trisomi-pagle"]=18,
 	["tritenxyz-raden"]=6,
 	["triver-galakras"]=10,
 	["trogath-atiesh"]=3,
