@@ -18,7 +18,7 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region eu, season 14, read 2026-10-06 04:00 AM.
+-- Region eu, season 14, read 2026-10-06 05:00 AM.
 -- Realm display names, because the ladder only carries slugs and no rule
 -- turns one back into the other: raden is Ra-den, lei-shen is Lei Shen and
 -- arugal-au is Arugal (AU). Read from Blizzard's realm index; a slug with no
@@ -35,8 +35,8 @@ ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["eu"] = {
 	region  = "eu",
-	checked = "2026-10-06 04:00 AM",
-	checkedEpoch = 1791273609,
+	checked = "2026-10-06 05:00 AM",
+	checkedEpoch = 1791277207,
 	snapshot = "2026-10-06 07:16",
 
 	[1] = {  -- 2v2, 5003 places, down to rating 1047 -- the API stops here, short of the cutoff
@@ -220,11 +220,11 @@ ns.LEADERBOARD_BY_REGION["eu"] = {
 		{ rank=178, name="ßlinkd", realm="shekzeer", rating=2398, won=103, lost=73, faction="ALLIANCE" },
 		{ rank=179, name="Wïns", realm="shekzeer", rating=2396, won=126, lost=108, faction="ALLIANCE", mr=2441, dr=-39, dk=52 },
 		{ rank=180, name="Jakam", realm="shekzeer", rating=2395, won=228, lost=211, faction="ALLIANCE", dr=0, dk=11 },
+		{ rank=180, name="Loses", realm="shekzeer", rating=2395, won=102, lost=64, faction="ALLIANCE", mr=2432, dr=-30, dk=39 },
 		{ rank=180, name="Maaxxpriest", realm="shekzeer", rating=2395, won=97, lost=46, faction="ALLIANCE", mr=2414, dr=0, dk=11 },
 		{ rank=180, name="Orbyy", realm="shekzeer", rating=2395, won=68, lost=44, faction="ALLIANCE", dr=0, dk=11 },
-		{ rank=183, name="Loses", realm="shekzeer", rating=2393, won=101, lost=64, faction="ALLIANCE", mr=2432, dr=-32, dk=42 },
-		{ rank=183, name="Maedicww", realm="shekzeer", rating=2393, won=126, lost=55, faction="ALLIANCE", dr=0, dk=9 },
-		{ rank=183, name="Sofear", realm="everlook", rating=2393, won=124, lost=78, faction="ALLIANCE", mr=2406, dr=0, dk=9 },
+		{ rank=184, name="Maedicww", realm="shekzeer", rating=2393, won=126, lost=55, faction="ALLIANCE", dr=0, dk=10 },
+		{ rank=184, name="Sofear", realm="everlook", rating=2393, won=124, lost=78, faction="ALLIANCE", mr=2406, dr=0, dk=10 },
 		{ rank=186, name="Moýo", realm="shekzeer", rating=2392, won=62, lost=11, faction="ALLIANCE", dr=0, dk=9 },
 		{ rank=187, name="Otexzz", realm="shekzeer", rating=2388, won=134, lost=113, faction="ALLIANCE", dr=0, dk=8 },
 		{ rank=187, name="Sýgýtt", realm="shekzeer", rating=2388, won=134, lost=113, faction="ALLIANCE", dr=0, dk=8 },
