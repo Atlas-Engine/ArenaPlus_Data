@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5183 characters, read 2026-10-06 02:59 PM.
+-- Region us, 5183 characters, read 2026-10-06 03:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5942,7 +5942,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["damacus-raden"]=1,
 	["Ðamaia-pagle"]=7,
 	["damanî-pagle"]=34,
-	["dampeners-raden"]=28,
+	["dampeners-raden"]=8,
 	["danar-raden"]=17,
 	["dáncingmines-raden"]=5,
 	["dandor-pagle"]=7,
@@ -5995,7 +5995,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["deadlifta-pagle"]=6,
 	["deadlylifts-pagle"]=7,
 	["deadmoon-galakras"]=24,
-	["deadnutz-nazgrim"]=34,
+	["deadnutz-nazgrim"]=14,
 	["deadpal-galakras"]=16,
 	["deadpoolwins-pagle"]=6,
 	["deadshottz-galakras"]=3,
@@ -7440,7 +7440,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["knottypawz-pagle"]=17,
 	["knuckles-pagle"]=23,
 	["knucklès-pagle"]=2,
-	["knûckles-pagle"]=5,
+	["knûckles-pagle"]=17,
 	["kñuckles-pagle"]=26,
 	["knuklefkr-nazgrim"]=24,
 	["kokuzin-pagle"]=7,
@@ -8679,7 +8679,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["rejuvemoo-pagle"]=5,
 	["rekkingball-galakras"]=7,
 	["rekkzz-raden"]=20,
-	["rekstorm-nazgrim"]=30,
+	["rekstorm-nazgrim"]=7,
 	["rektalrager-galakras"]=22,
 	["rekzor-raden"]=7,
 	["rel-nazgrim"]=26,
@@ -8805,7 +8805,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["rougesd-pagle"]=14,
 	["roxxe-raden"]=2,
 	["royalbear-lei-shen"]=18,
-	["royalflush-pagle"]=9,
+	["royalflush-pagle"]=21,
 	["royalkelly-raden"]=21,
 	["royalpaladin-lei-shen"]=32,
 	["royalqt-pagle"]=2,

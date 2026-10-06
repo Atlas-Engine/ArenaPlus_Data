@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9491 characters, read 2026-10-06 02:58 PM.
+-- Region tbc-us, 9491 characters, read 2026-10-06 03:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -13023,7 +13023,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["hobbyropkin-dreamscythe"]=11,
 	["hobertdwnyjr-nightslayer"]=1,
 	["hobknockr-nightslayer"]=5,
-	["hoemaster-dreamscythe"]=13,
+	["hoemaster-dreamscythe"]=23,
 	["hoeplate-nightslayer"]=2,
 	["hoeta-nightslayer"]=10,
 	["hofak-dreamscythe"]=10,
@@ -14187,7 +14187,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["lizardwar-nightslayer"]=2,
 	["lj-nightslayer"]=2,
 	["lladael-dreamscythe"]=0,
-	["llamallamaa-dreamscythe"]=15,
+	["llamallamaa-dreamscythe"]=21,
 	["lls-nightslayer"]=4,
 	["lluminati-nightslayer"]=25,
 	["lmaoidiot-nightslayer"]=13,
@@ -14994,7 +14994,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["necrosatanic-nightslayer"]=14,
 	["necroseed-dreamscythe"]=13,
 	["necrospleen-nightslayer"]=23,
-	["nedkar-dreamscythe"]=18,
+	["nedkar-dreamscythe"]=2,
 	["nedved-nightslayer"]=5,
 	["neeble-nightslayer"]=16,
 	["needadefib-nightslayer"]=10,
@@ -15061,7 +15061,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["neytïrï-dreamscythe"]=7,
 	["nezhra-dreamscythe"]=2,
 	["nezn-nightslayer"]=6,
-	["nezrul-dreamscythe"]=19,
+	["nezrul-dreamscythe"]=10,
 	["nezyra-dreamscythe"]=1,
 	["nezzy-nightslayer"]=24,
 	["nfmarksman-nightslayer"]=15,
@@ -16345,7 +16345,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["runawway-dreamscythe"]=5,
 	["runescaper-nightslayer"]=2,
 	["runitbracks-nightslayer"]=18,
-	["rushie-nightslayer"]=18,
+	["rushie-nightslayer"]=2,
 	["rushieqt-nightslayer"]=13,
 	["rustyspyda-nightslayer"]=1,
 	["ruthieree-dreamscythe"]=1,
@@ -17868,7 +17868,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["trollzero-nightslayer"]=0,
 	["tropospheric-nightslayer"]=24,
 	["troublelock-nightslayer"]=16,
-	["troublmaker-dreamscythe"]=13,
+	["troublmaker-dreamscythe"]=23,
 	["troxxed-nightslayer"]=7,
 	["troyx-nightslayer"]=8,
 	["trps-nightslayer"]=0,
