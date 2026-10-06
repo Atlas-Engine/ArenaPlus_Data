@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9880 characters, read 2026-10-05 07:59 PM.
+-- Region tbc-eu, 9880 characters, read 2026-10-05 08:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12286,7 +12286,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["endwokeness-spineshatter"]=1,
 	["energywyrm-spineshatter"]=3,
 	["enhancelol-thunderstrike"]=11,
-	["enhancementx-spineshatter"]=11,
+	["enhancementx-spineshatter"]=12,
 	["enhbeastx-spineshatter"]=12,
 	["enígma-spineshatter"]=9,
 	["enigmz-spineshatter"]=5,
@@ -12298,7 +12298,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["ennui-spineshatter"]=7,
 	["enrenren-spineshatter"]=3,
 	["ensmutsigren-spineshatter"]=2,
-	["ensore-spineshatter"]=2,
+	["ensore-spineshatter"]=17,
 	["envu-spineshatter"]=5,
 	["envuu-spineshatter"]=11,
 	["envyo-spineshatter"]=2,
@@ -13197,7 +13197,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["hdm-spineshatter"]=9,
 	["hdsweetdream-spineshatter"]=11,
 	["heajlø-spineshatter"]=11,
-	["healccdmg-spineshatter"]=2,
+	["healccdmg-spineshatter"]=17,
 	["healdah-spineshatter"]=2,
 	["healdier-thunderstrike"]=1,
 	["healdyf-spineshatter"]=0,
@@ -13936,7 +13936,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["juppan-spineshatter"]=25,
 	["jurasek-spineshatter"]=2,
 	["jurbik-spineshatter"]=3,
-	["jürgendickn-spineshatter"]=2,
+	["jürgendickn-spineshatter"]=17,
 	["justadog-spineshatter"]=3,
 	["justaduc-spineshatter"]=13,
 	["justaduck-spineshatter"]=5,
@@ -15434,7 +15434,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["munamutteri-spineshatter"]=4,
 	["muncheez-spineshatter"]=3,
 	["mûnix-thunderstrike"]=1,
-	["muradrim-spineshatter"]=8,
+	["muradrim-spineshatter"]=2,
 	["murchy-spineshatter"]=11,
 	["murmels-spineshatter"]=1,
 	["mùrph-spineshatter"]=1,
@@ -15592,7 +15592,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["nazuna-thunderstrike"]=5,
 	["ncer-spineshatter"]=17,
 	["nci-spineshatter"]=15,
-	["ncrx-spineshatter"]=13,
+	["ncrx-spineshatter"]=14,
 	["ncxd-spineshatter"]=3,
 	["neady-spineshatter"]=2,
 	["nealalol-spineshatter"]=2,
@@ -17131,7 +17131,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["sandalïmx-spineshatter"]=2,
 	["sandelssi-spineshatter"]=11,
 	["sandmacka-spineshatter"]=22,
-	["sandycheekz-thunderstrike"]=3,
+	["sandycheekz-thunderstrike"]=19,
 	["sane-spineshatter"]=5,
 	["sanêk-spineshatter"]=8,
 	["sanëk-spineshatter"]=11,

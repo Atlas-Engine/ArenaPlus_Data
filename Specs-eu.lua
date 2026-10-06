@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5318 characters, read 2026-10-05 08:00 PM.
+-- Region eu, 5318 characters, read 2026-10-05 09:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3928,7 +3928,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["taica-auberdine"]=11,
 	["taïgâ-auberdine"]=221,
 	["taillung-shekzeer"]=11,
-	["takanasboi-garalon"]=80,
+	["takanasboi-garalon"]=81,
 	["takenb-shekzeer"]=10,
 	["takenn-shekzeer"]=110,
 	["takenq-shekzeer"]=20,
@@ -5421,7 +5421,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["atheistpally-shekzeer"]=15,
 	["athenahz-shekzeer"]=3,
 	["athoran-everlook"]=2,
-	["atlántis-mirage-raceway"]=33,
+	["atlántis-mirage-raceway"]=8,
 	["atlasx-shekzeer"]=5,
 	["atmobile-shekzeer"]=2,
 	["atropa-shekzeer"]=0,
@@ -6162,7 +6162,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["djabdel-auberdine"]=21,
 	["djayer-shekzeer"]=15,
 	["djazaïrwar-auberdine"]=1,
-	["djburst-shekzeer"]=16,
+	["djburst-shekzeer"]=19,
 	["djevica-garalon"]=9,
 	["djevica-shekzeer"]=9,
 	["djevzy-garalon"]=20,
@@ -8721,7 +8721,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["samaruh-mirage-raceway"]=20,
 	["samisa-shekzeer"]=9,
 	["sàmsara-shekzeer"]=10,
-	["samvpz-shekzeer"]=25,
+	["samvpz-shekzeer"]=1,
 	["samzi-shekzeer"]=7,
 	["sándron-everlook"]=3,
 	["sandzakpowaa-shekzeer"]=1,
@@ -9566,7 +9566,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["verlyna-shekzeer"]=9,
 	["vérnyúl-shekzeer"]=1,
 	["verrückt-shekzeer"]=16,
-	["verti-norushen"]=31,
+	["verti-norushen"]=33,
 	["verybully-shekzeer"]=2,
 	["verysadboi-shekzeer"]=24,
 	["verywiseman-shekzeer"]=9,
@@ -10094,7 +10094,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Варсонгердк-flamegor"]=8,
 	["Варсонгердкт-flamegor"]=8,
 	["Варсонгермс-flamegor"]=1,
-	["Варсонгуч-flamegor"]=3,
+	["Варсонгуч-flamegor"]=32,
 	["Варсонгыч-flamegor"]=1,
 	["Венсвей-flamegor"]=5,
 	["Вермишелька-flamegor"]=2,

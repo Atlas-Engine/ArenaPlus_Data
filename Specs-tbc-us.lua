@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9527 characters, read 2026-10-05 07:58 PM.
+-- Region tbc-us, 9527 characters, read 2026-10-05 08:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10833,7 +10833,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["chimmz-nightslayer"]=19,
 	["chimpfarmerx-nightslayer"]=2,
 	["chinagodzx-nightslayer"]=9,
-	["chingôn-dreamscythe"]=17,
+	["chingôn-dreamscythe"]=15,
 	["chinoántrax-nightslayer"]=5,
 	["chipchopchip-nightslayer"]=5,
 	["Çhìpíçhàpá-nightslayer"]=1,
@@ -11276,7 +11276,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["darf-nightslayer"]=14,
 	["daringdurian-nightslayer"]=23,
 	["darkbright-nightslayer"]=4,
-	["darkceleste-nightslayer"]=12,
+	["darkceleste-nightslayer"]=1,
 	["darkcoil-nightslayer"]=13,
 	["darkdan-nightslayer"]=1,
 	["darkentt-nightslayer"]=2,
@@ -15884,7 +15884,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["proxw-nightslayer"]=18,
 	["proxzz-nightslayer"]=13,
 	["pryydrom-nightslayer"]=13,
-	["psilocybé-nightslayer"]=21,
+	["psilocybé-nightslayer"]=15,
 	["pssman-nightslayer"]=7,
 	["psxo-nightslayer"]=14,
 	["psychoz-nightslayer"]=13,
