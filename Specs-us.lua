@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5187 characters, read 2026-10-05 08:59 PM.
+-- Region us, 5187 characters, read 2026-10-05 09:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5044,7 +5044,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["aellane-pagle"]=26,
 	["Ærîthøs-pagle"]=16,
 	["aeroes-pagle"]=3,
-	["aerzkei-arugal-au"]=5,
+	["aerzkei-arugal-au"]=17,
 	["aës-pagle"]=1,
 	["afekz-immerseus"]=14,
 	["affliktt-arugal-au"]=9,
@@ -6209,7 +6209,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["drellus-pagle"]=15,
 	["Ðressrøsa-immerseus"]=10,
 	["drewdipsy-pagle"]=7,
-	["drewleon-pagle"]=5,
+	["drewleon-pagle"]=17,
 	["drewwd-nazgrim"]=17,
 	["dreyad-pagle"]=5,
 	["dreyas-pagle"]=7,
@@ -9322,7 +9322,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["starielle-pagle"]=9,
 	["starlordes-pagle"]=3,
 	["starmaker-pagle"]=19,
-	["starzbegone-pagle"]=21,
+	["starzbegone-pagle"]=9,
 	["statt-arugal-au"]=15,
 	["stattic-arugal-au"]=7,
 	["statticmw-arugal-au"]=4,

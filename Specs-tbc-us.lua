@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9527 characters, read 2026-10-05 08:58 PM.
+-- Region tbc-us, 9527 characters, read 2026-10-05 09:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10029,7 +10029,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["baygoners-nightslayer"]=10,
 	["baylers-dreamscythe"]=2,
 	["bayyn-dreamscythe"]=22,
-	["baziz-nightslayer"]=6,
+	["baziz-nightslayer"]=4,
 	["bazook-nightslayer"]=13,
 	["bazooko-nightslayer"]=1,
 	["bazrael-nightslayer"]=13,
@@ -10866,7 +10866,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["christofferr-nightslayer"]=10,
 	["chriswl-nightslayer"]=2,
 	["chrisypissy-nightslayer"]=4,
-	["chromattic-nightslayer"]=6,
+	["chromattic-nightslayer"]=4,
 	["chronlyy-dreamscythe"]=1,
 	["chtibyxes-nightslayer"]=11,
 	["chubbinsback-dreamscythe"]=2,
@@ -11803,7 +11803,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["durtmcgurt-nightslayer"]=8,
 	["dushpanda-nightslayer"]=10,
 	["duskybrah-dreamscythe"]=18,
-	["dustbanned-nightslayer"]=13,
+	["dustbanned-nightslayer"]=16,
 	["dustedx-nightslayer"]=5,
 	["dustfriggenw-nightslayer"]=13,
 	["dusti-nightslayer"]=25,
@@ -11862,7 +11862,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ectroxo-nightslayer"]=8,
 	["eddygordo-nightslayer"]=19,
 	["edhris-dreamscythe"]=18,
-	["edhristwo-dreamscythe"]=14,
+	["edhristwo-dreamscythe"]=1,
 	["educate-nightslayer"]=1,
 	["educates-nightslayer"]=10,
 	["edwalker-nightslayer"]=14,
@@ -12456,11 +12456,11 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["furioustrike-dreamscythe"]=10,
 	["furiousxz-nightslayer"]=5,
 	["furlicious-nightslayer"]=3,
-	["furrypov-dreamscythe"]=7,
+	["furrypov-dreamscythe"]=3,
 	["furynips-nightslayer"]=2,
 	["furyz-dreamscythe"]=19,
 	["fused-nightslayer"]=2,
-	["futhermocker-nightslayer"]=3,
+	["futhermocker-nightslayer"]=7,
 	["futzeh-nightslayer"]=3,
 	["futzo-nightslayer"]=2,
 	["fuugers-dreamscythe"]=15,
@@ -13390,7 +13390,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["irscollector-nightslayer"]=0,
 	["ishock-nightslayer"]=19,
 	["ishogall-dreamscythe"]=2,
-	["iskk-dreamscythe"]=16,
+	["iskk-dreamscythe"]=13,
 	["iskkw-dreamscythe"]=2,
 	["isobae-dreamscythe"]=1,
 	["isofrog-nightslayer"]=5,
@@ -13867,7 +13867,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["kinjospike-nightslayer"]=19,
 	["kinjospyke-nightslayer"]=24,
 	["kinkshamm-nightslayer"]=24,
-	["kinkysblues-nightslayer"]=10,
+	["kinkysblues-nightslayer"]=19,
 	["kinkysshamna-nightslayer"]=19,
 	["kinnon-dreamscythe"]=10,
 	["kìp-dreamscythe"]=5,
@@ -15794,7 +15794,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["popr-nightslayer"]=5,
 	["poprocksx-nightslayer"]=5,
 	["popsecret-dreamscythe"]=18,
-	["popspalla-nightslayer"]=9,
+	["popspalla-nightslayer"]=11,
 	["popstarbill-nightslayer"]=5,
 	["popsus-nightslayer"]=3,
 	["popsycle-nightslayer"]=4,
