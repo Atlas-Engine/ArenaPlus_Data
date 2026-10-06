@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5319 characters, read 2026-10-06 12:00 AM.
+-- Region eu, 5318 characters, read 2026-10-06 01:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4271,7 +4271,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["veràn-auberdine"]=51,
 	["vercettix-garalon"]=50,
 	["vercettix-shekzeer"]=11,
-	["vêrcêttîx-shekzeer"]=50,
 	["vercettixx-shekzeer"]=11,
 	["verline-shekzeer"]=41,
 	["verlinia-shekzeer"]=11,
@@ -7494,7 +7493,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["liplinerxoxo-garalon"]=17,
 	["lipmode-norushen"]=14,
 	["lippy-norushen"]=2,
-	["liquidity-shekzeer"]=8,
+	["liquidity-shekzeer"]=33,
 	["liriel-shekzeer"]=6,
 	["lirielww-shekzeer"]=7,
 	["listerine-shekzeer"]=4,
@@ -9559,7 +9558,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["veràn-auberdine"]=10,
 	["vercettix-garalon"]=28,
 	["vercettix-shekzeer"]=17,
-	["vêrcêttîx-shekzeer"]=6,
 	["vercettixx-shekzeer"]=6,
 	["verline-shekzeer"]=9,
 	["verlinia-shekzeer"]=20,

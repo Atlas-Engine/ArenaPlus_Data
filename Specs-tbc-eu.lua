@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9852 characters, read 2026-10-05 11:59 PM.
+-- Region tbc-eu, 9852 characters, read 2026-10-06 12:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1375,7 +1375,6 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["chjri-spineshatter"]=50,
 	["chlamydria-thunderstrike"]=31,
 	["chlejtus-spineshatter"]=30,
-	["chløëlandãux-spineshatter"]=51,
 	["chocobolt-spineshatter"]=20,
 	["chocoshot-spineshatter"]=20,
 	["chocototem-spineshatter"]=20,
@@ -1557,6 +1556,7 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["cowmageddon-thunderstrike"]=61,
 	["cowmoomilla-spineshatter"]=61,
 	["cowralina-spineshatter"]=61,
+	["cowrpze-spineshatter"]=60,
 	["coygx-spineshatter"]=50,
 	["cozyfrog-spineshatter"]=21,
 	["cozypanda-spineshatter"]=61,
@@ -11123,7 +11123,6 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["chjri-spineshatter"]=3,
 	["chlamydria-thunderstrike"]=2,
 	["chlejtus-spineshatter"]=2,
-	["chløëlandãux-spineshatter"]=2,
 	["chocobolt-spineshatter"]=13,
 	["chocoshot-spineshatter"]=25,
 	["chocototem-spineshatter"]=23,
@@ -11306,6 +11305,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["cowmageddon-thunderstrike"]=1,
 	["cowmoomilla-spineshatter"]=1,
 	["cowralina-spineshatter"]=1,
+	["cowrpze-spineshatter"]=1,
 	["coygx-spineshatter"]=13,
 	["cozyfrog-spineshatter"]=16,
 	["cozypanda-spineshatter"]=1,
@@ -11511,7 +11511,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["darkavenge-spineshatter"]=19,
 	["darkbetrayed-thunderstrike"]=5,
 	["darkbone-spineshatter"]=2,
-	["darkbuster-spineshatter"]=13,
+	["darkbuster-spineshatter"]=14,
 	["darkface-spineshatter"]=2,
 	["darkfaid-thunderstrike"]=8,
 	["darkflamez-spineshatter"]=13,
@@ -16757,7 +16757,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["relaxö-spineshatter"]=23,
 	["relaxxbro-thunderstrike"]=5,
 	["remag-spineshatter"]=1,
-	["reminded-spineshatter"]=3,
+	["reminded-spineshatter"]=19,
 	["reminisce-spineshatter"]=2,
 	["remylacroîx-spineshatter"]=12,
 	["renatadin-spineshatter"]=10,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5187 characters, read 2026-10-05 11:59 PM.
+-- Region us, 5187 characters, read 2026-10-06 12:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3203,6 +3203,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["onehunid-raden"]=10,
 	["onelasthero-raden"]=10,
 	["onepiecem-pagle"]=11,
+	["onëshotwar-raden"]=11,
 	["onlybabynugz-raden"]=70,
 	["onlyfatnugz-galakras"]=20,
 	["onlyfatnugz-raden"]=10,
@@ -6848,7 +6849,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["haircheck-raden"]=10,
 	["hairyarms-raden"]=12,
 	["hallowground-immerseus"]=21,
-	["halvon-raden"]=8,
+	["halvon-raden"]=28,
 	["håm-nazgrim"]=0,
 	["häm-nazgrim"]=29,
 	["hammerman-lei-shen"]=16,
@@ -7485,7 +7486,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["kusamgie-galakras"]=2,
 	["kusheatsleep-raden"]=18,
 	["kushgodx-raden"]=1,
-	["kushh-nazgrim"]=10,
+	["kushh-nazgrim"]=4,
 	["kutless-raden"]=16,
 	["kutthroatt-pagle"]=7,
 	["kutty-nazgrim"]=11,
@@ -8294,7 +8295,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["onehunid-raden"]=3,
 	["onelasthero-raden"]=2,
 	["onepiecem-pagle"]=4,
-	["onëshotwar-raden"]=0,
+	["onëshotwar-raden"]=7,
 	["onlybabynugz-raden"]=11,
 	["onlyfatnugz-galakras"]=1,
 	["onlyfatnugz-raden"]=1,
@@ -8307,12 +8308,12 @@ ns.SPECS_BY_REGION["us"] = {
 	["oopsuwu-pagle"]=29,
 	["opensaysme-galakras"]=1,
 	["opp-pagle"]=4,
-	["oppenheimer-pagle"]=16,
+	["oppenheimer-pagle"]=32,
 	["opurtz-pagle"]=7,
 	["Örbköbë-pagle"]=4,
 	["orbs-arugal-au"]=0,
 	["orbscripter-pagle"]=4,
-	["orcetorix-pagle"]=25,
+	["orcetorix-pagle"]=6,
 	["orcsamabin-pagle"]=15,
 	["orcz-pagle"]=7,
 	["ordanary-pagle"]=4,
@@ -10152,7 +10153,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["zheani-raden"]=2,
 	["zhifty-raden"]=5,
 	["zhuofan-lei-shen"]=27,
-	["zìegen-lei-shen"]=1,
+	["zìegen-lei-shen"]=31,
 	["zinw-pagle"]=20,
 	["zíonlion-raden"]=18,
 	["zipzipzapzap-raden"]=28,
