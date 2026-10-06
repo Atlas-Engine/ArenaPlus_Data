@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9490 characters, read 2026-10-06 10:58 AM.
+-- Region tbc-us, 9490 characters, read 2026-10-06 11:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9960,7 +9960,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["barbz-nightslayer"]=15,
 	["barce-nightslayer"]=1,
 	["barchetta-nightslayer"]=5,
-	["barikill-nightslayer"]=2,
+	["barikill-nightslayer"]=18,
 	["barov-nightslayer"]=4,
 	["barracooda-nightslayer"]=8,
 	["barrykun-nightslayer"]=8,
@@ -10481,7 +10481,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bruubae-nightslayer"]=5,
 	["bruvd-dreamscythe"]=24,
 	["bryanclamton-nightslayer"]=11,
-	["brysontbc-nightslayer"]=7,
+	["brysontbc-nightslayer"]=22,
 	["brysontoo-nightslayer"]=10,
 	["bsl-nightslayer"]=18,
 	["bsmoke-nightslayer"]=12,
@@ -14007,7 +14007,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["largemoot-nightslayer"]=2,
 	["larocheposay-nightslayer"]=24,
 	["larrisuh-nightslayer"]=18,
-	["larrybench-nightslayer"]=10,
+	["larrybench-nightslayer"]=24,
 	["larryog-nightslayer"]=10,
 	["larsmars-dreamscythe"]=16,
 	["lastchancè-nightslayer"]=5,
@@ -17183,7 +17183,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["squishay-nightslayer"]=5,
 	["squishd-nightslayer"]=5,
 	["squisheh-nightslayer"]=1,
-	["squishmuffin-dreamscythe"]=1,
+	["squishmuffin-dreamscythe"]=14,
 	["squoi-nightslayer"]=9,
 	["srgn-nightslayer"]=12,
 	["srrated-nightslayer"]=20,
