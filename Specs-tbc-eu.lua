@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9851 characters, read 2026-10-06 06:59 PM.
+-- Region tbc-eu, 9851 characters, read 2026-10-06 07:54 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11412,7 +11412,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["cuckao-spineshatter"]=1,
 	["cucumshot-spineshatter"]=24,
 	["cucumwoof-spineshatter"]=11,
-	["cuddlér-spineshatter"]=19,
+	["cuddlér-spineshatter"]=3,
 	["cuddo-spineshatter"]=2,
 	["cudds-spineshatter"]=23,
 	["cukara-spineshatter"]=1,
@@ -14466,7 +14466,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["leêch-spineshatter"]=3,
 	["leederlappen-thunderstrike"]=3,
 	["leekar-spineshatter"]=2,
-	["leftcurve-spineshatter"]=19,
+	["leftcurve-spineshatter"]=3,
 	["leftformilk-spineshatter"]=9,
 	["lefthumb-spineshatter"]=24,
 	["lefthuuk-spineshatter"]=3,
@@ -15520,7 +15520,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["nate-spineshatter"]=13,
 	["nathux-spineshatter"]=3,
 	["natron-thunderstrike"]=10,
-	["natsenx-spineshatter"]=13,
+	["natsenx-spineshatter"]=18,
 	["náttfari-spineshatter"]=19,
 	["natur-spineshatter"]=3,
 	["naturalplan-spineshatter"]=23,
@@ -17185,7 +17185,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["scratchx-spineshatter"]=13,
 	["scratm-spineshatter"]=9,
 	["screamx-spineshatter"]=3,
-	["screepér-thunderstrike"]=14,
+	["screepér-thunderstrike"]=13,
 	["screpy-spineshatter"]=5,
 	["scríptkìd-spineshatter"]=3,
 	["scriptx-thunderstrike"]=11,
@@ -17810,7 +17810,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["splolbzz-spineshatter"]=11,
 	["splusm-spineshatter"]=5,
 	["spmd-spineshatter"]=2,
-	["spoketlabna-spineshatter"]=18,
+	["spoketlabna-spineshatter"]=13,
 	["spoklunken-spineshatter"]=7,
 	["spolja-spineshatter"]=3,
 	["sponch-spineshatter"]=23,
@@ -18183,7 +18183,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["tanmengo-spineshatter"]=3,
 	["tånnerfrømhs-spineshatter"]=16,
 	["taremo-thunderstrike"]=2,
-	["targor-spineshatter"]=23,
+	["targor-spineshatter"]=11,
 	["targow-spineshatter"]=9,
 	["tariic-spineshatter"]=9,
 	["tarthor-spineshatter"]=11,
@@ -18929,7 +18929,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["voldëmørt-spineshatter"]=12,
 	["voldran-spineshatter"]=13,
 	["volji-thunderstrike"]=10,
-	["volkalol-spineshatter"]=19,
+	["volkalol-spineshatter"]=3,
 	["volkris-thunderstrike"]=18,
 	["voltimond-spineshatter"]=3,
 	["voodoodoodoo-spineshatter"]=6,
