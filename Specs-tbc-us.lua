@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9495 characters, read 2026-10-07 05:58 AM.
+-- Region tbc-us, 9495 characters, read 2026-10-07 06:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9650,7 +9650,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["anitadrink-nightslayer"]=1,
 	["anjeer-nightslayer"]=5,
 	["anjurus-nightslayer"]=4,
-	["anklejohn-nightslayer"]=13,
+	["anklejohn-nightslayer"]=23,
 	["anmj-nightslayer"]=2,
 	["annieæursa-nightslayer"]=3,
 	["annieoakleyy-nightslayer"]=17,
@@ -12952,7 +12952,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["herbaldoc-nightslayer"]=5,
 	["herbamate-nightslayer"]=3,
 	["herefrglaves-nightslayer"]=5,
-	["héroburst-nightslayer"]=4,
+	["héroburst-nightslayer"]=6,
 	["herroism-nightslayer"]=10,
 	["hershei-dreamscythe"]=2,
 	["hersheyblast-nightslayer"]=6,
@@ -14552,7 +14552,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["méepo-nightslayer"]=19,
 	["meetbobjob-nightslayer"]=4,
 	["meetym-nightslayer"]=11,
-	["megânfox-nightslayer"]=8,
+	["megânfox-nightslayer"]=5,
 	["meganfrostx-nightslayer"]=4,
 	["megaphone-nightslayer"]=6,
 	["megasaur-nightslayer"]=2,

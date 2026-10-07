@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5316 characters, read 2026-10-07 06:00 AM.
+-- Region eu, 5318 characters, read 2026-10-07 07:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -458,6 +458,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["bcacu-shekzeer"]=10,
 	["bdm-auberdine"]=11,
 	["bðring-shekzeer"]=11,
+	["bearburst-shekzeer"]=41,
 	["bearia-shekzeer"]=11,
 	["beeka-auberdine"]=220,
 	["beelisarius-auberdine"]=40,
@@ -826,6 +827,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["colmillo-mirage-raceway"]=10,
 	["cõmbustz-shekzeer"]=11,
 	["combux-shekzeer"]=11,
+	["comeclarity-shekzeer"]=11,
 	["comète-shekzeer"]=41,
 	["commandor-garalon"]=100,
 	["commitment-shekzeer"]=11,
@@ -5553,6 +5555,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bcacu-shekzeer"]=1,
 	["bdm-auberdine"]=15,
 	["bðring-shekzeer"]=9,
+	["bearburst-shekzeer"]=32,
 	["bearia-shekzeer"]=4,
 	["beeka-auberdine"]=11,
 	["beelisarius-auberdine"]=24,
@@ -5937,6 +5940,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["colmillo-mirage-raceway"]=25,
 	["cõmbustz-shekzeer"]=2,
 	["combux-shekzeer"]=2,
+	["comeclarity-shekzeer"]=2,
 	["comète-shekzeer"]=3,
 	["commandor-garalon"]=15,
 	["commitment-shekzeer"]=15,
@@ -7141,7 +7145,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["juicehunter-garalon"]=4,
 	["juicyhieler-everlook"]=22,
 	["juicykon-everlook"]=15,
-	["juicynancy-everlook"]=6,
+	["juicynancy-everlook"]=7,
 	["juicyverÿ-shekzeer"]=17,
 	["juicyzugzug-everlook"]=8,
 	["juliká-shekzeer"]=2,
@@ -7653,7 +7657,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["markusrühl-shekzeer"]=8,
 	["marleash-shekzeer"]=0,
 	["marlk-shekzeer"]=27,
-	["marlkx-shekzeer"]=23,
+	["marlkx-shekzeer"]=17,
 	["maroniv-mirage-raceway"]=4,
 	["marqese-shekzeer"]=17,
 	["martinriggs-garalon"]=9,
@@ -9577,7 +9581,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["veyn-shekzeer"]=24,
 	["vezir-shekzeer"]=11,
 	["victuz-gehennas"]=0,
-	["videostore-shekzeer"]=4,
+	["videostore-shekzeer"]=20,
 	["viint-shekzeer"]=8,
 	["vïïnt-shekzeer"]=21,
 	["vindictive-shekzeer"]=6,
