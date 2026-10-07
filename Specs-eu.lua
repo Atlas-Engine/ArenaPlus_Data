@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5318 characters, read 2026-10-07 01:00 PM.
+-- Region eu, 5318 characters, read 2026-10-07 02:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3926,7 +3926,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["sysmann-hoptallus"]=11,
 	["szarfosclass-norushen"]=21,
 	["szasha-shekzeer"]=11,
-	["szashå-shekzeer"]=10,
+	["szashå-shekzeer"]=11,
 	["szexjebøaka-mirage-raceway"]=11,
 	["szh-shekzeer"]=10,
 	["tackiella-shekzeer"]=41,
@@ -5882,7 +5882,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["chillywily-shekzeer"]=6,
 	["chimèrebaddy-shekzeer"]=4,
 	["chìpolata-auberdine"]=26,
-	["chirdè-auberdine"]=34,
+	["chirdè-auberdine"]=26,
 	["chisuckd-shekzeer"]=6,
 	["chocobobax-auberdine"]=1,
 	["choice-mirage-raceway"]=8,
@@ -6871,7 +6871,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["holypia-shekzeer"]=22,
 	["holyqiti-mirage-raceway"]=5,
 	["holyshadx-shekzeer"]=22,
-	["holyshadxx-shekzeer"]=7,
+	["holyshadxx-shekzeer"]=6,
 	["holysnap-shekzeer"]=5,
 	["holywar-shekzeer"]=9,
 	["honshu-shekzeer"]=16,
@@ -7143,7 +7143,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["judgemint-shekzeer"]=15,
 	["judithx-shekzeer"]=5,
 	["juggiejr-mirage-raceway"]=1,
-	["juhi-shekzeer"]=5,
+	["juhi-shekzeer"]=15,
 	["juicedog-shekzeer"]=5,
 	["juicehunter-garalon"]=4,
 	["juicyhieler-everlook"]=22,
@@ -7973,7 +7973,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["nectix-shekzeer"]=1,
 	["needmoremana-shekzeer"]=9,
 	["needmorerage-shekzeer"]=1,
-	["nefer-garalon"]=3,
+	["nefer-garalon"]=11,
 	["neferpitøu-everlook"]=13,
 	["nëgân-auberdine"]=34,
 	["nehlwtf-auberdine"]=15,
