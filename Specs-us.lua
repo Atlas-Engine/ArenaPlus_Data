@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5187 characters, read 2026-10-07 02:59 PM.
+-- Region us, 5187 characters, read 2026-10-07 03:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5448,7 +5448,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["blacksiide-pagle"]=4,
 	["blackspades-pagle"]=26,
 	["blackspwn-raden"]=29,
-	["bladvalery-nazgrim"]=32,
+	["bladvalery-nazgrim"]=16,
 	["blaggie-galakras"]=16,
 	["blaine-raden"]=1,
 	["blakemøre-raden"]=0,
@@ -5871,7 +5871,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["crazykreder-pagle"]=5,
 	["crazywick-pagle"]=16,
 	["creamytotem-galakras"]=15,
-	["crearly-galakras"]=6,
+	["crearly-galakras"]=25,
 	["crepes-pagle"]=12,
 	["crepuscolo-pagle"]=2,
 	["crepusculé-pagle"]=1,
@@ -5918,7 +5918,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["cwpas-raden"]=1,
 	["cwpaslock-raden"]=24,
 	["cwpasx-raden"]=7,
-	["cybrooke-lei-shen"]=18,
+	["cybrooke-lei-shen"]=20,
 	["cyclicc-pagle"]=0,
 	["cyclonebot-lei-shen"]=5,
 	["cyndrann-galakras"]=13,
@@ -5926,7 +5926,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["daarkglare-pagle"]=23,
 	["dabalot-raden"]=6,
 	["dabblax-nazgrim"]=20,
-	["dabddaddy-raden"]=7,
+	["dabddaddy-raden"]=30,
 	["dabsx-pagle"]=1,
 	["daburghcuz-pagle"]=4,
 	["daddichill-raden"]=1,
@@ -5934,7 +5934,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["daddypompum-raden"]=5,
 	["daemz-pagle"]=16,
 	["daffykinz-pagle"]=24,
-	["daggertwist-raden"]=34,
+	["daggertwist-raden"]=14,
 	["dailou-grobbulus"]=7,
 	["daiyus-pagle"]=14,
 	["daje-pagle"]=0,
@@ -5968,7 +5968,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["darkjdm-lei-shen"]=6,
 	["darklegendz-raden"]=24,
 	["darknessfury-pagle"]=6,
-	["darknuns-pagle"]=9,
+	["darknuns-pagle"]=21,
 	["darkphecy-pagle"]=22,
 	["darkshadown-pagle"]=13,
 	["darkshadowx-galakras"]=25,
@@ -5979,7 +5979,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["darthdeath-pagle"]=23,
 	["darthmaos-nazgrim"]=16,
 	["dartmaul-pagle"]=6,
-	["dásh-nazgrim"]=16,
+	["dásh-nazgrim"]=2,
 	["datittycuz-galakras"]=20,
 	["daunit-raden"]=23,
 	["davebluntz-raden"]=2,
@@ -5998,7 +5998,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["deadlifta-pagle"]=6,
 	["deadlylifts-pagle"]=7,
 	["deadmoon-galakras"]=24,
-	["deadnutz-nazgrim"]=14,
+	["deadnutz-nazgrim"]=34,
 	["deadpal-galakras"]=16,
 	["deadpoolwins-pagle"]=6,
 	["deadshottz-galakras"]=3,

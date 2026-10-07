@@ -42,7 +42,7 @@ local ns = ArenaPlusData
 -- source_item, so gems are stored as real item ids the client can draw and only
 -- the enchant text has to ship.
 --
--- Region us, 422 characters, 378 glyph names, read 2026-10-07 02:21 PM.
+-- Region us, 422 characters, 378 glyph names, read 2026-10-07 03:20 PM.
 ns.GLYPH_NAMES = ns.GLYPH_NAMES or {}
 
 for id, name in pairs({
@@ -432,66 +432,13 @@ for id, name in pairs({
 ns.TALENT_NAMES = ns.TALENT_NAMES or {}
 
 for id, name in pairs({
-	[99]="Disorienting Roar",
-	[1463]="Incanter's Ward",
-	[11426]="Ice Barrier",
-	[11958]="Cold Snap",
-	[12043]="Presence of Mind",
-	[12292]="Bloodbath",
-	[19386]="Wyvern Sting",
-	[26023]="Pursuit of Justice",
-	[29838]="Second Wind",
-	[44457]="Living Bomb",
-	[46924]="Bladestorm",
-	[46968]="Shockwave",
-	[55694]="Enraged Regeneration",
-	[82726]="Fervor",
-	[85804]="Selfless Healer",
-	[86172]="Divine Purpose",
-	[86949]="Cauterize",
-	[102051]="Frostjaw",
-	[102060]="Disrupting Shout",
-	[102280]="Displacer Beast",
-	[102351]="Cenarion Ward",
-	[103826]="Juggernaut",
-	[103827]="Double Time",
-	[105593]="Fist of Justice",
-	[105622]="Clemency",
-	[105809]="Holy Avenger",
-	[107566]="Staggering Shout",
-	[107570]="Storm Bolt",
-	[108288]="Heart of the Wild",
-	[108843]="Blazing Speed",
 	[109212]="Spirit Bond",
-	[109215]="Posthaste",
 	[109248]="Binding Shot",
 	[109306]="Thrill of the Hunt",
-	[111264]="Ice Ward",
-	[113724]="Ring of Frost",
-	[114003]="Invocation",
-	[114028]="Mass Spell Reflection",
-	[114029]="Safeguard",
-	[114030]="Vigilance",
-	[114107]="Soul of the Forest",
-	[114154]="Unbreakable Spirit",
-	[114157]="Execution Sentence",
-	[114163]="Eternal Flame",
-	[114165]="Holy Prism",
-	[115098]="Chi Wave",
-	[115396]="Ascension",
-	[115399]="Chi Brew",
-	[115610]="Temporal Shield",
-	[116841]="Tiger's Lust",
-	[116847]="Rushing Jade Wind",
 	[117050]="Glaive Toss",
 	[118675]="Crouching Tiger, Hidden Chimera",
-	[119381]="Leg Sweep",
 	[120679]="Dire Beast",
-	[122280]="Healing Elixirs",
-	[123904]="Invoke Xuen, the White Tiger",
-	[130392]="Blink Strikes",
 	[131894]="A Murder of Crows",
-	[132469]="Typhoon",
 }) do ns.TALENT_NAMES[id] = name end
 
 -- Which talent a rank-spell belongs to, and how many ranks that talent has.
