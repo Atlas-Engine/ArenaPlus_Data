@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5186 characters, read 2026-10-07 01:54 AM.
+-- Region us, 5186 characters, read 2026-10-07 02:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -264,7 +264,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["artanissed-pagle"]=10,
 	["arteniss-raden"]=11,
 	["Årterial-pagle"]=60,
-	["arthamyel-pagle"]=100,
 	["arthasqt-raden"]=10,
 	["arthuritis-immerseus"]=21,
 	["arthy-pagle"]=51,
@@ -5198,7 +5197,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["artanissed-pagle"]=6,
 	["arteniss-raden"]=9,
 	["Årterial-pagle"]=5,
-	["arthamyel-pagle"]=16,
+	["arthamyel-pagle"]=0,
 	["arthasqt-raden"]=16,
 	["arthuritis-immerseus"]=23,
 	["arthy-pagle"]=1,
@@ -6113,7 +6112,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["Ðispie-pagle"]=6,
 	["distorte-pagle"]=5,
 	["Ðistrøyer-immerseus"]=7,
-	["ditrisus-pagle"]=20,
+	["ditrisus-pagle"]=3,
 	["diviñe-pagle"]=2,
 	["divinebleed-raden"]=7,
 	["divinehymnal-raden"]=0,
@@ -7707,7 +7706,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["luum-raden"]=5,
 	["lüz-pagle"]=16,
 	["luzey-raden"]=1,
-	["lvl-raden"]=20,
+	["lvl-raden"]=3,
 	["lvllup-raden"]=6,
 	["lvupp-raden"]=1,
 	["lycah-raden"]=3,
@@ -8075,7 +8074,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["nastyhealz-pagle"]=9,
 	["nastynate-galakras"]=3,
 	["nastytaint-galakras"]=8,
-	["natalia-raden"]=34,
+	["natalia-raden"]=14,
 	["natazo-pagle"]=7,
 	["nathaniel-lei-shen"]=5,
 	["nattypriest-pagle"]=9,
@@ -8085,7 +8084,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["navij-pagle"]=10,
 	["navio-pagle"]=2,
 	["nâx-pagle"]=11,
-	["nâxxrâmâs-arugal-au"]=7,
+	["nâxxrâmâs-arugal-au"]=23,
 	["nayrish-pagle"]=16,
 	["nazmirr-pagle"]=29,
 	["nb-galakras"]=3,

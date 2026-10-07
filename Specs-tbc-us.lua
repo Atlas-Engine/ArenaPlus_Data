@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9490 characters, read 2026-10-07 01:58 AM.
+-- Region tbc-us, 9490 characters, read 2026-10-07 02:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10308,7 +10308,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bmztilt-dreamscythe"]=7,
 	["bnglokalmilf-nightslayer"]=3,
 	["bntotem-nightslayer"]=19,
-	["bobalol-nightslayer"]=12,
+	["bobalol-nightslayer"]=1,
 	["bobalover-nightslayer"]=10,
 	["bobbybooshây-nightslayer"]=13,
 	["bobbycowboy-nightslayer"]=18,
@@ -12108,7 +12108,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["fashotinyy-nightslayer"]=10,
 	["fastex-nightslayer"]=8,
 	["fasthands-nightslayer"]=10,
-	["fastpace-nightslayer"]=5,
+	["fastpace-nightslayer"]=8,
 	["fastslow-nightslayer"]=4,
 	["fatchudd-dreamscythe"]=4,
 	["fateseal-nightslayer"]=5,
@@ -12631,7 +12631,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["gobbeur-dreamscythe"]=16,
 	["gódféáríng-nightslayer"]=4,
 	["gödsmack-nightslayer"]=19,
-	["gôdz-dreamscythe"]=6,
+	["gôdz-dreamscythe"]=4,
 	["gofux-nightslayer"]=10,
 	["gogarty-dreamscythe"]=4,
 	["gogglezx-nightslayer"]=7,
@@ -12780,7 +12780,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["gunnym-nightslayer"]=4,
 	["gunzbangbang-nightslayer"]=21,
 	["gurdock-nightslayer"]=3,
-	["gurgrom-nightslayer"]=7,
+	["gurgrom-nightslayer"]=3,
 	["gurthyrat-nightslayer"]=2,
 	["güth-nightslayer"]=5,
 	["gutsz-dreamscythe"]=2,
@@ -13876,7 +13876,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["kobeba-nightslayer"]=19,
 	["kobeh-nightslayer"]=5,
 	["kobruhz-dreamscythe"]=5,
-	["kodakblakk-nightslayer"]=10,
+	["kodakblakk-nightslayer"]=24,
 	["koding-nightslayer"]=7,
 	["kohhan-nightslayer"]=19,
 	["kohokohokoho-nightslayer"]=7,
@@ -15485,7 +15485,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["pastebuffet-nightslayer"]=6,
 	["pastelgoths-nightslayer"]=12,
 	["pastorhymen-nightslayer"]=1,
-	["pastself-nightslayer"]=1,
+	["pastself-nightslayer"]=14,
 	["patchwxrk-nightslayer"]=2,
 	["pathoen-dreamscythe"]=13,
 	["patïence-nightslayer"]=7,
