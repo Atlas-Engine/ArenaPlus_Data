@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5315 characters, read 2026-10-07 10:00 AM.
+-- Region eu, 5315 characters, read 2026-10-07 11:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6856,7 +6856,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["hôlydârknéss-everlook"]=12,
 	["holydayhoe-ook-ook"]=5,
 	["holygeneral-shekzeer"]=5,
-	["holygodx-auberdine"]=15,
+	["holygodx-auberdine"]=30,
 	["holyknightlx-shekzeer"]=5,
 	["holylightx-shekzeer"]=15,
 	["holymarry-shekzeer"]=5,
@@ -6889,7 +6889,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["hugesac-shekzeer"]=5,
 	["hugsnotdrugs-shekzeer"]=17,
 	["huiying-auberdine"]=20,
-	["huln-shekzeer"]=4,
+	["huln-shekzeer"]=14,
 	["humbelbee-shekzeer"]=14,
 	["humblé-shekzeer"]=17,
 	["hùntdc-auberdine"]=4,
@@ -8487,7 +8487,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["ragnaros-ook-ook"]=19,
 	["rainbowrider-shekzeer"]=9,
 	["rainbowrïder-shekzeer"]=3,
-	["rainbôwrider-shekzeer"]=16,
+	["rainbôwrider-shekzeer"]=19,
 	["rakamvp-shekzeer"]=13,
 	["raketenrudy-everlook"]=4,
 	["rakû-auberdine"]=1,
