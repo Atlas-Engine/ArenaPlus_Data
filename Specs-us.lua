@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5182 characters, read 2026-10-07 05:59 PM.
+-- Region us, 5182 characters, read 2026-10-07 06:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4959,7 +4959,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["zìegen-lei-shen"]=100,
 	["zinw-pagle"]=10,
 	["zíonlion-raden"]=30,
-	["zipzipzapzap-raden"]=81,
 	["zivarikk-pagle"]=10,
 	["zlorzaza-benediction"]=11,
 	["zmoke-lei-shen"]=50,
@@ -8141,7 +8140,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["nhyftwó-raden"]=0,
 	["niãr-pagle"]=14,
 	["nichols-pagle"]=16,
-	["nickearldale-galakras"]=3,
+	["nickearldale-galakras"]=18,
 	["nieblita-raden"]=4,
 	["nieblo-immerseus"]=7,
 	["nightm-raden"]=1,
@@ -9020,7 +9019,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["shizue-nazgrim"]=5,
 	["shlorky-pagle"]=5,
 	["shluhpickle-raden"]=23,
-	["shmacked-lei-shen"]=11,
+	["shmacked-lei-shen"]=1,
 	["shmagey-pagle"]=31,
 	["shmeezmack-galakras"]=10,
 	["shmopmonk-galakras"]=4,
@@ -10144,7 +10143,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["zìegen-lei-shen"]=1,
 	["zinw-pagle"]=20,
 	["zíonlion-raden"]=18,
-	["zipzipzapzap-raden"]=28,
+	["zipzipzapzap-raden"]=0,
 	["zivarikk-pagle"]=7,
 	["zlorzaza-benediction"]=6,
 	["zmoke-lei-shen"]=34,
