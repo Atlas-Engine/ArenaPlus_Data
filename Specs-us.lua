@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5188 characters, read 2026-10-07 06:59 AM.
+-- Region us, 5187 characters, read 2026-10-07 07:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7231,7 +7231,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["jeffrence-pagle"]=16,
 	["jefmago-raden"]=11,
 	["jellierolls-pagle"]=4,
-	["jellytugger-raden"]=24,
+	["jellytugger-raden"]=8,
 	["jërrÿ-galakras"]=20,
 	["jerryjuve-lei-shen"]=5,
 	["jerrymonk-lei-shen"]=4,
@@ -7344,7 +7344,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["kamikylol-pagle"]=29,
 	["kamiyam-raden"]=6,
 	["kánabiss-galakras"]=3,
-	["kandì-pagle"]=1,
+	["kandì-pagle"]=11,
 	["kanol-immerseus"]=3,
 	["kaptnascend-pagle"]=22,
 	["kaptnhard-pagle"]=24,
@@ -7988,7 +7988,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["moonrip-raden"]=12,
 	["moonspellol-galakras"]=14,
 	["møønstár-arugal-au"]=17,
-	["møonxz-raden"]=5,
+	["møonxz-raden"]=33,
 	["møønzx-galakras"]=17,
 	["mootski-pagle"]=3,
 	["mopdruid-pagle"]=0,
@@ -9550,7 +9550,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["thespot-pagle"]=12,
 	["thetalk-pagle"]=4,
 	["thewalker-lei-shen"]=4,
-	["theweave-raden"]=4,
+	["theweave-raden"]=10,
 	["thicthighsqt-pagle"]=16,
 	["thinkquick-raden"]=16,
 	["thisisthaway-pagle"]=7,
@@ -9777,7 +9777,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["vamhelsing-galakras"]=7,
 	["vancheese-pagle"]=14,
 	["vanguardita-raden"]=16,
-	["vanilagorila-raden"]=0,
 	["vankryn-pagle"]=6,
 	["vanos-raden"]=18,
 	["vantage-raden"]=1,
