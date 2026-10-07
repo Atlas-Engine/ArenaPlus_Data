@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9497 characters, read 2026-10-07 08:58 AM.
+-- Region tbc-us, 9497 characters, read 2026-10-07 09:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9493,7 +9493,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["aeiou-nightslayer"]=10,
 	["aelanadorn-dreamscythe"]=2,
 	["aemen-dreamscythe"]=14,
-	["aemina-nightslayer"]=14,
+	["aemina-nightslayer"]=1,
 	["aenima-nightslayer"]=16,
 	["aeolides-dreamscythe"]=10,
 	["aêris-dreamscythe"]=19,
@@ -13447,7 +13447,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["javoh-nightslayer"]=19,
 	["jävz-nightslayer"]=18,
 	["jawheelamide-dreamscythe"]=15,
-	["jawsrovrated-nightslayer"]=5,
+	["jawsrovrated-nightslayer"]=8,
 	["jawsthedruid-nightslayer"]=22,
 	["jawws-nightslayer"]=5,
 	["jaxxsham-nightslayer"]=10,
@@ -16584,7 +16584,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["sets-nightslayer"]=5,
 	["settle-nightslayer"]=10,
 	["settlepriest-nightslayer"]=1,
-	["sevenchanger-nightslayer"]=22,
+	["sevenchanger-nightslayer"]=7,
 	["sevenfold-nightslayer"]=5,
 	["sevl-dreamscythe"]=13,
 	["sevnsevnfive-nightslayer"]=4,
@@ -17292,7 +17292,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["stodsuna-nightslayer"]=13,
 	["stoggimeistm-nightslayer"]=4,
 	["stoggimeistr-nightslayer"]=5,
-	["stoichy-nightslayer"]=22,
+	["stoichy-nightslayer"]=7,
 	["stokades-dreamscythe"]=11,
 	["stokes-nightslayer"]=2,
 	["stokespp-nightslayer"]=9,
