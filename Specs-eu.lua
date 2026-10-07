@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5321 characters, read 2026-10-07 05:00 PM.
+-- Region eu, 5321 characters, read 2026-10-07 06:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5755,7 +5755,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bumbelbeé-shekzeer"]=14,
 	["bumbelbegodx-shekzeer"]=14,
 	["bumbelbemonk-shekzeer"]=29,
-	["bumbelgnome-shekzeer"]=7,
+	["bumbelgnome-shekzeer"]=29,
 	["bumbelmonk-garalon"]=7,
 	["bumbelorc-garalon"]=29,
 	["bumbelwar-shekzeer"]=25,
@@ -7719,7 +7719,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["melba-shekzeer"]=11,
 	["melk-shekzeer"]=2,
 	["mellamell-shekzeer"]=7,
-	["mellichka-shekzeer"]=9,
+	["mellichka-shekzeer"]=12,
 	["melomni-shekzeer"]=6,
 	["mely-shekzeer"]=9,
 	["menadine-everlook"]=2,
@@ -7851,7 +7851,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["monktop-shekzeer"]=0,
 	["monlok-garalon"]=23,
 	["monloko-shekzeer"]=17,
-	["monlokoo-shekzeer"]=23,
+	["monlokoo-shekzeer"]=17,
 	["monomax-shekzeer"]=8,
 	["mønsìeurfràz-shekzeer"]=20,
 	["mønsignøre-shekzeer"]=5,
@@ -7879,7 +7879,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["mosskobold-shekzeer"]=3,
 	["motorichi-shekzeer"]=29,
 	["moumantai-shekzeer"]=5,
-	["mousehunter-garalon"]=4,
+	["mousehunter-garalon"]=20,
 	["movehunter-shekzeer"]=4,
 	["moýo-shekzeer"]=3,
 	["moÿo-shekzeer"]=16,
@@ -8948,7 +8948,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["skullchachi-mirage-raceway"]=26,
 	["skylexia-auberdine"]=15,
 	["skynerd-shekzeer"]=17,
-	["skyráw-shekzeer"]=11,
+	["skyráw-shekzeer"]=21,
 	["skyrine-auberdine"]=8,
 	["slagteren-shekzeer"]=1,
 	["slamftw-shekzeer"]=1,
@@ -9306,7 +9306,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["thurza-shekzeer"]=2,
 	["thuugom-shekzeer"]=8,
 	["thylé-norushen"]=13,
-	["thyraza-norushen"]=3,
+	["thyraza-norushen"]=32,
 	["thys-gehennas"]=0,
 	["tidez-shekzeer"]=15,
 	["tien-shekzeer"]=1,
@@ -10270,7 +10270,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Муране-flamegor"]=15,
 	["Мурмау-flamegor"]=21,
 	["Мылкивэй-flamegor"]=1,
-	["Мэличка-flamegor"]=12,
+	["Мэличка-flamegor"]=9,
 	["Мягкийпоу-flamegor"]=7,
 	["Набичвар-flamegor"]=4,
 	["Назтарек-flamegor"]=0,
