@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5186 characters, read 2026-10-06 10:54 PM.
+-- Region us, 5186 characters, read 2026-10-06 11:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6734,7 +6734,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["gloriosas-raden"]=7,
 	["gloryboi-pagle"]=2,
 	["gnarlyknight-pagle"]=16,
-	["gnarlyshotz-pagle"]=20,
+	["gnarlyshotz-pagle"]=18,
 	["gnomeßeater-pagle"]=4,
 	["gøàtbrádlëê-raden"]=2,
 	["goatler-benediction"]=3,
@@ -8098,7 +8098,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["nebugrape-raden"]=8,
 	["nebupeach-nazgrim"]=8,
 	["nebuplum-raden"]=8,
-	["necris-galakras"]=26,
+	["necris-galakras"]=6,
 	["necrodo-pagle"]=6,
 	["necrolife-nazgrim"]=24,
 	["nefion-pagle"]=23,
@@ -8294,7 +8294,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["onelasthero-raden"]=2,
 	["onepiecem-pagle"]=4,
 	["onëshotwar-raden"]=7,
-	["onirius-pagle"]=1,
+	["onirius-pagle"]=11,
 	["onlybabynugz-raden"]=11,
 	["onlyfatnugz-galakras"]=1,
 	["onlyfatnugz-raden"]=1,
@@ -9450,7 +9450,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["tailwing-nazgrim"]=18,
 	["tairné-galakras"]=14,
 	["tairot-pagle"]=29,
-	["takenoshower-raden"]=3,
+	["takenoshower-raden"]=18,
 	["takù-raden"]=17,
 	["takyto-nazgrim"]=16,
 	["talksíck-pagle"]=1,
@@ -10129,7 +10129,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["zenflow-raden"]=4,
 	["zenfocus-raden"]=27,
 	["zengirl-raden"]=10,
-	["zeniitsu-pagle"]=30,
+	["zeniitsu-pagle"]=7,
 	["zenithrax-pagle"]=6,
 	["zenmaxxing-pagle"]=10,
 	["zentore-raden"]=7,
