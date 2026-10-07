@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5318 characters, read 2026-10-07 02:00 PM.
+-- Region eu, 5318 characters, read 2026-10-07 03:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4226,7 +4226,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["væh-shekzeer"]=11,
 	["vaginclean-shekzeer"]=10,
 	["vagizzle-shekzeer"]=11,
-	["vãh-shekzeer"]=10,
+	["vãh-shekzeer"]=11,
 	["vahlol-shekzeer"]=31,
 	["vahx-shekzeer"]=11,
 	["vaingar-garalon"]=21,
@@ -5661,7 +5661,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bloodytrace-shekzeer"]=4,
 	["bluetoad-shekzeer"]=15,
 	["bluevoidd-shekzeer"]=28,
-	["blushxoxo-shekzeer"]=24,
+	["blushxoxo-shekzeer"]=26,
 	["blyatmanx-shekzeer"]=14,
 	["bmsk-shekzeer"]=6,
 	["bmskp-shekzeer"]=5,
@@ -7131,7 +7131,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["jornironside-shekzeer"]=8,
 	["josax-mirage-raceway"]=5,
 	["jovovich-everlook"]=16,
-	["jozsa-hoptallus"]=20,
+	["jozsa-hoptallus"]=4,
 	["jpa-garalon"]=2,
 	["jpegracktus-shekzeer"]=1,
 	["jrl-shekzeer"]=1,

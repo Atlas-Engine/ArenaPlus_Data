@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9501 characters, read 2026-10-07 01:58 PM.
+-- Region tbc-us, 9501 characters, read 2026-10-07 02:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9761,7 +9761,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["arukar-nightslayer"]=10,
 	["aryapala-nightslayer"]=25,
 	["aryarogue-nightslayer"]=5,
-	["aryss-nightslayer"]=12,
+	["aryss-nightslayer"]=1,
 	["asakhana-nightslayer"]=2,
 	["Äsap-nightslayer"]=2,
 	["asapvx-nightslayer"]=5,
@@ -11626,7 +11626,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["doxmage-nightslayer"]=4,
 	["doxshaman-nightslayer"]=19,
 	["doxxer-nightslayer"]=5,
-	["dozah-nightslayer"]=20,
+	["dozah-nightslayer"]=2,
 	["dpsbotwx-nightslayer"]=2,
 	["dpsbotx-nightslayer"]=4,
 	["dpsbotxx-nightslayer"]=4,
@@ -11956,7 +11956,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["er-nightslayer"]=2,
 	["erage-nightslayer"]=2,
 	["erakamalah-nightslayer"]=19,
-	["eratrius-nightslayer"]=2,
+	["eratrius-nightslayer"]=18,
 	["Êrb-nightslayer"]=17,
 	["ereek-nightslayer"]=14,
 	["erektrichard-nightslayer"]=19,
@@ -15470,7 +15470,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["panna-nightslayer"]=1,
 	["pantspally-nightslayer"]=25,
 	["pantspooper-nightslayer"]=1,
-	["paoc-nightslayer"]=18,
+	["paoc-nightslayer"]=2,
 	["paos-nightslayer"]=19,
 	["papabarkskin-nightslayer"]=7,
 	["papachong-dreamscythe"]=24,
@@ -17614,7 +17614,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["thayssadru-dreamscythe"]=7,
 	["thayssaqt-dreamscythe"]=5,
 	["theame-nightslayer"]=10,
-	["thebae-dreamscythe"]=11,
+	["thebae-dreamscythe"]=9,
 	["thebatmom-nightslayer"]=24,
 	["thebeyonder-nightslayer"]=5,
 	["thebigdawgx-nightslayer"]=2,
@@ -17674,7 +17674,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["thorathan-nightslayer"]=18,
 	["thorbren-nightslayer"]=2,
 	["thorlax-nightslayer"]=1,
-	["thornaxe-dreamscythe"]=18,
+	["thornaxe-dreamscythe"]=2,
 	["thotmama-dreamscythe"]=25,
 	["thotolympics-nightslayer"]=8,
 	["thragg-nightslayer"]=2,
