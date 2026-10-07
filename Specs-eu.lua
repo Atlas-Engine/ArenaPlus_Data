@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5318 characters, read 2026-10-07 08:00 AM.
+-- Region eu, 5318 characters, read 2026-10-07 09:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1805,7 +1805,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["indié-everlook"]=11,
 	["indîe-everlook"]=11,
 	["ineedtopoo-shekzeer"]=10,
-	["ineo-shekzeer"]=11,
+	["ineo-shekzeer"]=10,
 	["inertemplier-shekzeer"]=10,
 	["infection-shekzeer"]=10,
 	["infectiøns-auberdine"]=11,
@@ -7237,7 +7237,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["kennyk-garalon"]=18,
 	["kennyk-shekzeer"]=1,
 	["kennykk-garalon"]=1,
-	["kennyykofot-garalon"]=24,
+	["kennyykofot-garalon"]=34,
 	["kenoh-shekzeer"]=18,
 	["kenrize-shekzeer"]=2,
 	["kenthalyriøs-auberdine"]=8,
@@ -7332,7 +7332,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["kôrsäkôff-auberdine"]=20,
 	["körsäkôff-auberdine"]=6,
 	["korucu-mirage-raceway"]=3,
-	["kostez-shekzeer"]=4,
+	["kostez-shekzeer"]=14,
 	["kot-garalon"]=24,
 	["kotàlos-auberdine"]=11,
 	["kotpro-shekzeer"]=24,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5187 characters, read 2026-10-07 07:59 AM.
+-- Region us, 5187 characters, read 2026-10-07 08:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3384,6 +3384,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["polls-pagle"]=10,
 	["polomarcos-arugal-au"]=10,
 	["polutropos-galakras"]=40,
+	["pomserenity-raden"]=11,
 	["pongii-pagle"]=41,
 	["pookyzombean-nazgrim"]=21,
 	["poolzyo-raden"]=10,
@@ -6839,7 +6840,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["habibi-arugal-au"]=1,
 	["hábibi-raden"]=17,
 	["hacks-pagle"]=16,
-	["hadeyss-lei-shen"]=14,
+	["hadeyss-lei-shen"]=29,
 	["hadíl-pagle"]=1,
 	["hadoukeen-raden"]=1,
 	["hadoukenwwtv-pagle"]=10,
@@ -8047,7 +8048,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["mynamejeff-pagle"]=3,
 	["mynthore-raden"]=5,
 	["myster-pagle"]=4,
-	["mysthiccmunq-pagle"]=10,
+	["mysthiccmunq-pagle"]=4,
 	["mÿstical-galakras"]=3,
 	["mysticdrood-pagle"]=12,
 	["mysticzaza-benediction"]=24,
@@ -8486,7 +8487,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["polls-pagle"]=16,
 	["polomarcos-arugal-au"]=16,
 	["polutropos-galakras"]=5,
-	["pomserenity-raden"]=0,
+	["pomserenity-raden"]=9,
 	["pongii-pagle"]=20,
 	["pookyzombean-nazgrim"]=6,
 	["poolzyo-raden"]=1,
@@ -9484,7 +9485,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["teamobaggins-galakras"]=12,
 	["teatable-raden"]=1,
 	["technique-raden"]=7,
-	["tectros-pagle"]=30,
+	["tectros-pagle"]=7,
 	["tedespinguee-immerseus"]=4,
 	["teejayc-pagle"]=18,
 	["teejizzleqt-pagle"]=7,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9859 characters, read 2026-10-07 07:59 AM.
+-- Region tbc-eu, 9859 characters, read 2026-10-07 08:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9896,7 +9896,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["agong-spineshatter"]=7,
 	["agramonxd-spineshatter"]=9,
 	["ahjoo-spineshatter"]=13,
-	["ahjoowl-spineshatter"]=1,
+	["ahjoowl-spineshatter"]=20,
 	["ahke-thunderstrike"]=13,
 	["ahnoorr-spineshatter"]=19,
 	["aian-spineshatter"]=5,
@@ -11738,7 +11738,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["dim-spineshatter"]=12,
 	["dìmaria-spineshatter"]=1,
 	["dímbar-thunderstrike"]=5,
-	["Ðimitrov-spineshatter"]=15,
+	["Ðimitrov-spineshatter"]=5,
 	["Ðimma-spineshatter"]=3,
 	["dimork-spineshatter"]=5,
 	["dinaja-thunderstrike"]=25,
@@ -13858,7 +13858,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["jonidop-spineshatter"]=9,
 	["jonjonesx-spineshatter"]=11,
 	["jonnyjeweler-spineshatter"]=1,
-	["jonte-spineshatter"]=25,
+	["jonte-spineshatter"]=24,
 	["jontx-spineshatter"]=5,
 	["jonza-spineshatter"]=5,
 	["jopps-spineshatter"]=9,
