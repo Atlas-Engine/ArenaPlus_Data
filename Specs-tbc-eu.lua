@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9858 characters, read 2026-10-07 03:59 AM.
+-- Region tbc-eu, 9858 characters, read 2026-10-07 04:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12553,7 +12553,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["fiftysven-spineshatter"]=0,
 	["fikozui-spineshatter"]=9,
 	["filirip-spineshatter"]=2,
-	["fillygodx-thunderstrike"]=19,
+	["fillygodx-thunderstrike"]=3,
 	["filtenrog-spineshatter"]=3,
 	["filthycasual-spineshatter"]=2,
 	["finaflickan-thunderstrike"]=9,
@@ -12682,7 +12682,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["fouls-spineshatter"]=5,
 	["foúr-spineshatter"]=2,
 	["fourxhope-spineshatter"]=13,
-	["foxcønn-thunderstrike"]=5,
+	["foxcønn-thunderstrike"]=22,
 	["føxconn-thunderstrike"]=26,
 	["föxi-thunderstrike"]=9,
 	["foxpriestwo-spineshatter"]=2,
@@ -15606,7 +15606,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["nelhof-spineshatter"]=2,
 	["nelhoff-spineshatter"]=1,
 	["nellsing-spineshatter"]=7,
-	["nelmoh-spineshatter"]=3,
+	["nelmoh-spineshatter"]=19,
 	["nelthari-spineshatter"]=1,
 	["nelton-spineshatter"]=9,
 	["neltron-spineshatter"]=15,
@@ -18054,7 +18054,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["suniira-spineshatter"]=15,
 	["sünna-spineshatter"]=2,
 	["sunnéy-spineshatter"]=1,
-	["sunnova-spineshatter"]=9,
+	["sunnova-spineshatter"]=4,
 	["sunnovax-spineshatter"]=15,
 	["sunombre-spineshatter"]=11,
 	["sunraw-spineshatter"]=5,
