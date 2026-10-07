@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9466 characters, read 2026-10-07 10:58 AM.
+-- Region tbc-us, 9466 characters, read 2026-10-07 11:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9785,7 +9785,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["autopilotqt-nightslayer"]=11,
 	["auvon-dreamscythe"]=2,
 	["avalos-nightslayer"]=16,
-	["avamend-nightslayer"]=22,
+	["avamend-nightslayer"]=7,
 	["avannah-nightslayer"]=3,
 	["avarixx-nightslayer"]=4,
 	["avatarbrushi-nightslayer"]=19,
@@ -14344,7 +14344,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["magicthoap-nightslayer"]=6,
 	["magnilol-nightslayer"]=1,
 	["mahmymilkers-dreamscythe"]=2,
-	["mainbeam-nightslayer"]=7,
+	["mainbeam-nightslayer"]=22,
 	["mainim-nightslayer"]=1,
 	["mainlygay-nightslayer"]=4,
 	["mainstreeam-dreamscythe"]=19,
@@ -14443,7 +14443,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["mattdru-dreamscythe"]=7,
 	["mattman-nightslayer"]=2,
 	["mattressbro-dreamscythe"]=11,
-	["mattyokay-nightslayer"]=4,
+	["mattyokay-nightslayer"]=6,
 	["mattysmash-nightslayer"]=2,
 	["maulit-nightslayer"]=1,
 	["mavarok-nightslayer"]=4,
@@ -16148,7 +16148,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["rickjamesz-dreamscythe"]=3,
 	["ricoravioli-nightslayer"]=2,
 	["riddicc-nightslayer"]=8,
-	["riffer-nightslayer"]=6,
+	["riffer-nightslayer"]=4,
 	["riggity-nightslayer"]=14,
 	["righteousx-nightslayer"]=23,
 	["righteousxd-nightslayer"]=1,
@@ -17994,7 +17994,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["unpeumort-dreamscythe"]=1,
 	["unrealistic-nightslayer"]=4,
 	["unrívaled-nightslayer"]=15,
-	["unskulk-nightslayer"]=5,
+	["unskulk-nightslayer"]=8,
 	["unw-dreamscythe"]=2,
 	["uooti-dreamscythe"]=11,
 	["upaupa-nightslayer"]=16,
@@ -18138,7 +18138,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["viñkz-nightslayer"]=9,
 	["vînkz-nightslayer"]=1,
 	["vinn-nightslayer"]=19,
-	["vìnny-dreamscythe"]=17,
+	["vìnny-dreamscythe"]=21,
 	["vinnyboy-nightslayer"]=2,
 	["vinnypushka-dreamscythe"]=11,
 	["vinnyrichter-dreamscythe"]=12,

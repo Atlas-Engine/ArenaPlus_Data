@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9865 characters, read 2026-10-07 10:59 AM.
+-- Region tbc-eu, 9865 characters, read 2026-10-07 11:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11031,7 +11031,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["casinogaming-spineshatter"]=12,
 	["casperle-spineshatter"]=3,
 	["cassïopée-thunderstrike"]=15,
-	["castanuss-spineshatter"]=22,
+	["castanuss-spineshatter"]=5,
 	["castbunny-spineshatter"]=7,
 	["castelnuovo-spineshatter"]=3,
 	["catflop-spineshatter"]=1,
@@ -15302,7 +15302,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["monkeydluffy-spineshatter"]=9,
 	["monkeynéws-spineshatter"]=5,
 	["monkiee-spineshatter"]=1,
-	["mønø-spineshatter"]=3,
+	["mønø-spineshatter"]=19,
 	["monstergodx-spineshatter"]=10,
 	["monstr-thunderstrike"]=5,
 	["monstrchminé-spineshatter"]=3,
@@ -15760,10 +15760,10 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["niykeex-spineshatter"]=5,
 	["niylh-thunderstrike"]=7,
 	["nizz-spineshatter"]=9,
-	["njia-spineshatter"]=20,
+	["njia-spineshatter"]=1,
 	["nlawfury-spineshatter"]=23,
 	["nm-spineshatter"]=13,
-	["noalia-spineshatter"]=3,
+	["noalia-spineshatter"]=19,
 	["nobeh-spineshatter"]=1,
 	["nobutata-spineshatter"]=7,
 	["nocihp-spineshatter"]=13,
@@ -16508,7 +16508,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["punchig-spineshatter"]=4,
 	["punisherx-spineshatter"]=5,
 	["punishment-spineshatter"]=3,
-	["pupkin-spineshatter"]=11,
+	["pupkin-spineshatter"]=12,
 	["pupsibusch-spineshatter"]=7,
 	["pupukebab-spineshatter"]=15,
 	["pupulust-spineshatter"]=12,
@@ -18359,7 +18359,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["thewidest-spineshatter"]=12,
 	["thex-spineshatter"]=5,
 	["theyoungriv-spineshatter"]=9,
-	["thiccw-spineshatter"]=5,
+	["thiccw-spineshatter"]=15,
 	["thirabtw-spineshatter"]=4,
 	["thirteenorbs-spineshatter"]=2,
 	["thls-spineshatter"]=3,

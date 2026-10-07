@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5315 characters, read 2026-10-07 11:00 AM.
+-- Region eu, 5315 characters, read 2026-10-07 12:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2679,7 +2679,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["mud-garalon"]=20,
 	["muddywaters-shekzeer"]=10,
 	["muga-hoptallus"]=10,
-	["mugiwára-shekzeer"]=10,
+	["mugiwára-shekzeer"]=11,
 	["mugmug-hoptallus"]=30,
 	["muguruza-shekzeer"]=41,
 	["mulltikill-mirage-raceway"]=110,
@@ -6720,7 +6720,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["gulavesslan-shekzeer"]=15,
 	["gülizar-shekzeer"]=4,
 	["gumdrops-shekzeer"]=9,
-	["gunzales-shekzeer"]=4,
+	["gunzales-shekzeer"]=20,
 	["gupa-norushen"]=10,
 	["guriero-norushen"]=11,
 	["guruglenn-shekzeer"]=1,
@@ -6737,7 +6737,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["hacu-shekzeer"]=4,
 	["hadrius-ook-ook"]=0,
 	["hadudruid-shekzeer"]=3,
-	["hadupal-shekzeer"]=30,
+	["hadupal-shekzeer"]=5,
 	["hadupriest-shekzeer"]=9,
 	["haduqt-shekzeer"]=9,
 	["hageklasker-garalon"]=25,
@@ -7880,7 +7880,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["mud-garalon"]=1,
 	["muddywaters-shekzeer"]=2,
 	["muga-hoptallus"]=1,
-	["mugiwára-shekzeer"]=26,
+	["mugiwára-shekzeer"]=24,
 	["mugmug-hoptallus"]=5,
 	["muguruza-shekzeer"]=11,
 	["mulltikill-mirage-raceway"]=19,
@@ -8432,7 +8432,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["pyrohits-shekzeer"]=10,
 	["pýrømänîäç-mirage-raceway"]=2,
 	["pyropia-everlook"]=10,
-	["pzero-everlook"]=5,
+	["pzero-everlook"]=15,
 	["pzeroo-everlook"]=8,
 	["qfest-norushen"]=34,
 	["qi-shekzeer"]=2,
@@ -8809,7 +8809,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["shadoff-shekzeer"]=12,
 	["shadotix-everlook"]=23,
 	["shaðøw-auberdine"]=12,
-	["shadowbøømzt-auberdine"]=9,
+	["shadowbøømzt-auberdine"]=12,
 	["shadowdeath-shekzeer"]=12,
 	["shadoweed-shekzeer"]=12,
 	["shadowgap-shekzeer"]=24,
@@ -9915,7 +9915,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["zéd-mirage-raceway"]=34,
 	["zeeppaan-garalon"]=24,
 	["zeeppan-garalon"]=16,
-	["zefopro-shekzeer"]=24,
+	["zefopro-shekzeer"]=34,
 	["zekax-shekzeer"]=11,
 	["zekereborn-shekzeer"]=6,
 	["zelanor-garalon"]=11,
