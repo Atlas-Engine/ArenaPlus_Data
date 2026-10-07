@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9495 characters, read 2026-10-07 04:58 AM.
+-- Region tbc-us, 9495 characters, read 2026-10-07 05:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11687,7 +11687,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["dronefootage-nightslayer"]=5,
 	["droobae-nightslayer"]=19,
 	["dropbananas-dreamscythe"]=2,
-	["droppin-nightslayer"]=13,
+	["droppin-nightslayer"]=16,
 	["droptotems-dreamscythe"]=10,
 	["dropwar-dreamscythe"]=2,
 	["dróss-dreamscythe"]=5,
@@ -13702,7 +13702,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["karatemom-nightslayer"]=1,
 	["kardiiverous-nightslayer"]=3,
 	["kardiverous-nightslayer"]=4,
-	["kardlonoc-nightslayer"]=2,
+	["kardlonoc-nightslayer"]=18,
 	["karlmaloned-nightslayer"]=5,
 	["karmanjakah-nightslayer"]=22,
 	["karndaddy-nightslayer"]=19,
@@ -17731,7 +17731,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["titabitanaya-nightslayer"]=19,
 	["titaniumfort-nightslayer"]=1,
 	["titequeu-nightslayer"]=1,
-	["titsi-nightslayer"]=19,
+	["titsi-nightslayer"]=10,
 	["tjdotta-nightslayer"]=13,
 	["tjofmajik-nightslayer"]=4,
 	["tkgirl-nightslayer"]=7,
@@ -17755,7 +17755,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["tofolol-nightslayer"]=5,
 	["tófu-nightslayer"]=5,
 	["tohbeh-dreamscythe"]=2,
-	["tokenb-nightslayer"]=7,
+	["tokenb-nightslayer"]=22,
 	["tokexd-nightslayer"]=5,
 	["tokinranarr-nightslayer"]=2,
 	["toktix-nightslayer"]=19,
@@ -18226,7 +18226,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["volboura-nightslayer"]=3,
 	["voldang-dreamscythe"]=6,
 	["voleibalada-nightslayer"]=2,
-	["voleizinha-nightslayer"]=1,
+	["voleizinha-nightslayer"]=12,
 	["voljintina-nightslayer"]=19,
 	["voljintini-nightslayer"]=19,
 	["volmir-nightslayer"]=9,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9858 characters, read 2026-10-07 04:59 AM.
+-- Region tbc-eu, 9858 characters, read 2026-10-07 05:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -16241,7 +16241,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["pheqx-spineshatter"]=3,
 	["phéxx-spineshatter"]=2,
 	["phisk-spineshatter"]=3,
-	["phisken-spineshatter"]=9,
+	["phisken-spineshatter"]=4,
 	["phk-spineshatter"]=2,
 	["phnlock-spineshatter"]=14,
 	["phon-spineshatter"]=5,
@@ -18252,7 +18252,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["teffubob-spineshatter"]=13,
 	["tegalus-spineshatter"]=2,
 	["tegaluz-spineshatter"]=2,
-	["tegasdaddy-spineshatter"]=9,
+	["tegasdaddy-spineshatter"]=4,
 	["tegi-thunderstrike"]=26,
 	["tehund-spineshatter"]=20,
 	["tekkenx-spineshatter"]=9,
@@ -18772,7 +18772,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["valeniah-thunderstrike"]=3,
 	["valeratop-spineshatter"]=13,
 	["valessra-spineshatter"]=26,
-	["valezcas-spineshatter"]=12,
+	["valezcas-spineshatter"]=11,
 	["valiumx-spineshatter"]=12,
 	["války-thunderstrike"]=19,
 	["valkyriza-thunderstrike"]=7,
