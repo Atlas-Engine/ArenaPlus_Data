@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9494 characters, read 2026-10-06 07:58 PM.
+-- Region tbc-us, 9494 characters, read 2026-10-06 08:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11520,7 +11520,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["dntsitonhim-nightslayer"]=10,
 	["dockingtotem-nightslayer"]=19,
 	["dodgemyshred-nightslayer"]=0,
-	["dodyx-nightslayer"]=10,
+	["dodyx-nightslayer"]=19,
 	["dógface-nightslayer"]=2,
 	["dogfacekilla-nightslayer"]=2,
 	["doggos-nightslayer"]=2,
@@ -16473,7 +16473,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["scarecrow-nightslayer"]=4,
 	["scarfie-dreamscythe"]=3,
 	["scarlettjane-nightslayer"]=12,
-	["scaryflocks-nightslayer"]=8,
+	["scaryflocks-nightslayer"]=5,
 	["scattyshake-nightslayer"]=2,
 	["schartzxy-nightslayer"]=13,
 	["schizen-nightslayer"]=2,
@@ -17776,7 +17776,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["tomtomz-nightslayer"]=2,
 	["tomtwocox-nightslayer"]=1,
 	["tomy-nightslayer"]=20,
-	["tondeuse-nightslayer"]=24,
+	["tondeuse-nightslayer"]=10,
 	["tondo-nightslayer"]=2,
 	["tongass-nightslayer"]=2,
 	["tõnk-nightslayer"]=2,
