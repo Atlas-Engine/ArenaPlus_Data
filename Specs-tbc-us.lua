@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9470 characters, read 2026-10-07 07:58 PM.
+-- Region tbc-us, 9470 characters, read 2026-10-07 08:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11649,7 +11649,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["drisyk-nightslayer"]=5,
 	["drize-dreamscythe"]=19,
 	["drïzz-nightslayer"]=5,
-	["drjangle-nightslayer"]=18,
+	["drjangle-nightslayer"]=2,
 	["drmayonnaise-nightslayer"]=7,
 	["drmayonnaisé-nightslayer"]=7,
 	["drmustard-nightslayer"]=7,
@@ -11658,7 +11658,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["droobae-nightslayer"]=19,
 	["dropbananas-dreamscythe"]=2,
 	["droppin-nightslayer"]=16,
-	["droptotems-dreamscythe"]=10,
+	["droptotems-dreamscythe"]=19,
 	["dropwar-dreamscythe"]=2,
 	["dróss-dreamscythe"]=5,
 	["drossw-nightslayer"]=16,
@@ -13567,7 +13567,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["jpsunder-nightslayer"]=2,
 	["jptx-dreamscythe"]=18,
 	["jpupp-nightslayer"]=1,
-	["jradz-nightslayer"]=22,
+	["jradz-nightslayer"]=7,
 	["jrodigan-dreamscythe"]=11,
 	["jroww-nightslayer"]=11,
 	["jskelly-nightslayer"]=5,
@@ -16990,7 +16990,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["snazzd-nightslayer"]=7,
 	["snazze-nightslayer"]=5,
 	["snazzx-nightslayer"]=1,
-	["sneakymarty-dreamscythe"]=8,
+	["sneakymarty-dreamscythe"]=5,
 	["sneakypykey-nightslayer"]=5,
 	["sneakysav-nightslayer"]=5,
 	["sneakysean-nightslayer"]=5,
@@ -17553,7 +17553,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["thanksmate-dreamscythe"]=5,
 	["thatdruid-nightslayer"]=0,
 	["thatwaytwin-dreamscythe"]=1,
-	["thawar-nightslayer"]=16,
+	["thawar-nightslayer"]=13,
 	["thayssadru-dreamscythe"]=7,
 	["thayssaqt-dreamscythe"]=5,
 	["theame-nightslayer"]=10,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5324 characters, read 2026-10-07 08:00 PM.
+-- Region eu, 5324 characters, read 2026-10-07 09:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5435,7 +5435,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["attis-norushen"]=14,
 	["augsburg-shekzeer"]=6,
 	["aultrasalt-shekzeer"]=23,
-	["auredian-mirage-raceway"]=5,
+	["auredian-mirage-raceway"]=15,
 	["aureliavid-auberdine"]=3,
 	["auryen-mirage-raceway"]=4,
 	["auslogics-shekzeer"]=2,
@@ -5463,7 +5463,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["aydedee-garalon"]=20,
 	["ayleena-mirage-raceway"]=6,
 	["ayleenaah-ook-ook"]=31,
-	["ayleenah-mirage-raceway"]=3,
+	["ayleenah-mirage-raceway"]=21,
 	["ayloupipi-shekzeer"]=2,
 	["ayuaha-shekzeer"]=16,
 	["ayus-shekzeer"]=15,
@@ -8820,7 +8820,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["shadoff-shekzeer"]=12,
 	["shadotix-everlook"]=23,
 	["shaðøw-auberdine"]=12,
-	["shadowbøømzt-auberdine"]=12,
+	["shadowbøømzt-auberdine"]=9,
 	["shadowdeath-shekzeer"]=12,
 	["shadoweed-shekzeer"]=12,
 	["shadowgap-shekzeer"]=24,
@@ -9023,7 +9023,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["soprasa-hoptallus"]=13,
 	["sorcery-shekzeer"]=15,
 	["sørex-shekzeer"]=26,
-	["sosoczka-shekzeer"]=1,
+	["sosoczka-shekzeer"]=18,
 	["sosoo-shekzeer"]=3,
 	["søtek-everlook"]=1,
 	["sotu-shekzeer"]=2,
