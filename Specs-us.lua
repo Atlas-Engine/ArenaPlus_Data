@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5187 characters, read 2026-10-07 10:59 PM.
+-- Region us, 5187 characters, read 2026-10-07 11:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6741,7 +6741,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["gloriosas-raden"]=7,
 	["gloryboi-pagle"]=2,
 	["gnarlyknight-pagle"]=16,
-	["gnarlyshotz-pagle"]=18,
+	["gnarlyshotz-pagle"]=3,
 	["gnomeßeater-pagle"]=4,
 	["gøàtbrádlëê-raden"]=2,
 	["goatler-benediction"]=3,
@@ -7267,7 +7267,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["jocah-raden"]=9,
 	["jocelynflore-raden"]=16,
 	["jocksarotten-arugal-au"]=9,
-	["jodido-lei-shen"]=25,
+	["jodido-lei-shen"]=6,
 	["joefro-raden"]=16,
 	["joelrollan-raden"]=7,
 	["joeppie-galakras"]=18,
@@ -7833,7 +7833,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["mcp-raden"]=28,
 	["mcpm-raden"]=1,
 	["mcstabbiee-pagle"]=29,
-	["meatballgun-lei-shen"]=22,
+	["meatballgun-lei-shen"]=15,
 	["meätbol-lei-shen"]=17,
 	["meatbolt-raden"]=15,
 	["mecharogue-raden"]=14,
@@ -8374,7 +8374,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["palamán-raden"]=32,
 	["palapala-pagle"]=2,
 	["pallyboss-galakras"]=0,
-	["palodan-arugal-au"]=16,
+	["palodan-arugal-au"]=2,
 	["palpatîne-pagle"]=28,
 	["palyvash-galakras"]=16,
 	["palyy-raden"]=16,
