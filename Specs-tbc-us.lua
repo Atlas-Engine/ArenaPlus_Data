@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9475 characters, read 2026-10-07 11:58 PM.
+-- Region tbc-us, 9475 characters, read 2026-10-08 12:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12988,7 +12988,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["hitmasterx-nightslayer"]=7,
 	["hitmønchan-dreamscythe"]=2,
 	["hitmonlee-dreamscythe"]=2,
-	["hittenalot-dreamscythe"]=2,
+	["hittenalot-dreamscythe"]=20,
 	["hixxak-nightslayer"]=18,
 	["hiyoo-dreamscythe"]=2,
 	["hizzy-dreamscythe"]=5,
@@ -16260,7 +16260,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ronbot-nightslayer"]=4,
 	["ronchon-nightslayer"]=1,
 	["rondog-nightslayer"]=11,
-	["rondop-nightslayer"]=1,
+	["rondop-nightslayer"]=12,
 	["ronexx-dreamscythe"]=1,
 	["rongoat-nightslayer"]=10,
 	["ronicss-dreamscythe"]=10,
@@ -17248,7 +17248,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["stinkyminky-dreamscythe"]=5,
 	["stinkywinki-dreamscythe"]=4,
 	["stippsham-nightslayer"]=19,
-	["stitchcooper-nightslayer"]=6,
+	["stitchcooper-nightslayer"]=4,
 	["stitchgood-nightslayer"]=25,
 	["stmervin-nightslayer"]=14,
 	["stmicro-nightslayer"]=2,

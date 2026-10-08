@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5187 characters, read 2026-10-07 11:59 PM.
+-- Region us, 5187 characters, read 2026-10-08 12:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4962,6 +4962,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["zìegen-lei-shen"]=100,
 	["zinw-pagle"]=10,
 	["zíonlion-raden"]=30,
+	["zipzipzapzap-raden"]=81,
 	["zivarikk-pagle"]=10,
 	["zivlea-pagle"]=11,
 	["zlorzaza-benediction"]=11,
@@ -7925,7 +7926,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["misprëdictio-nazgrim"]=21,
 	["missatrinni-pagle"]=0,
 	["missmama-galakras"]=5,
-	["missrollings-pagle"]=4,
+	["missrollings-pagle"]=10,
 	["misstotem-pagle"]=15,
 	["missyu-immerseus"]=23,
 	["mistafistuh-pagle"]=4,
@@ -8012,7 +8013,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["mòurn-pagle"]=28,
 	["mozzi-raden"]=7,
 	["mp-raden"]=9,
-	["mslusty-pagle"]=10,
+	["mslusty-pagle"]=4,
 	["msnurfme-raden"]=5,
 	["msr-galakras"]=3,
 	["mtj-atiesh"]=17,
@@ -8323,7 +8324,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["orcz-pagle"]=7,
 	["ordanary-pagle"]=4,
 	["ordinary-galakras"]=5,
-	["orgian-pagle"]=17,
+	["orgian-pagle"]=5,
 	["orgimmar-raden"]=1,
 	["originalgank-pagle"]=0,
 	["orkage-immerseus"]=27,
@@ -10151,7 +10152,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["zìegen-lei-shen"]=1,
 	["zinw-pagle"]=20,
 	["zíonlion-raden"]=18,
-	["zipzipzapzap-raden"]=0,
+	["zipzipzapzap-raden"]=28,
 	["zivarikk-pagle"]=7,
 	["zivlea-pagle"]=9,
 	["zlorzaza-benediction"]=6,

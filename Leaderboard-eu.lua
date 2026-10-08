@@ -18,7 +18,7 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region eu, season 14, read 2026-10-08 12:00 AM.
+-- Region eu, season 14, read 2026-10-08 01:00 AM.
 -- Realm display names, because the ladder only carries slugs and no rule
 -- turns one back into the other: raden is Ra-den, lei-shen is Lei Shen and
 -- arugal-au is Arugal (AU). Read from Blizzard's realm index; a slug with no
@@ -35,9 +35,9 @@ ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["eu"] = {
 	region  = "eu",
-	checked = "2026-10-08 12:00 AM",
-	checkedEpoch = 1791432002,
-	snapshot = "2026-10-08 01:29",
+	checked = "2026-10-08 01:00 AM",
+	checkedEpoch = 1791435605,
+	snapshot = "2026-10-08 04:29",
 
 	[1] = {  -- 2v2, 5009 places, down to rating 1046 -- the API stops here, short of the cutoff
 		{ rank=1, name="Apologies", realm="shekzeer", rating=2762, won=165, lost=45, faction="ALLIANCE", dr=154, dk=-28 },
@@ -2037,7 +2037,7 @@ ns.LEADERBOARD_BY_REGION["eu"] = {
 		{ rank=1993, name="Mbs", realm="shekzeer", rating=1893, won=63, lost=67, faction="ALLIANCE", dr=0, dk=74 },
 		{ rank=1993, name="Mmashnik", realm="shekzeer", rating=1893, won=55, lost=42, faction="ALLIANCE", dr=0, dk=74 },
 		{ rank=1993, name="Ветаминка", realm="flamegor", rating=1893, won=211, lost=186, faction="ALLIANCE", mr=1910, dr=0, dk=74 },
-		{ rank=1998, name="Badmanchazzo", realm="shekzeer", rating=1892, won=34, lost=36, faction="ALLIANCE", mr=2046, dr=-154, dk=899 },
+		{ rank=1998, name="Badmanchazzo", realm="shekzeer", rating=1892, won=34, lost=37, faction="ALLIANCE", mr=2046, dr=-154, dk=899 },
 		{ rank=1998, name="Bingle", realm="everlook", rating=1892, won=35, lost=13, faction="ALLIANCE", dr=0, dk=74 },
 		{ rank=1998, name="Neyrowly", realm="everlook", rating=1892, won=63, lost=63, faction="ALLIANCE", dr=0, dk=74 },
 		{ rank=1998, name="Биггдэди", realm="flamegor", rating=1892, won=35, lost=22, faction="ALLIANCE", dr=0, dk=74 },
