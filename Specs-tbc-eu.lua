@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9836 characters, read 2026-10-08 02:59 AM.
+-- Region tbc-eu, 9836 characters, read 2026-10-08 03:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11093,7 +11093,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["chikabanana-spineshatter"]=11,
 	["chikagox-spineshatter"]=8,
 	["chikanaxd-spineshatter"]=1,
-	["chiliesauce-spineshatter"]=3,
+	["chiliesauce-spineshatter"]=19,
 	["chilliam-thunderstrike"]=9,
 	["chillpapi-spineshatter"]=23,
 	["chillywillyy-spineshatter"]=9,
@@ -13346,7 +13346,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["hurtie-spineshatter"]=2,
 	["hûschdie-thunderstrike"]=8,
 	["husgrov-spineshatter"]=3,
-	["huszascsuka-spineshatter"]=13,
+	["huszascsuka-spineshatter"]=18,
 	["hutsimbel-thunderstrike"]=25,
 	["huugepenance-spineshatter"]=2,
 	["huzitsia-spineshatter"]=17,
@@ -14535,7 +14535,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["lildwarfu-spineshatter"]=3,
 	["lilfreeze-spineshatter"]=9,
 	["lilhencha-spineshatter"]=6,
-	["lílí-spineshatter"]=13,
+	["lílí-spineshatter"]=14,
 	["lilipuks-thunderstrike"]=11,
 	["lillas-thunderstrike"]=2,
 	["lillasp-spineshatter"]=2,
@@ -17855,7 +17855,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["ßyeßye-spineshatter"]=0,
 	["stabbanana-spineshatter"]=3,
 	["stabbyboii-spineshatter"]=3,
-	["stabilized-spineshatter"]=7,
+	["stabilized-spineshatter"]=10,
 	["stabithard-spineshatter"]=3,
 	["städlena-spineshatter"]=1,
 	["staebchen-thunderstrike"]=2,
@@ -17869,7 +17869,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["stappenalize-spineshatter"]=15,
 	["stappersxz-spineshatter"]=3,
 	["star-spineshatter"]=1,
-	["starababa-spineshatter"]=8,
+	["starababa-spineshatter"]=17,
 	["starcastic-spineshatter"]=1,
 	["starele-spineshatter"]=1,
 	["starelement-spineshatter"]=13,
@@ -18659,7 +18659,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["umamiman-spineshatter"]=9,
 	["umbayumba-spineshatter"]=3,
 	["umbee-spineshatter"]=9,
-	["umbracerdos-spineshatter"]=2,
+	["umbracerdos-spineshatter"]=17,
 	["ummsbro-spineshatter"]=2,
 	["umög-spineshatter"]=11,
 	["unbesiegcat-spineshatter"]=6,
