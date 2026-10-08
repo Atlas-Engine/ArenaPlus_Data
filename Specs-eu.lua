@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5326 characters, read 2026-10-08 09:00 AM.
+-- Region eu, 5327 characters, read 2026-10-08 10:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1175,7 +1175,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["eatmyshield-shekzeer"]=30,
 	["eatyourveg-shekzeer"]=11,
 	["eauminerale-shekzeer"]=11,
-	["ebanutsa-shekzeer"]=41,
 	["ebanygandon-shekzeer"]=10,
 	["ebbe-everlook"]=11,
 	["ebblordx-ook-ook"]=11,
@@ -4521,6 +4520,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["xirodian-shekzeer"]=11,
 	["xistens-shekzeer"]=41,
 	["xkiller-shekzeer"]=11,
+	["xladérz-shekzeer"]=11,
 	["xladerzf-shekzeer"]=11,
 	["xmm-shekzeer"]=11,
 	["xnavis-hoptallus"]=71,
@@ -5260,7 +5260,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["alenkovich-shekzeer"]=17,
 	["alepoudiaris-garalon"]=15,
 	["alexandereu-shekzeer"]=10,
-	["alfajer-shekzeer"]=14,
+	["alfajer-shekzeer"]=4,
 	["algerian-shekzeer"]=4,
 	["algharib-everlook"]=8,
 	["alieh-shekzeer"]=15,
@@ -6065,6 +6065,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["daozheng-everlook"]=6,
 	["darçel-norushen"]=23,
 	["darcium-shekzeer"]=24,
+	["darcknéss-shekzeer"]=0,
 	["darcknèss-shekzeer"]=3,
 	["dárckness-shekzeer"]=3,
 	["dardanët-mirage-raceway"]=0,
@@ -6310,7 +6311,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["eatmyshield-shekzeer"]=13,
 	["eatyourveg-shekzeer"]=9,
 	["eauminerale-shekzeer"]=4,
-	["ebanutsa-shekzeer"]=3,
 	["ebanygandon-shekzeer"]=1,
 	["ebbe-everlook"]=2,
 	["ebblordx-ook-ook"]=15,
@@ -8953,7 +8953,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["skullchachi-mirage-raceway"]=26,
 	["skylexia-auberdine"]=15,
 	["skynerd-shekzeer"]=17,
-	["skyráw-shekzeer"]=21,
+	["skyráw-shekzeer"]=11,
 	["skyrine-auberdine"]=8,
 	["slagteren-shekzeer"]=1,
 	["slamftw-shekzeer"]=1,
@@ -9826,6 +9826,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["xistens-shekzeer"]=9,
 	["xiù-shekzeer"]=0,
 	["xkiller-shekzeer"]=2,
+	["xladérz-shekzeer"]=1,
 	["xladerzf-shekzeer"]=6,
 	["xmm-shekzeer"]=4,
 	["xnavis-hoptallus"]=17,

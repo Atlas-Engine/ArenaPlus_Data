@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9470 characters, read 2026-10-08 08:58 AM.
+-- Region tbc-us, 9470 characters, read 2026-10-08 09:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9915,7 +9915,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bananaslamma-dreamscythe"]=8,
 	["bananaslyp-nightslayer"]=2,
 	["bananasorbet-nightslayer"]=0,
-	["bandageftw-nightslayer"]=1,
+	["bandageftw-nightslayer"]=14,
 	["bandai-dreamscythe"]=11,
 	["bandaïds-nightslayer"]=22,
 	["bandaidslol-nightslayer"]=14,
@@ -12196,7 +12196,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["fishtwists-dreamscythe"]=19,
 	["fishwater-nightslayer"]=2,
 	["fishybop-dreamscythe"]=11,
-	["fishyfury-dreamscythe"]=2,
+	["fishyfury-dreamscythe"]=18,
 	["fishzaza-nightslayer"]=18,
 	["fiske-nightslayer"]=20,
 	["fistbuut-nightslayer"]=11,
@@ -13209,7 +13209,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["iliatopuriax-nightslayer"]=5,
 	["ililililiili-nightslayer"]=5,
 	["illapo-nightslayer"]=24,
-	["illbred-nightslayer"]=7,
+	["illbred-nightslayer"]=3,
 	["illness-nightslayer"]=2,
 	["illuminada-dreamscythe"]=23,
 	["iloveguys-nightslayer"]=2,
@@ -14046,7 +14046,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["lersonlust-nightslayer"]=10,
 	["leshdru-nightslayer"]=7,
 	["lestát-nightslayer"]=4,
-	["letmecrack-dreamscythe"]=10,
+	["letmecrack-dreamscythe"]=19,
 	["letsgetnasty-nightslayer"]=2,
 	["leung-nightslayer"]=4,
 	["levft-nightslayer"]=19,
@@ -14798,7 +14798,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["moosheisty-nightslayer"]=3,
 	["mootshroom-nightslayer"]=19,
 	["mopman-nightslayer"]=25,
-	["mopz-nightslayer"]=1,
+	["mopz-nightslayer"]=12,
 	["moqu-nightslayer"]=10,
 	["moquu-nightslayer"]=10,
 	["moredotzz-nightslayer"]=13,
@@ -14863,7 +14863,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["murderapolis-dreamscythe"]=8,
 	["murkinturkey-nightslayer"]=3,
 	["murlkk-nightslayer"]=15,
-	["murtmcgurt-nightslayer"]=2,
+	["murtmcgurt-nightslayer"]=18,
 	["murulook-nightslayer"]=13,
 	["muscletwist-dreamscythe"]=11,
 	["mutalisks-dreamscythe"]=5,
@@ -16590,7 +16590,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["shaky-nightslayer"]=5,
 	["shalidar-nightslayer"]=13,
 	["shamagnoll-nightslayer"]=24,
-	["shamanidk-nightslayer"]=24,
+	["shamanidk-nightslayer"]=10,
 	["shamanqüeen-nightslayer"]=10,
 	["shambails-nightslayer"]=10,
 	["shambanned-nightslayer"]=19,

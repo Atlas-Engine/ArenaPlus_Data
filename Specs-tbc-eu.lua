@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9835 characters, read 2026-10-08 08:59 AM.
+-- Region tbc-eu, 9835 characters, read 2026-10-08 09:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10048,7 +10048,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["annoncelight-spineshatter"]=7,
 	["anntón-spineshatter"]=3,
 	["anomanderiz-spineshatter"]=6,
-	["anoréxica-spineshatter"]=4,
+	["anoréxica-spineshatter"]=9,
 	["anotherheal-spineshatter"]=10,
 	["anothertry-spineshatter"]=0,
 	["anoukix-thunderstrike"]=23,
@@ -10156,7 +10156,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["ascediaa-spineshatter"]=20,
 	["ascediaff-spineshatter"]=20,
 	["ascetic-spineshatter"]=7,
-	["ascherít-spineshatter"]=5,
+	["ascherít-spineshatter"]=15,
 	["asdfghjklzxc-spineshatter"]=0,
 	["asferto-spineshatter"]=23,
 	["ashamedtwist-spineshatter"]=7,
@@ -16695,7 +16695,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["reaperzx-spineshatter"]=3,
 	["reaptan-spineshatter"]=10,
 	["reasønable-spineshatter"]=7,
-	["reasonicus-spineshatter"]=4,
+	["reasonicus-spineshatter"]=9,
 	["reasoning-spineshatter"]=1,
 	["reavex-spineshatter"]=12,
 	["reazlïght-spineshatter"]=10,
@@ -18734,7 +18734,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["valeratop-spineshatter"]=13,
 	["valessra-spineshatter"]=26,
 	["valezcas-spineshatter"]=12,
-	["valintalo-spineshatter"]=4,
+	["valintalo-spineshatter"]=9,
 	["valiumx-spineshatter"]=12,
 	["války-thunderstrike"]=19,
 	["valkyriza-thunderstrike"]=7,

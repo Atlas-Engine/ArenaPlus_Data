@@ -42,7 +42,7 @@ local ns = ArenaPlusData
 -- source_item, so gems are stored as real item ids the client can draw and only
 -- the enchant text has to ship.
 --
--- Region eu, 426 characters, 378 glyph names, read 2026-10-08 07:20 AM.
+-- Region eu, 426 characters, 378 glyph names, read 2026-10-08 09:20 AM.
 ns.GLYPH_NAMES = ns.GLYPH_NAMES or {}
 
 for id, name in pairs({
@@ -432,56 +432,13 @@ for id, name in pairs({
 ns.TALENT_NAMES = ns.TALENT_NAMES or {}
 
 for id, name in pairs({
-	[1463]="Incanter's Ward",
-	[5211]="Mighty Bash",
-	[11426]="Ice Barrier",
-	[11958]="Cold Snap",
-	[12043]="Presence of Mind",
-	[29838]="Second Wind",
-	[44457]="Living Bomb",
-	[46968]="Shockwave",
 	[79008]="Elusiveness",
-	[85499]="Speed of Light",
-	[85804]="Selfless Healer",
-	[86172]="Divine Purpose",
-	[102351]="Cenarion Ward",
-	[102401]="Wild Charge",
-	[102793]="Ursol's Vortex",
-	[103827]="Double Time",
-	[105593]="Fist of Justice",
-	[105622]="Clemency",
-	[105809]="Holy Avenger",
-	[106707]="Faerie Swarm",
-	[106737]="Force of Nature",
-	[107566]="Staggering Shout",
-	[107570]="Storm Bolt",
 	[108208]="Subterfuge",
 	[108210]="Nerve Strike",
 	[108212]="Burst of Speed",
 	[108215]="Paralytic Poison",
 	[108216]="Dirty Tricks",
-	[108288]="Heart of the Wild",
-	[108373]="Dream of Cenarius",
-	[110959]="Greater Invisibility",
-	[113724]="Ring of Frost",
-	[114003]="Invocation",
-	[114028]="Mass Spell Reflection",
-	[114029]="Safeguard",
-	[114107]="Soul of the Forest",
-	[114154]="Unbreakable Spirit",
-	[114163]="Eternal Flame",
-	[114165]="Holy Prism",
-	[115098]="Chi Wave",
-	[115399]="Chi Brew",
-	[115610]="Temporal Shield",
-	[116841]="Tiger's Lust",
-	[116847]="Rushing Jade Wind",
-	[119381]="Leg Sweep",
-	[122280]="Healing Elixirs",
-	[123904]="Invoke Xuen, the White Tiger",
-	[132469]="Typhoon",
 	[137619]="Marked for Death",
-	[145108]="Ysera's Gift",
 }) do ns.TALENT_NAMES[id] = name end
 
 -- Which talent a rank-spell belongs to, and how many ranks that talent has.
