@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5326 characters, read 2026-10-08 06:00 AM.
+-- Region eu, 5326 characters, read 2026-10-08 07:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -191,7 +191,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["Álòómënøn-shekzeer"]=11,
 	["aloomrage-shekzeer"]=11,
 	["alpacíno-ook-ook"]=50,
-	["altertime-shekzeer"]=11,
 	["althys-auberdine"]=10,
 	["altuhakatuha-shekzeer"]=11,
 	["altuhanataha-shekzeer"]=41,
@@ -460,6 +459,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["bcacu-shekzeer"]=10,
 	["bdm-auberdine"]=11,
 	["bðring-shekzeer"]=11,
+	["bearburst-shekzeer"]=41,
 	["bearia-shekzeer"]=11,
 	["beeka-auberdine"]=220,
 	["beelisarius-auberdine"]=40,
@@ -5276,7 +5276,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Álòómënøn-shekzeer"]=2,
 	["aloomrage-shekzeer"]=1,
 	["alpacíno-ook-ook"]=9,
-	["altertime-shekzeer"]=2,
 	["althys-auberdine"]=8,
 	["altuhakatuha-shekzeer"]=1,
 	["altuhanataha-shekzeer"]=4,
@@ -5566,6 +5565,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bcacu-shekzeer"]=1,
 	["bdm-auberdine"]=15,
 	["bðring-shekzeer"]=9,
+	["bearburst-shekzeer"]=32,
 	["bearia-shekzeer"]=4,
 	["beeka-auberdine"]=11,
 	["beelisarius-auberdine"]=24,
@@ -5951,7 +5951,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["comeclarity-shekzeer"]=2,
 	["comète-shekzeer"]=3,
 	["commandor-garalon"]=15,
-	["commitment-shekzeer"]=15,
+	["commitment-shekzeer"]=5,
 	["compak-everlook"]=26,
 	["compey-everlook"]=33,
 	["comtelucius-auberdine"]=0,
@@ -7652,7 +7652,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["mangochulo-shekzeer"]=5,
 	["mangopango-pyrewood-village"]=14,
 	["mangostraf-mirage-raceway"]=1,
-	["mannen-shekzeer"]=31,
+	["mannen-shekzeer"]=8,
 	["mansøur-auberdine"]=30,
 	["maochamp-shekzeer"]=11,
 	["maphra-shekzeer"]=22,
@@ -9596,10 +9596,10 @@ ns.SPECS_BY_REGION["eu"] = {
 	["veyn-shekzeer"]=24,
 	["vezir-shekzeer"]=11,
 	["victuz-gehennas"]=0,
-	["videostore-shekzeer"]=20,
+	["videostore-shekzeer"]=4,
 	["viint-shekzeer"]=8,
 	["vïïnt-shekzeer"]=21,
-	["vindictive-shekzeer"]=6,
+	["vindictive-shekzeer"]=7,
 	["vint-garalon"]=9,
 	["vínt-shekzeer"]=2,
 	["vïnt-shekzeer"]=15,
@@ -10422,7 +10422,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Фкю-flamegor"]=1,
 	["Фобя-flamegor"]=3,
 	["Фоллсс-flamegor"]=23,
-	["Форенган-flamegor"]=20,
+	["Форенган-flamegor"]=4,
 	["Фурист-flamegor"]=9,
 	["Ффолс-flamegor"]=3,
 	["Халлбъёрн-flamegor"]=15,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9836 characters, read 2026-10-08 05:59 AM.
+-- Region tbc-eu, 9836 characters, read 2026-10-08 06:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -13837,7 +13837,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["jozeftosi-spineshatter"]=2,
 	["jpws-spineshatter"]=23,
 	["jrv-spineshatter"]=23,
-	["jsor-spineshatter"]=13,
+	["jsor-spineshatter"]=14,
 	["jstz-spineshatter"]=3,
 	["jtaihagar-spineshatter"]=9,
 	["juancarlito-spineshatter"]=3,
@@ -15783,7 +15783,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["nothief-spineshatter"]=3,
 	["notindanger-spineshatter"]=17,
 	["notmageek-thunderstrike"]=12,
-	["notnotyou-spineshatter"]=14,
+	["notnotyou-spineshatter"]=13,
 	["notoríous-spineshatter"]=5,
 	["notoríousx-spineshatter"]=3,
 	["notpompyro-spineshatter"]=9,
@@ -17868,7 +17868,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["stappenalize-spineshatter"]=15,
 	["stappersxz-spineshatter"]=3,
 	["star-spineshatter"]=1,
-	["starababa-spineshatter"]=17,
+	["starababa-spineshatter"]=8,
 	["starcastic-spineshatter"]=1,
 	["starele-spineshatter"]=1,
 	["starelement-spineshatter"]=13,
