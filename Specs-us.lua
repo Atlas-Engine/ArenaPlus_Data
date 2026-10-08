@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5189 characters, read 2026-10-08 11:59 AM.
+-- Region us, 5189 characters, read 2026-10-08 12:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1548,7 +1548,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["flynn-nazgrim"]=21,
 	["fngrplay-galakras"]=61,
 	["fogoflife-pagle"]=11,
-	["foldedsocks-raden"]=10,
+	["foldedsocks-raden"]=11,
 	["following-pagle"]=10,
 	["fongula-pagle"]=10,
 	["fontainesdc-arugal-au"]=41,
@@ -5975,7 +5975,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["darkjdm-lei-shen"]=6,
 	["darklegendz-raden"]=24,
 	["darknessfury-pagle"]=6,
-	["darknuns-pagle"]=21,
+	["darknuns-pagle"]=9,
 	["darkphecy-pagle"]=22,
 	["darkshadown-pagle"]=13,
 	["darkshadowx-galakras"]=25,
@@ -6334,7 +6334,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["elchjager-pagle"]=20,
 	["elcubano-raden"]=5,
 	["electabuzz-raden"]=3,
-	["electrikal-lei-shen"]=15,
+	["electrikal-lei-shen"]=19,
 	["electroxx-galakras"]=27,
 	["elementoos-lei-shen"]=19,
 	["eletricshock-pagle"]=7,
@@ -9162,7 +9162,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["slumpirlpov-raden"]=1,
 	["slumplord-raden"]=14,
 	["slumplordx-raden"]=14,
-	["smallrass-pagle"]=30,
+	["smallrass-pagle"]=7,
 	["smalltrain-pagle"]=15,
 	["smartpastry-pagle"]=14,
 	["smashdeez-nazgrim"]=7,

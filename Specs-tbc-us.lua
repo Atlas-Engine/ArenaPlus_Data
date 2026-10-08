@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9461 characters, read 2026-10-08 11:58 AM.
+-- Region tbc-us, 9461 characters, read 2026-10-08 12:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9799,7 +9799,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["awetezmode-nightslayer"]=10,
 	["awftism-dreamscythe"]=19,
 	["axegash-nightslayer"]=19,
-	["axellzoylex-nightslayer"]=6,
+	["axellzoylex-nightslayer"]=4,
 	["axlo-nightslayer"]=10,
 	["ayle-nightslayer"]=2,
 	["aylya-nightslayer"]=17,
@@ -10189,7 +10189,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["blackadam-nightslayer"]=10,
 	["blackberrys-nightslayer"]=7,
 	["blackchedda-nightslayer"]=16,
-	["blackcipher-nightslayer"]=8,
+	["blackcipher-nightslayer"]=5,
 	["blackcircle-nightslayer"]=4,
 	["blackcocoa-dreamscythe"]=11,
 	["blackcrows-nightslayer"]=1,
@@ -10909,7 +10909,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["cocoplum-nightslayer"]=7,
 	["cocoshift-nightslayer"]=3,
 	["cocvendor-nightslayer"]=6,
-	["codeforfood-nightslayer"]=12,
+	["codeforfood-nightslayer"]=1,
 	["coerce-nightslayer"]=15,
 	["côffee-nightslayer"]=24,
 	["coffeedisc-nightslayer"]=1,
@@ -13785,7 +13785,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["kirbyxqt-nightslayer"]=4,
 	["kirbyxxd-nightslayer"]=24,
 	["kireinaa-nightslayer"]=15,
-	["kiritoh-nightslayer"]=8,
+	["kiritoh-nightslayer"]=5,
 	["kirralol-dreamscythe"]=4,
 	["kirsie-dreamscythe"]=6,
 	["kismit-nightslayer"]=25,
@@ -15236,7 +15236,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ohmyhunts-nightslayer"]=15,
 	["ohmyxd-nightslayer"]=13,
 	["ohn-nightslayer"]=2,
-	["ohnoimoom-nightslayer"]=1,
+	["ohnoimoom-nightslayer"]=14,
 	["ohnoitisme-nightslayer"]=7,
 	["ohnpala-nightslayer"]=11,
 	["ohns-nightslayer"]=2,
