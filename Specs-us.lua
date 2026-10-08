@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5180 characters, read 2026-10-08 05:59 PM.
+-- Region us, 5180 characters, read 2026-10-08 06:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -478,6 +478,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["binggrae-pagle"]=11,
 	["binji-galakras"]=20,
 	["binjito-galakras"]=80,
+	["bipbipbapbap-raden"]=80,
 	["bipples-arugal-au"]=90,
 	["bishopbrown-lei-shen"]=10,
 	["bisßro-pagle"]=20,
@@ -5422,7 +5423,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["binggrae-pagle"]=2,
 	["binji-galakras"]=22,
 	["binjito-galakras"]=20,
-	["bipbipbapbap-raden"]=0,
+	["bipbipbapbap-raden"]=17,
 	["bipples-arugal-au"]=3,
 	["bishopbrown-lei-shen"]=13,
 	["bisßro-pagle"]=20,
@@ -7436,7 +7437,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["kkala-lei-shen"]=5,
 	["klagnoern-pagle"]=21,
 	["klausjr-pagle"]=24,
-	["kledemarcos-nazgrim"]=15,
+	["kledemarcos-nazgrim"]=19,
 	["klenzen-raden"]=10,
 	["klept-raden"]=4,
 	["kleptix-raden"]=34,
