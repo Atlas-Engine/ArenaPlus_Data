@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5191 characters, read 2026-10-08 06:59 AM.
+-- Region us, 5190 characters, read 2026-10-08 07:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2935,7 +2935,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["mozzi-raden"]=10,
 	["mp-raden"]=41,
 	["mslusty-pagle"]=11,
-	["msnurfme-raden"]=220,
 	["msr-galakras"]=80,
 	["mtj-atiesh"]=41,
 	["mufasaz-pagle"]=20,
@@ -6965,7 +6964,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["hojosatoru-raden"]=16,
 	["hojreplol-raden"]=16,
 	["hojville-pagle"]=16,
-	["holidayhamii-pagle"]=2,
+	["holidayhamii-pagle"]=32,
 	["holtxd-raden"]=7,
 	["holyangelz-pagle"]=2,
 	["holycanoli-galakras"]=2,
@@ -7295,7 +7294,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["jonny-pagle"]=34,
 	["jonnyslash-immerseus"]=7,
 	["jontejr-raden"]=15,
-	["jootfob-galakras"]=23,
+	["jootfob-galakras"]=30,
 	["jorogin-grobbulus"]=14,
 	["josept-pagle"]=9,
 	["joshuà-raden"]=7,
@@ -8021,7 +8020,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["mozzi-raden"]=7,
 	["mp-raden"]=9,
 	["mslusty-pagle"]=4,
-	["msnurfme-raden"]=17,
 	["msr-galakras"]=3,
 	["mtj-atiesh"]=5,
 	["mufasaz-pagle"]=10,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9836 characters, read 2026-10-08 06:59 AM.
+-- Region tbc-eu, 9836 characters, read 2026-10-08 07:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -13700,7 +13700,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["jbe-spineshatter"]=23,
 	["jbqt-spineshatter"]=11,
 	["jbx-spineshatter"]=9,
-	["jcengi-spineshatter"]=3,
+	["jcengi-spineshatter"]=19,
 	["jckstein-spineshatter"]=2,
 	["jdaps-spineshatter"]=2,
 	["jeah-spineshatter"]=3,
@@ -16284,7 +16284,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["pokerdot-spineshatter"]=18,
 	["pokerok-spineshatter"]=8,
 	["pökyli-spineshatter"]=9,
-	["polaky-spineshatter"]=5,
+	["polaky-spineshatter"]=15,
 	["polardina-spineshatter"]=11,
 	["polechydes-spineshatter"]=7,
 	["polemasterxx-spineshatter"]=23,
@@ -18917,7 +18917,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["vorons-spineshatter"]=9,
 	["vortox-spineshatter"]=12,
 	["voteforpedro-thunderstrike"]=2,
-	["vøz-thunderstrike"]=3,
+	["vøz-thunderstrike"]=19,
 	["vreugdesluis-spineshatter"]=11,
 	["vrotic-spineshatter"]=4,
 	["vrwatsón-thunderstrike"]=2,
