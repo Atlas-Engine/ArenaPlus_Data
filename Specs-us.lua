@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5189 characters, read 2026-10-08 10:59 AM.
+-- Region us, 5189 characters, read 2026-10-08 11:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6355,7 +6355,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["eltoromu-nazgrim"]=5,
 	["elusivenes-raden"]=29,
 	["eluulttv-raden"]=10,
-	["eluveth-pagle"]=21,
+	["eluveth-pagle"]=9,
 	["elvaqueromoo-immerseus"]=16,
 	["elvius-raden"]=7,
 	["elyä-pagle"]=16,
@@ -6632,7 +6632,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["fuzyywuzyy-nazgrim"]=13,
 	["fuzzywaifu-lei-shen"]=10,
 	["fxd-arugal-au"]=5,
-	["fyruss-pagle"]=3,
+	["fyruss-pagle"]=20,
 	["gaarah-pagle"]=1,
 	["gabimaru-raden"]=4,
 	["gaejustin-pagle"]=33,
@@ -6689,7 +6689,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["genuinely-raden"]=1,
 	["geser-raden"]=20,
 	["getclapt-lei-shen"]=6,
-	["getdough-grobbulus"]=2,
+	["getdough-grobbulus"]=16,
 	["getleid-lei-shen"]=7,
 	["getownedbkwz-raden"]=7,
 	["getshton-raden"]=5,
@@ -7522,7 +7522,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["lameclass-raden"]=7,
 	["lancelobber-raden"]=1,
 	["lanlex-raden"]=7,
-	["lapancha-pagle"]=12,
+	["lapancha-pagle"]=5,
 	["lapanchita-pagle"]=12,
 	["laporemeta-raden"]=5,
 	["laranja-raden"]=0,
