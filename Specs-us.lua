@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5190 characters, read 2026-10-08 02:59 PM.
+-- Region us, 5190 characters, read 2026-10-08 03:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5790,7 +5790,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["chuppie-pagle"]=2,
 	["chuuonu-benediction"]=33,
 	["chyse-pagle"]=1,
-	["ciapsyop-pagle"]=33,
+	["ciapsyop-pagle"]=5,
 	["cìel-pagle"]=10,
 	["cinch-lei-shen"]=3,
 	["citizentroll-immerseus"]=22,
@@ -6005,7 +6005,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["deadlifta-pagle"]=6,
 	["deadlylifts-pagle"]=7,
 	["deadmoon-galakras"]=24,
-	["deadnutz-nazgrim"]=34,
+	["deadnutz-nazgrim"]=14,
 	["deadpal-galakras"]=16,
 	["deadpoolwins-pagle"]=6,
 	["deadshottz-galakras"]=3,
@@ -9580,7 +9580,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["tiamak-galakras"]=7,
 	["tiarussel-pagle"]=2,
 	["tictactoetem-nazgrim"]=22,
-	["tigrexwp-raden"]=9,
+	["tigrexwp-raden"]=21,
 	["tikky-raden"]=17,
 	["tiktac-immerseus"]=3,
 	["tilted-galakras"]=7,
