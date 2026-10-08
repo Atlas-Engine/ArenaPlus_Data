@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5187 characters, read 2026-10-08 03:59 AM.
+-- Region us, 5191 characters, read 2026-10-08 04:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -900,6 +900,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["crazè-pagle"]=11,
 	["crazykreder-pagle"]=41,
 	["crazywick-pagle"]=10,
+	["creamx-raden"]=11,
 	["creamytotem-galakras"]=60,
 	["crearly-galakras"]=21,
 	["crepes-pagle"]=81,
@@ -2994,6 +2995,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["napigmalvin-raden"]=41,
 	["naples-raden"]=10,
 	["nardine-galakras"]=21,
+	["nargussy-pagle"]=41,
 	["narni-immerseus"]=101,
 	["nasdaq-raden"]=10,
 	["nasdaqistan-raden"]=20,
@@ -5875,6 +5877,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["crazè-pagle"]=34,
 	["crazykreder-pagle"]=5,
 	["crazywick-pagle"]=16,
+	["creamx-raden"]=1,
 	["creamytotem-galakras"]=15,
 	["crearly-galakras"]=25,
 	["crepes-pagle"]=12,
@@ -8080,6 +8083,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["napigmalvin-raden"]=4,
 	["naples-raden"]=16,
 	["nardine-galakras"]=14,
+	["nargussy-pagle"]=9,
 	["narni-immerseus"]=9,
 	["nasdaq-raden"]=2,
 	["nasdaqistan-raden"]=22,
@@ -9392,6 +9396,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["sumgai-lei-shen"]=18,
 	["summondeez-pagle"]=28,
 	["sunflowerrz-raden"]=13,
+	["sunkencost-raden"]=0,
 	["sunný-raden"]=5,
 	["sunnybear-raden"]=9,
 	["supaawar-pagle"]=7,
@@ -9772,6 +9777,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["vamhelsing-galakras"]=7,
 	["vancheese-pagle"]=14,
 	["vanguardita-raden"]=16,
+	["vanilagorila-raden"]=0,
 	["vankryn-pagle"]=6,
 	["vanos-raden"]=18,
 	["vantage-raden"]=1,
@@ -9806,7 +9812,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["verstepper-pagle"]=0,
 	["vertara-raden"]=2,
 	["veryuska-pagle"]=13,
-	["vettaex-arugal-au"]=9,
+	["vettaex-arugal-au"]=21,
 	["vexe-pagle"]=2,
 	["veygâ-pagle"]=20,
 	["viadin-lei-shen"]=16,

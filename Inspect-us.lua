@@ -42,7 +42,7 @@ local ns = ArenaPlusData
 -- source_item, so gems are stored as real item ids the client can draw and only
 -- the enchant text has to ship.
 --
--- Region us, 419 characters, 378 glyph names, read 2026-10-08 03:20 AM.
+-- Region us, 419 characters, 378 glyph names, read 2026-10-08 04:20 AM.
 ns.GLYPH_NAMES = ns.GLYPH_NAMES or {}
 
 for id, name in pairs({
@@ -432,49 +432,13 @@ for id, name in pairs({
 ns.TALENT_NAMES = ns.TALENT_NAMES or {}
 
 for id, name in pairs({
-	[605]="Dominate Mind",
-	[1463]="Incanter's Ward",
-	[11958]="Cold Snap",
-	[12043]="Presence of Mind",
-	[19386]="Wyvern Sting",
-	[20066]="Repentance",
-	[20925]="Sacred Shield",
-	[44457]="Living Bomb",
-	[53376]="Sanctified Wrath",
-	[82726]="Fervor",
-	[85499]="Speed of Light",
-	[85804]="Selfless Healer",
-	[86172]="Divine Purpose",
-	[86949]="Cauterize",
-	[87172]="Long Arm of the Law",
-	[105593]="Fist of Justice",
-	[105622]="Clemency",
-	[105809]="Holy Avenger",
-	[108843]="Blazing Speed",
-	[108921]="Psyfiend",
-	[109142]="Twist of Fate",
-	[109186]="From Darkness, Comes Light",
 	[109212]="Spirit Bond",
-	[109215]="Posthaste",
 	[109248]="Binding Shot",
 	[109306]="Thrill of the Hunt",
-	[110744]="Divine Star",
-	[111264]="Ice Ward",
-	[112833]="Spectral Guise",
-	[113724]="Ring of Frost",
-	[114003]="Invocation",
-	[114154]="Unbreakable Spirit",
-	[114157]="Execution Sentence",
-	[114163]="Eternal Flame",
-	[114165]="Holy Prism",
-	[115610]="Temporal Shield",
 	[117050]="Glaive Toss",
 	[118675]="Crouching Tiger, Hidden Chimera",
 	[120679]="Dire Beast",
-	[121536]="Angelic Feather",
-	[123040]="Mindbender",
 	[131894]="A Murder of Crows",
-	[140468]="Flameglow",
 }) do ns.TALENT_NAMES[id] = name end
 
 -- Which talent a rank-spell belongs to, and how many ranks that talent has.

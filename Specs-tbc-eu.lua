@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9836 characters, read 2026-10-08 03:59 AM.
+-- Region tbc-eu, 9836 characters, read 2026-10-08 04:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12663,7 +12663,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["frailis-spineshatter"]=1,
 	["fralleep-spineshatter"]=2,
 	["francuzik-spineshatter"]=18,
-	["frändesjö-spineshatter"]=2,
+	["frändesjö-spineshatter"]=17,
 	["frandiks-thunderstrike"]=19,
 	["frankensteln-spineshatter"]=19,
 	["frankyy-spineshatter"]=24,
@@ -13651,7 +13651,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["jahra-spineshatter"]=5,
 	["jaimonji-spineshatter"]=8,
 	["jaizzobozo-spineshatter"]=19,
-	["jajoheli-spineshatter"]=13,
+	["jajoheli-spineshatter"]=14,
 	["jakken-spineshatter"]=2,
 	["jalin-spineshatter"]=3,
 	["jalmarsberg-spineshatter"]=2,
@@ -14300,7 +14300,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["kugenn-spineshatter"]=19,
 	["kugonichiwa-spineshatter"]=3,
 	["kugönja-spineshatter"]=7,
-	["kugönjaqt-spineshatter"]=5,
+	["kugönjaqt-spineshatter"]=15,
 	["kuhajooseppi-spineshatter"]=1,
 	["kujii-spineshatter"]=13,
 	["kukunababy-thunderstrike"]=9,
@@ -14738,7 +14738,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["lynewebaro-spineshatter"]=7,
 	["lynewebarow-spineshatter"]=7,
 	["lynlars-spineshatter"]=2,
-	["lynmira-thunderstrike"]=1,
+	["lynmira-thunderstrike"]=20,
 	["lynogtorden-spineshatter"]=12,
 	["lynxter-thunderstrike"]=12,
 	["lyoshkabdsm-spineshatter"]=3,
