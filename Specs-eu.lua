@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5325 characters, read 2026-10-08 02:00 PM.
+-- Region eu, 5325 characters, read 2026-10-08 03:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4500,7 +4500,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["xave-shekzeer"]=41,
 	["xaviéduponts-auberdine"]=10,
 	["xaxaxaxaxa-shekzeer"]=41,
-	["xddðð-shekzeer"]=41,
+	["xddðð-shekzeer"]=40,
 	["xdkale-shekzeer"]=10,
 	["xdww-shekzeer"]=11,
 	["xea-norushen"]=11,
@@ -5336,7 +5336,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["anvel-shekzeer"]=23,
 	["anxoasa-shekzeer"]=5,
 	["anxoqt-shekzeer"]=7,
-	["anyabaszó-shekzeer"]=20,
+	["anyabaszó-shekzeer"]=4,
 	["anyataylor-shekzeer"]=3,
 	["anyemushi-shekzeer"]=9,
 	["Åøêkrótx-shekzeer"]=4,
@@ -6485,7 +6485,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["fiftyzen-everlook"]=0,
 	["figment-garalon"]=3,
 	["fiksiuss-mirage-raceway"]=15,
-	["filmar-shekzeer"]=20,
+	["filmar-shekzeer"]=4,
 	["filmarisa-shekzeer"]=26,
 	["filthyfresh-shekzeer"]=12,
 	["finbekluz-shekzeer"]=2,
@@ -7222,7 +7222,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["kattmedklør-shekzeer"]=3,
 	["kavabangax-shekzeer"]=2,
 	["kawai-shekzeer"]=15,
-	["kawaiipanda-everlook"]=29,
+	["kawaiipanda-everlook"]=6,
 	["kaworu-auberdine"]=30,
 	["kayzee-ook-ook"]=1,
 	["kazakhstani-shekzeer"]=1,
@@ -9024,7 +9024,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["soprasa-hoptallus"]=13,
 	["sorcery-shekzeer"]=15,
 	["sørex-shekzeer"]=26,
-	["sosoczka-shekzeer"]=18,
+	["sosoczka-shekzeer"]=1,
 	["sosoo-shekzeer"]=3,
 	["søtek-everlook"]=1,
 	["sotu-shekzeer"]=2,
@@ -9381,7 +9381,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["toxicelitist-shekzeer"]=9,
 	["toxicfuz-garalon"]=6,
 	["toxiqkid-shekzeer"]=18,
-	["tpriestlx-shekzeer"]=12,
+	["tpriestlx-shekzeer"]=9,
 	["trackk-auberdine"]=24,
 	["tracye-shekzeer"]=9,
 	["trafålguy-garalon"]=6,
@@ -9575,7 +9575,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["verline-shekzeer"]=9,
 	["verlinia-shekzeer"]=20,
 	["verlinya-shekzeer"]=5,
-	["verlisham-shekzeer"]=19,
+	["verlisham-shekzeer"]=13,
 	["verlitwo-shekzeer"]=5,
 	["verlyna-shekzeer"]=12,
 	["vérnyúl-shekzeer"]=1,
@@ -9905,7 +9905,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["yxan-norushen"]=25,
 	["yzagûy-auberdine"]=15,
 	["zabava-shekzeer"]=0,
-	["zaelita-shekzeer"]=3,
+	["zaelita-shekzeer"]=11,
 	["zaelitwo-shekzeer"]=11,
 	["zaelori-shekzeer"]=26,
 	["zâh-shekzeer"]=2,
