@@ -42,7 +42,7 @@ local ns = ArenaPlusData
 -- source_item, so gems are stored as real item ids the client can draw and only
 -- the enchant text has to ship.
 --
--- Region us, 419 characters, 378 glyph names, read 2026-10-08 12:20 PM.
+-- Region us, 420 characters, 378 glyph names, read 2026-10-08 01:20 PM.
 ns.GLYPH_NAMES = ns.GLYPH_NAMES or {}
 
 for id, name in pairs({
@@ -432,48 +432,23 @@ for id, name in pairs({
 ns.TALENT_NAMES = ns.TALENT_NAMES or {}
 
 for id, name in pairs({
-	[605]="Dominate Mind",
-	[16188]="Ancestral Swiftness",
-	[20925]="Sacred Shield",
-	[30884]="Nature's Guardian",
-	[45529]="Blood Tap",
-	[48743]="Death Pact",
-	[49039]="Lichborne",
-	[50041]="Chilblains",
-	[51462]="Runic Corruption",
-	[85499]="Speed of Light",
-	[86172]="Divine Purpose",
-	[87172]="Long Arm of the Law",
-	[105593]="Fist of Justice",
-	[105622]="Clemency",
-	[105809]="Holy Avenger",
-	[108170]="Roiling Blood",
-	[108200]="Remorseless Winter",
-	[108201]="Desecrated Ground",
-	[108273]="Windwalk Totem",
-	[108281]="Ancestral Guidance",
-	[108285]="Call of the Elements",
-	[109142]="Twist of Fate",
-	[109175]="Divine Insight",
-	[109186]="From Darkness, Comes Light",
+	[12292]="Bloodbath",
+	[29838]="Second Wind",
+	[46924]="Bladestorm",
+	[102060]="Disrupting Shout",
+	[103827]="Double Time",
+	[103828]="Warbringer",
+	[107574]="Avatar",
 	[109212]="Spirit Bond",
 	[109248]="Binding Shot",
 	[109306]="Thrill of the Hunt",
-	[110301]="Evil is a Point of View",
-	[110744]="Divine Star",
-	[112833]="Spectral Guise",
-	[114154]="Unbreakable Spirit",
-	[114157]="Execution Sentence",
-	[114163]="Eternal Flame",
-	[114165]="Holy Prism",
-	[117012]="Unleashed Fury",
-	[117014]="Elemental Blast",
+	[114029]="Safeguard",
+	[114030]="Vigilance",
 	[117050]="Glaive Toss",
+	[118000]="Dragon Roar",
 	[118675]="Crouching Tiger, Hidden Chimera",
 	[120679]="Dire Beast",
-	[121536]="Angelic Feather",
 	[131894]="A Murder of Crows",
-	[147074]="Rushing Streams",
 }) do ns.TALENT_NAMES[id] = name end
 
 -- Which talent a rank-spell belongs to, and how many ranks that talent has.
@@ -1934,6 +1909,7 @@ ns.INSPECT_BY_REGION["us"] = {
 	["harókz-raden"]={g={head={95778,0,76886,76661},neck={95676,0},shoulder={95829,0,76696,76696},shirt={41255,0},chest={95825,0,76696,76696,76696},waist={95975,0,76661},legs={95828,0,76696,76696},feet={95798,0,76696},wrist={95650,0},hands={95826,0,76696},finger_1={99949,0},finger_2={95704,0},trinket_1={95654,0},trinket_2={95726,0},back={102249,4894,76696},main_hand={95686,3370},off_hand={95686,3368},tabard={51534,0}},t={108170,49039,50041,48743,45529,108201},y={518,512,522,524,553,530},s={{1152,4,5}},p={"tailoring"},k={},v={6179,3987,5403,69,15556,131,38,20608,434915,28,31362,1531,7446,1030,938,0,3401},r=1,x=1,c="death-knight"},
 	["happyhour-pagle"]={g={head={100247,0,76886,76696},neck={91413,0},shoulder={91155,4803,76674},chest={91147,4419,76696,76674},waist={95192,0,76696,76696},legs={91153,4823,76696,89674},feet={100397,4429,76674},wrist={91306,4415},hands={91149,4432,89674},finger_1={91417,0},finger_2={91416,0},trinket_1={91415,0},trinket_2={91410,0},back={91412,4894},main_hand={100187,3368},tabard={5976,0}},t={115989,49039,108194,48743,81229,108200},y={1075,512,555,1065,553,524},s={{1203,2,2},{1104,5,5}},p={"engineering","tailoring"},k={waist=4223,hands=4898,back=4897},v={4291,3601,5909,151,15630,211,118,19922,425311,108,31510,1217,7301,716,847,0,3570},r=1,x=0,c="death-knight"},
 	["sixpathsage-pagle"]={g={head={99065,0,95344,76658},neck={105104,0},shoulder={99075,4804,76659,76659},chest={95033,4419,76658,76658,76658},waist={94998,0,76575,76575,76697},legs={99074,4822,76697,76697},feet={95007,4428,76697,76575},wrist={105007,4416,76697},hands={99072,0,76658,76658,76697},finger_1={90503,0},finger_2={95021,0,76575},trinket_1={105082,0},trinket_2={105029,0},back={102248,4424,76627},main_hand={105006,5125,76658},off_hand={86988,5125,89873,76697},tabard={51534,0}},t={115399,116841,116847,119381,122278,115098},y={1041,1002,1029,1015,1045,1025},s={{1193,3,5},{1191,1,5}},p={"blacksmithing","engineering"},k={waist=4223,hands=4898,back=4897},v={14331,5495,1899,278,183,20494,261,34372,627611,251,41321,4764,1293,2584,1293,0,698},r=1,x=0,c="monk"},
+	["dunardel-raden"]={g={head={99203,0,95344,76695},neck={103884,0},shoulder={103748,4803,76698,76698},chest={105263,4419,76695,76664,76690},waist={98615,0,76695,76695,76695},legs={99195,4823,76664,76664},feet={103744,4429,76663},wrist={105786,4415,76695},hands={99202,4431,76695,76695,76695},finger_1={95020,0,76695},finger_2={103895,0,76695},trinket_1={105319,0},trinket_2={102308,0},back={102250,4422,76695},main_hand={103926,4444,76695},off_hand={103870,4993,76695}},t={29838,102060,103827,118000,12292,114030},y={488,493,991,501,851,507},s={{1179,3,5}},p={"blacksmithing","engineering"},k={waist=4223,hands=4898,back=4897},v={265,0,3477,151,26514,213,119,47727,814581,109,53278,546,0,45,0,0,3035},r=1,x=0,c="warrior"},
 	["hohenhymn-raden"]={g={head={98786,0,76886,76696},neck={100503,0},shoulder={98788,4803,76661},chest={98784,4419,76696,76661},waist={98860,0,89674,76696},legs={98787,4823,76696,89674},feet={98861,4429,76661},wrist={100402,4415},hands={98785,4432,89674},finger_1={100507,0},finger_2={100506,0},trinket_1={99948,0},trinket_2={99943,0},back={98914,4424},main_hand={99768,3368},tabard={43155,0}},t={108170,49039,50041,48743,45529,108201},y={553,769,522,512,514,524},s={{1203,2,2},{1104,5,5}},p={"engineering"},k={waist=4223,hands=4898},v={5653,4616,2835,151,14096,211,118,22450,460703,108,28442,1444,7682,943,1086,0,2545},r=1,x=0,c="death-knight"},
 	["trinketcleav-pagle"]={g={head={100434,0,95348,76692},neck={100198,0},shoulder={100438,4804,76697},chest={100430,4419,76692,76697},waist={100338,0,76583,76631},legs={100436,4822,76658,76649},feet={100427,4429,76697},wrist={100429,4416},hands={100432,4433,76649},finger_1={100201,0},finger_2={100202,0},trinket_1={100195,0},trinket_2={100200,0},back={100197,4894},main_hand={100193,4444},off_hand={100193,8550}},t={108208,74001,31230,108212,108215,137619},y={468,399,469,397,467,929},s={{1203,2,2},{1113,5,5}},p={"engineering","tailoring"},k={waist=4223,hands=4898,back=4897},v={9780,2577,6305,161,212,16434,128,22672,463811,118,46522,2905,1667,1631,606,0,3702},r=1,x=1,c="rogue"},
 	["aaronbead-lei-shen"]={g={head={105807,0,95344,76699},neck={105766,0},shoulder={99130,4805,76699,76699},chest={95037,4420,76633,76633,76699},waist={98616,0,76601,76601,76601},legs={99129,4870,76699,76699},feet={103745,4429,76699},wrist={96394,4415,76633},hands={104937,0,76601,76690,76699},finger_1={95141,0},finger_2={105091,0,76601},trinket_1={105070,0},trinket_2={105111,0},back={102250,4424,76601},main_hand={96376,4444,76653,76633},off_hand={105058,0,76601}},t={26023,105593,114163,105622,53376,114158},y={988,704,452,186,454,194},s={{1188,2,5}},p={"blacksmithing"},k={},v={1918,9968,7481,134,20568,105,114,48611,826957,20693,41386,821,2963,658,3580,0,2047},r=1,x=0,c="paladin"},

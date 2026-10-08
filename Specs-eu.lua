@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5325 characters, read 2026-10-08 01:00 PM.
+-- Region eu, 5325 characters, read 2026-10-08 02:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3437,7 +3437,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["rxsebøy-auberdine"]=11,
 	["rýdøthâðwlx-everlook"]=40,
 	["rydothedk-everlook"]=11,
-	["rýdøthègøátx-everlook"]=110,
+	["rýdøthègøátx-everlook"]=111,
 	["rydotheholy-everlook"]=10,
 	["rydothemage-everlook"]=11,
 	["rydothemonk-everlook"]=11,
@@ -6362,7 +6362,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["elsuport-mirage-raceway"]=9,
 	["elumin-shekzeer"]=9,
 	["elunadris-shekzeer"]=3,
-	["elviá-hoptallus"]=14,
+	["elviá-hoptallus"]=4,
 	["elyannà-shekzeer"]=0,
 	["emilur-shekzeer"]=18,
 	["emilyblunt-norushen"]=1,
@@ -6574,7 +6574,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["fthx-shekzeer"]=4,
 	["ftwx-shekzeer"]=9,
 	["fugexhunter-mirage-raceway"]=4,
-	["fülimanó-shekzeer"]=15,
+	["fülimanó-shekzeer"]=5,
 	["fulldemangö-mirage-raceway"]=6,
 	["funkadelic-shekzeer"]=1,
 	["funkytunes-everlook"]=20,
@@ -6638,7 +6638,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["glamourmw-mirage-raceway"]=6,
 	["gleenya-everlook"]=20,
 	["gloiria-auberdine"]=15,
-	["gnomchina-mirage-raceway"]=2,
+	["gnomchina-mirage-raceway"]=10,
 	["gnomidge-hoptallus"]=2,
 	["gnomophobe-auberdine"]=1,
 	["goagil-garalon"]=2,
@@ -8705,7 +8705,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["rydothewl-everlook"]=23,
 	["ryles-hoptallus"]=12,
 	["ryscan-garalon"]=0,
-	["ryuujin-shekzeer"]=14,
+	["ryuujin-shekzeer"]=4,
 	["ryuuko-shekzeer"]=17,
 	["ryuuren-garalon"]=9,
 	["saala-shekzeer"]=1,
@@ -9219,7 +9219,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["takeyou-shekzeer"]=1,
 	["takor-shekzeer"]=16,
 	["takør-shekzeer"]=16,
-	["talant-shekzeer"]=26,
+	["talant-shekzeer"]=24,
 	["taleá-everlook"]=21,
 	["tàleeo-shekzeer"]=9,
 	["talenttree-ook-ook"]=3,
