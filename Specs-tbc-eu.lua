@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9838 characters, read 2026-10-07 09:59 PM.
+-- Region tbc-eu, 9838 characters, read 2026-10-07 10:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11370,7 +11370,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["crulus-spineshatter"]=5,
 	["crunchibal-spineshatter"]=5,
 	["crusax-spineshatter"]=5,
-	["crutuz-spineshatter"]=26,
+	["crutuz-spineshatter"]=7,
 	["cruuo-spineshatter"]=13,
 	["crydictus-spineshatter"]=5,
 	["cryeth-spineshatter"]=23,
@@ -13734,7 +13734,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["jenii-spineshatter"]=27,
 	["jenmaclure-spineshatter"]=9,
 	["jenspam-spineshatter"]=5,
-	["jentak-thunderstrike"]=2,
+	["jentak-thunderstrike"]=8,
 	["jepo-spineshatter"]=9,
 	["jeporesists-spineshatter"]=2,
 	["jeppzoon-spineshatter"]=8,
@@ -16042,7 +16042,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["painbloom-spineshatter"]=2,
 	["paingeilz-spineshatter"]=3,
 	["painkill-spineshatter"]=3,
-	["pàinkiller-spineshatter"]=22,
+	["pàinkiller-spineshatter"]=5,
 	["paînkillerwl-spineshatter"]=13,
 	["paînkillerx-spineshatter"]=9,
 	["paînkillerz-spineshatter"]=2,
@@ -18379,7 +18379,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["timbatotems-spineshatter"]=12,
 	["timeforfun-spineshatter"]=11,
 	["timertx-thunderstrike"]=3,
-	["timsalabim-spineshatter"]=19,
+	["timsalabim-spineshatter"]=3,
 	["tinatwist-spineshatter"]=7,
 	["tîndra-spineshatter"]=11,
 	["tinywang-thunderstrike"]=13,
