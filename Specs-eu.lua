@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5326 characters, read 2026-10-08 08:00 AM.
+-- Region eu, 5326 characters, read 2026-10-08 09:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2192,7 +2192,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["kumpelblàse-ook-ook"]=101,
 	["kungfuboy-shekzeer"]=11,
 	["kuollurokue-garalon"]=51,
-	["kûroko-shekzeer"]=10,
+	["kûroko-shekzeer"]=11,
 	["kurold-mirage-raceway"]=10,
 	["kuroni-garalon"]=220,
 	["kurtat-shekzeer"]=11,
@@ -3446,7 +3446,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["rydotheroq-everlook"]=11,
 	["rydothetrap-everlook"]=11,
 	["rydothetwink-everlook"]=40,
-	["rydothewar-everlook"]=11,
+	["rydothewar-everlook"]=10,
 	["rydothewl-everlook"]=10,
 	["ryles-hoptallus"]=10,
 	["ryuujin-shekzeer"]=10,
@@ -7284,7 +7284,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["killnixx-everlook"]=1,
 	["kimbald-shekzeer"]=6,
 	["kimjungwingz-shekzeer"]=5,
-	["kimkrdashian-shekzeer"]=4,
+	["kimkrdashian-shekzeer"]=20,
 	["kimozabe-shekzeer"]=17,
 	["kimozabi-shekzeer"]=20,
 	["kimpossible-hoptallus"]=33,
@@ -8177,7 +8177,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["oglappn-everlook"]=31,
 	["ogloj-shekzeer"]=5,
 	["ogru-shekzeer"]=13,
-	["ogstreet-shekzeer"]=12,
+	["ogstreet-shekzeer"]=9,
 	["Ógstreet-shekzeer"]=13,
 	["Ögstreet-shekzeer"]=6,
 	["ohmince-auberdine"]=0,
@@ -9503,7 +9503,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["unðertaker-everlook"]=17,
 	["undo-shekzeer"]=24,
 	["Ùñhöly-shekzeer"]=0,
-	["univrs-shekzeer"]=14,
+	["univrs-shekzeer"]=4,
 	["unknowx-shekzeer"]=3,
 	["unnämed-hoptallus"]=21,
 	["unpeudgàzouz-auberdine"]=30,
@@ -9627,7 +9627,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["voireg-shekzeer"]=15,
 	["voldreth-everlook"]=15,
 	["voldrex-everlook"]=16,
-	["voljix-shekzeer"]=14,
+	["voljix-shekzeer"]=4,
 	["voljiz-shekzeer"]=1,
 	["volkris-shekzeer"]=15,
 	["volkrz-shekzeer"]=19,

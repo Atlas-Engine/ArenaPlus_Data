@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9470 characters, read 2026-10-08 07:58 AM.
+-- Region tbc-us, 9470 characters, read 2026-10-08 08:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11670,7 +11670,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["drpepperguy-nightslayer"]=2,
 	["drphillascio-dreamscythe"]=11,
 	["drphillascio-nightslayer"]=11,
-	["drpounders-nightslayer"]=25,
+	["drpounders-nightslayer"]=11,
 	["drppa-nightslayer"]=7,
 	["drresy-nightslayer"]=19,
 	["drshades-nightslayer"]=23,
@@ -11796,7 +11796,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["eclipzedd-nightslayer"]=3,
 	["ectroxo-nightslayer"]=8,
 	["eddygordo-nightslayer"]=19,
-	["edhris-dreamscythe"]=18,
+	["edhris-dreamscythe"]=2,
 	["edhristwo-dreamscythe"]=1,
 	["educate-nightslayer"]=1,
 	["educates-nightslayer"]=10,
@@ -17114,7 +17114,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["splapper-nightslayer"]=4,
 	["splice-nightslayer"]=19,
 	["splitwideopn-dreamscythe"]=6,
-	["splodesister-nightslayer"]=13,
+	["splodesister-nightslayer"]=16,
 	["spooksters-nightslayer"]=5,
 	["spookychop-dreamscythe"]=2,
 	["spoonss-dreamscythe"]=16,
