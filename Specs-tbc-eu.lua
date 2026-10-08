@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9835 characters, read 2026-10-08 09:59 AM.
+-- Region tbc-eu, 9835 characters, read 2026-10-08 10:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10048,7 +10048,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["annoncelight-spineshatter"]=7,
 	["anntón-spineshatter"]=3,
 	["anomanderiz-spineshatter"]=6,
-	["anoréxica-spineshatter"]=9,
+	["anoréxica-spineshatter"]=4,
 	["anotherheal-spineshatter"]=10,
 	["anothertry-spineshatter"]=0,
 	["anoukix-thunderstrike"]=23,
@@ -11187,7 +11187,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["cleri-thunderstrike"]=2,
 	["clerine-thunderstrike"]=2,
 	["clerini-thunderstrike"]=2,
-	["clerity-thunderstrike"]=5,
+	["clerity-thunderstrike"]=22,
 	["cleverclark-spineshatter"]=7,
 	["cleyn-spineshatter"]=9,
 	["clezbeul-spineshatter"]=2,
@@ -12907,7 +12907,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["gòatman-spineshatter"]=6,
 	["goatminator-spineshatter"]=11,
 	["goatze-spineshatter"]=2,
-	["goedel-spineshatter"]=1,
+	["goedel-spineshatter"]=20,
 	["gofa-spineshatter"]=2,
 	["goforwarrior-thunderstrike"]=2,
 	["goldenjin-spineshatter"]=3,
@@ -13456,7 +13456,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["ilbidri-spineshatter"]=12,
 	["ilbrallasll-spineshatter"]=19,
 	["illbill-spineshatter"]=3,
-	["illhexyou-spineshatter"]=2,
+	["illhexyou-spineshatter"]=8,
 	["illillillíll-thunderstrike"]=23,
 	["illillillìll-thunderstrike"]=9,
 	["illillillîll-thunderstrike"]=2,
@@ -13674,7 +13674,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["jarrabz-spineshatter"]=2,
 	["jarráh-spineshatter"]=5,
 	["jarviz-spineshatter"]=17,
-	["jasondelulu-spineshatter"]=3,
+	["jasondelulu-spineshatter"]=19,
 	["jasse-spineshatter"]=9,
 	["jauhojutku-thunderstrike"]=2,
 	["jausie-spineshatter"]=2,
@@ -15117,7 +15117,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["mileijavier-spineshatter"]=23,
 	["mileysaprus-spineshatter"]=3,
 	["milisi-spineshatter"]=7,
-	["militan-thunderstrike"]=10,
+	["militan-thunderstrike"]=26,
 	["milkalolpro-spineshatter"]=1,
 	["milkice-spineshatter"]=6,
 	["milkmân-spineshatter"]=1,

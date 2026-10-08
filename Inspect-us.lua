@@ -42,7 +42,7 @@ local ns = ArenaPlusData
 -- source_item, so gems are stored as real item ids the client can draw and only
 -- the enchant text has to ship.
 --
--- Region us, 421 characters, 378 glyph names, read 2026-10-08 09:20 AM.
+-- Region us, 421 characters, 378 glyph names, read 2026-10-08 10:20 AM.
 ns.GLYPH_NAMES = ns.GLYPH_NAMES or {}
 
 for id, name in pairs({
@@ -432,17 +432,9 @@ for id, name in pairs({
 ns.TALENT_NAMES = ns.TALENT_NAMES or {}
 
 for id, name in pairs({
-	[85499]="Speed of Light",
-	[86172]="Divine Purpose",
-	[105593]="Fist of Justice",
-	[105622]="Clemency",
-	[105809]="Holy Avenger",
 	[109212]="Spirit Bond",
 	[109248]="Binding Shot",
 	[109306]="Thrill of the Hunt",
-	[114157]="Execution Sentence",
-	[114158]="Light's Hammer",
-	[114163]="Eternal Flame",
 	[117050]="Glaive Toss",
 	[118675]="Crouching Tiger, Hidden Chimera",
 	[120679]="Dire Beast",
