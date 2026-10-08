@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5181 characters, read 2026-10-07 08:59 PM.
+-- Region us, 5181 characters, read 2026-10-07 09:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4382,7 +4382,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["thicthighsqt-pagle"]=11,
 	["thinkquick-raden"]=11,
 	["thisisthaway-pagle"]=10,
-	["thlam-pagle"]=10,
+	["thlam-pagle"]=11,
 	["thlamx-pagle"]=20,
 	["tholbur-raden"]=31,
 	["thonand-raden"]=11,
@@ -7507,7 +7507,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["lameclass-raden"]=7,
 	["lancelobber-raden"]=1,
 	["lanlex-raden"]=7,
-	["lapancha-pagle"]=5,
+	["lapancha-pagle"]=12,
 	["lapanchita-pagle"]=12,
 	["laporemeta-raden"]=5,
 	["laranja-raden"]=0,
@@ -9310,7 +9310,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["starielle-pagle"]=9,
 	["starlordes-pagle"]=3,
 	["starmaker-pagle"]=19,
-	["starzbegone-pagle"]=9,
+	["starzbegone-pagle"]=21,
 	["statt-arugal-au"]=15,
 	["stattic-arugal-au"]=7,
 	["statticmw-arugal-au"]=4,
@@ -9625,7 +9625,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["trapaholic-raden"]=3,
 	["trapandcrit-pagle"]=3,
 	["trapbot-raden"]=3,
-	["trapfiendx-raden"]=3,
+	["trapfiendx-raden"]=20,
 	["traplauncher-pagle"]=3,
 	["trapreckly-raden"]=3,
 	["träps-pagle"]=3,

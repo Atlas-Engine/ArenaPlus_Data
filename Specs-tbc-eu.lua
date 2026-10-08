@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9838 characters, read 2026-10-07 08:59 PM.
+-- Region tbc-eu, 9838 characters, read 2026-10-07 09:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11284,7 +11284,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["cortêz-spineshatter"]=3,
 	["corvaz-spineshatter"]=8,
 	["cosmoboy-spineshatter"]=3,
-	["cøunterwømen-spineshatter"]=4,
+	["cøunterwømen-spineshatter"]=9,
 	["covaluu-spineshatter"]=5,
 	["covertkoala-spineshatter"]=3,
 	["cøvfefe-spineshatter"]=11,
@@ -14433,7 +14433,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["leafav-spineshatter"]=1,
 	["leafmuncher-thunderstrike"]=5,
 	["leafz-spineshatter"]=1,
-	["leandrill-spineshatter"]=24,
+	["leandrill-spineshatter"]=25,
 	["leanslick-spineshatter"]=15,
 	["leaptomoon-spineshatter"]=1,
 	["leaxt-thunderstrike"]=6,
@@ -14474,7 +14474,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["lemonicetea-thunderstrike"]=1,
 	["lemonsquirt-spineshatter"]=9,
 	["lendoria-spineshatter"]=9,
-	["lenfearjkx-spineshatter"]=3,
+	["lenfearjkx-spineshatter"]=19,
 	["lensine-spineshatter"]=13,
 	["lenti-spineshatter"]=13,
 	["lentitotem-spineshatter"]=12,

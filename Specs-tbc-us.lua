@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9470 characters, read 2026-10-07 08:58 PM.
+-- Region tbc-us, 9470 characters, read 2026-10-07 09:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10315,7 +10315,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bogmanx-nightslayer"]=14,
 	["bogwart-nightslayer"]=10,
 	["bohagon-nightslayer"]=6,
-	["bohagons-nightslayer"]=8,
+	["bohagons-nightslayer"]=5,
 	["bohfadeze-dreamscythe"]=5,
 	["bohnurz-nightslayer"]=3,
 	["boiledgoose-nightslayer"]=4,
@@ -10381,7 +10381,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bottomdwellr-nightslayer"]=5,
 	["bouncyheels-nightslayer"]=10,
 	["bourner-nightslayer"]=7,
-	["boutjou-dreamscythe"]=2,
+	["boutjou-dreamscythe"]=20,
 	["bouzies-nightslayer"]=7,
 	["boward-nightslayer"]=4,
 	["bòwdòwn-nightslayer"]=5,
@@ -11449,7 +11449,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["discustingx-nightslayer"]=1,
 	["disdisc-nightslayer"]=12,
 	["diseasedrat-nightslayer"]=2,
-	["disgracey-nightslayer"]=17,
+	["disgracey-nightslayer"]=15,
 	["dispelhate-dreamscythe"]=12,
 	["dispelhell-nightslayer"]=1,
 	["dispellcoolj-dreamscythe"]=12,
@@ -11640,7 +11640,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["driftingz-nightslayer"]=4,
 	["driggity-nightslayer"]=7,
 	["driguin-nightslayer"]=5,
-	["drimus-nightslayer"]=14,
+	["drimus-nightslayer"]=1,
 	["dringet-nightslayer"]=2,
 	["drinktodrown-dreamscythe"]=10,
 	["drippyjönes-nightslayer"]=1,
@@ -14675,7 +14675,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["mirexx-nightslayer"]=1,
 	["mirithalz-nightslayer"]=10,
 	["mirkz-nightslayer"]=4,
-	["mirpugs-nightslayer"]=5,
+	["mirpugs-nightslayer"]=8,
 	["mîrpugs-nightslayer"]=5,
 	["mirry-nightslayer"]=11,
 	["misalsundayy-nightslayer"]=6,
@@ -17523,7 +17523,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["temggari-nightslayer"]=10,
 	["tempa-nightslayer"]=2,
 	["temperton-nightslayer"]=4,
-	["tempestnatsu-nightslayer"]=5,
+	["tempestnatsu-nightslayer"]=8,
 	["tempoxo-nightslayer"]=5,
 	["temptx-nightslayer"]=1,
 	["tempurasushi-nightslayer"]=6,
@@ -18603,7 +18603,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["yeetmilks-nightslayer"]=2,
 	["yeeyeet-nightslayer"]=2,
 	["yehmo-nightslayer"]=24,
-	["yelandris-nightslayer"]=5,
+	["yelandris-nightslayer"]=8,
 	["yellø-nightslayer"]=5,
 	["yenuinely-nightslayer"]=1,
 	["yeogieottae-nightslayer"]=2,
