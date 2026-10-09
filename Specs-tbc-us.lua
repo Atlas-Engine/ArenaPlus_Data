@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9468 characters, read 2026-10-09 04:58 PM.
+-- Region tbc-us, 9468 characters, read 2026-10-09 05:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9536,7 +9536,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["alekseii-nightslayer"]=6,
 	["alexandah-nightslayer"]=12,
 	["alexc-nightslayer"]=13,
-	["alexixzmay-nightslayer"]=13,
+	["alexixzmay-nightslayer"]=23,
 	["alexjonest-dreamscythe"]=22,
 	["alez-nightslayer"]=5,
 	["alienautopsy-nightslayer"]=1,
@@ -11974,7 +11974,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ewokshift-nightslayer"]=7,
 	["ewokz-nightslayer"]=15,
 	["ewzy-nightslayer"]=7,
-	["excentric-nightslayer"]=18,
+	["excentric-nightslayer"]=2,
 	["excentricx-nightslayer"]=19,
 	["exciv-dreamscythe"]=10,
 	["execuiite-nightslayer"]=2,
@@ -15540,7 +15540,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["phanhealz-dreamscythe"]=7,
 	["pharun-nightslayer"]=1,
 	["phascism-nightslayer"]=13,
-	["phasenine-nightslayer"]=26,
+	["phasenine-nightslayer"]=4,
 	["phatboijeff-nightslayer"]=2,
 	["phathomxd-nightslayer"]=18,
 	["phatpoohcee-nightslayer"]=2,
@@ -16797,7 +16797,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["silkwine-nightslayer"]=5,
 	["silkyo-nightslayer"]=5,
 	["sillord-nightslayer"]=19,
-	["sillyfemboyy-dreamscythe"]=12,
+	["sillyfemboyy-dreamscythe"]=1,
 	["sillyhots-nightslayer"]=7,
 	["silväzoldyck-nightslayer"]=5,
 	["silverkîtty-nightslayer"]=10,
@@ -18310,7 +18310,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["wetqq-nightslayer"]=1,
 	["wetqt-nightslayer"]=1,
 	["wetswipes-dreamscythe"]=7,
-	["wettest-nightslayer"]=14,
+	["wettest-nightslayer"]=1,
 	["wew-nightslayer"]=18,
 	["wfdispenser-dreamscythe"]=19,
 	["wfdroppaxd-nightslayer"]=10,
@@ -18463,7 +18463,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["wrawked-nightslayer"]=2,
 	["wrecklessly-nightslayer"]=2,
 	["wristjob-dreamscythe"]=2,
-	["wristwood-dreamscythe"]=3,
+	["wristwood-dreamscythe"]=7,
 	["wsg-nightslayer"]=18,
 	["wsnows-nightslayer"]=10,
 	["wspeéd-nightslayer"]=11,
