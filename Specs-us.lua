@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5187 characters, read 2026-10-09 04:59 AM.
+-- Region us, 5187 characters, read 2026-10-09 05:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7149,7 +7149,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["infurryator-raden"]=12,
 	["initis-raden"]=7,
 	["injury-pagle"]=7,
-	["inkárri-arugal-au"]=10,
+	["inkárri-arugal-au"]=4,
 	["inmortalwar-raden"]=7,
 	["innoofirgize-raden"]=5,
 	["inorie-raden"]=4,
@@ -7647,7 +7647,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["littletinkle-galakras"]=2,
 	["littman-raden"]=29,
 	["litwhit-lei-shen"]=16,
-	["litze-raden"]=16,
+	["litze-raden"]=32,
 	["liusu-pagle"]=5,
 	["liveforeverr-pagle"]=5,
 	["liverr-galakras"]=14,
@@ -7673,7 +7673,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["lolilpop-pagle"]=22,
 	["lolohwow-raden"]=1,
 	["loloove-pagle"]=3,
-	["lonelylonerr-pagle"]=11,
+	["lonelylonerr-pagle"]=1,
 	["loneshadow-pagle"]=0,
 	["lonestarx-raden"]=9,
 	["longbonds-nazgrim"]=15,
