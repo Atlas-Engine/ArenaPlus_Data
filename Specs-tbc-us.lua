@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9465 characters, read 2026-10-09 07:58 AM.
+-- Region tbc-us, 9465 characters, read 2026-10-09 08:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -14165,7 +14165,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["locopompyro-nightslayer"]=6,
 	["lofi-nightslayer"]=25,
 	["lofn-nightslayer"]=9,
-	["loganqd-dreamscythe"]=2,
+	["loganqd-dreamscythe"]=18,
 	["loganw-nightslayer"]=7,
 	["loignt-nightslayer"]=4,
 	["loka-nightslayer"]=1,
@@ -14428,7 +14428,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["massivewar-nightslayer"]=2,
 	["mastashlong-nightslayer"]=18,
 	["mastèrmind-nightslayer"]=1,
-	["masxzaw-nightslayer"]=3,
+	["masxzaw-nightslayer"]=7,
 	["matchalol-nightslayer"]=3,
 	["matchu-nightslayer"]=3,
 	["mathillant-nightslayer"]=2,
@@ -14653,7 +14653,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["minimartha-nightslayer"]=1,
 	["minískirt-nightslayer"]=7,
 	["minitelanna-nightslayer"]=2,
-	["minixboy-nightslayer"]=15,
+	["minixboy-nightslayer"]=17,
 	["minmi-nightslayer"]=15,
 	["mintchocoice-nightslayer"]=5,
 	["minutz-nightslayer"]=1,
@@ -14947,7 +14947,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["nazsurge-nightslayer"]=10,
 	["nbamilkboi-dreamscythe"]=7,
 	["neanderthals-nightslayer"]=4,
-	["necowboogie-dreamscythe"]=7,
+	["necowboogie-dreamscythe"]=3,
 	["necronipps-nightslayer"]=2,
 	["necrosatanic-nightslayer"]=14,
 	["necroseed-dreamscythe"]=13,
@@ -14969,7 +14969,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["neiliee-nightslayer"]=9,
 	["neilyoqt-nightslayer"]=8,
 	["nekkó-nightslayer"]=9,
-	["nekobearmeow-nightslayer"]=3,
+	["nekobearmeow-nightslayer"]=7,
 	["nekryss-nightslayer"]=1,
 	["nellymandela-nightslayer"]=19,
 	["nelsonice-nightslayer"]=7,
@@ -18084,7 +18084,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["verelock-nightslayer"]=16,
 	["verinen-nightslayer"]=5,
 	["verlay-nightslayer"]=1,
-	["vermillion-dreamscythe"]=22,
+	["vermillion-dreamscythe"]=7,
 	["verrenger-nightslayer"]=5,
 	["verrousx-nightslayer"]=1,
 	["versik-nightslayer"]=5,
