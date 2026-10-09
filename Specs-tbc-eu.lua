@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9867 characters, read 2026-10-08 09:59 PM.
+-- Region tbc-eu, 9867 characters, read 2026-10-08 10:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -13036,7 +13036,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["grimsheepér-spineshatter"]=9,
 	["grimzugg-spineshatter"]=12,
 	["gripen-spineshatter"]=13,
-	["grìsh-spineshatter"]=16,
+	["grìsh-spineshatter"]=25,
 	["griswood-spineshatter"]=25,
 	["grizellda-thunderstrike"]=5,
 	["grizzlysture-spineshatter"]=6,
@@ -16597,7 +16597,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["questionable-spineshatter"]=23,
 	["quichex-spineshatter"]=3,
 	["quickness-spineshatter"]=3,
-	["quietplease-spineshatter"]=3,
+	["quietplease-spineshatter"]=19,
 	["quiff-spineshatter"]=5,
 	["quiffwar-spineshatter"]=5,
 	["quiynara-spineshatter"]=11,
@@ -18821,7 +18821,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["vanillaz-spineshatter"]=4,
 	["vanishblind-spineshatter"]=3,
 	["vanïshra-spineshatter"]=19,
-	["vannah-spineshatter"]=4,
+	["vannah-spineshatter"]=9,
 	["vanqquish-spineshatter"]=13,
 	["vantie-spineshatter"]=2,
 	["vantoom-spineshatter"]=9,
