@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5324 characters, read 2026-10-09 11:00 AM.
+-- Region eu, 5324 characters, read 2026-10-09 12:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6474,7 +6474,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["fengmoon-garalon"]=5,
 	["fentanyler-garalon"]=9,
 	["fentmaster-shekzeer"]=4,
-	["fergußs-everlook"]=34,
+	["fergußs-everlook"]=26,
 	["ferizelius-shekzeer"]=20,
 	["ferlaz-shekzeer"]=11,
 	["fernandoó-shekzeer"]=8,
@@ -6716,7 +6716,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["grondax-norushen"]=5,
 	["grsy-shekzeer"]=6,
 	["grumpyolbaby-shekzeer"]=3,
-	["grumshado-hoptallus"]=6,
+	["grumshado-hoptallus"]=7,
 	["gsek-shekzeer"]=1,
 	["guangtou-shekzeer"]=1,
 	["guaposensei-shekzeer"]=3,
@@ -6735,7 +6735,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["gutalax-ook-ook"]=8,
 	["guugur-auberdine"]=2,
 	["gww-garalon"]=1,
-	["gyatthunter-norushen"]=12,
+	["gyatthunter-norushen"]=9,
 	["gymbunny-shekzeer"]=15,
 	["gypsysniper-shekzeer"]=4,
 	["haberer-everlook"]=1,
@@ -8028,7 +8028,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["ngprofessor-shekzeer"]=4,
 	["ngtz-auberdine"]=1,
 	["nharil-everlook"]=26,
-	["niallg-shekzeer"]=13,
+	["niallg-shekzeer"]=16,
 	["niamah-shekzeer"]=3,
 	["nicant-hoptallus"]=3,
 	["nicantes-hoptallus"]=1,
