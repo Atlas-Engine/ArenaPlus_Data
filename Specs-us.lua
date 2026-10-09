@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5187 characters, read 2026-10-09 06:59 AM.
+-- Region us, 5187 characters, read 2026-10-09 07:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5955,7 +5955,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dankenbrew-lei-shen"]=4,
 	["dankendwarf-pagle"]=22,
 	["dankenelf-pagle"]=5,
-	["dankenshroom-lei-shen"]=33,
+	["dankenshroom-lei-shen"]=12,
 	["dankenstein-lei-shen"]=22,
 	["dankorbs-pagle"]=4,
 	["dankshots-lei-shen"]=3,
@@ -6750,7 +6750,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["goblynndez-galakras"]=6,
 	["gognmagog-pagle"]=17,
 	["gogo-raden"]=1,
-	["goinghamms-pagle"]=0,
+	["goinghamms-immerseus"]=0,
 	["goingtobust-pagle"]=1,
 	["gojeta-lei-shen"]=7,
 	["gojodojo-lei-shen"]=4,
@@ -6938,7 +6938,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["hibashiba-galakras"]=20,
 	["hickery-arugal-au"]=14,
 	["hideandhunt-galakras"]=20,
-	["hifukface-raden"]=5,
+	["hifukface-raden"]=12,
 	["hifvckface-raden"]=4,
 	["highc-galakras"]=22,
 	["highç-galakras"]=27,
@@ -6965,7 +6965,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["holyangelz-pagle"]=2,
 	["holycanoli-galakras"]=2,
 	["holycøcktail-raden"]=2,
-	["holyfender-pagle"]=16,
+	["holyfender-pagle"]=2,
 	["holyfkbubs-pagle"]=2,
 	["holyflamez-pagle"]=16,
 	["holyfluxq-pagle"]=9,
@@ -7291,7 +7291,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["jonny-pagle"]=34,
 	["jonnyslash-immerseus"]=7,
 	["jontejr-raden"]=15,
-	["jootfob-galakras"]=30,
+	["jootfob-galakras"]=23,
 	["jorogin-grobbulus"]=14,
 	["josept-pagle"]=9,
 	["joshuà-raden"]=7,
@@ -7359,7 +7359,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["kárin-nazgrim"]=9,
 	["karlmarxpunk-pagle"]=7,
 	["karolinna-raden"]=9,
-	["kartika-raden"]=18,
+	["kartika-raden"]=20,
 	["kaskudo-nazgrim"]=23,
 	["kasmein-pagle"]=18,
 	["katacaine-pagle"]=18,
@@ -7996,7 +7996,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["moonrip-raden"]=12,
 	["moonspellol-galakras"]=14,
 	["møønstár-arugal-au"]=17,
-	["møonxz-raden"]=33,
+	["møonxz-raden"]=12,
 	["møønzx-galakras"]=17,
 	["mootski-pagle"]=3,
 	["mopdruid-pagle"]=0,
@@ -9168,7 +9168,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["sminchin-pagle"]=14,
 	["smokerweedch-pagle"]=24,
 	["smokérzen-raden"]=10,
-	["smokinweedle-raden"]=21,
+	["smokinweedle-raden"]=9,
 	["smoot-lei-shen"]=3,
 	["smoots-arugal-au"]=34,
 	["smoqy-pagle"]=0,
