@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9473 characters, read 2026-10-09 05:58 AM.
+-- Region tbc-us, 9473 characters, read 2026-10-09 06:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10735,7 +10735,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["cheekystuns-nightslayer"]=8,
 	["cheekyx-nightslayer"]=18,
 	["cheenn-nightslayer"]=16,
-	["cheerss-nightslayer"]=5,
+	["cheerss-nightslayer"]=8,
 	["cheerstro-nightslayer"]=16,
 	["cheertbc-nightslayer"]=16,
 	["cheesé-nightslayer"]=8,
@@ -12836,7 +12836,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["haramguy-nightslayer"]=5,
 	["hardnipz-nightslayer"]=6,
 	["hardressed-nightslayer"]=11,
-	["hardx-nightslayer"]=4,
+	["hardx-nightslayer"]=6,
 	["hardybigwood-nightslayer"]=1,
 	["harmac-nightslayer"]=1,
 	["harmes-nightslayer"]=5,
@@ -15095,7 +15095,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["nocturnùs-dreamscythe"]=7,
 	["nodl-nightslayer"]=5,
 	["nogun-nightslayer"]=6,
-	["noheadfly-nightslayer"]=3,
+	["noheadfly-nightslayer"]=7,
 	["nohitjeromeq-nightslayer"]=14,
 	["nohunt-nightslayer"]=15,
 	["noikar-dreamscythe"]=2,
@@ -18332,7 +18332,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["whateverz-nightslayer"]=16,
 	["whattehpho-dreamscythe"]=5,
 	["whatthefk-nightslayer"]=12,
-	["whatupcuhh-nightslayer"]=5,
+	["whatupcuhh-nightslayer"]=8,
 	["whatwindfury-nightslayer"]=19,
 	["wheatchex-nightslayer"]=13,
 	["wheeznation-dreamscythe"]=13,
