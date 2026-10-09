@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9856 characters, read 2026-10-09 11:59 AM.
+-- Region tbc-eu, 9856 characters, read 2026-10-09 12:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11246,7 +11246,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["coality-spineshatter"]=17,
 	["cocinrot-spineshatter"]=9,
 	["cocoinum-spineshatter"]=23,
-	["Çöçöjæmßö-spineshatter"]=19,
+	["Çöçöjæmßö-spineshatter"]=3,
 	["cocojambaa-spineshatter"]=2,
 	["cocojambô-spineshatter"]=9,
 	["codebrown-spineshatter"]=15,
@@ -14510,7 +14510,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["leönqupe-spineshatter"]=3,
 	["leøs-thunderstrike"]=3,
 	["leotemu-spineshatter"]=11,
-	["lepiskys-thunderstrike"]=19,
+	["lepiskys-thunderstrike"]=3,
 	["lepurìneur-spineshatter"]=5,
 	["lerios-spineshatter"]=8,
 	["lessars-spineshatter"]=12,
@@ -15348,7 +15348,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["moshmongo-spineshatter"]=12,
 	["moshu-thunderstrike"]=4,
 	["mospirit-spineshatter"]=9,
-	["móss-spineshatter"]=18,
+	["móss-spineshatter"]=13,
 	["mossadagent-spineshatter"]=3,
 	["mossadwarf-spineshatter"]=2,
 	["mosse-thunderstrike"]=1,
@@ -16308,7 +16308,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["pogdi-spineshatter"]=2,
 	["pogenta-spineshatter"]=11,
 	["poggerleonez-spineshatter"]=5,
-	["pojebmamu-spineshatter"]=6,
+	["pojebmamu-spineshatter"]=1,
 	["pokerdot-spineshatter"]=18,
 	["pokerok-spineshatter"]=8,
 	["pökyli-spineshatter"]=9,
@@ -16539,7 +16539,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["pyroqt-spineshatter"]=12,
 	["qanp-spineshatter"]=7,
 	["qapi-spineshatter"]=4,
-	["qaren-spineshatter"]=19,
+	["qaren-spineshatter"]=3,
 	["qeaunax-spineshatter"]=12,
 	["qeffx-spineshatter"]=3,
 	["qerkz-thunderstrike"]=1,
@@ -16697,7 +16697,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["rawhex-spineshatter"]=11,
 	["rawhod-spineshatter"]=10,
 	["rawthang-spineshatter"]=5,
-	["rawtorp-spineshatter"]=15,
+	["rawtorp-spineshatter"]=5,
 	["raxoran-thunderstrike"]=10,
 	["ray-spineshatter"]=4,
 	["raynzx-spineshatter"]=3,
@@ -17904,7 +17904,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["stappersxz-spineshatter"]=3,
 	["star-spineshatter"]=1,
 	["starababa-spineshatter"]=8,
-	["starcastic-spineshatter"]=1,
+	["starcastic-spineshatter"]=20,
 	["starele-spineshatter"]=1,
 	["starelement-spineshatter"]=13,
 	["starforkers-thunderstrike"]=1,
@@ -19405,7 +19405,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["youmepriest-thunderstrike"]=8,
 	["youngcruz-spineshatter"]=0,
 	["youngdeniro-spineshatter"]=3,
-	["youngdolphh-spineshatter"]=24,
+	["youngdolphh-spineshatter"]=16,
 	["youngerol-spineshatter"]=2,
 	["youngma-spineshatter"]=1,
 	["youshimitzo-spineshatter"]=3,

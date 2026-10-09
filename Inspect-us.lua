@@ -42,7 +42,7 @@ local ns = ArenaPlusData
 -- source_item, so gems are stored as real item ids the client can draw and only
 -- the enchant text has to ship.
 --
--- Region us, 417 characters, 378 glyph names, read 2026-10-09 09:20 AM.
+-- Region us, 418 characters, 378 glyph names, read 2026-10-09 12:20 PM.
 ns.GLYPH_NAMES = ns.GLYPH_NAMES or {}
 
 for id, name in pairs({
@@ -432,33 +432,31 @@ for id, name in pairs({
 ns.TALENT_NAMES = ns.TALENT_NAMES or {}
 
 for id, name in pairs({
-	[5211]="Mighty Bash",
-	[26679]="Deadly Throw",
+	[605]="Dominate Mind",
+	[1463]="Incanter's Ward",
+	[10060]="Power Infusion",
+	[11426]="Ice Barrier",
+	[11958]="Cold Snap",
+	[12043]="Presence of Mind",
 	[30283]="Shadowfury",
-	[31230]="Cheat Death",
-	[36554]="Shadowstep",
-	[79008]="Elusiveness",
-	[102280]="Displacer Beast",
-	[102401]="Wild Charge",
-	[102793]="Ursol's Vortex",
-	[106737]="Force of Nature",
-	[108208]="Subterfuge",
-	[108209]="Shadow Focus",
-	[108210]="Nerve Strike",
-	[108238]="Renewal",
-	[108288]="Heart of the Wild",
+	[44457]="Living Bomb",
+	[102051]="Frostjaw",
 	[108359]="Dark Regeneration",
 	[108503]="Grimoire of Sacrifice",
 	[108505]="Archimonde's Darkness",
+	[108843]="Blazing Speed",
+	[108920]="Void Tendrils",
+	[108945]="Angelic Bulwark",
+	[109142]="Twist of Fate",
+	[109186]="From Darkness, Comes Light",
+	[110744]="Divine Star",
 	[110913]="Dark Bargain",
+	[111264]="Ice Ward",
 	[111397]="Blood Horror",
-	[114014]="Shuriken Toss",
-	[114107]="Soul of the Forest",
-	[131511]="Prey on the Weak",
-	[132469]="Typhoon",
+	[112833]="Spectral Guise",
+	[120517]="Halo",
+	[121536]="Angelic Feather",
 	[137587]="Kil'jaeden's Cunning",
-	[137619]="Marked for Death",
-	[145108]="Ysera's Gift",
 }) do ns.TALENT_NAMES[id] = name end
 
 -- Which talent a rank-spell belongs to, and how many ranks that talent has.
@@ -2073,6 +2071,7 @@ ns.INSPECT_BY_REGION["us"] = {
 	["awetysm-raden"]={g={head={100247,0,76886,76696},neck={100503,0},shoulder={100251,4803,76674},chest={100243,4419,76696,76661},waist={100395,0,76691,76696},legs={100249,4823,76696,76691},feet={100397,4429,76674},wrist={100402,4415,76696},hands={100245,4432,76691,76696},finger_1={100506,0},finger_2={100507,0},trinket_1={100500,0},trinket_2={100505,0},back={100502,4894},main_hand={100187,3368},tabard={69209,0}},t={108170,49039,50041,48743,45529,108199},y={518,526,554,519,553,1065},s={{1203,2,2},{1104,5,5}},p={"blacksmithing","tailoring"},k={},v={4710,5669,7174,151,24500,211,118,29290,556463,108,54175,1287,2467,786,1334,0,4989},r=1,x=1,c="death-knight"},
 	["conclusive-galakras"]={g={head={100636,0,76884,76692},neck={100624,0},shoulder={100680,4804,76658},chest={100635,4419,76692,76658},waist={100560,0,89680,76692},legs={100614,4822,76692,89680},feet={100589,4428,76658},wrist={100699,4416},hands={100683,0,89680},finger_1={100629,0},finger_2={100587,0},trinket_1={100586,0},trinket_2={100684,0},back={100651,4894},main_hand={100533,8550}},t={109248,109212,82726,109215,117050,131894},y={363,439,352,371},s={{1203,2,2},{1108,5,5}},p={"engineering","tailoring"},k={hands=4898},v={10467,5039,2643,195,169,17784,182,23034,468879,172,19924,3003,1186,1746,1186,0,1241},r=2,x=0,c="hunter"},
 	["girrthbrooks-pagle"]={g={head={100659,0,95348,89674},neck={100695,0},shoulder={100596,4803,76613},shirt={2579,0},chest={100622,4419,89676,76661},waist={100670,0,89676},legs={100595,4823,89676,89676},feet={100691,4429,76661},wrist={100717,4415},hands={100594,4432,89676},finger_1={100647,0},finger_2={100692,0},trinket_1={100684,0},trinket_2={100579,0},back={100715,4894},main_hand={100553,3368}},t={115989,49039,50041,48743,45529,108200},y={1075,512,554,525,524},s={{1203,2,2},{1104,5,5}},p={"engineering","tailoring"},k={waist=4223,hands=4898,back=4897},v={9698,4689,3240,149,18218,208,115,23073,469425,105,40355,2118,7710,1617,1103,0,2680},r=2,x=0,c="death-knight"},
+	["gallagher-raden"]={g={head={100611,0,76885,76668},neck={100703,0},shoulder={100619,4806,76668},shirt={44693,0},chest={100661,4419,76668,76668},waist={100606,0,76619,76668},legs={100592,4895,76668,76619},feet={100563,4429,76668},wrist={100679,4414},hands={100681,4430,76619},finger_1={100593,0},finger_2={100620,0},trinket_1={100684,0},trinket_2={100712,0},back={100613,4892},main_hand={100540,4442},off_hand={100732,4434}},t={12043,102051,11426,11958,1463,44457},y={700,329,698,321},s={{1203,2,2},{1109,5,5}},p={"engineering","tailoring"},k={waist=4223,hands=4898,back=4897},v={7921,9067,3258,289,122,125,17452,22917,467241,29005,112,2181,2133,3100,2133,0,2014},r=2,x=1,c="mage"},
 	["crepuscolo-pagle"]={g={head={100578,0,76890,76628},neck={100719,0},shoulder={100643,4806,76660},chest={100575,4419,76694,76660},waist={100710,0,76685,76628},legs={100714,4825,76694,76694},feet={100581,4429,76660},wrist={100711,0,76628},hands={100668,4430,76685,76628},finger_1={100704,0},finger_2={100620,0},trinket_1={100712,0},trinket_2={100684,0},back={100613,0},main_hand={100532,4442},off_hand={100731,4434},tabard={69209,0}},t={85499,110301,114163,105622,86172,114165},y={455,188,186},s={{1203,2,2},{1110,5,5}},p={"blacksmithing"},k={},v={10616,2941,5037,3706,256,187,17691,23498,475375,26607,762,2271,692,2802,1761,0,2049},r=10,x=1,c="paladin"},
 	["gorroso-galakras"]={g={head={99332,0,95347,76672},neck={103882,0},shoulder={99095,4806,76672,76672},chest={99344,4419,76672,76672,76672},waist={105348,0,76672,76672,76672},legs={99094,4825,76672,76672},feet={104450,4429,76672},wrist={104528,4414},hands={99345,4433,76672,76672},finger_1={105357,0,76672},finger_2={104427,0,76634},trinket_1={104426,0},trinket_2={104544,0},back={102246,4423,76672},main_hand={104545,4442,76672},off_hand={103847,4434,76672}},t={51485,108271,117013,108281,108283,108287},y={225,752,470,215,950},s={{1182,5,5}},p={"engineering"},k={waist=4223,hands=4898,back=4897},v={2904,11064,22050,5665,225,163,29416,37171,666797,49200,701,789,2603,1865,3233,0,8950},r=2,x=0,c="shaman"},
 	["apocalypsiss-pagle"]={g={head={100649,0,76885,76694},neck={100682,0},shoulder={100696,4806,76660},chest={100627,4419,76694,76660},waist={100655,0,76620,76628},legs={100090,4826,76694,76686},feet={100698,4429,76660},wrist={100610,4414},hands={100558,4430,76620},finger_1={100620,0},finger_2={100704,0},trinket_1={100568,0},trinket_2={100712,0},back={100702,4423},main_hand={100532,4442},off_hand={100732,4434}},t={108921,121536,109186,110744,109175,112833},y={463,271,458,268,961,257},s={{1203,2,2},{1112,5,5}},p={},k={},v={6334,2764,4246,8656,127,136,17616,22424,460339,29185,117,1391,650,1875,1183,0,2714},r=5,x=1,c="priest"},

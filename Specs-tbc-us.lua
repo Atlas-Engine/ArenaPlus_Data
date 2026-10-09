@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9467 characters, read 2026-10-09 11:58 AM.
+-- Region tbc-us, 9467 characters, read 2026-10-09 12:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11099,7 +11099,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["cuffed-nightslayer"]=1,
 	["cuhculainn-nightslayer"]=5,
 	["cuhllypsa-nightslayer"]=2,
-	["cuitytotoro-nightslayer"]=2,
+	["cuitytotoro-nightslayer"]=18,
 	["culturesz-nightslayer"]=11,
 	["cultxo-nightslayer"]=1,
 	["cumviction-nightslayer"]=11,
@@ -12788,7 +12788,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["hailee-nightslayer"]=6,
 	["hailzuz-dreamscythe"]=15,
 	["hain-nightslayer"]=5,
-	["hairforkids-nightslayer"]=23,
+	["hairforkids-nightslayer"]=13,
 	["hairyhuevos-nightslayer"]=1,
 	["haishao-nightslayer"]=11,
 	["haitabao-nightslayer"]=3,
@@ -13301,7 +13301,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ironbloom-nightslayer"]=7,
 	["ironfox-nightslayer"]=7,
 	["ironsîde-nightslayer"]=18,
-	["ironthornx-nightslayer"]=7,
+	["ironthornx-nightslayer"]=22,
 	["irontough-dreamscythe"]=7,
 	["irscollector-nightslayer"]=0,
 	["ishogall-dreamscythe"]=2,
@@ -13788,7 +13788,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["kinkshamm-nightslayer"]=24,
 	["kinkysblues-nightslayer"]=19,
 	["kinkysshamna-nightslayer"]=19,
-	["kinnon-dreamscythe"]=10,
+	["kinnon-dreamscythe"]=19,
 	["kìp-dreamscythe"]=5,
 	["kirbylolxd-nightslayer"]=13,
 	["kirbyxqt-nightslayer"]=4,
@@ -14758,7 +14758,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["monéy-dreamscythe"]=5,
 	["moneygoat-nightslayer"]=10,
 	["mongologist-nightslayer"]=15,
-	["moniix-nightslayer"]=10,
+	["moniix-nightslayer"]=24,
 	["monkichi-nightslayer"]=2,
 	["monkmindset-nightslayer"]=7,
 	["monsieurcaca-nightslayer"]=17,
@@ -15748,7 +15748,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["priestdont-nightslayer"]=1,
 	["priestfeast-nightslayer"]=1,
 	["priestgoyim-nightslayer"]=12,
-	["priestidk-nightslayer"]=12,
+	["priestidk-nightslayer"]=1,
 	["priestwutlol-nightslayer"]=1,
 	["primaltusks-dreamscythe"]=19,
 	["prime-nightslayer"]=18,
@@ -16921,7 +16921,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["slothmoo-nightslayer"]=7,
 	["slowbolt-nightslayer"]=4,
 	["sloweyes-nightslayer"]=7,
-	["slowfast-nightslayer"]=16,
+	["slowfast-nightslayer"]=13,
 	["slumshocks-dreamscythe"]=19,
 	["slumwar-dreamscythe"]=18,
 	["slurpeezy-nightslayer"]=4,
