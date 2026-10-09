@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5332 characters, read 2026-10-08 07:00 PM.
+-- Region eu, 5332 characters, read 2026-10-08 08:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5469,7 +5469,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["aydan-shekzeer"]=2,
 	["aydedee-garalon"]=20,
 	["ayleena-mirage-raceway"]=6,
-	["ayleenaah-ook-ook"]=31,
+	["ayleenaah-ook-ook"]=8,
 	["ayleenah-mirage-raceway"]=21,
 	["ayloupipi-shekzeer"]=2,
 	["ayuaha-shekzeer"]=16,
@@ -5613,7 +5613,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bibuba-shekzeer"]=3,
 	["bierbuddah-shekzeer"]=6,
 	["bigangryorc-garalon"]=1,
-	["bigchill-mirage-raceway"]=1,
+	["bigchill-mirage-raceway"]=25,
 	["bigdamdk-shekzeer"]=8,
 	["biggestegoeu-shekzeer"]=3,
 	["bigiwardam-auberdine"]=1,
@@ -6973,7 +6973,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["imchicken-shekzeer"]=11,
 	["imconfused-shekzeer"]=1,
 	["imisstrappy-mirage-raceway"]=14,
-	["immofire-auberdine"]=2,
+	["immofire-auberdine"]=10,
 	["immortuosqt-everlook"]=2,
 	["Ìmperius-shekzeer"]=0,
 	["inbahkwaa-auberdine"]=8,
@@ -8413,7 +8413,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["prâitre-mirage-raceway"]=9,
 	["praystation-ook-ook"]=22,
 	["premanchan-everlook"]=26,
-	["prénium-auberdine"]=3,
+	["prénium-auberdine"]=21,
 	["préservateaf-auberdine"]=2,
 	["prezik-shekzeer"]=4,
 	["prîestotp-shekzeer"]=9,
@@ -9320,7 +9320,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["thurza-shekzeer"]=2,
 	["thuugom-shekzeer"]=8,
 	["thylé-norushen"]=13,
-	["thyraza-norushen"]=32,
+	["thyraza-norushen"]=3,
 	["thys-gehennas"]=0,
 	["tidez-shekzeer"]=15,
 	["tien-shekzeer"]=1,
@@ -9392,7 +9392,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["toxicboy-mirage-raceway"]=26,
 	["toxicelitist-shekzeer"]=9,
 	["toxicfuz-garalon"]=6,
-	["toxiqkid-shekzeer"]=18,
+	["toxiqkid-shekzeer"]=1,
 	["tpriestlx-shekzeer"]=9,
 	["trackk-auberdine"]=24,
 	["tracye-shekzeer"]=9,
