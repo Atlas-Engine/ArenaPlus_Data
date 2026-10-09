@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9867 characters, read 2026-10-08 08:59 PM.
+-- Region tbc-eu, 9867 characters, read 2026-10-08 09:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10781,7 +10781,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["boogiepriest-spineshatter"]=2,
 	["boombabee-spineshatter"]=9,
 	["boombapthug-spineshatter"]=2,
-	["boomcrturass-thunderstrike"]=12,
+	["boomcrturass-thunderstrike"]=23,
 	["boomerbuster-spineshatter"]=9,
 	["boomerkin-spineshatter"]=1,
 	["boonreturns-spineshatter"]=25,
@@ -13588,7 +13588,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["interferenc-spineshatter"]=22,
 	["internalcold-spineshatter"]=7,
 	["interscope-spineshatter"]=5,
-	["intôx-spineshatter"]=19,
+	["intôx-spineshatter"]=3,
 	["intôxx-spineshatter"]=1,
 	["invicto-thunderstrike"]=24,
 	["invinciblexx-spineshatter"]=3,
@@ -14426,7 +14426,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["lamecoil-spineshatter"]=3,
 	["lamecoiler-spineshatter"]=13,
 	["lanadelrend-thunderstrike"]=5,
-	["lancein-spineshatter"]=4,
+	["lancein-spineshatter"]=9,
 	["lancelordx-spineshatter"]=4,
 	["lancesalot-thunderstrike"]=9,
 	["landysham-spineshatter"]=12,
@@ -16437,7 +16437,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["primeglad-spineshatter"]=1,
 	["primex-spineshatter"]=17,
 	["prinzzen-spineshatter"]=15,
-	["priss-spineshatter"]=3,
+	["priss-spineshatter"]=19,
 	["prlee-spineshatter"]=13,
 	["problemx-spineshatter"]=5,
 	["procahontas-spineshatter"]=12,
@@ -16612,7 +16612,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["qvì-spineshatter"]=15,
 	["qvist-spineshatter"]=13,
 	["qwèh-spineshatter"]=9,
-	["qwertzuiop-spineshatter"]=16,
+	["qwertzuiop-spineshatter"]=25,
 	["qwwêrô-spineshatter"]=2,
 	["qyv-spineshatter"]=3,
 	["qzenvolk-spineshatter"]=3,
@@ -18919,7 +18919,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["vildx-thunderstrike"]=9,
 	["vileskinpala-spineshatter"]=7,
 	["vilethar-spineshatter"]=2,
-	["villageman-spineshatter"]=3,
+	["villageman-spineshatter"]=19,
 	["ville-spineshatter"]=15,
 	["villesnille-spineshatter"]=15,
 	["villiäinen-spineshatter"]=2,

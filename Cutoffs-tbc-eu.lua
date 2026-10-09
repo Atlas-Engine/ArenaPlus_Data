@@ -12,18 +12,18 @@ local ns = ArenaPlusData
 -- Arena title cutoffs, written by tools\UpdateFromBlizzard.ps1 from Blizzard's
 -- own API. Do not edit by hand: rerun the script to refresh.
 --
--- Region tbc-eu, season 3, cutoffs last changed 2026-10-07 09:33 PM, last checked 2026-10-08 08:58 PM.
+-- Region tbc-eu, season 3, cutoffs last changed 2026-10-08 09:33 PM, last checked 2026-10-08 09:58 PM.
 ns.CUTOFFS_BY_REGION = ns.CUTOFFS_BY_REGION or {}
 
 ns.CUTOFFS_BY_REGION["tbc-eu"] = {
 	region  = "tbc-eu",
-	updated = "2026-10-07 09:33 PM",
-	checked = "2026-10-08 08:58 PM",
-	checkedEpoch = 1791507538,
+	updated = "2026-10-08 09:33 PM",
+	checked = "2026-10-08 09:58 PM",
+	checkedEpoch = 1791511138,
 
-	[1] = { r1=2444, gladiator=2257, duelist=1989, rival=1702, challenger=1480 }, -- 2v2
-	[2] = { r1=2338, gladiator=2164, duelist=1918, rival=1703, challenger=1498 }, -- 3v3
-	[3] = { r1=2334, gladiator=2159, duelist=1899, rival=1700, challenger=1480 }, -- 5v5
+	[1] = { r1=2450, gladiator=2258, duelist=1990, rival=1702, challenger=1480 }, -- 2v2
+	[2] = { r1=2338, gladiator=2168, duelist=1917, rival=1702, challenger=1498 }, -- 3v3
+	[3] = { r1=2340, gladiator=2159, duelist=1899, rival=1700, challenger=1480 }, -- 5v5
 }
 
 -- How many places each fixed-count title is worth. Blizzard does not publish
@@ -31,7 +31,7 @@ ns.CUTOFFS_BY_REGION["tbc-eu"] = {
 ns.CUTOFF_SLOTS_BY_REGION = ns.CUTOFF_SLOTS_BY_REGION or {}
 
 ns.CUTOFF_SLOTS_BY_REGION["tbc-eu"] = {
-	[1] = { r1=46, gladiator=291, duelist=1763 }, -- 2v2
-	[2] = { r1=27, gladiator=185, duelist=1138, rival=4426 }, -- 3v3
-	[3] = { r1=78, gladiator=498, duelist=3312 }, -- 5v5
+	[1] = { r1=41, gladiator=288, duelist=1758 }, -- 2v2
+	[2] = { r1=27, gladiator=178, duelist=1148, rival=4515 }, -- 3v3
+	[3] = { r1=72, gladiator=498, duelist=3312 }, -- 5v5
 }
