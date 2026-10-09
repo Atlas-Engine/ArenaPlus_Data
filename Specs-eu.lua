@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5321 characters, read 2026-10-09 03:00 AM.
+-- Region eu, 5320 characters, read 2026-10-09 04:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1311,7 +1311,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["fatty-shekzeer"]=11,
 	["fazzu-shekzeer"]=11,
 	["fbdruid-shekzeer"]=41,
-	["fçize-shekzeer"]=10,
 	["fckeraa-shekzeer"]=11,
 	["fdx-shekzeer"]=11,
 	["féanïr-auberdine"]=41,
@@ -4269,7 +4268,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["venire-mirage-raceway"]=41,
 	["venóm-shekzeer"]=11,
 	["veràn-auberdine"]=51,
-	["vercettix-garalon"]=50,
 	["vercettix-shekzeer"]=11,
 	["vercettixx-shekzeer"]=11,
 	["vêrcy-everlook"]=41,
@@ -4514,7 +4512,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["xistens-shekzeer"]=41,
 	["xkiller-shekzeer"]=11,
 	["xladerinø-shekzeer"]=10,
-	["xladérz-shekzeer"]=11,
+	["xladérz-shekzeer"]=10,
 	["xladerzf-shekzeer"]=11,
 	["xmm-shekzeer"]=11,
 	["xnavis-hoptallus"]=71,
@@ -6448,7 +6446,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["fatty-shekzeer"]=17,
 	["fazzu-shekzeer"]=9,
 	["fbdruid-shekzeer"]=3,
-	["fçize-shekzeer"]=6,
+	["fçize-shekzeer"]=0,
 	["fckeraa-shekzeer"]=2,
 	["fdx-shekzeer"]=7,
 	["féanïr-auberdine"]=14,
@@ -7376,7 +7374,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["kurold-mirage-raceway"]=5,
 	["kuroni-garalon"]=32,
 	["kurtat-shekzeer"]=24,
-	["kurttuqq-shekzeer"]=34,
+	["kurttuqq-shekzeer"]=24,
 	["kuruna-everlook"]=3,
 	["kusy-shekzeer"]=6,
 	["kusya-shekzeer"]=9,
@@ -7970,7 +7968,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["naz-shekzeer"]=1,
 	["nâzrins-shekzeer"]=23,
 	["neatø-shekzeer"]=4,
-	["nebuplum-shekzeer"]=17,
+	["nebuplum-shekzeer"]=28,
 	["necromancy-shekzeer"]=17,
 	["necrot-hoptallus"]=24,
 	["necroticflow-shekzeer"]=8,
@@ -9560,7 +9558,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["venire-mirage-raceway"]=3,
 	["venóm-shekzeer"]=14,
 	["veràn-auberdine"]=10,
-	["vercettix-garalon"]=28,
 	["vercettix-shekzeer"]=17,
 	["vercettixx-shekzeer"]=6,
 	["vêrcy-everlook"]=9,
