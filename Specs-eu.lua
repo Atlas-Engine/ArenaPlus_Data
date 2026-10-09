@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5321 characters, read 2026-10-09 02:00 AM.
+-- Region eu, 5321 characters, read 2026-10-09 03:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7405,7 +7405,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["laknard-auberdine"]=11,
 	["lalio-shekzeer"]=15,
 	["lalúná-shekzeer"]=9,
-	["lanä-mirage-raceway"]=14,
+	["lanä-mirage-raceway"]=4,
 	["lancespamx-shekzeer"]=2,
 	["landowick-hoptallus"]=1,
 	["laomeier-shekzeer"]=1,
@@ -8173,7 +8173,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["offrank-garalon"]=6,
 	["ofzppt-shekzeer"]=1,
 	["oglappn-everlook"]=31,
-	["ogloj-shekzeer"]=5,
+	["ogloj-shekzeer"]=15,
 	["ogru-shekzeer"]=13,
 	["ogstreet-shekzeer"]=9,
 	["Ógstreet-shekzeer"]=13,
@@ -10365,7 +10365,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Супругприста-flamegor"]=1,
 	["Сэнжер-flamegor"]=16,
 	["Тайрэнт-flamegor"]=4,
-	["Таксебе-flamegor"]=5,
+	["Таксебе-flamegor"]=15,
 	["Танятопор-flamegor"]=5,
 	["Тацумаки-flamegor"]=17,
 	["Тачми-flamegor"]=6,

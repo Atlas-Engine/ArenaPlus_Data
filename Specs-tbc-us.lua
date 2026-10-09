@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9469 characters, read 2026-10-09 01:58 AM.
+-- Region tbc-us, 9469 characters, read 2026-10-09 02:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10247,7 +10247,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["blondish-nightslayer"]=2,
 	["bloobungle-nightslayer"]=6,
 	["bloodravenn-nightslayer"]=6,
-	["bloodreap-dreamscythe"]=2,
+	["bloodreap-dreamscythe"]=20,
 	["bloodsport-nightslayer"]=5,
 	["bloodwaltz-nightslayer"]=2,
 	["bloodxknight-nightslayer"]=2,
@@ -11339,7 +11339,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["denthrix-dreamscythe"]=7,
 	["dentotem-nightslayer"]=10,
 	["denverbronco-nightslayer"]=6,
-	["depay-nightslayer"]=18,
+	["depay-nightslayer"]=2,
 	["deportmaxing-nightslayer"]=4,
 	["derekchaumin-nightslayer"]=19,
 	["derezzed-nightslayer"]=2,
@@ -13666,7 +13666,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["karndaddy-nightslayer"]=19,
 	["karnij-nightslayer"]=18,
 	["karnyge-nightslayer"]=6,
-	["karonaz-nightslayer"]=8,
+	["karonaz-nightslayer"]=5,
 	["karrakar-nightslayer"]=8,
 	["karrakhaz-nightslayer"]=3,
 	["karru-nightslayer"]=1,
@@ -15740,7 +15740,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["prepss-nightslayer"]=10,
 	["pretentious-nightslayer"]=5,
 	["pretty-nightslayer"]=0,
-	["prettyirl-nightslayer"]=8,
+	["prettyirl-nightslayer"]=5,
 	["prettylips-dreamscythe"]=5,
 	["prettymp-nightslayer"]=2,
 	["prettyok-nightslayer"]=0,
@@ -15886,7 +15886,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["quesorita-nightslayer"]=13,
 	["queueitup-nightslayer"]=1,
 	["qui-nightslayer"]=2,
-	["quicklynow-nightslayer"]=8,
+	["quicklynow-nightslayer"]=5,
 	["quicx-nightslayer"]=7,
 	["quii-nightslayer"]=11,
 	["quinzee-nightslayer"]=6,
@@ -16396,7 +16396,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["santamadres-dreamscythe"]=1,
 	["santerpok-nightslayer"]=4,
 	["santycloz-dreamscythe"]=6,
-	["saplinq-nightslayer"]=8,
+	["saplinq-nightslayer"]=5,
 	["sappedbro-nightslayer"]=5,
 	["sapphrebleu-nightslayer"]=9,
 	["saptical-nightslayer"]=5,
