@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5187 characters, read 2026-10-09 08:59 AM.
+-- Region us, 5187 characters, read 2026-10-09 09:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6939,7 +6939,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["hickery-arugal-au"]=14,
 	["hideandhunt-galakras"]=20,
 	["hifukface-raden"]=12,
-	["hifvckface-raden"]=4,
+	["hifvckface-raden"]=10,
 	["highc-galakras"]=22,
 	["highç-galakras"]=27,
 	["hîghc-galakras"]=17,
@@ -6992,7 +6992,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["höneygloss-pagle"]=5,
 	["höneypaws-galakras"]=5,
 	["hönk-lei-shen"]=5,
-	["honkin-lei-shen"]=32,
+	["honkin-lei-shen"]=16,
 	["honorbuddy-raden"]=5,
 	["hoo-raden"]=14,
 	["hoochi-pagle"]=1,
@@ -8445,7 +8445,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["phurby-immerseus"]=17,
 	["phymura-pagle"]=15,
 	["piaget-raden"]=4,
-	["piankeeper-pagle"]=26,
+	["piankeeper-pagle"]=25,
 	["picaflor-pagle"]=14,
 	["pigfarmerjoe-pagle"]=3,
 	["pimen-pagle"]=1,
@@ -9404,7 +9404,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["supermongo-pagle"]=7,
 	["superstikkyy-pagle"]=29,
 	["supersweat-pagle"]=7,
-	["survivorzx-raden"]=2,
+	["survivorzx-raden"]=16,
 	["sushibanks-pagle"]=7,
 	["sushichi-galakras"]=4,
 	["sushimaki-galakras"]=7,
@@ -10044,7 +10044,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ybats-grobbulus"]=24,
 	["yeardme-pagle"]=1,
 	["yecnay-galakras"]=7,
-	["yecum-galakras"]=21,
+	["yecum-galakras"]=9,
 	["yekcoh-pagle"]=29,
 	["yellowspwn-raden"]=21,
 	["yelly-pagle"]=20,
