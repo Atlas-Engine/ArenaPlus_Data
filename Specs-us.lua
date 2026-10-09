@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5185 characters, read 2026-10-08 10:59 PM.
+-- Region us, 5185 characters, read 2026-10-08 11:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6376,7 +6376,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["epsilon-pagle"]=0,
 	["erass-nazgrim"]=16,
 	["eredark-raden"]=22,
-	["erieshotz-pagle"]=20,
+	["erieshotz-pagle"]=18,
 	["erik-nazgrim"]=7,
 	["erikane-nazgrim"]=4,
 	["erikhai-nazgrim"]=3,
@@ -6741,7 +6741,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["gloriosas-raden"]=7,
 	["gloryboi-pagle"]=2,
 	["gnarlyknight-pagle"]=16,
-	["gnarlyshotz-pagle"]=3,
+	["gnarlyshotz-pagle"]=18,
 	["gnomeßeater-pagle"]=4,
 	["gøàtbrádlëê-raden"]=2,
 	["goatler-benediction"]=3,
@@ -8677,7 +8677,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["redentress-galakras"]=21,
 	["redfinder-pagle"]=1,
 	["redknight-lei-shen"]=7,
-	["rednax-raden"]=24,
+	["rednax-raden"]=28,
 	["redski-pagle"]=0,
 	["redspawn-raden"]=1,
 	["reel-maladath"]=0,
