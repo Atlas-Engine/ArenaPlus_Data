@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5185 characters, read 2026-10-08 11:59 PM.
+-- Region us, 5185 characters, read 2026-10-09 12:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3230,7 +3230,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["opurtz-pagle"]=10,
 	["Örbköbë-pagle"]=10,
 	["orbscripter-pagle"]=40,
-	["orcetorix-pagle"]=20,
 	["orcsamabin-pagle"]=20,
 	["orcz-pagle"]=20,
 	["ordanary-pagle"]=260,
@@ -5080,7 +5079,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["alette-pagle"]=2,
 	["aléxandros-nazgrim"]=7,
 	["alexmateo-pagle"]=7,
-	["alexrrbb-raden"]=23,
+	["alexrrbb-raden"]=7,
 	["alextraxas-pagle"]=7,
 	["alezaar-raden"]=5,
 	["algreen-pagle"]=4,
@@ -5953,7 +5952,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dankenbrew-lei-shen"]=4,
 	["dankendwarf-pagle"]=22,
 	["dankenelf-pagle"]=5,
-	["dankenshroom-lei-shen"]=5,
+	["dankenshroom-lei-shen"]=33,
 	["dankenstein-lei-shen"]=22,
 	["dankorbs-pagle"]=4,
 	["dankshots-lei-shen"]=3,
@@ -7988,13 +7987,13 @@ ns.SPECS_BY_REGION["us"] = {
 	["monuei-raden"]=10,
 	["moobookaiyah-galakras"]=7,
 	["mooleone-pagle"]=5,
-	["mòónfirebeam-raden"]=12,
+	["mòónfirebeam-raden"]=5,
 	["moonloon-pagle"]=17,
 	["moonpieelite-immerseus"]=1,
 	["moonrip-raden"]=12,
 	["moonspellol-galakras"]=14,
 	["møønstár-arugal-au"]=17,
-	["møonxz-raden"]=12,
+	["møonxz-raden"]=33,
 	["møønzx-galakras"]=17,
 	["mootski-pagle"]=3,
 	["mopdruid-pagle"]=0,
@@ -8321,7 +8320,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["Örbköbë-pagle"]=4,
 	["orbs-arugal-au"]=0,
 	["orbscripter-pagle"]=4,
-	["orcetorix-pagle"]=6,
+	["orcetorix-pagle"]=0,
 	["orcsamabin-pagle"]=15,
 	["orcz-pagle"]=7,
 	["ordanary-pagle"]=4,
@@ -8813,7 +8812,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["rougesd-pagle"]=14,
 	["roxxe-raden"]=2,
 	["royalbear-lei-shen"]=18,
-	["royalflush-pagle"]=21,
+	["royalflush-pagle"]=9,
 	["royalkelly-raden"]=21,
 	["royalpaladin-lei-shen"]=32,
 	["royalqt-pagle"]=2,
@@ -9573,7 +9572,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["tiamak-galakras"]=7,
 	["tiarussel-pagle"]=2,
 	["tictactoetem-nazgrim"]=22,
-	["tigrexwp-raden"]=21,
+	["tigrexwp-raden"]=9,
 	["tikky-raden"]=17,
 	["tiktac-immerseus"]=3,
 	["tilted-galakras"]=7,
