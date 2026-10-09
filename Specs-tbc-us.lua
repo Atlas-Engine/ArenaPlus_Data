@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9464 characters, read 2026-10-08 07:58 PM.
+-- Region tbc-us, 9464 characters, read 2026-10-08 08:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9694,7 +9694,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["arenalol-nightslayer"]=5,
 	["arenamaster-dreamscythe"]=0,
 	["areso-nightslayer"]=2,
-	["ariiana-dreamscythe"]=14,
+	["ariiana-dreamscythe"]=1,
 	["ariiana-nightslayer"]=1,
 	["arilliann-dreamscythe"]=11,
 	["arisdotle-nightslayer"]=16,
@@ -10391,7 +10391,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bpd-nightslayer"]=5,
 	["bqss-nightslayer"]=2,
 	["bradchad-nightslayer"]=2,
-	["bradiator-nightslayer"]=11,
+	["bradiator-nightslayer"]=9,
 	["bradzw-nightslayer"]=2,
 	["braila-nightslayer"]=2,
 	["brainheal-nightslayer"]=10,
@@ -12582,7 +12582,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["gnorfx-nightslayer"]=2,
 	["gnorph-nightslayer"]=6,
 	["gnoyes-dreamscythe"]=2,
-	["gns-nightslayer"]=18,
+	["gns-nightslayer"]=2,
 	["gnulkia-nightslayer"]=4,
 	["gnulkion-nightslayer"]=3,
 	["goatemtotem-nightslayer"]=19,
@@ -12592,7 +12592,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["gobagoo-nightslayer"]=2,
 	["gobbeur-dreamscythe"]=16,
 	["gódféáríng-nightslayer"]=4,
-	["gödsmack-nightslayer"]=19,
+	["gödsmack-nightslayer"]=24,
 	["gôdz-dreamscythe"]=4,
 	["gofux-nightslayer"]=10,
 	["gogarty-dreamscythe"]=4,
@@ -14223,7 +14223,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["lowx-nightslayer"]=2,
 	["lpkoji-nightslayer"]=5,
 	["lrizz-nightslayer"]=2,
-	["lsdreamz-nightslayer"]=14,
+	["lsdreamz-nightslayer"]=1,
 	["lsj-nightslayer"]=12,
 	["ltcool-nightslayer"]=1,
 	["ltzz-dreamscythe"]=2,
@@ -18208,7 +18208,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["wagyuafiive-nightslayer"]=3,
 	["waka-nightslayer"]=5,
 	["wakea-nightslayer"]=5,
-	["wakeandcake-nightslayer"]=6,
+	["wakeandcake-nightslayer"]=4,
 	["wakes-dreamscythe"]=19,
 	["wakom-nightslayer"]=2,
 	["walalace-dreamscythe"]=7,
