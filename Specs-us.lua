@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5179 characters, read 2026-10-09 07:59 PM.
+-- Region us, 5179 characters, read 2026-10-09 08:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5042,7 +5042,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["afp-raden"]=10,
 	["Àfterlifeqt-pagle"]=5,
 	["aggron-galakras"]=0,
-	["agility-raden"]=18,
+	["agility-raden"]=3,
 	["agrosniper-pagle"]=3,
 	["ahrens-raden"]=14,
 	["aidíth-benediction"]=7,
@@ -5051,7 +5051,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["aimonk-raden"]=10,
 	["airbornekid-pagle"]=13,
 	["airbuss-nazgrim"]=18,
-	["airhéads-pagle"]=24,
+	["airhéads-pagle"]=8,
 	["aisten-galakras"]=2,
 	["aiwindel-galakras"]=23,
 	["akeratin-pagle"]=12,
@@ -5062,7 +5062,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["alakk-lei-shen"]=7,
 	["alanfury-raden"]=7,
 	["alanfuryx-raden"]=19,
-	["alarayia-raden"]=18,
+	["alarayia-raden"]=20,
 	["alassin-galakras"]=4,
 	["albomane-pagle"]=21,
 	["alchemistmed-galakras"]=12,
@@ -5104,8 +5104,8 @@ ns.SPECS_BY_REGION["us"] = {
 	["alyndel-pagle"]=16,
 	["alystrixa-pagle"]=34,
 	["amaterasu-raden"]=28,
-	["amazingufo-pagle"]=1,
-	["amberance-pagle"]=5,
+	["amazingufo-pagle"]=31,
+	["amberance-pagle"]=17,
 	["ameldiel-pagle"]=20,
 	["amewz-pagle"]=7,
 	["amongoth-pagle"]=20,
@@ -5159,7 +5159,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["aquandrah-raden"]=5,
 	["ar-pagle"]=1,
 	["arae-pagle"]=24,
-	["araeul-lei-shen"]=20,
+	["araeul-lei-shen"]=3,
 	["arbiter-raden"]=17,
 	["arbolita-raden"]=5,
 	["arbuckyl-galakras"]=16,
@@ -7916,7 +7916,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["misprëdictio-nazgrim"]=21,
 	["missatrinni-pagle"]=0,
 	["missmama-galakras"]=5,
-	["missrollings-pagle"]=4,
+	["missrollings-pagle"]=10,
 	["misstotem-pagle"]=15,
 	["missyu-immerseus"]=23,
 	["mistafistuh-pagle"]=4,
@@ -10030,7 +10030,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["yekcoh-pagle"]=29,
 	["yellowspwn-raden"]=21,
 	["yelly-pagle"]=20,
-	["yerbastian-nazgrim"]=26,
+	["yerbastian-nazgrim"]=6,
 	["yermum-raden"]=7,
 	["yesindeedee-pagle"]=1,
 	["yesue-pagle"]=4,

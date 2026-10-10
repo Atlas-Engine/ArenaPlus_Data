@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9472 characters, read 2026-10-09 07:58 PM.
+-- Region tbc-us, 9472 characters, read 2026-10-09 08:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11447,7 +11447,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["Ðiscøvery-nightslayer"]=1,
 	["discriminatr-nightslayer"]=10,
 	["discustingx-nightslayer"]=1,
-	["disdisc-nightslayer"]=12,
+	["disdisc-nightslayer"]=1,
 	["diseasedrat-nightslayer"]=2,
 	["disgracey-nightslayer"]=15,
 	["dispelhate-dreamscythe"]=12,
@@ -15388,7 +15388,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ozsake-nightslayer"]=11,
 	["paataww-nightslayer"]=5,
 	["pacarogue-nightslayer"]=8,
-	["pacchmy-nightslayer"]=19,
+	["pacchmy-nightslayer"]=10,
 	["packmule-nightslayer"]=1,
 	["padetti-nightslayer"]=8,
 	["padoö-nightslayer"]=10,
