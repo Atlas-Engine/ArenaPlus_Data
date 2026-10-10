@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5328 characters, read 2026-10-10 05:00 PM.
+-- Region eu, 5328 characters, read 2026-10-10 06:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5780,7 +5780,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["buttérfly-garalon"]=2,
 	["buttons-shekzeer"]=0,
 	["buxuna-shekzeer"]=21,
-	["buzzey-shekzeer"]=28,
+	["buzzey-shekzeer"]=17,
 	["býàkùgan-shekzeer"]=6,
 	["byzho-mirage-raceway"]=15,
 	["cabalthewar-everlook"]=1,
@@ -5829,7 +5829,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["caypirinha-shekzeer"]=7,
 	["cazador-shekzeer"]=4,
 	["cbsboss-norushen"]=4,
-	["ccreticsback-mirage-raceway"]=1,
+	["ccreticsback-mirage-raceway"]=18,
 	["cdewig-shekzeer"]=13,
 	["ceendar-auberdine"]=3,
 	["ceendare-auberdine"]=31,
@@ -5862,7 +5862,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["chargedif-shekzeer"]=1,
 	["charity-garalon"]=9,
 	["charityrevn-shekzeer"]=1,
-	["charityshift-shekzeer"]=11,
+	["charityshift-shekzeer"]=3,
 	["charoma-shekzeer"]=3,
 	["charos-norushen"]=16,
 	["châs-everlook"]=1,
@@ -7080,7 +7080,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["jakoba-norushen"]=6,
 	["jakónda-garalon"]=6,
 	["jalinu-everlook"]=3,
-	["jallakebab-shekzeer"]=13,
+	["jallakebab-shekzeer"]=16,
 	["jámié-shekzeer"]=6,
 	["jámíé-shekzeer"]=6,
 	["jampperi-shekzeer"]=9,
@@ -9349,7 +9349,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["tiritompas-garalon"]=14,
 	["tiroxmage-garalon"]=2,
 	["titangel-shekzeer"]=1,
-	["titanià-shekzeer"]=25,
+	["titanià-shekzeer"]=18,
 	["titanii-shekzeer"]=1,
 	["titaniis-shekzeer"]=1,
 	["titaniiz-shekzeer"]=3,
@@ -10110,7 +10110,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Вагаса-flamegor"]=15,
 	["Вагонетка-flamegor"]=15,
 	["Вадябэниекс-flamegor"]=6,
-	["Вандеркаст-flamegor"]=10,
+	["Вандеркаст-flamegor"]=2,
 	["Ваняплетка-flamegor"]=8,
 	["Варбрис-flamegor"]=25,
 	["Варнаса-flamegor"]=1,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9466 characters, read 2026-10-10 04:58 PM.
+-- Region tbc-us, 9466 characters, read 2026-10-10 05:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11707,7 +11707,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["dufee-nightslayer"]=11,
 	["dugrem-nightslayer"]=7,
 	["duhblksheep-nightslayer"]=7,
-	["dukdukduk-nightslayer"]=3,
+	["dukdukduk-nightslayer"]=7,
 	["dulcepan-nightslayer"]=14,
 	["dullscythe-nightslayer"]=23,
 	["dumbee-nightslayer"]=24,
@@ -11737,7 +11737,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["dusti-nightslayer"]=25,
 	["dutonga-nightslayer"]=20,
 	["duudah-nightslayer"]=11,
-	["duxlol-nightslayer"]=16,
+	["duxlol-nightslayer"]=13,
 	["duxxar-nightslayer"]=15,
 	["duzentosvolt-nightslayer"]=24,
 	["dv-nightslayer"]=7,
@@ -14568,7 +14568,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["metrìc-dreamscythe"]=10,
 	["metzbower-nightslayer"]=16,
 	["mewandya-nightslayer"]=13,
-	["mewsed-nightslayer"]=24,
+	["mewsed-nightslayer"]=10,
 	["mewzor-nightslayer"]=6,
 	["méz-nightslayer"]=5,
 	["mezdawg-dreamscythe"]=3,
@@ -15655,7 +15655,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["pogdude-nightslayer"]=11,
 	["pogger-nightslayer"]=1,
 	["poggingout-nightslayer"]=10,
-	["pogjr-nightslayer"]=7,
+	["pogjr-nightslayer"]=3,
 	["pogmahone-nightslayer"]=5,
 	["poipa-nightslayer"]=7,
 	["pøison-dreamscythe"]=5,
@@ -17439,7 +17439,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["tagrrlol-nightslayer"]=7,
 	["taijito-nightslayer"]=7,
 	["taikku-nightslayer"]=2,
-	["taikkulol-nightslayer"]=22,
+	["taikkulol-nightslayer"]=7,
 	["taikopeapai-nightslayer"]=10,
 	["tailwynd-nightslayer"]=7,
 	["tainygnz-nightslayer"]=23,
@@ -17736,7 +17736,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["tonybananas-nightslayer"]=1,
 	["tønzøfstunz-nightslayer"]=5,
 	["toofwess-nightslayer"]=10,
-	["toogrippyx-nightslayer"]=8,
+	["toogrippyx-nightslayer"]=5,
 	["tookin-nightslayer"]=1,
 	["tooley-nightslayer"]=16,
 	["toonsrogue-dreamscythe"]=5,

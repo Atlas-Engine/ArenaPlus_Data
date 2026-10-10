@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5176 characters, read 2026-10-10 04:59 PM.
+-- Region us, 5176 characters, read 2026-10-10 05:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5553,7 +5553,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["branco-raden"]=0,
 	["brandoncle-galakras"]=16,
 	["brazzeal-pagle"]=16,
-	["brbcloning-pagle"]=17,
+	["brbcloning-pagle"]=5,
 	["brbsheeping-pagle"]=1,
 	["breewdable-pagle"]=10,
 	["brendedoo-galakras"]=3,
@@ -6181,7 +6181,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dottenstein-pagle"]=28,
 	["dotwaves-pagle"]=3,
 	["dôtzz-galakras"]=24,
-	["double-lei-shen"]=14,
+	["double-lei-shen"]=34,
 	["dôublecheese-immerseus"]=18,
 	["doubledread-raden"]=10,
 	["doublegrip-pagle"]=6,
@@ -6731,7 +6731,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["gloriosas-raden"]=7,
 	["gloryboi-pagle"]=2,
 	["gnarlyknight-pagle"]=16,
-	["gnarlyshotz-pagle"]=3,
+	["gnarlyshotz-pagle"]=18,
 	["gnomeßeater-pagle"]=4,
 	["gøàtbrádlëê-raden"]=2,
 	["goatler-benediction"]=3,
@@ -9320,7 +9320,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["sterleus-galakras"]=19,
 	["sterlìng-galakras"]=7,
 	["sterlinng-galakras"]=10,
-	["sterlÿng-galakras"]=16,
+	["sterlÿng-galakras"]=2,
 	["stevebox-myzrael"]=0,
 	["stevenrae-nazgrim"]=7,
 	["stickychicks-pagle"]=1,
