@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9472 characters, read 2026-10-09 08:58 PM.
+-- Region tbc-us, 9472 characters, read 2026-10-09 09:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9532,7 +9532,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["albinotrans-nightslayer"]=1,
 	["albitaa-nightslayer"]=1,
 	["albo-nightslayer"]=4,
-	["albophd-nightslayer"]=12,
+	["albophd-nightslayer"]=1,
 	["alcas-nightslayer"]=10,
 	["aleks-nightslayer"]=2,
 	["aleksandre-nightslayer"]=6,
@@ -12534,7 +12534,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["gigacrab-nightslayer"]=18,
 	["gigadunk-nightslayer"]=2,
 	["gigagigachad-nightslayer"]=0,
-	["gigaqookd-nightslayer"]=14,
+	["gigaqookd-nightslayer"]=1,
 	["gigashift-nightslayer"]=3,
 	["gigawarlock-nightslayer"]=13,
 	["gigedoir-nightslayer"]=13,
@@ -14060,7 +14060,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["lfghero-nightslayer"]=22,
 	["lfgisraging-nightslayer"]=2,
 	["lfwftotem-nightslayer"]=10,
-	["lfxd-nightslayer"]=2,
+	["lfxd-nightslayer"]=18,
 	["lgdarm-nightslayer"]=10,
 	["lghtsknjsus-nightslayer"]=12,
 	["lhem-nightslayer"]=4,
@@ -16230,7 +16230,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["rokett-nightslayer"]=19,
 	["rokgah-nightslayer"]=7,
 	["rokkd-nightslayer"]=1,
-	["rokkdd-dreamscythe"]=6,
+	["rokkdd-dreamscythe"]=4,
 	["rokkgar-dreamscythe"]=2,
 	["rokmage-nightslayer"]=4,
 	["roks-nightslayer"]=10,
@@ -16936,7 +16936,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["slurpteezee-nightslayer"]=5,
 	["slurpteezy-nightslayer"]=1,
 	["slw-nightslayer"]=5,
-	["slybow-nightslayer"]=15,
+	["slybow-nightslayer"]=21,
 	["slyptuah-nightslayer"]=5,
 	["slyz-nightslayer"]=1,
 	["slyzx-nightslayer"]=7,

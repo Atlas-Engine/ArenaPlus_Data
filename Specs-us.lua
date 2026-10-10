@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5179 characters, read 2026-10-09 08:59 PM.
+-- Region us, 5179 characters, read 2026-10-09 09:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5190,7 +5190,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["arrowtwist-raden"]=20,
 	["artanissed-pagle"]=6,
 	["arteniss-raden"]=9,
-	["Årterial-pagle"]=5,
+	["Årterial-pagle"]=12,
 	["arthamyel-pagle"]=0,
 	["arthasqt-raden"]=16,
 	["arthuritis-immerseus"]=23,
@@ -5354,7 +5354,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["benjam-pagle"]=4,
 	["benjifrankz-raden"]=21,
 	["benkei-pagle"]=4,
-	["bennyboltz-nazgrim"]=24,
+	["bennyboltz-nazgrim"]=28,
 	["benso-pagle"]=7,
 	["beots-raden"]=7,
 	["bepshepsis-pagle"]=0,
@@ -6295,7 +6295,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ebaylol-raden"]=1,
 	["ebolalola-galakras"]=1,
 	["ebolarama-galakras"]=2,
-	["ecafkcufhi-raden"]=10,
+	["ecafkcufhi-raden"]=4,
 	["echodotx-raden"]=9,
 	["ecmoo-pagle"]=4,
 	["ecstasyshock-pagle"]=22,
@@ -6311,7 +6311,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["eidottnawi-pagle"]=18,
 	["eikou-pagle"]=2,
 	["eivi-lei-shen"]=14,
-	["eka-raden"]=20,
+	["eka-raden"]=18,
 	["eladriel-pagle"]=0,
 	["elalin-pagle"]=17,
 	["elania-pagle"]=9,
@@ -8402,11 +8402,11 @@ ns.SPECS_BY_REGION["us"] = {
 	["pedreirø-nazgrim"]=18,
 	["peekñheal-arugal-au"]=19,
 	["peligrozx-pagle"]=29,
-	["penelope-raden"]=21,
+	["penelope-raden"]=9,
 	["penguinxl-pagle"]=6,
 	["penhitter-pagle"]=7,
 	["penitential-raden"]=21,
-	["pennisrodman-pagle"]=22,
+	["pennisrodman-pagle"]=15,
 	["penpaly-galakras"]=16,
 	["pepsí-lei-shen"]=2,
 	["percosett-raden"]=7,
