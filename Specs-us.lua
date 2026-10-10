@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5183 characters, read 2026-10-10 07:59 AM.
+-- Region us, 5183 characters, read 2026-10-10 08:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6866,7 +6866,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["harókz-raden"]=25,
 	["haroldpugh-raden"]=3,
 	["harrick-immerseus"]=34,
-	["härrick-immerseus"]=20,
+	["härrick-immerseus"]=3,
 	["harrydotter-raden"]=28,
 	["haruchann-pagle"]=10,
 	["hashie-pagle"]=12,
@@ -7011,7 +7011,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["hufflepuffr-pagle"]=1,
 	["hugehammr-lei-shen"]=16,
 	["hulksmashnow-lei-shen"]=7,
-	["humanpvpisez-pagle"]=4,
+	["humanpvpisez-pagle"]=10,
 	["hummuss-raden"]=7,
 	["hùnáy-pagle"]=11,
 	["hungfoo-pagle"]=6,
@@ -7039,16 +7039,16 @@ ns.SPECS_BY_REGION["us"] = {
 	["hypnozy-raden"]=2,
 	["hysteria-pagle"]=9,
 	["iachoku-raden"]=1,
-	["iambackbby-raden"]=21,
+	["iambackbby-raden"]=13,
 	["iamgodamsam-nazgrim"]=24,
 	["iamkam-raden"]=1,
 	["iamrazal-pagle"]=13,
 	["ianduncan-pagle"]=28,
 	["iarra-pagle"]=13,
-	["ibituã-nazgrim"]=5,
+	["ibituã-nazgrim"]=17,
 	["iboptanks-nazgrim"]=2,
 	["ibuildwalls-pagle"]=24,
-	["icarryhim-galakras"]=20,
+	["icarryhim-galakras"]=3,
 	["icaru-raden"]=10,
 	["icarú-raden"]=10,
 	["iceblight-nazgrim"]=0,
@@ -8582,7 +8582,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["quartêrmain-pagle"]=3,
 	["quelss-pagle"]=2,
 	["quesø-pagle"]=29,
-	["questopresto-nazgrim"]=4,
+	["questopresto-nazgrim"]=10,
 	["quickscopex-pagle"]=3,
 	["quickvanish-pagle"]=34,
 	["qwanya-raden"]=1,

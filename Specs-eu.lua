@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5333 characters, read 2026-10-10 08:00 AM.
+-- Region eu, 5333 characters, read 2026-10-10 09:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2204,7 +2204,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["kumpelblàse-ook-ook"]=101,
 	["kungfuboy-shekzeer"]=11,
 	["kuollurokue-garalon"]=51,
-	["kûroko-shekzeer"]=11,
+	["kûroko-shekzeer"]=10,
 	["kurold-mirage-raceway"]=10,
 	["kuroni-garalon"]=220,
 	["kurtat-shekzeer"]=11,
@@ -7400,7 +7400,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["kurold-mirage-raceway"]=5,
 	["kuroni-garalon"]=32,
 	["kurtat-shekzeer"]=24,
-	["kurttuqq-shekzeer"]=24,
+	["kurttuqq-shekzeer"]=34,
 	["kuruna-everlook"]=3,
 	["kusy-shekzeer"]=6,
 	["kusya-shekzeer"]=9,
@@ -7429,7 +7429,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["laknard-auberdine"]=11,
 	["lalio-shekzeer"]=15,
 	["lalúná-shekzeer"]=9,
-	["lanä-mirage-raceway"]=4,
+	["lanä-mirage-raceway"]=14,
 	["lancespamx-shekzeer"]=2,
 	["landowick-hoptallus"]=1,
 	["laomeier-shekzeer"]=1,
@@ -9244,7 +9244,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["takeyou-shekzeer"]=1,
 	["takor-shekzeer"]=16,
 	["takør-shekzeer"]=16,
-	["talant-shekzeer"]=24,
+	["talant-shekzeer"]=26,
 	["taleá-everlook"]=21,
 	["tàleeo-shekzeer"]=9,
 	["talenttree-ook-ook"]=3,
