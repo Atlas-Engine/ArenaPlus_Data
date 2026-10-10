@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9841 characters, read 2026-10-10 09:59 AM.
+-- Region tbc-eu, 9841 characters, read 2026-10-10 10:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10406,7 +10406,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["bannedbyai-spineshatter"]=2,
 	["bannedonmain-spineshatter"]=1,
 	["bannedpöv-spineshatter"]=9,
-	["banshewallah-spineshatter"]=2,
+	["banshewallah-spineshatter"]=17,
 	["bansuri-spineshatter"]=1,
 	["bantibant-spineshatter"]=9,
 	["banxw-spineshatter"]=15,
@@ -11986,7 +11986,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["drøgó-thunderstrike"]=1,
 	["drogûs-spineshatter"]=5,
 	["drogüs-spineshatter"]=2,
-	["drokkh-spineshatter"]=2,
+	["drokkh-spineshatter"]=8,
 	["drokkhh-spineshatter"]=5,
 	["drolbas-spineshatter"]=6,
 	["droma-spineshatter"]=26,
@@ -12230,7 +12230,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["emerpus-spineshatter"]=2,
 	["emev-spineshatter"]=12,
 	["emfinity-spineshatter"]=2,
-	["emhættebuff-spineshatter"]=5,
+	["emhættebuff-spineshatter"]=15,
 	["emiliontti-spineshatter"]=6,
 	["emirâ-thunderstrike"]=13,
 	["emmätiiä-spineshatter"]=7,
@@ -14969,7 +14969,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["maylined-spineshatter"]=3,
 	["maylinzseed-spineshatter"]=14,
 	["maysham-spineshatter"]=11,
-	["mayxkek-spineshatter"]=16,
+	["mayxkek-spineshatter"]=24,
 	["mayxlol-spineshatter"]=4,
 	["mayxlol-thunderstrike"]=24,
 	["mazehh-spineshatter"]=10,
@@ -17574,7 +17574,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["sladewilson-spineshatter"]=9,
 	["sladewilson-thunderstrike"]=9,
 	["slæm-spineshatter"]=23,
-	["slai-spineshatter"]=17,
+	["slai-spineshatter"]=2,
 	["slapka-spineshatter"]=23,
 	["slappyjoy-spineshatter"]=2,
 	["slare-spineshatter"]=9,
@@ -18255,7 +18255,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["terradru-thunderstrike"]=1,
 	["terreth-thunderstrike"]=20,
 	["terrorgheist-spineshatter"]=13,
-	["terwind-spineshatter"]=7,
+	["terwind-spineshatter"]=26,
 	["teslash-spineshatter"]=1,
 	["teslash-thunderstrike"]=1,
 	["tesler-spineshatter"]=23,
