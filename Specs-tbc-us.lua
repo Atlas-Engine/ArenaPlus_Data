@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9466 characters, read 2026-10-10 05:58 PM.
+-- Region tbc-us, 9466 characters, read 2026-10-10 06:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9554,7 +9554,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["allstarxx-nightslayer"]=15,
 	["allupinsideu-nightslayer"]=9,
 	["allurie-nightslayer"]=25,
-	["almghtythot-nightslayer"]=1,
+	["almghtythot-nightslayer"]=14,
 	["almostiesh-nightslayer"]=4,
 	["almostokay-nightslayer"]=5,
 	["alohadawn-nightslayer"]=11,
@@ -9564,7 +9564,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["alrofe-nightslayer"]=8,
 	["alroma-nightslayer"]=8,
 	["Älskling-nightslayer"]=7,
-	["altairös-nightslayer"]=2,
+	["altairös-nightslayer"]=18,
 	["altffour-nightslayer"]=5,
 	["altivoo-nightslayer"]=5,
 	["altronix-nightslayer"]=1,
@@ -9647,7 +9647,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["apetamer-nightslayer"]=24,
 	["apewizard-nightslayer"]=6,
 	["apmooz-nightslayer"]=3,
-	["apmute-nightslayer"]=6,
+	["apmute-nightslayer"]=4,
 	["apocshocker-nightslayer"]=19,
 	["apolló-nightslayer"]=15,
 	["apopcorn-nightslayer"]=10,
@@ -10333,7 +10333,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bonquisha-nightslayer"]=5,
 	["bonzia-nightslayer"]=2,
 	["bonzoh-nightslayer"]=10,
-	["boodang-nightslayer"]=24,
+	["boodang-nightslayer"]=10,
 	["boofahoo-nightslayer"]=2,
 	["boofbringer-nightslayer"]=2,
 	["boofywl-nightslayer"]=13,
@@ -11305,7 +11305,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["degenmaxxing-nightslayer"]=6,
 	["degennerds-nightslayer"]=4,
 	["degenprayer-nightslayer"]=1,
-	["degz-nightslayer"]=9,
+	["degz-nightslayer"]=25,
 	["dejjy-nightslayer"]=25,
 	["dekel-nightslayer"]=2,
 	["dekrypted-nightslayer"]=5,
@@ -13383,7 +13383,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["jamzki-nightslayer"]=5,
 	["jamzkii-nightslayer"]=12,
 	["jandist-nightslayer"]=10,
-	["jandista-nightslayer"]=4,
+	["jandista-nightslayer"]=6,
 	["janegoodru-nightslayer"]=7,
 	["janetjackson-nightslayer"]=9,
 	["janey-nightslayer"]=4,
@@ -16151,7 +16151,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["richphobic-nightslayer"]=4,
 	["richtwo-nightslayer"]=3,
 	["rickjamesz-dreamscythe"]=3,
-	["ricoravioli-nightslayer"]=2,
+	["ricoravioli-nightslayer"]=18,
 	["riddicc-nightslayer"]=8,
 	["riffer-nightslayer"]=4,
 	["riggity-nightslayer"]=14,
