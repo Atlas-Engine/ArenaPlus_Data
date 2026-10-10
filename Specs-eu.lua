@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5324 characters, read 2026-10-10 01:00 PM.
+-- Region eu, 5324 characters, read 2026-10-10 02:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -533,7 +533,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["blackmaan-shekzeer"]=10,
 	["bladesmonk-hoptallus"]=10,
 	["blahster-shekzeer"]=10,
-	["blakmoon-auberdine"]=41,
+	["blakmoon-auberdine"]=40,
 	["blancos-auberdine"]=11,
 	["blaqchina-shekzeer"]=11,
 	["blawi-mirage-raceway"]=20,
@@ -6516,7 +6516,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["fîtze-mirage-raceway"]=25,
 	["fivedruids-shekzeer"]=3,
 	["fizy-garalon"]=7,
-	["fladrif-garalon"]=26,
+	["fladrif-garalon"]=24,
 	["flaksen-shekzeer"]=15,
 	["flarin-shekzeer"]=9,
 	["flárin-shekzeer"]=3,
@@ -9961,7 +9961,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["zepp-mirage-raceway"]=21,
 	["zeppaan-garalon"]=12,
 	["zeptik-garalon"]=23,
-	["zerback-norushen"]=3,
+	["zerback-norushen"]=21,
 	["zerca-everlook"]=14,
 	["zeroblow-hoptallus"]=7,
 	["zeroimpact-shekzeer"]=5,

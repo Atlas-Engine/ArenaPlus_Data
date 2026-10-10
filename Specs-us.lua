@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5177 characters, read 2026-10-10 12:59 PM.
+-- Region us, 5178 characters, read 2026-10-10 01:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -672,7 +672,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["burntchef-raden"]=10,
 	["burstzum-nazgrim"]=20,
 	["buryniceqt-raden"]=11,
-	["buster-raden"]=41,
+	["buster-raden"]=40,
 	["bustyshots-raden"]=11,
 	["butcherr-raden"]=10,
 	["buttafingaz-pagle"]=40,
@@ -966,6 +966,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["damacus-raden"]=11,
 	["Ðamaia-pagle"]=11,
 	["damanî-pagle"]=80,
+	["dammyy-pagle"]=11,
 	["dampeners-raden"]=11,
 	["danar-raden"]=40,
 	["dáncingmines-raden"]=40,
@@ -5628,7 +5629,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["burstinflams-pagle"]=0,
 	["burstzum-nazgrim"]=15,
 	["buryniceqt-raden"]=4,
-	["buster-raden"]=3,
+	["buster-raden"]=20,
 	["bustyshots-raden"]=20,
 	["butcherr-raden"]=18,
 	["buttafingaz-pagle"]=17,
@@ -5936,6 +5937,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["damacus-raden"]=1,
 	["Ðamaia-pagle"]=7,
 	["damanî-pagle"]=34,
+	["dammyy-pagle"]=7,
 	["dampeners-raden"]=8,
 	["danar-raden"]=5,
 	["dáncingmines-raden"]=5,
@@ -6190,7 +6192,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["draconastyy-pagle"]=14,
 	["draculad-pagle"]=6,
 	["drãkã-nazgrim"]=15,
-	["draknyel-galakras"]=10,
+	["draknyel-galakras"]=4,
 	["draùnz-pagle"]=4,
 	["drazzuh-pagle"]=17,
 	["drbojackal-pagle"]=9,
@@ -8859,7 +8861,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["sanguinärio-pagle"]=12,
 	["sanguinious-lei-shen"]=30,
 	["sàngüinius-pagle"]=2,
-	["saphiiry-galakras"]=33,
+	["saphiiry-galakras"]=12,
 	["saphub-galakras"]=14,
 	["saplight-galakras"]=0,
 	["sapoo-pagle"]=14,
