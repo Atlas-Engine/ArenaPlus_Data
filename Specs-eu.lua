@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5333 characters, read 2026-10-09 07:00 PM.
+-- Region eu, 5333 characters, read 2026-10-09 08:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5444,7 +5444,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["audioslave-shekzeer"]=16,
 	["augsburg-shekzeer"]=6,
 	["aultrasalt-shekzeer"]=23,
-	["auredian-mirage-raceway"]=15,
+	["auredian-mirage-raceway"]=5,
 	["aureliavid-auberdine"]=3,
 	["auryen-mirage-raceway"]=4,
 	["auslogics-shekzeer"]=2,
@@ -6298,7 +6298,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["dunkelheit-shekzeer"]=9,
 	["dúpond-auberdine"]=3,
 	["durianlover-shekzeer"]=3,
-	["duskmeh-shekzeer"]=18,
+	["duskmeh-shekzeer"]=1,
 	["duskyn-shekzeer"]=20,
 	["dusoleil-shekzeer"]=24,
 	["dwarfs-shekzeer"]=21,
@@ -6485,7 +6485,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["fengmoon-garalon"]=5,
 	["fentanyler-garalon"]=9,
 	["fentmaster-shekzeer"]=4,
-	["fergußs-everlook"]=26,
+	["fergußs-everlook"]=34,
 	["ferizelius-shekzeer"]=20,
 	["ferlaz-shekzeer"]=11,
 	["fernandoó-shekzeer"]=8,
