@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9469 characters, read 2026-10-10 01:58 PM.
+-- Region tbc-us, 9469 characters, read 2026-10-10 02:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9974,7 +9974,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bazooko-nightslayer"]=1,
 	["bazrael-nightslayer"]=13,
 	["bbangzz-dreamscythe"]=17,
-	["bbqbulgogi-nightslayer"]=20,
+	["bbqbulgogi-nightslayer"]=2,
 	["bbqsawz-dreamscythe"]=2,
 	["bbyclose-nightslayer"]=10,
 	["bbycløse-nightslayer"]=10,
@@ -11379,7 +11379,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["dhaos-nightslayer"]=13,
 	["dharkest-nightslayer"]=19,
 	["dhb-nightslayer"]=10,
-	["dhez-nightslayer"]=4,
+	["dhez-nightslayer"]=6,
 	["dhhez-nightslayer"]=1,
 	["dhonky-nightslayer"]=3,
 	["dhorik-nightslayer"]=10,
@@ -14789,7 +14789,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["moonsblood-nightslayer"]=15,
 	["moontaindew-nightslayer"]=22,
 	["moontotems-nightslayer"]=19,
-	["moonyzz-nightslayer"]=18,
+	["moonyzz-nightslayer"]=2,
 	["moorehead-dreamscythe"]=18,
 	["móose-nightslayer"]=3,
 	["moosedeuce-dreamscythe"]=5,
@@ -15337,7 +15337,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["oraciondr-nightslayer"]=3,
 	["orack-nightslayer"]=5,
 	["oracklol-dreamscythe"]=1,
-	["orangeaxe-nightslayer"]=11,
+	["orangeaxe-nightslayer"]=25,
 	["orangeded-nightslayer"]=5,
 	["orangespy-nightslayer"]=7,
 	["orangesword-nightslayer"]=2,
@@ -16391,7 +16391,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["sancxx-nightslayer"]=1,
 	["sandas-nightslayer"]=1,
 	["sandram-nightslayer"]=1,
-	["saneorc-dreamscythe"]=2,
+	["saneorc-dreamscythe"]=18,
 	["sanguinàry-dreamscythe"]=2,
 	["sanidoo-nightslayer"]=25,
 	["sanin-nightslayer"]=4,
@@ -17015,7 +17015,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["snowzy-nightslayer"]=4,
 	["snox-nightslayer"]=5,
 	["snuckonline-nightslayer"]=17,
-	["snuffadin-dreamscythe"]=25,
+	["snuffadin-dreamscythe"]=11,
 	["snuffpriest-dreamscythe"]=14,
 	["snuux-nightslayer"]=6,
 	["snyeek-nightslayer"]=8,

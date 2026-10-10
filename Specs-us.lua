@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5178 characters, read 2026-10-10 01:59 PM.
+-- Region us, 5178 characters, read 2026-10-10 02:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5973,7 +5973,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["darthdeath-pagle"]=23,
 	["darthmaos-nazgrim"]=16,
 	["dartmaul-pagle"]=6,
-	["dásh-nazgrim"]=16,
+	["dásh-nazgrim"]=2,
 	["datittycuz-galakras"]=20,
 	["daunit-raden"]=23,
 	["davebluntz-raden"]=2,
@@ -5992,7 +5992,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["deadlifta-pagle"]=6,
 	["deadlylifts-pagle"]=7,
 	["deadmoon-galakras"]=24,
-	["deadnutz-nazgrim"]=14,
+	["deadnutz-nazgrim"]=34,
 	["deadpal-galakras"]=16,
 	["deadpoolwins-pagle"]=6,
 	["deadshottz-galakras"]=3,
@@ -6049,7 +6049,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["detrasdeti-nazgrim"]=29,
 	["devey-lei-shen"]=8,
 	["deviancegodx-raden"]=9,
-	["devour-pagle"]=9,
+	["devour-pagle"]=21,
 	["devx-pagle"]=12,
 	["devz-pagle"]=7,
 	["devzi-pagle"]=20,
@@ -6948,7 +6948,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["hojosatoru-raden"]=16,
 	["hojreplol-raden"]=16,
 	["hojville-pagle"]=16,
-	["holidayhamii-pagle"]=2,
+	["holidayhamii-pagle"]=16,
 	["holtxd-raden"]=7,
 	["holyangelz-pagle"]=2,
 	["holycanoli-galakras"]=2,
