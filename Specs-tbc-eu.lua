@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9836 characters, read 2026-10-10 11:59 AM.
+-- Region tbc-eu, 9836 characters, read 2026-10-10 12:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11688,12 +11688,12 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["dezucfs-spineshatter"]=2,
 	["dhampirr-thunderstrike"]=6,
 	["dheaf-spineshatter"]=3,
-	["Ðiabla-spineshatter"]=15,
+	["Ðiabla-spineshatter"]=5,
 	["diablè-spineshatter"]=5,
 	["dianenguyen-spineshatter"]=1,
 	["dibolol-spineshatter"]=6,
 	["dibom-spineshatter"]=9,
-	["dicaprio-spineshatter"]=3,
+	["dicaprio-spineshatter"]=19,
 	["dicxz-spineshatter"]=2,
 	["diczyzquad-spineshatter"]=13,
 	["diddlermode-spineshatter"]=3,
@@ -14378,7 +14378,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["langdru-spineshatter"]=1,
 	["langess-spineshatter"]=2,
 	["langistshair-spineshatter"]=2,
-	["lankorin-spineshatter"]=2,
+	["lankorin-spineshatter"]=8,
 	["läpimurto-spineshatter"]=5,
 	["lapislazulio-thunderstrike"]=4,
 	["lapooh-spineshatter"]=1,
@@ -14565,7 +14565,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["liquë-spineshatter"]=3,
 	["lirina-spineshatter"]=1,
 	["lirmaa-spineshatter"]=10,
-	["lirmish-spineshatter"]=16,
+	["lirmish-spineshatter"]=24,
 	["lirmish-thunderstrike"]=24,
 	["lischii-thunderstrike"]=5,
 	["lisoysham-spineshatter"]=12,
@@ -16841,7 +16841,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["ritzzl-spineshatter"]=1,
 	["rivah-spineshatter"]=9,
 	["rivakajakatá-spineshatter"]=2,
-	["rivz-spineshatter"]=17,
+	["rivz-spineshatter"]=2,
 	["rixpriest-spineshatter"]=2,
 	["ríyujín-spineshatter"]=0,
 	["rli-spineshatter"]=1,
@@ -19578,7 +19578,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["zuhlek-spineshatter"]=11,
 	["zukbm-spineshatter"]=25,
 	["zulðrg-spineshatter"]=13,
-	["zulia-spineshatter"]=25,
+	["zulia-spineshatter"]=24,
 	["zullumanx-spineshatter"]=4,
 	["zulorg-spineshatter"]=13,
 	["zulørg-spineshatter"]=13,

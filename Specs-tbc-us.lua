@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9464 characters, read 2026-10-10 11:58 AM.
+-- Region tbc-us, 9464 characters, read 2026-10-10 12:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10152,7 +10152,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["billyjimmy-nightslayer"]=10,
 	["billyjin-nightslayer"]=10,
 	["billystyle-nightslayer"]=6,
-	["billythecat-nightslayer"]=3,
+	["billythecat-nightslayer"]=7,
 	["bin-nightslayer"]=1,
 	["binchickens-dreamscythe"]=13,
 	["binderclip-nightslayer"]=0,
@@ -13698,7 +13698,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["kebabwarrior-nightslayer"]=2,
 	["keddz-nightslayer"]=5,
 	["kedern-nightslayer"]=7,
-	["keefer-nightslayer"]=19,
+	["keefer-nightslayer"]=10,
 	["keefuwu-nightslayer"]=5,
 	["keegers-nightslayer"]=18,
 	["keegle-nightslayer"]=1,
@@ -14652,7 +14652,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["minískirt-nightslayer"]=7,
 	["minitelanna-nightslayer"]=2,
 	["minixboy-nightslayer"]=17,
-	["minmi-nightslayer"]=15,
+	["minmi-nightslayer"]=21,
 	["mintchocoice-nightslayer"]=5,
 	["minutz-nightslayer"]=1,
 	["minxkin-nightslayer"]=22,
@@ -17014,7 +17014,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["soakk-dreamscythe"]=5,
 	["sobxrbe-nightslayer"]=5,
 	["soccerdad-nightslayer"]=12,
-	["socialfox-dreamscythe"]=10,
+	["socialfox-dreamscythe"]=19,
 	["sockdru-nightslayer"]=7,
 	["sockta-nightslayer"]=10,
 	["socktap-nightslayer"]=1,
@@ -17489,7 +17489,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["taylrswftmnd-dreamscythe"]=7,
 	["tayswíft-nightslayer"]=1,
 	["tazërface-nightslayer"]=18,
-	["tbalc-nightslayer"]=12,
+	["tbalc-nightslayer"]=1,
 	["tbcisawful-nightslayer"]=17,
 	["tbcisdeadcya-nightslayer"]=21,
 	["tbcpremium-dreamscythe"]=1,
@@ -17522,7 +17522,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["tempestnatsu-nightslayer"]=8,
 	["tempoxo-nightslayer"]=5,
 	["temptx-nightslayer"]=1,
-	["tempurasushi-nightslayer"]=6,
+	["tempurasushi-nightslayer"]=4,
 	["tenderpokes-nightslayer"]=8,
 	["tenetd-dreamscythe"]=22,
 	["tenforks-nightslayer"]=5,
@@ -18042,7 +18042,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["varedis-dreamscythe"]=5,
 	["varnigan-nightslayer"]=14,
 	["varrain-nightslayer"]=2,
-	["vasret-nightslayer"]=25,
+	["vasret-nightslayer"]=11,
 	["vav-nightslayer"]=5,
 	["vaydah-nightslayer"]=16,
 	["vays-nightslayer"]=10,
@@ -18407,7 +18407,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["woksauce-dreamscythe"]=18,
 	["wolf-dreamscythe"]=2,
 	["wolf-nightslayer"]=5,
-	["wolfib-nightslayer"]=13,
+	["wolfib-nightslayer"]=16,
 	["wolfz-nightslayer"]=8,
 	["wolk-nightslayer"]=5,
 	["wompwompuded-nightslayer"]=1,
