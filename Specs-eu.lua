@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5322 characters, read 2026-10-10 11:00 AM.
+-- Region eu, 5322 characters, read 2026-10-10 12:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -121,7 +121,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["affix-shekzeer"]=11,
 	["afflictia-shekzeer"]=11,
 	["aflixs-shekzeer"]=21,
-	["afqx-garalon"]=50,
+	["afqx-garalon"]=51,
 	["afrai-norushen"]=80,
 	["afrodiñ-shekzeer"]=10,
 	["afterchi-shekzeer"]=10,
@@ -6723,7 +6723,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["grondax-norushen"]=5,
 	["grsy-shekzeer"]=6,
 	["grumpyolbaby-shekzeer"]=3,
-	["grumshado-hoptallus"]=7,
+	["grumshado-hoptallus"]=6,
 	["gsek-shekzeer"]=1,
 	["guangtou-shekzeer"]=1,
 	["guaposensei-shekzeer"]=3,
@@ -8102,7 +8102,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["nøkhi-shekzeer"]=21,
 	["noleapnofun-everlook"]=1,
 	["nolleke-shekzeer"]=9,
-	["nollij-shekzeer"]=11,
+	["nollij-shekzeer"]=3,
 	["nomátter-shekzeer"]=1,
 	["nømwnøfun-shekzeer"]=0,
 	["nonamé-mirage-raceway"]=16,
@@ -8620,7 +8620,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["ridahk-shekzeer"]=23,
 	["riemukupla-shekzeer"]=9,
 	["righthook-shekzeer"]=7,
-	["rihannaøwned-everlook"]=10,
+	["rihannaøwned-everlook"]=2,
 	["rikimaru-shekzeer"]=26,
 	["ripgødx-garalon"]=1,
 	["rippilon-auberdine"]=13,
