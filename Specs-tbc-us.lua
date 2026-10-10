@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9469 characters, read 2026-10-10 04:58 AM.
+-- Region tbc-us, 9469 characters, read 2026-10-10 05:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10356,7 +10356,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["booxo-nightslayer"]=4,
 	["booyahblastx-nightslayer"]=24,
 	["boozeplease-nightslayer"]=2,
-	["bøpped-nightslayer"]=25,
+	["bøpped-nightslayer"]=11,
 	["bopthelights-dreamscythe"]=11,
 	["border-nightslayer"]=3,
 	["borderpolice-nightslayer"]=3,
@@ -13721,7 +13721,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["keiign-nightslayer"]=24,
 	["keiria-nightslayer"]=1,
 	["kekdubya-nightslayer"]=2,
-	["kekliza-nightslayer"]=5,
+	["kekliza-nightslayer"]=8,
 	["kekshookcen-nightslayer"]=7,
 	["keldora-nightslayer"]=2,
 	["kellén-nightslayer"]=5,
@@ -16101,7 +16101,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["reßound-nightslayer"]=2,
 	["restokind-nightslayer"]=7,
 	["restotech-nightslayer"]=7,
-	["resubaru-nightslayer"]=19,
+	["resubaru-nightslayer"]=10,
 	["resurged-nightslayer"]=2,
 	["reszult-nightslayer"]=13,
 	["retaliation-nightslayer"]=2,
@@ -16421,7 +16421,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["savs-dreamscythe"]=18,
 	["sawfur-nightslayer"]=3,
 	["sayfuddin-dreamscythe"]=2,
-	["sayohyeah-nightslayer"]=14,
+	["sayohyeah-nightslayer"]=1,
 	["saytan-nightslayer"]=9,
 	["sbgoo-nightslayer"]=7,
 	["scaffold-nightslayer"]=6,
@@ -17683,7 +17683,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["tinamartina-nightslayer"]=2,
 	["tindergirl-dreamscythe"]=14,
 	["tinydave-nightslayer"]=0,
-	["tinyfearless-nightslayer"]=13,
+	["tinyfearless-nightslayer"]=23,
 	["tinypp-nightslayer"]=0,
 	["tinyterror-nightslayer"]=2,
 	["titabitanaya-nightslayer"]=19,
@@ -17779,7 +17779,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["touge-nightslayer"]=4,
 	["toulw-nightslayer"]=16,
 	["toulwl-nightslayer"]=16,
-	["toumingkids-nightslayer"]=24,
+	["toumingkids-nightslayer"]=10,
 	["touristirl-nightslayer"]=10,
 	["toxicá-nightslayer"]=8,
 	["tôxictammy-dreamscythe"]=21,
