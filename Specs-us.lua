@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5180 characters, read 2026-10-10 06:59 AM.
+-- Region us, 5183 characters, read 2026-10-10 07:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -811,6 +811,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["chumpw-raden"]=11,
 	["chunklèè-galakras"]=21,
 	["chunkyblazt-galakras"]=80,
+	["chunkythotz-galakras"]=50,
 	["chùnli-pagle"]=51,
 	["chuppie-pagle"]=31,
 	["chyse-pagle"]=80,
@@ -923,6 +924,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["crpsemon-galakras"]=50,
 	["crtz-pagle"]=21,
 	["cruisin-raden"]=10,
+	["crust-arugal-au"]=11,
 	["cruthader-pagle"]=11,
 	["cruzifer-pagle"]=50,
 	["cruzn-galakras"]=10,
@@ -4169,6 +4171,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["statt-arugal-au"]=111,
 	["stattic-arugal-au"]=10,
 	["statticmw-arugal-au"]=41,
+	["statticw-arugal-au"]=10,
 	["staunch-immerseus"]=20,
 	["stdburns-pagle"]=11,
 	["stdsz-raden"]=11,
@@ -5773,6 +5776,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["chumpw-raden"]=7,
 	["chunklèè-galakras"]=10,
 	["chunkyblazt-galakras"]=3,
+	["chunkythotz-galakras"]=4,
 	["chùnli-pagle"]=10,
 	["chuppie-pagle"]=2,
 	["chyse-pagle"]=1,
@@ -5893,6 +5897,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["crpsemon-galakras"]=9,
 	["crtz-pagle"]=7,
 	["cruisin-raden"]=1,
+	["crust-arugal-au"]=1,
 	["cruthader-pagle"]=16,
 	["cruzifer-pagle"]=24,
 	["cruzn-galakras"]=16,
@@ -7160,7 +7165,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["isåbell-pagle"]=6,
 	["isabellee-raden"]=1,
 	["isbxr-raden"]=14,
-	["isg-pagle"]=30,
+	["isg-pagle"]=23,
 	["ishootropes-raden"]=7,
 	["ishotyou-galakras"]=3,
 	["isonuoli-pagle"]=3,
@@ -7919,7 +7924,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["misprëdictio-nazgrim"]=21,
 	["missatrinni-pagle"]=0,
 	["missmama-galakras"]=5,
-	["missrollings-pagle"]=4,
+	["missrollings-pagle"]=10,
 	["misstotem-pagle"]=15,
 	["missyu-immerseus"]=23,
 	["mistafistuh-pagle"]=4,
@@ -9311,6 +9316,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["statt-arugal-au"]=15,
 	["stattic-arugal-au"]=7,
 	["statticmw-arugal-au"]=4,
+	["statticw-arugal-au"]=7,
 	["staunch-immerseus"]=7,
 	["stay-maladath"]=0,
 	["stdburns-pagle"]=6,
@@ -9460,7 +9466,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["tastyshotz-raden"]=3,
 	["tatís-pagle"]=21,
 	["taulastria-nazgrim"]=24,
-	["taurenmen-immerseus"]=33,
+	["taurenmen-immerseus"]=17,
 	["tauruz-lei-shen"]=25,
 	["taybird-raden"]=7,
 	["tbk-raden"]=16,
