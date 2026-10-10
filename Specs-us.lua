@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5184 characters, read 2026-10-09 11:59 PM.
+-- Region us, 5184 characters, read 2026-10-10 12:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6315,7 +6315,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["eezz-nazgrim"]=13,
 	["efekz-immerseus"]=14,
 	["eggfooyoung-immerseus"]=4,
-	["eidottnawi-pagle"]=18,
+	["eidottnawi-pagle"]=3,
 	["eikou-pagle"]=2,
 	["eivi-lei-shen"]=14,
 	["eka-raden"]=18,
@@ -8314,7 +8314,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["oopsuwu-pagle"]=29,
 	["opensaysme-galakras"]=1,
 	["opp-pagle"]=4,
-	["oppenheimer-pagle"]=32,
+	["oppenheimer-pagle"]=16,
 	["opurtz-pagle"]=7,
 	["Örbköbë-pagle"]=4,
 	["orbs-arugal-au"]=0,
@@ -8364,7 +8364,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["paesmage-nazgrim"]=1,
 	["paeszera-nazgrim"]=7,
 	["pagbstabbin-galakras"]=34,
-	["pagledznuts-pagle"]=28,
+	["pagledznuts-pagle"]=24,
 	["pahlava-immerseus"]=21,
 	["painbarrier-lei-shen"]=9,
 	["painnkillerr-galakras"]=0,
@@ -8872,7 +8872,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["sanguinious-lei-shen"]=30,
 	["sàngüinius-pagle"]=2,
 	["saphiiry-galakras"]=12,
-	["saphub-galakras"]=29,
+	["saphub-galakras"]=14,
 	["saplight-galakras"]=0,
 	["sapoo-pagle"]=14,
 	["sappinturtle-pagle"]=14,

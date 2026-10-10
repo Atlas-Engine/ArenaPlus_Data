@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5335 characters, read 2026-10-10 12:00 AM.
+-- Region eu, 5334 characters, read 2026-10-10 01:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3126,7 +3126,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["pingfade-shekzeer"]=41,
 	["pipelayer-shekzeer"]=10,
 	["pipijaxxon-shekzeer"]=11,
-	["pipilili-shekzeer"]=10,
+	["pipilili-shekzeer"]=11,
 	["pipioe-shekzeer"]=11,
 	["pipitrix-shekzeer"]=11,
 	["pippilotta-shekzeer"]=11,
@@ -8378,7 +8378,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["pipelayer-shekzeer"]=24,
 	["pipijaxxon-shekzeer"]=24,
 	["pipilili-shekzeer"]=1,
-	["pipioe-shekzeer"]=6,
+	["pipioe-shekzeer"]=7,
 	["pipitrix-shekzeer"]=15,
 	["pippilotta-shekzeer"]=9,
 	["pissemaur-shekzeer"]=6,
@@ -9803,7 +9803,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["wxwxwxwxwxwx-shekzeer"]=6,
 	["wyktor-mirage-raceway"]=10,
 	["wynn-garalon"]=7,
-	["wyskz-shekzeer"]=0,
 	["xaazi-shekzeer"]=23,
 	["xaazie-shekzeer"]=15,
 	["xælthiar-everlook"]=9,
