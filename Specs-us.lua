@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5178 characters, read 2026-10-10 02:59 PM.
+-- Region us, 5178 characters, read 2026-10-10 03:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5763,7 +5763,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["chronicnugz-raden"]=22,
 	["chryses-pagle"]=18,
 	["chuckñourish-nazgrim"]=17,
-	["chucrutio-galakras"]=12,
+	["chucrutio-galakras"]=33,
 	["chump-galakras"]=1,
 	["chumpele-raden"]=15,
 	["chumpw-raden"]=7,
@@ -6927,7 +6927,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["hickery-arugal-au"]=14,
 	["hideandhunt-galakras"]=20,
 	["hifukface-raden"]=5,
-	["hifvckface-raden"]=10,
+	["hifvckface-raden"]=4,
 	["highc-galakras"]=22,
 	["highç-galakras"]=27,
 	["hîghc-galakras"]=17,
@@ -6953,9 +6953,9 @@ ns.SPECS_BY_REGION["us"] = {
 	["holyangelz-pagle"]=2,
 	["holycanoli-galakras"]=2,
 	["holycøcktail-raden"]=2,
-	["holyfender-pagle"]=2,
+	["holyfender-pagle"]=16,
 	["holyfkbubs-pagle"]=2,
-	["holyflamez-pagle"]=16,
+	["holyflamez-pagle"]=2,
 	["holyfluxq-pagle"]=9,
 	["holygym-nazgrim"]=13,
 	["holymar-pagle"]=6,
@@ -8995,7 +8995,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["shephèrd-pagle"]=20,
 	["shetops-pagle"]=6,
 	["shieldsx-raden"]=9,
-	["shieldzx-lei-shen"]=9,
+	["shieldzx-lei-shen"]=21,
 	["shiftener-nazgrim"]=5,
 	["shifthaps-raden"]=17,
 	["shìftkey-raden"]=5,
@@ -9027,7 +9027,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["shøckz-galakras"]=22,
 	["shõfu-pagle"]=4,
 	["shogoonz-immerseus"]=16,
-	["shoneyz-pagle"]=3,
+	["shoneyz-pagle"]=20,
 	["shootsropes-lei-shen"]=20,
 	["shotcolla-lei-shen"]=3,
 	["shotokan-lei-shen"]=22,

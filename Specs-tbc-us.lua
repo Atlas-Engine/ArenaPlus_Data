@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9469 characters, read 2026-10-10 02:58 PM.
+-- Region tbc-us, 9469 characters, read 2026-10-10 03:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11593,7 +11593,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["dpsbotxx-nightslayer"]=4,
 	["Ðracø-nightslayer"]=14,
 	["dracosa-dreamscythe"]=4,
-	["draegrom-dreamscythe"]=10,
+	["draegrom-dreamscythe"]=24,
 	["draenosh-nightslayer"]=18,
 	["dragonballx-nightslayer"]=5,
 	["dragonlord-dreamscythe"]=1,
@@ -11850,7 +11850,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["elitebeat-nightslayer"]=15,
 	["elivicky-nightslayer"]=4,
 	["elivvood-dreamscythe"]=3,
-	["ellajiayi-nightslayer"]=4,
+	["ellajiayi-nightslayer"]=6,
 	["elleiria-nightslayer"]=13,
 	["ellev-dreamscythe"]=24,
 	["ellexa-nightslayer"]=8,
@@ -12843,7 +12843,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["hashnaps-dreamscythe"]=19,
 	["hastescaling-nightslayer"]=12,
 	["hattenhaus-nightslayer"]=5,
-	["haveto-nightslayer"]=22,
+	["haveto-nightslayer"]=7,
 	["havokp-nightslayer"]=1,
 	["hawatambea-dreamscythe"]=15,
 	["hawglegga-dreamscythe"]=7,
@@ -15633,7 +15633,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["playtimex-dreamscythe"]=5,
 	["playtolose-nightslayer"]=1,
 	["pleasé-nightslayer"]=1,
-	["pleasinggang-nightslayer"]=12,
+	["pleasinggang-nightslayer"]=1,
 	["plebster-nightslayer"]=1,
 	["plebsterx-nightslayer"]=7,
 	["plg-nightslayer"]=2,
@@ -16559,7 +16559,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["shabbaranks-nightslayer"]=15,
 	["shabbus-nightslayer"]=2,
 	["shabzmd-nightslayer"]=1,
-	["shacra-dreamscythe"]=14,
+	["shacra-dreamscythe"]=1,
 	["shád-dreamscythe"]=18,
 	["shadarobb-nightslayer"]=11,
 	["shadeem-nightslayer"]=19,
