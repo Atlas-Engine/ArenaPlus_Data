@@ -18,7 +18,7 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region eu, season 14, read 2026-10-10 02:00 AM.
+-- Region eu, season 14, read 2026-10-10 03:00 AM.
 -- Realm display names, because the ladder only carries slugs and no rule
 -- turns one back into the other: raden is Ra-den, lei-shen is Lei Shen and
 -- arugal-au is Arugal (AU). Read from Blizzard's realm index; a slug with no
@@ -35,8 +35,8 @@ ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["eu"] = {
 	region  = "eu",
-	checked = "2026-10-10 02:00 AM",
-	checkedEpoch = 1791612004,
+	checked = "2026-10-10 03:00 AM",
+	checkedEpoch = 1791615605,
 	snapshot = "2026-10-10 04:29",
 
 	[1] = {  -- 2v2, 5013 places, down to rating 1047 -- the API stops here, short of the cutoff
@@ -2844,33 +2844,33 @@ ns.LEADERBOARD_BY_REGION["eu"] = {
 		{ rank=2797, name="Tinynutsack", realm="everlook", rating=1782, won=31, lost=25, faction="ALLIANCE", dr=0, dk=0 },
 		{ rank=2803, name="Dragosa", realm="mirage-raceway", rating=1781, won=133, lost=220, faction="ALLIANCE", mr=1801, dr=0, dk=1 },
 		{ rank=2803, name="Jaiky", realm="mirage-raceway", rating=1781, won=81, lost=83, faction="HORDE", dr=0, dk=1 },
-		{ rank=2803, name="Khaliope", realm="everlook", rating=1781, won=88, lost=95, faction="HORDE", mr=1809, dr=0, dk=1 },
 		{ rank=2803, name="Mazia", realm="shekzeer", rating=1781, won=67, lost=65, faction="ALLIANCE", dr=0, dk=1 },
 		{ rank=2803, name="Missotalock", realm="shekzeer", rating=1781, won=98, lost=107, faction="HORDE", dr=0, dk=1 },
 		{ rank=2803, name="Slemheks", realm="shekzeer", rating=1781, won=186, lost=219, faction="ALLIANCE", dr=0, dk=1 },
 		{ rank=2803, name="Stylishtwo", realm="shekzeer", rating=1781, won=30, lost=16, faction="ALLIANCE", dr=0, dk=1 },
 		{ rank=2803, name="Sùcette", realm="shekzeer", rating=1781, won=30, lost=29, faction="ALLIANCE", dr=0, dk=1 },
-		{ rank=2811, name="Arîu", realm="shekzeer", rating=1780, won=30, lost=21, faction="ALLIANCE", dr=0, dk=1 },
-		{ rank=2811, name="Brokimbo", realm="shekzeer", rating=1780, won=123, lost=137, faction="ALLIANCE", dr=0, dk=1 },
-		{ rank=2811, name="Eelmaster", realm="shekzeer", rating=1780, won=27, lost=23, faction="HORDE", dr=0, dk=1 },
-		{ rank=2811, name="Ponthuntxd", realm="shekzeer", rating=1780, won=32, lost=31, faction="ALLIANCE", dr=0, dk=1 },
-		{ rank=2811, name="Reevz", realm="shekzeer", rating=1780, won=136, lost=146, faction="ALLIANCE", dr=0, dk=1 },
-		{ rank=2811, name="Sithalion", realm="everlook", rating=1780, won=42, lost=45, faction="ALLIANCE", dr=0, dk=1 },
-		{ rank=2811, name="Smashez", realm="shekzeer", rating=1780, won=33, lost=39, faction="ALLIANCE", dr=0, dk=1 },
-		{ rank=2811, name="Zirkniaq", realm="shekzeer", rating=1780, won=101, lost=129, faction="ALLIANCE", dr=0, dk=1 },
-		{ rank=2819, name="Elendîl", realm="shekzeer", rating=1779, won=63, lost=76, faction="ALLIANCE", mr=1806, dr=0, dk=1 },
-		{ rank=2819, name="Estrelía", realm="everlook", rating=1779, won=39, lost=28, faction="ALLIANCE", dr=0, dk=1 },
-		{ rank=2819, name="Feelbreaker", realm="shekzeer", rating=1779, won=40, lost=37, faction="ALLIANCE", mr=1806, dr=0, dk=1 },
-		{ rank=2819, name="Juggiejr", realm="mirage-raceway", rating=1779, won=91, lost=112, faction="ALLIANCE", mr=1787, dr=0, dk=1 },
-		{ rank=2819, name="Lìnâ", realm="mirage-raceway", rating=1779, won=70, lost=141, faction="ALLIANCE", dr=0, dk=1 },
-		{ rank=2819, name="Manalow", realm="mirage-raceway", rating=1779, won=64, lost=66, faction="ALLIANCE", dr=0, dk=1 },
-		{ rank=2819, name="Nocurex", realm="everlook", rating=1779, won=53, lost=31, faction="ALLIANCE", dr=0, dk=1 },
-		{ rank=2819, name="Rngmonsterx", realm="shekzeer", rating=1779, won=55, lost=47, faction="ALLIANCE", dr=0, dk=1 },
-		{ rank=2819, name="Xarelh", realm="garalon", rating=1779, won=56, lost=72, faction="HORDE", mr=1793, dr=0, dk=1 },
-		{ rank=2828, name="Fluumoz", realm="shekzeer", rating=1778, won=30, lost=10, faction="ALLIANCE", dr=0, dk=1 },
-		{ rank=2828, name="Qraven", realm="shekzeer", rating=1778, won=48, lost=48, faction="ALLIANCE", dr=0, dk=1 },
-		{ rank=2828, name="Superpunch", realm="shekzeer", rating=1778, won=99, lost=110, faction="ALLIANCE", dr=0, dk=1 },
-		{ rank=2828, name="Ябо", realm="flamegor", rating=1778, won=56, lost=68, faction="HORDE", dr=0, dk=1 },
+		{ rank=2810, name="Arîu", realm="shekzeer", rating=1780, won=30, lost=21, faction="ALLIANCE", dr=0, dk=0 },
+		{ rank=2810, name="Brokimbo", realm="shekzeer", rating=1780, won=123, lost=137, faction="ALLIANCE", dr=0, dk=0 },
+		{ rank=2810, name="Eelmaster", realm="shekzeer", rating=1780, won=27, lost=23, faction="HORDE", dr=0, dk=0 },
+		{ rank=2810, name="Ponthuntxd", realm="shekzeer", rating=1780, won=32, lost=31, faction="ALLIANCE", dr=0, dk=0 },
+		{ rank=2810, name="Reevz", realm="shekzeer", rating=1780, won=136, lost=146, faction="ALLIANCE", dr=0, dk=0 },
+		{ rank=2810, name="Sithalion", realm="everlook", rating=1780, won=42, lost=45, faction="ALLIANCE", dr=0, dk=0 },
+		{ rank=2810, name="Smashez", realm="shekzeer", rating=1780, won=33, lost=39, faction="ALLIANCE", dr=0, dk=0 },
+		{ rank=2810, name="Zirkniaq", realm="shekzeer", rating=1780, won=101, lost=129, faction="ALLIANCE", dr=0, dk=0 },
+		{ rank=2818, name="Elendîl", realm="shekzeer", rating=1779, won=63, lost=76, faction="ALLIANCE", mr=1806, dr=0, dk=0 },
+		{ rank=2818, name="Estrelía", realm="everlook", rating=1779, won=39, lost=28, faction="ALLIANCE", dr=0, dk=0 },
+		{ rank=2818, name="Feelbreaker", realm="shekzeer", rating=1779, won=40, lost=37, faction="ALLIANCE", mr=1806, dr=0, dk=0 },
+		{ rank=2818, name="Juggiejr", realm="mirage-raceway", rating=1779, won=91, lost=112, faction="ALLIANCE", mr=1787, dr=0, dk=0 },
+		{ rank=2818, name="Lìnâ", realm="mirage-raceway", rating=1779, won=70, lost=141, faction="ALLIANCE", dr=0, dk=0 },
+		{ rank=2818, name="Manalow", realm="mirage-raceway", rating=1779, won=64, lost=66, faction="ALLIANCE", dr=0, dk=0 },
+		{ rank=2818, name="Nocurex", realm="everlook", rating=1779, won=53, lost=31, faction="ALLIANCE", dr=0, dk=0 },
+		{ rank=2818, name="Rngmonsterx", realm="shekzeer", rating=1779, won=55, lost=47, faction="ALLIANCE", dr=0, dk=0 },
+		{ rank=2818, name="Xarelh", realm="garalon", rating=1779, won=56, lost=72, faction="HORDE", mr=1793, dr=0, dk=0 },
+		{ rank=2827, name="Fluumoz", realm="shekzeer", rating=1778, won=30, lost=10, faction="ALLIANCE", dr=0, dk=0 },
+		{ rank=2827, name="Khaliope", realm="everlook", rating=1778, won=88, lost=97, faction="HORDE", mr=1809, dr=-3, dk=25 },
+		{ rank=2827, name="Qraven", realm="shekzeer", rating=1778, won=48, lost=48, faction="ALLIANCE", dr=0, dk=0 },
+		{ rank=2827, name="Superpunch", realm="shekzeer", rating=1778, won=99, lost=110, faction="ALLIANCE", dr=0, dk=0 },
+		{ rank=2827, name="Ябо", realm="flamegor", rating=1778, won=56, lost=68, faction="HORDE", dr=0, dk=0 },
 		{ rank=2832, name="Anastangel", realm="everlook", rating=1777, won=104, lost=108, faction="ALLIANCE", mr=1785, dr=0, dk=1 },
 		{ rank=2832, name="Krrel", realm="garalon", rating=1777, won=179, lost=237, faction="HORDE", mr=1833, dr=0, dk=1 },
 		{ rank=2832, name="Turbobär", realm="everlook", rating=1777, won=33, lost=25, faction="ALLIANCE", dr=0, dk=1 },

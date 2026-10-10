@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9463 characters, read 2026-10-10 01:58 AM.
+-- Region tbc-us, 9463 characters, read 2026-10-10 02:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11182,7 +11182,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["dampening-nightslayer"]=24,
 	["danapink-nightslayer"]=2,
 	["dancerxo-nightslayer"]=5,
-	["dancheek-nightslayer"]=6,
+	["dancheek-nightslayer"]=4,
 	["dandaleyro-nightslayer"]=15,
 	["dandydylan-nightslayer"]=2,
 	["danerduder-dreamscythe"]=24,
@@ -12131,7 +12131,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ferolp-nightslayer"]=1,
 	["ferolpe-nightslayer"]=1,
 	["ferrøus-nightslayer"]=7,
-	["fervor-nightslayer"]=2,
+	["fervor-nightslayer"]=18,
 	["festersmash-nightslayer"]=2,
 	["fettystabbin-dreamscythe"]=8,
 	["fevrier-nightslayer"]=21,
@@ -15617,7 +15617,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["plasticsurgn-nightslayer"]=9,
 	["plastictoo-dreamscythe"]=5,
 	["platedsaint-nightslayer"]=9,
-	["platelets-nightslayer"]=18,
+	["platelets-nightslayer"]=2,
 	["platinumamex-nightslayer"]=7,
 	["playgrounds-nightslayer"]=18,
 	["playhardx-nightslayer"]=2,
@@ -18433,7 +18433,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["wordtomydead-nightslayer"]=13,
 	["woreen-dreamscythe"]=18,
 	["worgytaps-nightslayer"]=0,
-	["workcomp-nightslayer"]=6,
+	["workcomp-nightslayer"]=4,
 	["workinggrill-dreamscythe"]=1,
 	["worldchamp-nightslayer"]=18,
 	["worldléss-nightslayer"]=7,

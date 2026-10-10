@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5180 characters, read 2026-10-10 01:59 AM.
+-- Region us, 5180 characters, read 2026-10-10 02:54 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5439,7 +5439,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["blacksiide-pagle"]=4,
 	["blackspades-pagle"]=26,
 	["blackspwn-raden"]=29,
-	["bladvalery-nazgrim"]=32,
+	["bladvalery-nazgrim"]=16,
 	["blaggie-galakras"]=16,
 	["blaine-raden"]=1,
 	["blakemøre-raden"]=0,
@@ -5946,7 +5946,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dankendwarf-pagle"]=22,
 	["dankenelf-pagle"]=5,
 	["dankenshroom-lei-shen"]=12,
-	["dankenstein-lei-shen"]=19,
+	["dankenstein-lei-shen"]=22,
 	["dankorbs-pagle"]=4,
 	["dankshots-lei-shen"]=3,
 	["danuhai-pagle"]=19,
@@ -6365,7 +6365,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["erass-nazgrim"]=16,
 	["eredark-raden"]=22,
 	["ereshion-pagle"]=0,
-	["erieshotz-pagle"]=18,
+	["erieshotz-pagle"]=20,
 	["erik-nazgrim"]=7,
 	["erikane-nazgrim"]=4,
 	["erikhai-nazgrim"]=3,
@@ -8008,8 +8008,8 @@ ns.SPECS_BY_REGION["us"] = {
 	["mp-raden"]=9,
 	["mslusty-pagle"]=4,
 	["msr-galakras"]=3,
-	["mtj-atiesh"]=17,
-	["mufasaz-pagle"]=10,
+	["mtj-atiesh"]=5,
+	["mufasaz-pagle"]=4,
 	["muffìn-raden"]=7,
 	["mugroso-galakras"]=18,
 	["mukhuro-nazgrim"]=8,
@@ -9025,7 +9025,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["shocked-lei-shen"]=19,
 	["shockleone-pagle"]=15,
 	["shockoné-pagle"]=4,
-	["shocktopus-pagle"]=22,
+	["shocktopus-pagle"]=19,
 	["shøcktuah-raden"]=15,
 	["shòckwâve-galakras"]=22,
 	["shøckz-galakras"]=22,
