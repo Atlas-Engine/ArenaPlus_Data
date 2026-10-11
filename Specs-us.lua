@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5186 characters, read 2026-10-11 03:59 AM.
+-- Region us, 5186 characters, read 2026-10-11 04:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7264,7 +7264,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["jkae-pagle"]=21,
 	["jkaý-pagle"]=20,
 	["jkorbbot-pagle"]=4,
-	["jkorbbot-raden"]=27,
+	["jkorbbot-raden"]=4,
 	["jkrs-pagle"]=4,
 	["jnick-raden"]=12,
 	["jocah-raden"]=9,
@@ -7665,7 +7665,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["lockinfuhnga-galakras"]=24,
 	["lockinseason-pagle"]=28,
 	["lockitingary-galakras"]=18,
-	["lockslop-raden"]=28,
+	["lockslop-raden"]=24,
 	["locksmith-pagle"]=28,
 	["lokî-raden"]=19,
 	["lokopoko-pagle"]=12,
@@ -7698,7 +7698,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["lucasdepedra-raden"]=2,
 	["lucítà-raden"]=2,
 	["luhve-pagle"]=9,
-	["luigy-pagle"]=15,
+	["luigy-pagle"]=22,
 	["lukangaruko-pagle"]=7,
 	["lukehunts-nazgrim"]=3,
 	["lukesmash-raden"]=7,
@@ -9630,7 +9630,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["trancarua-nazgrim"]=26,
 	["trapaholic-raden"]=3,
 	["trapandcrit-pagle"]=3,
-	["trapbot-raden"]=20,
+	["trapbot-raden"]=3,
 	["trapfiendx-raden"]=3,
 	["traplauncher-pagle"]=3,
 	["trapreckly-raden"]=3,

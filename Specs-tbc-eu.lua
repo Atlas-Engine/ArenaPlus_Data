@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9826 characters, read 2026-10-11 03:59 AM.
+-- Region tbc-eu, 9826 characters, read 2026-10-11 04:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11847,7 +11847,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["doomnezeu-spineshatter"]=25,
 	["doomonly-spineshatter"]=13,
 	["døømslâyér-spineshatter"]=15,
-	["doomtraín-spineshatter"]=13,
+	["doomtraín-spineshatter"]=14,
 	["dooratheorc-spineshatter"]=25,
 	["doosh-spineshatter"]=6,
 	["dopad-spineshatter"]=12,
@@ -12075,7 +12075,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["eclìpso-spineshatter"]=3,
 	["ecrøf-spineshatter"]=24,
 	["ecthoor-spineshatter"]=2,
-	["ecthorr-spineshatter"]=2,
+	["ecthorr-spineshatter"]=17,
 	["edaros-spineshatter"]=9,
 	["edaukin-spineshatter"]=5,
 	["eddeded-spineshatter"]=3,
@@ -13218,7 +13218,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["hippo-spineshatter"]=11,
 	["hirä-spineshatter"]=11,
 	["hirö-spineshatter"]=17,
-	["hironex-spineshatter"]=13,
+	["hironex-spineshatter"]=18,
 	["hitalot-thunderstrike"]=4,
 	["hittinghard-spineshatter"]=3,
 	["hjärtatförst-spineshatter"]=25,
@@ -13762,7 +13762,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["jkshaman-spineshatter"]=11,
 	["jmaylol-spineshatter"]=25,
 	["jnkz-spineshatter"]=9,
-	["jnxd-spineshatter"]=9,
+	["jnxd-spineshatter"]=4,
 	["jnxxp-spineshatter"]=7,
 	["jñz-spineshatter"]=3,
 	["jobana-spineshatter"]=3,
@@ -13998,7 +13998,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["kedaros-spineshatter"]=11,
 	["keembli-spineshatter"]=1,
 	["keepdistance-spineshatter"]=9,
-	["keevus-spineshatter"]=1,
+	["keevus-spineshatter"]=20,
 	["keiana-spineshatter"]=9,
 	["keirgoz-spineshatter"]=5,
 	["keitlyn-spineshatter"]=5,
@@ -15024,7 +15024,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["merpheus-spineshatter"]=15,
 	["mertzgodx-spineshatter"]=2,
 	["messalinna-spineshatter"]=3,
-	["mestarihippi-spineshatter"]=5,
+	["mestarihippi-spineshatter"]=15,
 	["metabolíc-spineshatter"]=1,
 	["metahslayer-spineshatter"]=7,
 	["metaland-spineshatter"]=12,
