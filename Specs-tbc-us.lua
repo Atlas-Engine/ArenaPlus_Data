@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9455 characters, read 2026-10-11 07:58 AM.
+-- Region tbc-us, 9455 characters, read 2026-10-11 08:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10497,7 +10497,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bullcheet-nightslayer"]=7,
 	["bulldawgx-nightslayer"]=24,
 	["bullder-nightslayer"]=10,
-	["bumbacleet-dreamscythe"]=15,
+	["bumbacleet-dreamscythe"]=17,
 	["bumbhead-nightslayer"]=14,
 	["bumpanomics-nightslayer"]=18,
 	["bumpzz-nightslayer"]=5,
@@ -10732,7 +10732,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["cherbz-dreamscythe"]=1,
 	["cheryxx-nightslayer"]=4,
 	["cheshirez-nightslayer"]=0,
-	["chestday-nightslayer"]=10,
+	["chestday-nightslayer"]=19,
 	["chewtoy-nightslayer"]=10,
 	["chewtoÿ-nightslayer"]=10,
 	["chibotta-nightslayer"]=10,
@@ -10865,7 +10865,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["cliped-nightslayer"]=2,
 	["clipy-nightslayer"]=5,
 	["cloakzie-dreamscythe"]=5,
-	["clochan-nightslayer"]=13,
+	["clochan-nightslayer"]=16,
 	["clochen-nightslayer"]=24,
 	["clonely-nightslayer"]=3,
 	["clonx-nightslayer"]=19,
@@ -12586,7 +12586,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["gogarty-dreamscythe"]=4,
 	["gogglezx-nightslayer"]=7,
 	["gogooma-nightslayer"]=4,
-	["gogooti-dreamscythe"]=14,
+	["gogooti-dreamscythe"]=1,
 	["gogru-dreamscythe"]=4,
 	["gojowins-nightslayer"]=5,
 	["goldameir-dreamscythe"]=1,
@@ -14134,7 +14134,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["lluminati-nightslayer"]=25,
 	["lmaoidiot-nightslayer"]=13,
 	["lmnc-nightslayer"]=1,
-	["lmnllam-nightslayer"]=15,
+	["lmnllam-nightslayer"]=21,
 	["ln-nightslayer"]=0,
 	["lnln-nightslayer"]=1,
 	["loccoshock-nightslayer"]=19,
@@ -14323,7 +14323,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["magnilol-nightslayer"]=1,
 	["maheloo-nightslayer"]=19,
 	["mahmymilkers-dreamscythe"]=2,
-	["mainbeam-nightslayer"]=22,
+	["mainbeam-nightslayer"]=7,
 	["mainim-nightslayer"]=1,
 	["mainlygay-nightslayer"]=4,
 	["mainstreeam-dreamscythe"]=19,
@@ -17670,7 +17670,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["tns-nightslayer"]=1,
 	["tnyni-nightslayer"]=11,
 	["toad-nightslayer"]=8,
-	["toadfoot-nightslayer"]=8,
+	["toadfoot-nightslayer"]=5,
 	["toadqt-dreamscythe"]=15,
 	["toastm-nightslayer"]=6,
 	["toastp-nightslayer"]=14,
