@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5331 characters, read 2026-10-11 04:00 PM.
+-- Region eu, 5331 characters, read 2026-10-11 05:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1827,7 +1827,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["infectiøns-auberdine"]=11,
 	["infergrimm-everlook"]=30,
 	["info-shekzeer"]=21,
-	["injurieux-shekzeer"]=10,
+	["injurieux-shekzeer"]=11,
 	["innà-auberdine"]=11,
 	["innâ-auberdine"]=11,
 	["Ìnna-auberdine"]=41,
@@ -9077,7 +9077,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["srtwhippa-everlook"]=3,
 	["sryimboosted-shekzeer"]=3,
 	["ßangaranga-shekzeer"]=12,
-	["ßär-shekzeer"]=11,
+	["ßär-shekzeer"]=3,
 	["ßazy-shekzeer"]=6,
 	["ßázy-shekzeer"]=4,
 	["ßázý-shekzeer"]=9,
@@ -9330,7 +9330,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["thurza-shekzeer"]=2,
 	["thuugom-shekzeer"]=8,
 	["thylé-norushen"]=13,
-	["thyraza-norushen"]=3,
+	["thyraza-norushen"]=21,
 	["thys-gehennas"]=0,
 	["tidez-shekzeer"]=15,
 	["tien-shekzeer"]=1,
@@ -9489,7 +9489,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["tyreell-norushen"]=23,
 	["tyreen-everlook"]=5,
 	["tyrellqq-norushen"]=9,
-	["tyyba-norushen"]=28,
+	["tyyba-norushen"]=17,
 	["tzeeni-shekzeer"]=0,
 	["Übergeleert-everlook"]=20,
 	["ubik-shekzeer"]=6,

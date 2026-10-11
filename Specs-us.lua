@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5186 characters, read 2026-10-11 03:59 PM.
+-- Region us, 5186 characters, read 2026-10-11 04:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5445,7 +5445,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["blacksiide-pagle"]=4,
 	["blackspades-pagle"]=26,
 	["blackspwn-raden"]=29,
-	["bladvalery-nazgrim"]=16,
+	["bladvalery-nazgrim"]=32,
 	["blaggie-galakras"]=16,
 	["blaine-raden"]=1,
 	["blakemøre-raden"]=0,
@@ -5753,7 +5753,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["chingadera-pagle"]=3,
 	["chinkchi-raden"]=4,
 	["chinotonic-pagle"]=4,
-	["chiokeme-arugal-au"]=4,
+	["chiokeme-arugal-au"]=10,
 	["chitheline-raden"]=2,
 	["choé-pagle"]=11,
 	["chonkars-raden"]=0,
@@ -6921,7 +6921,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["hellshott-galakras"]=3,
 	["hellskreem-galakras"]=22,
 	["helphelppls-pagle"]=1,
-	["helvyra-pagle"]=21,
+	["helvyra-pagle"]=9,
 	["helynnis-pagle"]=3,
 	["henneko-raden"]=7,
 	["henriettexo-raden"]=5,
@@ -7936,7 +7936,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["missatrinni-pagle"]=0,
 	["missmama-galakras"]=5,
 	["missrollings-pagle"]=10,
-	["misstotem-pagle"]=15,
+	["misstotem-pagle"]=19,
 	["missyu-immerseus"]=23,
 	["mistafistuh-pagle"]=4,
 	["mistnme-pagle"]=0,
@@ -8395,7 +8395,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["papibrews-pagle"]=4,
 	["papiburn-pagle"]=11,
 	["papidot-pagle"]=28,
-	["papifear-pagle"]=9,
+	["papifear-pagle"]=21,
 	["papipunch-pagle"]=10,
 	["papishot-pagle"]=3,
 	["papismash-pagle"]=7,
@@ -8598,7 +8598,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["qwes-raden"]=3,
 	["qwop-raden"]=0,
 	["qzw-galakras"]=4,
-	["raasclaat-pagle"]=12,
+	["raasclaat-pagle"]=5,
 	["rabager-grobbulus"]=19,
 	["rabblerouse-pagle"]=34,
 	["rabidwolf-pagle"]=19,
@@ -10067,7 +10067,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["youngvërcesx-raden"]=27,
 	["youngx-pagle"]=4,
 	["youppl-pagle"]=7,
-	["yourendisher-pagle"]=1,
+	["yourendisher-pagle"]=11,
 	["youz-pagle"]=15,
 	["yrd-pagle"]=9,
 	["yrrlol-pagle"]=5,
