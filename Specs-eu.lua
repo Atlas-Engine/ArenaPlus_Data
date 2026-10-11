@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5333 characters, read 2026-10-11 05:00 AM.
+-- Region eu, 5333 characters, read 2026-10-11 06:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5216,7 +5216,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["afrai-norushen"]=34,
 	["afrodiñ-shekzeer"]=5,
 	["afterchi-shekzeer"]=7,
-	["afûkûshîmâ-ook-ook"]=8,
+	["afûkûshîmâ-ook-ook"]=33,
 	["afzurnikov-mirage-raceway"]=6,
 	["agamemnon-garalon"]=1,
 	["aggaa-shekzeer"]=21,
@@ -6617,7 +6617,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["galadrial-ook-ook"]=22,
 	["galaxyrise-shekzeer"]=0,
 	["galazme-mirage-raceway"]=29,
-	["galthrom-norushen"]=8,
+	["galthrom-norushen"]=33,
 	["gameisgamex-norushen"]=2,
 	["gamingchair-shekzeer"]=10,
 	["gàndàlf-auberdine"]=22,
@@ -6806,7 +6806,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["havnis-garalon"]=3,
 	["hawken-shekzeer"]=4,
 	["hawktuahgirl-shekzeer"]=0,
-	["hayatø-everlook"]=8,
+	["hayatø-everlook"]=33,
 	["hayiuna-everlook"]=19,
 	["haywoods-shekzeer"]=4,
 	["hazewrld-shekzeer"]=10,
@@ -7534,7 +7534,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["liplinerxoxo-garalon"]=23,
 	["lipmode-norushen"]=14,
 	["lippy-norushen"]=2,
-	["liquidity-shekzeer"]=8,
+	["liquidity-shekzeer"]=33,
 	["liriel-shekzeer"]=6,
 	["lirielww-shekzeer"]=7,
 	["listerine-shekzeer"]=4,
@@ -8618,7 +8618,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["retxgodx-shekzeer"]=5,
 	["rével-garalon"]=5,
 	["rëven-shekzeer"]=21,
-	["revenânt-shekzeer"]=8,
+	["revenânt-shekzeer"]=33,
 	["revenwtf-auberdine"]=34,
 	["rexababyxoxo-shekzeer"]=21,
 	["rexas-shekzeer"]=12,
@@ -10094,7 +10094,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Бигал-flamegor"]=13,
 	["Биггдэди-flamegor"]=8,
 	["Бигл-flamegor"]=19,
-	["Биткантригем-flamegor"]=8,
+	["Биткантригем-flamegor"]=31,
 	["Бладых-flamegor"]=22,
 	["Близзняшка-flamegor"]=32,
 	["Близнец-flamegor"]=24,
