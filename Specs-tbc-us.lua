@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9457 characters, read 2026-10-10 10:58 PM.
+-- Region tbc-us, 9457 characters, read 2026-10-10 11:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10595,7 +10595,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["camthejedi-nightslayer"]=13,
 	["camthepally-nightslayer"]=9,
 	["camwise-nightslayer"]=7,
-	["camx-nightslayer"]=16,
+	["camx-nightslayer"]=13,
 	["cancersaurus-nightslayer"]=13,
 	["candlewick-dreamscythe"]=13,
 	["canjam-dreamscythe"]=10,
@@ -11720,7 +11720,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["dushpanda-nightslayer"]=10,
 	["duskybrah-dreamscythe"]=18,
 	["dustbanned-nightslayer"]=13,
-	["dustedx-nightslayer"]=8,
+	["dustedx-nightslayer"]=5,
 	["dustfriggenw-nightslayer"]=13,
 	["dusti-nightslayer"]=25,
 	["dutonga-nightslayer"]=20,
@@ -12098,7 +12098,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["fecklyy-dreamscythe"]=13,
 	["feeblemind-nightslayer"]=5,
 	["feesherr-nightslayer"]=14,
-	["feldargon-nightslayer"]=16,
+	["feldargon-nightslayer"]=13,
 	["feldozer-dreamscythe"]=15,
 	["feleaf-nightslayer"]=2,
 	["fellgor-nightslayer"]=2,
@@ -14641,7 +14641,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["minimartha-nightslayer"]=1,
 	["minískirt-nightslayer"]=7,
 	["minitelanna-nightslayer"]=2,
-	["minixboy-nightslayer"]=21,
+	["minixboy-nightslayer"]=17,
 	["minmi-nightslayer"]=21,
 	["mintchocoice-nightslayer"]=5,
 	["minutz-nightslayer"]=1,
@@ -15957,7 +15957,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ratbag-nightslayer"]=5,
 	["ratcrap-dreamscythe"]=7,
 	["ratcuh-nightslayer"]=11,
-	["rateggs-nightslayer"]=15,
+	["rateggs-nightslayer"]=17,
 	["ratfunts-nightslayer"]=4,
 	["ratidea-nightslayer"]=17,
 	["ratks-nightslayer"]=25,
@@ -16807,7 +16807,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["sisenor-nightslayer"]=5,
 	["sisisonson-nightslayer"]=13,
 	["sisyphoss-nightslayer"]=5,
-	["sitdownsir-dreamscythe"]=12,
+	["sitdownsir-dreamscythe"]=1,
 	["sithious-nightslayer"]=5,
 	["siusi-nightslayer"]=2,
 	["sivyis-nightslayer"]=10,
@@ -17703,7 +17703,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["tommi-nightslayer"]=23,
 	["tommý-dreamscythe"]=10,
 	["tommycartel-nightslayer"]=22,
-	["tommyd-nightslayer"]=19,
+	["tommyd-nightslayer"]=10,
 	["tommytaunt-nightslayer"]=2,
 	["tommytopdam-nightslayer"]=2,
 	["tommytopgun-nightslayer"]=1,
@@ -18213,7 +18213,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["waltism-nightslayer"]=7,
 	["wangchungus-dreamscythe"]=1,
 	["wanghafagain-nightslayer"]=5,
-	["wanghafxd-nightslayer"]=5,
+	["wanghafxd-nightslayer"]=8,
 	["wanglaoji-dreamscythe"]=4,
 	["wanjunoheal-nightslayer"]=10,
 	["wantedclass-nightslayer"]=19,
