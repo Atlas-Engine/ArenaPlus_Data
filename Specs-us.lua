@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5185 characters, read 2026-10-11 10:49 AM.
+-- Region us, 5186 characters, read 2026-10-11 11:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1511,7 +1511,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["finja-lei-shen"]=41,
 	["finkledinkle-pagle"]=100,
 	["finnese-pagle"]=11,
-	["firecano-raden"]=11,
+	["firecano-raden"]=10,
 	["fireflamelol-pagle"]=41,
 	["firegangsrt-raden"]=11,
 	["fisherpete-arugal-au"]=10,
@@ -1524,6 +1524,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["fkq-raden"]=11,
 	["flag-pagle"]=50,
 	["flamertko-raden"]=80,
+	["flammiee-pagle"]=100,
 	["flapperoni-pagle"]=250,
 	["flaridd-pagle"]=40,
 	["flashoflight-raden"]=10,
@@ -5201,7 +5202,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["arthasqt-raden"]=16,
 	["arthuritis-immerseus"]=23,
 	["arthy-pagle"]=0,
-	["artlight-nazgrim"]=2,
+	["artlight-nazgrim"]=16,
 	["arumág-pagle"]=16,
 	["asapsap-lei-shen"]=14,
 	["asbull-immerseus"]=12,
@@ -6510,7 +6511,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["fíngerplay-galakras"]=15,
 	["fingerplay-raden"]=16,
 	["fingerrfkr-nazgrim"]=5,
-	["fingølfin-pagle"]=14,
+	["fingølfin-pagle"]=29,
 	["finja-lei-shen"]=34,
 	["finkledinkle-pagle"]=16,
 	["finnese-pagle"]=1,
@@ -6529,6 +6530,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["flag-pagle"]=24,
 	["flameheart-raden"]=0,
 	["flamertko-raden"]=28,
+	["flammiee-pagle"]=10,
 	["flapperoni-pagle"]=19,
 	["flaridd-pagle"]=3,
 	["flashoflight-raden"]=16,
@@ -6552,7 +6554,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["flowpal-pagle"]=2,
 	["flubbynubs-raden"]=26,
 	["flyingnite-pagle"]=16,
-	["flynn-nazgrim"]=4,
+	["flynn-nazgrim"]=10,
 	["fngrplay-galakras"]=5,
 	["fogoflife-pagle"]=13,
 	["foldedsocks-raden"]=2,
@@ -8095,7 +8097,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["nattywarrior-raden"]=7,
 	["natuhhlee-nazgrim"]=13,
 	["naturalqt-pagle"]=2,
-	["navij-pagle"]=10,
+	["navij-pagle"]=4,
 	["navio-pagle"]=2,
 	["nâx-pagle"]=11,
 	["nâxxrâmâs-arugal-au"]=23,
