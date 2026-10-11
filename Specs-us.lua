@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5177 characters, read 2026-10-10 08:59 PM.
+-- Region us, 5177 characters, read 2026-10-10 09:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3930,7 +3930,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["sïegfrïed-lei-shen"]=100,
 	["siffera-pagle"]=101,
 	["sifudragon-galakras"]=50,
-	["siiuu-grobbulus"]=10,
+	["siiuu-grobbulus"]=11,
 	["silaeriel-raden"]=11,
 	["silhas-galakras"]=101,
 	["sillent-pagle"]=50,
@@ -5205,7 +5205,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["asthenoz-pagle"]=6,
 	["astraea-arugal-au"]=9,
 	["astrea-raden"]=7,
-	["astríds-pagle"]=18,
+	["astríds-pagle"]=3,
 	["astyus-pagle"]=7,
 	["asunari-pagle"]=3,
 	["asunyobi-pagle"]=10,
@@ -6389,7 +6389,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["eucerin-raden"]=6,
 	["eustaquio-raden"]=7,
 	["evasif-arugal-au"]=3,
-	["everannaqt-pagle"]=6,
+	["everannaqt-pagle"]=25,
 	["everelle-pagle"]=0,
 	["everlast-raden"]=24,
 	["evil-immerseus"]=21,
@@ -6484,7 +6484,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["fentamonk-pagle"]=10,
 	["feraldruidd-arugal-au"]=5,
 	["feråltyger-pagle"]=0,
-	["fernandes-nazgrim"]=16,
+	["fernandes-nazgrim"]=2,
 	["fernandita-galakras"]=21,
 	["fhiziod-raden"]=5,
 	["fhiziom-raden"]=4,
@@ -8353,7 +8353,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["paesmage-nazgrim"]=1,
 	["paeszera-nazgrim"]=7,
 	["pagbstabbin-galakras"]=34,
-	["pagledznuts-pagle"]=24,
+	["pagledznuts-pagle"]=28,
 	["pahlava-immerseus"]=21,
 	["painbarrier-lei-shen"]=9,
 	["painnkillerr-galakras"]=0,
@@ -9602,7 +9602,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["touchmywañd-nazgrim"]=1,
 	["touchofdiddy-raden"]=4,
 	["toughstuff-raden"]=7,
-	["tøxic-nazgrim"]=14,
+	["tøxic-nazgrim"]=29,
 	["tóxica-pagle"]=34,
 	["toxiciguana-pagle"]=29,
 	["toxyc-galakras"]=21,

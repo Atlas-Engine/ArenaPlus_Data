@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9472 characters, read 2026-10-10 08:58 PM.
+-- Region tbc-us, 9472 characters, read 2026-10-10 09:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11402,7 +11402,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["diffbro-nightslayer"]=13,
 	["digletthumb-nightslayer"]=9,
 	["diguin-nightslayer"]=4,
-	["diigit-nightslayer"]=10,
+	["diigit-nightslayer"]=19,
 	["diinen-dreamscythe"]=13,
 	["diji-nightslayer"]=15,
 	["dikata-nightslayer"]=15,
@@ -11545,7 +11545,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["doobmaxtwo-nightslayer"]=5,
 	["doodiez-nightslayer"]=14,
 	["doodlec-nightslayer"]=15,
-	["doodlysquat-nightslayer"]=7,
+	["doodlysquat-nightslayer"]=22,
 	["doodwar-dreamscythe"]=20,
 	["dooges-nightslayer"]=3,
 	["doogsmon-nightslayer"]=19,
@@ -13264,7 +13264,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["influxx-dreamscythe"]=8,
 	["ingii-nightslayer"]=1,
 	["inhalers-nightslayer"]=10,
-	["injureginger-dreamscythe"]=1,
+	["injureginger-dreamscythe"]=12,
 	["inkymess-nightslayer"]=24,
 	["inlor-nightslayer"]=7,
 	["inmates-nightslayer"]=2,
@@ -13338,7 +13338,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ivalidozl-nightslayer"]=7,
 	["ivandemicow-dreamscythe"]=2,
 	["Ívarr-nightslayer"]=18,
-	["iwinyoufail-nightslayer"]=17,
+	["iwinyoufail-nightslayer"]=15,
 	["iwoncustodyx-nightslayer"]=9,
 	["ixix-nightslayer"]=2,
 	["ixixixix-nightslayer"]=13,
@@ -17074,7 +17074,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["söttjej-nightslayer"]=10,
 	["souldrainxo-nightslayer"]=16,
 	["soulfeast-nightslayer"]=13,
-	["souljin-nightslayer"]=24,
+	["souljin-nightslayer"]=10,
 	["soullessrat-dreamscythe"]=11,
 	["soullessrope-dreamscythe"]=7,
 	["soulshifta-dreamscythe"]=7,
@@ -17765,7 +17765,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["törperös-dreamscythe"]=18,
 	["torsito-nightslayer"]=12,
 	["törste-nightslayer"]=9,
-	["tortapwndr-nightslayer"]=21,
+	["tortapwndr-nightslayer"]=17,
 	["tortaslayr-nightslayer"]=2,
 	["tortasmashr-nightslayer"]=19,
 	["torturely-nightslayer"]=15,
