@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5185 characters, read 2026-10-11 01:59 AM.
+-- Region us, 5186 characters, read 2026-10-11 02:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -666,7 +666,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["bullchiasse-pagle"]=100,
 	["bulletdrop-raden"]=30,
 	["bullpig-galakras"]=60,
-	["bullshót-galakras"]=60,
 	["bumscrub-galakras"]=100,
 	["buoys-pagle"]=11,
 	["burei-lei-shen"]=31,
@@ -4683,6 +4682,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["wakarg-galakras"]=20,
 	["walfor-pagle"]=220,
 	["wantedhunter-galakras"]=20,
+	["waped-pagle"]=10,
 	["warcounsel-pagle"]=100,
 	["warkov-raden"]=11,
 	["warlockens-pagle"]=20,
@@ -5628,7 +5628,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["bullchiasse-pagle"]=16,
 	["bulletdrop-raden"]=3,
 	["bullpig-galakras"]=22,
-	["bullshót-galakras"]=18,
 	["bumscrub-galakras"]=32,
 	["buoys-pagle"]=1,
 	["burei-lei-shen"]=9,
@@ -7892,7 +7891,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["miataz-raden"]=6,
 	["miawci-galakras"]=5,
 	["michaaeell-pagle"]=6,
-	["míchaeldk-pagle"]=25,
+	["míchaeldk-pagle"]=26,
 	["mictlan-raden"]=1,
 	["miercy-galakras"]=16,
 	["mightymagus-raden"]=1,
@@ -8140,7 +8139,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["nethros-raden"]=1,
 	["nethrx-raden"]=13,
 	["neurology-raden"]=17,
-	["neverbashx-pagle"]=12,
+	["neverbashx-pagle"]=5,
 	["neverbckdown-nazgrim"]=10,
 	["neverblinkx-pagle"]=1,
 	["nevergiveupx-raden"]=22,
@@ -8471,6 +8470,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["plaguesqt-raden"]=28,
 	["plañetfonexi-pagle"]=13,
 	["playerdktkdl-pagle"]=7,
+	["playerppzlxy-galakras"]=0,
 	["playzia-raden"]=14,
 	["playziyam-raden"]=1,
 	["pleuro-immerseus"]=20,
@@ -9630,8 +9630,8 @@ ns.SPECS_BY_REGION["us"] = {
 	["trancarua-nazgrim"]=26,
 	["trapaholic-raden"]=3,
 	["trapandcrit-pagle"]=3,
-	["trapbot-raden"]=3,
-	["trapfiendx-raden"]=20,
+	["trapbot-raden"]=20,
+	["trapfiendx-raden"]=3,
 	["traplauncher-pagle"]=3,
 	["trapreckly-raden"]=3,
 	["träps-pagle"]=3,
@@ -9861,6 +9861,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["wakarg-galakras"]=22,
 	["walfor-pagle"]=17,
 	["wantedhunter-galakras"]=3,
+	["waped-pagle"]=3,
 	["warcounsel-pagle"]=34,
 	["warkov-raden"]=7,
 	["warlockens-pagle"]=24,
