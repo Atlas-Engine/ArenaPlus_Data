@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5333 characters, read 2026-10-10 08:00 PM.
+-- Region eu, 5333 characters, read 2026-10-10 09:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -243,7 +243,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["anoxirus-auberdine"]=11,
 	["anoxist-everlook"]=50,
 	["anthunter-mirage-raceway"]=10,
-	["antimelee-shekzeer"]=10,
 	["antitapclass-everlook"]=11,
 	["antitektonik-auberdine"]=11,
 	["ants-shekzeer"]=41,
@@ -5340,7 +5339,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["antharya-shekzeer"]=0,
 	["anthazy-shekzeer"]=0,
 	["anthunter-mirage-raceway"]=20,
-	["antimelee-shekzeer"]=15,
+	["antimelee-shekzeer"]=0,
 	["antitapclass-everlook"]=8,
 	["antitektonik-auberdine"]=17,
 	["ants-shekzeer"]=11,
@@ -8013,7 +8012,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["nehlwtf-auberdine"]=15,
 	["nejiihyuga-shekzeer"]=7,
 	["nékro-garalon"]=23,
-	["nekrozochka-garalon"]=31,
+	["nekrozochka-garalon"]=8,
 	["nelaxysan-shekzeer"]=6,
 	["nelfÿ-shekzeer"]=3,
 	["nemanjadruid-mirage-raceway"]=21,
@@ -8431,7 +8430,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["prâitre-mirage-raceway"]=9,
 	["praystation-ook-ook"]=22,
 	["premanchan-everlook"]=26,
-	["prénium-auberdine"]=21,
+	["prénium-auberdine"]=3,
 	["préservateaf-auberdine"]=2,
 	["prezik-shekzeer"]=4,
 	["prîestotp-shekzeer"]=9,

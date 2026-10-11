@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5177 characters, read 2026-10-10 07:59 PM.
+-- Region us, 5177 characters, read 2026-10-10 08:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5059,7 +5059,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["alakk-lei-shen"]=7,
 	["alanfury-raden"]=7,
 	["alanfuryx-raden"]=19,
-	["alarayia-raden"]=20,
+	["alarayia-raden"]=18,
 	["alassin-galakras"]=4,
 	["albomane-pagle"]=21,
 	["alchemistmed-galakras"]=12,
@@ -5070,7 +5070,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["alette-pagle"]=2,
 	["aléxandros-nazgrim"]=7,
 	["alexmateo-pagle"]=7,
-	["alexrrbb-raden"]=7,
+	["alexrrbb-raden"]=23,
 	["alextraxas-pagle"]=7,
 	["alezaar-raden"]=5,
 	["algreen-pagle"]=4,
@@ -5101,7 +5101,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["alystrixa-pagle"]=34,
 	["amaterasu-raden"]=28,
 	["amazingufo-pagle"]=31,
-	["amberance-pagle"]=17,
+	["amberance-pagle"]=5,
 	["ameldiel-pagle"]=20,
 	["amewz-pagle"]=7,
 	["amongoth-pagle"]=20,
