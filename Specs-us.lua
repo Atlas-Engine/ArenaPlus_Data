@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5177 characters, read 2026-10-11 06:59 AM.
+-- Region us, 5177 characters, read 2026-10-11 07:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4289,7 +4289,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["takù-raden"]=41,
 	["takyto-nazgrim"]=60,
 	["talksíck-pagle"]=11,
-	["tamerac-raden"]=11,
+	["tamerac-raden"]=10,
 	["tamhee-immerseus"]=101,
 	["tammyjane-pagle"]=11,
 	["tamnar-immerseus"]=101,
@@ -6830,7 +6830,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["habibi-arugal-au"]=1,
 	["hábibi-raden"]=17,
 	["hacks-pagle"]=16,
-	["hadeyss-lei-shen"]=29,
+	["hadeyss-lei-shen"]=34,
 	["hadíl-pagle"]=1,
 	["hadoukeen-raden"]=1,
 	["hadoukenwwtv-pagle"]=10,
@@ -7240,7 +7240,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["jetaa-raden"]=4,
 	["jetleelol-pagle"]=10,
 	["jetwing-pagle"]=20,
-	["jhussethy-raden"]=4,
+	["jhussethy-raden"]=10,
 	["jimin-raden"]=19,
 	["jimmyjunya-raden"]=3,
 	["jimmyklo-nazgrim"]=11,

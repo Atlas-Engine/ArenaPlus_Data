@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5326 characters, read 2026-10-11 07:00 AM.
+-- Region eu, 5326 characters, read 2026-10-11 08:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1634,6 +1634,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["hasunimi-hoptallus"]=100,
 	["haudruff-mirage-raceway"]=10,
 	["haugnat-everlook"]=10,
+	["hauq-shekzeer"]=11,
 	["havana-ook-ook"]=21,
 	["havecluelol-shekzeer"]=41,
 	["havnis-garalon"]=41,
@@ -4255,7 +4256,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["vanthief-shekzeer"]=11,
 	["varaxx-mirage-raceway"]=80,
 	["varkin-mirage-raceway"]=20,
-	["varkong-mirage-raceway"]=70,
+	["varkong-mirage-raceway"]=71,
 	["varoline-shekzeer"]=11,
 	["vasägerudå-shekzeer"]=11,
 	["vashi-norushen"]=80,
@@ -6789,7 +6790,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["hasunimi-hoptallus"]=8,
 	["haudruff-mirage-raceway"]=1,
 	["haugnat-everlook"]=5,
-	["hauq-shekzeer"]=0,
+	["hauq-shekzeer"]=6,
 	["havana-ook-ook"]=1,
 	["havecluelol-shekzeer"]=20,
 	["havitýx-mirage-raceway"]=0,
@@ -7553,7 +7554,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["loradenn-shekzeer"]=5,
 	["lorcmanaudou-auberdine"]=16,
 	["lorelis-everlook"]=0,
-	["lorinser-shekzeer"]=25,
+	["lorinser-shekzeer"]=1,
 	["lorjana-shekzeer"]=10,
 	["lorry-shekzeer"]=1,
 	["loseandicba-ook-ook"]=20,
@@ -8840,7 +8841,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["shadoff-shekzeer"]=12,
 	["shadotix-everlook"]=23,
 	["shaðøw-auberdine"]=12,
-	["shadowbøømzt-auberdine"]=12,
+	["shadowbøømzt-auberdine"]=9,
 	["shadoweed-shekzeer"]=12,
 	["shadowgap-shekzeer"]=24,
 	["shadowlife-shekzeer"]=9,
