@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9833 characters, read 2026-10-11 08:59 AM.
+-- Region tbc-eu, 9833 characters, read 2026-10-11 09:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -13037,7 +13037,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["hachßerry-spineshatter"]=9,
 	["hachßerrý-spineshatter"]=13,
 	["hadhes-spineshatter"]=2,
-	["hadj-spineshatter"]=18,
+	["hadj-spineshatter"]=14,
 	["hadjx-spineshatter"]=24,
 	["hadkilz-thunderstrike"]=13,
 	["hadoukenww-spineshatter"]=3,
@@ -14936,7 +14936,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["maxheals-spineshatter"]=2,
 	["maximagain-spineshatter"]=9,
 	["maximgayge-spineshatter"]=9,
-	["maximgg-spineshatter"]=19,
+	["maximgg-spineshatter"]=3,
 	["maxj-spineshatter"]=3,
 	["maxmakker-spineshatter"]=2,
 	["maxóu-thunderstrike"]=3,
@@ -17233,7 +17233,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["shadeshifter-spineshatter"]=1,
 	["shadeunc-spineshatter"]=9,
 	["shadixx-spineshatter"]=9,
-	["shadjinn-thunderstrike"]=8,
+	["shadjinn-thunderstrike"]=2,
 	["shadowchel-spineshatter"]=8,
 	["shadowdanz-spineshatter"]=13,
 	["shadowfox-spineshatter"]=8,
@@ -17732,7 +17732,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["spacexd-spineshatter"]=23,
 	["spaghettø-spineshatter"]=3,
 	["spanskter-thunderstrike"]=22,
-	["sparkols-spineshatter"]=23,
+	["sparkols-spineshatter"]=11,
 	["sparkwire-spineshatter"]=11,
 	["sparkxs-spineshatter"]=2,
 	["sparkygonzo-spineshatter"]=9,
@@ -18685,7 +18685,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["urlove-spineshatter"]=5,
 	["urruz-spineshatter"]=23,
 	["Ùseless-spineshatter"]=12,
-	["uselessbro-spineshatter"]=25,
+	["uselessbro-spineshatter"]=24,
 	["uslessbropal-spineshatter"]=7,
 	["utamar-spineshatter"]=25,
 	["utneey-spineshatter"]=5,
@@ -18869,14 +18869,14 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["visender-spineshatter"]=9,
 	["vishez-spineshatter"]=2,
 	["vishyate-spineshatter"]=1,
-	["vitalyazloy-spineshatter"]=20,
+	["vitalyazloy-spineshatter"]=1,
 	["vitax-spineshatter"]=0,
 	["vittumainen-thunderstrike"]=18,
 	["vitziozosx-spineshatter"]=9,
 	["vivalamexica-spineshatter"]=13,
 	["vivalavulva-thunderstrike"]=7,
 	["vîvio-spineshatter"]=24,
-	["vixuz-spineshatter"]=25,
+	["vixuz-spineshatter"]=24,
 	["vizux-spineshatter"]=10,
 	["vladich-spineshatter"]=11,
 	["vlper-spineshatter"]=3,
