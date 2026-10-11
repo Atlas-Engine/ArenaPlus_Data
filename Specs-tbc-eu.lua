@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9826 characters, read 2026-10-11 02:59 AM.
+-- Region tbc-eu, 9826 characters, read 2026-10-11 03:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10491,7 +10491,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["benqt-spineshatter"]=14,
 	["bentheballer-thunderstrike"]=5,
 	["bentiqx-spineshatter"]=9,
-	["benwade-spineshatter"]=19,
+	["benwade-spineshatter"]=3,
 	["benzemaa-thunderstrike"]=23,
 	["benzer-spineshatter"]=5,
 	["bép-spineshatter"]=2,
@@ -12671,7 +12671,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["freevekin-spineshatter"]=5,
 	["freezbix-thunderstrike"]=12,
 	["freezeblast-spineshatter"]=9,
-	["freezër-spineshatter"]=4,
+	["freezër-spineshatter"]=9,
 	["freezers-spineshatter"]=6,
 	["freezko-spineshatter"]=6,
 	["freezmo-spineshatter"]=9,
@@ -16147,7 +16147,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["peterparkers-spineshatter"]=9,
 	["petgap-spineshatter"]=25,
 	["petite-spineshatter"]=6,
-	["petrialtf-spineshatter"]=1,
+	["petrialtf-spineshatter"]=6,
 	["petushara-spineshatter"]=10,
 	["peukkupäivä-spineshatter"]=1,
 	["peven-spineshatter"]=4,
@@ -19230,7 +19230,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["xroaar-spineshatter"]=12,
 	["xrted-spineshatter"]=17,
 	["xtier-spineshatter"]=23,
-	["xuckee-thunderstrike"]=2,
+	["xuckee-thunderstrike"]=17,
 	["xucker-thunderstrike"]=1,
 	["xuckíe-thunderstrike"]=9,
 	["xuna-spineshatter"]=11,

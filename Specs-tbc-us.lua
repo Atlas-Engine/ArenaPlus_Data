@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9454 characters, read 2026-10-11 02:58 AM.
+-- Region tbc-us, 9454 characters, read 2026-10-11 03:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7619,7 +7619,6 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["sourpatchx-nightslayer"]=41,
 	["sourxi-nightslayer"]=80,
 	["soviety-nightslayer"]=10,
-	["sowaggy-nightslayer"]=41,
 	["soyah-nightslayer"]=111,
 	["soyamilk-nightslayer"]=11,
 	["soyoung-nightslayer"]=11,
@@ -14134,7 +14133,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["llamallamaa-dreamscythe"]=21,
 	["lls-nightslayer"]=4,
 	["lluminati-nightslayer"]=25,
-	["lmaoidiot-nightslayer"]=16,
+	["lmaoidiot-nightslayer"]=13,
 	["lmnc-nightslayer"]=1,
 	["lmnllam-nightslayer"]=15,
 	["ln-nightslayer"]=0,
@@ -14175,7 +14174,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["longfive-nightslayer"]=1,
 	["longgege-nightslayer"]=10,
 	["longstalker-nightslayer"]=1,
-	["looks-nightslayer"]=5,
+	["looks-nightslayer"]=8,
 	["looksmaxxing-nightslayer"]=18,
 	["loonii-nightslayer"]=10,
 	["loopbloom-nightslayer"]=7,
@@ -16538,7 +16537,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["shabbaranks-nightslayer"]=15,
 	["shabbus-nightslayer"]=2,
 	["shabzmd-nightslayer"]=1,
-	["shackwell-nightslayer"]=6,
+	["shackwell-nightslayer"]=4,
 	["shacra-dreamscythe"]=1,
 	["shád-dreamscythe"]=18,
 	["shadarobb-nightslayer"]=11,
@@ -17055,7 +17054,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["sourpatchx-nightslayer"]=7,
 	["sourxi-nightslayer"]=1,
 	["soviety-nightslayer"]=1,
-	["sowaggy-nightslayer"]=3,
+	["sowaggy-nightslayer"]=0,
 	["soyah-nightslayer"]=24,
 	["soyamilk-nightslayer"]=4,
 	["soyoung-nightslayer"]=4,
@@ -17331,7 +17330,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["sunshîne-nightslayer"]=9,
 	["sunstrez-nightslayer"]=10,
 	["suntaru-nightslayer"]=18,
-	["suonamra-dreamscythe"]=2,
+	["suonamra-dreamscythe"]=18,
 	["suowar-nightslayer"]=2,
 	["superdush-dreamscythe"]=9,
 	["superrcharge-nightslayer"]=1,

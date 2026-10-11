@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5186 characters, read 2026-10-11 02:59 AM.
+-- Region us, 5186 characters, read 2026-10-11 03:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6302,7 +6302,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ebaylol-raden"]=1,
 	["ebolalola-galakras"]=1,
 	["ebolarama-galakras"]=2,
-	["ecafkcufhi-raden"]=4,
+	["ecafkcufhi-raden"]=10,
 	["echodotx-raden"]=9,
 	["ecmoo-pagle"]=4,
 	["ecstasyshock-pagle"]=22,
@@ -7595,7 +7595,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["lifely-raden"]=10,
 	["lifesavérs-pagle"]=9,
 	["lighi-raden"]=3,
-	["lightenforge-pagle"]=2,
+	["lightenforge-pagle"]=16,
 	["lightglare-pagle"]=7,
 	["lighthvalor-lei-shen"]=16,
 	["lightoftrump-pagle"]=2,
@@ -7869,10 +7869,10 @@ ns.SPECS_BY_REGION["us"] = {
 	["merkon-lei-shen"]=7,
 	["merryraga-pagle"]=9,
 	["mesosilence-pagle"]=29,
-	["messey-lei-shen"]=28,
+	["messey-lei-shen"]=24,
 	["messigoat-nazgrim"]=10,
 	["mesv-pagle"]=1,
-	["mesyles-pagle"]=1,
+	["mesyles-pagle"]=11,
 	["metaclassin-raden"]=5,
 	["metanøia-raden"]=11,
 	["metaslavery-raden"]=8,
@@ -9564,7 +9564,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["thùgx-pagle"]=22,
 	["thûgx-pagle"]=12,
 	["thugxx-pagle"]=15,
-	["thundasack-galakras"]=28,
+	["thundasack-galakras"]=24,
 	["thunderchum-nazgrim"]=22,
 	["thunders-raden"]=2,
 	["thuugom-pagle"]=25,
