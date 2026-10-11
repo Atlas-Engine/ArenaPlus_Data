@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9451 characters, read 2026-10-11 02:58 PM.
+-- Region tbc-us, 9451 characters, read 2026-10-11 03:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9734,7 +9734,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["astralgummi-nightslayer"]=7,
 	["astridp-nightslayer"]=9,
 	["astrophyzics-nightslayer"]=2,
-	["astroxz-nightslayer"]=4,
+	["astroxz-nightslayer"]=6,
 	["asup-nightslayer"]=1,
 	["asxce-nightslayer"]=5,
 	["atares-dreamscythe"]=18,
@@ -10089,7 +10089,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bigdosi-nightslayer"]=8,
 	["bigdruzy-nightslayer"]=7,
 	["bigfacesb-nightslayer"]=5,
-	["bigfatheals-dreamscythe"]=1,
+	["bigfatheals-dreamscythe"]=14,
 	["bigfknowl-nightslayer"]=22,
 	["bigflex-nightslayer"]=19,
 	["bigfudgy-dreamscythe"]=1,
@@ -12178,7 +12178,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["fixsìon-nightslayer"]=1,
 	["fiyoolowers-nightslayer"]=6,
 	["fkjx-nightslayer"]=5,
-	["fkmfkmfkm-nightslayer"]=24,
+	["fkmfkmfkm-nightslayer"]=10,
 	["fknelson-nightslayer"]=5,
 	["flaako-nightslayer"]=7,
 	["flabbergast-nightslayer"]=1,
