@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5186 characters, read 2026-10-11 11:59 AM.
+-- Region us, 5186 characters, read 2026-10-11 12:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6270,7 +6270,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dumbpoptart-benediction"]=7,
 	["dumdum-nazgrim"]=18,
 	["dúmß-raden"]=7,
-	["dunardel-raden"]=30,
+	["dunardel-raden"]=7,
 	["dunkindotnut-raden"]=0,
 	["dunkyb-raden"]=1,
 	["dunsun-galakras"]=10,
@@ -6328,7 +6328,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["elchjager-pagle"]=20,
 	["elcubano-raden"]=5,
 	["electabuzz-raden"]=3,
-	["electrikal-lei-shen"]=19,
+	["electrikal-lei-shen"]=15,
 	["electroxx-galakras"]=27,
 	["elementoos-lei-shen"]=19,
 	["eletricshock-pagle"]=7,
@@ -6430,7 +6430,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ezybakeoven-benediction"]=1,
 	["fadingstars-pagle"]=17,
 	["faex-arugal-au"]=1,
-	["faexypriest-arugal-au"]=9,
+	["faexypriest-arugal-au"]=21,
 	["faiderh-nazgrim"]=20,
 	["faiders-raden"]=3,
 	["failaxz-raden"]=3,
@@ -8072,7 +8072,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["nairtas-nazgrim"]=3,
 	["nalx-raden"]=5,
 	["naniaids-lei-shen"]=28,
-	["nanikilla-lei-shen"]=4,
+	["nanikilla-lei-shen"]=10,
 	["nanismasha-lei-shen"]=15,
 	["nanistab-lei-shen"]=14,
 	["nanixita-raden"]=24,
