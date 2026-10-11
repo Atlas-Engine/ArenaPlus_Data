@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5332 characters, read 2026-10-11 01:00 PM.
+-- Region eu, 5332 characters, read 2026-10-11 02:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1349,8 +1349,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["figment-garalon"]=81,
 	["fiksiuss-mirage-raceway"]=11,
 	["fillez-shekzeer"]=11,
-	["filmar-shekzeer"]=11,
-	["filmarisa-shekzeer"]=11,
 	["filthyfresh-shekzeer"]=11,
 	["finbekluz-shekzeer"]=11,
 	["finq-mirage-raceway"]=80,
@@ -5440,7 +5438,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["atropa-shekzeer"]=0,
 	["attis-norushen"]=14,
 	["augsburg-shekzeer"]=6,
-	["aultrasalt-shekzeer"]=23,
+	["aultrasalt-shekzeer"]=17,
 	["auredian-mirage-raceway"]=5,
 	["aureliavid-auberdine"]=3,
 	["auryen-mirage-raceway"]=4,
@@ -6503,8 +6501,8 @@ ns.SPECS_BY_REGION["eu"] = {
 	["figment-garalon"]=3,
 	["fiksiuss-mirage-raceway"]=15,
 	["fillez-shekzeer"]=12,
-	["filmar-shekzeer"]=20,
-	["filmarisa-shekzeer"]=26,
+	["filmar-shekzeer"]=0,
+	["filmarisa-shekzeer"]=0,
 	["filthyfresh-shekzeer"]=12,
 	["finbekluz-shekzeer"]=2,
 	["finq-mirage-raceway"]=17,
@@ -6564,7 +6562,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["foxlôlly-everlook"]=6,
 	["foxlollyx-ook-ook"]=19,
 	["fractalshow-shekzeer"]=11,
-	["frakastou-auberdine"]=1,
+	["frakastou-auberdine"]=25,
 	["freaked-shekzeer"]=4,
 	["freakirl-shekzeer"]=1,
 	["freakírl-shekzeer"]=2,
@@ -9092,7 +9090,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["ßøßép-shekzeer"]=1,
 	["ßrother-shekzeer"]=2,
 	["ßuckfiddy-shekzeer"]=16,
-	["ssydney-shekzeer"]=26,
+	["ssydney-shekzeer"]=24,
 	["ßzv-everlook"]=1,
 	["st-shekzeer"]=7,
 	["stabstein-shekzeer"]=24,
