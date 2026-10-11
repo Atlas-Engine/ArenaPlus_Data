@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9827 characters, read 2026-10-10 09:59 PM.
+-- Region tbc-eu, 9827 characters, read 2026-10-10 10:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -13206,7 +13206,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["hifisch-spineshatter"]=1,
 	["highfisch-spineshatter"]=13,
 	["highontea-spineshatter"]=9,
-	["hihieksde-spineshatter"]=4,
+	["hihieksde-spineshatter"]=9,
 	["hiillostaja-spineshatter"]=17,
 	["hikaro-spineshatter"]=5,
 	["hilgork-spineshatter"]=15,
@@ -13320,7 +13320,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["humbline-spineshatter"]=15,
 	["humbuck-thunderstrike"]=9,
 	["hummis-spineshatter"]=5,
-	["huntergot-thunderstrike"]=25,
+	["huntergot-thunderstrike"]=24,
 	["hunterhans-spineshatter"]=25,
 	["huntinator-spineshatter"]=24,
 	["huntriox-spineshatter"]=25,
@@ -18665,7 +18665,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["untamed-spineshatter"]=3,
 	["unyielded-spineshatter"]=2,
 	["Üpsilon-spineshatter"]=11,
-	["uranaji-spineshatter"]=17,
+	["uranaji-spineshatter"]=2,
 	["uratadreaq-spineshatter"]=0,
 	["urkainochka-spineshatter"]=17,
 	["urkelo-thunderstrike"]=1,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5326 characters, read 2026-10-10 10:00 PM.
+-- Region eu, 5326 characters, read 2026-10-10 11:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3206,7 +3206,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["purrwyn-shekzeer"]=41,
 	["pvpovulation-shekzeer"]=11,
 	["pvq-shekzeer"]=11,
-	["pwnbot-shekzeer"]=11,
 	["pyökkis-shekzeer"]=11,
 	["pyrognite-shekzeer"]=251,
 	["pyrohits-shekzeer"]=11,
@@ -8457,7 +8456,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["purrwyn-shekzeer"]=3,
 	["pvpovulation-shekzeer"]=24,
 	["pvq-shekzeer"]=4,
-	["pwnbot-shekzeer"]=24,
+	["pwnbot-shekzeer"]=0,
 	["pyökkis-shekzeer"]=4,
 	["pyrognite-shekzeer"]=10,
 	["pyrohits-shekzeer"]=10,
@@ -9679,7 +9678,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["warsonger-auberdine"]=1,
 	["warßam-auberdine"]=1,
 	["wartinkin-norushen"]=8,
-	["wasabî-auberdine"]=13,
+	["wasabî-auberdine"]=16,
 	["wasapwasap-shekzeer"]=4,
 	["wassimar-mirage-raceway"]=17,
 	["wasterzhi-hoptallus"]=15,
@@ -9955,7 +9954,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["zeohant-garalon"]=4,
 	["zeoi-shekzeer"]=6,
 	["zephqt-everlook"]=22,
-	["zephxd-everlook"]=22,
+	["zephxd-everlook"]=9,
 	["zephyo-everlook"]=19,
 	["zephyrillia-shekzeer"]=6,
 	["zepp-mirage-raceway"]=21,
