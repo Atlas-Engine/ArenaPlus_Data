@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5332 characters, read 2026-10-11 02:00 PM.
+-- Region eu, 5332 characters, read 2026-10-11 03:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1821,7 +1821,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["indié-everlook"]=11,
 	["indîe-everlook"]=11,
 	["ineedtopoo-shekzeer"]=10,
-	["ineo-shekzeer"]=11,
+	["ineo-shekzeer"]=10,
 	["inertemplier-shekzeer"]=10,
 	["infection-shekzeer"]=10,
 	["infectiøns-auberdine"]=11,
@@ -5347,7 +5347,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["anyataylor-shekzeer"]=3,
 	["anyemushi-shekzeer"]=9,
 	["Åøêkrótx-shekzeer"]=4,
-	["aokz-shekzeer"]=34,
+	["aokz-shekzeer"]=24,
 	["aomíne-shekzeer"]=8,
 	["aoxuss-shekzeer"]=1,
 	["apedoingdmgx-garalon"]=1,
@@ -9064,7 +9064,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["sportser-shekzeer"]=3,
 	["sporty-shekzeer"]=1,
 	["springfluter-everlook"]=16,
-	["sqörtelsen-shekzeer"]=20,
+	["sqörtelsen-shekzeer"]=4,
 	["squeezyx-shekzeer"]=5,
 	["squêêzýx-shekzeer"]=6,
 	["squêêzýxx-shekzeer"]=9,
