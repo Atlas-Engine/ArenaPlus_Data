@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5333 characters, read 2026-10-12 08:00 AM.
+-- Region eu, 5333 characters, read 2026-10-12 09:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3997,6 +3997,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["tejbzl-everlook"]=41,
 	["telander-everlook"]=30,
 	["telestis-everlook"]=70,
+	["telkolol-shekzeer"]=10,
 	["templeknight-shekzeer"]=10,
 	["tendo-garalon"]=21,
 	["tenebri-everlook"]=11,
@@ -4343,7 +4344,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["voireg-shekzeer"]=10,
 	["voldreth-everlook"]=100,
 	["voldrex-everlook"]=20,
-	["voljix-shekzeer"]=21,
+	["voljix-shekzeer"]=20,
 	["voljiz-shekzeer"]=21,
 	["volkris-shekzeer"]=10,
 	["volkrz-shekzeer"]=30,
@@ -6850,7 +6851,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["hellnight-auberdine"]=31,
 	["helløkitty-garalon"]=4,
 	["helmetboy-shekzeer"]=1,
-	["hemsk-shekzeer"]=7,
+	["hemsk-shekzeer"]=6,
 	["hemyz-shekzeer"]=7,
 	["henrich-shekzeer"]=9,
 	["hentaimama-shekzeer"]=11,
@@ -7275,7 +7276,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["kennyk-garalon"]=18,
 	["kennyk-shekzeer"]=1,
 	["kennykk-garalon"]=18,
-	["kennyykofot-garalon"]=34,
+	["kennyykofot-garalon"]=24,
 	["kenoh-shekzeer"]=18,
 	["kenrize-shekzeer"]=2,
 	["kenthalyriøs-auberdine"]=8,
@@ -7919,7 +7920,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["mud-garalon"]=1,
 	["muddywaters-shekzeer"]=2,
 	["muga-hoptallus"]=1,
-	["mugiwára-shekzeer"]=24,
+	["mugiwára-shekzeer"]=26,
 	["mugmug-hoptallus"]=5,
 	["muguruza-shekzeer"]=11,
 	["mugwumpy-shekzeer"]=21,
@@ -9284,7 +9285,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["tejbzl-everlook"]=11,
 	["telander-everlook"]=1,
 	["telestis-everlook"]=23,
-	["telkolol-shekzeer"]=0,
+	["telkolol-shekzeer"]=1,
 	["templeknight-shekzeer"]=1,
 	["tendo-garalon"]=29,
 	["tenebri-everlook"]=24,
@@ -9454,7 +9455,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["trustmebro-shekzeer"]=1,
 	["truthspeaker-shekzeer"]=6,
 	["tryinglock-shekzeer"]=17,
-	["trytorun-shekzeer"]=20,
+	["trytorun-shekzeer"]=4,
 	["tsima-shekzeer"]=3,
 	["tslx-shekzeer"]=16,
 	["tsouvirak-garalon"]=1,
@@ -9497,7 +9498,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["tyreell-norushen"]=23,
 	["tyreen-everlook"]=5,
 	["tyrellqq-norushen"]=9,
-	["tyyba-norushen"]=17,
+	["tyyba-norushen"]=28,
 	["tzeeni-shekzeer"]=0,
 	["Übergeleert-everlook"]=20,
 	["ubik-shekzeer"]=6,
