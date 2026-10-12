@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9449 characters, read 2026-10-12 02:58 AM.
+-- Region tbc-us, 9449 characters, read 2026-10-12 03:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9603,7 +9603,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["animalsong-nightslayer"]=15,
 	["animocity-nightslayer"]=7,
 	["animz-nightslayer"]=7,
-	["anirox-nightslayer"]=8,
+	["anirox-nightslayer"]=5,
 	["anitadrink-nightslayer"]=1,
 	["anjeer-nightslayer"]=5,
 	["anjurus-nightslayer"]=4,
@@ -10232,7 +10232,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["blöömer-nightslayer"]=7,
 	["bloomlife-nightslayer"]=7,
 	["bloomr-dreamscythe"]=7,
-	["bloomwyn-nightslayer"]=22,
+	["bloomwyn-nightslayer"]=7,
 	["blootfoo-nightslayer"]=1,
 	["blootlock-nightslayer"]=13,
 	["blootstar-nightslayer"]=5,
@@ -11082,7 +11082,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["cunningd-nightslayer"]=4,
 	["cursednutz-nightslayer"]=13,
 	["cursefingers-nightslayer"]=0,
-	["cursiver-nightslayer"]=14,
+	["cursiver-nightslayer"]=1,
 	["cutae-nightslayer"]=13,
 	["cutay-nightslayer"]=24,
 	["cutdown-nightslayer"]=5,
@@ -11855,7 +11855,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["enhancechad-nightslayer"]=19,
 	["enhancedmale-nightslayer"]=19,
 	["enilotipac-nightslayer"]=19,
-	["enivici-nightslayer"]=9,
+	["enivici-nightslayer"]=11,
 	["enohese-dreamscythe"]=2,
 	["enreizx-dreamscythe"]=6,
 	["enric-nightslayer"]=18,
@@ -16617,7 +16617,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["shëësh-dreamscythe"]=4,
 	["shêêsh-nightslayer"]=5,
 	["shëësh-nightslayer"]=4,
-	["shegone-dreamscythe"]=8,
+	["shegone-dreamscythe"]=5,
 	["sheisty-nightslayer"]=5,
 	["shelkp-nightslayer"]=14,
 	["sheltzo-nightslayer"]=13,
@@ -18240,7 +18240,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["wealthymanx-nightslayer"]=4,
 	["webygg-dreamscythe"]=3,
 	["wedgeantiles-dreamscythe"]=4,
-	["wedges-nightslayer"]=5,
+	["wedges-nightslayer"]=8,
 	["wedgesham-nightslayer"]=19,
 	["wedgies-nightslayer"]=16,
 	["wedgiez-nightslayer"]=22,
@@ -18771,7 +18771,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["zoinksx-nightslayer"]=9,
 	["zoltun-nightslayer"]=1,
 	["zombies-dreamscythe"]=2,
-	["zombireckful-nightslayer"]=5,
+	["zombireckful-nightslayer"]=8,
 	["zomtini-nightslayer"]=5,
 	["zondos-nightslayer"]=2,
 	["zonixx-nightslayer"]=9,

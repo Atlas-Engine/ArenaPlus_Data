@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9817 characters, read 2026-10-12 02:59 AM.
+-- Region tbc-eu, 9817 characters, read 2026-10-12 03:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9795,7 +9795,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["acomas-spineshatter"]=9,
 	["acrazu-spineshatter"]=3,
 	["acrít-spineshatter"]=5,
-	["acrix-thunderstrike"]=15,
+	["acrix-thunderstrike"]=5,
 	["actnjcksn-thunderstrike"]=2,
 	["Àdama-spineshatter"]=1,
 	["adamyo-spineshatter"]=11,
@@ -12347,7 +12347,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["eyupp-spineshatter"]=3,
 	["ezaezaza-thunderstrike"]=2,
 	["ezeerf-spineshatter"]=2,
-	["ezekiell-thunderstrike"]=2,
+	["ezekiell-thunderstrike"]=17,
 	["eztiltz-spineshatter"]=9,
 	["ezyone-spineshatter"]=2,
 	["ezz-spineshatter"]=11,
@@ -19361,7 +19361,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["zall-spineshatter"]=17,
 	["zaloth-spineshatter"]=7,
 	["zamarotti-spineshatter"]=13,
-	["zamoria-thunderstrike"]=2,
+	["zamoria-thunderstrike"]=17,
 	["zanders-spineshatter"]=19,
 	["zanix-thunderstrike"]=2,
 	["zanven-spineshatter"]=3,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5332 characters, read 2026-10-12 03:00 AM.
+-- Region eu, 5331 characters, read 2026-10-12 04:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2865,6 +2865,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["nîx-mirage-raceway"]=41,
 	["nixlol-shekzeer"]=31,
 	["nixtreffich-everlook"]=41,
+	["nizze-shekzeer"]=41,
 	["nktz-garalon"]=50,
 	["nme-hoptallus"]=51,
 	["nnpriest-shekzeer"]=11,
@@ -6465,7 +6466,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["fartvape-shekzeer"]=7,
 	["fastaim-shekzeer"]=20,
 	["fastfast-shekzeer"]=9,
-	["fatimah-shekzeer"]=0,
 	["fatmartine-auberdine"]=18,
 	["fatorbz-shekzeer"]=6,
 	["fatty-shekzeer"]=17,
@@ -7950,7 +7950,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["mythix-garalon"]=24,
 	["mythrugu-shekzeer"]=4,
 	["mythrugun-garalon"]=4,
-	["mythrugun-shekzeer"]=20,
+	["mythrugun-shekzeer"]=4,
 	["mywayz-mirage-raceway"]=2,
 	["mztx-shekzeer"]=20,
 	["nabek-shekzeer"]=13,
@@ -8047,7 +8047,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["nexz-everlook"]=0,
 	["neylifive-shekzeer"]=4,
 	["neyrowly-everlook"]=5,
-	["neyvíl-everlook"]=26,
+	["neyvíl-everlook"]=24,
 	["nezuka-mirage-raceway"]=21,
 	["ngmi-shekzeer"]=23,
 	["ngprofessor-shekzeer"]=4,
@@ -8096,7 +8096,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["nîx-mirage-raceway"]=3,
 	["nixlol-shekzeer"]=4,
 	["nixtreffich-everlook"]=3,
-	["nizze-shekzeer"]=0,
+	["nizze-shekzeer"]=3,
 	["nktz-garalon"]=2,
 	["nme-hoptallus"]=2,
 	["nnpriest-shekzeer"]=12,
