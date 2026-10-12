@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5176 characters, read 2026-10-12 06:59 AM.
+-- Region us, 5176 characters, read 2026-10-12 07:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6374,7 +6374,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["escanorzx-pagle"]=16,
 	["escarch-pagle"]=6,
 	["escazaro-raden"]=7,
-	["escudero-pagle"]=23,
+	["escudero-pagle"]=30,
 	["eshiesty-galakras"]=16,
 	["esmër-raden"]=16,
 	["esmerald-lei-shen"]=12,
@@ -6585,7 +6585,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["fróst-raden"]=1,
 	["frøstðrägøñ-raden"]=1,
 	["frostengine-raden"]=25,
-	["frostfury-raden"]=1,
+	["frostfury-raden"]=11,
 	["frosthalyss-raden"]=25,
 	["frostítude-pagle"]=1,
 	["frostituttee-galakras"]=1,
@@ -7133,7 +7133,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["infurryator-raden"]=12,
 	["initis-raden"]=7,
 	["injury-pagle"]=7,
-	["inkárri-arugal-au"]=4,
+	["inkárri-arugal-au"]=10,
 	["inmortalwar-raden"]=7,
 	["innoofirgize-raden"]=5,
 	["inorie-raden"]=4,
@@ -9509,7 +9509,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["thebagelcave-pagle"]=15,
 	["thebigholy-pagle"]=16,
 	["thebigmack-pagle"]=0,
-	["thebouncer-pagle"]=29,
+	["thebouncer-pagle"]=34,
 	["thebteam-pagle"]=1,
 	["thedoctorftw-raden"]=4,
 	["thedudunoob-galakras"]=12,
