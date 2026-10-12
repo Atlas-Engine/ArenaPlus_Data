@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9474 characters, read 2026-10-12 04:58 PM.
+-- Region tbc-us, 9474 characters, read 2026-10-12 05:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10953,7 +10953,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["confusion-nightslayer"]=7,
 	["conjurewater-nightslayer"]=4,
 	["conos-nightslayer"]=3,
-	["conrad-nightslayer"]=13,
+	["conrad-nightslayer"]=16,
 	["conradical-nightslayer"]=23,
 	["conradmorgan-dreamscythe"]=24,
 	["consistent-nightslayer"]=5,
@@ -11952,7 +11952,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["eugoogalizor-nightslayer"]=18,
 	["euneekzsham-dreamscythe"]=10,
 	["eunwoo-nightslayer"]=1,
-	["european-nightslayer"]=6,
+	["european-nightslayer"]=4,
 	["eurostep-nightslayer"]=3,
 	["eurostepx-nightslayer"]=5,
 	["evasionx-nightslayer"]=5,
@@ -15030,7 +15030,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["neytïrï-dreamscythe"]=22,
 	["nezhra-dreamscythe"]=2,
 	["nezn-nightslayer"]=6,
-	["nezrul-dreamscythe"]=10,
+	["nezrul-dreamscythe"]=19,
 	["nezyra-dreamscythe"]=1,
 	["nezzy-nightslayer"]=24,
 	["nfmarksman-nightslayer"]=15,
@@ -16165,7 +16165,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["righteousx-nightslayer"]=13,
 	["righteousxd-nightslayer"]=12,
 	["rightknut-nightslayer"]=12,
-	["rigothamus-nightslayer"]=19,
+	["rigothamus-nightslayer"]=10,
 	["rikiki-dreamscythe"]=10,
 	["riotpunch-nightslayer"]=13,
 	["ripkenful-nightslayer"]=5,
