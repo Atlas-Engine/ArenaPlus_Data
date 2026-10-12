@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9436 characters, read 2026-10-11 10:58 PM.
+-- Region tbc-us, 9436 characters, read 2026-10-11 11:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10997,7 +10997,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["crayjay-nightslayer"]=8,
 	["crazychicks-nightslayer"]=10,
 	["crazychip-nightslayer"]=18,
-	["crazyprocs-nightslayer"]=19,
+	["crazyprocs-nightslayer"]=24,
 	["crazythunder-nightslayer"]=19,
 	["crcrcrcrcrcr-nightslayer"]=12,
 	["cream-nightslayer"]=4,
@@ -11318,7 +11318,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["deucepolo-dreamscythe"]=11,
 	["deulbo-nightslayer"]=2,
 	["deuzbag-nightslayer"]=5,
-	["devilqtx-dreamscythe"]=18,
+	["devilqtx-dreamscythe"]=2,
 	["devloq-dreamscythe"]=13,
 	["devø-nightslayer"]=3,
 	["devstvenizza-nightslayer"]=1,
@@ -12699,7 +12699,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["gunnagitcha-nightslayer"]=24,
 	["gunnyd-nightslayer"]=7,
 	["gunnym-nightslayer"]=4,
-	["gunzbangbang-nightslayer"]=21,
+	["gunzbangbang-nightslayer"]=15,
 	["gurdock-nightslayer"]=3,
 	["gurgrom-nightslayer"]=3,
 	["gurthyrat-nightslayer"]=2,
@@ -13839,7 +13839,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["kroun-nightslayer"]=5,
 	["krovsky-dreamscythe"]=4,
 	["kroyweezy-nightslayer"]=4,
-	["krsmatic-nightslayer"]=23,
+	["krsmatic-nightslayer"]=13,
 	["krsmaticx-nightslayer"]=24,
 	["krump-nightslayer"]=25,
 	["kruni-nightslayer"]=2,
@@ -13873,7 +13873,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["kwakami-dreamscythe"]=4,
 	["kwoppie-dreamscythe"]=7,
 	["kwor-dreamscythe"]=9,
-	["kworp-dreamscythe"]=14,
+	["kworp-dreamscythe"]=1,
 	["kwr-dreamscythe"]=4,
 	["ky-nightslayer"]=5,
 	["kyer-nightslayer"]=5,
@@ -14098,7 +14098,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["lizardwar-nightslayer"]=2,
 	["lj-nightslayer"]=2,
 	["lladael-dreamscythe"]=0,
-	["llamallamaa-dreamscythe"]=21,
+	["llamallamaa-dreamscythe"]=15,
 	["lls-nightslayer"]=4,
 	["lluminati-nightslayer"]=25,
 	["lmaoidiot-nightslayer"]=13,
