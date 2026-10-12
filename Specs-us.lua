@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5176 characters, read 2026-10-12 05:59 AM.
+-- Region us, 5176 characters, read 2026-10-12 06:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6959,7 +6959,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["holyfluxq-pagle"]=9,
 	["holygym-nazgrim"]=13,
 	["holymar-pagle"]=6,
-	["holymoly-raden"]=9,
+	["holymoly-raden"]=21,
 	["holypoop-pagle"]=9,
 	["hølys-raden"]=2,
 	["holysaber-pagle"]=29,
@@ -7352,7 +7352,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["kaskudo-nazgrim"]=23,
 	["kasmein-pagle"]=18,
 	["katacaine-pagle"]=18,
-	["katárn-nazgrim"]=12,
+	["katárn-nazgrim"]=17,
 	["katemako-immerseus"]=28,
 	["katharsh-pagle"]=9,
 	["kâto-pagle"]=16,
@@ -7475,7 +7475,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["kroun-raden"]=14,
 	["krpriest-nazgrim"]=13,
 	["ksoldier-pagle"]=16,
-	["kthall-pagle"]=30,
+	["kthall-pagle"]=23,
 	["ktm-lei-shen"]=5,
 	["ktzz-pagle"]=0,
 	["kungfugrip-arugal-au"]=10,
@@ -7882,7 +7882,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["miercy-galakras"]=16,
 	["mightymagus-raden"]=1,
 	["migué-pagle"]=16,
-	["mihal-nazgrim"]=11,
+	["mihal-nazgrim"]=1,
 	["mihalock-nazgrim"]=28,
 	["miichael-pagle"]=2,
 	["miintpwnagex-nazgrim"]=18,
@@ -8518,7 +8518,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["prettyset-pagle"]=1,
 	["price-raden"]=28,
 	["pridice-raden"]=9,
-	["priesthoods-pagle"]=9,
+	["priesthoods-pagle"]=21,
 	["priestiq-galakras"]=21,
 	["priincess-raden"]=6,
 	["primalfear-pagle"]=7,
@@ -9673,7 +9673,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["turbantime-pagle"]=4,
 	["turbomóist-pagle"]=15,
 	["turbopwn-pagle"]=6,
-	["turbotrax-pagle"]=22,
+	["turbotrax-pagle"]=15,
 	["turdburg-pagle"]=11,
 	["tuskkeg-pagle"]=4,
 	["tutoneshot-pagle"]=5,
