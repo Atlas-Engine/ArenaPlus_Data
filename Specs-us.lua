@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5177 characters, read 2026-10-11 06:59 PM.
+-- Region us, 5177 characters, read 2026-10-11 07:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5105,7 +5105,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["amberance-pagle"]=5,
 	["ameldiel-pagle"]=20,
 	["amewz-pagle"]=7,
-	["amöra-galakras"]=13,
+	["amöra-galakras"]=21,
 	["amorieth-lei-shen"]=13,
 	["amshelot-pagle"]=2,
 	["amused-lei-shen"]=4,
@@ -8057,7 +8057,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["nairtas-nazgrim"]=3,
 	["nalx-raden"]=5,
 	["naniaids-lei-shen"]=28,
-	["nanikilla-lei-shen"]=10,
+	["nanikilla-lei-shen"]=4,
 	["nanismasha-lei-shen"]=15,
 	["nanistab-lei-shen"]=14,
 	["nanixita-raden"]=24,
@@ -9147,7 +9147,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["smallrass-pagle"]=7,
 	["smalltrain-pagle"]=15,
 	["smartpastry-pagle"]=14,
-	["smashdeez-nazgrim"]=7,
+	["smashdeez-nazgrim"]=30,
 	["smaxor-raden"]=7,
 	["sminchin-pagle"]=14,
 	["smokerweedch-pagle"]=24,
@@ -9674,7 +9674,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["turbantime-pagle"]=4,
 	["turbomóist-pagle"]=15,
 	["turbopwn-pagle"]=6,
-	["turbotrax-pagle"]=15,
+	["turbotrax-pagle"]=22,
 	["turdburg-pagle"]=11,
 	["tuskkeg-pagle"]=4,
 	["tutoneshot-pagle"]=5,

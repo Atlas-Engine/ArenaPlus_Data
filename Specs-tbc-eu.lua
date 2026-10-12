@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9803 characters, read 2026-10-11 06:59 PM.
+-- Region tbc-eu, 9803 characters, read 2026-10-11 07:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10013,7 +10013,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["annoncelight-spineshatter"]=7,
 	["anntón-spineshatter"]=3,
 	["anomanderiz-spineshatter"]=6,
-	["anoréxica-spineshatter"]=9,
+	["anoréxica-spineshatter"]=4,
 	["anotherheal-spineshatter"]=10,
 	["anothertry-spineshatter"]=0,
 	["anoukix-thunderstrike"]=23,
@@ -12086,7 +12086,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["ekmy-spineshatter"]=11,
 	["ekollonet-thunderstrike"]=12,
 	["eksellent-spineshatter"]=9,
-	["ektomorfos-spineshatter"]=24,
+	["ektomorfos-spineshatter"]=16,
 	["ekvil-spineshatter"]=3,
 	["elaðriel-spineshatter"]=5,
 	["elainesandra-spineshatter"]=1,
@@ -12382,7 +12382,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["faregodx-spineshatter"]=19,
 	["farfoosh-spineshatter"]=5,
 	["farkygoat-spineshatter"]=4,
-	["farsaroga-spineshatter"]=19,
+	["farsaroga-spineshatter"]=3,
 	["fartzi-spineshatter"]=15,
 	["fatammor-spineshatter"]=13,
 	["fatflop-spineshatter"]=11,
@@ -12995,7 +12995,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["hachßerrý-spineshatter"]=13,
 	["hadhes-spineshatter"]=2,
 	["hadj-spineshatter"]=14,
-	["hadjx-spineshatter"]=24,
+	["hadjx-spineshatter"]=25,
 	["hadkilz-thunderstrike"]=13,
 	["hadoukenww-spineshatter"]=3,
 	["hadushka-spineshatter"]=3,
@@ -13832,7 +13832,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["jwmn-spineshatter"]=14,
 	["jwsh-spineshatter"]=9,
 	["jx-spineshatter"]=3,
-	["jxnte-spineshatter"]=25,
+	["jxnte-spineshatter"]=24,
 	["jxs-spineshatter"]=25,
 	["jzzlol-spineshatter"]=11,
 	["kaaliana-thunderstrike"]=2,
