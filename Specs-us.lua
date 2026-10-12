@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5181 characters, read 2026-10-12 12:59 AM.
+-- Region us, 5181 characters, read 2026-10-12 01:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2338,7 +2338,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["kazamon-pagle"]=20,
 	["keeferjar-pagle"]=11,
 	["keekster-pagle"]=11,
-	["keepithood-pagle"]=11,
+	["keepithood-pagle"]=10,
 	["kegsmashed-raden"]=11,
 	["kekmeister-raden"]=41,
 	["kelaía-pagle"]=11,
@@ -7443,12 +7443,12 @@ ns.SPECS_BY_REGION["us"] = {
 	["klausjr-pagle"]=8,
 	["kledemarcos-nazgrim"]=15,
 	["klenzen-raden"]=10,
-	["klept-raden"]=4,
+	["klept-raden"]=10,
 	["kleptix-raden"]=34,
 	["knottypawz-pagle"]=17,
-	["knuckles-pagle"]=23,
+	["knuckles-pagle"]=7,
 	["knucklès-pagle"]=2,
-	["knucklës-pagle"]=28,
+	["knucklës-pagle"]=8,
 	["knûckles-pagle"]=5,
 	["kñuckles-pagle"]=26,
 	["knuklefkr-nazgrim"]=24,
@@ -8155,7 +8155,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["nik-galakras"]=0,
 	["niklauss-bloodsail-buccaneers"]=14,
 	["niköl-pagle"]=7,
-	["nikotina-galakras"]=29,
+	["nikotina-galakras"]=14,
 	["nili-pagle"]=28,
 	["nilio-raden"]=1,
 	["nìlla-pagle"]=1,
@@ -8195,7 +8195,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["nopants-raden"]=1,
 	["norespect-pagle"]=7,
 	["norskugle-raden"]=17,
-	["northlane-raden"]=17,
+	["northlane-raden"]=5,
 	["northstar-pagle"]=4,
 	["noskillewt-raden"]=6,
 	["nosthedeer-raden"]=2,
@@ -9514,7 +9514,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["theægnt-raden"]=4,
 	["theanswer-pagle"]=0,
 	["thebadjuan-pagle"]=7,
-	["thebagelcave-pagle"]=22,
+	["thebagelcave-pagle"]=15,
 	["thebigholy-pagle"]=16,
 	["thebigmack-pagle"]=0,
 	["thebouncer-pagle"]=29,
