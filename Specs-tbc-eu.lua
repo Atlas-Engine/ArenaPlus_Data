@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9819 characters, read 2026-10-11 11:59 PM.
+-- Region tbc-eu, 9819 characters, read 2026-10-12 12:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11065,7 +11065,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["chestöpen-spineshatter"]=9,
 	["chevbalboa-spineshatter"]=6,
 	["chevchelioos-spineshatter"]=19,
-	["chévchélîøøs-spineshatter"]=3,
+	["chévchélîøøs-spineshatter"]=19,
 	["chevchenko-thunderstrike"]=4,
 	["chickenpie-spineshatter"]=2,
 	["chickenthief-spineshatter"]=3,
@@ -12866,7 +12866,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["gloobo-thunderstrike"]=19,
 	["gloomybrook-spineshatter"]=3,
 	["gloonch-spineshatter"]=8,
-	["glorissa-thunderstrike"]=5,
+	["glorissa-thunderstrike"]=22,
 	["gluggen-spineshatter"]=19,
 	["gnaget-spineshatter"]=9,
 	["gnana-thunderstrike"]=5,
@@ -16278,7 +16278,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["postarinkeqt-spineshatter"]=2,
 	["postmaclone-spineshatter"]=1,
 	["postmalone-spineshatter"]=17,
-	["posty-spineshatter"]=9,
+	["posty-spineshatter"]=4,
 	["potaru-thunderstrike"]=9,
 	["potshot-spineshatter"]=24,
 	["potso-thunderstrike"]=1,
@@ -17126,7 +17126,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["seabrookd-spineshatter"]=20,
 	["seabrookm-spineshatter"]=4,
 	["seabrooks-spineshatter"]=23,
-	["seabrookx-spineshatter"]=8,
+	["seabrookx-spineshatter"]=17,
 	["seaßrook-spineshatter"]=23,
 	["seaßrookxl-spineshatter"]=13,
 	["seaßrookz-spineshatter"]=25,
@@ -18782,7 +18782,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["vermin-spineshatter"]=17,
 	["vero-spineshatter"]=8,
 	["veronelol-spineshatter"]=2,
-	["verybigkahba-spineshatter"]=15,
+	["verybigkahba-spineshatter"]=5,
 	["verylarge-spineshatter"]=11,
 	["verynicee-spineshatter"]=2,
 	["veshtitsa-spineshatter"]=0,
