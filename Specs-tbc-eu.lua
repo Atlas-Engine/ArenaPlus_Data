@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9821 characters, read 2026-10-12 09:59 AM.
+-- Region tbc-eu, 9821 characters, read 2026-10-12 10:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10328,7 +10328,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["bagaren-spineshatter"]=5,
 	["baggebagge-spineshatter"]=1,
 	["bagnes-spineshatter"]=12,
-	["baguetteftw-spineshatter"]=17,
+	["baguetteftw-spineshatter"]=2,
 	["bahamas-spineshatter"]=23,
 	["bahamasxd-spineshatter"]=11,
 	["bahtplug-spineshatter"]=1,
@@ -13928,7 +13928,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["kändmålare-spineshatter"]=4,
 	["kantdestroyr-spineshatter"]=23,
 	["kantona-spineshatter"]=6,
-	["kanzhul-spineshatter"]=12,
+	["kanzhul-spineshatter"]=11,
 	["kaolbasa-thunderstrike"]=11,
 	["kaoline-spineshatter"]=7,
 	["kapslocked-spineshatter"]=3,
@@ -14777,7 +14777,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["maglar-spineshatter"]=12,
 	["magmag-spineshatter"]=23,
 	["magoloco-spineshatter"]=4,
-	["magü-spineshatter"]=4,
+	["magü-spineshatter"]=9,
 	["mahbeat-spineshatter"]=26,
 	["mahøne-spineshatter"]=3,
 	["mahønex-spineshatter"]=3,
@@ -18470,7 +18470,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["trebrt-thunderstrike"]=2,
 	["trelikatsika-spineshatter"]=11,
 	["tremorkin-spineshatter"]=11,
-	["trenlove-spineshatter"]=2,
+	["trenlove-spineshatter"]=8,
 	["tresaft-spineshatter"]=1,
 	["treygowdy-spineshatter"]=2,
 	["treylance-spineshatter"]=5,
@@ -18972,7 +18972,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["werican-spineshatter"]=22,
 	["wericiah-spineshatter"]=25,
 	["wericiahunt-spineshatter"]=25,
-	["werlok-spineshatter"]=13,
+	["werlok-spineshatter"]=14,
 	["wernergirl-thunderstrike"]=1,
 	["wernerpew-thunderstrike"]=25,
 	["werrnerpews-thunderstrike"]=10,
@@ -19535,7 +19535,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["zrph-spineshatter"]=25,
 	["zrubman-spineshatter"]=9,
 	["zshinobi-spineshatter"]=3,
-	["zslayer-spineshatter"]=17,
+	["zslayer-spineshatter"]=2,
 	["zuazney-thunderstrike"]=12,
 	["zucchero-spineshatter"]=7,
 	["zuckie-thunderstrike"]=11,

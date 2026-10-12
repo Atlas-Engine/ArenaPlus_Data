@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5184 characters, read 2026-10-12 09:59 AM.
+-- Region us, 5184 characters, read 2026-10-12 10:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6399,7 +6399,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["everlast-raden"]=24,
 	["evil-immerseus"]=21,
 	["evilbrewslee-raden"]=4,
-	["evilchicken-raden"]=5,
+	["evilchicken-raden"]=17,
 	["evilforcesgx-pagle"]=14,
 	["evilxdream-grobbulus"]=5,
 	["evilxeevee-raden"]=9,
@@ -6577,7 +6577,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["frankinator-raden"]=4,
 	["frasno-nazgrim"]=14,
 	["frawbinbowls-pagle"]=16,
-	["freakshowx-raden"]=5,
+	["freakshowx-raden"]=17,
 	["freddykrueg-pagle"]=8,
 	["freedombloom-raden"]=5,
 	["freedomspark-raden"]=11,
@@ -6638,7 +6638,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["galek-immerseus"]=22,
 	["galekk-immerseus"]=10,
 	["galey-galakras"]=23,
-	["galica-immerseus"]=7,
+	["galica-immerseus"]=30,
 	["gallagher-raden"]=11,
 	["galletica-pagle"]=23,
 	["galvaron-pagle"]=2,
@@ -6724,7 +6724,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["gkazz-lei-shen"]=15,
 	["gläcer-raden"]=1,
 	["glacior-pagle"]=1,
-	["glafira-raden"]=7,
+	["glafira-raden"]=23,
 	["glaggy-galakras"]=3,
 	["glas-raden"]=21,
 	["glasstoker-pagle"]=17,
@@ -8590,7 +8590,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["quartêrmain-pagle"]=3,
 	["quelss-pagle"]=2,
 	["quesø-pagle"]=29,
-	["questopresto-nazgrim"]=10,
+	["questopresto-nazgrim"]=4,
 	["quickscopex-pagle"]=3,
 	["quickvanish-pagle"]=34,
 	["qwanya-raden"]=1,
@@ -10037,7 +10037,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ybats-grobbulus"]=24,
 	["yeardme-pagle"]=1,
 	["yecnay-galakras"]=7,
-	["yecum-galakras"]=21,
+	["yecum-galakras"]=9,
 	["yekcoh-pagle"]=29,
 	["yellowspwn-raden"]=21,
 	["yelly-pagle"]=20,
