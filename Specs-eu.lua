@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5331 characters, read 2026-10-12 05:00 AM.
+-- Region eu, 5331 characters, read 2026-10-12 06:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2890,6 +2890,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["nolleke-shekzeer"]=11,
 	["nollij-shekzeer"]=40,
 	["nomátter-shekzeer"]=10,
+	["nømwnøfun-shekzeer"]=11,
 	["nonamé-mirage-raceway"]=111,
 	["nonameww-shekzeer"]=11,
 	["noneedórb-shekzeer"]=11,
@@ -7740,7 +7741,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["mëgâ-mirage-raceway"]=8,
 	["megacita-shekzeer"]=22,
 	["megcecmpa-shekzeer"]=5,
-	["meilev-hoptallus"]=21,
+	["meilev-hoptallus"]=3,
 	["mejorbrujoxd-shekzeer"]=17,
 	["mekishiko-shekzeer"]=22,
 	["melba-shekzeer"]=11,
@@ -7819,8 +7820,8 @@ ns.SPECS_BY_REGION["eu"] = {
 	["mishlen-shekzeer"]=13,
 	["missaicecity-shekzeer"]=3,
 	["missisclone-shekzeer"]=11,
-	["missota-shekzeer"]=11,
-	["missotalock-shekzeer"]=17,
+	["missota-shekzeer"]=3,
+	["missotalock-shekzeer"]=23,
 	["missotawarr-shekzeer"]=1,
 	["mistclicked-shekzeer"]=6,
 	["mistgeneral-shekzeer"]=6,
@@ -8121,7 +8122,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["nolleke-shekzeer"]=9,
 	["nollij-shekzeer"]=3,
 	["nomátter-shekzeer"]=1,
-	["nømwnøfun-shekzeer"]=0,
+	["nømwnøfun-shekzeer"]=6,
 	["nonamé-mirage-raceway"]=16,
 	["nonameww-shekzeer"]=7,
 	["noneedórb-shekzeer"]=7,
@@ -9679,7 +9680,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["wahaj-shekzeer"]=2,
 	["wahtsup-shekzeer"]=6,
 	["waitwhatbro-shekzeer"]=3,
-	["waix-shekzeer"]=2,
+	["waix-shekzeer"]=10,
 	["wakkabayashi-norushen"]=15,
 	["wãlter-shekzeer"]=9,
 	["warcrimes-shekzeer"]=1,
