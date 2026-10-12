@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5179 characters, read 2026-10-12 03:59 PM.
+-- Region us, 5179 characters, read 2026-10-12 04:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5674,7 +5674,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["casaamigos-pagle"]=21,
 	["cashpoorxlm-raden"]=14,
 	["cåssidý-raden"]=5,
-	["câtâclysm-nazgrim"]=28,
+	["câtâclysm-nazgrim"]=8,
 	["catafracta-pagle"]=30,
 	["catcalling-pagle"]=18,
 	["câtchthïs-raden"]=3,
@@ -5760,7 +5760,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["chronicnugz-raden"]=22,
 	["chryses-pagle"]=18,
 	["chuckñourish-nazgrim"]=17,
-	["chucrutio-galakras"]=33,
+	["chucrutio-galakras"]=12,
 	["chump-galakras"]=1,
 	["chumpele-raden"]=15,
 	["chumpw-raden"]=7,
@@ -6868,7 +6868,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["harókz-raden"]=25,
 	["haroldpugh-raden"]=3,
 	["harrick-immerseus"]=34,
-	["härrick-immerseus"]=3,
+	["härrick-immerseus"]=20,
 	["harrydotter-raden"]=28,
 	["haruchann-pagle"]=10,
 	["hashie-pagle"]=12,
@@ -9370,7 +9370,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["subàti-pagle"]=9,
 	["subdub-nazgrim"]=34,
 	["subparzero-raden"]=11,
-	["subzeroiq-raden"]=1,
+	["subzeroiq-raden"]=11,
 	["sucros-pagle"]=10,
 	["sugâr-raden"]=2,
 	["sugarbear-raden"]=1,
