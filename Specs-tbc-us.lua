@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9456 characters, read 2026-10-12 01:58 PM.
+-- Region tbc-us, 9456 characters, read 2026-10-12 02:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10157,7 +10157,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["birdfrd-nightslayer"]=6,
 	["birdfromtree-dreamscythe"]=3,
 	["birdieblue-nightslayer"]=4,
-	["birfu-nightslayer"]=20,
+	["birfu-nightslayer"]=2,
 	["birijin-dreamscythe"]=15,
 	["bisbeef-nightslayer"]=7,
 	["biscuits-nightslayer"]=6,
@@ -10955,7 +10955,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["coosw-nightslayer"]=2,
 	["coozr-nightslayer"]=1,
 	["copealingus-nightslayer"]=0,
-	["coqueta-nightslayer"]=9,
+	["coqueta-nightslayer"]=25,
 	["coquina-nightslayer"]=3,
 	["corabug-nightslayer"]=5,
 	["coralsagan-dreamscythe"]=6,
@@ -13817,7 +13817,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["kobeba-nightslayer"]=10,
 	["kobeh-nightslayer"]=5,
 	["kobruhz-dreamscythe"]=5,
-	["kodakblakk-nightslayer"]=24,
+	["kodakblakk-nightslayer"]=10,
 	["koding-nightslayer"]=7,
 	["kohhan-nightslayer"]=10,
 	["kohokohokoho-nightslayer"]=7,

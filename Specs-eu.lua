@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5332 characters, read 2026-10-12 02:00 PM.
+-- Region eu, 5332 characters, read 2026-10-12 03:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1256,6 +1256,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["esetor-norushen"]=100,
 	["estrelía-everlook"]=11,
 	["esura-shekzeer"]=11,
+	["eternàl-shekzeer"]=11,
 	["eternalgods-everlook"]=11,
 	["etherion-shekzeer"]=250,
 	["Étoiledefeu-shekzeer"]=10,
@@ -2675,7 +2676,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["mørbidængel-shekzeer"]=10,
 	["mòrd-everlook"]=51,
 	["mórdos-everlook"]=41,
-	["morenemsemmi-shekzeer"]=31,
+	["morenemsemmi-shekzeer"]=30,
 	["morepenet-hoptallus"]=11,
 	["morningafter-norushen"]=11,
 	["moroez-shekzeer"]=11,
@@ -6403,7 +6404,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["esetor-norushen"]=15,
 	["estrelía-everlook"]=2,
 	["esura-shekzeer"]=1,
-	["eternàl-shekzeer"]=0,
+	["eternàl-shekzeer"]=2,
 	["eternalgods-everlook"]=8,
 	["etherion-shekzeer"]=19,
 	["Étoiledefeu-shekzeer"]=15,
