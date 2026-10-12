@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5330 characters, read 2026-10-11 09:00 PM.
+-- Region eu, 5331 characters, read 2026-10-11 10:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1284,6 +1284,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["expanse-shekzeer"]=21,
 	["expropriator-shekzeer"]=11,
 	["extasis-shekzeer"]=41,
+	["extenque-shekzeer"]=11,
 	["exxo-shekzeer"]=10,
 	["exzessivqt-everlook"]=11,
 	["eyeceecold-hoptallus"]=10,
@@ -1294,6 +1295,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["eztre-mirage-raceway"]=10,
 	["ezwinlul-shekzeer"]=31,
 	["fácemash-shekzeer"]=11,
+	["facemashx-shekzeer"]=11,
 	["fadingworld-mirage-raceway"]=51,
 	["faelivryn-ook-ook"]=41,
 	["fær-shekzeer"]=41,
@@ -4596,7 +4598,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["yutaokko-shekzeer"]=41,
 	["yutaokkotsu-shekzeer"]=11,
 	["yuy-shekzeer"]=10,
-	["Ÿûÿûÿûÿûÿûÿû-shekzeer"]=11,
 	["yva-shekzeer"]=11,
 	["yvachi-garalon"]=50,
 	["yvachi-shekzeer"]=11,
@@ -6428,6 +6429,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["expanse-shekzeer"]=2,
 	["expropriator-shekzeer"]=1,
 	["extasis-shekzeer"]=3,
+	["extenque-shekzeer"]=4,
 	["exxo-shekzeer"]=2,
 	["exzessivqt-everlook"]=2,
 	["eyeceecold-hoptallus"]=8,
@@ -6439,6 +6441,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["eztre-mirage-raceway"]=26,
 	["ezwinlul-shekzeer"]=19,
 	["fácemash-shekzeer"]=4,
+	["facemashx-shekzeer"]=6,
 	["facesmasher-shekzeer"]=0,
 	["fadingworld-mirage-raceway"]=9,
 	["faelivryn-ook-ook"]=9,
@@ -9910,7 +9913,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["yutaokko-shekzeer"]=6,
 	["yutaokkotsu-shekzeer"]=6,
 	["yuy-shekzeer"]=7,
-	["Ÿûÿûÿûÿûÿûÿû-shekzeer"]=8,
 	["yva-shekzeer"]=2,
 	["yvachi-garalon"]=6,
 	["yvachi-shekzeer"]=6,

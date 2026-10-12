@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9461 characters, read 2026-10-11 08:58 PM.
+-- Region tbc-us, 9461 characters, read 2026-10-11 09:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11004,7 +11004,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["cowyote-nightslayer"]=10,
 	["cowzgomoo-nightslayer"]=9,
 	["coziliz-nightslayer"]=4,
-	["cozylizy-nightslayer"]=1,
+	["cozylizy-nightslayer"]=14,
 	["cozytoes-nightslayer"]=1,
 	["cpc-dreamscythe"]=5,
 	["cpdx-nightslayer"]=5,
@@ -12526,7 +12526,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["gigagigachad-nightslayer"]=0,
 	["gigaqookd-nightslayer"]=1,
 	["gigashift-nightslayer"]=3,
-	["gigawarlock-nightslayer"]=13,
+	["gigawarlock-nightslayer"]=23,
 	["gigedoir-nightslayer"]=13,
 	["gilbert-nightslayer"]=12,
 	["gilg-dreamscythe"]=1,
@@ -14782,7 +14782,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["moosedeuce-dreamscythe"]=8,
 	["moosheisty-nightslayer"]=3,
 	["mootshroom-nightslayer"]=19,
-	["mopz-nightslayer"]=1,
+	["mopz-nightslayer"]=12,
 	["moqu-nightslayer"]=10,
 	["moquu-nightslayer"]=10,
 	["moredotzz-nightslayer"]=13,
@@ -15574,7 +15574,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["pikabooqt-nightslayer"]=5,
 	["pikachøø-nightslayer"]=24,
 	["pikkun-dreamscythe"]=19,
-	["pikz-nightslayer"]=2,
+	["pikz-nightslayer"]=18,
 	["pillinauwu-nightslayer"]=10,
 	["pilous-nightslayer"]=13,
 	["pilpickle-nightslayer"]=17,
@@ -16459,7 +16459,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["scuhammed-nightslayer"]=2,
 	["scungy-nightslayer"]=5,
 	["scxtt-nightslayer"]=5,
-	["scyer-nightslayer"]=16,
+	["scyer-nightslayer"]=13,
 	["scyless-nightslayer"]=8,
 	["scynd-dreamscythe"]=6,
 	["scythë-nightslayer"]=2,
@@ -16489,7 +16489,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["seeulater-nightslayer"]=5,
 	["seewizzy-nightslayer"]=1,
 	["seeyoutmrw-nightslayer"]=5,
-	["séf-nightslayer"]=14,
+	["séf-nightslayer"]=12,
 	["segwaymaster-nightslayer"]=6,
 	["seini-dreamscythe"]=11,
 	["sekko-nightslayer"]=24,
