@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5177 characters, read 2026-10-12 11:59 AM.
+-- Region us, 5177 characters, read 2026-10-12 12:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1368,6 +1368,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["envyus-immerseus"]=51,
 	["enxun-raden"]=41,
 	["eoeoeoeoeoe-raden"]=111,
+	["epsilon-pagle"]=11,
 	["erass-nazgrim"]=100,
 	["eredark-raden"]=30,
 	["erieshotz-pagle"]=10,
@@ -2650,6 +2651,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["lumapal-pagle"]=11,
 	["luminarìa-pagle"]=11,
 	["lumineth-pagle"]=11,
+	["lunishamtwo-raden"]=111,
 	["lunpi-raden"]=251,
 	["lusts-raden"]=11,
 	["luum-raden"]=41,
@@ -6356,7 +6358,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["envyus-immerseus"]=10,
 	["enxun-raden"]=17,
 	["eoeoeoeoeoe-raden"]=19,
-	["epsilon-pagle"]=0,
+	["epsilon-pagle"]=3,
 	["erass-nazgrim"]=16,
 	["eredark-raden"]=22,
 	["ereshion-pagle"]=0,
@@ -6450,7 +6452,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["fatwog-raden"]=16,
 	["faylaxd-raden"]=5,
 	["fctry-raden"]=3,
-	["fcx-raden"]=11,
+	["fcx-raden"]=1,
 	["fearbane-pagle"]=26,
 	["feardaddy-pagle"]=2,
 	["feardot-pagle"]=28,
@@ -7531,7 +7533,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["lavablob-pagle"]=15,
 	["lawlurdead-raden"]=29,
 	["lawydruid-pagle"]=5,
-	["laydatpipe-lei-shen"]=12,
+	["laydatpipe-lei-shen"]=5,
 	["layenda-lei-shen"]=16,
 	["laynerz-raden"]=0,
 	["lbloll-pagle"]=15,
@@ -7703,7 +7705,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["lumineth-pagle"]=13,
 	["lunarlass-pagle"]=0,
 	["lunchmeat-nazgrim"]=0,
-	["lunishamtwo-raden"]=0,
+	["lunishamtwo-raden"]=22,
 	["lunpi-raden"]=4,
 	["lusts-raden"]=10,
 	["luum-raden"]=5,
@@ -8662,7 +8664,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["recklessness-lei-shen"]=7,
 	["recklesswinz-raden"]=7,
 	["reckology-raden"]=5,
-	["reckula-raden"]=3,
+	["reckula-raden"]=20,
 	["recovery-raden"]=0,
 	["rédcorn-raden"]=6,
 	["redeast-galakras"]=6,

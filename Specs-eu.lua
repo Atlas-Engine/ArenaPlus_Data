@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5333 characters, read 2026-10-12 12:00 PM.
+-- Region eu, 5332 characters, read 2026-10-12 01:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -738,7 +738,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["chargedif-shekzeer"]=11,
 	["charity-garalon"]=50,
 	["charityrevn-shekzeer"]=11,
-	["charityshift-shekzeer"]=41,
 	["charoma-shekzeer"]=41,
 	["charos-norushen"]=80,
 	["châs-everlook"]=10,
@@ -1494,7 +1493,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["gintonic-ook-ook"]=11,
 	["gitrdone-shekzeer"]=11,
 	["givroz-auberdine"]=10,
-	["givus-shekzeer"]=221,
 	["glacieon-shekzeer"]=10,
 	["gladiatørbee-shekzeer"]=10,
 	["glamourmw-mirage-raceway"]=11,
@@ -3140,6 +3138,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["pippilotta-shekzeer"]=11,
 	["pissemaur-shekzeer"]=41,
 	["pitpat-shekzeer"]=11,
+	["pizzapizza-shekzeer"]=11,
 	["pktublind-shekzeer"]=11,
 	["pktublink-shekzeer"]=11,
 	["pktuchattes-shekzeer"]=41,
@@ -5863,7 +5862,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["chargedif-shekzeer"]=1,
 	["charity-garalon"]=9,
 	["charityrevn-shekzeer"]=1,
-	["charityshift-shekzeer"]=3,
 	["charoma-shekzeer"]=3,
 	["charos-norushen"]=16,
 	["châs-everlook"]=1,
@@ -6654,7 +6652,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["gintonic-ook-ook"]=22,
 	["gitrdone-shekzeer"]=1,
 	["givroz-auberdine"]=8,
-	["givus-shekzeer"]=21,
+	["givus-shekzeer"]=0,
 	["glacieon-shekzeer"]=31,
 	["gladiatørbee-shekzeer"]=14,
 	["glamourmw-mirage-raceway"]=6,
@@ -7910,7 +7908,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["movehunter-shekzeer"]=4,
 	["moýo-shekzeer"]=3,
 	["moÿo-shekzeer"]=16,
-	["moyovich-shekzeer"]=0,
 	["msrx-shekzeer"]=24,
 	["mstladyboy-auberdine"]=14,
 	["mstrx-everlook"]=6,
@@ -8203,7 +8200,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["offrank-garalon"]=6,
 	["ofzppt-shekzeer"]=1,
 	["oglappn-everlook"]=31,
-	["ogloj-shekzeer"]=15,
+	["ogloj-shekzeer"]=5,
 	["ogru-shekzeer"]=13,
 	["ogstreet-shekzeer"]=9,
 	["Ógstreet-shekzeer"]=13,
@@ -8392,6 +8389,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["pistolpete-shekzeer"]=0,
 	["pitpat-shekzeer"]=26,
 	["pizdanidze-shekzeer"]=0,
+	["pizzapizza-shekzeer"]=2,
 	["pktublind-shekzeer"]=24,
 	["pktublink-shekzeer"]=2,
 	["pktuchattes-shekzeer"]=11,
@@ -10374,7 +10372,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Седойдед-flamegor"]=8,
 	["Сенжермэн-flamegor"]=34,
 	["Сергейсэр-flamegor"]=2,
-	["Симбикс-flamegor"]=20,
+	["Симбикс-flamegor"]=4,
 	["Симбиш-flamegor"]=26,
 	["Сияниемоё-flamegor"]=22,
 	["Скарадримс-flamegor"]=15,

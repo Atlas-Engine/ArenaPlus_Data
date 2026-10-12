@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9827 characters, read 2026-10-12 11:59 AM.
+-- Region tbc-eu, 9827 characters, read 2026-10-12 12:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -13922,7 +13922,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["kallemera-spineshatter"]=7,
 	["kalsing-thunderstrike"]=25,
 	["kamenøzrout-spineshatter"]=23,
-	["kamenskii-spineshatter"]=2,
+	["kamenskii-spineshatter"]=17,
 	["kamfer-spineshatter"]=11,
 	["kamilez-spineshatter"]=1,
 	["kamilfury-spineshatter"]=5,
@@ -15595,7 +15595,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["nevermindx-spineshatter"]=3,
 	["névermore-spineshatter"]=3,
 	["nevershearx-spineshatter"]=5,
-	["nevinna-spineshatter"]=12,
+	["nevinna-spineshatter"]=11,
 	["nevinost-spineshatter"]=14,
 	["nevyo-spineshatter"]=11,
 	["nevzor-spineshatter"]=25,
@@ -16280,7 +16280,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["poppaveli-spineshatter"]=23,
 	["poproguetv-spineshatter"]=3,
 	["poproguez-spineshatter"]=3,
-	["popzy-spineshatter"]=17,
+	["popzy-spineshatter"]=2,
 	["pørksláyer-spineshatter"]=3,
 	["pornello-spineshatter"]=2,
 	["poroseenok-spineshatter"]=5,
@@ -17847,7 +17847,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["startwar-spineshatter"]=5,
 	["starygnom-spineshatter"]=13,
 	["stastnej-spineshatter"]=5,
-	["statice-spineshatter"]=7,
+	["statice-spineshatter"]=10,
 	["stayawayz-spineshatter"]=1,
 	["staylol-spineshatter"]=3,
 	["stdl-spineshatter"]=2,
@@ -19268,7 +19268,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["yaqu-spineshatter"]=3,
 	["yarmaha-spineshatter"]=5,
 	["yascira-thunderstrike"]=1,
-	["yasmus-thunderstrike"]=8,
+	["yasmus-thunderstrike"]=2,
 	["yatóró-spineshatter"]=9,
 	["yâtzy-spineshatter"]=15,
 	["yatzzy-spineshatter"]=10,
@@ -19310,7 +19310,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["yirr-spineshatter"]=2,
 	["yishaan-spineshatter"]=1,
 	["yles-spineshatter"]=3,
-	["ylime-spineshatter"]=4,
+	["ylime-spineshatter"]=9,
 	["yllnoth-spineshatter"]=3,
 	["ymatùmi-spineshatter"]=1,
 	["ymbr-spineshatter"]=3,
