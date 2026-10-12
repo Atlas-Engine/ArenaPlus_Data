@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5177 characters, read 2026-10-12 12:59 PM.
+-- Region us, 5177 characters, read 2026-10-12 01:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -242,7 +242,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["arcindia-galakras"]=101,
 	["arcticmunchy-grobbulus"]=101,
 	["arena-pagle"]=50,
-	["arenaelun-pagle"]=41,
+	["arenaelun-pagle"]=40,
 	["arendale-pagle"]=11,
 	["arg-nazgrim"]=20,
 	["arganone-pagle"]=20,
@@ -6178,7 +6178,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dottenstein-pagle"]=28,
 	["dotwaves-pagle"]=3,
 	["dôtzz-galakras"]=24,
-	["double-lei-shen"]=34,
+	["double-lei-shen"]=14,
 	["dôublecheese-immerseus"]=18,
 	["doubledread-raden"]=10,
 	["doublegrip-pagle"]=6,
@@ -6202,7 +6202,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["Ðressrøsa-immerseus"]=10,
 	["drewdipsy-pagle"]=7,
 	["drewleon-pagle"]=5,
-	["drewwd-nazgrim"]=5,
+	["drewwd-nazgrim"]=17,
 	["dreyad-pagle"]=5,
 	["dreyas-pagle"]=7,
 	["dreynite-pagle"]=6,
@@ -6631,7 +6631,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["galek-immerseus"]=22,
 	["galekk-immerseus"]=10,
 	["galey-galakras"]=23,
-	["galica-immerseus"]=30,
+	["galica-immerseus"]=7,
 	["gallagher-raden"]=1,
 	["galletica-pagle"]=23,
 	["galvaron-pagle"]=2,
