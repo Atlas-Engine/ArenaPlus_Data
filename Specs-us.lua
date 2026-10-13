@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5179 characters, read 2026-10-13 07:59 AM.
+-- Region us, 5179 characters, read 2026-10-13 08:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4054,7 +4054,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["snutz-lei-shen"]=11,
 	["snÿx-raden"]=11,
 	["soaar-raden"]=41,
-	["soapstorm-raden"]=51,
 	["soapy-raden"]=11,
 	["søapy-raden"]=11,
 	["soapykitty-pagle"]=41,
@@ -6248,7 +6247,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["drwick-pagle"]=17,
 	["Ðßøzxs-raden"]=4,
 	["dtax-pagle"]=34,
-	["dubhub-galakras"]=2,
+	["dubhub-galakras"]=16,
 	["dubwise-raden"]=2,
 	["dubz-raden"]=4,
 	["dubzxx-raden"]=16,
@@ -7083,7 +7082,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ifireinside-pagle"]=1,
 	["ifistu-galakras"]=4,
 	["igather-galakras"]=17,
-	["igziluhraet-pagle"]=34,
+	["igziluhraet-pagle"]=29,
 	["ihatemetoo-raden"]=0,
 	["ihavenohand-pagle"]=10,
 	["ihealinufeel-pagle"]=5,
@@ -9187,7 +9186,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["snutz-lei-shen"]=24,
 	["snÿx-raden"]=9,
 	["soaar-raden"]=9,
-	["soapstorm-raden"]=4,
+	["soapstorm-raden"]=0,
 	["soapy-raden"]=10,
 	["søapy-raden"]=6,
 	["soapykitty-pagle"]=12,
@@ -9493,7 +9492,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["terowyn-pagle"]=16,
 	["tertran-raden"]=23,
 	["tertuhl-raden"]=7,
-	["terzerd-nazgrim"]=4,
+	["terzerd-nazgrim"]=10,
 	["teshsky-pagle"]=28,
 	["testicls-galakras"]=3,
 	["testndbolwar-raden"]=7,
