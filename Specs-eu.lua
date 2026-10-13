@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5336 characters, read 2026-10-13 06:00 AM.
+-- Region eu, 5337 characters, read 2026-10-13 07:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1209,6 +1209,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["eláena-hoptallus"]=41,
 	["elbustada-garalon"]=11,
 	["Èlcapitan-mirage-raceway"]=11,
+	["elcocoriko-shekzeer"]=31,
 	["elden-everlook"]=11,
 	["eldorado-shekzeer"]=30,
 	["electricity-shekzeer"]=30,
@@ -3658,6 +3659,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["shockpowerr-shekzeer"]=11,
 	["shoesolex-everlook"]=11,
 	["shoqx-ook-ook"]=11,
+	["shotkill-mirage-raceway"]=51,
 	["shotq-shekzeer"]=11,
 	["shotqu-shekzeer"]=11,
 	["shoxxyzlol-ook-ook"]=11,
@@ -5110,7 +5112,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["Фобя-flamegor"]=41,
 	["Фоллсс-flamegor"]=50,
 	["Фоллэнгодх-flamegor"]=11,
-	["Форенган-flamegor"]=50,
 	["Фурист-flamegor"]=11,
 	["Ффолс-flamegor"]=60,
 	["Халлбъёрн-flamegor"]=30,
@@ -6362,7 +6363,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["eláena-hoptallus"]=21,
 	["elbustada-garalon"]=15,
 	["Èlcapitan-mirage-raceway"]=24,
-	["elcocoriko-shekzeer"]=0,
+	["elcocoriko-shekzeer"]=13,
 	["elden-everlook"]=5,
 	["eldorado-shekzeer"]=16,
 	["eleabuser-everlook"]=0,
@@ -7692,7 +7693,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["mangochulo-shekzeer"]=5,
 	["mangopango-pyrewood-village"]=14,
 	["mangostraf-mirage-raceway"]=1,
-	["mannen-shekzeer"]=8,
+	["mannen-shekzeer"]=31,
 	["mansøur-auberdine"]=30,
 	["maochamp-shekzeer"]=11,
 	["maphra-shekzeer"]=22,
@@ -8595,7 +8596,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["reginalds-shekzeer"]=5,
 	["rehrar-shekzeer"]=5,
 	["reiiz-auberdine"]=8,
-	["reîka-mirage-raceway"]=7,
+	["reîka-mirage-raceway"]=6,
 	["reinalds-mirage-raceway"]=6,
 	["reiñhart-everlook"]=8,
 	["reisal-hoptallus"]=7,
@@ -8936,6 +8937,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["shockpowerr-shekzeer"]=5,
 	["shoesolex-everlook"]=14,
 	["shoqx-ook-ook"]=6,
+	["shotkill-mirage-raceway"]=24,
 	["shotq-shekzeer"]=4,
 	["shotqu-shekzeer"]=2,
 	["shoxxyzlol-ook-ook"]=4,
@@ -10449,7 +10451,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Фобя-flamegor"]=3,
 	["Фоллсс-flamegor"]=23,
 	["Фоллэнгодх-flamegor"]=15,
-	["Форенган-flamegor"]=4,
+	["Форенган-flamegor"]=0,
 	["Фурист-flamegor"]=9,
 	["Ффолс-flamegor"]=3,
 	["Халлбъёрн-flamegor"]=15,

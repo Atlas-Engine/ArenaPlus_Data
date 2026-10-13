@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5179 characters, read 2026-10-13 05:59 AM.
+-- Region us, 5179 characters, read 2026-10-13 06:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2447,6 +2447,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["kthall-pagle"]=10,
 	["ktm-lei-shen"]=60,
 	["kungfugrip-arugal-au"]=21,
+	["kungfuhub-galakras"]=20,
 	["kungfulah-nazgrim"]=51,
 	["kungfusao-nazgrim"]=20,
 	["kungfutits-galakras"]=21,
@@ -7442,13 +7443,13 @@ ns.SPECS_BY_REGION["us"] = {
 	["klausjr-pagle"]=8,
 	["kledemarcos-nazgrim"]=15,
 	["klenzen-raden"]=10,
-	["klept-raden"]=10,
+	["klept-raden"]=4,
 	["kleptix-raden"]=34,
 	["knottypawz-pagle"]=17,
 	["knuckles-pagle"]=23,
-	["knucklès-pagle"]=2,
+	["knucklès-pagle"]=16,
 	["knucklës-pagle"]=28,
-	["knûckles-pagle"]=5,
+	["knûckles-pagle"]=17,
 	["kñuckles-pagle"]=6,
 	["knuklefkr-nazgrim"]=24,
 	["kokuzin-pagle"]=7,
@@ -7483,7 +7484,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ktm-lei-shen"]=5,
 	["ktzz-pagle"]=0,
 	["kungfugrip-arugal-au"]=10,
-	["kungfuhub-galakras"]=0,
+	["kungfuhub-galakras"]=10,
 	["kungfulah-nazgrim"]=4,
 	["kungfusao-nazgrim"]=10,
 	["kungfushmit-galakras"]=0,
