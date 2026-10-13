@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5344 characters, read 2026-10-13 02:00 PM.
+-- Region eu, 5344 characters, read 2026-10-13 03:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -879,7 +879,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["cryptonx-everlook"]=11,
 	["crystalfrost-norushen"]=51,
 	["crystall-ook-ook"]=11,
-	["crystalsteal-shekzeer"]=11,
+	["crystalsteal-shekzeer"]=10,
 	["cuccó-garalon"]=20,
 	["cuckmycoocon-shekzeer"]=11,
 	["cúdder-everlook"]=60,
@@ -6320,7 +6320,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["dunderpallan-shekzeer"]=5,
 	["dunkelheit-shekzeer"]=9,
 	["dúpond-auberdine"]=3,
-	["durianlover-shekzeer"]=11,
+	["durianlover-shekzeer"]=3,
 	["duskmeh-shekzeer"]=1,
 	["duskyn-shekzeer"]=20,
 	["dusoleil-shekzeer"]=24,
@@ -6929,7 +6929,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["holywar-shekzeer"]=9,
 	["honshu-shekzeer"]=16,
 	["hoodtrap-shekzeer"]=20,
-	["hoofhoof-hoptallus"]=11,
+	["hoofhoof-hoptallus"]=21,
 	["hopeéloolxd-shekzeer"]=23,
 	["høpps-norushen"]=9,
 	["horderising-shekzeer"]=11,
@@ -9030,7 +9030,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["smileyslayer-mirage-raceway"]=4,
 	["smille-shekzeer"]=5,
 	["smirnoffice-shekzeer"]=3,
-	["smîte-shekzeer"]=22,
+	["smîte-shekzeer"]=12,
 	["smo-shekzeer"]=11,
 	["smokepûrp-shekzeer"]=23,
 	["smokerz-mirage-raceway"]=24,
