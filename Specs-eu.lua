@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5343 characters, read 2026-10-13 11:00 AM.
+-- Region eu, 5343 characters, read 2026-10-13 12:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -745,7 +745,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["charoma-shekzeer"]=41,
 	["charos-norushen"]=80,
 	["châs-everlook"]=10,
-	["chas-shekzeer"]=40,
+	["chas-shekzeer"]=41,
 	["chð-auberdine"]=41,
 	["chéàps-everlook"]=10,
 	["cheapz-everlook"]=10,
@@ -6841,7 +6841,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["headshottss-shekzeer"]=4,
 	["headzhot-shekzeer"]=4,
 	["healbooster-mirage-raceway"]=3,
-	["héälböt-mirage-raceway"]=29,
+	["héälböt-mirage-raceway"]=7,
 	["healing-shekzeer"]=6,
 	["healintincan-mirage-raceway"]=30,
 	["heallnah-shekzeer"]=9,
@@ -7954,7 +7954,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["murphy-shekzeer"]=3,
 	["mûrre-mirage-raceway"]=6,
 	["muryokusho-shekzeer"]=9,
-	["mus-shekzeer"]=2,
+	["mus-shekzeer"]=27,
 	["muså-shekzeer"]=21,
 	["mushado-auberdine"]=20,
 	["muskelimaisa-shekzeer"]=1,
@@ -8456,7 +8456,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["prachton-mirage-raceway"]=15,
 	["prâitre-mirage-raceway"]=9,
 	["praystation-ook-ook"]=22,
-	["predak-mirage-raceway"]=4,
+	["predak-mirage-raceway"]=14,
 	["premanchan-everlook"]=26,
 	["prénium-auberdine"]=3,
 	["préservateaf-auberdine"]=2,
