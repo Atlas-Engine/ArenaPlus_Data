@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5180 characters, read 2026-10-12 11:59 PM.
+-- Region us, 5180 characters, read 2026-10-13 12:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5436,7 +5436,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["blacksiide-pagle"]=4,
 	["blackspades-pagle"]=26,
 	["blackspwn-raden"]=29,
-	["bladvalery-nazgrim"]=16,
+	["bladvalery-nazgrim"]=2,
 	["blaggie-galakras"]=16,
 	["blaine-raden"]=1,
 	["blameblade-pagle"]=2,
@@ -6733,7 +6733,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["glizzyjizzy-nazgrim"]=2,
 	["globalled-raden"]=15,
 	["glogg-galakras"]=7,
-	["gloggem-galakras"]=21,
+	["gloggem-galakras"]=9,
 	["gloggen-galakras"]=24,
 	["glogger-galakras"]=16,
 	["gloptoppomus-raden"]=7,
@@ -8811,7 +8811,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["rougesd-pagle"]=14,
 	["roxxe-raden"]=2,
 	["royalbear-lei-shen"]=18,
-	["royalflush-pagle"]=21,
+	["royalflush-pagle"]=9,
 	["royalkelly-raden"]=21,
 	["royalpaladin-lei-shen"]=32,
 	["royalqt-pagle"]=2,
@@ -9858,7 +9858,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["wakarg-galakras"]=22,
 	["walfor-pagle"]=17,
 	["wantedhunter-galakras"]=3,
-	["waped-pagle"]=3,
+	["waped-pagle"]=20,
 	["warcounsel-pagle"]=34,
 	["warkov-raden"]=7,
 	["warlockens-pagle"]=24,

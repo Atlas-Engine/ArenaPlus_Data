@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5336 characters, read 2026-10-13 12:00 AM.
+-- Region eu, 5336 characters, read 2026-10-13 01:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3139,12 +3139,12 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["pipelayer-shekzeer"]=10,
 	["pipijaxxon-shekzeer"]=11,
 	["pipilili-shekzeer"]=11,
-	["pipioe-shekzeer"]=11,
+	["pipioe-shekzeer"]=10,
 	["pipitrix-shekzeer"]=11,
 	["pippilotta-shekzeer"]=11,
 	["pissemaur-shekzeer"]=41,
 	["pitpat-shekzeer"]=11,
-	["pizzapizza-shekzeer"]=11,
+	["pizzapizza-shekzeer"]=10,
 	["pktublind-shekzeer"]=11,
 	["pktublink-shekzeer"]=11,
 	["pktuchattes-shekzeer"]=41,
@@ -8395,7 +8395,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["pipelayer-shekzeer"]=24,
 	["pipijaxxon-shekzeer"]=24,
 	["pipilili-shekzeer"]=1,
-	["pipioe-shekzeer"]=6,
+	["pipioe-shekzeer"]=7,
 	["pipitrix-shekzeer"]=15,
 	["pippilotta-shekzeer"]=9,
 	["pissemaur-shekzeer"]=6,
@@ -8409,7 +8409,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["pktutrap-shekzeer"]=20,
 	["plåýbót-shekzeer"]=7,
 	["plåýbøt-shekzeer"]=7,
-	["plâybøybûnny-shekzeer"]=20,
+	["plâybøybûnny-shekzeer"]=4,
 	["playmop-shekzeer"]=17,
 	["plåýßøt-shekzeer"]=7,
 	["plïnki-auberdine"]=8,
@@ -8571,7 +8571,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["realbumbe-garalon"]=7,
 	["realbumbe-shekzeer"]=29,
 	["realbûmbel-shekzeer"]=26,
-	["reàlbumbel-shekzeer"]=18,
+	["reàlbumbel-shekzeer"]=25,
 	["realbumbelbe-shekzeer"]=29,
 	["realbumbell-garalon"]=29,
 	["realnimraqt-everlook"]=5,
@@ -10033,7 +10033,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["zonnmonk-hoptallus"]=6,
 	["zonya-hoptallus"]=9,
 	["zoompräst-shekzeer"]=12,
-	["zoraa-everlook"]=5,
+	["zoraa-everlook"]=15,
 	["zoraa-shekzeer"]=5,
 	["zorroxx-shekzeer"]=9,
 	["zportster-shekzeer"]=34,
