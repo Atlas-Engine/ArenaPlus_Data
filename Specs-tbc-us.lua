@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9440 characters, read 2026-10-13 04:58 AM.
+-- Region tbc-us, 9440 characters, read 2026-10-13 05:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9856,7 +9856,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bakey-dreamscythe"]=6,
 	["bakshotlarry-nightslayer"]=4,
 	["bakstab-nightslayer"]=5,
-	["balalalalu-dreamscythe"]=15,
+	["balalalalu-dreamscythe"]=17,
 	["baldandthicc-nightslayer"]=1,
 	["baldazario-nightslayer"]=2,
 	["baldbulla-nightslayer"]=16,
@@ -11565,7 +11565,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["drakedark-nightslayer"]=13,
 	["drakedox-nightslayer"]=13,
 	["drakeisapdf-nightslayer"]=8,
-	["drakorc-nightslayer"]=10,
+	["drakorc-nightslayer"]=19,
 	["dranly-nightslayer"]=18,
 	["draterogib-nightslayer"]=19,
 	["drawnout-nightslayer"]=5,
@@ -11951,7 +11951,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["exk-nightslayer"]=4,
 	["exotik-nightslayer"]=1,
 	["expelledp-dreamscythe"]=12,
-	["expense-dreamscythe"]=6,
+	["expense-dreamscythe"]=4,
 	["expert-nightslayer"]=5,
 	["expirelol-nightslayer"]=4,
 	["expiry-nightslayer"]=1,
@@ -13836,7 +13836,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["krazulqt-nightslayer"]=9,
 	["kreejohm-nightslayer"]=2,
 	["kreezuss-nightslayer"]=11,
-	["kressto-dreamscythe"]=24,
+	["kressto-dreamscythe"]=10,
 	["krewnos-nightslayer"]=2,
 	["krg-nightslayer"]=13,
 	["krgh-nightslayer"]=15,
@@ -14301,7 +14301,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["magicthoap-nightslayer"]=6,
 	["magnilol-nightslayer"]=1,
 	["maheloo-nightslayer"]=19,
-	["mahmymilkers-dreamscythe"]=2,
+	["mahmymilkers-dreamscythe"]=20,
 	["mainbeam-nightslayer"]=7,
 	["mainim-nightslayer"]=1,
 	["mainstreeam-dreamscythe"]=19,
@@ -14899,7 +14899,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["nawandorder-nightslayer"]=15,
 	["nayate-nightslayer"]=5,
 	["naytt-nightslayer"]=2,
-	["nazgara-dreamscythe"]=14,
+	["nazgara-dreamscythe"]=1,
 	["nazgarr-nightslayer"]=10,
 	["nazgrath-nightslayer"]=18,
 	["nazguard-nightslayer"]=9,
@@ -18286,7 +18286,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["whiteoutsz-nightslayer"]=7,
 	["whiterangea-nightslayer"]=1,
 	["whiterangeaa-nightslayer"]=1,
-	["whîtêtìgér-nightslayer"]=13,
+	["whîtêtìgér-nightslayer"]=16,
 	["whoberto-dreamscythe"]=18,
 	["whoisthisrat-nightslayer"]=2,
 	["wholigan-nightslayer"]=2,
