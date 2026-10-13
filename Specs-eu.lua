@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5335 characters, read 2026-10-12 07:00 PM.
+-- Region eu, 5335 characters, read 2026-10-12 08:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5895,7 +5895,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["chibiarda-auberdine"]=20,
 	["chíckenwíng-everlook"]=11,
 	["chicktock-everlook"]=25,
-	["chiichii-garalon"]=2,
+	["chiichii-garalon"]=10,
 	["chillestguy-shekzeer"]=0,
 	["chillywily-shekzeer"]=6,
 	["chimèrebaddy-shekzeer"]=4,
@@ -8407,7 +8407,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["plåýbót-shekzeer"]=7,
 	["plåýbøt-shekzeer"]=7,
 	["plâybøybûnny-shekzeer"]=20,
-	["playmop-shekzeer"]=23,
+	["playmop-shekzeer"]=17,
 	["plåýßøt-shekzeer"]=7,
 	["plïnki-auberdine"]=8,
 	["plmbeachpete-shekzeer"]=7,
@@ -9462,7 +9462,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["tryinglock-shekzeer"]=17,
 	["trytorun-shekzeer"]=4,
 	["tsima-shekzeer"]=3,
-	["tslx-shekzeer"]=16,
+	["tslx-shekzeer"]=13,
 	["tsouvirak-garalon"]=1,
 	["tsüfî-mirage-raceway"]=15,
 	["tsukasà-auberdine"]=16,

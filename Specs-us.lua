@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5184 characters, read 2026-10-12 06:59 PM.
+-- Region us, 5184 characters, read 2026-10-12 07:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7459,7 +7459,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["knottypawz-pagle"]=17,
 	["knuckles-pagle"]=7,
 	["knucklès-pagle"]=2,
-	["knucklës-pagle"]=8,
+	["knucklës-pagle"]=28,
 	["knûckles-pagle"]=5,
 	["kñuckles-pagle"]=26,
 	["knuklefkr-nazgrim"]=24,
@@ -9189,7 +9189,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["sniper-raden"]=3,
 	["sniperfetzz-pagle"]=18,
 	["sniperr-raden"]=3,
-	["snipertwo-raden"]=3,
+	["snipertwo-raden"]=20,
 	["snitzelbelle-pagle"]=11,
 	["snobbkillah-pagle"]=29,
 	["snorken-lei-shen"]=3,
@@ -9359,7 +9359,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["stootns-nazgrim"]=15,
 	["stooty-nazgrim"]=7,
 	["stoptalkme-raden"]=4,
-	["stormdaddyx-pagle"]=19,
+	["stormdaddyx-pagle"]=22,
 	["størmie-raden"]=15,
 	["stormieskye-galakras"]=17,
 	["strange-raden"]=24,
