@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5180 characters, read 2026-10-13 03:59 PM.
+-- Region us, 5182 characters, read 2026-10-13 04:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -540,6 +540,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["bobalx-galakras"]=41,
 	["bobdabull-pagle"]=60,
 	["bobsapp-pagle"]=10,
+	["bobylight-pagle"]=11,
 	["bocena-pagle"]=41,
 	["bocenax-pagle"]=41,
 	["bodo-pagle"]=10,
@@ -847,7 +848,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["coloredgreen-immerseus"]=41,
 	["côlyn-pagle"]=220,
 	["combusst-raden"]=11,
-	["comeherepapi-raden"]=41,
+	["comeherepapi-raden"]=21,
 	["comethout-pagle"]=110,
 	["comfypillow-benediction"]=10,
 	["compassiion-raden"]=10,
@@ -2941,6 +2942,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["mozzi-raden"]=10,
 	["mp-raden"]=41,
 	["mslusty-pagle"]=11,
+	["msnurfme-raden"]=220,
 	["msr-galakras"]=80,
 	["msthickmeat-raden"]=31,
 	["mtj-atiesh"]=41,
@@ -3733,7 +3735,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["ryuù-raden"]=11,
 	["sabracadabra-raden"]=11,
 	["sacér-raden"]=10,
-	["sácera-raden"]=10,
+	["sácera-raden"]=11,
 	["sactrac-nazgrim"]=21,
 	["sadarade-raden"]=11,
 	["sadism-pagle"]=11,
@@ -5487,6 +5489,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["bobalx-galakras"]=4,
 	["bobdabull-pagle"]=22,
 	["bobsapp-pagle"]=14,
+	["bobylight-pagle"]=20,
 	["bocena-pagle"]=5,
 	["bocenax-pagle"]=5,
 	["bodo-pagle"]=7,
@@ -8015,6 +8018,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["mozzi-raden"]=7,
 	["mp-raden"]=9,
 	["mslusty-pagle"]=4,
+	["msnurfme-raden"]=17,
 	["msr-galakras"]=3,
 	["msthickmeat-raden"]=22,
 	["mtj-atiesh"]=17,
