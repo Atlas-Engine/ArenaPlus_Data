@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9449 characters, read 2026-10-12 07:58 PM.
+-- Region tbc-us, 9449 characters, read 2026-10-12 08:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10250,7 +10250,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bluerangea-nightslayer"]=24,
 	["bluescum-nightslayer"]=6,
 	["blueskies-dreamscythe"]=0,
-	["bluespy-nightslayer"]=6,
+	["bluespy-nightslayer"]=4,
 	["blueyvuitton-nightslayer"]=19,
 	["blumpysauce-dreamscythe"]=12,
 	["blunder-nightslayer"]=7,
@@ -11823,7 +11823,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["elontusk-nightslayer"]=19,
 	["elostehe-nightslayer"]=5,
 	["elosxd-nightslayer"]=5,
-	["elosz-nightslayer"]=8,
+	["elosz-nightslayer"]=5,
 	["elpollolocop-nightslayer"]=1,
 	["elsd-nightslayer"]=5,
 	["elssisqt-nightslayer"]=1,
@@ -12158,7 +12158,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["fistbuut-nightslayer"]=11,
 	["fitydkpminus-dreamscythe"]=4,
 	["fitzyz-nightslayer"]=19,
-	["fivebigdooms-nightslayer"]=13,
+	["fivebigdooms-nightslayer"]=23,
 	["fivesenjoyer-nightslayer"]=10,
 	["fivevfive-nightslayer"]=1,
 	["fivewounds-nightslayer"]=5,
@@ -15750,7 +15750,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["proxw-nightslayer"]=18,
 	["proxzz-nightslayer"]=13,
 	["pryydrom-nightslayer"]=13,
-	["psilocybé-nightslayer"]=21,
+	["psilocybé-nightslayer"]=17,
 	["pssman-nightslayer"]=7,
 	["psxo-nightslayer"]=1,
 	["psychoz-nightslayer"]=13,
@@ -17415,7 +17415,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["talladaga-nightslayer"]=1,
 	["tallborture-nightslayer"]=8,
 	["tallwrather-nightslayer"]=2,
-	["talond-nightslayer"]=7,
+	["talond-nightslayer"]=22,
 	["tamari-nightslayer"]=1,
 	["tamarisaayu-nightslayer"]=2,
 	["tamurax-nightslayer"]=7,
@@ -17423,7 +17423,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["tandrix-dreamscythe"]=13,
 	["tanggo-dreamscythe"]=2,
 	["tanglez-nightslayer"]=7,
-	["tankaa-dreamscythe"]=2,
+	["tankaa-dreamscythe"]=18,
 	["tankface-nightslayer"]=25,
 	["tanksbosinda-dreamscythe"]=2,
 	["tanktrack-nightslayer"]=2,
