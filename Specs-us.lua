@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5179 characters, read 2026-10-13 08:59 AM.
+-- Region us, 5179 characters, read 2026-10-13 09:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6961,7 +6961,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["holyangelz-pagle"]=2,
 	["holycanoli-galakras"]=2,
 	["holycøcktail-raden"]=2,
-	["holyfender-pagle"]=2,
+	["holyfender-pagle"]=16,
 	["holyfkbubs-pagle"]=2,
 	["holyflamez-pagle"]=2,
 	["holyfluxq-pagle"]=9,
@@ -7013,7 +7013,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["hueland-raden"]=1,
 	["hugehammr-lei-shen"]=16,
 	["hulksmashnow-lei-shen"]=7,
-	["humanpvpisez-pagle"]=10,
+	["humanpvpisez-pagle"]=4,
 	["hummuss-raden"]=7,
 	["hùnáy-pagle"]=11,
 	["hungfoo-pagle"]=6,
@@ -9360,7 +9360,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["stticka-pagle"]=1,
 	["studbolt-lei-shen"]=1,
 	["stuffyknows-raden"]=0,
-	["stungød-pagle"]=14,
+	["stungød-pagle"]=29,
 	["stwongspell-pagle"]=28,
 	["stylles-raden"]=10,
 	["subàti-pagle"]=9,
@@ -9380,7 +9380,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["sumbodee-pagle"]=7,
 	["sumgai-lei-shen"]=18,
 	["summondeez-pagle"]=28,
-	["sunflowerrz-raden"]=9,
+	["sunflowerrz-raden"]=13,
 	["sunný-raden"]=5,
 	["sunnybear-raden"]=9,
 	["supaawar-pagle"]=7,
@@ -9391,7 +9391,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["supermongo-pagle"]=7,
 	["superstikkyy-pagle"]=29,
 	["supersweat-pagle"]=7,
-	["survivorzx-raden"]=16,
+	["survivorzx-raden"]=2,
 	["sushibanks-pagle"]=7,
 	["sushichi-galakras"]=4,
 	["sushimaki-galakras"]=7,

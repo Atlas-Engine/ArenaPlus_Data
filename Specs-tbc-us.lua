@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9443 characters, read 2026-10-13 08:58 AM.
+-- Region tbc-us, 9443 characters, read 2026-10-13 09:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9817,7 +9817,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["backfliplord-nightslayer"]=10,
 	["bácon-dreamscythe"]=16,
 	["badchad-dreamscythe"]=24,
-	["badguysp-nightslayer"]=12,
+	["badguysp-nightslayer"]=1,
 	["badlarryx-dreamscythe"]=19,
 	["badle-nightslayer"]=7,
 	["badleshaman-nightslayer"]=19,
@@ -10514,7 +10514,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["burzy-nightslayer"]=18,
 	["buschlattez-nightslayer"]=4,
 	["bushwakkerr-nightslayer"]=2,
-	["busitwide-nightslayer"]=6,
+	["busitwide-nightslayer"]=4,
 	["bustmybubble-dreamscythe"]=1,
 	["butexiron-nightslayer"]=18,
 	["butir-nightslayer"]=19,
@@ -12463,7 +12463,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["getownedbk-nightslayer"]=11,
 	["getpopped-dreamscythe"]=2,
 	["getwrektlol-nightslayer"]=5,
-	["gexoffender-nightslayer"]=3,
+	["gexoffender-nightslayer"]=7,
 	["gfb-nightslayer"]=5,
 	["gghorn-nightslayer"]=17,
 	["gghostly-nightslayer"]=7,
@@ -13174,7 +13174,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["iloveguys-nightslayer"]=2,
 	["ilovemuney-nightslayer"]=17,
 	["ilpigll-nightslayer"]=1,
-	["ilumiel-nightslayer"]=1,
+	["ilumiel-nightslayer"]=14,
 	["imabadhunter-nightslayer"]=15,
 	["imadotyou-nightslayer"]=13,
 	["imafuhwhicha-nightslayer"]=5,
@@ -14307,7 +14307,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["magnilol-nightslayer"]=1,
 	["maheloo-nightslayer"]=19,
 	["mahmymilkers-dreamscythe"]=20,
-	["mainbeam-nightslayer"]=7,
+	["mainbeam-nightslayer"]=22,
 	["mainim-nightslayer"]=1,
 	["mainstreeam-dreamscythe"]=19,
 	["maintankonly-nightslayer"]=2,

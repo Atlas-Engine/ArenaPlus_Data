@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9792 characters, read 2026-10-13 08:59 AM.
+-- Region tbc-eu, 9792 characters, read 2026-10-13 09:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -15867,7 +15867,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["opaxx-spineshatter"]=23,
 	["openbar-spineshatter"]=4,
 	["opid-spineshatter"]=3,
-	["oppyrogche-thunderstrike"]=19,
+	["oppyrogche-thunderstrike"]=3,
 	["optionselect-spineshatter"]=21,
 	["orangejeeda-spineshatter"]=6,
 	["orannisha-spineshatter"]=11,
@@ -16268,7 +16268,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["preliwar-spineshatter"]=15,
 	["premier-spineshatter"]=1,
 	["premiummüsli-spineshatter"]=5,
-	["prepa-spineshatter"]=17,
+	["prepa-spineshatter"]=2,
 	["prepareone-spineshatter"]=9,
 	["prepuzzio-thunderstrike"]=4,
 	["presenterx-spineshatter"]=3,
@@ -16425,7 +16425,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["pyroqt-spineshatter"]=12,
 	["qanp-spineshatter"]=7,
 	["qapi-spineshatter"]=9,
-	["qaren-spineshatter"]=19,
+	["qaren-spineshatter"]=3,
 	["qeaunax-spineshatter"]=12,
 	["qeffx-spineshatter"]=3,
 	["qerkz-thunderstrike"]=1,
@@ -16614,7 +16614,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["reaperzx-spineshatter"]=3,
 	["reaptan-spineshatter"]=10,
 	["reasønable-spineshatter"]=7,
-	["reasonicus-spineshatter"]=4,
+	["reasonicus-spineshatter"]=9,
 	["reasoning-spineshatter"]=1,
 	["reavex-spineshatter"]=12,
 	["reazlïght-spineshatter"]=10,
@@ -17779,7 +17779,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["startwar-spineshatter"]=5,
 	["starygnom-spineshatter"]=13,
 	["stastnej-spineshatter"]=5,
-	["statice-spineshatter"]=10,
+	["statice-spineshatter"]=7,
 	["stayawayz-spineshatter"]=1,
 	["staylol-spineshatter"]=3,
 	["stdl-spineshatter"]=2,
@@ -17952,7 +17952,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["sureh-spineshatter"]=2,
 	["suriye-spineshatter"]=2,
 	["surkhaikhan-spineshatter"]=12,
-	["susanstrong-spineshatter"]=26,
+	["susanstrong-spineshatter"]=7,
 	["suspanda-thunderstrike"]=6,
 	["suspendbeun-spineshatter"]=2,
 	["sussyclass-spineshatter"]=1,
