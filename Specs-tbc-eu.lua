@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9810 characters, read 2026-10-13 06:59 AM.
+-- Region tbc-eu, 9810 characters, read 2026-10-13 07:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -15738,7 +15738,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["nothief-spineshatter"]=3,
 	["notindanger-spineshatter"]=17,
 	["notmageek-thunderstrike"]=12,
-	["notnotyou-spineshatter"]=14,
+	["notnotyou-spineshatter"]=13,
 	["notoríous-spineshatter"]=5,
 	["notoríousx-spineshatter"]=3,
 	["notpompyro-spineshatter"]=9,
@@ -17134,7 +17134,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["secretp-thunderstrike"]=8,
 	["secretwarlk-spineshatter"]=13,
 	["sedania-thunderstrike"]=2,
-	["seduce-spineshatter"]=13,
+	["seduce-spineshatter"]=18,
 	["seedixy-spineshatter"]=13,
 	["seedparser-thunderstrike"]=18,
 	["seeyalolz-thunderstrike"]=3,
@@ -17844,7 +17844,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["steponmeuwu-spineshatter"]=3,
 	["stepsîs-spineshatter"]=3,
 	["stepsoundz-thunderstrike"]=3,
-	["stepu-spineshatter"]=24,
+	["stepu-spineshatter"]=25,
 	["stepwgn-spineshatter"]=11,
 	["stepx-spineshatter"]=3,
 	["stevebuscemí-spineshatter"]=2,

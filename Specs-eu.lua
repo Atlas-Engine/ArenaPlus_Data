@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5337 characters, read 2026-10-13 07:00 AM.
+-- Region eu, 5337 characters, read 2026-10-13 08:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7093,7 +7093,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["jakam-shekzeer"]=21,
 	["jakamoto-shekzeer"]=17,
 	["jakamotô-shekzeer"]=17,
-	["jakamstar-shekzeer"]=24,
+	["jakamstar-shekzeer"]=26,
 	["jakele-garalon"]=16,
 	["jakesp-garalon"]=12,
 	["jakoba-norushen"]=6,
@@ -8143,7 +8143,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["noormal-shekzeer"]=20,
 	["noproblems-mirage-raceway"]=1,
 	["nørmanna-shekzeer"]=0,
-	["normanqt-shekzeer"]=6,
+	["normanqt-shekzeer"]=7,
 	["norskugle-shekzeer"]=11,
 	["northtoad-shekzeer"]=8,
 	["noscopee-shekzeer"]=4,
@@ -8937,7 +8937,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["shockpowerr-shekzeer"]=5,
 	["shoesolex-everlook"]=14,
 	["shoqx-ook-ook"]=6,
-	["shotkill-mirage-raceway"]=24,
+	["shotkill-mirage-raceway"]=26,
 	["shotq-shekzeer"]=4,
 	["shotqu-shekzeer"]=2,
 	["shoxxyzlol-ook-ook"]=4,
