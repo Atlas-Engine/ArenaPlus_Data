@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5179 characters, read 2026-10-13 12:59 PM.
+-- Region us, 5180 characters, read 2026-10-13 01:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1743,6 +1743,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["gøàtbrádlëê-raden"]=110,
 	["goatler-benediction"]=41,
 	["goblynndez-galakras"]=80,
+	["goegta-raden"]=10,
 	["gognmagog-pagle"]=41,
 	["gogo-raden"]=11,
 	["goingtobust-pagle"]=10,
@@ -6261,7 +6262,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dumbpoptart-benediction"]=7,
 	["dumdum-nazgrim"]=18,
 	["dúmß-raden"]=7,
-	["dunardel-raden"]=7,
+	["dunardel-raden"]=30,
 	["dunkindotnut-raden"]=0,
 	["dunkyb-raden"]=1,
 	["dunstanx-raden"]=0,
@@ -6275,7 +6276,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dvz-pagle"]=7,
 	["dweebz-pagle"]=22,
 	["dwells-raden"]=0,
-	["dwl-raden"]=5,
+	["dwl-raden"]=12,
 	["dyingwhale-pagle"]=3,
 	["Ðyst-pagle"]=11,
 	["dystopia-pagle"]=12,
@@ -6341,7 +6342,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["eltoromu-nazgrim"]=5,
 	["elusivenes-raden"]=29,
 	["eluulttv-raden"]=10,
-	["eluveth-pagle"]=9,
+	["eluveth-pagle"]=21,
 	["elvaqueromoo-immerseus"]=16,
 	["elvius-raden"]=7,
 	["elyä-pagle"]=16,
@@ -6746,6 +6747,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["gøàtbrádlëê-raden"]=2,
 	["goatler-benediction"]=3,
 	["goblynndez-galakras"]=6,
+	["goegta-raden"]=16,
 	["gognmagog-pagle"]=12,
 	["gogo-raden"]=1,
 	["goinghamms-immerseus"]=0,
