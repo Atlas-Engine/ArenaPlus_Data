@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9450 characters, read 2026-10-13 02:58 AM.
+-- Region tbc-us, 9450 characters, read 2026-10-13 03:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12086,7 +12086,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["feesherr-nightslayer"]=14,
 	["feldargon-nightslayer"]=13,
 	["feldozer-dreamscythe"]=15,
-	["feleaf-nightslayer"]=2,
+	["feleaf-nightslayer"]=18,
 	["felóny-nightslayer"]=5,
 	["felorder-nightslayer"]=16,
 	["femboyhj-nightslayer"]=15,
@@ -15002,7 +15002,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["niceguycanni-nightslayer"]=2,
 	["niceguytho-nightslayer"]=12,
 	["nicepriest-nightslayer"]=1,
-	["niceshirt-nightslayer"]=5,
+	["niceshirt-nightslayer"]=8,
 	["nickbuonomo-nightslayer"]=5,
 	["nickdrood-nightslayer"]=3,
 	["nîckolas-nightslayer"]=5,
@@ -15492,7 +15492,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["perryerhoni-nightslayer"]=11,
 	["perrywashdup-nightslayer"]=4,
 	["persiphone-nightslayer"]=2,
-	["personah-nightslayer"]=4,
+	["personah-nightslayer"]=6,
 	["perthorin-nightslayer"]=5,
 	["petehegseth-nightslayer"]=1,
 	["petiteteen-nightslayer"]=13,

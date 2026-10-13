@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9809 characters, read 2026-10-13 02:59 AM.
+-- Region tbc-eu, 9809 characters, read 2026-10-13 03:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9773,7 +9773,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["abolishrs-spineshatter"]=7,
 	["abovenbeyond-spineshatter"]=23,
 	["abrødolph-spineshatter"]=1,
-	["absá-spineshatter"]=19,
+	["absá-spineshatter"]=3,
 	["absosx-spineshatter"]=13,
 	["abusala-spineshatter"]=4,
 	["abyzctrl-spineshatter"]=3,
@@ -9830,7 +9830,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["Æzys-spineshatter"]=23,
 	["afaryz-spineshatter"]=13,
 	["affii-thunderstrike"]=18,
-	["afflikékz-spineshatter"]=5,
+	["afflikékz-spineshatter"]=15,
 	["afhn-spineshatter"]=5,
 	["afjea-spineshatter"]=9,
 	["afrøløck-spineshatter"]=13,
@@ -11119,7 +11119,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["chx-spineshatter"]=2,
 	["chyrok-spineshatter"]=13,
 	["chz-spineshatter"]=10,
-	["cialt-thunderstrike"]=15,
+	["cialt-thunderstrike"]=5,
 	["cicá-thunderstrike"]=5,
 	["cicasaurus-thunderstrike"]=7,
 	["cicilol-spineshatter"]=8,
