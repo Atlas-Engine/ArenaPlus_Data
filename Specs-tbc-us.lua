@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9449 characters, read 2026-10-12 08:58 PM.
+-- Region tbc-us, 9449 characters, read 2026-10-12 09:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10362,7 +10362,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["boxbanger-nightslayer"]=3,
 	["boxeddots-nightslayer"]=23,
 	["boxedkazzy-nightslayer"]=1,
-	["boxing-nightslayer"]=8,
+	["boxing-nightslayer"]=5,
 	["boxxing-nightslayer"]=5,
 	["boybro-nightslayer"]=1,
 	["boysouls-nightslayer"]=1,
@@ -11687,7 +11687,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["dunmilion-nightslayer"]=1,
 	["dunmofu-nightslayer"]=5,
 	["dunnersh-nightslayer"]=15,
-	["dunstanttv-nightslayer"]=6,
+	["dunstanttv-nightslayer"]=4,
 	["dunstantv-nightslayer"]=4,
 	["dunyain-nightslayer"]=1,
 	["dunyainpal-nightslayer"]=11,
@@ -17168,7 +17168,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["stealthden-nightslayer"]=5,
 	["stealthdog-nightslayer"]=5,
 	["stealthlol-nightslayer"]=5,
-	["stealthster-nightslayer"]=8,
+	["stealthster-nightslayer"]=5,
 	["stealthsters-nightslayer"]=8,
 	["stealthyman-nightslayer"]=5,
 	["steamtonkx-nightslayer"]=15,
@@ -18170,7 +18170,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["vynthos-nightslayer"]=2,
 	["vyserion-nightslayer"]=18,
 	["waas-nightslayer"]=7,
-	["wåãx-nightslayer"]=6,
+	["wåãx-nightslayer"]=4,
 	["wabin-nightslayer"]=25,
 	["wackmid-nightslayer"]=5,
 	["waddamelons-nightslayer"]=4,

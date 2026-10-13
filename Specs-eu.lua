@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5335 characters, read 2026-10-12 09:00 PM.
+-- Region eu, 5336 characters, read 2026-10-12 10:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2348,6 +2348,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["lkdsjciks-shekzeer"]=41,
 	["lkkrwiepen-shekzeer"]=11,
 	["llorona-garalon"]=51,
+	["lloyddru-garalon"]=60,
 	["loadcum-shekzeer"]=111,
 	["lockdjävul-mirage-raceway"]=11,
 	["lockdownqt-everlook"]=50,
@@ -3864,6 +3865,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["strangulol-ook-ook"]=20,
 	["straviouse-hoptallus"]=10,
 	["strick-norushen"]=21,
+	["strikex-shekzeer"]=21,
 	["strikexo-shekzeer"]=11,
 	["strip-mirage-raceway"]=10,
 	["striva-mirage-raceway"]=111,
@@ -7556,6 +7558,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["lkdsjciks-shekzeer"]=3,
 	["lkkrwiepen-shekzeer"]=6,
 	["llorona-garalon"]=14,
+	["lloyddru-garalon"]=3,
 	["loadcum-shekzeer"]=13,
 	["lockdjävul-mirage-raceway"]=23,
 	["lockdownqt-everlook"]=23,
@@ -9146,7 +9149,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["strangulol-ook-ook"]=8,
 	["straviouse-hoptallus"]=5,
 	["strick-norushen"]=25,
-	["strikex-shekzeer"]=0,
+	["strikex-shekzeer"]=20,
 	["strikexo-shekzeer"]=4,
 	["strip-mirage-raceway"]=6,
 	["striva-mirage-raceway"]=1,
@@ -10229,7 +10232,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Кавайняк-flamegor"]=0,
 	["Камбрес-flamegor"]=15,
 	["Камишечка-flamegor"]=15,
-	["Канва-flamegor"]=19,
+	["Канва-flamegor"]=16,
 	["Канонисса-chromie"]=15,
 	["Капорежиме-flamegor"]=1,
 	["Карлря-chromie"]=4,
