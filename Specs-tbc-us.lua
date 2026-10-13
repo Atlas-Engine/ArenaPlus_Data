@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9442 characters, read 2026-10-13 11:58 AM.
+-- Region tbc-us, 9442 characters, read 2026-10-13 12:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12124,7 +12124,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["fingerpainx-nightslayer"]=2,
 	["finlay-dreamscythe"]=7,
 	["finnasqwert-nightslayer"]=14,
-	["finnka-nightslayer"]=6,
+	["finnka-nightslayer"]=4,
 	["finnwyn-dreamscythe"]=21,
 	["finr-nightslayer"]=4,
 	["finsoup-nightslayer"]=5,
@@ -14966,7 +14966,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["nêvêrßûßßlê-nightslayer"]=11,
 	["nevetsx-nightslayer"]=7,
 	["nevsauce-nightslayer"]=5,
-	["nevve-nightslayer"]=8,
+	["nevve-nightslayer"]=5,
 	["nevvé-nightslayer"]=7,
 	["nevye-nightslayer"]=4,
 	["newfatz-nightslayer"]=24,
@@ -17167,7 +17167,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["stepshaman-nightslayer"]=10,
 	["stepsïs-dreamscythe"]=2,
 	["sterby-nightslayer"]=9,
-	["stevethewar-nightslayer"]=18,
+	["stevethewar-nightslayer"]=2,
 	["stevochains-nightslayer"]=19,
 	["stewball-nightslayer"]=10,
 	["sthador-nightslayer"]=2,
@@ -18584,7 +18584,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["yomblast-nightslayer"]=10,
 	["yombom-nightslayer"]=9,
 	["yomeh-nightslayer"]=1,
-	["Ÿømï-nightslayer"]=4,
+	["Ÿømï-nightslayer"]=6,
 	["yonce-nightslayer"]=19,
 	["yondos-nightslayer"]=10,
 	["yooti-dreamscythe"]=2,
