@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5180 characters, read 2026-10-13 12:59 AM.
+-- Region us, 5180 characters, read 2026-10-13 01:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5844,7 +5844,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["cptstabbin-pagle"]=14,
 	["crabrangoon-galakras"]=16,
 	["cradlemebro-raden"]=7,
-	["cranberryyl-pagle"]=3,
+	["cranberryyl-pagle"]=18,
 	["craniüm-pagle"]=7,
 	["crapbucket-raden"]=17,
 	["crapes-immerseus"]=12,
@@ -7447,11 +7447,11 @@ ns.SPECS_BY_REGION["us"] = {
 	["klept-raden"]=10,
 	["kleptix-raden"]=34,
 	["knottypawz-pagle"]=17,
-	["knuckles-pagle"]=7,
+	["knuckles-pagle"]=23,
 	["knucklès-pagle"]=2,
 	["knucklës-pagle"]=28,
 	["knûckles-pagle"]=5,
-	["kñuckles-pagle"]=26,
+	["kñuckles-pagle"]=6,
 	["knuklefkr-nazgrim"]=24,
 	["kokuzin-pagle"]=7,
 	["kolokk-immerseus"]=26,
@@ -8107,7 +8107,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["neat-immerseus"]=24,
 	["nebubanana-raden"]=8,
 	["nebuboom-nazgrim"]=17,
-	["nebugrape-raden"]=24,
+	["nebugrape-raden"]=8,
 	["nebupeach-nazgrim"]=8,
 	["nebuplum-raden"]=8,
 	["necris-galakras"]=6,
