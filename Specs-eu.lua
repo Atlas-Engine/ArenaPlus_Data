@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5336 characters, read 2026-10-13 05:00 PM.
+-- Region eu, 5336 characters, read 2026-10-13 06:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2278,7 +2278,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["leanidaass-shekzeer"]=11,
 	["leedsform-shekzeer"]=41,
 	["leetow-mirage-raceway"]=261,
-	["legend-shekzeer"]=10,
+	["legend-shekzeer"]=11,
 	["lehunt-shekzeer"]=11,
 	["leisure-shekzeer"]=11,
 	["lekxy-shekzeer"]=11,
@@ -5751,7 +5751,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bs-mirage-raceway"]=13,
 	["bsdprime-shekzeer"]=6,
 	["bsød-mirage-raceway"]=13,
-	["bubblebêé-everlook"]=15,
+	["bubblebêé-everlook"]=5,
 	["bubblegmz-mirage-raceway"]=12,
 	["bubblemonk-shekzeer"]=29,
 	["búbblès-shekzeer"]=17,
@@ -5784,7 +5784,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bustercall-shekzeer"]=1,
 	["bùtcher-shekzeer"]=1,
 	["buttérfly-garalon"]=2,
-	["buttons-shekzeer"]=26,
+	["buttons-shekzeer"]=24,
 	["buxuna-shekzeer"]=21,
 	["buzzey-shekzeer"]=28,
 	["býàkùgan-shekzeer"]=6,
@@ -10005,7 +10005,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["zethmaster-garalon"]=1,
 	["zéus-shekzeer"]=1,
 	["zeuzpwn-mirage-raceway"]=16,
-	["zeyox-shekzeer"]=27,
+	["zeyox-shekzeer"]=2,
 	["zgabaløut-auberdine"]=20,
 	["zheyx-shekzeer"]=13,
 	["zhili-hoptallus"]=0,

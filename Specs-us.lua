@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5182 characters, read 2026-10-13 04:59 PM.
+-- Region us, 5182 characters, read 2026-10-13 05:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5659,9 +5659,9 @@ ns.SPECS_BY_REGION["us"] = {
 	["calmish-lei-shen"]=10,
 	["camerano-pagle"]=7,
 	["candity-arugal-au"]=3,
-	["candykanes-pagle"]=28,
+	["candykanes-pagle"]=24,
 	["canera-galakras"]=10,
-	["canible-raden"]=1,
+	["canible-raden"]=31,
 	["cannabimorph-pagle"]=5,
 	["cannibirilla-pagle"]=7,
 	["cantgetmeoff-pagle"]=7,
@@ -5718,7 +5718,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["chaossy-pagle"]=24,
 	["chaotichunts-galakras"]=0,
 	["chaoticrush-lei-shen"]=24,
-	["charleez-nazgrim"]=21,
+	["charleez-nazgrim"]=9,
 	["chathdria-nazgrim"]=9,
 	["cheapoe-galakras"]=27,
 	["chechorojas-galakras"]=29,
@@ -6875,7 +6875,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["harókz-raden"]=25,
 	["haroldpugh-raden"]=3,
 	["harrick-immerseus"]=34,
-	["härrick-immerseus"]=20,
+	["härrick-immerseus"]=3,
 	["harrydotter-raden"]=28,
 	["haruchann-pagle"]=10,
 	["hashie-pagle"]=12,
