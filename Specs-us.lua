@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5181 characters, read 2026-10-13 07:59 PM.
+-- Region us, 5181 characters, read 2026-10-13 08:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1258,7 +1258,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["druidtrainer-arugal-au"]=41,
 	["drummah-pagle"]=40,
 	["drumuss-galakras"]=80,
-	["drunknßeagle-lei-shen"]=250,
+	["drunknßeagle-lei-shen"]=251,
 	["drwick-pagle"]=40,
 	["Ðßøzxs-raden"]=11,
 	["dtax-pagle"]=20,
@@ -4020,7 +4020,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["slumpirlpov-raden"]=250,
 	["slumplord-raden"]=11,
 	["slumplordx-raden"]=11,
-	["smallrass-pagle"]=70,
 	["smalltrain-pagle"]=30,
 	["smartpastry-pagle"]=11,
 	["smashdeez-nazgrim"]=20,
@@ -5209,7 +5208,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["asthenoz-pagle"]=6,
 	["astraea-arugal-au"]=9,
 	["astrea-raden"]=7,
-	["astríds-pagle"]=18,
+	["astríds-pagle"]=3,
 	["astyus-pagle"]=7,
 	["asunari-pagle"]=3,
 	["asunyobi-pagle"]=10,
@@ -6134,7 +6133,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dmlolz-raden"]=2,
 	["dntsteponme-pagle"]=31,
 	["Ðø-lei-shen"]=1,
-	["docë-raden"]=2,
+	["docë-raden"]=16,
 	["dodohee-pagle"]=16,
 	["dogkisseryum-pagle"]=24,
 	["dogsbuster-pagle"]=18,
@@ -9150,7 +9149,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["slumpirlpov-raden"]=1,
 	["slumplord-raden"]=14,
 	["slumplordx-raden"]=14,
-	["smallrass-pagle"]=7,
+	["smallrass-pagle"]=0,
 	["smalltrain-pagle"]=15,
 	["smartpastry-pagle"]=14,
 	["smashdeez-nazgrim"]=30,
