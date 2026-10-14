@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9784 characters, read 2026-10-14 02:59 AM.
+-- Region tbc-eu, 9785 characters, read 2026-10-14 03:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3179,6 +3179,7 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["gozxprime-spineshatter"]=50,
 	["gøzzie-spineshatter"]=21,
 	["gqdance-thunderstrike"]=101,
+	["grandenmouer-spineshatter"]=50,
 	["grandmasterp-spineshatter"]=10,
 	["granimafia-spineshatter"]=20,
 	["grashokk-thunderstrike"]=20,
@@ -12640,7 +12641,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["frostqueenqt-spineshatter"]=9,
 	["frosttitutee-thunderstrike"]=4,
 	["frosttoe-spineshatter"]=4,
-	["frostylol-spineshatter"]=9,
+	["frostylol-spineshatter"]=4,
 	["frozendiva-spineshatter"]=9,
 	["frshprncfblr-spineshatter"]=11,
 	["fruitheal-spineshatter"]=1,
@@ -12880,6 +12881,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["gozxprime-spineshatter"]=3,
 	["gøzzie-spineshatter"]=12,
 	["gqdance-thunderstrike"]=3,
+	["grandenmouer-spineshatter"]=8,
 	["grandmasterp-spineshatter"]=13,
 	["granimafia-spineshatter"]=16,
 	["grashokk-thunderstrike"]=13,
@@ -15271,7 +15273,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["mufusa-spineshatter"]=5,
 	["muggbert-spineshatter"]=3,
 	["mugrza-spineshatter"]=9,
-	["muguu-spineshatter"]=9,
+	["muguu-spineshatter"]=4,
 	["muharem-spineshatter"]=5,
 	["mukcepyxa-spineshatter"]=12,
 	["mulgx-thunderstrike"]=2,
@@ -17037,7 +17039,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["schtonkad-spineshatter"]=3,
 	["schurke-spineshatter"]=3,
 	["schurkelade-spineshatter"]=3,
-	["schwabadaba-spineshatter"]=11,
+	["schwabadaba-spineshatter"]=12,
 	["schwanso-spineshatter"]=2,
 	["schyzza-spineshatter"]=9,
 	["sciddlidoo-spineshatter"]=13,
@@ -18662,7 +18664,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["vanty-spineshatter"]=2,
 	["vanvid-spineshatter"]=3,
 	["vappupekone-spineshatter"]=26,
-	["varakari-spineshatter"]=1,
+	["varakari-spineshatter"]=6,
 	["vardenfail-spineshatter"]=6,
 	["variety-spineshatter"]=3,
 	["varya-spineshatter"]=3,
