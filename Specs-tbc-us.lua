@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9429 characters, read 2026-10-14 04:58 PM.
+-- Region tbc-us, 9429 characters, read 2026-10-14 05:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9811,7 +9811,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["badrastas-nightslayer"]=4,
 	["badraztas-nightslayer"]=5,
 	["badßünny-nightslayer"]=8,
-	["badtooglad-nightslayer"]=1,
+	["badtooglad-nightslayer"]=12,
 	["badzor-nightslayer"]=2,
 	["bäe-nightslayer"]=1,
 	["baekek-nightslayer"]=0,
@@ -11195,7 +11195,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["dasishocks-dreamscythe"]=10,
 	["datgalbig-nightslayer"]=1,
 	["dature-dreamscythe"]=18,
-	["daub-nightslayer"]=5,
+	["daub-nightslayer"]=8,
 	["dauntleastx-nightslayer"]=1,
 	["daveedz-nightslayer"]=5,
 	["davelol-nightslayer"]=2,
@@ -16595,7 +16595,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["shieldabuser-nightslayer"]=12,
 	["shieldtron-nightslayer"]=25,
 	["shieldwalker-nightslayer"]=2,
-	["shiesty-nightslayer"]=14,
+	["shiesty-nightslayer"]=1,
 	["shiestyfn-nightslayer"]=5,
 	["shifteii-nightslayer"]=7,
 	["shiftez-dreamscythe"]=22,

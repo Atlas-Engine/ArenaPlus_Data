@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5336 characters, read 2026-10-14 05:00 PM.
+-- Region eu, 5336 characters, read 2026-10-14 06:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5799,7 +5799,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["cabalthewar-everlook"]=1,
 	["cadiack-auberdine"]=7,
 	["caerys-auberdine"]=2,
-	["cafeine-shekzeer"]=6,
+	["cafeine-shekzeer"]=29,
 	["Çaims-auberdine"]=16,
 	["caísy-garalon"]=9,
 	["calculated-norushen"]=10,
@@ -5843,7 +5843,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["caypirinha-shekzeer"]=7,
 	["cazador-shekzeer"]=4,
 	["cbsboss-norushen"]=4,
-	["ccreticsback-mirage-raceway"]=18,
+	["ccreticsback-mirage-raceway"]=1,
 	["cdewig-shekzeer"]=13,
 	["ceendar-auberdine"]=3,
 	["ceendare-auberdine"]=31,
@@ -5879,7 +5879,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["chargedif-shekzeer"]=1,
 	["charity-garalon"]=9,
 	["charityrevn-shekzeer"]=1,
-	["charityshift-shekzeer"]=3,
+	["charityshift-shekzeer"]=21,
 	["charoma-shekzeer"]=3,
 	["charos-norushen"]=16,
 	["châs-everlook"]=1,
@@ -6332,7 +6332,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["dxbam-shekzeer"]=9,
 	["dxbme-shekzeer"]=2,
 	["dxbom-shekzeer"]=3,
-	["dynalhia-mirage-raceway"]=18,
+	["dynalhia-mirage-raceway"]=1,
 	["dynarsia-shekzeer"]=3,
 	["dynther-shekzeer"]=1,
 	["dyrven-shekzeer"]=3,
@@ -6921,7 +6921,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["holywar-shekzeer"]=9,
 	["honshu-shekzeer"]=16,
 	["hoodtrap-shekzeer"]=20,
-	["hoofhoof-hoptallus"]=21,
+	["hoofhoof-hoptallus"]=11,
 	["hopeéloolxd-shekzeer"]=23,
 	["høpps-norushen"]=9,
 	["horderising-shekzeer"]=11,
@@ -7076,7 +7076,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["jackson-ook-ook"]=1,
 	["jackynko-hoptallus"]=15,
 	["jäckynko-hoptallus"]=4,
-	["jäckynkô-hoptallus"]=7,
+	["jäckynkô-hoptallus"]=6,
 	["jackynkoo-hoptallus"]=8,
 	["jäckynkôô-hoptallus"]=6,
 	["jackynoo-hoptallus"]=19,
@@ -8441,7 +8441,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["praystation-ook-ook"]=22,
 	["predak-mirage-raceway"]=14,
 	["premanchan-everlook"]=26,
-	["prénium-auberdine"]=3,
+	["prénium-auberdine"]=21,
 	["préservateaf-auberdine"]=2,
 	["prezik-shekzeer"]=4,
 	["prîestotp-shekzeer"]=9,
@@ -8979,7 +8979,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["skatokolos-shekzeer"]=16,
 	["skepnad-mirage-raceway"]=12,
 	["skinnypsycho-shekzeer"]=3,
-	["skinnywintrd-shekzeer"]=3,
+	["skinnywintrd-shekzeer"]=11,
 	["skinwalker-shekzeer"]=11,
 	["skonark-auberdine"]=1,
 	["skonsi-mirage-raceway"]=6,
