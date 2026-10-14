@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5183 characters, read 2026-10-14 05:59 AM.
+-- Region us, 5183 characters, read 2026-10-14 06:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5032,7 +5032,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["aellane-pagle"]=26,
 	["Ærîthøs-pagle"]=16,
 	["aeroes-pagle"]=3,
-	["aerzkei-arugal-au"]=17,
+	["aerzkei-arugal-au"]=5,
 	["aës-pagle"]=1,
 	["afekz-immerseus"]=14,
 	["affliktt-arugal-au"]=9,
@@ -5224,7 +5224,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["aureateblue-raden"]=0,
 	["aureatex-raden"]=1,
 	["aurim-nazgrim"]=10,
-	["aussiefury-galakras"]=23,
+	["aussiefury-galakras"]=7,
 	["austiin-immerseus"]=6,
 	["autismaxxer-arugal-au"]=3,
 	["avelorn-pagle"]=3,
@@ -6401,7 +6401,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["everlast-raden"]=24,
 	["evil-immerseus"]=21,
 	["evilbrewslee-raden"]=4,
-	["evilchicken-raden"]=17,
+	["evilchicken-raden"]=5,
 	["evilforcesgx-pagle"]=14,
 	["evilxdream-raden"]=5,
 	["evilxeevee-raden"]=9,
@@ -7479,7 +7479,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["kroun-raden"]=14,
 	["krpriest-nazgrim"]=13,
 	["ksoldier-pagle"]=16,
-	["kthall-pagle"]=23,
+	["kthall-pagle"]=30,
 	["ktm-lei-shen"]=5,
 	["ktzz-pagle"]=0,
 	["kungfugrip-arugal-au"]=10,
@@ -7562,7 +7562,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["leowna-pagle"]=16,
 	["leownaa-pagle"]=2,
 	["lepermesiah-pagle"]=20,
-	["lepson-nazgrim"]=7,
+	["lepson-nazgrim"]=23,
 	["leroy-galakras"]=23,
 	["lester-raden"]=3,
 	["lesthoukov-pagle"]=3,
@@ -8584,7 +8584,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["quartêrmain-pagle"]=3,
 	["quelss-pagle"]=2,
 	["quesø-pagle"]=29,
-	["questopresto-nazgrim"]=4,
+	["questopresto-nazgrim"]=27,
 	["quickscopex-pagle"]=3,
 	["quickvanish-pagle"]=34,
 	["qwanya-raden"]=1,
@@ -9590,7 +9590,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["tonieh-pagle"]=1,
 	["toodlezz-pagle"]=14,
 	["tooquik-lei-shen"]=14,
-	["toorun-pagle"]=21,
+	["toorun-pagle"]=13,
 	["topshottaa-pagle"]=7,
 	["toquiktokill-benediction"]=20,
 	["torco-immerseus"]=18,
@@ -9642,7 +9642,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["trenabuser-raden"]=0,
 	["trëv-galakras"]=24,
 	["trevoso-pagle"]=28,
-	["triis-pagle"]=8,
+	["triis-pagle"]=28,
 	["trinketcleav-pagle"]=29,
 	["triskets-pagle"]=7,
 	["trisomi-pagle"]=18,
