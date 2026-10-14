@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5330 characters, read 2026-10-14 05:00 AM.
+-- Region eu, 5330 characters, read 2026-10-14 06:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7502,7 +7502,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["levn-shekzeer"]=4,
 	["levna-shekzeer"]=3,
 	["lexyka-shekzeer"]=6,
-	["leyna-shekzeer"]=17,
+	["leyna-shekzeer"]=28,
 	["lfhealonmain-shekzeer"]=9,
 	["lgcy-shekzeer"]=24,
 	["liadrìn-garalon"]=5,
@@ -9683,7 +9683,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["wahtsup-shekzeer"]=6,
 	["waitwhatbro-shekzeer"]=3,
 	["waix-shekzeer"]=10,
-	["wakkabayashi-norushen"]=15,
+	["wakkabayashi-norushen"]=5,
 	["wãlter-shekzeer"]=9,
 	["warcrimes-shekzeer"]=1,
 	["wardz-mirage-raceway"]=2,
@@ -9698,7 +9698,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["warsonger-auberdine"]=1,
 	["warßam-auberdine"]=1,
 	["wartinkin-norushen"]=8,
-	["wasabî-auberdine"]=13,
+	["wasabî-auberdine"]=16,
 	["wasapwasap-shekzeer"]=4,
 	["wassimar-mirage-raceway"]=17,
 	["wasterzhi-hoptallus"]=15,
@@ -9735,7 +9735,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["whowhatwhen-shekzeer"]=11,
 	["whynøøt-shekzeer"]=4,
 	["whytrytooez-shekzeer"]=9,
-	["wicc-shekzeer"]=26,
+	["wicc-shekzeer"]=24,
 	["wickdnwild-shekzeer"]=24,
 	["widøwmaker-auberdine"]=1,
 	["wigglewiggle-mirage-raceway"]=4,
@@ -10451,7 +10451,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Хилпых-flamegor"]=3,
 	["Хихихахахихи-flamegor"]=5,
 	["Хишнык-flamegor"]=0,
-	["Хлебодар-flamegor"]=15,
+	["Хлебодар-flamegor"]=5,
 	["Холлигерл-flamegor"]=9,
 	["Хорнилавхъх-flamegor"]=19,
 	["Хрендол-flamegor"]=21,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9429 characters, read 2026-10-14 04:58 AM.
+-- Region tbc-us, 9429 characters, read 2026-10-14 05:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -13052,7 +13052,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["huzzpatrol-dreamscythe"]=11,
 	["hvx-dreamscythe"]=19,
 	["hybridchaos-dreamscythe"]=16,
-	["hybro-nightslayer"]=18,
+	["hybro-nightslayer"]=2,
 	["hybroo-nightslayer"]=8,
 	["hybroox-nightslayer"]=7,
 	["hybrox-nightslayer"]=15,
@@ -14943,7 +14943,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["neverbegan-nightslayer"]=1,
 	["neverdispel-nightslayer"]=12,
 	["neverhere-nightslayer"]=0,
-	["neverhunts-dreamscythe"]=17,
+	["neverhunts-dreamscythe"]=15,
 	["nêvêrßûßßlê-nightslayer"]=11,
 	["nevetsx-nightslayer"]=7,
 	["nevsauce-nightslayer"]=5,
@@ -15778,7 +15778,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["pwz-nightslayer"]=8,
 	["pwzwf-nightslayer"]=10,
 	["pyami-nightslayer"]=7,
-	["pylol-nightslayer"]=6,
+	["pylol-nightslayer"]=4,
 	["pylore-nightslayer"]=2,
 	["pyo-nightslayer"]=5,
 	["pyrem-nightslayer"]=6,
