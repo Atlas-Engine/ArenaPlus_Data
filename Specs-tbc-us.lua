@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9428 characters, read 2026-10-14 11:58 AM.
+-- Region tbc-us, 9428 characters, read 2026-10-14 12:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10314,7 +10314,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bootc-nightslayer"]=0,
 	["bootii-dreamscythe"]=13,
 	["bootzphd-nightslayer"]=5,
-	["booxo-nightslayer"]=4,
+	["booxo-nightslayer"]=6,
 	["booyahblastx-nightslayer"]=24,
 	["boozeplease-nightslayer"]=2,
 	["bøpped-nightslayer"]=11,
@@ -12136,7 +12136,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["fishzaza-nightslayer"]=18,
 	["fiske-nightslayer"]=20,
 	["fistbuut-nightslayer"]=11,
-	["fitydkpminus-dreamscythe"]=4,
+	["fitydkpminus-dreamscythe"]=26,
 	["fitzyz-nightslayer"]=19,
 	["fivebigdooms-nightslayer"]=23,
 	["fivesenjoyer-nightslayer"]=10,
@@ -12345,7 +12345,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["gabry-nightslayer"]=2,
 	["gaea-nightslayer"]=22,
 	["gaealight-nightslayer"]=4,
-	["gaekpoong-nightslayer"]=10,
+	["gaekpoong-nightslayer"]=19,
 	["gaenari-nightslayer"]=14,
 	["gafboy-nightslayer"]=23,
 	["galactik-nightslayer"]=19,
@@ -17190,7 +17190,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["stormtroopa-nightslayer"]=17,
 	["stormweener-dreamscythe"]=18,
 	["stormxy-nightslayer"]=24,
-	["stormydanels-nightslayer"]=24,
+	["stormydanels-nightslayer"]=10,
 	["stormytbc-nightslayer"]=22,
 	["storyupbud-dreamscythe"]=1,
 	["stoshie-nightslayer"]=18,
