@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5336 characters, read 2026-10-14 02:00 PM.
+-- Region eu, 5336 characters, read 2026-10-14 03:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6318,7 +6318,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["dunderpallan-shekzeer"]=5,
 	["dunkelheit-shekzeer"]=9,
 	["dúpond-auberdine"]=3,
-	["durianlover-shekzeer"]=3,
+	["durianlover-shekzeer"]=11,
 	["duskmeh-shekzeer"]=1,
 	["duskyn-shekzeer"]=20,
 	["dusoleil-shekzeer"]=24,
@@ -6330,7 +6330,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["dxbam-shekzeer"]=9,
 	["dxbme-shekzeer"]=2,
 	["dxbom-shekzeer"]=3,
-	["dynalhia-mirage-raceway"]=1,
+	["dynalhia-mirage-raceway"]=18,
 	["dynarsia-shekzeer"]=3,
 	["dynther-shekzeer"]=1,
 	["dyrven-shekzeer"]=3,
@@ -6466,7 +6466,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["fácemash-shekzeer"]=4,
 	["facemashx-shekzeer"]=6,
 	["facesmasher-shekzeer"]=0,
-	["fadingworld-mirage-raceway"]=9,
+	["fadingworld-mirage-raceway"]=22,
 	["faelivryn-ook-ook"]=9,
 	["fær-shekzeer"]=9,
 	["fair-mirage-raceway"]=24,

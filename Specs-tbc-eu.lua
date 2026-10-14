@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9778 characters, read 2026-10-14 01:59 PM.
+-- Region tbc-eu, 9778 characters, read 2026-10-14 02:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5053,6 +5053,7 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["mammagodx-spineshatter"]=81,
 	["mammamupåtur-spineshatter"]=61,
 	["mämmileuka-spineshatter"]=50,
+	["mamourpromax-spineshatter"]=60,
 	["mamuang-spineshatter"]=51,
 	["manaburnceo-thunderstrike"]=50,
 	["manaburnerr-spineshatter"]=31,
@@ -10001,7 +10002,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["anzorov-spineshatter"]=5,
 	["aobte-spineshatter"]=2,
 	["aobte-thunderstrike"]=5,
-	["aoekingx-spineshatter"]=4,
+	["aoekingx-spineshatter"]=9,
 	["aoelife-spineshatter"]=9,
 	["apathyw-spineshatter"]=13,
 	["apedoingdmgx-spineshatter"]=5,
@@ -13444,7 +13445,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["influensseri-thunderstrike"]=1,
 	["ingler-spineshatter"]=3,
 	["initialdoge-spineshatter"]=3,
-	["inmyzoo-thunderstrike"]=3,
+	["inmyzoo-thunderstrike"]=19,
 	["innerf-spineshatter"]=1,
 	["innerz-thunderstrike"]=19,
 	["inntoxx-spineshatter"]=2,
@@ -13855,7 +13856,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["kallemask-spineshatter"]=5,
 	["kallemera-spineshatter"]=7,
 	["kalsing-thunderstrike"]=25,
-	["kamenskii-spineshatter"]=17,
+	["kamenskii-spineshatter"]=2,
 	["kamfer-spineshatter"]=11,
 	["kamilez-spineshatter"]=1,
 	["kamilfury-spineshatter"]=5,
@@ -14770,7 +14771,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["mammagodx-spineshatter"]=2,
 	["mammamupåtur-spineshatter"]=1,
 	["mämmileuka-spineshatter"]=14,
-	["mamourpromax-spineshatter"]=0,
+	["mamourpromax-spineshatter"]=5,
 	["mamuang-spineshatter"]=2,
 	["manaburnceo-thunderstrike"]=2,
 	["manaburnerr-spineshatter"]=2,
@@ -18208,7 +18209,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["thorgini-spineshatter"]=12,
 	["thorinn-spineshatter"]=8,
 	["thorny-spineshatter"]=2,
-	["thorzo-spineshatter"]=19,
+	["thorzo-spineshatter"]=3,
 	["thøs-spineshatter"]=5,
 	["thpi-spineshatter"]=3,
 	["thralx-spineshatter"]=23,
