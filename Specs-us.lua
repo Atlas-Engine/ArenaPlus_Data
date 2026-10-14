@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5186 characters, read 2026-10-13 11:59 PM.
+-- Region us, 5186 characters, read 2026-10-14 12:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2999,7 +2999,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["nanikilla-lei-shen"]=50,
 	["nanismasha-lei-shen"]=80,
 	["nanixita-raden"]=11,
-	["nanslayer-raden"]=11,
+	["nanslayer-raden"]=10,
 	["naoki-bloodsail-buccaneers"]=11,
 	["nápalm-pagle"]=100,
 	["napigmalvin-raden"]=41,
@@ -4669,6 +4669,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["vrilly-pagle"]=81,
 	["vseraphim-immerseus"]=50,
 	["vseraphims-immerseus"]=11,
+	["vtaper-raden"]=11,
 	["vteckicked-pagle"]=41,
 	["vvalaydia-pagle"]=11,
 	["vvarrior-raden"]=10,
@@ -7516,7 +7517,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["laddersavior-pagle"]=16,
 	["laddingtonx-raden"]=10,
 	["ladoramoon-pagle"]=5,
-	["lagherta-raden"]=12,
+	["lagherta-raden"]=5,
 	["läin-raden"]=14,
 	["laleyenda-lei-shen"]=3,
 	["lamborfeety-windseeker"]=0,
@@ -8319,7 +8320,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["oopsuwu-pagle"]=29,
 	["opensaysme-galakras"]=1,
 	["opp-pagle"]=4,
-	["oppenheimer-pagle"]=16,
+	["oppenheimer-pagle"]=32,
 	["opurtz-pagle"]=7,
 	["Örbköbë-pagle"]=4,
 	["orbs-arugal-au"]=0,
@@ -9847,7 +9848,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["vrilly-pagle"]=7,
 	["vseraphim-immerseus"]=9,
 	["vseraphims-immerseus"]=9,
-	["vtaper-raden"]=0,
+	["vtaper-raden"]=21,
 	["vteckicked-pagle"]=5,
 	["vvalaydia-pagle"]=1,
 	["vvarrior-raden"]=6,
@@ -9969,7 +9970,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["xaery-pagle"]=17,
 	["xaj-raden"]=5,
 	["xanaxlolz-galakras"]=12,
-	["xander-raden"]=24,
+	["xander-raden"]=28,
 	["xandxr-raden"]=24,
 	["xanybar-raden"]=17,
 	["xarblade-immerseus"]=3,
