@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5336 characters, read 2026-10-14 11:00 AM.
+-- Region eu, 5336 characters, read 2026-10-14 12:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -8145,7 +8145,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["northtoad-shekzeer"]=8,
 	["noscopee-shekzeer"]=4,
 	["noskill-shekzeer"]=27,
-	["nossing-auberdine"]=24,
+	["nossing-auberdine"]=26,
 	["nossy-hoptallus"]=12,
 	["nostopimback-shekzeer"]=0,
 	["nosurrend-garalon"]=1,
@@ -8516,7 +8516,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["quynmonk-garalon"]=6,
 	["qwanya-shekzeer"]=2,
 	["qwix-shekzeer"]=0,
-	["qxx-shekzeer"]=11,
+	["qxx-shekzeer"]=3,
 	["qz-shekzeer"]=17,
 	["rachelrage-everlook"]=1,
 	["rachelroxx-shekzeer"]=20,
@@ -10070,7 +10070,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Аззон-flamegor"]=15,
 	["Азуо-flamegor"]=15,
 	["Азьезмь-flamegor"]=3,
-	["Аймиар-flamegor"]=1,
+	["Аймиар-flamegor"]=25,
 	["Айрбет-flamegor"]=10,
 	["Айсстори-flamegor"]=2,
 	["Аквамелиз-flamegor"]=2,
