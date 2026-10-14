@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5186 characters, read 2026-10-13 10:59 PM.
+-- Region us, 5186 characters, read 2026-10-13 11:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -999,7 +999,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["dásh-nazgrim"]=101,
 	["datittycuz-galakras"]=21,
 	["daunit-raden"]=11,
-	["Ðâûñøvâtør-raden"]=11,
 	["davebluntz-raden"]=11,
 	["dawgtown-raden"]=10,
 	["daybreäk-pagle"]=10,
@@ -5972,7 +5971,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dásh-nazgrim"]=2,
 	["datittycuz-galakras"]=20,
 	["daunit-raden"]=23,
-	["Ðâûñøvâtør-raden"]=6,
+	["Ðâûñøvâtør-raden"]=0,
 	["davebluntz-raden"]=2,
 	["dawgtown-raden"]=3,
 	["daybreäk-pagle"]=2,
@@ -9017,7 +9016,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["shîfu-nazgrim"]=4,
 	["shikamarie-pagle"]=21,
 	["shinigameix-pagle"]=17,
-	["shínígamíí-pagle"]=34,
+	["shínígamíí-pagle"]=29,
 	["shinjî-galakras"]=30,
 	["shinzy-galakras"]=6,
 	["shionxd-pagle"]=7,
@@ -10101,7 +10100,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["zanetw-raden"]=7,
 	["zappipapi-raden"]=15,
 	["zappytits-galakras"]=22,
-	["zaravarena-pagle"]=2,
+	["zaravarena-pagle"]=16,
 	["zarhunt-pagle"]=18,
 	["zarkø-nazgrim"]=28,
 	["zârkø-nazgrim"]=7,
