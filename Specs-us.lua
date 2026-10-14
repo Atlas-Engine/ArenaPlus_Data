@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5182 characters, read 2026-10-14 12:54 PM.
+-- Region us, 5183 characters, read 2026-10-14 01:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -741,6 +741,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["cdioxide-raden"]=111,
 	["cdioxidez-pagle"]=20,
 	["ceejadin-pagle"]=30,
+	["ceeradelisa-immerseus"]=101,
 	["cehl-pagle"]=100,
 	["celay-galakras"]=41,
 	["celyb-raden"]=10,
@@ -5696,6 +5697,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["cdioxide-raden"]=19,
 	["cdioxidez-pagle"]=19,
 	["ceejadin-pagle"]=2,
+	["ceeradelisa-immerseus"]=2,
 	["cehl-pagle"]=6,
 	["celay-galakras"]=5,
 	["celyb-raden"]=3,
@@ -6343,7 +6345,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["eltoromu-nazgrim"]=5,
 	["elusivenes-raden"]=29,
 	["eluulttv-raden"]=10,
-	["eluveth-pagle"]=21,
+	["eluveth-pagle"]=9,
 	["elvius-raden"]=7,
 	["elyä-pagle"]=16,
 	["elyandris-raden"]=4,
@@ -7146,7 +7148,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["inperitus-arugal-au"]=15,
 	["insomniaxx-pagle"]=14,
 	["instantcarry-raden"]=10,
-	["integrityqt-pagle"]=13,
+	["integrityqt-pagle"]=21,
 	["intercepts-pagle"]=7,
 	["intrerri-pagle"]=34,
 	["intru-raden"]=3,
@@ -7531,7 +7533,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["lavablob-pagle"]=15,
 	["lawlurdead-raden"]=29,
 	["lawydruid-pagle"]=5,
-	["laydatpipe-lei-shen"]=12,
+	["laydatpipe-lei-shen"]=5,
 	["layenda-lei-shen"]=16,
 	["laynerz-raden"]=0,
 	["lbloll-pagle"]=15,
@@ -8711,7 +8713,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["rethealadin-immerseus"]=16,
 	["reticence-pagle"]=10,
 	["retmainxd-raden"]=18,
-	["rétpáladin-raden"]=2,
+	["rétpáladin-raden"]=16,
 	["retrostance-galakras"]=2,
 	["revcole-raden"]=9,
 	["revènge-raden"]=7,
@@ -9340,7 +9342,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["stooter-nazgrim"]=5,
 	["stootns-nazgrim"]=15,
 	["stooty-nazgrim"]=7,
-	["stoptalkme-raden"]=10,
+	["stoptalkme-raden"]=4,
 	["stormdaddyx-pagle"]=22,
 	["størmie-raden"]=15,
 	["stormieskye-galakras"]=17,

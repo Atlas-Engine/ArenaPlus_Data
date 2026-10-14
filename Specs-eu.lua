@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5336 characters, read 2026-10-14 01:00 PM.
+-- Region eu, 5336 characters, read 2026-10-14 02:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -435,7 +435,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["bankofabank-shekzeer"]=41,
 	["baphömet-auberdine"]=50,
 	["barbarianx-shekzeer"]=10,
-	["barilas-norushen"]=50,
+	["barilas-norushen"]=51,
 	["barkwinde-shekzeer"]=10,
 	["batina-shekzeer"]=10,
 	["batix-shekzeer"]=111,
@@ -3434,6 +3434,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["ronwemel-shekzeer"]=11,
 	["ronwilson-shekzeer"]=10,
 	["rook-shekzeer"]=11,
+	["røølin-hoptallus"]=40,
 	["røsée-auberdine"]=11,
 	["rosetta-garalon"]=31,
 	["rossem-hoptallus"]=70,
@@ -3464,7 +3465,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["rv-shekzeer"]=10,
 	["rx-shekzeer"]=11,
 	["rxsebøy-auberdine"]=11,
-	["rýdøthâðwlx-everlook"]=40,
+	["rýdøthâðwlx-everlook"]=41,
 	["rydothedk-everlook"]=11,
 	["rýdøthègøátx-everlook"]=111,
 	["rydotheholy-everlook"]=10,
@@ -6587,7 +6588,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["foxlôlly-everlook"]=6,
 	["foxlollyx-ook-ook"]=19,
 	["fractalshow-shekzeer"]=11,
-	["frakastou-auberdine"]=1,
+	["frakastou-auberdine"]=25,
 	["freaked-shekzeer"]=4,
 	["freakirl-shekzeer"]=1,
 	["freakírl-shekzeer"]=2,
@@ -8702,7 +8703,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["ronwilson-shekzeer"]=1,
 	["rook-shekzeer"]=24,
 	["ròòlin-hoptallus"]=0,
-	["røølin-hoptallus"]=0,
+	["røølin-hoptallus"]=21,
 	["röölin-shekzeer"]=0,
 	["røsée-auberdine"]=8,
 	["rosetta-garalon"]=5,
@@ -8734,7 +8735,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["rv-shekzeer"]=4,
 	["rx-shekzeer"]=24,
 	["rxsebøy-auberdine"]=20,
-	["rýdøthâðwlx-everlook"]=21,
+	["rýdøthâðwlx-everlook"]=11,
 	["rydothedk-everlook"]=8,
 	["rýdøthègøátx-everlook"]=16,
 	["rydotheholy-everlook"]=9,

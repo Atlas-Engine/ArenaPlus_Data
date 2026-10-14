@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9428 characters, read 2026-10-14 12:58 PM.
+-- Region tbc-us, 9428 characters, read 2026-10-14 01:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9681,7 +9681,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["arukar-nightslayer"]=10,
 	["aryapala-nightslayer"]=25,
 	["aryarogue-nightslayer"]=5,
-	["aryss-nightslayer"]=12,
+	["aryss-nightslayer"]=1,
 	["asakhana-nightslayer"]=2,
 	["Äsap-nightslayer"]=2,
 	["asapvx-nightslayer"]=5,
@@ -10649,7 +10649,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["chadpitt-nightslayer"]=2,
 	["chadrey-nightslayer"]=4,
 	["chadsteroid-nightslayer"]=2,
-	["chadzdan-nightslayer"]=25,
+	["chadzdan-nightslayer"]=11,
 	["chaincheeks-nightslayer"]=10,
 	["chainhealr-nightslayer"]=10,
 	["chainhealxd-dreamscythe"]=19,
@@ -14155,7 +14155,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["loserrogues-dreamscythe"]=10,
 	["lospizdos-nightslayer"]=7,
 	["lostangell-nightslayer"]=9,
-	["losthopê-nightslayer"]=1,
+	["losthopê-nightslayer"]=14,
 	["losticus-nightslayer"]=5,
 	["lostlol-dreamscythe"]=14,
 	["lotuspocus-nightslayer"]=3,
@@ -16514,7 +16514,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["shalidar-nightslayer"]=13,
 	["shamagnoll-nightslayer"]=24,
 	["shamanidk-nightslayer"]=10,
-	["shamanqüeen-nightslayer"]=10,
+	["shamanqüeen-nightslayer"]=19,
 	["shambails-nightslayer"]=10,
 	["shambanned-nightslayer"]=19,
 	["shambibi-dreamscythe"]=10,
@@ -16811,7 +16811,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["slamchamber-nightslayer"]=13,
 	["slammedenuff-nightslayer"]=13,
 	["slammy-nightslayer"]=4,
-	["slammyx-nightslayer"]=4,
+	["slammyx-nightslayer"]=6,
 	["slammyz-nightslayer"]=4,
 	["slangind-nightslayer"]=1,
 	["slapnuttz-nightslayer"]=5,
@@ -17416,7 +17416,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["taylrswftmnd-dreamscythe"]=7,
 	["tayswíft-nightslayer"]=1,
 	["tazërface-nightslayer"]=18,
-	["tbalc-nightslayer"]=12,
+	["tbalc-nightslayer"]=1,
 	["tbcisawful-nightslayer"]=17,
 	["tbcisdeadcya-nightslayer"]=21,
 	["tbcpally-nightslayer"]=11,
