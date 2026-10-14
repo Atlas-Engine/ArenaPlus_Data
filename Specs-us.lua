@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5181 characters, read 2026-10-14 05:59 PM.
+-- Region us, 5181 characters, read 2026-10-14 06:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4172,6 +4172,8 @@ ns.LOOKS_BY_REGION["us"] = {
 	["stealthfox-pagle"]=11,
 	["stealurgirl-raden"]=11,
 	["steamingload-raden"]=10,
+	["steeldruid-myzrael"]=40,
+	["steeloxx-myzrael"]=60,
 	["stefanelli-galakras"]=51,
 	["stelevations-pagle"]=11,
 	["stephblurryz-raden"]=11,
@@ -5435,7 +5437,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["blacksiide-pagle"]=4,
 	["blackspades-pagle"]=26,
 	["blackspwn-raden"]=29,
-	["bladvalery-nazgrim"]=2,
+	["bladvalery-nazgrim"]=32,
 	["blaggie-galakras"]=16,
 	["blaine-raden"]=1,
 	["blakemøre-raden"]=0,
@@ -5539,7 +5541,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["bowjakkson-immerseus"]=3,
 	["bowjo-lei-shen"]=3,
 	["bowjyden-pagle"]=3,
-	["bowlbasaur-pagle"]=29,
+	["bowlbasaur-pagle"]=34,
 	["bowlshift-raden"]=12,
 	["bowner-pagle"]=3,
 	["bównër-raden"]=18,
@@ -5557,7 +5559,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["branco-raden"]=0,
 	["brandoncle-galakras"]=16,
 	["brazzeal-pagle"]=16,
-	["brbcloning-pagle"]=5,
+	["brbcloning-pagle"]=17,
 	["brbsheeping-pagle"]=1,
 	["breewdable-pagle"]=10,
 	["brendedoo-galakras"]=3,
@@ -5797,7 +5799,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["cobear-pagle"]=3,
 	["cobearsdruid-pagle"]=17,
 	["cobrä-pagle"]=24,
-	["cöbrä-pagle"]=30,
+	["cöbrä-pagle"]=7,
 	["cochonhalal-pagle"]=16,
 	["codywithak-raden"]=7,
 	["codyxd-pagle"]=16,
@@ -6851,7 +6853,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["haileyxo-pagle"]=3,
 	["haileyy-raden"]=16,
 	["hairarmpit-benediction"]=4,
-	["haircheck-raden"]=10,
+	["haircheck-raden"]=4,
 	["hairyarms-raden"]=12,
 	["hallowground-immerseus"]=21,
 	["halvon-raden"]=28,
@@ -9319,8 +9321,8 @@ ns.SPECS_BY_REGION["us"] = {
 	["stealthfox-pagle"]=34,
 	["stealurgirl-raden"]=29,
 	["steamingload-raden"]=16,
-	["steeldruid-myzrael"]=0,
-	["steeloxx-myzrael"]=0,
+	["steeldruid-myzrael"]=5,
+	["steeloxx-myzrael"]=7,
 	["stefanelli-galakras"]=18,
 	["stelevations-pagle"]=6,
 	["stephblurryz-raden"]=29,
@@ -9605,7 +9607,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["touchmywañd-nazgrim"]=1,
 	["touchofdiddy-raden"]=4,
 	["toughstuff-raden"]=7,
-	["tøxic-nazgrim"]=29,
+	["tøxic-nazgrim"]=14,
 	["tóxica-pagle"]=34,
 	["toxiciguana-pagle"]=29,
 	["toxyc-galakras"]=21,

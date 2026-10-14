@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9429 characters, read 2026-10-14 05:58 PM.
+-- Region tbc-us, 9429 characters, read 2026-10-14 06:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11325,7 +11325,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["dhaos-nightslayer"]=13,
 	["dharkest-nightslayer"]=19,
 	["dhb-nightslayer"]=24,
-	["dhez-nightslayer"]=6,
+	["dhez-nightslayer"]=4,
 	["dhhez-nightslayer"]=1,
 	["dhonky-nightslayer"]=3,
 	["dhorik-nightslayer"]=10,
@@ -13143,7 +13143,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["iitztricky-nightslayer"]=2,
 	["ijustschartd-dreamscythe"]=15,
 	["ikazurum-nightslayer"]=23,
-	["iketv-nightslayer"]=9,
+	["iketv-nightslayer"]=11,
 	["iksrups-nightslayer"]=4,
 	["ikthariusx-nightslayer"]=5,
 	["ikzmaj-nightslayer"]=5,
@@ -14901,7 +14901,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["needadefib-nightslayer"]=10,
 	["neen-nightslayer"]=2,
 	["neesan-dreamscythe"]=19,
-	["nefitatemata-dreamscythe"]=8,
+	["nefitatemata-dreamscythe"]=5,
 	["negatîva-nightslayer"]=1,
 	["negitoromaki-nightslayer"]=5,
 	["negzor-nightslayer"]=2,
