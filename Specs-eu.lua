@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5334 characters, read 2026-10-13 07:00 PM.
+-- Region eu, 5334 characters, read 2026-10-13 08:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3463,7 +3463,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["rv-shekzeer"]=10,
 	["rx-shekzeer"]=11,
 	["rxsebøy-auberdine"]=11,
-	["rýdøthâðwlx-everlook"]=41,
+	["rýdøthâðwlx-everlook"]=40,
 	["rydothedk-everlook"]=11,
 	["rýdøthègøátx-everlook"]=111,
 	["rydotheholy-everlook"]=10,
@@ -5451,7 +5451,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["audioslave-shekzeer"]=16,
 	["augsburg-shekzeer"]=6,
 	["aultrasalt-shekzeer"]=17,
-	["auredian-mirage-raceway"]=5,
+	["auredian-mirage-raceway"]=15,
 	["aureliavid-auberdine"]=3,
 	["auryen-mirage-raceway"]=4,
 	["auslogics-shekzeer"]=2,
@@ -5568,7 +5568,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bayra-everlook"]=9,
 	["bazey-shekzeer"]=15,
 	["bazm-shekzeer"]=2,
-	["bazzey-shekzeer"]=16,
+	["bazzey-shekzeer"]=19,
 	["bazzuoker-shekzeer"]=24,
 	["bbacá-shekzeer"]=1,
 	["bbqu-shekzeer"]=2,
@@ -6601,7 +6601,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["froheostern-shekzeer"]=9,
 	["frøøst-shekzeer"]=2,
 	["frôststyle-mirage-raceway"]=2,
-	["frøtzen-auberdine"]=10,
+	["frøtzen-auberdine"]=2,
 	["froxman-norushen"]=18,
 	["frozche-shekzeer"]=6,
 	["frozenqt-shekzeer"]=2,
@@ -9336,7 +9336,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["threemâ-everlook"]=14,
 	["throotqueèn-shekzeer"]=1,
 	["thugslife-shekzeer"]=24,
-	["thugzilla-shekzeer"]=26,
+	["thugzilla-shekzeer"]=24,
 	["thurza-shekzeer"]=2,
 	["thuugom-shekzeer"]=8,
 	["thylé-norushen"]=13,

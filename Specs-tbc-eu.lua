@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9789 characters, read 2026-10-13 06:59 PM.
+-- Region tbc-eu, 9789 characters, read 2026-10-13 07:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -13333,7 +13333,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["Íçáñ-spineshatter"]=3,
 	["icat-spineshatter"]=6,
 	["icba-spineshatter"]=2,
-	["iceboxx-thunderstrike"]=21,
+	["iceboxx-thunderstrike"]=4,
 	["iceclimber-spineshatter"]=5,
 	["icehazex-spineshatter"]=9,
 	["icehell-spineshatter"]=9,
@@ -13463,7 +13463,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["initialdoge-spineshatter"]=3,
 	["inmyzoo-thunderstrike"]=3,
 	["innerf-spineshatter"]=1,
-	["innerz-thunderstrike"]=3,
+	["innerz-thunderstrike"]=19,
 	["inntoxx-spineshatter"]=2,
 	["inquis-spineshatter"]=3,
 	["inquislôl-spineshatter"]=3,
@@ -15106,7 +15106,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["misspoulpe-spineshatter"]=12,
 	["missxfire-thunderstrike"]=25,
 	["missymizu-thunderstrike"]=4,
-	["mîsterfreez-spineshatter"]=9,
+	["mîsterfreez-spineshatter"]=4,
 	["misticà-spineshatter"]=2,
 	["mìstica-spineshatter"]=13,
 	["mistiqq-spineshatter"]=3,
@@ -15262,7 +15262,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["mpm-spineshatter"]=5,
 	["mpythonx-spineshatter"]=5,
 	["mqg-spineshatter"]=9,
-	["mshunt-spineshatter"]=16,
+	["mshunt-spineshatter"]=25,
 	["msprh-spineshatter"]=25,
 	["mstwisty-spineshatter"]=7,
 	["mtnwarr-thunderstrike"]=15,
@@ -18501,7 +18501,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["twicx-thunderstrike"]=5,
 	["twigsbee-spineshatter"]=25,
 	["twinii-spineshatter"]=13,
-	["twinklolz-spineshatter"]=19,
+	["twinklolz-spineshatter"]=3,
 	["twinkøff-spineshatter"]=13,
 	["twinsqt-spineshatter"]=23,
 	["twisky-spineshatter"]=4,
@@ -18592,7 +18592,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["untamed-spineshatter"]=3,
 	["unyielded-spineshatter"]=2,
 	["Üpsilon-spineshatter"]=11,
-	["uranaji-spineshatter"]=17,
+	["uranaji-spineshatter"]=2,
 	["uratadreaq-spineshatter"]=0,
 	["urkainochka-spineshatter"]=2,
 	["urkelo-thunderstrike"]=1,
