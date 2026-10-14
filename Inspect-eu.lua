@@ -42,7 +42,7 @@ local ns = ArenaPlusData
 -- source_item, so gems are stored as real item ids the client can draw and only
 -- the enchant text has to ship.
 --
--- Region eu, 446 characters, 381 glyph names, read 2026-10-14 05:20 AM.
+-- Region eu, 446 characters, 381 glyph names, read 2026-10-14 07:20 AM.
 ns.GLYPH_NAMES = ns.GLYPH_NAMES or {}
 
 for id, name in pairs({
@@ -435,38 +435,13 @@ for id, name in pairs({
 ns.TALENT_NAMES = ns.TALENT_NAMES or {}
 
 for id, name in pairs({
-	[5211]="Mighty Bash",
-	[53376]="Sanctified Wrath",
 	[79008]="Elusiveness",
-	[85499]="Speed of Light",
-	[85804]="Selfless Healer",
-	[86172]="Divine Purpose",
-	[87172]="Long Arm of the Law",
-	[102351]="Cenarion Ward",
-	[102401]="Wild Charge",
-	[105593]="Fist of Justice",
-	[105622]="Clemency",
-	[106737]="Force of Nature",
 	[108208]="Subterfuge",
 	[108210]="Nerve Strike",
 	[108212]="Burst of Speed",
 	[108215]="Paralytic Poison",
 	[108216]="Dirty Tricks",
-	[108288]="Heart of the Wild",
-	[114154]="Unbreakable Spirit",
-	[114157]="Execution Sentence",
-	[114163]="Eternal Flame",
-	[114165]="Holy Prism",
-	[115098]="Chi Wave",
-	[115399]="Chi Brew",
-	[116841]="Tiger's Lust",
-	[116847]="Rushing Jade Wind",
-	[119381]="Leg Sweep",
-	[122280]="Healing Elixirs",
-	[123904]="Invoke Xuen, the White Tiger",
-	[132469]="Typhoon",
 	[137619]="Marked for Death",
-	[145108]="Ysera's Gift",
 }) do ns.TALENT_NAMES[id] = name end
 
 -- Which talent a rank-spell belongs to, and how many ranks that talent has.
