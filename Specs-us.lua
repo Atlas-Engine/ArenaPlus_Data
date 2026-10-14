@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5181 characters, read 2026-10-13 08:59 PM.
+-- Region us, 5181 characters, read 2026-10-13 09:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5011,7 +5011,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["absopally-pagle"]=2,
 	["abusivekitty-galakras"]=12,
 	["academics-raden"]=15,
-	["acee-immerseus"]=24,
+	["acee-immerseus"]=28,
 	["aceventuraa-pagle"]=18,
 	["ackshulygoat-lei-shen"]=15,
 	["aconite-raden"]=7,
@@ -5093,7 +5093,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["alloceñ-pagle"]=6,
 	["alloria-arugal-au"]=9,
 	["allric-raden"]=12,
-	["allsmk-pagle"]=29,
+	["allsmk-pagle"]=34,
 	["alreadydead-nazgrim"]=14,
 	["alswaron-immerseus"]=7,
 	["altec-nazgrim"]=7,
@@ -5935,7 +5935,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dandor-pagle"]=7,
 	["dankenbrew-lei-shen"]=4,
 	["dankendwarf-pagle"]=15,
-	["dankenelf-pagle"]=12,
+	["dankenelf-pagle"]=5,
 	["dankenshroom-lei-shen"]=12,
 	["dankenstein-lei-shen"]=22,
 	["dankorbs-pagle"]=4,
@@ -9345,7 +9345,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["stooter-nazgrim"]=5,
 	["stootns-nazgrim"]=15,
 	["stooty-nazgrim"]=7,
-	["stoptalkme-raden"]=4,
+	["stoptalkme-raden"]=10,
 	["stormdaddyx-pagle"]=22,
 	["størmie-raden"]=15,
 	["stormieskye-galakras"]=17,

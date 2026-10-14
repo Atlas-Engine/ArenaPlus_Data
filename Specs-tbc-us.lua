@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9427 characters, read 2026-10-13 08:58 PM.
+-- Region tbc-us, 9427 characters, read 2026-10-13 09:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10151,7 +10151,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bjuka-nightslayer"]=7,
 	["blackadam-nightslayer"]=10,
 	["blackberrys-nightslayer"]=7,
-	["blackchedda-nightslayer"]=16,
+	["blackchedda-nightslayer"]=13,
 	["blackcircle-nightslayer"]=4,
 	["blackcocoa-dreamscythe"]=11,
 	["blackcrows-nightslayer"]=1,
@@ -13407,7 +13407,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["jianyang-nightslayer"]=5,
 	["jigheals-nightslayer"]=1,
 	["jiglebilly-nightslayer"]=4,
-	["jiglxl-nightslayer"]=14,
+	["jiglxl-nightslayer"]=1,
 	["jigsahdru-nightslayer"]=3,
 	["jigsahxdd-nightslayer"]=2,
 	["jigsdinner-nightslayer"]=19,
@@ -13919,7 +13919,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["lätë-nightslayer"]=2,
 	["latepak-dreamscythe"]=10,
 	["lateralas-nightslayer"]=17,
-	["latinop-nightslayer"]=7,
+	["latinop-nightslayer"]=3,
 	["lattehealz-nightslayer"]=1,
 	["launched-nightslayer"]=9,
 	["laurete-nightslayer"]=15,
@@ -14444,7 +14444,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["mediumdx-nightslayer"]=11,
 	["meeblers-dreamscythe"]=10,
 	["meenny-nightslayer"]=4,
-	["méepo-nightslayer"]=19,
+	["méepo-nightslayer"]=24,
 	["meetbobjob-nightslayer"]=4,
 	["meetym-nightslayer"]=11,
 	["megânfox-nightslayer"]=5,
@@ -14626,7 +14626,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["mitchito-nightslayer"]=5,
 	["mithral-nightslayer"]=5,
 	["mithridate-nightslayer"]=15,
-	["mitoh-nightslayer"]=6,
+	["mitoh-nightslayer"]=4,
 	["mitprofessor-dreamscythe"]=22,
 	["mits-nightslayer"]=10,
 	["mixies-nightslayer"]=21,
@@ -16248,7 +16248,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["rxxa-nightslayer"]=0,
 	["rxxd-nightslayer"]=18,
 	["ryaen-nightslayer"]=8,
-	["ryanin-dreamscythe"]=22,
+	["ryanin-dreamscythe"]=7,
 	["ryderwear-nightslayer"]=12,
 	["rykara-dreamscythe"]=7,
 	["rykaru-nightslayer"]=5,
