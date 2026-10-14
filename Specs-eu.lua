@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5336 characters, read 2026-10-14 09:00 AM.
+-- Region eu, 5336 characters, read 2026-10-14 10:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6916,7 +6916,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["holypia-shekzeer"]=22,
 	["holyqiti-mirage-raceway"]=5,
 	["holyshadx-shekzeer"]=9,
-	["holyshadxx-shekzeer"]=6,
+	["holyshadxx-shekzeer"]=7,
 	["holysnap-shekzeer"]=5,
 	["holywar-shekzeer"]=9,
 	["honshu-shekzeer"]=16,
@@ -7246,7 +7246,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["kanaexd-shekzeer"]=11,
 	["karadashian-mirage-raceway"]=9,
 	["karamelado-everlook"]=6,
-	["karan-garalon"]=26,
+	["karan-garalon"]=24,
 	["karasava-shekzeer"]=5,
 	["kariestv-shekzeer"]=6,
 	["karnex-shekzeer"]=0,
@@ -9425,7 +9425,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["toxicfuz-garalon"]=6,
 	["toxiqkid-shekzeer"]=1,
 	["tpriestlx-shekzeer"]=9,
-	["trachea-shekzeer"]=6,
+	["trachea-shekzeer"]=7,
 	["trackk-auberdine"]=24,
 	["tracye-shekzeer"]=9,
 	["trafålguy-garalon"]=6,

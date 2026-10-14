@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5192 characters, read 2026-10-14 08:59 AM.
+-- Region us, 5192 characters, read 2026-10-14 09:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6979,7 +6979,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["holycøcktail-raden"]=2,
 	["holyfender-pagle"]=2,
 	["holyfkbubs-pagle"]=2,
-	["holyflamez-pagle"]=2,
+	["holyflamez-pagle"]=16,
 	["holyfluxq-pagle"]=9,
 	["holygym-nazgrim"]=13,
 	["holymar-pagle"]=6,
@@ -7030,7 +7030,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["hueland-raden"]=1,
 	["hugehammr-lei-shen"]=16,
 	["hulksmashnow-lei-shen"]=7,
-	["humanpvpisez-pagle"]=4,
+	["humanpvpisez-pagle"]=10,
 	["hummuss-raden"]=7,
 	["hùnáy-pagle"]=11,
 	["hungfoo-pagle"]=6,
@@ -9376,7 +9376,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["stticka-pagle"]=1,
 	["studbolt-lei-shen"]=1,
 	["stuffyknows-raden"]=0,
-	["stungød-pagle"]=29,
+	["stungød-pagle"]=14,
 	["stwongspell-pagle"]=28,
 	["stylles-raden"]=10,
 	["subàti-pagle"]=9,
