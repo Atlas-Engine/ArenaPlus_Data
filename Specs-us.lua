@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5183 characters, read 2026-10-14 02:59 PM.
+-- Region us, 5183 characters, read 2026-10-14 03:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5800,7 +5800,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["cobear-pagle"]=3,
 	["cobearsdruid-pagle"]=17,
 	["cobrä-pagle"]=24,
-	["cöbrä-pagle"]=7,
+	["cöbrä-pagle"]=30,
 	["cochonhalal-pagle"]=16,
 	["codywithak-raden"]=7,
 	["codyxd-pagle"]=16,
@@ -5924,7 +5924,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["daddypompum-raden"]=5,
 	["daemz-pagle"]=16,
 	["daffykinz-pagle"]=24,
-	["daggertwist-raden"]=29,
+	["daggertwist-raden"]=14,
 	["dailou-grobbulus"]=7,
 	["daje-pagle"]=0,
 	["dákar-galakras"]=7,
@@ -6018,8 +6018,8 @@ ns.SPECS_BY_REGION["us"] = {
 	["defnotanj-pagle"]=3,
 	["degaüss-raden"]=16,
 	["dekk-raden"]=6,
-	["delané-raden"]=18,
-	["delaway-lei-shen"]=24,
+	["delané-raden"]=3,
+	["delaway-lei-shen"]=8,
 	["delgars-galakras"]=3,
 	["delonso-pagle"]=7,
 	["delrium-raden"]=20,
