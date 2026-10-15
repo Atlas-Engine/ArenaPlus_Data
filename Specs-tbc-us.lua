@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9428 characters, read 2026-10-14 08:58 PM.
+-- Region tbc-us, 9428 characters, read 2026-10-14 09:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12843,7 +12843,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["hellzone-nightslayer"]=16,
 	["helpmehelpme-nightslayer"]=3,
 	["helslife-nightslayer"]=1,
-	["hemolienis-dreamscythe"]=27,
+	["hemolienis-dreamscythe"]=8,
 	["hemolytic-nightslayer"]=13,
 	["hemoth-nightslayer"]=13,
 	["hemph-nightslayer"]=13,
@@ -12931,7 +12931,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["hobbyropkin-dreamscythe"]=11,
 	["hobertdwnyjr-nightslayer"]=1,
 	["hobknockr-nightslayer"]=5,
-	["hobw-nightslayer"]=13,
+	["hobw-nightslayer"]=16,
 	["hoemaster-dreamscythe"]=23,
 	["hoeplate-nightslayer"]=2,
 	["hoeta-nightslayer"]=10,
@@ -12981,7 +12981,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["hoofgiirl-nightslayer"]=3,
 	["hoofjobb-nightslayer"]=24,
 	["hoonteh-dreamscythe"]=15,
-	["hootini-nightslayer"]=5,
+	["hootini-nightslayer"]=27,
 	["hoou-nightslayer"]=4,
 	["hooverr-nightslayer"]=11,
 	["hooverstorm-nightslayer"]=24,
@@ -13231,7 +13231,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["invisy-nightslayer"]=6,
 	["inyntz-nightslayer"]=7,
 	["inyokid-nightslayer"]=1,
-	["inyourgutz-nightslayer"]=5,
+	["inyourgutz-nightslayer"]=8,
 	["iolsmite-nightslayer"]=1,
 	["ioob-nightslayer"]=24,
 	["iooks-nightslayer"]=10,
@@ -16835,7 +16835,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["slimefeld-nightslayer"]=2,
 	["slimefeldx-nightslayer"]=2,
 	["slimeyz-nightslayer"]=1,
-	["slimreaper-nightslayer"]=5,
+	["slimreaper-nightslayer"]=8,
 	["slïpknøt-nightslayer"]=15,
 	["slippyisback-dreamscythe"]=15,
 	["slipqtz-nightslayer"]=7,
@@ -18510,7 +18510,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["yaruu-nightslayer"]=19,
 	["yasori-dreamscythe"]=8,
 	["yawgwin-dreamscythe"]=13,
-	["ydw-nightslayer"]=2,
+	["ydw-nightslayer"]=18,
 	["ydwar-dreamscythe"]=2,
 	["yeahforsure-nightslayer"]=4,
 	["yeehawx-nightslayer"]=7,

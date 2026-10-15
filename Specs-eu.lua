@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5334 characters, read 2026-10-14 09:00 PM.
+-- Region eu, 5337 characters, read 2026-10-14 10:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -561,6 +561,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["bmskp-shekzeer"]=31,
 	["bngjr-shekzeer"]=11,
 	["bobbo-mirage-raceway"]=10,
+	["bobbyshmürda-shekzeer"]=220,
 	["bobbysta-auberdine"]=51,
 	["bobiroula-mirage-raceway"]=41,
 	["bobjones-norushen"]=11,
@@ -2410,6 +2411,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["maarik-garalon"]=101,
 	["maaxxdrood-shekzeer"]=41,
 	["määxxdrood-shekzeer"]=40,
+	["maaxxhunt-shekzeer"]=11,
 	["maaxxmonk-shekzeer"]=11,
 	["maaxxmønk-shekzeer"]=41,
 	["maaxxpriest-shekzeer"]=11,
@@ -2712,6 +2714,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["muså-shekzeer"]=41,
 	["mushado-auberdine"]=11,
 	["muskelimaisa-shekzeer"]=11,
+	["mwaniel-auberdine"]=10,
 	["mwman-shekzeer"]=40,
 	["mwqew-shekzeer"]=11,
 	["mxed-shekzeer"]=11,
@@ -5486,7 +5489,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["ayleenaah-ook-ook"]=31,
 	["ayleenah-mirage-raceway"]=21,
 	["ayuaha-shekzeer"]=16,
-	["ayus-shekzeer"]=15,
+	["ayus-shekzeer"]=5,
 	["ayvara-shekzeer"]=6,
 	["ayxx-shekzeer"]=11,
 	["Äzard-shekzeer"]=24,
@@ -5692,6 +5695,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bmskp-shekzeer"]=5,
 	["bngjr-shekzeer"]=20,
 	["bobbo-mirage-raceway"]=1,
+	["bobbyshmürda-shekzeer"]=3,
 	["bobbysta-auberdine"]=9,
 	["bobiroula-mirage-raceway"]=21,
 	["bobjones-norushen"]=12,
@@ -7624,6 +7628,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["maarik-garalon"]=22,
 	["maaxxdrood-shekzeer"]=3,
 	["määxxdrood-shekzeer"]=3,
+	["maaxxhunt-shekzeer"]=4,
 	["maaxxmonk-shekzeer"]=6,
 	["maaxxmønk-shekzeer"]=6,
 	["maaxxpriest-shekzeer"]=9,
@@ -7940,6 +7945,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["muså-shekzeer"]=21,
 	["mushado-auberdine"]=20,
 	["muskelimaisa-shekzeer"]=1,
+	["mwaniel-auberdine"]=7,
 	["mwman-shekzeer"]=6,
 	["mwqew-shekzeer"]=6,
 	["mxed-shekzeer"]=24,

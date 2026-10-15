@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5184 characters, read 2026-10-14 08:59 PM.
+-- Region us, 5184 characters, read 2026-10-14 09:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5035,7 +5035,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["Æçy-raden"]=1,
 	["Æggrophobia-pagle"]=13,
 	["aeliline-pagle"]=0,
-	["aellane-pagle"]=26,
+	["aellane-pagle"]=6,
 	["Ærîthøs-pagle"]=16,
 	["aeroes-pagle"]=3,
 	["aerzkei-arugal-au"]=5,
@@ -5826,7 +5826,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["conjrexcuses-pagle"]=1,
 	["constantinej-raden"]=13,
 	["coochiemnstr-raden"]=1,
-	["coorsbanq-galakras"]=20,
+	["coorsbanq-galakras"]=18,
 	["cooterflute-raden"]=7,
 	["cooterman-raden"]=10,
 	["cootrcrushr-nazgrim"]=14,
@@ -6112,7 +6112,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["Ðispie-pagle"]=6,
 	["distorte-pagle"]=5,
 	["Ðistrøyer-immerseus"]=7,
-	["ditrisus-pagle"]=3,
+	["ditrisus-pagle"]=20,
 	["diviñe-pagle"]=2,
 	["divinebleed-raden"]=7,
 	["divinehymnal-raden"]=0,
@@ -8719,7 +8719,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["rethealadin-immerseus"]=16,
 	["reticence-pagle"]=10,
 	["retmainxd-raden"]=18,
-	["rétpáladin-raden"]=16,
+	["rétpáladin-raden"]=2,
 	["retrostance-galakras"]=2,
 	["rettek-raden"]=8,
 	["revcole-raden"]=9,
