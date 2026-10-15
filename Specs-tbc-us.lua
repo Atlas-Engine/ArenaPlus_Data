@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9437 characters, read 2026-10-15 09:58 AM.
+-- Region tbc-us, 9438 characters, read 2026-10-15 10:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3481,6 +3481,7 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["hellabald-nightslayer"]=20,
 	["hellbug-nightslayer"]=71,
 	["hellguyy-nightslayer"]=11,
+	["hellów-nightslayer"]=11,
 	["hellsbear-nightslayer"]=61,
 	["hellu-nightslayer"]=21,
 	["helluu-nightslayer"]=101,
@@ -11930,7 +11931,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["execuiite-nightslayer"]=2,
 	["execuite-nightslayer"]=2,
 	["execuutie-nightslayer"]=18,
-	["exgoshgolly-nightslayer"]=5,
+	["exgoshgolly-nightslayer"]=8,
 	["exhaustsound-nightslayer"]=1,
 	["exid-nightslayer"]=2,
 	["exiledx-nightslayer"]=5,
@@ -12845,6 +12846,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["hellabald-nightslayer"]=18,
 	["hellbug-nightslayer"]=2,
 	["hellguyy-nightslayer"]=5,
+	["hellów-nightslayer"]=5,
 	["hellsbear-nightslayer"]=3,
 	["hellu-nightslayer"]=2,
 	["helluu-nightslayer"]=11,
@@ -14521,7 +14523,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["methie-nightslayer"]=13,
 	["metrìc-dreamscythe"]=10,
 	["metzbower-nightslayer"]=16,
-	["mewandya-nightslayer"]=13,
+	["mewandya-nightslayer"]=23,
 	["mewsed-nightslayer"]=24,
 	["mewzor-nightslayer"]=6,
 	["méz-nightslayer"]=5,
@@ -17431,7 +17433,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["taylrswftmnd-dreamscythe"]=7,
 	["tayswíft-nightslayer"]=1,
 	["tazërface-nightslayer"]=18,
-	["tbalc-nightslayer"]=1,
+	["tbalc-nightslayer"]=12,
 	["tbcisawful-nightslayer"]=17,
 	["tbcisdeadcya-nightslayer"]=21,
 	["tbcpally-nightslayer"]=11,

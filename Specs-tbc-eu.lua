@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9772 characters, read 2026-10-15 09:59 AM.
+-- Region tbc-eu, 9772 characters, read 2026-10-15 10:54 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10188,7 +10188,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["aylix-spineshatter"]=1,
 	["aÿô-spineshatter"]=1,
 	["ayodsmallzx-spineshatter"]=5,
-	["ayol-spineshatter"]=15,
+	["ayol-spineshatter"]=5,
 	["ayoling-spineshatter"]=13,
 	["ayytsu-spineshatter"]=6,
 	["ayz-thunderstrike"]=7,
@@ -11471,7 +11471,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["dberrs-spineshatter"]=1,
 	["dbxstyle-spineshatter"]=9,
 	["dbzx-spineshatter"]=3,
-	["ddog-spineshatter"]=4,
+	["ddog-spineshatter"]=9,
 	["ddogdirty-spineshatter"]=10,
 	["ddrop-spineshatter"]=1,
 	["deadbackhan-spineshatter"]=17,
@@ -16650,7 +16650,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["requiemit-spineshatter"]=3,
 	["requinze-thunderstrike"]=18,
 	["resisthis-spineshatter"]=9,
-	["resistinnit-spineshatter"]=13,
+	["resistinnit-spineshatter"]=14,
 	["resistog-thunderstrike"]=5,
 	["resistplz-spineshatter"]=5,
 	["resistshade-spineshatter"]=1,
@@ -16757,7 +16757,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["rodulunayra-spineshatter"]=3,
 	["rodvin-spineshatter"]=1,
 	["rogdeath-spineshatter"]=5,
-	["roge-spineshatter"]=19,
+	["roge-spineshatter"]=3,
 	["rogfc-spineshatter"]=3,
 	["roggles-thunderstrike"]=8,
 	["rogi-spineshatter"]=4,
@@ -18406,7 +18406,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["troubikam-spineshatter"]=9,
 	["trubijan-spineshatter"]=3,
 	["trucco-spineshatter"]=3,
-	["truckertony-spineshatter"]=19,
+	["truckertony-spineshatter"]=3,
 	["trudoma-spineshatter"]=5,
 	["true-spineshatter"]=3,
 	["truer-spineshatter"]=3,
@@ -19171,7 +19171,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["yayyaa-spineshatter"]=11,
 	["ybbc-spineshatter"]=19,
 	["ybbz-spineshatter"]=3,
-	["yd-spineshatter"]=3,
+	["yd-spineshatter"]=19,
 	["ydream-spineshatter"]=1,
 	["yeåt-spineshatter"]=9,
 	["yeazyp-spineshatter"]=10,
