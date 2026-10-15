@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5339 characters, read 2026-10-15 04:00 PM.
+-- Region eu, 5339 characters, read 2026-10-15 05:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5555,7 +5555,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bakasurge-shekzeer"]=11,
 	["bakatrap-shekzeer"]=4,
 	["bakomba-shekzeer"]=4,
-	["bakurau-mirage-raceway"]=20,
+	["bakurau-mirage-raceway"]=14,
 	["balanced-shekzeer"]=3,
 	["ballawatsch-shekzeer"]=6,
 	["ballbusting-shekzeer"]=24,
@@ -5790,7 +5790,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["burden-shekzeer"]=21,
 	["burgerpickle-shekzeer"]=3,
 	["burkez-garalon"]=4,
-	["búrn-shekzeer"]=10,
+	["búrn-shekzeer"]=27,
 	["bûrnedeâd-shekzeer"]=2,
 	["burrny-shekzeer"]=17,
 	["burstday-ook-ook"]=15,
@@ -5835,7 +5835,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["cartethiya-auberdine"]=1,
 	["cartmanchef-shekzeer"]=6,
 	["cash-shekzeer"]=16,
-	["casibusqt-everlook"]=4,
+	["casibusqt-everlook"]=20,
 	["cassândrâ-shekzeer"]=11,
 	["catclaws-shekzeer"]=11,
 	["câth-auberdine"]=9,
@@ -5885,7 +5885,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["chargedif-shekzeer"]=1,
 	["charity-garalon"]=9,
 	["charityrevn-shekzeer"]=1,
-	["charityshift-shekzeer"]=21,
+	["charityshift-shekzeer"]=3,
 	["charoma-shekzeer"]=3,
 	["charos-norushen"]=16,
 	["châs-everlook"]=1,
@@ -6037,7 +6037,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["crystall-ook-ook"]=24,
 	["crystalsteal-shekzeer"]=1,
 	["cuccó-garalon"]=4,
-	["cuckmycoocon-shekzeer"]=7,
+	["cuckmycoocon-shekzeer"]=6,
 	["cuckquatre-shekzeer"]=17,
 	["cúdder-everlook"]=11,
 	["cùdder-everlook"]=4,
@@ -9278,7 +9278,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["taopiepie-shekzeer"]=24,
 	["tardhun-shekzeer"]=0,
 	["tarhya-everlook"]=19,
-	["tastemydmg-shekzeer"]=4,
+	["tastemydmg-shekzeer"]=20,
 	["tastyd-shekzeer"]=3,
 	["tawnyx-everlook"]=3,
 	["taylôrswiftx-mirage-raceway"]=6,
@@ -10015,7 +10015,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["zethmaster-garalon"]=1,
 	["zéus-shekzeer"]=1,
 	["zeuzpwn-mirage-raceway"]=16,
-	["zeyox-shekzeer"]=2,
+	["zeyox-shekzeer"]=27,
 	["zgabaløut-auberdine"]=20,
 	["zheyx-shekzeer"]=13,
 	["zhili-hoptallus"]=0,
