@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9437 characters, read 2026-10-15 07:58 AM.
+-- Region tbc-us, 9437 characters, read 2026-10-15 08:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -13620,7 +13620,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["karnij-nightslayer"]=18,
 	["karnyge-nightslayer"]=4,
 	["karonaz-nightslayer"]=5,
-	["karrakar-nightslayer"]=8,
+	["karrakar-nightslayer"]=5,
 	["karrakhaz-nightslayer"]=3,
 	["karru-nightslayer"]=1,
 	["karsie-dreamscythe"]=12,
@@ -16991,7 +16991,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["sopointless-nightslayer"]=5,
 	["soptich-nightslayer"]=1,
 	["sorgrim-nightslayer"]=2,
-	["sorianox-nightslayer"]=5,
+	["sorianox-nightslayer"]=8,
 	["sorrylol-nightslayer"]=1,
 	["sorti-nightslayer"]=5,
 	["sosoma-dreamscythe"]=4,
@@ -18289,7 +18289,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["whosthisrat-nightslayer"]=2,
 	["whowantwhat-nightslayer"]=4,
 	["whycuzimag-nightslayer"]=5,
-	["whyteleaf-nightslayer"]=7,
+	["whyteleaf-nightslayer"]=3,
 	["whywolf-nightslayer"]=19,
 	["whyzard-nightslayer"]=6,
 	["wiccky-nightslayer"]=4,
