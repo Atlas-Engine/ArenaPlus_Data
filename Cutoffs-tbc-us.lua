@@ -12,14 +12,14 @@ local ns = ArenaPlusData
 -- Arena title cutoffs, written by tools\UpdateFromBlizzard.ps1 from Blizzard's
 -- own API. Do not edit by hand: rerun the script to refresh.
 --
--- Region tbc-us, season 3, cutoffs last changed 2026-10-14 10:23 AM, last checked 2026-10-14 09:58 PM.
+-- Region tbc-us, season 3, cutoffs last changed 2026-10-14 10:23 AM, last checked 2026-10-14 10:58 PM.
 ns.CUTOFFS_BY_REGION = ns.CUTOFFS_BY_REGION or {}
 
 ns.CUTOFFS_BY_REGION["tbc-us"] = {
 	region  = "tbc-us",
 	updated = "2026-10-14 10:23 AM",
-	checked = "2026-10-14 09:58 PM",
-	checkedEpoch = 1792029495,
+	checked = "2026-10-14 10:58 PM",
+	checkedEpoch = 1792033095,
 
 	[1] = { r1=2400, gladiator=2207, duelist=1938, rival=1679, challenger=1488 }, -- 2v2
 	[2] = { r1=2289, gladiator=2149, duelist=1919, rival=1700, challenger=1499 }, -- 3v3
@@ -31,7 +31,7 @@ ns.CUTOFFS_BY_REGION["tbc-us"] = {
 ns.CUTOFF_SLOTS_BY_REGION = ns.CUTOFF_SLOTS_BY_REGION or {}
 
 ns.CUTOFF_SLOTS_BY_REGION["tbc-us"] = {
-	[1] = { r1=33, gladiator=207, duelist=1290, rival=4971 }, -- 2v2
-	[2] = { r1=25, gladiator=152, duelist=955, rival=3718 }, -- 3v3
-	[3] = { r1=67, gladiator=435, duelist=2829 }, -- 5v5
+	[1] = { r1=35, gladiator=203, duelist=1295, rival=4964 }, -- 2v2
+	[2] = { r1=25, gladiator=152, duelist=965, rival=3720 }, -- 3v3
+	[3] = { r1=67, gladiator=435, duelist=2832 }, -- 5v5
 }
