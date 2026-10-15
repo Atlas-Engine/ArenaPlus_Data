@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5184 characters, read 2026-10-14 07:59 PM.
+-- Region us, 5184 characters, read 2026-10-14 08:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4017,6 +4017,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["slumpirlpov-raden"]=250,
 	["slumplord-raden"]=11,
 	["slumplordx-raden"]=11,
+	["smallrass-pagle"]=70,
 	["smalltrain-pagle"]=30,
 	["smartpastry-pagle"]=11,
 	["smashdeez-nazgrim"]=20,
@@ -5124,7 +5125,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["anariita-nazgrim"]=20,
 	["anastari-pagle"]=1,
 	["anastasiah-raden"]=24,
-	["anastasiahh-raden"]=21,
+	["anastasiahh-raden"]=13,
 	["Áncestralogk-pagle"]=21,
 	["ancient-raden"]=9,
 	["andreiaa-pagle"]=6,
@@ -6647,7 +6648,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["galekk-immerseus"]=10,
 	["galey-galakras"]=23,
 	["galica-immerseus"]=7,
-	["gallagher-raden"]=11,
+	["gallagher-raden"]=1,
 	["galletica-pagle"]=23,
 	["galvaron-pagle"]=2,
 	["gambezee-raden"]=21,
@@ -9152,7 +9153,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["slumpirlpov-raden"]=1,
 	["slumplord-raden"]=14,
 	["slumplordx-raden"]=14,
-	["smallrass-pagle"]=0,
+	["smallrass-pagle"]=7,
 	["smalltrain-pagle"]=15,
 	["smartpastry-pagle"]=14,
 	["smashdeez-nazgrim"]=30,
@@ -9202,7 +9203,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["sockemboper-pagle"]=16,
 	["södah-raden"]=5,
 	["sofeorr-pagle"]=3,
-	["sofí-pagle"]=10,
+	["sofí-pagle"]=4,
 	["solaarflare-pagle"]=7,
 	["solarshield-raden"]=13,
 	["solartide-pagle"]=19,

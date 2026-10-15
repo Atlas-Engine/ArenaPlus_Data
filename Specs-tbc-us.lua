@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9428 characters, read 2026-10-14 07:58 PM.
+-- Region tbc-us, 9428 characters, read 2026-10-14 08:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10670,7 +10670,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["chappyy-dreamscythe"]=3,
 	["chargingtf-nightslayer"]=2,
 	["charleez-nightslayer"]=1,
-	["charlo-nightslayer"]=2,
+	["charlo-nightslayer"]=18,
 	["charsong-dreamscythe"]=7,
 	["chartremor-dreamscythe"]=7,
 	["chasecheddar-nightslayer"]=4,
@@ -16911,7 +16911,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["snazzd-nightslayer"]=7,
 	["snazze-nightslayer"]=5,
 	["snazzx-nightslayer"]=1,
-	["sneakymarty-dreamscythe"]=8,
+	["sneakymarty-dreamscythe"]=5,
 	["sneakypykey-nightslayer"]=5,
 	["sneakysav-nightslayer"]=5,
 	["sneakysean-nightslayer"]=5,
@@ -18631,7 +18631,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["zanax-nightslayer"]=6,
 	["zandanai-nightslayer"]=19,
 	["zandosnai-nightslayer"]=19,
-	["zanegruus-nightslayer"]=17,
+	["zanegruus-nightslayer"]=15,
 	["zäng-nightslayer"]=8,
 	["zanruk-nightslayer"]=10,
 	["zanzalight-dreamscythe"]=11,
