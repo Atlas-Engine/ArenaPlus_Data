@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9437 characters, read 2026-10-15 01:58 PM.
+-- Region tbc-us, 9437 characters, read 2026-10-15 02:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9738,7 +9738,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["atropha-dreamscythe"]=6,
 	["attackboss-dreamscythe"]=2,
 	["attackdog-nightslayer"]=19,
-	["aughhelp-dreamscythe"]=14,
+	["aughhelp-dreamscythe"]=1,
 	["aughhelp-nightslayer"]=1,
 	["augiie-nightslayer"]=3,
 	["augustini-dreamscythe"]=12,
@@ -10637,7 +10637,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["celame-nightslayer"]=7,
 	["celanorei-nightslayer"]=12,
 	["celestebunny-nightslayer"]=25,
-	["celex-nightslayer"]=4,
+	["celex-nightslayer"]=6,
 	["celisio-dreamscythe"]=11,
 	["cemog-nightslayer"]=5,
 	["cendfeetpics-nightslayer"]=10,
@@ -13005,7 +13005,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["hotcrushin-dreamscythe"]=3,
 	["hotdadbodirl-nightslayer"]=12,
 	["hotdogbun-nightslayer"]=10,
-	["hotdognobun-nightslayer"]=13,
+	["hotdognobun-nightslayer"]=16,
 	["hotflashin-nightslayer"]=6,
 	["hotgothdad-dreamscythe"]=18,
 	["hotiiance-dreamscythe"]=3,
@@ -13024,7 +13024,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["hozitow-nightslayer"]=1,
 	["hsuanlol-nightslayer"]=13,
 	["hsuanolz-nightslayer"]=11,
-	["hsuanuau-nightslayer"]=16,
+	["hsuanuau-nightslayer"]=13,
 	["httr-nightslayer"]=3,
 	["huangchen-nightslayer"]=25,
 	["huangyu-nightslayer"]=8,
@@ -14521,7 +14521,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["methie-nightslayer"]=13,
 	["metrìc-dreamscythe"]=10,
 	["metzbower-nightslayer"]=16,
-	["mewandya-nightslayer"]=23,
+	["mewandya-nightslayer"]=13,
 	["mewsed-nightslayer"]=24,
 	["mewzor-nightslayer"]=6,
 	["méz-nightslayer"]=5,
@@ -15109,7 +15109,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["nsgodx-nightslayer"]=24,
 	["nsidius-nightslayer"]=5,
 	["nsin-nightslayer"]=8,
-	["nsxd-nightslayer"]=10,
+	["nsxd-nightslayer"]=19,
 	["ntertainment-nightslayer"]=23,
 	["nthmage-dreamscythe"]=4,
 	["nu-dreamscythe"]=10,

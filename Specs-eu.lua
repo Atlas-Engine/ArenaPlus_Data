@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5345 characters, read 2026-10-15 02:00 PM.
+-- Region eu, 5345 characters, read 2026-10-15 03:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5470,7 +5470,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["attis-norushen"]=14,
 	["audioslave-shekzeer"]=16,
 	["augsburg-shekzeer"]=6,
-	["aultrasalt-shekzeer"]=17,
+	["aultrasalt-shekzeer"]=23,
 	["auredian-mirage-raceway"]=5,
 	["aureliavid-auberdine"]=3,
 	["auryen-mirage-raceway"]=4,
@@ -5851,7 +5851,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["causamortis-mirage-raceway"]=4,
 	["causeram-garalon"]=11,
 	["cavernicola-garalon"]=8,
-	["cavitaas-ook-ook"]=25,
+	["cavitaas-ook-ook"]=1,
 	["cavitas-everlook"]=1,
 	["cavitonnee-everlook"]=1,
 	["cavko-shekzeer"]=20,
@@ -6187,7 +6187,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["diepackiano-garalon"]=2,
 	["diidact-shekzeer"]=7,
 	["diikayz-shekzeer"]=8,
-	["dimako-shekzeer"]=3,
+	["dimako-shekzeer"]=21,
 	["dimsumfu-shekzeer"]=0,
 	["dindriezz-everlook"]=2,
 	["dinhoo-mirage-raceway"]=22,
@@ -6238,7 +6238,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Ðjsvrxzy-shekzeer"]=2,
 	["djwashedup-shekzeer"]=29,
 	["dksecouille-auberdine"]=33,
-	["dkw-gehennas"]=8,
+	["dkw-gehennas"]=31,
 	["dméndez-mirage-raceway"]=15,
 	["dnglo-mirage-raceway"]=1,
 	["dobanda-hoptallus"]=4,
