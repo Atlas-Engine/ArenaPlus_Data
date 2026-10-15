@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5345 characters, read 2026-10-15 01:00 PM.
+-- Region eu, 5345 characters, read 2026-10-15 02:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1830,7 +1830,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["indié-everlook"]=11,
 	["indîe-everlook"]=11,
 	["ineedtopoo-shekzeer"]=10,
-	["ineo-shekzeer"]=10,
+	["ineo-shekzeer"]=11,
 	["inertemplier-shekzeer"]=10,
 	["infection-shekzeer"]=10,
 	["infectiøns-auberdine"]=11,
@@ -3443,7 +3443,9 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["ronwemel-shekzeer"]=11,
 	["ronwilson-shekzeer"]=10,
 	["rook-shekzeer"]=11,
+	["ròòlin-hoptallus"]=11,
 	["røølin-hoptallus"]=40,
+	["röölin-shekzeer"]=11,
 	["røsée-auberdine"]=11,
 	["rosetta-garalon"]=31,
 	["rossem-hoptallus"]=70,
@@ -3474,7 +3476,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["rv-shekzeer"]=10,
 	["rx-shekzeer"]=11,
 	["rxsebøy-auberdine"]=11,
-	["rýdøthâðwlx-everlook"]=41,
+	["rýdøthâðwlx-everlook"]=220,
 	["rydothedk-everlook"]=11,
 	["rýdøthègøátx-everlook"]=111,
 	["rydotheholy-everlook"]=10,
@@ -6256,7 +6258,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["domiino-shekzeer"]=12,
 	["dominant-garalon"]=28,
 	["dominant-shekzeer"]=2,
-	["dominoo-shekzeer"]=21,
+	["dominoo-shekzeer"]=3,
 	["dönald-auberdine"]=17,
 	["dondrippiano-shekzeer"]=6,
 	["donjacky-shekzeer"]=6,
@@ -8721,9 +8723,9 @@ ns.SPECS_BY_REGION["eu"] = {
 	["ronwemel-shekzeer"]=17,
 	["ronwilson-shekzeer"]=1,
 	["rook-shekzeer"]=24,
-	["ròòlin-hoptallus"]=0,
+	["ròòlin-hoptallus"]=9,
 	["røølin-hoptallus"]=21,
-	["röölin-shekzeer"]=0,
+	["röölin-shekzeer"]=9,
 	["røsée-auberdine"]=8,
 	["rosetta-garalon"]=5,
 	["rossem-hoptallus"]=26,

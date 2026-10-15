@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5181 characters, read 2026-10-15 12:59 PM.
+-- Region us, 5182 characters, read 2026-10-15 01:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2069,6 +2069,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["ifireinside-pagle"]=51,
 	["ifistu-galakras"]=111,
 	["igather-galakras"]=41,
+	["igziluhraet-pagle"]=10,
 	["ihavenohand-pagle"]=20,
 	["ihealinufeel-pagle"]=60,
 	["ihealufeelz-pagle"]=100,
@@ -3095,6 +3096,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["ninytuts-galakras"]=60,
 	["nipper-pagle"]=11,
 	["nitenurse-pagle"]=101,
+	["nitron-raden"]=10,
 	["nitrousnancy-pagle"]=11,
 	["nixx-immerseus"]=60,
 	["nízzy-pagle"]=11,
@@ -3123,7 +3125,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["noomsee-immerseus"]=100,
 	["nopants-raden"]=10,
 	["norespect-pagle"]=10,
-	["norskugle-raden"]=41,
 	["northlane-raden"]=41,
 	["northstar-pagle"]=11,
 	["noskillewt-raden"]=11,
@@ -6116,7 +6117,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dívinethis-pagle"]=16,
 	["diz-lei-shen"]=34,
 	["dizz-lei-shen"]=7,
-	["dizzkilla-lei-shen"]=5,
+	["dizzkilla-lei-shen"]=17,
 	["dizzrock-lei-shen"]=15,
 	["djabita-nazgrim"]=1,
 	["djadá-pagle"]=4,
@@ -6194,7 +6195,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["doublegrip-pagle"]=25,
 	["dpwench-pagle"]=0,
 	["dracolnn-raden"]=18,
-	["dracølnn-raden"]=3,
+	["dracølnn-raden"]=18,
 	["draconastyy-pagle"]=14,
 	["draculad-pagle"]=6,
 	["drãkã-nazgrim"]=15,
@@ -7090,6 +7091,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ifireinside-pagle"]=1,
 	["ifistu-galakras"]=4,
 	["igather-galakras"]=17,
+	["igziluhraet-pagle"]=29,
 	["ihatemetoo-raden"]=0,
 	["ihavenohand-pagle"]=10,
 	["ihealinufeel-pagle"]=12,
@@ -8173,6 +8175,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ninytuts-galakras"]=7,
 	["nipper-pagle"]=1,
 	["nitenurse-pagle"]=2,
+	["nitron-raden"]=7,
 	["nitrousnancy-pagle"]=1,
 	["nixx-immerseus"]=16,
 	["nízzy-pagle"]=6,
@@ -8201,7 +8204,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["noomsee-immerseus"]=21,
 	["nopants-raden"]=1,
 	["norespect-pagle"]=7,
-	["norskugle-raden"]=17,
 	["northlane-raden"]=5,
 	["northstar-pagle"]=4,
 	["noskillewt-raden"]=6,
@@ -9362,7 +9364,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["stticka-pagle"]=1,
 	["studbolt-lei-shen"]=1,
 	["stuffyknows-raden"]=0,
-	["stungød-pagle"]=14,
+	["stungød-pagle"]=29,
 	["stwongspell-pagle"]=28,
 	["stylles-raden"]=10,
 	["subàti-pagle"]=9,
