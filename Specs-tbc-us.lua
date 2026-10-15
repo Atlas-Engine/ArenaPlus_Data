@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9441 characters, read 2026-10-15 04:58 PM.
+-- Region tbc-us, 9441 characters, read 2026-10-15 05:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9657,7 +9657,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["archrtwo-dreamscythe"]=10,
 	["archxr-dreamscythe"]=10,
 	["archymarshal-nightslayer"]=5,
-	["arctürüs-dreamscythe"]=4,
+	["arctürüs-dreamscythe"]=6,
 	["arctuva-nightslayer"]=7,
 	["ardrane-nightslayer"]=5,
 	["arenafanatic-nightslayer"]=2,
@@ -13323,7 +13323,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["jaez-nightslayer"]=12,
 	["jagbuttotems-dreamscythe"]=10,
 	["jaggies-nightslayer"]=13,
-	["jaguarinsito-dreamscythe"]=7,
+	["jaguarinsito-dreamscythe"]=22,
 	["jahanara-dreamscythe"]=1,
 	["jahboy-dreamscythe"]=14,
 	["jahimjabbar-nightslayer"]=23,
@@ -13817,7 +13817,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["korgthrall-nightslayer"]=2,
 	["korknbeans-nightslayer"]=10,
 	["korkz-nightslayer"]=10,
-	["koryano-dreamscythe"]=2,
+	["koryano-dreamscythe"]=20,
 	["koskaa-nightslayer"]=11,
 	["kosta-nightslayer"]=2,
 	["kothack-nightslayer"]=0,
@@ -14107,7 +14107,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["littlehoss-dreamscythe"]=6,
 	["littleimpact-dreamscythe"]=12,
 	["littleniko-nightslayer"]=2,
-	["littlepuffer-nightslayer"]=17,
+	["littlepuffer-nightslayer"]=15,
 	["liveornot-nightslayer"]=10,
 	["livit-dreamscythe"]=3,
 	["lizardwar-nightslayer"]=2,
@@ -14469,7 +14469,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["meetym-nightslayer"]=11,
 	["megânfox-nightslayer"]=5,
 	["meganfrostx-nightslayer"]=4,
-	["megaphone-nightslayer"]=6,
+	["megaphone-nightslayer"]=4,
 	["megasaur-nightslayer"]=2,
 	["megezz-nightslayer"]=16,
 	["mêgumîn-nightslayer"]=6,
