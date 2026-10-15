@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5186 characters, read 2026-10-15 02:59 AM.
+-- Region us, 5186 characters, read 2026-10-15 03:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5646,7 +5646,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["buttafingaz-pagle"]=17,
 	["buttercupjam-pagle"]=5,
 	["buttérr-pagle"]=20,
-	["butthuff-pagle"]=15,
+	["butthuff-pagle"]=19,
 	["buymysoup-raden"]=19,
 	["buypower-immerseus"]=34,
 	["buzlite-lei-shen"]=2,
@@ -5989,7 +5989,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dbravo-lei-shen"]=7,
 	["dcbigtime-raden"]=5,
 	["dccb-nazgrim"]=7,
-	["dcstranger-nazgrim"]=1,
+	["dcstranger-nazgrim"]=11,
 	["ddg-raden"]=21,
 	["ddini-pagle"]=5,
 	["ddk-pagle"]=6,
@@ -7178,7 +7178,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["isåbell-pagle"]=6,
 	["isabellee-raden"]=1,
 	["isbxr-raden"]=14,
-	["isg-pagle"]=30,
+	["isg-pagle"]=23,
 	["ishootropes-raden"]=7,
 	["ishotyou-galakras"]=3,
 	["isonuoli-pagle"]=3,
@@ -7813,7 +7813,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["matahordax-pagle"]=7,
 	["matemage-pagle"]=7,
 	["mathsbangsgg-pagle"]=8,
-	["mathsmoansgg-pagle"]=25,
+	["mathsmoansgg-pagle"]=26,
 	["matix-nazgrim"]=16,
 	["matraxs-raden"]=34,
 	["mátrix-pagle"]=14,
@@ -7837,7 +7837,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["mcgregor-pagle"]=4,
 	["mchotdog-raden"]=7,
 	["mcjager-raden"]=6,
-	["mclovinhunt-pagle"]=18,
+	["mclovinhunt-pagle"]=20,
 	["mcp-raden"]=28,
 	["mcpm-raden"]=1,
 	["mcstabbiee-pagle"]=29,
@@ -7862,7 +7862,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["menotsmart-raden"]=4,
 	["menshiki-galakras"]=0,
 	["meowiarti-pagle"]=5,
-	["meöwth-nazgrim"]=33,
+	["meöwth-nazgrim"]=17,
 	["mercktime-pagle"]=7,
 	["merckup-pagle"]=4,
 	["mercyx-raden"]=6,
@@ -8724,7 +8724,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["retmainxd-raden"]=18,
 	["rétpáladin-raden"]=2,
 	["retrostance-galakras"]=2,
-	["rettek-raden"]=24,
+	["rettek-raden"]=28,
 	["revcole-raden"]=9,
 	["revènge-raden"]=7,
 	["reverencex-pagle"]=24,
@@ -9673,7 +9673,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["truckw-raden"]=7,
 	["truebolt-pagle"]=22,
 	["trueshepard-pagle"]=21,
-	["trueshot-grobbulus"]=3,
+	["trueshot-grobbulus"]=20,
 	["trukanoh-nazgrim"]=22,
 	["trumpchains-galakras"]=26,
 	["trumpscurse-galakras"]=21,

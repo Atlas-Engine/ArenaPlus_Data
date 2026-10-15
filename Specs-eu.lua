@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5337 characters, read 2026-10-15 03:00 AM.
+-- Region eu, 5336 characters, read 2026-10-15 04:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -455,7 +455,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["bcacu-shekzeer"]=10,
 	["bdm-auberdine"]=11,
 	["bðring-shekzeer"]=11,
-	["bearburst-shekzeer"]=41,
 	["bearia-shekzeer"]=11,
 	["beastmastr-everlook"]=80,
 	["beeka-auberdine"]=220,
@@ -5585,7 +5584,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bcacu-shekzeer"]=1,
 	["bdm-auberdine"]=15,
 	["bðring-shekzeer"]=9,
-	["bearburst-shekzeer"]=32,
 	["bearia-shekzeer"]=4,
 	["beastmastr-everlook"]=4,
 	["beeka-auberdine"]=11,
@@ -8023,7 +8021,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["needmorerage-shekzeer"]=1,
 	["nefer-garalon"]=11,
 	["neferpitøu-everlook"]=13,
-	["nëgân-auberdine"]=26,
+	["nëgân-auberdine"]=34,
 	["nehlwtf-auberdine"]=15,
 	["nejiihyuga-shekzeer"]=7,
 	["nékro-garalon"]=23,
