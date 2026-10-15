@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5336 characters, read 2026-10-15 06:00 AM.
+-- Region eu, 5335 characters, read 2026-10-15 07:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -885,6 +885,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["crystalsteal-shekzeer"]=10,
 	["cuccó-garalon"]=20,
 	["cuckmycoocon-shekzeer"]=11,
+	["cuckquatre-shekzeer"]=11,
 	["cúdder-everlook"]=60,
 	["cùdder-everlook"]=21,
 	["cudder-shekzeer"]=11,
@@ -1013,7 +1014,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["diadora-shekzeer"]=11,
 	["diamantar-shekzeer"]=11,
 	["diba-shekzeer"]=10,
-	["dicatrio-mirage-raceway"]=60,
 	["diddyloc-everlook"]=11,
 	["diemac-garalon"]=50,
 	["diepackiano-garalon"]=11,
@@ -6030,6 +6030,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["crystalsteal-shekzeer"]=1,
 	["cuccó-garalon"]=4,
 	["cuckmycoocon-shekzeer"]=6,
+	["cuckquatre-shekzeer"]=17,
 	["cúdder-everlook"]=11,
 	["cùdder-everlook"]=4,
 	["cudder-shekzeer"]=15,
@@ -6165,7 +6166,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["diadora-shekzeer"]=5,
 	["diamantar-shekzeer"]=2,
 	["diba-shekzeer"]=20,
-	["dicatrio-mirage-raceway"]=3,
 	["diddyloc-everlook"]=7,
 	["diemac-garalon"]=12,
 	["diepackiano-garalon"]=2,
@@ -9660,7 +9660,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["voireg-shekzeer"]=15,
 	["voldreth-everlook"]=15,
 	["voldrex-everlook"]=16,
-	["voljix-shekzeer"]=4,
+	["voljix-shekzeer"]=14,
 	["voljiz-shekzeer"]=1,
 	["volkris-shekzeer"]=15,
 	["volkrz-shekzeer"]=19,
@@ -10454,7 +10454,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Фобя-flamegor"]=3,
 	["Фоллсс-flamegor"]=23,
 	["Фоллэнгодх-flamegor"]=15,
-	["Форенган-flamegor"]=0,
 	["Фурист-flamegor"]=9,
 	["Ффолс-flamegor"]=3,
 	["Халлбъёрн-flamegor"]=15,
