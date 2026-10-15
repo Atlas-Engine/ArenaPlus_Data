@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9451 characters, read 2026-10-14 10:58 PM.
+-- Region tbc-us, 9451 characters, read 2026-10-14 11:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11395,7 +11395,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["dìp-dreamscythe"]=22,
 	["dipla-dreamscythe"]=8,
 	["dipt-nightslayer"]=19,
-	["dirkz-nightslayer"]=8,
+	["dirkz-nightslayer"]=5,
 	["dirtbike-nightslayer"]=10,
 	["dirtpipe-dreamscythe"]=15,
 	["dirts-nightslayer"]=12,
@@ -11716,7 +11716,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["duxlol-nightslayer"]=13,
 	["duxxar-nightslayer"]=15,
 	["duzentosvolt-nightslayer"]=24,
-	["dv-nightslayer"]=7,
+	["dv-nightslayer"]=3,
 	["dvinebulwark-nightslayer"]=9,
 	["dwarfmen-nightslayer"]=17,
 	["dwarftard-nightslayer"]=1,
@@ -15562,7 +15562,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["pinkierr-nightslayer"]=10,
 	["pinkrangerz-nightslayer"]=7,
 	["pinkypal-nightslayer"]=9,
-	["pinkzz-nightslayer"]=23,
+	["pinkzz-nightslayer"]=13,
 	["pinoh-nightslayer"]=21,
 	["pipestrange-nightslayer"]=7,
 	["pipidd-dreamscythe"]=7,
@@ -17074,7 +17074,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["splice-nightslayer"]=19,
 	["splitwideopn-dreamscythe"]=6,
 	["splodesister-nightslayer"]=16,
-	["spooksters-nightslayer"]=8,
+	["spooksters-nightslayer"]=5,
 	["spooksterz-nightslayer"]=4,
 	["spookychop-dreamscythe"]=2,
 	["spoonss-dreamscythe"]=16,
@@ -18444,7 +18444,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["wyllerton-nightslayer"]=10,
 	["wyllertons-nightslayer"]=10,
 	["wzb-dreamscythe"]=0,
-	["wzrdmightyx-nightslayer"]=12,
+	["wzrdmightyx-nightslayer"]=1,
 	["xaedus-nightslayer"]=3,
 	["xaind-nightslayer"]=5,
 	["xamachi-nightslayer"]=7,
