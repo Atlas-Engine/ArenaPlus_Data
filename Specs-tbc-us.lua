@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9437 characters, read 2026-10-15 02:58 PM.
+-- Region tbc-us, 9437 characters, read 2026-10-15 03:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10442,7 +10442,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bubbleebear-nightslayer"]=3,
 	["bubblewrapr-nightslayer"]=0,
 	["bubblinbenny-nightslayer"]=1,
-	["bubbrill-dreamscythe"]=1,
+	["bubbrill-dreamscythe"]=14,
 	["bubikim-nightslayer"]=7,
 	["bubiss-nightslayer"]=1,
 	["bubulle-nightslayer"]=9,
@@ -14707,7 +14707,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["moneygoat-nightslayer"]=10,
 	["mongologist-nightslayer"]=15,
 	["moniix-nightslayer"]=24,
-	["monkichi-nightslayer"]=2,
+	["monkichi-nightslayer"]=18,
 	["monkmindset-nightslayer"]=7,
 	["monsieurcaca-nightslayer"]=17,
 	["monstamage-nightslayer"]=6,
@@ -15160,7 +15160,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["oceandrive-nightslayer"]=10,
 	["ocelot-nightslayer"]=10,
 	["ocewarlord-nightslayer"]=23,
-	["ocxd-nightslayer"]=5,
+	["ocxd-nightslayer"]=8,
 	["odabipoc-nightslayer"]=13,
 	["odderpop-nightslayer"]=5,
 	["oddvark-nightslayer"]=5,
@@ -15186,7 +15186,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ohhsnap-nightslayer"]=6,
 	["ohjeezz-dreamscythe"]=23,
 	["ohmyhunts-nightslayer"]=15,
-	["ohmyxd-nightslayer"]=16,
+	["ohmyxd-nightslayer"]=13,
 	["ohn-nightslayer"]=2,
 	["ohnjr-nightslayer"]=15,
 	["ohnoimoom-nightslayer"]=14,
@@ -17818,7 +17818,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["tuxoss-nightslayer"]=21,
 	["tva-nightslayer"]=3,
 	["twangy-nightslayer"]=5,
-	["tween-nightslayer"]=1,
+	["tween-nightslayer"]=14,
 	["tweezzr-nightslayer"]=18,
 	["twerklol-nightslayer"]=5,
 	["twerkxd-nightslayer"]=1,
