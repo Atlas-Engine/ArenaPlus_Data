@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9769 characters, read 2026-10-15 03:59 AM.
+-- Region tbc-eu, 9769 characters, read 2026-10-15 04:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -13096,7 +13096,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["hellhowl-spineshatter"]=23,
 	["hellmode-spineshatter"]=9,
 	["hellokitkat-spineshatter"]=6,
-	["helpimstuck-spineshatter"]=1,
+	["helpimstuck-spineshatter"]=6,
 	["helvos-spineshatter"]=9,
 	["hemad-spineshatter"]=1,
 	["hemas-spineshatter"]=11,
@@ -13315,7 +13315,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["icelancedogx-spineshatter"]=9,
 	["icemanr-spineshatter"]=11,
 	["iceplay-spineshatter"]=4,
-	["icepressox-spineshatter"]=4,
+	["icepressox-spineshatter"]=9,
 	["icerift-spineshatter"]=9,
 	["iceteazero-thunderstrike"]=5,
 	["icewalow-thunderstrike"]=3,
@@ -14500,7 +14500,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["loabless-thunderstrike"]=2,
 	["loaff-spineshatter"]=2,
 	["loayna-spineshatter"]=9,
-	["lobosa-spineshatter"]=2,
+	["lobosa-spineshatter"]=17,
 	["lobsaibot-spineshatter"]=5,
 	["localgypsy-spineshatter"]=5,
 	["locco-spineshatter"]=23,
@@ -15900,7 +15900,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["oxyh-spineshatter"]=2,
 	["oyana-spineshatter"]=8,
 	["ozael-spineshatter"]=2,
-	["Øzempic-spineshatter"]=2,
+	["Øzempic-spineshatter"]=8,
 	["ozey-spineshatter"]=3,
 	["ozèy-spineshatter"]=12,
 	["ozëy-spineshatter"]=5,
