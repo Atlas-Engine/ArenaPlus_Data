@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5334 characters, read 2026-10-14 07:00 PM.
+-- Region eu, 5334 characters, read 2026-10-14 08:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2836,7 +2836,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["nightfever-hoptallus"]=10,
 	["nightkiller-hoptallus"]=101,
 	["nightlash-everlook"]=10,
-	["nîghtvîper-mirage-raceway"]=11,
+	["nîghtvîper-mirage-raceway"]=10,
 	["niikke-auberdine"]=80,
 	["niix-norushen"]=11,
 	["niixs-hoptallus"]=40,
@@ -5456,7 +5456,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["audioslave-shekzeer"]=16,
 	["augsburg-shekzeer"]=6,
 	["aultrasalt-shekzeer"]=17,
-	["auredian-mirage-raceway"]=15,
+	["auredian-mirage-raceway"]=5,
 	["aureliavid-auberdine"]=3,
 	["auryen-mirage-raceway"]=4,
 	["auslogics-shekzeer"]=2,
@@ -5833,7 +5833,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["causamortis-mirage-raceway"]=4,
 	["causeram-garalon"]=11,
 	["cavernicola-garalon"]=8,
-	["cavitaas-ook-ook"]=1,
+	["cavitaas-ook-ook"]=25,
 	["cavitas-everlook"]=1,
 	["cavitonnee-everlook"]=1,
 	["cavko-shekzeer"]=20,
@@ -7924,7 +7924,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["mud-garalon"]=1,
 	["muddywaters-shekzeer"]=2,
 	["muga-hoptallus"]=1,
-	["mugiwára-shekzeer"]=24,
+	["mugiwára-shekzeer"]=26,
 	["mugmug-hoptallus"]=5,
 	["muguruza-shekzeer"]=11,
 	["mugwumpy-shekzeer"]=21,
@@ -8983,7 +8983,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["skullchachi-mirage-raceway"]=26,
 	["skylexia-auberdine"]=15,
 	["skynerd-shekzeer"]=17,
-	["skyráw-shekzeer"]=21,
+	["skyráw-shekzeer"]=11,
 	["skyrine-auberdine"]=8,
 	["slagteren-shekzeer"]=1,
 	["slamftw-shekzeer"]=1,
@@ -9134,7 +9134,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["stìsho-shekzeer"]=7,
 	["stitchvnr-auberdine"]=33,
 	["stivkuling-shekzeer"]=2,
-	["stjärto-shekzeer"]=26,
+	["stjärto-shekzeer"]=24,
 	["stokssprime-shekzeer"]=14,
 	["stopfear-shekzeer"]=23,
 	["stopsheep-shekzeer"]=2,
@@ -9213,7 +9213,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["swinnyqt-garalon"]=5,
 	["swoleberg-everlook"]=31,
 	["swoorlz-everlook"]=9,
-	["swpdez-shekzeer"]=6,
+	["swpdez-shekzeer"]=7,
 	["swpdwxc-shekzeer"]=6,
 	["swpdxl-shekzeer"]=6,
 	["swpx-shekzeer"]=1,
