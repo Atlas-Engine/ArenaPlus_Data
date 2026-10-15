@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5186 characters, read 2026-10-15 01:59 AM.
+-- Region us, 5186 characters, read 2026-10-15 02:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2365,7 +2365,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["kermit-pagle"]=10,
 	["kernal-pagle"]=10,
 	["kêrolina-raden"]=11,
-	["kerrypetty-pagle"]=11,
+	["kerrypetty-pagle"]=10,
 	["kewchii-pagle"]=11,
 	["keyastan-galakras"]=100,
 	["keyglock-pagle"]=10,
@@ -5512,7 +5512,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["boltzito-pagle"]=24,
 	["bømber-pagle"]=14,
 	["bonalls-immerseus"]=4,
-	["bonechillerr-pagle"]=11,
+	["bonechillerr-pagle"]=1,
 	["bonezap-raden"]=2,
 	["bonhojia-lei-shen"]=3,
 	["bonitaa-pagle"]=1,
@@ -7402,7 +7402,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["kermit-pagle"]=2,
 	["kernal-pagle"]=7,
 	["kêrolina-raden"]=7,
-	["kerrypetty-pagle"]=10,
+	["kerrypetty-pagle"]=4,
 	["kewchii-pagle"]=9,
 	["keyastan-galakras"]=21,
 	["keyglock-pagle"]=10,
@@ -8020,7 +8020,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["mozzi-raden"]=7,
 	["mp-raden"]=9,
 	["mslusty-pagle"]=4,
-	["msnurfme-raden"]=5,
+	["msnurfme-raden"]=17,
 	["msr-galakras"]=3,
 	["msthickmeat-raden"]=22,
 	["mtj-atiesh"]=17,
@@ -8724,7 +8724,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["retmainxd-raden"]=18,
 	["rétpáladin-raden"]=2,
 	["retrostance-galakras"]=2,
-	["rettek-raden"]=8,
+	["rettek-raden"]=24,
 	["revcole-raden"]=9,
 	["revènge-raden"]=7,
 	["reverencex-pagle"]=24,
@@ -9789,7 +9789,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["veltharis-galakras"]=25,
 	["veneca-pagle"]=14,
 	["vengance-raden"]=2,
-	["vera-benediction"]=27,
+	["vera-benediction"]=10,
 	["verbzy-raden"]=14,
 	["verceslayz-raden"]=14,
 	["vercetti-raden"]=28,
