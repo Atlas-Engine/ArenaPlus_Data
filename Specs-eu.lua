@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5339 characters, read 2026-10-15 11:00 AM.
+-- Region eu, 5339 characters, read 2026-10-15 12:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6783,7 +6783,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["hacu-shekzeer"]=4,
 	["hadrius-ook-ook"]=9,
 	["hadudruid-shekzeer"]=3,
-	["hadupal-shekzeer"]=5,
+	["hadupal-shekzeer"]=15,
 	["hadupriest-shekzeer"]=9,
 	["haduqt-shekzeer"]=9,
 	["hageklasker-garalon"]=25,
@@ -8750,7 +8750,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["rydothemonk-everlook"]=7,
 	["rydotheret-everlook"]=5,
 	["rydotheroq-everlook"]=24,
-	["rydothetrap-everlook"]=14,
+	["rydothetrap-everlook"]=20,
 	["rydothetwink-everlook"]=6,
 	["rydothewar-everlook"]=1,
 	["rydothewl-everlook"]=23,
@@ -9722,7 +9722,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["wasapwasap-shekzeer"]=4,
 	["wassimar-mirage-raceway"]=17,
 	["wasterzhi-hoptallus"]=15,
-	["watanesa-norushen"]=17,
+	["watanesa-norushen"]=23,
 	["watz-shekzeer"]=1,
 	["waydemx-shekzeer"]=2,
 	["waydemz-shekzeer"]=8,

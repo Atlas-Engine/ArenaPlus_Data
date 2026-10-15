@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5181 characters, read 2026-10-15 10:59 AM.
+-- Region us, 5181 characters, read 2026-10-15 11:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5828,7 +5828,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["cooterman-raden"]=10,
 	["cootrcrushr-nazgrim"]=14,
 	["cornflakes-raden"]=3,
-	["cornßread-pagle"]=4,
+	["cornßread-pagle"]=10,
 	["corrodius-lei-shen"]=7,
 	["corumba-pagle"]=7,
 	["cosmicrage-lei-shen"]=7,
@@ -6319,7 +6319,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["eezz-nazgrim"]=13,
 	["efekz-immerseus"]=14,
 	["eggfooyoung-immerseus"]=4,
-	["eidottnawi-pagle"]=3,
+	["eidottnawi-pagle"]=18,
 	["eikou-pagle"]=2,
 	["eivi-lei-shen"]=14,
 	["eka-raden"]=18,
@@ -6513,7 +6513,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["fíngerplay-galakras"]=15,
 	["fingerplay-raden"]=16,
 	["fingerrfkr-nazgrim"]=5,
-	["fingølfin-pagle"]=14,
+	["fingølfin-pagle"]=29,
 	["finja-lei-shen"]=34,
 	["finkledinkle-pagle"]=16,
 	["finnese-pagle"]=1,
@@ -6521,7 +6521,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["firecano-raden"]=11,
 	["fireflamelol-pagle"]=17,
 	["firegangsrt-raden"]=1,
-	["fisherpete-arugal-au"]=25,
+	["fisherpete-arugal-au"]=6,
 	["fistatoosh-galakras"]=27,
 	["fistenjoyer-raden"]=4,
 	["fistofdiddy-pagle"]=4,
