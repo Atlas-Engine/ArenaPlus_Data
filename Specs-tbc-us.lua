@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9437 characters, read 2026-10-15 08:58 AM.
+-- Region tbc-us, 9437 characters, read 2026-10-15 09:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11456,7 +11456,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["doloin-nightslayer"]=5,
 	["doloqtxoxo-dreamscythe"]=24,
 	["dolosham-nightslayer"]=10,
-	["domenek-nightslayer"]=13,
+	["domenek-nightslayer"]=23,
 	["domice-nightslayer"]=6,
 	["domicetoo-nightslayer"]=6,
 	["domoz-nightslayer"]=18,
@@ -13859,7 +13859,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["kudzug-nightslayer"]=10,
 	["kukakente-nightslayer"]=5,
 	["kukuri-nightslayer"]=10,
-	["kumabearr-nightslayer"]=7,
+	["kumabearr-nightslayer"]=22,
 	["kungal-dreamscythe"]=15,
 	["kungol-dreamscythe"]=11,
 	["kungyl-dreamscythe"]=1,
@@ -17606,7 +17606,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["tikz-nightslayer"]=13,
 	["tilordztotem-nightslayer"]=24,
 	["tiltedoutlaw-dreamscythe"]=6,
-	["tiltedoutlaw-nightslayer"]=13,
+	["tiltedoutlaw-nightslayer"]=16,
 	["tîmeless-dreamscythe"]=4,
 	["timéless-nightslayer"]=1,
 	["timenoughfl-nightslayer"]=22,
