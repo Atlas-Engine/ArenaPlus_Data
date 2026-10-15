@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5188 characters, read 2026-10-15 04:59 AM.
+-- Region us, 5188 characters, read 2026-10-15 05:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6229,7 +6229,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dreynite-pagle"]=6,
 	["drfault-immerseus"]=5,
 	["drgspit-pagle"]=28,
-	["drhub-galakras"]=13,
+	["drhub-galakras"]=21,
 	["driadstorm-raden"]=12,
 	["drinkbeerz-raden"]=12,
 	["dripkingk-pagle"]=1,
@@ -7508,7 +7508,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["kusamgie-galakras"]=2,
 	["kusheatsleep-raden"]=18,
 	["kushgodx-raden"]=1,
-	["kushh-nazgrim"]=10,
+	["kushh-nazgrim"]=4,
 	["kutless-raden"]=16,
 	["kutthroatt-pagle"]=7,
 	["kutty-nazgrim"]=11,
@@ -7573,7 +7573,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["lekkia-pagle"]=13,
 	["leonidasxd-raden"]=7,
 	["leonidasxl-pagle"]=4,
-	["leowna-pagle"]=16,
+	["leowna-pagle"]=2,
 	["leownaa-pagle"]=2,
 	["lepermesiah-pagle"]=20,
 	["lepson-nazgrim"]=7,
@@ -7647,7 +7647,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["litmus-pagle"]=7,
 	["litoutz-pagle"]=11,
 	["littheri-pagle"]=17,
-	["littielight-pagle"]=13,
+	["littielight-pagle"]=21,
 	["littlegirl-raden"]=11,
 	["littlesneky-pagle"]=34,
 	["littletinkle-galakras"]=2,

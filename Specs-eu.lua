@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5336 characters, read 2026-10-15 05:00 AM.
+-- Region eu, 5336 characters, read 2026-10-15 06:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2499,7 +2499,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["mashleman-shekzeer"]=250,
 	["maskof-shekzeer"]=10,
 	["massivecnt-shekzeer"]=11,
-	["matiel-shekzeer"]=41,
+	["matiel-shekzeer"]=40,
 	["matinaa-shekzeer"]=11,
 	["matora-ook-ook"]=11,
 	["matroxafk-shekzeer"]=71,
@@ -4360,7 +4360,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["vonweissnix-everlook"]=11,
 	["voodomann-mirage-raceway"]=40,
 	["vøørhees-shekzeer"]=11,
-	["vórkar-mirage-raceway"]=11,
+	["vórkar-mirage-raceway"]=10,
 	["vorn-shekzeer"]=60,
 	["votezbien-shekzeer"]=41,
 	["votrelec-shekzeer"]=30,
@@ -5561,7 +5561,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bampatanga-hoptallus"]=9,
 	["banezone-mirage-raceway"]=17,
 	["bankaimeh-shekzeer"]=9,
-	["bankofabank-shekzeer"]=11,
+	["bankofabank-shekzeer"]=3,
 	["baphömet-auberdine"]=23,
 	["barackokarma-shekzeer"]=0,
 	["barbarianx-shekzeer"]=1,
@@ -7718,7 +7718,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["maskof-shekzeer"]=1,
 	["massacro-gehennas"]=0,
 	["massivecnt-shekzeer"]=4,
-	["matiel-shekzeer"]=11,
+	["matiel-shekzeer"]=3,
 	["matinaa-shekzeer"]=14,
 	["matora-ook-ook"]=1,
 	["matroxafk-shekzeer"]=17,
@@ -7739,7 +7739,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["mcvillain-mirage-raceway"]=1,
 	["mdeepi-shekzeer"]=2,
 	["meatpyre-mirage-raceway"]=1,
-	["medhotup-shekzeer"]=32,
+	["medhotup-shekzeer"]=3,
 	["medtabletkka-shekzeer"]=3,
 	["mëdüsa-mirage-raceway"]=24,
 	["medvedbzxc-shekzeer"]=2,
@@ -7830,7 +7830,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["mishlen-shekzeer"]=13,
 	["missaicecity-shekzeer"]=3,
 	["missisclone-shekzeer"]=11,
-	["missota-shekzeer"]=3,
+	["missota-shekzeer"]=11,
 	["missotalock-shekzeer"]=23,
 	["missotawarr-shekzeer"]=1,
 	["mistclicked-shekzeer"]=6,
@@ -7847,7 +7847,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["mixu-shekzeer"]=23,
 	["mjx-shekzeer"]=12,
 	["mlejnek-mirage-raceway"]=0,
-	["mlgcolumbus-shekzeer"]=13,
+	["mlgcolumbus-shekzeer"]=16,
 	["mmarkan-shekzeer"]=0,
 	["mmashnik-shekzeer"]=6,
 	["mmbq-shekzeer"]=2,
@@ -10515,7 +10515,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Ягаа-flamegor"]=0,
 	["Ядипаюмагов-flamegor"]=2,
 	["Яйцаагги-flamegor"]=8,
-	["Яйцебойка-flamegor"]=19,
+	["Яйцебойка-flamegor"]=13,
 	["Яйша-flamegor"]=11,
 	["Ямабито-flamegor"]=13,
 	["Ярикфростдк-flamegor"]=8,
