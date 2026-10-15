@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9769 characters, read 2026-10-15 12:59 AM.
+-- Region tbc-eu, 9769 characters, read 2026-10-15 01:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11560,7 +11560,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["deserving-spineshatter"]=2,
 	["desii-spineshatter"]=1,
 	["desm-spineshatter"]=9,
-	["desmondome-spineshatter"]=12,
+	["desmondome-spineshatter"]=11,
 	["desmotis-spineshatter"]=2,
 	["despahito-spineshatter"]=8,
 	["desparà-thunderstrike"]=3,
@@ -14535,7 +14535,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["longoniz-thunderstrike"]=9,
 	["lonnert-spineshatter"]=11,
 	["lonnie-spineshatter"]=11,
-	["lonshi-spineshatter"]=9,
+	["lonshi-spineshatter"]=4,
 	["lonzi-spineshatter"]=3,
 	["loofur-spineshatter"]=3,
 	["lookh-spineshatter"]=1,
@@ -16835,7 +16835,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["rudebøy-spineshatter"]=3,
 	["rudivoeller-spineshatter"]=9,
 	["rulda-spineshatter"]=5,
-	["rullatorida-spineshatter"]=2,
+	["rullatorida-spineshatter"]=17,
 	["rullinger-spineshatter"]=25,
 	["ruloni-spineshatter"]=24,
 	["rumburac-spineshatter"]=1,
