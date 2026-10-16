@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5189 characters, read 2026-10-16 02:59 PM.
+-- Region us, 5189 characters, read 2026-10-16 03:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5960,7 +5960,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["danyshadow-raden"]=21,
 	["Ðark-nazgrim"]=6,
 	["darkavengerr-pagle"]=28,
-	["darkcurador-nazgrim"]=13,
+	["darkcurador-nazgrim"]=21,
 	["darkdankdope-raden"]=10,
 	["darkdeamon-pagle"]=1,
 	["darkdknight-pagle"]=6,
@@ -5969,7 +5969,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["darkjdm-lei-shen"]=6,
 	["darklegendz-raden"]=24,
 	["darknessfury-pagle"]=6,
-	["darknuns-pagle"]=9,
+	["darknuns-pagle"]=21,
 	["darkphecy-pagle"]=22,
 	["darkshadown-pagle"]=13,
 	["darkshadowx-galakras"]=25,
@@ -6923,7 +6923,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["héctorlavoe-pagle"]=18,
 	["hedensk-pagle"]=7,
 	["hedianne-lei-shen"]=0,
-	["hefini-nazgrim"]=9,
+	["hefini-nazgrim"]=21,
 	["heghost-pagle"]=9,
 	["heihaheiha-raden"]=10,
 	["heilsatan-galakras"]=9,
@@ -8900,7 +8900,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["sârolyn-pagle"]=16,
 	["sasafras-pagle"]=5,
 	["sashastorm-pagle"]=24,
-	["sassybooty-galakras"]=4,
+	["sassybooty-galakras"]=10,
 	["satierf-pagle"]=17,
 	["satrian-pagle"]=18,
 	["satyricon-raden"]=28,
