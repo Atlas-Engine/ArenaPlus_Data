@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9428 characters, read 2026-10-16 05:58 PM.
+-- Region tbc-us, 9428 characters, read 2026-10-16 06:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10194,7 +10194,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["blnxx-nightslayer"]=5,
 	["blockgodb-nightslayer"]=4,
 	["blohz-nightslayer"]=22,
-	["blokezz-nightslayer"]=18,
+	["blokezz-nightslayer"]=2,
 	["blondish-nightslayer"]=2,
 	["bloobungle-nightslayer"]=6,
 	["bloodravenn-nightslayer"]=6,
@@ -15958,7 +15958,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["reeflexx-nightslayer"]=8,
 	["reeitz-nightslayer"]=9,
 	["reekz-nightslayer"]=2,
-	["reesons-nightslayer"]=8,
+	["reesons-nightslayer"]=5,
 	["reeview-nightslayer"]=13,
 	["reezy-nightslayer"]=18,
 	["reflectionn-nightslayer"]=0,
@@ -16325,7 +16325,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["saradominin-nightslayer"]=7,
 	["saraebel-dreamscythe"]=1,
 	["saridan-dreamscythe"]=15,
-	["sashimì-nightslayer"]=4,
+	["sashimì-nightslayer"]=6,
 	["sath-nightslayer"]=18,
 	["satisfyx-nightslayer"]=6,
 	["saucelordd-nightslayer"]=14,
@@ -17237,7 +17237,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["subscape-nightslayer"]=7,
 	["subw-nightslayer"]=18,
 	["sucashione-nightslayer"]=24,
-	["succubusn-nightslayer"]=13,
+	["succubusn-nightslayer"]=23,
 	["suezu-nightslayer"]=5,
 	["sufferìng-dreamscythe"]=7,
 	["sugarrfree-nightslayer"]=4,
@@ -18169,7 +18169,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["warglayves-nightslayer"]=18,
 	["warkhaos-nightslayer"]=2,
 	["warlockhater-nightslayer"]=12,
-	["warlorc-nightslayer"]=13,
+	["warlorc-nightslayer"]=16,
 	["warmike-nightslayer"]=2,
 	["warrém-nightslayer"]=18,
 	["warriorbbq-nightslayer"]=18,

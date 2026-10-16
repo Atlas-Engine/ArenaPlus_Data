@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5184 characters, read 2026-10-16 05:59 PM.
+-- Region us, 5184 characters, read 2026-10-16 06:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7456,7 +7456,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["klept-raden"]=4,
 	["kleptix-raden"]=34,
 	["knottypawz-pagle"]=17,
-	["knuckles-pagle"]=23,
+	["knuckles-pagle"]=7,
 	["knucklès-pagle"]=16,
 	["knucklës-pagle"]=28,
 	["knûckles-pagle"]=17,
@@ -8155,7 +8155,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["nevreth-pagle"]=18,
 	["neworld-pagle"]=7,
 	["ngmi-pagle"]=1,
-	["nguyen-raden"]=5,
+	["nguyen-raden"]=17,
 	["nhaerk-raden"]=9,
 	["nhyft-raden"]=4,
 	["nhyftwo-raden"]=5,
@@ -8456,7 +8456,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["pigfarmerjoe-pagle"]=3,
 	["pimen-pagle"]=1,
 	["pinguen-pagle"]=0,
-	["pinguisulina-galakras"]=14,
+	["pinguisulina-galakras"]=29,
 	["pinkdreads-pagle"]=12,
 	["pinkfinder-pagle"]=21,
 	["pinkfiregg-pagle"]=10,
@@ -9338,7 +9338,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["sterleus-galakras"]=19,
 	["sterlìng-galakras"]=7,
 	["sterlinng-galakras"]=10,
-	["sterlÿng-galakras"]=16,
+	["sterlÿng-galakras"]=2,
 	["stevebox-myzrael"]=26,
 	["stevenrae-nazgrim"]=7,
 	["stickychicks-pagle"]=1,
