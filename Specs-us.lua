@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5185 characters, read 2026-10-15 08:59 PM.
+-- Region us, 5185 characters, read 2026-10-15 09:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -606,6 +606,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["bragmek-raden"]=10,
 	["bramanmanman-grobbulus"]=80,
 	["brandoncle-galakras"]=101,
+	["brandopanda-galakras"]=250,
 	["brazzeal-pagle"]=100,
 	["brbcloning-pagle"]=41,
 	["brbsheeping-pagle"]=11,
@@ -5562,7 +5563,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["bramanmanman-grobbulus"]=15,
 	["branco-raden"]=0,
 	["brandoncle-galakras"]=16,
-	["brandopanda-galakras"]=0,
+	["brandopanda-galakras"]=10,
 	["brazzeal-pagle"]=16,
 	["brbcloning-pagle"]=17,
 	["brbsheeping-pagle"]=1,
@@ -5941,7 +5942,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dáncingmines-raden"]=5,
 	["dandor-pagle"]=7,
 	["dankenbrew-lei-shen"]=4,
-	["dankendwarf-pagle"]=15,
+	["dankendwarf-pagle"]=22,
 	["dankenelf-pagle"]=5,
 	["dankenshroom-lei-shen"]=12,
 	["dankenstein-lei-shen"]=22,
@@ -6309,7 +6310,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ebaylol-raden"]=1,
 	["ebolalola-galakras"]=1,
 	["ebolarama-galakras"]=2,
-	["ecafkcufhi-raden"]=10,
+	["ecafkcufhi-raden"]=4,
 	["echodotx-raden"]=9,
 	["ecmoo-pagle"]=4,
 	["ecstasyshock-pagle"]=22,
