@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5184 characters, read 2026-10-16 04:59 PM.
+-- Region us, 5184 characters, read 2026-10-16 05:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5663,7 +5663,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["calltoarms-pagle"]=16,
 	["calmish-lei-shen"]=10,
 	["camerano-pagle"]=7,
-	["candity-arugal-au"]=3,
+	["candity-arugal-au"]=20,
 	["candykanes-pagle"]=28,
 	["canera-galakras"]=10,
 	["canible-raden"]=31,
@@ -8764,7 +8764,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["rivertwig-galakras"]=4,
 	["rivet-galakras"]=20,
 	["rivilis-galakras"]=30,
-	["rizlah-lei-shen"]=11,
+	["rizlah-lei-shen"]=1,
 	["rizzyx-raden"]=7,
 	["rjc-pagle"]=10,
 	["rjwbot-pagle"]=27,
@@ -9331,7 +9331,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["steamingload-raden"]=16,
 	["steeldruid-myzrael"]=5,
 	["steeloxx-myzrael"]=7,
-	["steezy-raden"]=29,
+	["steezy-raden"]=14,
 	["stefanelli-galakras"]=18,
 	["stelevations-pagle"]=6,
 	["stephblurryz-raden"]=29,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9428 characters, read 2026-10-16 04:58 PM.
+-- Region tbc-us, 9428 characters, read 2026-10-16 05:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11738,7 +11738,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["egibidof-nightslayer"]=19,
 	["egotestical-nightslayer"]=7,
 	["egsyy-nightslayer"]=8,
-	["eh-nightslayer"]=2,
+	["eh-nightslayer"]=18,
 	["Ëh-nightslayer"]=2,
 	["ehk-nightslayer"]=9,
 	["ehtree-nightslayer"]=7,
@@ -12518,7 +12518,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["gnf-dreamscythe"]=6,
 	["gnodumpski-nightslayer"]=4,
 	["gnomebiches-nightslayer"]=2,
-	["gnoouv-nightslayer"]=5,
+	["gnoouv-nightslayer"]=8,
 	["gnorf-nightslayer"]=2,
 	["gnorfx-nightslayer"]=2,
 	["gnorph-nightslayer"]=6,
@@ -13103,7 +13103,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["icyfrésh-nightslayer"]=4,
 	["icypug-nightslayer"]=9,
 	["idaresonyeo-nightslayer"]=1,
-	["iddiot-nightslayer"]=7,
+	["iddiot-nightslayer"]=22,
 	["idiotdog-nightslayer"]=7,
 	["idiotshock-nightslayer"]=10,
 	["idnal-nightslayer"]=4,
@@ -13241,7 +13241,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ironfox-nightslayer"]=7,
 	["ironsîde-nightslayer"]=18,
 	["ironthornx-nightslayer"]=22,
-	["irontough-dreamscythe"]=7,
+	["irontough-dreamscythe"]=3,
 	["irscollector-nightslayer"]=0,
 	["ishogall-dreamscythe"]=2,
 	["iskk-dreamscythe"]=13,
@@ -18144,7 +18144,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["walalace-dreamscythe"]=7,
 	["waldo-nightslayer"]=5,
 	["walf-nightslayer"]=5,
-	["walkendead-nightslayer"]=6,
+	["walkendead-nightslayer"]=4,
 	["walkindead-nightslayer"]=13,
 	["walla-nightslayer"]=18,
 	["wallasmol-nightslayer"]=2,
