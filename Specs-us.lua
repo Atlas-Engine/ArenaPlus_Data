@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5184 characters, read 2026-10-16 03:59 AM.
+-- Region us, 5185 characters, read 2026-10-16 04:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -888,6 +888,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["craniüm-pagle"]=20,
 	["crapbucket-raden"]=40,
 	["crapes-immerseus"]=61,
+	["crapes-pagle"]=61,
 	["crapes-raden"]=41,
 	["crapist-raden"]=11,
 	["crashdavis-raden"]=220,
@@ -1021,7 +1022,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["deadshottz-galakras"]=20,
 	["deathbringer-lei-shen"]=10,
 	["deathgrips-raden"]=11,
-	["dëåthknïght-immerseus"]=50,
 	["deathmoves-galakras"]=20,
 	["déathpriestt-galakras"]=10,
 	["deathroams-galakras"]=81,
@@ -5405,7 +5405,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["biggertotem-pagle"]=15,
 	["bigghøst-pagle"]=16,
 	["biggreensham-raden"]=15,
-	["bigjae-pagle"]=23,
+	["bigjae-pagle"]=30,
 	["bigkaryn-pagle"]=6,
 	["bígmac-pagle"]=12,
 	["bigmanvan-raden"]=16,
@@ -5858,6 +5858,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["craniüm-pagle"]=7,
 	["crapbucket-raden"]=17,
 	["crapes-immerseus"]=12,
+	["crapes-pagle"]=12,
 	["crapes-raden"]=12,
 	["crapist-raden"]=3,
 	["crashdavis-raden"]=23,
@@ -6000,7 +6001,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["deathbreaker-raden"]=0,
 	["deathbringer-lei-shen"]=6,
 	["deathgrips-raden"]=6,
-	["dëåthknïght-immerseus"]=11,
+	["dëåthknïght-arugal-au"]=0,
 	["deathmoves-galakras"]=7,
 	["déathpriestt-galakras"]=9,
 	["deathroams-galakras"]=1,
@@ -7155,7 +7156,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["infurryator-raden"]=12,
 	["initis-raden"]=7,
 	["injury-pagle"]=7,
-	["inkárri-arugal-au"]=10,
+	["inkárri-arugal-au"]=4,
 	["inmortalwar-raden"]=7,
 	["innoofirgize-raden"]=5,
 	["inorie-raden"]=4,
@@ -7220,7 +7221,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["jãiãh-pagle"]=3,
 	["jalkun-raden"]=2,
 	["jamaicarr-raden"]=7,
-	["jamalbanks-raden"]=11,
+	["jamalbanks-raden"]=1,
 	["jámu-raden"]=16,
 	["janevishus-lei-shen"]=9,
 	["janitron-galakras"]=16,
@@ -7599,7 +7600,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["lifely-raden"]=10,
 	["lifesavérs-pagle"]=9,
 	["lighi-raden"]=3,
-	["lightenforge-pagle"]=2,
+	["lightenforge-pagle"]=16,
 	["lightglare-pagle"]=7,
 	["lighthvalor-lei-shen"]=16,
 	["lightoftrump-pagle"]=2,
@@ -7715,7 +7716,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["lunarlass-pagle"]=0,
 	["lunchmeat-nazgrim"]=0,
 	["lunishamtwo-raden"]=22,
-	["lunpi-raden"]=27,
+	["lunpi-raden"]=4,
 	["lusts-raden"]=10,
 	["luum-raden"]=5,
 	["lüz-pagle"]=16,
