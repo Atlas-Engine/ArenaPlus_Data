@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9435 characters, read 2026-10-16 10:58 AM.
+-- Region tbc-us, 9435 characters, read 2026-10-16 11:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9935,7 +9935,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bazook-nightslayer"]=13,
 	["bazooko-nightslayer"]=1,
 	["bazrael-nightslayer"]=13,
-	["bbangzz-dreamscythe"]=17,
+	["bbangzz-dreamscythe"]=15,
 	["bbqbulgogi-nightslayer"]=2,
 	["bbqsawz-dreamscythe"]=2,
 	["bbyclose-nightslayer"]=10,
@@ -11034,7 +11034,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["crówned-nightslayer"]=18,
 	["crowslash-nightslayer"]=5,
 	["crrong-nightslayer"]=11,
-	["crrøng-nightslayer"]=24,
+	["crrøng-nightslayer"]=10,
 	["crsd-nightslayer"]=7,
 	["crustygoose-nightslayer"]=1,
 	["cry-dreamscythe"]=2,
@@ -11669,7 +11669,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["dunstantv-nightslayer"]=4,
 	["dunyain-nightslayer"]=1,
 	["dunyainpal-nightslayer"]=11,
-	["duperw-nightslayer"]=2,
+	["duperw-nightslayer"]=18,
 	["duranabolol-nightslayer"]=4,
 	["durogonlol-nightslayer"]=15,
 	["durtmcgurt-nightslayer"]=8,
@@ -12108,7 +12108,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["finlay-dreamscythe"]=7,
 	["finnasqwert-nightslayer"]=14,
 	["finnka-nightslayer"]=4,
-	["finr-nightslayer"]=4,
+	["finr-nightslayer"]=6,
 	["finsoup-nightslayer"]=5,
 	["finx-nightslayer"]=4,
 	["finxlol-nightslayer"]=4,
@@ -17621,7 +17621,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["tinamartina-nightslayer"]=2,
 	["tindergirl-dreamscythe"]=14,
 	["tinydave-nightslayer"]=0,
-	["tinyfearless-nightslayer"]=23,
+	["tinyfearless-nightslayer"]=13,
 	["tinypp-nightslayer"]=0,
 	["tinyterror-nightslayer"]=2,
 	["titabitanaya-nightslayer"]=19,

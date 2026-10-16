@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9777 characters, read 2026-10-16 10:59 AM.
+-- Region tbc-eu, 9777 characters, read 2026-10-16 11:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -13383,7 +13383,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["illbill-spineshatter"]=3,
 	["illhexyou-spineshatter"]=2,
 	["illillillíll-thunderstrike"]=23,
-	["illillillìll-thunderstrike"]=4,
+	["illillillìll-thunderstrike"]=9,
 	["illillillîll-thunderstrike"]=2,
 	["illillíllill-thunderstrike"]=4,
 	["illíllîllill-thunderstrike"]=4,
@@ -13529,7 +13529,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["ixitar-spineshatter"]=2,
 	["Íxv-spineshatter"]=9,
 	["iyumy-thunderstrike"]=4,
-	["izcall-spineshatter"]=13,
+	["izcall-spineshatter"]=14,
 	["izdajica-spineshatter"]=0,
 	["izendria-thunderstrike"]=3,
 	["izlul-spineshatter"]=3,
@@ -13944,7 +13944,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["keiana-spineshatter"]=9,
 	["keirgoz-spineshatter"]=5,
 	["keitlyn-spineshatter"]=5,
-	["keitto-spineshatter"]=11,
+	["keitto-spineshatter"]=23,
 	["keíyo-spineshatter"]=2,
 	["keizgor-spineshatter"]=11,
 	["kejzer-spineshatter"]=17,
@@ -17301,7 +17301,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["shoxi-spineshatter"]=2,
 	["shpigl-spineshatter"]=9,
 	["shqiptarr-spineshatter"]=2,
-	["shreddah-spineshatter"]=17,
+	["shreddah-spineshatter"]=2,
 	["shrekkyy-spineshatter"]=13,
 	["shrewbself-spineshatter"]=1,
 	["shrewbz-spineshatter"]=2,
