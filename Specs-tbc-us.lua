@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9436 characters, read 2026-10-15 07:58 PM.
+-- Region tbc-us, 9436 characters, read 2026-10-15 08:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -13333,7 +13333,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["jamninew-nightslayer"]=1,
 	["jamora-nightslayer"]=5,
 	["jamzkee-nightslayer"]=10,
-	["jamzki-nightslayer"]=8,
+	["jamzki-nightslayer"]=5,
 	["jamzkii-nightslayer"]=12,
 	["jandist-nightslayer"]=10,
 	["jandista-nightslayer"]=6,
@@ -13569,7 +13569,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["kachicoh-nightslayer"]=14,
 	["kadsexe-nightslayer"]=18,
 	["kaellara-nightslayer"]=11,
-	["kafflo-nightslayer"]=18,
+	["kafflo-nightslayer"]=20,
 	["kagezz-nightslayer"]=12,
 	["kahla-nightslayer"]=18,
 	["káí-nightslayer"]=2,
@@ -14500,7 +14500,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["merdog-nightslayer"]=5,
 	["meresist-nightslayer"]=2,
 	["mericx-nightslayer"]=8,
-	["merlicai-nightslayer"]=6,
+	["merlicai-nightslayer"]=4,
 	["merlinlol-nightslayer"]=4,
 	["meromero-nightslayer"]=2,
 	["merovingien-nightslayer"]=5,
@@ -15391,7 +15391,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["pastelgoths-nightslayer"]=12,
 	["pastorhymen-nightslayer"]=1,
 	["pastself-nightslayer"]=14,
-	["patchwxrk-nightslayer"]=2,
+	["patchwxrk-nightslayer"]=18,
 	["pathoen-dreamscythe"]=13,
 	["patïence-nightslayer"]=7,
 	["patmaweeni-dreamscythe"]=1,
@@ -16925,7 +16925,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["snazzd-nightslayer"]=7,
 	["snazze-nightslayer"]=5,
 	["snazzx-nightslayer"]=1,
-	["sneakymarty-dreamscythe"]=8,
+	["sneakymarty-dreamscythe"]=5,
 	["sneakypykey-nightslayer"]=5,
 	["sneakysav-nightslayer"]=5,
 	["sneakysean-nightslayer"]=5,
