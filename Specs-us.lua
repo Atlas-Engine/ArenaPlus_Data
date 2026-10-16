@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5185 characters, read 2026-10-16 05:59 AM.
+-- Region us, 5185 characters, read 2026-10-16 06:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7381,7 +7381,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["kcidymkcus-arugal-au"]=0,
 	["keeferjar-pagle"]=3,
 	["keekster-pagle"]=9,
-	["keepithood-pagle"]=14,
+	["keepithood-pagle"]=34,
 	["kegsmashed-raden"]=4,
 	["kekmeister-raden"]=5,
 	["kelaía-pagle"]=9,
@@ -7435,7 +7435,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["kìngrøach-galakras"]=14,
 	["kinkykirby-raden"]=2,
 	["kinkystwosvn-nazgrim"]=0,
-	["kinoshyba-pagle"]=7,
+	["kinoshyba-pagle"]=30,
 	["kintok-raden"]=26,
 	["kiora-pagle"]=14,
 	["kiqsl-pagle"]=0,
@@ -9600,7 +9600,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["tonieh-pagle"]=1,
 	["toodlezz-pagle"]=14,
 	["tooquik-lei-shen"]=14,
-	["toorun-pagle"]=13,
+	["toorun-pagle"]=21,
 	["topshottaa-pagle"]=7,
 	["toquiktokill-benediction"]=20,
 	["torco-immerseus"]=18,

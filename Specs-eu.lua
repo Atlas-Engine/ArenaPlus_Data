@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5347 characters, read 2026-10-16 06:00 AM.
+-- Region eu, 5345 characters, read 2026-10-16 07:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -829,7 +829,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["colmillo-mirage-raceway"]=10,
 	["cõmbustz-shekzeer"]=11,
 	["combux-shekzeer"]=11,
-	["comeclarity-shekzeer"]=11,
 	["comète-shekzeer"]=41,
 	["commandor-garalon"]=100,
 	["commitment-shekzeer"]=11,
@@ -1893,7 +1892,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["jackynoo-hoptallus"]=111,
 	["jâckywhâcky-shekzeer"]=11,
 	["jacqueline-shekzeer"]=31,
-	["jagälskardig-shekzeer"]=11,
 	["jagerovich-shekzeer"]=41,
 	["jâgerr-shekzeer"]=11,
 	["jagge-norushen"]=60,
@@ -4556,6 +4554,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["xladerinø-shekzeer"]=10,
 	["xladérz-shekzeer"]=10,
 	["xladerzf-shekzeer"]=11,
+	["xladerzg-shekzeer"]=11,
 	["xmm-shekzeer"]=11,
 	["xnavis-hoptallus"]=71,
 	["xnixd-shekzeer"]=111,
@@ -5985,7 +5984,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["colmillo-mirage-raceway"]=25,
 	["cõmbustz-shekzeer"]=2,
 	["combux-shekzeer"]=2,
-	["comeclarity-shekzeer"]=27,
 	["comète-shekzeer"]=3,
 	["commandor-garalon"]=15,
 	["commitment-shekzeer"]=15,
@@ -7099,7 +7097,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["jackynoo-hoptallus"]=19,
 	["jâckywhâcky-shekzeer"]=4,
 	["jacqueline-shekzeer"]=19,
-	["jagälskardig-shekzeer"]=1,
 	["jagerovich-shekzeer"]=11,
 	["jâgerr-shekzeer"]=4,
 	["jagge-norushen"]=5,
@@ -7759,7 +7756,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["mcvillain-mirage-raceway"]=1,
 	["mdeepi-shekzeer"]=2,
 	["meatpyre-mirage-raceway"]=1,
-	["medhotup-shekzeer"]=0,
 	["medtabletkka-shekzeer"]=3,
 	["mëdüsa-mirage-raceway"]=24,
 	["medvedbzxc-shekzeer"]=2,
@@ -9660,7 +9656,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["vintster-shekzeer"]=24,
 	["vio-everlook"]=3,
 	["vioceptîon-everlook"]=19,
-	["vîper-mirage-raceway"]=32,
+	["vîper-mirage-raceway"]=21,
 	["viperfear-mirage-raceway"]=8,
 	["vishnyágødx-shekzeer"]=3,
 	["visionary-garalon"]=15,
@@ -9882,6 +9878,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["xladerinø-shekzeer"]=9,
 	["xladérz-shekzeer"]=1,
 	["xladerzf-shekzeer"]=6,
+	["xladerzg-shekzeer"]=1,
 	["xmm-shekzeer"]=4,
 	["xnavis-hoptallus"]=17,
 	["xnixd-shekzeer"]=13,
