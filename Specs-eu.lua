@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5348 characters, read 2026-10-16 12:00 AM.
+-- Region eu, 5347 characters, read 2026-10-16 01:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2618,7 +2618,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["mistgeneral-shekzeer"]=11,
 	["mistish-shekzeer"]=11,
 	["mistone-shekzeer"]=11,
-	["mists-shekzeer"]=11,
 	["mistwaever-shekzeer"]=10,
 	["místweaver-mirage-raceway"]=261,
 	["miszczak-norushen"]=21,
@@ -3143,7 +3142,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["pipelayer-shekzeer"]=10,
 	["pipijaxxon-shekzeer"]=11,
 	["pipilili-shekzeer"]=11,
-	["pipioe-shekzeer"]=10,
+	["pipioe-shekzeer"]=11,
 	["pipitrix-shekzeer"]=11,
 	["pippilotta-shekzeer"]=11,
 	["pissemaur-shekzeer"]=41,
@@ -7858,7 +7857,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["mistgeneral-shekzeer"]=6,
 	["mistish-shekzeer"]=1,
 	["mistone-shekzeer"]=7,
-	["mists-shekzeer"]=6,
 	["mistwaever-shekzeer"]=6,
 	["místweaver-mirage-raceway"]=6,
 	["miszczak-norushen"]=1,

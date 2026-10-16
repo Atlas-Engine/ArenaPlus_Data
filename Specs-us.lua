@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5188 characters, read 2026-10-15 11:59 PM.
+-- Region us, 5188 characters, read 2026-10-16 12:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6818,7 +6818,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["grillaa-pagle"]=17,
 	["grilled-pagle"]=31,
 	["grimaldo-nazgrim"]=12,
-	["grimeygoon-pagle"]=20,
+	["grimeygoon-pagle"]=3,
 	["grimfrost-pagle"]=25,
 	["grimspwn-raden"]=6,
 	["grímtorn-galakras"]=3,
@@ -6982,7 +6982,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["holyangelz-pagle"]=2,
 	["holycanoli-galakras"]=2,
 	["holycøcktail-raden"]=2,
-	["holyfender-pagle"]=16,
+	["holyfender-pagle"]=2,
 	["holyfkbubs-pagle"]=2,
 	["holyflamez-pagle"]=16,
 	["holyfluxq-pagle"]=9,
@@ -7494,7 +7494,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["kroun-raden"]=14,
 	["krpriest-nazgrim"]=13,
 	["ksoldier-pagle"]=16,
-	["kthall-pagle"]=30,
+	["kthall-pagle"]=23,
 	["ktm-lei-shen"]=5,
 	["ktzz-pagle"]=0,
 	["kungfugrip-arugal-au"]=10,
@@ -8334,9 +8334,9 @@ ns.SPECS_BY_REGION["us"] = {
 	["orcetorix-pagle"]=0,
 	["orcsamabin-pagle"]=15,
 	["orcz-pagle"]=7,
-	["ordanary-pagle"]=4,
+	["ordanary-pagle"]=27,
 	["ordinary-galakras"]=5,
-	["orgian-pagle"]=5,
+	["orgian-pagle"]=17,
 	["orgimmar-raden"]=1,
 	["oricalco-galakras"]=0,
 	["originalgank-pagle"]=0,
