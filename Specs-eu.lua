@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5345 characters, read 2026-10-16 09:00 AM.
+-- Region eu, 5342 characters, read 2026-10-16 10:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -745,7 +745,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["chargedif-shekzeer"]=11,
 	["charity-garalon"]=50,
 	["charityrevn-shekzeer"]=11,
-	["charityshift-shekzeer"]=41,
 	["charoma-shekzeer"]=41,
 	["charos-norushen"]=80,
 	["châs-everlook"]=10,
@@ -1511,7 +1510,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["gnomchina-mirage-raceway"]=70,
 	["gnomidge-hoptallus"]=71,
 	["gnomophobe-auberdine"]=11,
-	["goagil-garalon"]=50,
 	["goagil-shekzeer"]=11,
 	["goblyni-garalon"]=90,
 	["gódx-shekzeer"]=11,
@@ -2503,7 +2501,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["mashleman-shekzeer"]=250,
 	["maskof-shekzeer"]=10,
 	["massivecnt-shekzeer"]=11,
-	["matadora-shekzeer"]=10,
 	["matiel-shekzeer"]=40,
 	["matinaa-shekzeer"]=11,
 	["matora-ook-ook"]=11,
@@ -5893,7 +5890,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["chargedif-shekzeer"]=1,
 	["charity-garalon"]=9,
 	["charityrevn-shekzeer"]=1,
-	["charityshift-shekzeer"]=3,
 	["charoma-shekzeer"]=3,
 	["charos-norushen"]=16,
 	["châs-everlook"]=1,
@@ -6693,7 +6689,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["gnomchina-mirage-raceway"]=10,
 	["gnomidge-hoptallus"]=2,
 	["gnomophobe-auberdine"]=1,
-	["goagil-garalon"]=2,
 	["goagil-shekzeer"]=2,
 	["goblie-gehennas"]=0,
 	["goblyni-garalon"]=10,
@@ -6883,7 +6878,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["henrich-shekzeer"]=9,
 	["hentaimama-shekzeer"]=11,
 	["héra-shekzeer"]=9,
-	["herja-shekzeer"]=11,
+	["herja-shekzeer"]=21,
 	["herjâ-shekzeer"]=5,
 	["hermán-shekzeer"]=15,
 	["hermenigilda-shekzeer"]=1,
@@ -7734,7 +7729,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["maskof-shekzeer"]=1,
 	["massacro-gehennas"]=0,
 	["massivecnt-shekzeer"]=4,
-	["matadora-shekzeer"]=1,
 	["matiel-shekzeer"]=11,
 	["matinaa-shekzeer"]=14,
 	["matora-ook-ook"]=1,
@@ -8656,7 +8650,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["rezya-shekzeer"]=21,
 	["rfgpwhfgjudk-shekzeer"]=8,
 	["rfunklol-shekzeer"]=21,
-	["rhaëlle-auberdine"]=22,
+	["rhaëlle-auberdine"]=9,
 	["rhaenyraz-mirage-raceway"]=4,
 	["rhonn-shekzeer"]=1,
 	["rhyza-shekzeer"]=1,
@@ -8706,7 +8700,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["rofmagex-mirage-raceway"]=10,
 	["rofmagexy-mirage-raceway"]=27,
 	["rogojine-shekzeer"]=5,
-	["rõgue-mirage-raceway"]=24,
+	["rõgue-mirage-raceway"]=26,
 	["rogunjaknoha-norushen"]=24,
 	["roheryn-shekzeer"]=1,
 	["roidesinges-shekzeer"]=1,
