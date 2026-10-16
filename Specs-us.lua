@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5185 characters, read 2026-10-16 04:59 AM.
+-- Region us, 5185 characters, read 2026-10-16 05:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7545,7 +7545,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["lavablob-pagle"]=15,
 	["lawlurdead-raden"]=29,
 	["lawydruid-pagle"]=5,
-	["laydatpipe-lei-shen"]=5,
+	["laydatpipe-lei-shen"]=12,
 	["layenda-lei-shen"]=16,
 	["laynerz-raden"]=0,
 	["lbloll-pagle"]=15,
@@ -7574,7 +7574,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["leowna-pagle"]=2,
 	["leownaa-pagle"]=2,
 	["lepermesiah-pagle"]=20,
-	["lepson-nazgrim"]=7,
+	["lepson-nazgrim"]=23,
 	["leroy-galakras"]=23,
 	["lester-raden"]=3,
 	["lesthoukov-pagle"]=3,
@@ -7650,7 +7650,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["littletinkle-galakras"]=2,
 	["littman-raden"]=29,
 	["litwhit-lei-shen"]=16,
-	["litze-raden"]=16,
+	["litze-raden"]=32,
 	["liusu-pagle"]=5,
 	["liveforeverr-pagle"]=5,
 	["liverr-galakras"]=14,
@@ -9701,7 +9701,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["twostepzxl-pagle"]=16,
 	["tydriel-pagle"]=7,
 	["tygere-pagle"]=9,
-	["tylariann-pagle"]=2,
+	["tylariann-pagle"]=16,
 	["typeshii-galakras"]=10,
 	["tyrannius-raden"]=7,
 	["tyranosaur-pagle"]=4,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5347 characters, read 2026-10-16 05:00 AM.
+-- Region eu, 5347 characters, read 2026-10-16 06:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2525,7 +2525,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["mcvillain-mirage-raceway"]=11,
 	["mdeepi-shekzeer"]=11,
 	["meatpyre-mirage-raceway"]=80,
-	["medhotup-shekzeer"]=41,
 	["medtabletkka-shekzeer"]=41,
 	["mëdüsa-mirage-raceway"]=11,
 	["medvedbzxc-shekzeer"]=11,
@@ -7739,7 +7738,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["massacro-gehennas"]=0,
 	["massivecnt-shekzeer"]=4,
 	["matadora-shekzeer"]=1,
-	["matiel-shekzeer"]=3,
+	["matiel-shekzeer"]=11,
 	["matinaa-shekzeer"]=14,
 	["matora-ook-ook"]=1,
 	["matroxafk-shekzeer"]=17,
@@ -7760,7 +7759,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["mcvillain-mirage-raceway"]=1,
 	["mdeepi-shekzeer"]=2,
 	["meatpyre-mirage-raceway"]=1,
-	["medhotup-shekzeer"]=3,
+	["medhotup-shekzeer"]=0,
 	["medtabletkka-shekzeer"]=3,
 	["mëdüsa-mirage-raceway"]=24,
 	["medvedbzxc-shekzeer"]=2,
@@ -8914,7 +8913,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["shappire-shekzeer"]=9,
 	["shaqaclaus-shekzeer"]=2,
 	["shariu-everlook"]=1,
-	["sharpknives-shekzeer"]=24,
+	["sharpknives-shekzeer"]=34,
 	["sharral-norushen"]=5,
 	["shavrantia-garalon"]=5,
 	["shayeh-shekzeer"]=7,
@@ -9720,7 +9719,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["waix-shekzeer"]=10,
 	["wakkabayashi-norushen"]=5,
 	["wãlter-shekzeer"]=9,
-	["warcrimes-shekzeer"]=1,
+	["warcrimes-shekzeer"]=25,
 	["wardz-mirage-raceway"]=2,
 	["wardz-shekzeer"]=2,
 	["warlash-shekzeer"]=1,
@@ -9743,7 +9742,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["waydemz-shekzeer"]=8,
 	["wayla-everlook"]=3,
 	["waylay-shekzeer"]=0,
-	["wazungu-shekzeer"]=8,
+	["wazungu-shekzeer"]=31,
 	["wcente-garalon"]=9,
 	["wdfcrit-garalon"]=19,
 	["weakaura-shekzeer"]=0,
