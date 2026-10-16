@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5189 characters, read 2026-10-16 01:59 PM.
+-- Region us, 5189 characters, read 2026-10-16 02:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5222,7 +5222,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["asthenoz-pagle"]=6,
 	["astraea-arugal-au"]=9,
 	["astrea-raden"]=7,
-	["astríds-pagle"]=3,
+	["astríds-pagle"]=18,
 	["astyus-pagle"]=7,
 	["asunari-pagle"]=3,
 	["asunyobi-pagle"]=10,
@@ -6030,7 +6030,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["defnotanj-pagle"]=3,
 	["degaüss-raden"]=16,
 	["dekk-raden"]=6,
-	["delané-raden"]=3,
+	["delané-raden"]=18,
 	["delaway-lei-shen"]=24,
 	["delgars-galakras"]=3,
 	["delonso-pagle"]=7,
@@ -6120,7 +6120,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["distorte-pagle"]=5,
 	["distress-raden"]=4,
 	["Ðistrøyer-immerseus"]=7,
-	["ditrisus-pagle"]=20,
+	["ditrisus-pagle"]=3,
 	["diviñe-pagle"]=2,
 	["divinebleed-raden"]=7,
 	["divinehymnal-raden"]=0,
@@ -6128,7 +6128,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dívinethis-pagle"]=16,
 	["diz-lei-shen"]=34,
 	["dizz-lei-shen"]=7,
-	["dizzkilla-lei-shen"]=17,
+	["dizzkilla-lei-shen"]=5,
 	["dizzrock-lei-shen"]=15,
 	["djabita-nazgrim"]=1,
 	["djadá-pagle"]=4,
@@ -8773,7 +8773,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["rivertwig-galakras"]=4,
 	["rivet-galakras"]=20,
 	["rivilis-galakras"]=30,
-	["rizlah-lei-shen"]=1,
+	["rizlah-lei-shen"]=11,
 	["rizzyx-raden"]=7,
 	["rjc-pagle"]=10,
 	["rjwbot-pagle"]=27,

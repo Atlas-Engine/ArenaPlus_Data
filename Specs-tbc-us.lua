@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9427 characters, read 2026-10-16 01:58 PM.
+-- Region tbc-us, 9427 characters, read 2026-10-16 02:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9642,7 +9642,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["archrtwo-dreamscythe"]=10,
 	["archxr-dreamscythe"]=10,
 	["archymarshal-nightslayer"]=5,
-	["arctürüs-dreamscythe"]=6,
+	["arctürüs-dreamscythe"]=4,
 	["arctuva-nightslayer"]=7,
 	["ardrane-nightslayer"]=5,
 	["arenafanatic-nightslayer"]=2,
@@ -11351,7 +11351,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["dinnathx-dreamscythe"]=5,
 	["dinnoo-nightslayer"]=2,
 	["dinolo-nightslayer"]=7,
-	["dinstir-nightslayer"]=7,
+	["dinstir-nightslayer"]=3,
 	["dìp-dreamscythe"]=22,
 	["dipla-dreamscythe"]=8,
 	["dipt-nightslayer"]=19,
@@ -14430,7 +14430,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["meatsweatsz-nightslayer"]=2,
 	["meda-nightslayer"]=24,
 	["medastorm-nightslayer"]=24,
-	["meddlesome-nightslayer"]=1,
+	["meddlesome-nightslayer"]=14,
 	["medi-nightslayer"]=1,
 	["medimark-nightslayer"]=15,
 	["medion-nightslayer"]=12,
@@ -14896,7 +14896,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["neilie-nightslayer"]=24,
 	["neiliee-nightslayer"]=9,
 	["neilomei-nightslayer"]=2,
-	["nekobearmeow-nightslayer"]=3,
+	["nekobearmeow-nightslayer"]=7,
 	["nekryss-nightslayer"]=1,
 	["nellymandela-nightslayer"]=19,
 	["nelsonice-nightslayer"]=7,
@@ -15873,7 +15873,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ramrodlol-dreamscythe"]=2,
 	["ran-nightslayer"]=5,
 	["randomanimal-nightslayer"]=3,
-	["randømforest-nightslayer"]=7,
+	["randømforest-nightslayer"]=22,
 	["randymarshs-nightslayer"]=19,
 	["randymarshss-nightslayer"]=19,
 	["randymichael-nightslayer"]=20,
@@ -16668,7 +16668,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["showboats-dreamscythe"]=5,
 	["showdru-nightslayer"]=7,
 	["showershoos-nightslayer"]=4,
-	["showhan-nightslayer"]=10,
+	["showhan-nightslayer"]=24,
 	["showtime-nightslayer"]=8,
 	["showx-nightslayer"]=1,
 	["shozs-nightslayer"]=10,
