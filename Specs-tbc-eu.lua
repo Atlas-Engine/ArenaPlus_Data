@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9773 characters, read 2026-10-16 07:59 AM.
+-- Region tbc-eu, 9773 characters, read 2026-10-16 08:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9969,7 +9969,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["annèx-spineshatter"]=7,
 	["annoncelight-spineshatter"]=7,
 	["anntón-spineshatter"]=3,
-	["anoréxica-spineshatter"]=4,
+	["anoréxica-spineshatter"]=9,
 	["anotherheal-spineshatter"]=10,
 	["anothertry-spineshatter"]=0,
 	["anoukix-thunderstrike"]=23,
@@ -16580,7 +16580,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["reallzooro-thunderstrike"]=1,
 	["realmadruid-spineshatter"]=1,
 	["realmoist-spineshatter"]=2,
-	["realslmshady-spineshatter"]=25,
+	["realslmshady-spineshatter"]=24,
 	["realwipeout-spineshatter"]=2,
 	["realzooro-thunderstrike"]=22,
 	["reaperfuge-spineshatter"]=13,
@@ -16832,7 +16832,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["rottà-spineshatter"]=23,
 	["rouhees-spineshatter"]=11,
 	["roulett-spineshatter"]=7,
-	["rousseline-spineshatter"]=2,
+	["rousseline-spineshatter"]=17,
 	["rowflcopter-thunderstrike"]=19,
 	["roxxun-spineshatter"]=13,
 	["rozbushaka-spineshatter"]=15,
