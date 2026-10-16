@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9439 characters, read 2026-10-16 06:58 AM.
+-- Region tbc-us, 9438 characters, read 2026-10-16 07:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -8594,7 +8594,6 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["venomthread-nightslayer"]=50,
 	["venomthreada-nightslayer"]=11,
 	["ventv-nightslayer"]=80,
-	["verbees-nightslayer"]=11,
 	["verbies-nightslayer"]=11,
 	["verbieslol-nightslayer"]=111,
 	["verbieswins-nightslayer"]=11,
@@ -17855,7 +17854,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["twopoundturd-nightslayer"]=2,
 	["twosecdelay-dreamscythe"]=2,
 	["twosenjoyer-nightslayer"]=1,
-	["twowatersthx-nightslayer"]=5,
+	["twowatersthx-nightslayer"]=8,
 	["txpe-nightslayer"]=19,
 	["tybëros-nightslayer"]=15,
 	["tycat-nightslayer"]=7,
@@ -18026,7 +18025,6 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["venomthread-nightslayer"]=5,
 	["venomthreada-nightslayer"]=5,
 	["ventv-nightslayer"]=24,
-	["verbees-nightslayer"]=13,
 	["verbies-nightslayer"]=2,
 	["verbieslol-nightslayer"]=24,
 	["verbieswins-nightslayer"]=9,
