@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5184 characters, read 2026-10-16 01:59 AM.
+-- Region us, 5184 characters, read 2026-10-16 02:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6220,7 +6220,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["Ðressrøsa-immerseus"]=10,
 	["drewdipsy-pagle"]=7,
 	["drewleon-pagle"]=5,
-	["drewwd-nazgrim"]=17,
+	["drewwd-nazgrim"]=5,
 	["dreyad-pagle"]=5,
 	["dreyas-pagle"]=7,
 	["dreynite-pagle"]=6,
@@ -6413,7 +6413,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["everelle-pagle"]=0,
 	["everlast-raden"]=24,
 	["evilbrewslee-raden"]=4,
-	["evilchicken-raden"]=17,
+	["evilchicken-raden"]=5,
 	["evilforcesgx-pagle"]=14,
 	["evilxdream-raden"]=5,
 	["evilxeevee-raden"]=9,
@@ -7994,7 +7994,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["monuei-raden"]=10,
 	["moobookaiyah-galakras"]=7,
 	["mooleone-pagle"]=5,
-	["mòónfirebeam-raden"]=5,
+	["mòónfirebeam-raden"]=12,
 	["moonloon-pagle"]=17,
 	["moonpieelite-immerseus"]=1,
 	["moonrip-raden"]=12,
@@ -8385,7 +8385,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["palamán-raden"]=32,
 	["palapala-pagle"]=2,
 	["pallyboss-galakras"]=0,
-	["palodan-arugal-au"]=16,
+	["palodan-arugal-au"]=2,
 	["palpatîne-pagle"]=28,
 	["palyvash-galakras"]=16,
 	["palyy-raden"]=16,

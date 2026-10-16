@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9440 characters, read 2026-10-16 01:58 AM.
+-- Region tbc-us, 9440 characters, read 2026-10-16 02:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11122,7 +11122,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["dadbodqt-nightslayer"]=5,
 	["daddybrang-nightslayer"]=10,
 	["daddyissuesx-nightslayer"]=8,
-	["Ðade-nightslayer"]=14,
+	["Ðade-nightslayer"]=1,
 	["dadfighterx-nightslayer"]=2,
 	["dadloadsx-nightslayer"]=1,
 	["dadscythe-dreamscythe"]=2,
@@ -11684,7 +11684,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["dustfriggenw-nightslayer"]=13,
 	["dusti-nightslayer"]=25,
 	["dutonga-nightslayer"]=18,
-	["duudah-nightslayer"]=11,
+	["duudah-nightslayer"]=9,
 	["duxlol-nightslayer"]=13,
 	["duxxar-nightslayer"]=15,
 	["duzentosvolt-nightslayer"]=24,
@@ -13792,7 +13792,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["kohokohokoho-nightslayer"]=7,
 	["kolesiff-dreamscythe"]=10,
 	["kölmar-dreamscythe"]=12,
-	["kologhan-nightslayer"]=6,
+	["kologhan-nightslayer"]=4,
 	["kombuchha-nightslayer"]=0,
 	["kommagi-dreamscythe"]=6,
 	["komos-nightslayer"]=4,
@@ -14970,7 +14970,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["niceguycanni-nightslayer"]=2,
 	["niceguytho-nightslayer"]=12,
 	["nicepriest-nightslayer"]=1,
-	["niceshirt-nightslayer"]=8,
+	["niceshirt-nightslayer"]=5,
 	["nickbuonomo-nightslayer"]=5,
 	["nickdrood-nightslayer"]=3,
 	["nîckolas-nightslayer"]=5,
@@ -15478,7 +15478,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["pgshaman-nightslayer"]=10,
 	["phainmus-nightslayer"]=13,
 	["phalse-nightslayer"]=7,
-	["phanaticc-dreamscythe"]=8,
+	["phanaticc-dreamscythe"]=5,
 	["phanhealz-dreamscythe"]=7,
 	["pharma-nightslayer"]=4,
 	["pharun-nightslayer"]=1,
@@ -15651,7 +15651,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["pouncecake-nightslayer"]=3,
 	["pôundtown-nightslayer"]=5,
 	["poup-nightslayer"]=1,
-	["poúpy-nightslayer"]=15,
+	["poúpy-nightslayer"]=21,
 	["powerwrdthud-dreamscythe"]=1,
 	["powi-nightslayer"]=19,
 	["powy-nightslayer"]=2,
@@ -17761,7 +17761,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["trigg-nightslayer"]=1,
 	["trigonometry-nightslayer"]=7,
 	["trillvil-nightslayer"]=2,
-	["triohs-nightslayer"]=10,
+	["triohs-nightslayer"]=24,
 	["triptic-nightslayer"]=8,
 	["triptykh-nightslayer"]=1,
 	["tripzee-nightslayer"]=5,
