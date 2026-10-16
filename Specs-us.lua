@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5184 characters, read 2026-10-16 02:59 AM.
+-- Region us, 5184 characters, read 2026-10-16 03:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5673,7 +5673,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["cäpriëstsun-pagle"]=9,
 	["carbontaxes-pagle"]=1,
 	["cardpally-galakras"]=16,
-	["carnàxx-pagle"]=28,
+	["carnàxx-pagle"]=24,
 	["càrnaxx-pagle"]=1,
 	["carpetman-galakras"]=14,
 	["cartermyboy-raden"]=6,
@@ -7862,7 +7862,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["menitherogue-pagle"]=34,
 	["menotsmart-raden"]=4,
 	["menshiki-galakras"]=0,
-	["meöwth-nazgrim"]=17,
+	["meöwth-nazgrim"]=33,
 	["mercktime-pagle"]=7,
 	["merckup-pagle"]=4,
 	["mercyx-raden"]=6,
@@ -7935,7 +7935,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["missatrinni-pagle"]=0,
 	["missmama-galakras"]=5,
 	["missrollings-pagle"]=10,
-	["misstotem-pagle"]=19,
+	["misstotem-pagle"]=15,
 	["missyu-immerseus"]=23,
 	["mistafistuh-pagle"]=10,
 	["mistnme-pagle"]=0,
@@ -8209,7 +8209,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["nomids-pagle"]=3,
 	["noneedrdruid-raden"]=5,
 	["nooki-raden"]=20,
-	["noomsee-immerseus"]=21,
+	["noomsee-immerseus"]=9,
 	["nopants-raden"]=1,
 	["norespect-pagle"]=7,
 	["northlane-raden"]=5,
@@ -8675,7 +8675,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["recklessness-lei-shen"]=7,
 	["recklesswinz-raden"]=7,
 	["reckology-raden"]=5,
-	["reckula-raden"]=20,
+	["reckula-raden"]=3,
 	["recovery-raden"]=0,
 	["rédcorn-raden"]=6,
 	["redeast-galakras"]=6,
@@ -9854,7 +9854,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["vulture-raden"]=9,
 	["vvalaydia-pagle"]=1,
 	["vvarrior-raden"]=6,
-	["vvuvvuuvvuvv-raden"]=1,
+	["vvuvvuuvvuvv-raden"]=11,
 	["vyaphets-immerseus"]=1,
 	["vyndruh-pagle"]=2,
 	["vyrdzugzug-nazgrim"]=23,

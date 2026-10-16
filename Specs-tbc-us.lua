@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9440 characters, read 2026-10-16 02:58 AM.
+-- Region tbc-us, 9440 characters, read 2026-10-16 03:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11447,7 +11447,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["doggostwo-nightslayer"]=2,
 	["dogofthelobb-nightslayer"]=4,
 	["dogpolice-nightslayer"]=1,
-	["dokurowow-dreamscythe"]=14,
+	["dokurowow-dreamscythe"]=1,
 	["dolangalaxy-dreamscythe"]=3,
 	["dolapalooza-nightslayer"]=19,
 	["dollerz-nightslayer"]=18,
@@ -12486,7 +12486,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["gilthrus-nightslayer"]=17,
 	["gimlyson-nightslayer"]=11,
 	["gimmiedaloot-dreamscythe"]=5,
-	["gimski-nightslayer"]=6,
+	["gimski-nightslayer"]=4,
 	["gingerless-dreamscythe"]=15,
 	["ginnaginn-nightslayer"]=15,
 	["ginnr-nightslayer"]=11,
@@ -15404,7 +15404,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["pawestruck-nightslayer"]=3,
 	["paxar-dreamscythe"]=10,
 	["paxgfw-nightslayer"]=2,
-	["paxii-nightslayer"]=3,
+	["paxii-nightslayer"]=7,
 	["paxz-nightslayer"]=7,
 	["payglock-nightslayer"]=13,
 	["payo-nightslayer"]=5,
@@ -18163,7 +18163,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["wagyuafive-nightslayer"]=3,
 	["waka-nightslayer"]=5,
 	["wakea-nightslayer"]=5,
-	["wakeandcake-nightslayer"]=6,
+	["wakeandcake-nightslayer"]=4,
 	["wakes-dreamscythe"]=19,
 	["wakom-nightslayer"]=2,
 	["walalace-dreamscythe"]=7,
