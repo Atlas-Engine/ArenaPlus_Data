@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5344 characters, read 2026-10-16 01:00 PM.
+-- Region eu, 5344 characters, read 2026-10-16 02:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5421,7 +5421,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["arti-shekzeer"]=4,
 	["arun-garalon"]=2,
 	["arun-shekzeer"]=2,
-	["arunx-shekzeer"]=2,
+	["arunx-shekzeer"]=27,
 	["Àrween-auberdine"]=3,
 	["arxn-shekzeer"]=2,
 	["arÿà-auberdine"]=15,
@@ -8626,7 +8626,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["resenmw-shekzeer"]=7,
 	["resistslol-everlook"]=1,
 	["resistslol-ook-ook"]=1,
-	["respektus-shekzeer"]=14,
+	["respektus-shekzeer"]=20,
 	["restoqthun-norushen"]=3,
 	["restorok-shekzeer"]=3,
 	["retardednerd-shekzeer"]=5,
@@ -8700,7 +8700,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["rofedex-shekzeer"]=15,
 	["roflmaster-shekzeer"]=15,
 	["rofmagex-mirage-raceway"]=10,
-	["rofmagexy-mirage-raceway"]=27,
+	["rofmagexy-mirage-raceway"]=10,
 	["rogojine-shekzeer"]=5,
 	["rõgue-mirage-raceway"]=24,
 	["rogunjaknoha-norushen"]=24,
@@ -9710,7 +9710,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["wahtsup-shekzeer"]=6,
 	["waitwhatbro-shekzeer"]=3,
 	["waix-shekzeer"]=10,
-	["wakkabayashi-norushen"]=5,
+	["wakkabayashi-norushen"]=15,
 	["wãlter-shekzeer"]=9,
 	["warcrimes-shekzeer"]=25,
 	["wardz-mirage-raceway"]=2,
