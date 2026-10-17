@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5195 characters, read 2026-10-17 06:59 AM.
+-- Region us, 5194 characters, read 2026-10-17 07:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -112,6 +112,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["Æçy-raden"]=11,
 	["Æggrophobia-pagle"]=10,
 	["aellane-pagle"]=11,
+	["aem-pagle"]=101,
 	["Ærîthøs-pagle"]=10,
 	["aeroes-pagle"]=10,
 	["aerzkei-arugal-au"]=41,
@@ -962,7 +963,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["damacus-raden"]=11,
 	["Ðamaia-pagle"]=11,
 	["damanî-pagle"]=80,
-	["damimdialed-raden"]=11,
 	["dammyy-pagle"]=11,
 	["dampeners-raden"]=11,
 	["danar-raden"]=40,
@@ -3204,7 +3204,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["ogbryn-nazgrim"]=61,
 	["ogholykush-pagle"]=30,
 	["oglimpbizkit-pagle"]=50,
-	["ogmudtrunk-pagle"]=20,
+	["ogmudtrunk-pagle"]=21,
 	["ogmurk-raden"]=20,
 	["ogshoks-nazgrim"]=261,
 	["ohjustshifts-pagle"]=41,
@@ -5048,6 +5048,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["Æggrophobia-pagle"]=13,
 	["aeliline-pagle"]=0,
 	["aellane-pagle"]=6,
+	["aem-pagle"]=13,
 	["Ærîthøs-pagle"]=16,
 	["aeroes-pagle"]=3,
 	["aerzkei-arugal-au"]=5,
@@ -5950,10 +5951,9 @@ ns.SPECS_BY_REGION["us"] = {
 	["damacus-raden"]=1,
 	["Ðamaia-pagle"]=7,
 	["damanî-pagle"]=34,
-	["damimdialed-raden"]=3,
 	["dammyy-pagle"]=7,
 	["dampeners-raden"]=8,
-	["danar-raden"]=5,
+	["danar-raden"]=12,
 	["dáncingmines-raden"]=5,
 	["dandor-pagle"]=7,
 	["dankenbrew-lei-shen"]=4,
@@ -6405,7 +6405,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["erimp-pagle"]=16,
 	["erroo-raden"]=14,
 	["errör-raden"]=24,
-	["esad-immerseus"]=3,
+	["esad-immerseus"]=20,
 	["escanorzx-pagle"]=16,
 	["escarch-pagle"]=6,
 	["escazaro-raden"]=7,
@@ -9407,7 +9407,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["sumgai-lei-shen"]=18,
 	["summondeez-pagle"]=28,
 	["sunflowerrz-raden"]=13,
-	["sunkencost-raden"]=0,
 	["sunný-raden"]=5,
 	["sunnybear-raden"]=9,
 	["supaawar-pagle"]=7,
@@ -9498,7 +9497,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["teamobaggins-galakras"]=12,
 	["teatable-raden"]=1,
 	["technique-raden"]=7,
-	["tectros-pagle"]=30,
+	["tectros-pagle"]=23,
 	["tedespinguee-immerseus"]=4,
 	["teejayc-pagle"]=18,
 	["teejizzleqt-pagle"]=7,
