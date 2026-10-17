@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5343 characters, read 2026-10-17 12:00 AM.
+-- Region eu, 5344 characters, read 2026-10-17 01:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -565,6 +565,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["bmskp-shekzeer"]=31,
 	["bngjr-shekzeer"]=11,
 	["bobbo-mirage-raceway"]=10,
+	["bobbyshmürda-shekzeer"]=220,
 	["bobbysta-auberdine"]=51,
 	["bobiroula-mirage-raceway"]=41,
 	["bobjones-norushen"]=11,
@@ -3145,7 +3146,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["pippilotta-shekzeer"]=11,
 	["pissemaur-shekzeer"]=41,
 	["pitpat-shekzeer"]=11,
-	["pizzapizza-shekzeer"]=11,
+	["pizzapizza-shekzeer"]=10,
 	["pktublind-shekzeer"]=11,
 	["pktublink-shekzeer"]=11,
 	["pktuchattes-shekzeer"]=41,
@@ -5704,6 +5705,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bmskp-shekzeer"]=5,
 	["bngjr-shekzeer"]=20,
 	["bobbo-mirage-raceway"]=1,
+	["bobbyshmürda-shekzeer"]=3,
 	["bobbysta-auberdine"]=9,
 	["bobiroula-mirage-raceway"]=21,
 	["bobjones-norushen"]=12,
@@ -7549,7 +7551,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["lingam-shekzeer"]=24,
 	["lingettesale-auberdine"]=6,
 	["lipglossxoxo-garalon"]=5,
-	["liplinerxoxo-garalon"]=17,
+	["liplinerxoxo-garalon"]=23,
 	["lipmode-norushen"]=4,
 	["lippy-norushen"]=2,
 	["liquidity-shekzeer"]=8,
@@ -8235,7 +8237,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["oldnslow-mirage-raceway"]=9,
 	["oldrtysbtrd-shekzeer"]=13,
 	["oliyz-shekzeer"]=1,
-	["ollapelle-shekzeer"]=5,
+	["ollapelle-shekzeer"]=30,
 	["ombrà-auberdine"]=34,
 	["omglolno-shekzeer"]=11,
 	["omnissiah-shekzeer"]=17,

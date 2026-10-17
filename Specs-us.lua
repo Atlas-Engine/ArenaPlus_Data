@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5192 characters, read 2026-10-16 11:54 PM.
+-- Region us, 5192 characters, read 2026-10-17 12:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3174,7 +3174,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["nvrtrinket-raden"]=41,
 	["nvxl-pagle"]=10,
 	["nyctrius-raden"]=41,
-	["nyloras-pagle"]=10,
+	["nyloras-pagle"]=11,
 	["nyloras-raden"]=11,
 	["nylorfist-pagle"]=10,
 	["nýmph-raden"]=71,
@@ -3670,7 +3670,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["ròach-galakras"]=21,
 	["roach-raden"]=41,
 	["roaçh-raden"]=30,
-	["røach-raden"]=11,
+	["røach-raden"]=10,
 	["roasted-raden"]=11,
 	["robaalmas-raden"]=11,
 	["robast-raden"]=10,
@@ -5077,7 +5077,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["alakk-lei-shen"]=7,
 	["alanfury-raden"]=7,
 	["alanfuryx-raden"]=19,
-	["alarayia-raden"]=20,
+	["alarayia-raden"]=3,
 	["alassin-galakras"]=4,
 	["albomane-pagle"]=21,
 	["alchemistmed-galakras"]=12,
@@ -7502,7 +7502,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["kroun-raden"]=14,
 	["krpriest-nazgrim"]=13,
 	["ksoldier-pagle"]=16,
-	["kthall-pagle"]=23,
+	["kthall-pagle"]=30,
 	["ktm-lei-shen"]=5,
 	["ktzz-pagle"]=0,
 	["kungfugrip-arugal-au"]=10,
@@ -8437,7 +8437,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["peckrwood-immerseus"]=5,
 	["pedreirø-nazgrim"]=3,
 	["peekñheal-arugal-au"]=19,
-	["peligrozx-pagle"]=14,
+	["peligrozx-pagle"]=29,
 	["pellaëon-raden"]=6,
 	["penelope-raden"]=9,
 	["penguinxl-pagle"]=6,
@@ -9698,7 +9698,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["tsukawashime-raden"]=4,
 	["tsunadè-nazgrim"]=9,
 	["ttawdirg-pagle"]=3,
-	["tubalcain-galakras"]=22,
+	["tubalcain-galakras"]=19,
 	["turaoferao-raden"]=5,
 	["turbantime-pagle"]=4,
 	["turbomóist-pagle"]=15,
