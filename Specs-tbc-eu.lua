@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9758 characters, read 2026-10-17 03:59 PM.
+-- Region tbc-eu, 9758 characters, read 2026-10-17 04:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10372,7 +10372,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["beberg-spineshatter"]=1,
 	["bebiano-spineshatter"]=9,
 	["beburgler-spineshatter"]=3,
-	["beccus-thunderstrike"]=4,
+	["beccus-thunderstrike"]=9,
 	["beckey-spineshatter"]=2,
 	["beckieboomer-thunderstrike"]=11,
 	["bedesson-spineshatter"]=17,
@@ -11312,7 +11312,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["cy-spineshatter"]=6,
 	["cý-spineshatter"]=6,
 	["cyää-thunderstrike"]=3,
-	["cyanerdx-spineshatter"]=20,
+	["cyanerdx-spineshatter"]=1,
 	["cyanidx-spineshatter"]=13,
 	["cybaform-spineshatter"]=6,
 	["cybatron-spineshatter"]=25,
@@ -11498,7 +11498,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["deerhoi-spineshatter"]=7,
 	["deespair-spineshatter"]=8,
 	["deetarded-spineshatter"]=3,
-	["deeway-spineshatter"]=11,
+	["deeway-spineshatter"]=23,
 	["deeznootss-spineshatter"]=10,
 	["defaith-spineshatter"]=2,
 	["deftonebrr-spineshatter"]=12,
@@ -13322,7 +13322,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["iffyxx-spineshatter"]=2,
 	["ifury-spineshatter"]=5,
 	["iggysmalls-spineshatter"]=3,
-	["igipain-spineshatter"]=17,
+	["igipain-spineshatter"]=2,
 	["igner-spineshatter"]=25,
 	["igradlyadaun-spineshatter"]=10,
 	["iguswa-spineshatter"]=2,
@@ -13416,7 +13416,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["inshæpe-spineshatter"]=6,
 	["inshayne-spineshatter"]=5,
 	["insolol-spineshatter"]=3,
-	["insølolz-spineshatter"]=4,
+	["insølolz-spineshatter"]=21,
 	["insømniac-spineshatter"]=1,
 	["inspirefear-spineshatter"]=5,
 	["instantv-spineshatter"]=9,
@@ -15300,7 +15300,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["mythicalx-spineshatter"]=3,
 	["mythicalz-spineshatter"]=3,
 	["mythpala-spineshatter"]=26,
-	["myxxnuts-spineshatter"]=15,
+	["myxxnuts-spineshatter"]=5,
 	["mzmzx-spineshatter"]=7,
 	["mzstzsx-spineshatter"]=2,
 	["naali-spineshatter"]=1,
