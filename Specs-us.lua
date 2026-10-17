@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5194 characters, read 2026-10-17 09:59 AM.
+-- Region us, 5194 characters, read 2026-10-17 10:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -424,7 +424,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["bennyboltz-nazgrim"]=11,
 	["benso-pagle"]=10,
 	["beots-raden"]=220,
-	["bepples-pagle"]=90,
 	["bereavement-immerseus"]=21,
 	["berell-galakras"]=60,
 	["berell-raden"]=41,
@@ -963,6 +962,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["damacus-raden"]=11,
 	["Ðamaia-pagle"]=11,
 	["damanî-pagle"]=80,
+	["damimdialed-raden"]=11,
 	["dammyy-pagle"]=11,
 	["dampeners-raden"]=11,
 	["danar-raden"]=40,
@@ -1244,6 +1244,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["drivêbyê-galakras"]=20,
 	["drizzla-pagle"]=51,
 	["drkelp-pagle"]=50,
+	["drkwolf-lei-shen"]=220,
 	["drlovee-benediction"]=11,
 	["drmundø-raden"]=40,
 	["drô-raden"]=11,
@@ -5378,7 +5379,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["bennyboltz-nazgrim"]=28,
 	["benso-pagle"]=7,
 	["beots-raden"]=7,
-	["bepples-pagle"]=3,
 	["bepshepsis-pagle"]=0,
 	["bereavement-immerseus"]=34,
 	["berell-galakras"]=17,
@@ -5951,6 +5951,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["damacus-raden"]=1,
 	["Ðamaia-pagle"]=7,
 	["damanî-pagle"]=34,
+	["damimdialed-raden"]=3,
 	["dammyy-pagle"]=7,
 	["dampeners-raden"]=8,
 	["danar-raden"]=12,
@@ -6247,6 +6248,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["Ðrizko-raden"]=0,
 	["drizzla-pagle"]=14,
 	["drkelp-pagle"]=9,
+	["drkwolf-lei-shen"]=18,
 	["drlovee-benediction"]=2,
 	["drmundø-raden"]=9,
 	["drô-raden"]=24,
@@ -6393,7 +6395,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["erass-nazgrim"]=16,
 	["eredark-raden"]=22,
 	["ereshion-pagle"]=0,
-	["erieshotz-pagle"]=18,
+	["erieshotz-pagle"]=20,
 	["erik-nazgrim"]=7,
 	["erikane-nazgrim"]=4,
 	["erikhai-nazgrim"]=3,
@@ -6664,7 +6666,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["galekk-immerseus"]=10,
 	["galey-galakras"]=23,
 	["galica-immerseus"]=7,
-	["gallagher-raden"]=11,
+	["gallagher-raden"]=1,
 	["galletica-pagle"]=23,
 	["galvaron-pagle"]=2,
 	["gambezee-raden"]=21,
@@ -9084,7 +9086,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["siffera-pagle"]=25,
 	["sifudragon-galakras"]=4,
 	["siiuu-grobbulus"]=7,
-	["siktir-faerlina"]=0,
 	["silaeriel-raden"]=10,
 	["silhas-galakras"]=21,
 	["sillent-pagle"]=14,

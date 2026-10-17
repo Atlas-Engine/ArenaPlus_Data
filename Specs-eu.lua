@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5343 characters, read 2026-10-17 10:00 AM.
+-- Region eu, 5343 characters, read 2026-10-17 11:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2387,7 +2387,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["luciane-garalon"]=41,
 	["lucilisa-garalon"]=21,
 	["lucyshen-everlook"]=251,
-	["ludiwig-shekzeer"]=41,
+	["ludiwig-shekzeer"]=40,
 	["lügenbeutler-everlook"]=100,
 	["lugubrious-shekzeer"]=11,
 	["luicya-everlook"]=41,
@@ -4102,7 +4102,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["tontsa-garalon"]=20,
 	["tøøgøød-shekzeer"]=41,
 	["toolatebro-auberdine"]=10,
-	["tophizzle-everlook"]=10,
+	["tophizzle-everlook"]=11,
 	["topkeck-mirage-raceway"]=10,
 	["topshotta-everlook"]=41,
 	["topspal-shekzeer"]=11,
@@ -6774,7 +6774,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["gutalax-ook-ook"]=8,
 	["guugur-auberdine"]=2,
 	["gww-garalon"]=1,
-	["gyatthunter-norushen"]=9,
+	["gyatthunter-norushen"]=12,
 	["gymbunny-shekzeer"]=15,
 	["gypsysniper-shekzeer"]=4,
 	["haberer-everlook"]=1,
@@ -8529,7 +8529,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["quynmonk-garalon"]=6,
 	["qwanya-shekzeer"]=2,
 	["qwix-shekzeer"]=0,
-	["qxx-shekzeer"]=11,
+	["qxx-shekzeer"]=3,
 	["qz-shekzeer"]=17,
 	["rachelrage-everlook"]=1,
 	["rachelroxx-shekzeer"]=20,
@@ -9405,7 +9405,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["tonysopranoz-shekzeer"]=0,
 	["tøøgøød-shekzeer"]=3,
 	["toolatebro-auberdine"]=26,
-	["tophizzle-everlook"]=10,
+	["tophizzle-everlook"]=2,
 	["topkeck-mirage-raceway"]=7,
 	["topshotta-everlook"]=3,
 	["topspal-shekzeer"]=5,
@@ -9733,7 +9733,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["waydemz-shekzeer"]=8,
 	["wayla-everlook"]=3,
 	["waylay-shekzeer"]=0,
-	["wazungu-shekzeer"]=31,
+	["wazungu-shekzeer"]=8,
 	["wcente-garalon"]=9,
 	["wdfcrit-garalon"]=19,
 	["weakaura-shekzeer"]=0,
@@ -10006,7 +10006,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["zepp-mirage-raceway"]=21,
 	["zeppaan-garalon"]=12,
 	["zeptik-garalon"]=23,
-	["zerback-norushen"]=3,
+	["zerback-norushen"]=21,
 	["zerca-everlook"]=14,
 	["zeroblow-hoptallus"]=7,
 	["zeroimpact-shekzeer"]=5,
