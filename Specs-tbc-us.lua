@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9420 characters, read 2026-10-17 02:58 PM.
+-- Region tbc-us, 9420 characters, read 2026-10-17 03:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12139,7 +12139,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["flameleader-nightslayer"]=13,
 	["flamescore-nightslayer"]=4,
 	["flammy-nightslayer"]=19,
-	["flanfreezes-dreamscythe"]=4,
+	["flanfreezes-dreamscythe"]=6,
 	["flapnuts-nightslayer"]=13,
 	["flapnutz-nightslayer"]=7,
 	["flarden-nightslayer"]=3,
@@ -14891,7 +14891,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["neilie-nightslayer"]=24,
 	["neiliee-nightslayer"]=9,
 	["neilomei-nightslayer"]=2,
-	["nekobearmeow-nightslayer"]=3,
+	["nekobearmeow-nightslayer"]=7,
 	["nekryss-nightslayer"]=1,
 	["nellymandela-nightslayer"]=19,
 	["nelsonice-nightslayer"]=7,
@@ -16240,7 +16240,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["rxx-nightslayer"]=2,
 	["rxxa-nightslayer"]=0,
 	["rxxd-nightslayer"]=18,
-	["ryaen-nightslayer"]=8,
+	["ryaen-nightslayer"]=5,
 	["ryanin-dreamscythe"]=22,
 	["ryderwear-nightslayer"]=12,
 	["rykara-dreamscythe"]=7,
@@ -18677,7 +18677,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["zgonn-dreamscythe"]=2,
 	["zhaomei-nightslayer"]=9,
 	["zhevek-dreamscythe"]=15,
-	["zhoomies-nightslayer"]=13,
+	["zhoomies-nightslayer"]=16,
 	["ziaj-nightslayer"]=10,
 	["ziatt-nightslayer"]=2,
 	["zibra-dreamscythe"]=1,
@@ -18707,7 +18707,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["zns-nightslayer"]=2,
 	["znug-nightslayer"]=19,
 	["zocho-nightslayer"]=18,
-	["zoghunter-nightslayer"]=4,
+	["zoghunter-nightslayer"]=6,
 	["zoinksx-nightslayer"]=9,
 	["zoltun-nightslayer"]=1,
 	["zombireckful-nightslayer"]=8,

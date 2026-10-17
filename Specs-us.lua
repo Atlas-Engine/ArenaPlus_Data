@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5195 characters, read 2026-10-17 02:59 PM.
+-- Region us, 5195 characters, read 2026-10-17 03:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5885,7 +5885,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["crazywick-pagle"]=16,
 	["creamx-raden"]=1,
 	["creamytotem-galakras"]=15,
-	["crearly-galakras"]=25,
+	["crearly-galakras"]=6,
 	["crepes-pagle"]=12,
 	["crepuscolo-pagle"]=2,
 	["crepusculé-pagle"]=1,
@@ -5954,7 +5954,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["damanî-pagle"]=34,
 	["damimdialed-raden"]=3,
 	["dammyy-pagle"]=7,
-	["dampeners-raden"]=8,
+	["dampeners-raden"]=28,
 	["danar-raden"]=12,
 	["dáncingmines-raden"]=5,
 	["dandor-pagle"]=7,
@@ -5969,7 +5969,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["danyshadow-raden"]=21,
 	["Ðark-nazgrim"]=6,
 	["darkavengerr-pagle"]=28,
-	["darkcurador-nazgrim"]=21,
+	["darkcurador-nazgrim"]=13,
 	["darkdankdope-raden"]=10,
 	["darkdeamon-pagle"]=1,
 	["darkdknight-pagle"]=6,
