@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5183 characters, read 2026-10-17 05:59 PM.
+-- Region us, 5183 characters, read 2026-10-17 06:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2265,6 +2265,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["jonnyslash-immerseus"]=20,
 	["jontejr-raden"]=30,
 	["jootfob-galakras"]=20,
+	["jordanw-raden"]=11,
 	["jorogin-grobbulus"]=10,
 	["josept-pagle"]=10,
 	["joxibaba-raden"]=31,
@@ -5313,7 +5314,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["bashlee-lei-shen"]=7,
 	["battleground-pagle"]=17,
 	["battleground-raden"]=4,
-	["bayol-raden"]=21,
+	["bayol-raden"]=13,
 	["bâz-arugal-au"]=1,
 	["bazblast-arugal-au"]=15,
 	["bazflay-arugal-au"]=21,
@@ -5328,7 +5329,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["bdx-raden"]=1,
 	["beabo-raden"]=7,
 	["bearflow-nazgrim"]=5,
-	["bearhammer-lei-shen"]=30,
+	["bearhammer-lei-shen"]=7,
 	["bearìcade-pagle"]=12,
 	["bearlygoat-lei-shen"]=5,
 	["bearsong-galakras"]=12,
@@ -6584,7 +6585,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["fragz-lei-shen"]=5,
 	["franchtoast-pagle"]=7,
 	["francispain-pagle"]=6,
-	["franco-nazgrim"]=25,
+	["franco-nazgrim"]=26,
 	["frankieboy-galakras"]=0,
 	["frankinator-raden"]=4,
 	["frasno-nazgrim"]=34,
@@ -7299,7 +7300,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["jonnyslash-immerseus"]=7,
 	["jontejr-raden"]=15,
 	["jootfob-galakras"]=23,
-	["jordanw-raden"]=0,
+	["jordanw-raden"]=7,
 	["jorogin-grobbulus"]=14,
 	["josept-pagle"]=9,
 	["joxibaba-raden"]=15,
@@ -8417,7 +8418,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["peachpounder-pagle"]=6,
 	["peakedintbc-pagle"]=29,
 	["pearlescence-raden"]=15,
-	["peasalou-raden"]=2,
+	["peasalou-raden"]=16,
 	["pebblefist-pagle"]=7,
 	["peckrwood-immerseus"]=5,
 	["pedreirø-nazgrim"]=3,
@@ -9234,7 +9235,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["sovice-raden"]=2,
 	["soyinfelíz-raden"]=6,
 	["soytupapi-pagle"]=9,
-	["spaak-raden"]=14,
+	["spaak-raden"]=29,
 	["space-raden"]=1,
 	["spala-pagle"]=0,
 	["sparas-raden"]=1,
@@ -9250,7 +9251,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["spiffymonk-nazgrim"]=10,
 	["spiftdk-pagle"]=6,
 	["spiftf-pagle"]=1,
-	["spifth-grobbulus"]=3,
+	["spifth-grobbulus"]=20,
 	["spiftm-grobbulus"]=10,
 	["spiftp-pagle"]=16,
 	["spiftr-pagle"]=14,
