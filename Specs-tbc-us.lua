@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9425 characters, read 2026-10-16 08:58 PM.
+-- Region tbc-us, 9425 characters, read 2026-10-16 09:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11118,7 +11118,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["daeying-nightslayer"]=2,
 	["dafnibellium-nightslayer"]=1,
 	["dagamer-dreamscythe"]=1,
-	["dagermrana-nightslayer"]=15,
+	["dagermrana-nightslayer"]=17,
 	["daggerino-nightslayer"]=8,
 	["daggerpants-nightslayer"]=0,
 	["dagmedic-nightslayer"]=1,
@@ -13011,7 +13011,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["huangyu-nightslayer"]=8,
 	["hudsun-nightslayer"]=2,
 	["hugemantys-nightslayer"]=2,
-	["huggibear-dreamscythe"]=16,
+	["huggibear-dreamscythe"]=13,
 	["huggibow-dreamscythe"]=15,
 	["hughjaynas-dreamscythe"]=1,
 	["huka-nightslayer"]=8,
@@ -14627,7 +14627,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["mkgx-nightslayer"]=13,
 	["mkhammer-dreamscythe"]=19,
 	["mksham-dreamscythe"]=10,
-	["mlp-nightslayer"]=4,
+	["mlp-nightslayer"]=6,
 	["mlslol-nightslayer"]=7,
 	["mmaark-nightslayer"]=7,
 	["mmæmmæmmæmmæ-nightslayer"]=2,
@@ -16094,7 +16094,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["rivalxz-nightslayer"]=14,
 	["rivenw-nightslayer"]=18,
 	["rîvs-nightslayer"]=5,
-	["rixakk-dreamscythe"]=2,
+	["rixakk-dreamscythe"]=18,
 	["rixxak-dreamscythe"]=2,
 	["rizka-nightslayer"]=18,
 	["rizzlerxo-nightslayer"]=1,
@@ -17959,7 +17959,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["vanillajuice-dreamscythe"]=2,
 	["vanishbrb-nightslayer"]=8,
 	["vanishh-nightslayer"]=8,
-	["vanishxoxo-nightslayer"]=1,
+	["vanishxoxo-nightslayer"]=14,
 	["vankara-dreamscythe"]=5,
 	["väns-dreamscythe"]=25,
 	["vantagex-nightslayer"]=4,
@@ -18150,7 +18150,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["wanghafxd-nightslayer"]=5,
 	["wanglaoji-dreamscythe"]=4,
 	["wanjunoheal-nightslayer"]=10,
-	["waplord-nightslayer"]=6,
+	["waplord-nightslayer"]=4,
 	["warbandit-nightslayer"]=9,
 	["warbypincus-nightslayer"]=2,
 	["warchiëf-nightslayer"]=2,
