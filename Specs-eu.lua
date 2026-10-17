@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5343 characters, read 2026-10-17 05:00 AM.
+-- Region eu, 5343 characters, read 2026-10-17 06:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2521,6 +2521,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["mcvillain-mirage-raceway"]=11,
 	["mdeepi-shekzeer"]=11,
 	["meatpyre-mirage-raceway"]=80,
+	["medhotup-shekzeer"]=41,
 	["medtabletkka-shekzeer"]=41,
 	["mëdüsa-mirage-raceway"]=11,
 	["medvedbzxc-shekzeer"]=11,
@@ -6230,7 +6231,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["djssleinad-garalon"]=13,
 	["Ðjsvrxzy-shekzeer"]=2,
 	["djwashedup-shekzeer"]=29,
-	["dksecouille-auberdine"]=33,
+	["dksecouille-auberdine"]=31,
 	["dkw-gehennas"]=31,
 	["dméndez-mirage-raceway"]=15,
 	["dnglo-mirage-raceway"]=1,
@@ -6948,7 +6949,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["hugesac-shekzeer"]=5,
 	["hugsnotdrugs-shekzeer"]=17,
 	["huiying-auberdine"]=20,
-	["huln-shekzeer"]=14,
+	["huln-shekzeer"]=20,
 	["humbelbee-shekzeer"]=14,
 	["humblé-shekzeer"]=17,
 	["hùntdc-auberdine"]=4,
@@ -7749,7 +7750,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["mcvillain-mirage-raceway"]=1,
 	["mdeepi-shekzeer"]=2,
 	["meatpyre-mirage-raceway"]=1,
-	["medhotup-shekzeer"]=0,
+	["medhotup-shekzeer"]=3,
 	["medtabletkka-shekzeer"]=3,
 	["mëdüsa-mirage-raceway"]=24,
 	["medvedbzxc-shekzeer"]=2,
@@ -9350,7 +9351,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["threethumbs-shekzeer"]=3,
 	["throotqueèn-shekzeer"]=1,
 	["thugslife-shekzeer"]=24,
-	["thugzilla-shekzeer"]=24,
+	["thugzilla-shekzeer"]=26,
 	["thurza-shekzeer"]=2,
 	["thuugom-shekzeer"]=8,
 	["thylé-norushen"]=13,
@@ -9722,7 +9723,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["warsonger-auberdine"]=1,
 	["warßam-auberdine"]=1,
 	["wartinkin-norushen"]=8,
-	["wasabî-auberdine"]=13,
+	["wasabî-auberdine"]=16,
 	["wasapwasap-shekzeer"]=4,
 	["wassimar-mirage-raceway"]=17,
 	["wasterzhi-hoptallus"]=15,
@@ -9752,7 +9753,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["wheelygood-shekzeer"]=20,
 	["whereâreyûat-everlook"]=23,
 	["wheyx-shekzeer"]=12,
-	["wheyxw-shekzeer"]=1,
+	["wheyxw-shekzeer"]=25,
 	["whipmepls-shekzeer"]=8,
 	["whisp-garalon"]=11,
 	["whoppa-shekzeer"]=1,

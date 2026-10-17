@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5195 characters, read 2026-10-17 04:54 AM.
+-- Region us, 5195 characters, read 2026-10-17 05:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5453,7 +5453,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["blacksclera-pagle"]=24,
 	["blacksiide-pagle"]=4,
 	["blackspades-pagle"]=26,
-	["bladvalery-nazgrim"]=32,
+	["bladvalery-nazgrim"]=16,
 	["blaggie-galakras"]=16,
 	["blaine-raden"]=1,
 	["blakemøre-raden"]=0,
@@ -7177,7 +7177,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["inorie-raden"]=4,
 	["insomniaxx-pagle"]=14,
 	["instantcarry-raden"]=10,
-	["integrityqt-pagle"]=21,
+	["integrityqt-pagle"]=13,
 	["intercepts-pagle"]=7,
 	["intrerri-pagle"]=34,
 	["intru-raden"]=3,
@@ -7451,7 +7451,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["kìngrøach-galakras"]=14,
 	["kinkykirby-raden"]=2,
 	["kinkystwosvn-nazgrim"]=0,
-	["kinoshyba-pagle"]=30,
+	["kinoshyba-pagle"]=7,
 	["kinshiki-galakras"]=14,
 	["kintok-raden"]=26,
 	["kiora-pagle"]=14,
@@ -7470,7 +7470,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["klausjr-pagle"]=8,
 	["kledemarcos-nazgrim"]=15,
 	["klenzen-raden"]=10,
-	["klept-raden"]=4,
+	["klept-raden"]=10,
 	["kleptix-raden"]=34,
 	["knottypawz-pagle"]=17,
 	["knuckles-pagle"]=7,
@@ -9086,7 +9086,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["siiuu-grobbulus"]=7,
 	["siktir-faerlina"]=0,
 	["silaeriel-raden"]=10,
-	["silhas-galakras"]=13,
+	["silhas-galakras"]=21,
 	["sillent-pagle"]=14,
 	["silqy-pagle"]=0,
 	["silviaisa-raden"]=14,
@@ -9369,7 +9369,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["stonêd-raden"]=16,
 	["stooter-nazgrim"]=5,
 	["stootns-nazgrim"]=15,
-	["stooty-nazgrim"]=23,
+	["stooty-nazgrim"]=7,
 	["stoptalkme-raden"]=4,
 	["stormdaddyx-pagle"]=22,
 	["størmie-raden"]=15,
@@ -9541,7 +9541,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["theægnt-raden"]=4,
 	["theanswer-pagle"]=0,
 	["thebadjuan-pagle"]=7,
-	["thebagelcave-pagle"]=15,
+	["thebagelcave-pagle"]=22,
 	["thebigholy-pagle"]=16,
 	["thebigmack-pagle"]=0,
 	["thebouncer-pagle"]=29,
@@ -9682,7 +9682,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["trojanbubble-pagle"]=2,
 	["trojanbubble-raden"]=2,
 	["trojanphobia-pagle"]=9,
-	["trolled-pagle"]=21,
+	["trolled-pagle"]=13,
 	["trollmaoo-galakras"]=11,
 	["trôth-galakras"]=16,
 	["troyandk-raden"]=6,

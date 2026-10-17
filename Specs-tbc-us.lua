@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9422 characters, read 2026-10-17 04:58 AM.
+-- Region tbc-us, 9422 characters, read 2026-10-17 05:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10856,7 +10856,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["cocoplum-nightslayer"]=7,
 	["cocoshift-nightslayer"]=3,
 	["cocvendor-nightslayer"]=6,
-	["codeforfood-nightslayer"]=1,
+	["codeforfood-nightslayer"]=12,
 	["coerce-nightslayer"]=15,
 	["côffee-nightslayer"]=24,
 	["coffeedisc-nightslayer"]=1,
@@ -12961,7 +12961,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["hoofjobb-nightslayer"]=24,
 	["hoonteh-dreamscythe"]=15,
 	["hootini-nightslayer"]=5,
-	["hoou-nightslayer"]=6,
+	["hoou-nightslayer"]=4,
 	["hooverr-nightslayer"]=11,
 	["hooverstorm-nightslayer"]=24,
 	["hordfilth-nightslayer"]=1,
@@ -15436,7 +15436,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["perryerhoni-nightslayer"]=11,
 	["perrywashdup-nightslayer"]=4,
 	["persiphone-nightslayer"]=2,
-	["personah-nightslayer"]=4,
+	["personah-nightslayer"]=6,
 	["perthorin-nightslayer"]=5,
 	["petehegseth-nightslayer"]=1,
 	["petiteteen-nightslayer"]=13,
