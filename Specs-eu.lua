@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5345 characters, read 2026-10-16 07:00 PM.
+-- Region eu, 5345 characters, read 2026-10-16 08:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -370,7 +370,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["ayleena-mirage-raceway"]=51,
 	["ayleenaah-ook-ook"]=21,
 	["ayleenah-mirage-raceway"]=41,
-	["ayloupipi-shekzeer"]=10,
+	["ayloupipi-shekzeer"]=11,
 	["ayuaha-shekzeer"]=111,
 	["ayus-shekzeer"]=111,
 	["ayvara-shekzeer"]=11,
@@ -3477,7 +3477,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["rydotheholy-everlook"]=10,
 	["rydothemage-everlook"]=10,
 	["rydothemonk-everlook"]=11,
-	["rydotheret-everlook"]=10,
+	["rydotheret-everlook"]=11,
 	["rydotheroq-everlook"]=11,
 	["rydothetrap-everlook"]=11,
 	["rydothetwink-everlook"]=41,
@@ -5849,7 +5849,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["causamortis-mirage-raceway"]=4,
 	["causeram-garalon"]=11,
 	["cavernicola-garalon"]=8,
-	["cavitaas-ook-ook"]=25,
+	["cavitaas-ook-ook"]=1,
 	["cavitas-everlook"]=1,
 	["cavitonnee-everlook"]=1,
 	["cavko-shekzeer"]=20,
@@ -9119,7 +9119,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["ßøßép-shekzeer"]=1,
 	["ßrother-shekzeer"]=2,
 	["ßuckfiddy-shekzeer"]=16,
-	["ssydney-shekzeer"]=24,
+	["ssydney-shekzeer"]=26,
 	["ßzv-everlook"]=1,
 	["st-shekzeer"]=7,
 	["stabstein-shekzeer"]=24,
@@ -10009,7 +10009,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["zepp-mirage-raceway"]=21,
 	["zeppaan-garalon"]=12,
 	["zeptik-garalon"]=23,
-	["zerback-norushen"]=21,
+	["zerback-norushen"]=3,
 	["zerca-everlook"]=14,
 	["zeroblow-hoptallus"]=7,
 	["zeroimpact-shekzeer"]=5,
