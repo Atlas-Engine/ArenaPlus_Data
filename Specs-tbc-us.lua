@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9422 characters, read 2026-10-17 11:58 AM.
+-- Region tbc-us, 9422 characters, read 2026-10-17 12:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10102,7 +10102,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["billyjimmi-nightslayer"]=10,
 	["billyjimmy-nightslayer"]=10,
 	["billyjin-nightslayer"]=10,
-	["billystyle-nightslayer"]=6,
+	["billystyle-nightslayer"]=4,
 	["billythecat-nightslayer"]=3,
 	["bin-nightslayer"]=1,
 	["binchickens-dreamscythe"]=13,
@@ -10396,7 +10396,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bruisebuffer-nightslayer"]=2,
 	["bruss-nightslayer"]=18,
 	["brussw-nightslayer"]=18,
-	["brustifield-nightslayer"]=10,
+	["brustifield-nightslayer"]=24,
 	["brutain-nightslayer"]=8,
 	["brûtàl-nightslayer"]=2,
 	["brutalgladi-nightslayer"]=10,
@@ -14514,7 +14514,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["michaelmouse-nightslayer"]=17,
 	["michaelobama-nightslayer"]=2,
 	["míchi-nightslayer"]=7,
-	["microfelon-nightslayer"]=13,
+	["microfelon-nightslayer"]=16,
 	["micropeker-nightslayer"]=7,
 	["midam-nightslayer"]=4,
 	["midgetpigeon-nightslayer"]=2,
@@ -15287,7 +15287,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["outtapockets-nightslayer"]=0,
 	["outtapocketz-nightslayer"]=0,
 	["outturn-nightslayer"]=4,
-	["ouzenn-nightslayer"]=16,
+	["ouzenn-nightslayer"]=13,
 	["overanalyze-nightslayer"]=25,
 	["overtaken-nightslayer"]=8,
 	["owltwistax-nightslayer"]=19,
@@ -17596,7 +17596,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["tinamartina-nightslayer"]=2,
 	["tindergirl-dreamscythe"]=14,
 	["tinydave-nightslayer"]=0,
-	["tinyfearless-nightslayer"]=13,
+	["tinyfearless-nightslayer"]=23,
 	["tinypp-nightslayer"]=0,
 	["tinyterror-nightslayer"]=2,
 	["titabitanaya-nightslayer"]=19,
