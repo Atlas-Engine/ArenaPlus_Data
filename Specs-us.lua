@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5192 characters, read 2026-10-16 10:59 PM.
+-- Region us, 5192 characters, read 2026-10-16 11:54 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2561,7 +2561,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["lightspoon-benediction"]=11,
 	["lìghtsy-raden"]=11,
 	["lightvenge-pagle"]=10,
-	["ligmatron-raden"]=11,
+	["ligmatron-raden"]=10,
 	["lijienator-pagle"]=100,
 	["likez-pagle"]=50,
 	["likmypsy-raden"]=10,
@@ -5358,7 +5358,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["beijingcy-grobbulus"]=1,
 	["beijingms-grobbulus"]=13,
 	["beijingsa-grobbulus"]=19,
-	["beijingss-grobbulus"]=24,
+	["beijingss-grobbulus"]=28,
 	["beish-pagle"]=15,
 	["bektal-pagle"]=19,
 	["beladorit-pagle"]=24,
@@ -7784,7 +7784,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["makura-raden"]=1,
 	["malavenar-raden"]=12,
 	["maleficá-nazgrim"]=24,
-	["malirya-raden"]=21,
+	["malirya-raden"]=9,
 	["mállkü-pagle"]=22,
 	["mallkually-pagle"]=15,
 	["malmighty-pagle"]=3,
