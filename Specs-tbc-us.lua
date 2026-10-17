@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9421 characters, read 2026-10-17 08:58 AM.
+-- Region tbc-us, 9421 characters, read 2026-10-17 09:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12754,7 +12754,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["haramguy-nightslayer"]=5,
 	["hardnipz-nightslayer"]=6,
 	["hardressed-nightslayer"]=11,
-	["hardx-nightslayer"]=4,
+	["hardx-nightslayer"]=6,
 	["hardybigwood-nightslayer"]=1,
 	["harmac-nightslayer"]=1,
 	["harmes-nightslayer"]=5,
@@ -17526,7 +17526,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["thogorn-nightslayer"]=9,
 	["thorathan-nightslayer"]=18,
 	["thorbren-nightslayer"]=2,
-	["thorlax-nightslayer"]=1,
+	["thorlax-nightslayer"]=14,
 	["thoster-nightslayer"]=1,
 	["thotmama-dreamscythe"]=25,
 	["thotolympics-nightslayer"]=8,
@@ -17630,7 +17630,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["toluk-dreamscythe"]=18,
 	["tombradygoat-nightslayer"]=10,
 	["tombrazy-nightslayer"]=7,
-	["tomclamcy-nightslayer"]=4,
+	["tomclamcy-nightslayer"]=6,
 	["tomcruisetbc-nightslayer"]=5,
 	["tomkazansky-nightslayer"]=6,
 	["tommý-dreamscythe"]=10,
