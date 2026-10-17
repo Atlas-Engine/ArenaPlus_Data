@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9752 characters, read 2026-10-16 09:59 PM.
+-- Region tbc-eu, 9752 characters, read 2026-10-16 10:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10493,7 +10493,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["billythewar-spineshatter"]=0,
 	["billywinks-thunderstrike"]=3,
 	["bîlox-thunderstrike"]=2,
-	["bilursag-thunderstrike"]=22,
+	["bilursag-thunderstrike"]=5,
 	["bimbolo-spineshatter"]=2,
 	["bimbzgg-spineshatter"]=5,
 	["binchillin-spineshatter"]=5,
@@ -17873,7 +17873,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["superturtlé-spineshatter"]=15,
 	["supeytide-spineshatter"]=11,
 	["supfreshyo-thunderstrike"]=6,
-	["supotato-spineshatter"]=14,
+	["supotato-spineshatter"]=13,
 	["suppressiøn-spineshatter"]=2,
 	["suprê-spineshatter"]=11,
 	["sureh-spineshatter"]=2,
@@ -18518,7 +18518,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["univez-spineshatter"]=3,
 	["unkindly-spineshatter"]=8,
 	["unknownxd-spineshatter"]=0,
-	["unli-spineshatter"]=23,
+	["unli-spineshatter"]=11,
 	["unluckiee-spineshatter"]=2,
 	["unreliablex-spineshatter"]=5,
 	["unrepeatable-spineshatter"]=13,
@@ -19219,7 +19219,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["Ýwn-spineshatter"]=0,
 	["zaak-spineshatter"]=0,
 	["zaath-spineshatter"]=7,
-	["zäax-spineshatter"]=2,
+	["zäax-spineshatter"]=17,
 	["zabyy-spineshatter"]=6,
 	["zaebälsä-spineshatter"]=13,
 	["zafiel-thunderstrike"]=25,
@@ -19301,7 +19301,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["zevemp-spineshatter"]=2,
 	["zevil-spineshatter"]=2,
 	["zeytenh-spineshatter"]=18,
-	["zezaergx-spineshatter"]=3,
+	["zezaergx-spineshatter"]=19,
 	["zezimasama-thunderstrike"]=13,
 	["zfn-spineshatter"]=9,
 	["zgegzer-spineshatter"]=5,
