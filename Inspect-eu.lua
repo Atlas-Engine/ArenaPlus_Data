@@ -42,7 +42,7 @@ local ns = ArenaPlusData
 -- source_item, so gems are stored as real item ids the client can draw and only
 -- the enchant text has to ship.
 --
--- Region eu, 447 characters, 382 glyph names, read 2026-10-17 03:20 AM.
+-- Region eu, 447 characters, 382 glyph names, read 2026-10-17 04:20 AM.
 ns.GLYPH_NAMES = ns.GLYPH_NAMES or {}
 
 for id, name in pairs({
@@ -436,47 +436,13 @@ for id, name in pairs({
 ns.TALENT_NAMES = ns.TALENT_NAMES or {}
 
 for id, name in pairs({
-	[605]="Dominate Mind",
-	[5211]="Mighty Bash",
-	[12292]="Bloodbath",
-	[12323]="Piercing Howl",
-	[45529]="Blood Tap",
-	[46924]="Bladestorm",
-	[48743]="Death Pact",
-	[51052]="Anti-Magic Zone",
-	[51462]="Runic Corruption",
-	[55694]="Enraged Regeneration",
 	[79008]="Elusiveness",
-	[96268]="Death's Advance",
-	[102060]="Disrupting Shout",
-	[102351]="Cenarion Ward",
-	[102401]="Wild Charge",
-	[103826]="Juggernaut",
-	[103827]="Double Time",
-	[106707]="Faerie Swarm",
-	[106737]="Force of Nature",
-	[108170]="Roiling Blood",
-	[108196]="Death Siphon",
-	[108199]="Gorefiend's Grasp",
 	[108208]="Subterfuge",
 	[108210]="Nerve Strike",
 	[108212]="Burst of Speed",
 	[108215]="Paralytic Poison",
 	[108216]="Dirty Tricks",
-	[108288]="Heart of the Wild",
-	[108921]="Psyfiend",
-	[109175]="Divine Insight",
-	[109186]="From Darkness, Comes Light",
-	[110744]="Divine Star",
-	[112833]="Spectral Guise",
-	[114030]="Vigilance",
-	[114107]="Soul of the Forest",
-	[114556]="Purgatory",
-	[118000]="Dragon Roar",
-	[121536]="Angelic Feather",
-	[123693]="Plague Leech",
 	[137619]="Marked for Death",
-	[145108]="Ysera's Gift",
 }) do ns.TALENT_NAMES[id] = name end
 
 -- Which talent a rank-spell belongs to, and how many ranks that talent has.
