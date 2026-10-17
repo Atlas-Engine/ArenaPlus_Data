@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5194 characters, read 2026-10-17 12:59 PM.
+-- Region us, 5195 characters, read 2026-10-17 01:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2359,6 +2359,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["kelse-pagle"]=11,
 	["kelthane-raden"]=10,
 	["kengriffyjr-pagle"]=11,
+	["kenoblue-pagle"]=111,
 	["kenomist-pagle"]=41,
 	["kenotrappin-pagle"]=41,
 	["kenquit-pagle"]=11,
@@ -3765,7 +3766,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["sammyboyy-pagle"]=10,
 	["sanachikito-pagle"]=11,
 	["sanadora-pagle"]=11,
-	["sandbunny-pagle"]=10,
+	["sandbunny-pagle"]=11,
 	["sandore-raden"]=11,
 	["sandosa-pagle"]=251,
 	["sanguinärio-pagle"]=80,
@@ -7407,6 +7408,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["kelse-pagle"]=14,
 	["kelthane-raden"]=6,
 	["kengriffyjr-pagle"]=7,
+	["kenoblue-pagle"]=19,
 	["kenomist-pagle"]=4,
 	["kenotrappin-pagle"]=3,
 	["kenquit-pagle"]=6,
@@ -10005,7 +10007,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["xarshadow-immerseus"]=24,
 	["xarstorm-immerseus"]=1,
 	["xatica-pagle"]=14,
-	["xatyka-pagle"]=1,
+	["xatyka-pagle"]=11,
 	["xavilier-pagle"]=14,
 	["xb-galakras"]=10,
 	["xcen-raden"]=18,
@@ -10077,7 +10079,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["yglol-pagle"]=4,
 	["yglol-raden"]=4,
 	["ygn-pagle"]=7,
-	["yhelena-pagle"]=34,
+	["yhelena-pagle"]=29,
 	["yhk-pagle"]=16,
 	["yimchad-raden"]=19,
 	["ynotchopper-pagle"]=23,
@@ -10089,7 +10091,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["youngvërcesx-raden"]=27,
 	["youngx-pagle"]=4,
 	["youppl-pagle"]=7,
-	["yourendisher-pagle"]=11,
+	["yourendisher-pagle"]=1,
 	["youz-pagle"]=19,
 	["yrd-pagle"]=9,
 	["yrrlol-pagle"]=5,
