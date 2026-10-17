@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5343 characters, read 2026-10-17 06:00 AM.
+-- Region eu, 5343 characters, read 2026-10-17 07:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2318,7 +2318,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["lilkurani-shekzeer"]=11,
 	["lilldoris-garalon"]=101,
 	["lîllyputaner-everlook"]=10,
-	["lilmonkboi-shekzeer"]=70,
+	["lilmonkboi-shekzeer"]=71,
 	["lilnonameww-shekzeer"]=11,
 	["lilrnd-shekzeer"]=31,
 	["lilrocky-shekzeer"]=11,
@@ -4479,7 +4479,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["wmdmeta-shekzeer"]=41,
 	["wmwmwmwmwmw-shekzeer"]=41,
 	["wnky-shekzeer"]=10,
-	["wnkyx-shekzeer"]=11,
 	["wodarmsopx-shekzeer"]=10,
 	["wodclassicwr-shekzeer"]=11,
 	["wodenjoyer-shekzeer"]=10,
@@ -5200,6 +5199,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["abcdé-shekzeer"]=3,
 	["abclock-shekzeer"]=17,
 	["abdirahman-shekzeer"]=0,
+	["abdiwallahi-shekzeer"]=0,
 	["abdulmalik-shekzeer"]=6,
 	["abitova-shekzeer"]=14,
 	["ablaacissej-shekzeer"]=2,
@@ -9799,7 +9799,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["wmdmeta-shekzeer"]=3,
 	["wmwmwmwmwmw-shekzeer"]=3,
 	["wnky-shekzeer"]=5,
-	["wnkyx-shekzeer"]=9,
 	["wodarmsopx-shekzeer"]=1,
 	["wodclassicwr-shekzeer"]=15,
 	["wodenjoyer-shekzeer"]=28,
