@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5197 characters, read 2026-10-17 01:59 AM.
+-- Region us, 5197 characters, read 2026-10-17 02:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1469,7 +1469,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["fattitude-pagle"]=81,
 	["fattitude-raden"]=251,
 	["fattymcgee-lei-shen"]=70,
-	["fatwog-raden"]=11,
+	["fatwog-raden"]=10,
 	["faylaxd-raden"]=41,
 	["fctry-raden"]=11,
 	["fcx-raden"]=11,
@@ -2836,7 +2836,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["míchaeldk-pagle"]=100,
 	["mictlan-raden"]=11,
 	["miercy-galakras"]=11,
-	["mightybeast-raden"]=40,
 	["mightymagus-raden"]=10,
 	["migué-pagle"]=10,
 	["mihal-nazgrim"]=50,
@@ -2903,7 +2902,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["moizefala-immerseus"]=80,
 	["mojo-raden"]=41,
 	["mojotree-pagle"]=80,
-	["mollywhopped-pagle"]=11,
+	["mollywhopped-pagle"]=10,
 	["moloch-raden"]=111,
 	["mommaphister-pagle"]=11,
 	["mommygirl-pagle"]=51,
@@ -5870,7 +5869,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["cptstabbin-pagle"]=14,
 	["crabrangoon-galakras"]=2,
 	["cradlemebro-raden"]=7,
-	["cranberryyl-pagle"]=18,
+	["cranberryyl-pagle"]=3,
 	["craniüm-pagle"]=7,
 	["crapbucket-raden"]=17,
 	["crapes-immerseus"]=12,
@@ -7731,7 +7730,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["lumantho-pagle"]=7,
 	["lumanwarx-pagle"]=7,
 	["lumapal-pagle"]=16,
-	["luminarìa-pagle"]=16,
+	["luminarìa-pagle"]=2,
 	["lumineth-pagle"]=9,
 	["lunarlass-pagle"]=0,
 	["lunchmeat-nazgrim"]=0,
@@ -7915,7 +7914,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["míchaeldk-pagle"]=26,
 	["mictlan-raden"]=1,
 	["miercy-galakras"]=16,
-	["mightybeast-raden"]=5,
+	["mightybeast-raden"]=0,
 	["mightymagus-raden"]=1,
 	["migué-pagle"]=16,
 	["mihal-nazgrim"]=1,
@@ -7984,7 +7983,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["mmonk-nazgrim"]=10,
 	["mmrcat-raden"]=12,
 	["mnzak-raden"]=4,
-	["moaana-galakras"]=12,
+	["moaana-galakras"]=17,
 	["mogger-galakras"]=7,
 	["moghastir-raden"]=22,
 	["moizefala-immerseus"]=17,
@@ -9373,7 +9372,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["stonêd-raden"]=16,
 	["stooter-nazgrim"]=5,
 	["stootns-nazgrim"]=15,
-	["stooty-nazgrim"]=7,
+	["stooty-nazgrim"]=23,
 	["stoptalkme-raden"]=4,
 	["stormdaddyx-pagle"]=22,
 	["størmie-raden"]=15,

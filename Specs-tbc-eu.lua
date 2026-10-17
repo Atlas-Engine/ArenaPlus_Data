@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9772 characters, read 2026-10-17 01:59 AM.
+-- Region tbc-eu, 9772 characters, read 2026-10-17 02:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9964,7 +9964,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["anlaa-spineshatter"]=1,
 	["anluna-spineshatter"]=11,
 	["annadingus-thunderstrike"]=11,
-	["annaliesa-thunderstrike"]=1,
+	["annaliesa-thunderstrike"]=20,
 	["annâtwo-spineshatter"]=2,
 	["annèx-spineshatter"]=7,
 	["annoncelight-spineshatter"]=7,
@@ -14377,7 +14377,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["lenfearjkx-spineshatter"]=19,
 	["lenhancement-spineshatter"]=12,
 	["lensine-spineshatter"]=13,
-	["lenti-spineshatter"]=13,
+	["lenti-spineshatter"]=18,
 	["lentitotem-spineshatter"]=12,
 	["lentombed-spineshatter"]=3,
 	["leokadia-spineshatter"]=15,
@@ -14921,7 +14921,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["meleenie-thunderstrike"]=3,
 	["melissad-spineshatter"]=11,
 	["mèllish-spineshatter"]=5,
-	["melodil-spineshatter"]=18,
+	["melodil-spineshatter"]=13,
 	["meloques-spineshatter"]=17,
 	["meloxd-spineshatter"]=2,
 	["melpomena-spineshatter"]=10,
