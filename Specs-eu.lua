@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5348 characters, read 2026-10-17 02:00 PM.
+-- Region eu, 5348 characters, read 2026-10-17 03:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -122,7 +122,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["affix-shekzeer"]=11,
 	["afflictia-shekzeer"]=11,
 	["aflixs-shekzeer"]=21,
-	["afqx-garalon"]=51,
+	["afqx-garalon"]=50,
 	["afrai-norushen"]=80,
 	["afrodiñ-shekzeer"]=10,
 	["afterchi-shekzeer"]=10,
@@ -5592,7 +5592,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bazey-shekzeer"]=15,
 	["bazm-shekzeer"]=2,
 	["bazzey-shekzeer"]=19,
-	["bazzuoker-shekzeer"]=24,
+	["bazzuoker-shekzeer"]=26,
 	["bbacá-shekzeer"]=1,
 	["bbqu-shekzeer"]=2,
 	["bbroblem-shekzeer"]=5,
@@ -6237,7 +6237,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Ðjsvrxzy-shekzeer"]=2,
 	["djwashedup-shekzeer"]=29,
 	["dksecouille-auberdine"]=31,
-	["dkw-gehennas"]=31,
+	["dkw-gehennas"]=8,
 	["dméndez-mirage-raceway"]=15,
 	["dnglo-mirage-raceway"]=1,
 	["dobanda-hoptallus"]=4,
@@ -6258,7 +6258,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["domiino-shekzeer"]=12,
 	["dominant-garalon"]=28,
 	["dominant-shekzeer"]=2,
-	["dominoo-shekzeer"]=21,
+	["dominoo-shekzeer"]=3,
 	["domnox-auberdine"]=20,
 	["dönald-auberdine"]=17,
 	["dondrippiano-shekzeer"]=6,
@@ -6590,7 +6590,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["fookchoo-garalon"]=6,
 	["foreignagent-garalon"]=22,
 	["foreignágent-garalon"]=17,
-	["foreígnagent-garalon"]=3,
+	["foreígnagent-garalon"]=32,
 	["førestgump-garalon"]=14,
 	["formology-auberdine"]=3,
 	["formyself-shekzeer"]=4,
@@ -7260,7 +7260,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["kanaexd-shekzeer"]=11,
 	["karadashian-mirage-raceway"]=9,
 	["karamelado-everlook"]=6,
-	["karan-garalon"]=24,
+	["karan-garalon"]=26,
 	["karasava-shekzeer"]=5,
 	["kariestv-shekzeer"]=6,
 	["karnex-shekzeer"]=0,

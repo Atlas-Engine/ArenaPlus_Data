@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5195 characters, read 2026-10-17 01:59 PM.
+-- Region us, 5195 characters, read 2026-10-17 02:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3776,7 +3776,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["saphub-galakras"]=10,
 	["sapoo-pagle"]=100,
 	["sappinturtle-pagle"]=11,
-	["sarces-immerseus"]=100,
+	["sarces-immerseus"]=101,
 	["saregore-raden"]=11,
 	["sàrëna-pagle"]=41,
 	["sarenity-raden"]=11,
@@ -6028,7 +6028,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dedlyxo-pagle"]=9,
 	["deebonology-pagle"]=8,
 	["dèèdaniels-lei-shen"]=16,
-	["dêêdaniels-lei-shen"]=1,
+	["dêêdaniels-lei-shen"]=11,
 	["deedaniels-raden"]=29,
 	["deedanielss-lei-shen"]=5,
 	["deepwounds-raden"]=7,
@@ -6967,7 +6967,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["hickery-arugal-au"]=14,
 	["hideandhunt-galakras"]=20,
 	["hifukface-raden"]=12,
-	["hifvckface-raden"]=10,
+	["hifvckface-raden"]=4,
 	["highc-galakras"]=22,
 	["highç-galakras"]=27,
 	["hîghc-galakras"]=17,
@@ -8359,7 +8359,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["orgimmar-raden"]=1,
 	["oricalco-galakras"]=0,
 	["originalgank-pagle"]=0,
-	["orkage-immerseus"]=27,
+	["orkage-immerseus"]=4,
 	["oshamabnladn-immerseus"]=22,
 	["oshhii-pagle"]=1,
 	["ositgominola-nazgrim"]=4,
@@ -10108,7 +10108,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["yuvish-lei-shen"]=26,
 	["yuyox-pagle"]=7,
 	["yves-pagle"]=1,
-	["yvlxd-pagle"]=28,
+	["yvlxd-pagle"]=8,
 	["yxyxyxyxyxyx-pagle"]=16,
 	["yyz-raden"]=1,
 	["yzr-pagle"]=17,
