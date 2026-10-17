@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9741 characters, read 2026-10-17 10:59 AM.
+-- Region tbc-eu, 9741 characters, read 2026-10-17 11:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9721,7 +9721,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["adoraz-spineshatter"]=13,
 	["adormidera-spineshatter"]=1,
 	["adpt-spineshatter"]=11,
-	["adríann-thunderstrike"]=5,
+	["adríann-thunderstrike"]=15,
 	["adríanne-thunderstrike"]=2,
 	["adrinamo-spineshatter"]=3,
 	["adshox-spineshatter"]=12,
@@ -9938,7 +9938,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["annèx-spineshatter"]=7,
 	["annoncelight-spineshatter"]=7,
 	["anntón-spineshatter"]=3,
-	["anoréxica-spineshatter"]=4,
+	["anoréxica-spineshatter"]=9,
 	["anotherheal-spineshatter"]=10,
 	["anothertry-spineshatter"]=0,
 	["anoukix-thunderstrike"]=23,
@@ -11105,7 +11105,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["cocojambaa-spineshatter"]=2,
 	["cocojambô-spineshatter"]=9,
 	["codebrown-spineshatter"]=15,
-	["coffebreak-spineshatter"]=13,
+	["coffebreak-spineshatter"]=14,
 	["coffeecup-spineshatter"]=2,
 	["coggers-spineshatter"]=17,
 	["coifcore-spineshatter"]=2,
@@ -12340,7 +12340,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["feelsokay-thunderstrike"]=13,
 	["feelyourpain-spineshatter"]=2,
 	["feetfanatic-spineshatter"]=17,
-	["fehlyr-spineshatter"]=23,
+	["fehlyr-spineshatter"]=12,
 	["feinii-spineshatter"]=1,
 	["fejke-spineshatter"]=9,
 	["fekî-spineshatter"]=3,
@@ -12941,7 +12941,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["hakanslam-spineshatter"]=5,
 	["hâko-spineshatter"]=8,
 	["hakosukä-spineshatter"]=9,
-	["hakosukazx-spineshatter"]=4,
+	["hakosukazx-spineshatter"]=9,
 	["hakuzen-spineshatter"]=5,
 	["halalosztoxd-spineshatter"]=7,
 	["halcyøn-spineshatter"]=5,
@@ -15847,7 +15847,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["Øwpi-spineshatter"]=26,
 	["oxeh-spineshatter"]=12,
 	["Øxel-spineshatter"]=2,
-	["oxidizer-spineshatter"]=2,
+	["oxidizer-spineshatter"]=8,
 	["oxij-spineshatter"]=5,
 	["oxxyguen-spineshatter"]=13,
 	["oxyh-spineshatter"]=2,
@@ -18751,7 +18751,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["wafelka-thunderstrike"]=2,
 	["wagyü-spineshatter"]=15,
 	["wagyuheals-spineshatter"]=1,
-	["wagyumommy-spineshatter"]=4,
+	["wagyumommy-spineshatter"]=9,
 	["wagyuyu-spineshatter"]=1,
 	["wahchii-thunderstrike"]=8,
 	["wahum-spineshatter"]=8,

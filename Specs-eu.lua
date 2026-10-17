@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5343 characters, read 2026-10-17 11:00 AM.
+-- Region eu, 5343 characters, read 2026-10-17 12:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -914,7 +914,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["dacee-everlook"]=10,
 	["daçtera-shekzeer"]=11,
 	["daddylloyd-garalon"]=101,
-	["daddysticks-garalon"]=10,
+	["daddysticks-garalon"]=11,
 	["dadsoldman-shekzeer"]=10,
 	["dadsoldmommy-shekzeer"]=111,
 	["dadynature-shekzeer"]=41,
@@ -6582,7 +6582,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["fookchoo-garalon"]=6,
 	["foreignagent-garalon"]=22,
 	["foreignágent-garalon"]=17,
-	["foreígnagent-garalon"]=32,
+	["foreígnagent-garalon"]=3,
 	["førestgump-garalon"]=14,
 	["formology-auberdine"]=3,
 	["formyself-shekzeer"]=4,
@@ -8659,7 +8659,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["rhonn-shekzeer"]=1,
 	["rhyza-shekzeer"]=1,
 	["riácska-mirage-raceway"]=9,
-	["rickter-everlook"]=15,
+	["rickter-everlook"]=5,
 	["ridahk-shekzeer"]=23,
 	["riemukupla-shekzeer"]=9,
 	["righthook-shekzeer"]=7,
@@ -9434,7 +9434,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["toxicfuz-garalon"]=6,
 	["toxiqkid-shekzeer"]=1,
 	["tpriestlx-shekzeer"]=9,
-	["trachea-shekzeer"]=7,
+	["trachea-shekzeer"]=6,
 	["trackk-auberdine"]=24,
 	["tracye-shekzeer"]=9,
 	["trafålguy-garalon"]=6,
@@ -9568,7 +9568,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["uwucats-shekzeer"]=8,
 	["uwugirluwu-shekzeer"]=6,
 	["væh-shekzeer"]=1,
-	["vaexis-norushen"]=5,
+	["vaexis-norushen"]=15,
 	["vaginclean-shekzeer"]=14,
 	["vagizzle-shekzeer"]=6,
 	["vah-shekzeer"]=15,
