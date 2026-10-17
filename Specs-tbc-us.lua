@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9424 characters, read 2026-10-17 04:58 PM.
+-- Region tbc-us, 9424 characters, read 2026-10-17 05:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9969,7 +9969,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["beefweekwf-nightslayer"]=19,
 	["beefx-dreamscythe"]=2,
 	["beefycream-nightslayer"]=7,
-	["beefyheap-nightslayer"]=7,
+	["beefyheap-nightslayer"]=3,
 	["beefywar-dreamscythe"]=2,
 	["beeku-nightslayer"]=5,
 	["beermcdrinky-nightslayer"]=13,
@@ -10434,7 +10434,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["buckbaclot-dreamscythe"]=4,
 	["bucked-nightslayer"]=1,
 	["bucketthead-nightslayer"]=8,
-	["buckley-nightslayer"]=11,
+	["buckley-nightslayer"]=25,
 	["buckme-dreamscythe"]=12,
 	["buckmild-dreamscythe"]=10,
 	["bucknwild-dreamscythe"]=11,
@@ -15280,7 +15280,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["osteopathic-nightslayer"]=13,
 	["ostic-nightslayer"]=7,
 	["ostidcalisse-nightslayer"]=5,
-	["oszaka-nightslayer"]=6,
+	["oszaka-nightslayer"]=4,
 	["oteq-nightslayer"]=0,
 	["otherbarry-nightslayer"]=9,
 	["otter-nightslayer"]=5,
@@ -16927,7 +16927,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["snowok-nightslayer"]=13,
 	["snowzy-nightslayer"]=4,
 	["snox-nightslayer"]=5,
-	["snuckonline-nightslayer"]=15,
+	["snuckonline-nightslayer"]=17,
 	["snuffadin-dreamscythe"]=11,
 	["snuffpriest-dreamscythe"]=14,
 	["snuux-nightslayer"]=6,
@@ -17703,7 +17703,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["trackpad-nightslayer"]=11,
 	["tradejoe-dreamscythe"]=5,
 	["trakz-nightslayer"]=5,
-	["travelnurse-dreamscythe"]=14,
+	["travelnurse-dreamscythe"]=1,
 	["travs-nightslayer"]=1,
 	["travsham-nightslayer"]=24,
 	["travsp-nightslayer"]=1,
