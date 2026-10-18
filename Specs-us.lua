@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5185 characters, read 2026-10-18 07:59 AM.
+-- Region us, 5185 characters, read 2026-10-18 08:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5196,7 +5196,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["armedknight-pagle"]=7,
 	["aronm-pagle"]=2,
 	["aronuti-lei-shen"]=17,
-	["arrowtwist-raden"]=20,
+	["arrowtwist-raden"]=3,
 	["artanissed-pagle"]=6,
 	["arteniss-raden"]=9,
 	["Årterial-pagle"]=12,
@@ -6905,7 +6905,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["hdn-pagle"]=10,
 	["hdz-arugal-au"]=0,
 	["hea-lei-shen"]=13,
-	["headbusterz-pagle"]=2,
+	["headbusterz-pagle"]=16,
 	["headchef-raden"]=17,
 	["headexploda-pagle"]=7,
 	["headhhunter-galakras"]=16,
@@ -7104,7 +7104,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ifireinside-pagle"]=1,
 	["ifistu-galakras"]=4,
 	["igather-galakras"]=17,
-	["igziluhraet-pagle"]=34,
+	["igziluhraet-pagle"]=29,
 	["ihatemetoo-raden"]=0,
 	["ihavenohand-pagle"]=10,
 	["ihealinufeel-pagle"]=12,
@@ -8165,7 +8165,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["nhyftwó-raden"]=1,
 	["niãr-pagle"]=14,
 	["nichols-pagle"]=16,
-	["nickearldale-galakras"]=18,
+	["nickearldale-galakras"]=20,
 	["nieblita-raden"]=4,
 	["nightm-raden"]=1,
 	["nightmre-lei-shen"]=10,
@@ -9478,7 +9478,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["teamobaggins-galakras"]=12,
 	["teatable-raden"]=1,
 	["technique-raden"]=7,
-	["tectros-pagle"]=23,
+	["tectros-pagle"]=30,
 	["tedespinguee-immerseus"]=4,
 	["teejayc-pagle"]=18,
 	["teejizzleqt-pagle"]=7,

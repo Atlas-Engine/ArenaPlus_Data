@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9408 characters, read 2026-10-18 07:58 AM.
+-- Region tbc-us, 9408 characters, read 2026-10-18 08:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11859,7 +11859,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["esfandina-nightslayer"]=11,
 	["eshie-nightslayer"]=13,
 	["eskashammy-nightslayer"]=10,
-	["eskimokissez-nightslayer"]=15,
+	["eskimokissez-nightslayer"]=17,
 	["eskusemua-nightslayer"]=1,
 	["esoom-nightslayer"]=12,
 	["essentialoil-nightslayer"]=19,
@@ -14139,7 +14139,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["lowbee-nightslayer"]=2,
 	["lowerbeard-nightslayer"]=4,
 	["lowest-nightslayer"]=6,
-	["lowground-nightslayer"]=2,
+	["lowground-nightslayer"]=20,
 	["lowia-nightslayer"]=2,
 	["lowiqmoron-nightslayer"]=1,
 	["lowlifexo-nightslayer"]=5,
@@ -15564,7 +15564,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["poipa-nightslayer"]=7,
 	["pøison-dreamscythe"]=5,
 	["pokan-nightslayer"]=15,
-	["pokeamon-nightslayer"]=5,
+	["pokeamon-nightslayer"]=8,
 	["pokecheeks-dreamscythe"]=5,
 	["pokeljnkv-nightslayer"]=2,
 	["pokemedaddy-dreamscythe"]=8,
@@ -17433,7 +17433,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["tenshock-nightslayer"]=18,
 	["tenthmage-dreamscythe"]=4,
 	["terabyte-nightslayer"]=3,
-	["terpenstein-nightslayer"]=5,
+	["terpenstein-nightslayer"]=8,
 	["terpstwist-nightslayer"]=11,
 	["terthenia-nightslayer"]=18,
 	["testosteroid-nightslayer"]=2,
