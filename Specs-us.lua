@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5185 characters, read 2026-10-18 04:59 PM.
+-- Region us, 5185 characters, read 2026-10-18 05:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5596,7 +5596,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["brr-raden"]=1,
 	["brúcelee-pagle"]=0,
 	["bruceleroyd-pagle"]=10,
-	["brucewaynex-raden"]=3,
+	["brucewaynex-raden"]=20,
 	["bruhphister-pagle"]=2,
 	["bruisednees-raden"]=18,
 	["bruje-immerseus"]=10,
@@ -5652,7 +5652,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["buzlite-lei-shen"]=2,
 	["buzzberry-pagle"]=7,
 	["bzx-arugal-au"]=1,
-	["caazz-lei-shen"]=6,
+	["caazz-lei-shen"]=26,
 	["cacajota-pagle"]=18,
 	["cachondilla-pagle"]=22,
 	["cadafi-pagle"]=3,
@@ -5666,7 +5666,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["calltoarms-pagle"]=16,
 	["calmish-lei-shen"]=10,
 	["camerano-pagle"]=7,
-	["candity-arugal-au"]=20,
+	["candity-arugal-au"]=3,
 	["candykanes-pagle"]=28,
 	["canera-galakras"]=10,
 	["canible-raden"]=31,
@@ -5683,7 +5683,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["cartiermw-raden"]=4,
 	["casaamigos-pagle"]=21,
 	["cashpoorxlm-raden"]=14,
-	["câtâclysm-nazgrim"]=8,
+	["câtâclysm-nazgrim"]=24,
 	["catafracta-pagle"]=30,
 	["catcalling-pagle"]=18,
 	["câtchthïs-raden"]=3,
@@ -8152,7 +8152,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["neverbckdown-nazgrim"]=10,
 	["neverblinkx-pagle"]=1,
 	["nevergiveupx-raden"]=22,
-	["nevreth-pagle"]=18,
+	["nevreth-pagle"]=3,
 	["neworld-pagle"]=7,
 	["ngmi-pagle"]=1,
 	["nguyen-raden"]=17,

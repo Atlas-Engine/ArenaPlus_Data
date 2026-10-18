@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5356 characters, read 2026-10-18 05:00 PM.
+-- Region eu, 5356 characters, read 2026-10-18 06:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -664,7 +664,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["burstday-ook-ook"]=11,
 	["bustér-everlook"]=10,
 	["bustercall-shekzeer"]=11,
-	["bùtcher-shekzeer"]=20,
 	["buttérfly-garalon"]=81,
 	["buxuna-shekzeer"]=40,
 	["buzzey-shekzeer"]=11,
@@ -4197,7 +4196,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["tusneldah-everlook"]=111,
 	["tutentotem-mirage-raceway"]=110,
 	["twanti-hoptallus"]=111,
-	["twarlx-shekzeer"]=11,
+	["twarlx-shekzeer"]=10,
 	["twentyøne-shekzeer"]=11,
 	["twentythirty-shekzeer"]=10,
 	["twodeeps-shekzeer"]=11,
@@ -5672,7 +5671,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bjork-everlook"]=1,
 	["bjutiflova-shekzeer"]=1,
 	["bláázé-everlook"]=15,
-	["blààzè-everlook"]=25,
+	["blààzè-everlook"]=1,
 	["blaazer-shekzeer"]=5,
 	["blackchi-shekzeer"]=7,
 	["blåckfërãlx-everlook"]=3,
@@ -5746,7 +5745,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bøwjøbë-mirage-raceway"]=4,
 	["bowline-shekzeer"]=20,
 	["bôwlognese-shekzeer"]=20,
-	["bowto-hoptallus"]=1,
+	["bowto-hoptallus"]=18,
 	["boyka-norushen"]=6,
 	["bozoblasta-shekzeer"]=4,
 	["bozzclqwn-everlook"]=19,
@@ -5795,7 +5794,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bumbelbé-shekzeer"]=14,
 	["bumbelbeé-shekzeer"]=14,
 	["bumbelbemonk-shekzeer"]=7,
-	["bumbelgnome-shekzeer"]=29,
+	["bumbelgnome-shekzeer"]=7,
 	["bumbelmonk-garalon"]=7,
 	["bumbelorc-garalon"]=29,
 	["bumbelwar-shekzeer"]=25,
@@ -5809,7 +5808,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["burstday-ook-ook"]=15,
 	["bustér-everlook"]=4,
 	["bustercall-shekzeer"]=1,
-	["bùtcher-shekzeer"]=1,
+	["bùtcher-shekzeer"]=0,
 	["buttérfly-garalon"]=2,
 	["buxuna-shekzeer"]=21,
 	["buzzey-shekzeer"]=23,
@@ -8425,7 +8424,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["plåýbót-shekzeer"]=7,
 	["plåýbøt-shekzeer"]=7,
 	["plâybøybûnny-shekzeer"]=4,
-	["playmop-shekzeer"]=23,
+	["playmop-shekzeer"]=17,
 	["plåýßøt-shekzeer"]=7,
 	["plïnki-auberdine"]=8,
 	["plmbeachpete-shekzeer"]=7,
@@ -9210,7 +9209,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["supnerds-shekzeer"]=0,
 	["suprug-shekzeer"]=13,
 	["sur-hoptallus"]=9,
-	["surely-shekzeer"]=4,
+	["surely-shekzeer"]=20,
 	["surmaroute-shekzeer"]=21,
 	["susdk-shekzeer"]=8,
 	["sùsette-shekzeer"]=11,
