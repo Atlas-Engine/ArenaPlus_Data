@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5185 characters, read 2026-10-18 05:59 PM.
+-- Region us, 5185 characters, read 2026-10-18 06:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -568,7 +568,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["bonwick-arugal-au"]=81,
 	["boofed-raden"]=11,
 	["booku-pagle"]=10,
-	["boomantics-pagle"]=41,
+	["boomantics-pagle"]=40,
 	["boomchicken-galakras"]=60,
 	["boomydo-raden"]=41,
 	["böön-pagle"]=50,
@@ -9156,7 +9156,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["slumpirlpov-raden"]=1,
 	["slumplord-raden"]=14,
 	["slumplordx-raden"]=14,
-	["smallrass-pagle"]=7,
+	["smallrass-pagle"]=30,
 	["smalltrain-pagle"]=15,
 	["smartpastry-pagle"]=14,
 	["smashdeez-nazgrim"]=30,
@@ -9679,7 +9679,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["tsukawashime-raden"]=4,
 	["tsunadè-nazgrim"]=9,
 	["ttawdirg-pagle"]=3,
-	["tubalcain-galakras"]=22,
+	["tubalcain-galakras"]=19,
 	["turaoferao-raden"]=5,
 	["turbantime-pagle"]=4,
 	["turbomóist-pagle"]=15,
