@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9781 characters, read 2026-10-17 09:59 PM.
+-- Region tbc-eu, 9781 characters, read 2026-10-17 10:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -15424,7 +15424,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["nayed-thunderstrike"]=3,
 	["nayhz-spineshatter"]=9,
 	["nâyibbukele-spineshatter"]=1,
-	["nayruu-spineshatter"]=24,
+	["nayruu-spineshatter"]=25,
 	["naytched-thunderstrike"]=5,
 	["nazante-thunderstrike"]=6,
 	["nazercist-spineshatter"]=7,
@@ -15477,7 +15477,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["nelhof-spineshatter"]=2,
 	["nelhoff-spineshatter"]=1,
 	["nellsing-spineshatter"]=7,
-	["nelmoh-spineshatter"]=19,
+	["nelmoh-spineshatter"]=3,
 	["nelthari-spineshatter"]=1,
 	["nelton-spineshatter"]=9,
 	["neltron-spineshatter"]=22,
@@ -16427,7 +16427,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["quantx-spineshatter"]=8,
 	["quarreler-thunderstrike"]=25,
 	["quazi-spineshatter"]=17,
-	["qubypala-thunderstrike"]=10,
+	["qubypala-thunderstrike"]=26,
 	["qucox-spineshatter"]=5,
 	["quentus-spineshatter"]=5,
 	["quepop-spineshatter"]=1,
@@ -16751,7 +16751,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["rngmachinè-spineshatter"]=9,
 	["rngprayer-spineshatter"]=11,
 	["rø-spineshatter"]=12,
-	["robagodx-spineshatter"]=19,
+	["robagodx-spineshatter"]=3,
 	["robbenkebab-thunderstrike"]=5,
 	["robbx-spineshatter"]=3,
 	["robcham-spineshatter"]=11,
