@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9408 characters, read 2026-10-18 08:58 AM.
+-- Region tbc-us, 9408 characters, read 2026-10-18 09:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -14630,7 +14630,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["mnkhero-nightslayer"]=1,
 	["moarkish-nightslayer"]=5,
 	["mochaplx-nightslayer"]=5,
-	["mochaplxs-nightslayer"]=1,
+	["mochaplxs-nightslayer"]=12,
 	["mochaplxz-nightslayer"]=24,
 	["mochaplz-nightslayer"]=1,
 	["modain-nightslayer"]=4,
@@ -15187,7 +15187,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ollsk-dreamscythe"]=19,
 	["olly-nightslayer"]=10,
 	["olstabbystab-dreamscythe"]=5,
-	["omaigot-nightslayer"]=5,
+	["omaigot-nightslayer"]=8,
 	["omd-nightslayer"]=19,
 	["omegatran-nightslayer"]=2,
 	["omégis-nightslayer"]=3,
@@ -17519,7 +17519,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["thrakor-nightslayer"]=2,
 	["thrasharzs-nightslayer"]=8,
 	["thrashtolive-nightslayer"]=3,
-	["threefeather-nightslayer"]=7,
+	["threefeather-nightslayer"]=22,
 	["thricetsu-nightslayer"]=5,
 	["throbbingx-nightslayer"]=19,
 	["throbbingxd-nightslayer"]=24,
@@ -17682,7 +17682,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["tradejoe-dreamscythe"]=5,
 	["trakz-nightslayer"]=5,
 	["travelnurse-dreamscythe"]=1,
-	["travs-nightslayer"]=1,
+	["travs-nightslayer"]=14,
 	["travsham-nightslayer"]=24,
 	["travsp-nightslayer"]=1,
 	["travzd-nightslayer"]=3,
@@ -17824,7 +17824,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["tyrkisovjqt-nightslayer"]=7,
 	["tyronegorfnd-dreamscythe"]=13,
 	["tyrsqt-nightslayer"]=13,
-	["uak-nightslayer"]=8,
+	["uak-nightslayer"]=5,
 	["ubeen-dreamscythe"]=13,
 	["ubeen-nightslayer"]=13,
 	["ubqtous-nightslayer"]=7,
