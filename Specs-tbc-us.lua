@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9425 characters, read 2026-10-17 08:58 PM.
+-- Region tbc-us, 9425 characters, read 2026-10-17 09:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10205,7 +10205,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["blöömer-nightslayer"]=7,
 	["bloomlife-nightslayer"]=7,
 	["bloomr-dreamscythe"]=7,
-	["bloomwyn-nightslayer"]=22,
+	["bloomwyn-nightslayer"]=7,
 	["blootfoo-nightslayer"]=1,
 	["blootlock-nightslayer"]=13,
 	["blootstar-nightslayer"]=5,
@@ -11473,7 +11473,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["doodlec-nightslayer"]=15,
 	["doodlysquat-nightslayer"]=22,
 	["doodwar-dreamscythe"]=20,
-	["doofensmurtz-nightslayer"]=10,
+	["doofensmurtz-nightslayer"]=19,
 	["dooges-nightslayer"]=3,
 	["doogsmon-nightslayer"]=10,
 	["dookymcpoopy-nightslayer"]=11,
@@ -11483,7 +11483,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["doomtoreto-dreamscythe"]=13,
 	["doomtwist-dreamscythe"]=11,
 	["doomxxz-nightslayer"]=1,
-	["doopdefuq-nightslayer"]=24,
+	["doopdefuq-nightslayer"]=10,
 	["dooster-nightslayer"]=4,
 	["dopamin-nightslayer"]=5,
 	["dorabeil-nightslayer"]=1,
@@ -12160,7 +12160,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["flerx-nightslayer"]=13,
 	["fleshwallet-nightslayer"]=5,
 	["fletchin-dreamscythe"]=15,
-	["fleurdeleys-nightslayer"]=17,
+	["fleurdeleys-nightslayer"]=15,
 	["flexbringer-dreamscythe"]=11,
 	["flexcash-nightslayer"]=13,
 	["flexcraft-dreamscythe"]=6,
@@ -18008,7 +18008,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["verdancy-dreamscythe"]=7,
 	["verelock-nightslayer"]=16,
 	["verinen-nightslayer"]=5,
-	["verlay-nightslayer"]=14,
+	["verlay-nightslayer"]=1,
 	["vermillion-dreamscythe"]=7,
 	["verrenger-nightslayer"]=5,
 	["verrousx-nightslayer"]=1,
