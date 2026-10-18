@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9782 characters, read 2026-10-18 01:59 AM.
+-- Region tbc-eu, 9782 characters, read 2026-10-18 02:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -13268,7 +13268,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["huszascsuka-spineshatter"]=18,
 	["hutsimbel-thunderstrike"]=25,
 	["huugepenance-spineshatter"]=2,
-	["huzitsia-spineshatter"]=17,
+	["huzitsia-spineshatter"]=2,
 	["hvnx-spineshatter"]=17,
 	["hxck-spineshatter"]=3,
 	["hxtr-spineshatter"]=2,
@@ -13335,7 +13335,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["idjut-thunderstrike"]=1,
 	["idkfourfun-spineshatter"]=1,
 	["idklocka-spineshatter"]=13,
-	["idkmagelover-spineshatter"]=2,
+	["idkmagelover-spineshatter"]=17,
 	["idkresist-spineshatter"]=5,
 	["idkrog-spineshatter"]=3,
 	["idkshort-spineshatter"]=2,
@@ -15632,7 +15632,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["nocihp-spineshatter"]=13,
 	["noctaly-spineshatter"]=10,
 	["noctalz-spineshatter"]=11,
-	["nocthornal-spineshatter"]=1,
+	["nocthornal-spineshatter"]=6,
 	["noemah-spineshatter"]=13,
 	["noemi-spineshatter"]=11,
 	["noemiownzyou-spineshatter"]=5,
