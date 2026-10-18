@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5184 characters, read 2026-10-17 10:54 PM.
+-- Region us, 5184 characters, read 2026-10-17 11:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5490,7 +5490,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["bluntsntits-pagle"]=19,
 	["blunttraumah-immerseus"]=17,
 	["blutrunstig-pagle"]=7,
-	["bmacxvi-raden"]=21,
+	["bmacxvi-raden"]=9,
 	["bobal-galakras"]=4,
 	["bobalx-galakras"]=4,
 	["bobdabull-pagle"]=22,
@@ -6785,7 +6785,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["goofygoofer-raden"]=16,
 	["googleorbs-immerseus"]=4,
 	["googlepain-immerseus"]=3,
-	["goonerqt-pagle"]=21,
+	["goonerqt-pagle"]=9,
 	["goop-arugal-au"]=1,
 	["gooseus-pagle"]=16,
 	["gorack-nazgrim"]=3,
@@ -7717,7 +7717,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["lumantho-pagle"]=7,
 	["lumanwarx-pagle"]=7,
 	["lumapal-pagle"]=16,
-	["luminarìa-pagle"]=2,
+	["luminarìa-pagle"]=16,
 	["lumineth-pagle"]=9,
 	["lunarlass-pagle"]=0,
 	["lunchmeat-nazgrim"]=0,
@@ -7938,7 +7938,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["misprëdictio-nazgrim"]=21,
 	["missatrinni-pagle"]=0,
 	["missmama-galakras"]=5,
-	["missrollings-pagle"]=10,
+	["missrollings-pagle"]=4,
 	["misstotem-pagle"]=15,
 	["missyu-immerseus"]=23,
 	["mistafistuh-pagle"]=10,
@@ -8003,7 +8003,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["moonpieelite-immerseus"]=1,
 	["moonrip-raden"]=12,
 	["moonspellol-galakras"]=14,
-	["møønstár-arugal-au"]=17,
+	["møønstár-arugal-au"]=5,
 	["møonxz-raden"]=5,
 	["møønzx-galakras"]=17,
 	["mootski-pagle"]=18,
@@ -8627,7 +8627,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["räïden-raden"]=22,
 	["raidenx-nazgrim"]=26,
 	["raíín-galakras"]=9,
-	["raijinkumax-pagle"]=19,
+	["raijinkumax-pagle"]=15,
 	["raijjin-pagle"]=19,
 	["rãin-pagle"]=14,
 	["raineclaw-raden"]=5,
@@ -9573,7 +9573,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["tiamak-galakras"]=7,
 	["tiarussel-pagle"]=2,
 	["tictactoetem-nazgrim"]=22,
-	["tigrexwp-raden"]=9,
+	["tigrexwp-raden"]=21,
 	["tikky-raden"]=17,
 	["tiktac-immerseus"]=3,
 	["tilted-galakras"]=7,
