@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9788 characters, read 2026-10-18 09:54 AM.
+-- Region tbc-eu, 9788 characters, read 2026-10-18 10:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10068,7 +10068,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["arrïmadas-spineshatter"]=19,
 	["arrivedercix-spineshatter"]=11,
 	["arrowstâck-spineshatter"]=24,
-	["artexz-spineshatter"]=13,
+	["artexz-spineshatter"]=18,
 	["arthamir-spineshatter"]=10,
 	["arthana-spineshatter"]=8,
 	["arthemi-spineshatter"]=14,
@@ -12576,7 +12576,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["fouls-spineshatter"]=5,
 	["foúr-spineshatter"]=2,
 	["fourxhope-spineshatter"]=13,
-	["foxcønn-thunderstrike"]=22,
+	["foxcønn-thunderstrike"]=15,
 	["føxconn-thunderstrike"]=26,
 	["föxi-thunderstrike"]=9,
 	["föxxî-thunderstrike"]=23,
@@ -14452,7 +14452,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["lilaya-spineshatter"]=1,
 	["lilchich-spineshatter"]=3,
 	["lilcoon-spineshatter"]=9,
-	["lildraxa-spineshatter"]=22,
+	["lildraxa-spineshatter"]=15,
 	["lildwarfu-spineshatter"]=3,
 	["lilhencha-spineshatter"]=6,
 	["lílí-spineshatter"]=14,
@@ -15939,7 +15939,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["painbloom-spineshatter"]=2,
 	["paingeilz-spineshatter"]=3,
 	["painkill-spineshatter"]=3,
-	["pàinkiller-spineshatter"]=5,
+	["pàinkiller-spineshatter"]=15,
 	["paînkillerwl-spineshatter"]=13,
 	["paînkillerx-spineshatter"]=9,
 	["paînkillerz-spineshatter"]=2,
@@ -17634,7 +17634,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["sozforthis-spineshatter"]=3,
 	["sozyy-spineshatter"]=3,
 	["spacebar-spineshatter"]=9,
-	["spacebutt-spineshatter"]=9,
+	["spacebutt-spineshatter"]=4,
 	["spacecreated-spineshatter"]=10,
 	["spaceflow-spineshatter"]=11,
 	["spacegoatx-spineshatter"]=11,
@@ -18783,7 +18783,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["vitziozosx-spineshatter"]=9,
 	["vivalamexica-spineshatter"]=13,
 	["vivalavulva-thunderstrike"]=7,
-	["vîvio-spineshatter"]=25,
+	["vîvio-spineshatter"]=24,
 	["vixuz-spineshatter"]=24,
 	["vladich-spineshatter"]=11,
 	["vlper-spineshatter"]=3,

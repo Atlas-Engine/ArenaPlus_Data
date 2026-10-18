@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5349 characters, read 2026-10-18 10:00 AM.
+-- Region eu, 5349 characters, read 2026-10-18 11:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -888,7 +888,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["crystalfrost-norushen"]=51,
 	["crystall-ook-ook"]=11,
 	["crystalsteal-shekzeer"]=10,
-	["cubbï-shekzeer"]=11,
+	["cubbï-shekzeer"]=10,
 	["cuccó-garalon"]=20,
 	["cuckmycoocon-shekzeer"]=11,
 	["cuckquatre-shekzeer"]=11,
@@ -1693,7 +1693,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["hentaimama-shekzeer"]=41,
 	["héra-shekzeer"]=11,
 	["herja-shekzeer"]=41,
-	["herjâ-shekzeer"]=11,
 	["hermán-shekzeer"]=10,
 	["hermenigilda-shekzeer"]=11,
 	["hetty-shekzeer"]=31,
@@ -5839,7 +5838,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["carrisar-everlook"]=3,
 	["carrisarr-everlook"]=1,
 	["carrymedic-shekzeer"]=5,
-	["cartethiya-auberdine"]=25,
+	["cartethiya-auberdine"]=1,
 	["cartmanchef-shekzeer"]=6,
 	["caseyryback-shekzeer"]=2,
 	["cash-shekzeer"]=16,
@@ -5995,7 +5994,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["controlp-norushen"]=5,
 	["controlr-norushen"]=24,
 	["controlww-norushen"]=1,
-	["controlx-norushen"]=14,
+	["controlx-norushen"]=4,
 	["coors-shekzeer"]=9,
 	["corléonne-auberdine"]=6,
 	["corleonnee-auberdine"]=22,
@@ -6822,7 +6821,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["hassbringer-shekzeer"]=1,
 	["hassutassu-shekzeer"]=21,
 	["hasuni-shekzeer"]=9,
-	["hasunimi-hoptallus"]=8,
+	["hasunimi-hoptallus"]=31,
 	["haudruff-mirage-raceway"]=1,
 	["haugnat-everlook"]=5,
 	["hauq-shekzeer"]=0,
@@ -6882,7 +6881,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["hentaimama-shekzeer"]=11,
 	["héra-shekzeer"]=9,
 	["herja-shekzeer"]=21,
-	["herjâ-shekzeer"]=5,
+	["herjâ-shekzeer"]=0,
 	["hermán-shekzeer"]=15,
 	["hermenigilda-shekzeer"]=1,
 	["hetty-shekzeer"]=16,
@@ -7877,7 +7876,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["mollylolli-everlook"]=9,
 	["mollylolli-ook-ook"]=15,
 	["momeny-norushen"]=17,
-	["momenyx-norushen"]=15,
+	["momenyx-norushen"]=5,
 	["momequ-norushen"]=2,
 	["momine-shekzeer"]=3,
 	["momíne-shekzeer"]=3,
@@ -9881,7 +9880,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["xlader-shekzeer"]=2,
 	["xladerinø-shekzeer"]=9,
 	["xladérz-shekzeer"]=1,
-	["xladerzf-shekzeer"]=6,
+	["xladerzf-shekzeer"]=7,
 	["xladerzg-shekzeer"]=1,
 	["xmm-shekzeer"]=4,
 	["xnavis-hoptallus"]=17,

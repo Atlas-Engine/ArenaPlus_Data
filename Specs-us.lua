@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5185 characters, read 2026-10-18 09:59 AM.
+-- Region us, 5187 characters, read 2026-10-18 10:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -591,6 +591,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["bowflexy-raden"]=11,
 	["bowhog-galakras"]=80,
 	["bowjakkson-immerseus"]=20,
+	["bowjayc-pagle"]=250,
 	["bowjo-lei-shen"]=11,
 	["bowjyden-pagle"]=20,
 	["bowlbasaur-pagle"]=21,
@@ -621,7 +622,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["bringindeath-galakras"]=20,
 	["brisgerzap-immerseus"]=20,
 	["broadtip-galakras"]=80,
-	["brocodez-raden"]=81,
 	["brojax-pagle"]=20,
 	["broleebro-raden"]=111,
 	["bronzeagebud-raden"]=40,
@@ -1023,6 +1023,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["deadpal-galakras"]=101,
 	["deadpoolwins-pagle"]=20,
 	["deadshottz-galakras"]=20,
+	["deanslist-raden"]=11,
 	["deathbringer-lei-shen"]=10,
 	["deathgrips-raden"]=11,
 	["deathmoves-galakras"]=20,
@@ -3440,6 +3441,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["pristinepotz-nazgrim"]=10,
 	["proacker-pagle"]=250,
 	["promiseland-immerseus"]=100,
+	["prophecie-pagle"]=111,
 	["prosecutorfn-raden"]=11,
 	["protektive-pagle"]=11,
 	["protmain-raden"]=10,
@@ -5547,6 +5549,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["bowflexy-raden"]=3,
 	["bowhog-galakras"]=3,
 	["bowjakkson-immerseus"]=3,
+	["bowjayc-pagle"]=18,
 	["bowjo-lei-shen"]=3,
 	["bowjyden-pagle"]=3,
 	["bowlbasaur-pagle"]=34,
@@ -5580,7 +5583,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["brisgerzap-immerseus"]=22,
 	["broadtip-galakras"]=18,
 	["brocodex-raden"]=0,
-	["brocodez-raden"]=21,
 	["brojax-pagle"]=7,
 	["broleebro-raden"]=15,
 	["bromiro-pagle"]=0,
@@ -6002,6 +6004,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["deadpal-galakras"]=16,
 	["deadpoolwins-pagle"]=6,
 	["deadshottz-galakras"]=3,
+	["deanslist-raden"]=21,
 	["deathbreaker-raden"]=0,
 	["deathbringer-lei-shen"]=6,
 	["deathgrips-raden"]=6,
@@ -6397,7 +6400,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["erimp-pagle"]=16,
 	["erroo-raden"]=14,
 	["errör-raden"]=24,
-	["esad-immerseus"]=20,
+	["esad-immerseus"]=3,
 	["escanorzx-pagle"]=16,
 	["escarch-pagle"]=6,
 	["escazaro-raden"]=7,
@@ -8539,6 +8542,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["pristinepotz-nazgrim"]=25,
 	["proacker-pagle"]=3,
 	["promiseland-immerseus"]=16,
+	["prophecie-pagle"]=19,
 	["prosecutorfn-raden"]=7,
 	["protektive-pagle"]=7,
 	["protmain-raden"]=16,

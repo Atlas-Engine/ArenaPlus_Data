@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9408 characters, read 2026-10-18 09:58 AM.
+-- Region tbc-us, 9408 characters, read 2026-10-18 10:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12266,7 +12266,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["frow-nightslayer"]=18,
 	["froxhen-nightslayer"]=1,
 	["frozencone-nightslayer"]=4,
-	["frozenondvd-nightslayer"]=6,
+	["frozenondvd-nightslayer"]=4,
 	["frozenveg-nightslayer"]=6,
 	["frozenvirgin-nightslayer"]=4,
 	["fruckthemall-nightslayer"]=15,
@@ -14046,7 +14046,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["linorchid-nightslayer"]=7,
 	["linshift-nightslayer"]=3,
 	["lion-nightslayer"]=5,
-	["lionette-dreamscythe"]=2,
+	["lionette-dreamscythe"]=18,
 	["lipopx-nightslayer"]=8,
 	["liquidbrown-nightslayer"]=2,
 	["liquidlux-dreamscythe"]=1,
@@ -17806,7 +17806,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["twopoundturd-nightslayer"]=2,
 	["twosecdelay-dreamscythe"]=2,
 	["twosenjoyer-nightslayer"]=1,
-	["twowatersthx-nightslayer"]=8,
+	["twowatersthx-nightslayer"]=5,
 	["txpe-nightslayer"]=19,
 	["tybëros-nightslayer"]=15,
 	["tycat-nightslayer"]=7,
