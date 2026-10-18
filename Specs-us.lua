@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5187 characters, read 2026-10-18 02:59 PM.
+-- Region us, 5187 characters, read 2026-10-18 03:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4216,7 +4216,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["strungupjig-immerseus"]=20,
 	["stticka-pagle"]=11,
 	["studbolt-lei-shen"]=11,
-	["stungød-pagle"]=10,
+	["stungød-pagle"]=11,
 	["stwongspell-pagle"]=50,
 	["stylles-raden"]=11,
 	["subàti-pagle"]=50,
@@ -5961,9 +5961,9 @@ ns.SPECS_BY_REGION["us"] = {
 	["danyshadow-raden"]=21,
 	["Ðark-nazgrim"]=6,
 	["darkavengerr-pagle"]=28,
-	["darkcurador-nazgrim"]=13,
+	["darkcurador-nazgrim"]=21,
 	["darkdankdope-raden"]=10,
-	["darkdeamon-pagle"]=1,
+	["darkdeamon-pagle"]=11,
 	["darkdknight-pagle"]=6,
 	["darkestcyn-galakras"]=28,
 	["darkferocity-pagle"]=21,
@@ -6292,7 +6292,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dvein-pagle"]=1,
 	["dvz-pagle"]=7,
 	["dweebz-pagle"]=22,
-	["dwei-pagle"]=16,
+	["dwei-pagle"]=32,
 	["dwells-raden"]=0,
 	["dwl-raden"]=5,
 	["dyingwhale-pagle"]=3,
@@ -9371,13 +9371,13 @@ ns.SPECS_BY_REGION["us"] = {
 	["stticka-pagle"]=1,
 	["studbolt-lei-shen"]=1,
 	["stuffyknows-raden"]=0,
-	["stungød-pagle"]=29,
+	["stungød-pagle"]=14,
 	["stwongspell-pagle"]=28,
 	["stylles-raden"]=10,
 	["subàti-pagle"]=9,
 	["subdub-nazgrim"]=34,
 	["subparzero-raden"]=11,
-	["subzeroiq-raden"]=11,
+	["subzeroiq-raden"]=1,
 	["sucros-pagle"]=10,
 	["sugâr-raden"]=2,
 	["sugarbear-raden"]=1,
@@ -9403,7 +9403,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["supermongo-pagle"]=7,
 	["superstikkyy-pagle"]=29,
 	["supersweat-pagle"]=7,
-	["survivorzx-raden"]=16,
+	["survivorzx-raden"]=2,
 	["sushibanks-pagle"]=7,
 	["sushichi-galakras"]=4,
 	["sushimaki-galakras"]=7,
