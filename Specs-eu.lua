@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5355 characters, read 2026-10-17 07:00 PM.
+-- Region eu, 5355 characters, read 2026-10-17 08:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -340,7 +340,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["atlasx-shekzeer"]=10,
 	["atmobile-shekzeer"]=10,
 	["attis-norushen"]=20,
-	["audioslave-shekzeer"]=30,
+	["audioslave-shekzeer"]=31,
 	["augsburg-shekzeer"]=11,
 	["aultrasalt-shekzeer"]=11,
 	["auredian-mirage-raceway"]=111,
@@ -1732,7 +1732,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["holydayhoe-ook-ook"]=11,
 	["holygeneral-shekzeer"]=11,
 	["holygodx-auberdine"]=11,
-	["holyknightlx-shekzeer"]=11,
+	["holyknightlx-shekzeer"]=10,
 	["holylightx-shekzeer"]=11,
 	["holymarry-shekzeer"]=11,
 	["holyneff-shekzeer"]=10,
@@ -5477,10 +5477,10 @@ ns.SPECS_BY_REGION["eu"] = {
 	["atmobile-shekzeer"]=2,
 	["atropa-shekzeer"]=0,
 	["attis-norushen"]=14,
-	["audioslave-shekzeer"]=16,
+	["audioslave-shekzeer"]=19,
 	["augsburg-shekzeer"]=6,
 	["aultrasalt-shekzeer"]=23,
-	["auredian-mirage-raceway"]=15,
+	["auredian-mirage-raceway"]=5,
 	["aureliavid-auberdine"]=3,
 	["auryen-mirage-raceway"]=4,
 	["auslogics-shekzeer"]=2,
@@ -6537,7 +6537,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["fengmoon-garalon"]=5,
 	["fentanyler-garalon"]=9,
 	["fentmaster-shekzeer"]=4,
-	["fergußs-everlook"]=34,
+	["fergußs-everlook"]=26,
 	["ferizelius-shekzeer"]=20,
 	["ferlaz-shekzeer"]=11,
 	["fernandoó-shekzeer"]=8,
@@ -8436,7 +8436,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["plåýbót-shekzeer"]=7,
 	["plåýbøt-shekzeer"]=7,
 	["plâybøybûnny-shekzeer"]=4,
-	["playmop-shekzeer"]=17,
+	["playmop-shekzeer"]=23,
 	["plåýßøt-shekzeer"]=7,
 	["plïnki-auberdine"]=8,
 	["plmbeachpete-shekzeer"]=7,
@@ -9221,7 +9221,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["sùsette-shekzeer"]=11,
 	["sushunt-shekzeer"]=14,
 	["susker-shekzeer"]=15,
-	["susmonk-shekzeer"]=7,
+	["susmonk-shekzeer"]=29,
 	["susrog-shekzeer"]=24,
 	["sussham-shekzeer"]=19,
 	["susubibi-shekzeer"]=4,
