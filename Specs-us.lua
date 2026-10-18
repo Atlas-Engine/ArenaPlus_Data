@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5187 characters, read 2026-10-18 01:59 PM.
+-- Region us, 5187 characters, read 2026-10-18 02:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6570,7 +6570,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["flowpal-pagle"]=2,
 	["flubbynubs-raden"]=26,
 	["flyingnite-pagle"]=16,
-	["flynn-nazgrim"]=10,
+	["flynn-nazgrim"]=4,
 	["fngrplay-galakras"]=5,
 	["fogoflife-pagle"]=13,
 	["foldedsocks-raden"]=2,
@@ -8885,7 +8885,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["sanguinious-lei-shen"]=7,
 	["sàngüinius-pagle"]=2,
 	["saphiiry-galakras"]=12,
-	["saphub-galakras"]=29,
+	["saphub-galakras"]=14,
 	["saplight-galakras"]=0,
 	["sapoo-pagle"]=14,
 	["sappinturtle-pagle"]=14,
@@ -8912,7 +8912,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["savsceo-pagle"]=7,
 	["savvy-immerseus"]=1,
 	["saxagebites-pagle"]=17,
-	["saxagelee-pagle"]=10,
+	["saxagelee-pagle"]=27,
 	["saydar-raden"]=1,
 	["sayuka-raden"]=0,
 	["sazzieu-raden"]=7,
