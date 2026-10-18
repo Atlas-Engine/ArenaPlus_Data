@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5346 characters, read 2026-10-18 06:00 AM.
+-- Region eu, 5346 characters, read 2026-10-18 07:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1677,7 +1677,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["hêktør-ook-ook"]=10,
 	["helia-shekzeer"]=41,
 	["heliocentric-garalon"]=20,
-	["heliospheric-shekzeer"]=11,
 	["hèlja-shekzeer"]=41,
 	["hellacash-shekzeer"]=10,
 	["hêllfîre-everlook"]=11,
@@ -2162,6 +2161,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["kokw-mirage-raceway"]=11,
 	["kokz-shekzeer"]=11,
 	["kolomoinheal-auberdine"]=11,
+	["komboi-shekzeer"]=40,
 	["komunistmark-shekzeer"]=11,
 	["konataizumii-shekzeer"]=11,
 	["konbanwâ-ook-ook"]=51,
@@ -6864,7 +6864,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["hêktør-ook-ook"]=1,
 	["helia-shekzeer"]=9,
 	["heliocentric-garalon"]=16,
-	["heliospheric-shekzeer"]=2,
 	["hèlja-shekzeer"]=6,
 	["hellacash-shekzeer"]=8,
 	["hêllfîre-everlook"]=5,
@@ -7373,6 +7372,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["kokw-mirage-raceway"]=17,
 	["kokz-shekzeer"]=2,
 	["kolomoinheal-auberdine"]=7,
+	["komboi-shekzeer"]=11,
 	["komunistmark-shekzeer"]=1,
 	["konataizumii-shekzeer"]=8,
 	["konbanwâ-ook-ook"]=9,
@@ -7585,7 +7585,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["loraden-shekzeer"]=14,
 	["loradenn-shekzeer"]=5,
 	["lorcmanaudou-auberdine"]=16,
-	["lorinser-shekzeer"]=1,
+	["lorinser-shekzeer"]=25,
 	["lorjana-shekzeer"]=2,
 	["lorry-shekzeer"]=1,
 	["loseandicba-ook-ook"]=20,
@@ -8309,7 +8309,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["pachomius-mirage-raceway"]=15,
 	["pagerodzida-norushen"]=4,
 	["pähkinä-hoptallus"]=26,
-	["painwatchery-shekzeer"]=1,
+	["painwatchery-shekzeer"]=25,
 	["pakisman-garalon"]=15,
 	["pakorabani-shekzeer"]=1,
 	["paladingma-norushen"]=15,

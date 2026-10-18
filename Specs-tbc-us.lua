@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9406 characters, read 2026-10-18 05:58 AM.
+-- Region tbc-us, 9406 characters, read 2026-10-18 06:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9553,7 +9553,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["angrypigboy-nightslayer"]=2,
 	["angustidens-dreamscythe"]=3,
 	["anien-dreamscythe"]=2,
-	["animalsong-nightslayer"]=21,
+	["animalsong-nightslayer"]=15,
 	["animocity-nightslayer"]=7,
 	["animz-nightslayer"]=7,
 	["anirox-nightslayer"]=8,
@@ -11167,7 +11167,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["datgalbig-nightslayer"]=1,
 	["dature-dreamscythe"]=18,
 	["daub-nightslayer"]=8,
-	["dauntleastx-nightslayer"]=1,
+	["dauntleastx-nightslayer"]=14,
 	["daveedz-nightslayer"]=5,
 	["davelol-nightslayer"]=2,
 	["daviddblaine-nightslayer"]=13,
@@ -11463,7 +11463,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["doomtoreto-dreamscythe"]=13,
 	["doomtwist-dreamscythe"]=11,
 	["doomxxz-nightslayer"]=1,
-	["doopdefuq-nightslayer"]=10,
+	["doopdefuq-nightslayer"]=24,
 	["dooster-nightslayer"]=4,
 	["dopamin-nightslayer"]=5,
 	["dorabeil-nightslayer"]=1,
@@ -12423,7 +12423,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["gharak-nightslayer"]=2,
 	["ghazra-nightslayer"]=18,
 	["ghengiskaan-dreamscythe"]=19,
-	["ghettotastic-nightslayer"]=14,
+	["ghettotastic-nightslayer"]=1,
 	["ghidal-nightslayer"]=10,
 	["ghleitx-nightslayer"]=16,
 	["ghostphase-nightslayer"]=2,
@@ -14548,7 +14548,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["milktables-nightslayer"]=12,
 	["milkypaw-dreamscythe"]=7,
 	["milocktwunis-nightslayer"]=16,
-	["milockunis-nightslayer"]=13,
+	["milockunis-nightslayer"]=16,
 	["milrex-nightslayer"]=1,
 	["mimilaouo-nightslayer"]=16,
 	["min-nightslayer"]=2,
@@ -14983,7 +14983,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["nobazzac-nightslayer"]=19,
 	["nobss-nightslayer"]=1,
 	["nobunad-nightslayer"]=6,
-	["nobzz-nightslayer"]=6,
+	["nobzz-nightslayer"]=4,
 	["nockery-nightslayer"]=25,
 	["noctìs-nightslayer"]=11,
 	["noctreign-nightslayer"]=4,
@@ -15161,7 +15161,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ojee-nightslayer"]=6,
 	["okaybuddy-nightslayer"]=13,
 	["oku-nightslayer"]=14,
-	["okusang-nightslayer"]=24,
+	["okusang-nightslayer"]=10,
 	["olchungus-nightslayer"]=6,
 	["oldandslow-nightslayer"]=2,
 	["oldbc-nightslayer"]=19,
@@ -16783,7 +16783,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["slabsolutely-nightslayer"]=2,
 	["slamchamber-nightslayer"]=13,
 	["slammedenuff-nightslayer"]=23,
-	["slammy-nightslayer"]=4,
+	["slammy-nightslayer"]=6,
 	["slammyx-nightslayer"]=6,
 	["slammyz-nightslayer"]=4,
 	["slangind-nightslayer"]=1,
