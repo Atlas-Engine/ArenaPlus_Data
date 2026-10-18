@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5184 characters, read 2026-10-17 11:59 PM.
+-- Region us, 5184 characters, read 2026-10-18 12:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5262,7 +5262,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["azulx-raden"]=0,
 	["azurá-pagle"]=28,
 	["azzenjoyerxd-galakras"]=3,
-	["babybliss-pagle"]=9,
+	["babybliss-pagle"]=21,
 	["babycool-raden"]=0,
 	["babyturd-pagle"]=12,
 	["bacatranx-pagle"]=18,
@@ -5831,7 +5831,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["conjrexcuses-pagle"]=1,
 	["constantinej-raden"]=13,
 	["coochiemnstr-raden"]=1,
-	["coorsbanq-galakras"]=18,
+	["coorsbanq-galakras"]=20,
 	["cooterflute-raden"]=7,
 	["cooterman-raden"]=10,
 	["cootrcrushr-nazgrim"]=14,
@@ -6166,7 +6166,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["domoalis-pagle"]=18,
 	["donameagle-galakras"]=7,
 	["donarnds-nazgrim"]=16,
-	["donceno-nazgrim"]=14,
+	["donceno-nazgrim"]=29,
 	["donchi-raden"]=4,
 	["dondemarco-pagle"]=19,
 	["dønt-galakras"]=29,
@@ -8248,7 +8248,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["nützach-lei-shen"]=13,
 	["nutzs-raden"]=6,
 	["nutzss-raden"]=6,
-	["nuvenya-pagle"]=4,
+	["nuvenya-pagle"]=10,
 	["nüwa-pagle"]=1,
 	["nuzzles-raden"]=5,
 	["nvmxxtxx-raden"]=4,
@@ -8338,7 +8338,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["orcz-pagle"]=7,
 	["ordanary-pagle"]=27,
 	["ordinary-galakras"]=5,
-	["orgian-pagle"]=17,
+	["orgian-pagle"]=5,
 	["orgimmar-raden"]=1,
 	["oricalco-galakras"]=0,
 	["originalgank-pagle"]=0,
@@ -8603,7 +8603,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["qwes-raden"]=3,
 	["qwop-raden"]=0,
 	["qzw-galakras"]=4,
-	["raasclaat-pagle"]=12,
+	["raasclaat-pagle"]=5,
 	["rabager-grobbulus"]=19,
 	["rabblerouse-pagle"]=0,
 	["rabidwolf-pagle"]=19,
@@ -9279,7 +9279,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["spóöòky-pagle"]=14,
 	["spóöòkyqûeen-pagle"]=4,
 	["spq-pagle"]=0,
-	["spreadpres-pagle"]=17,
+	["spreadpres-pagle"]=5,
 	["spudbudz-pagle"]=21,
 	["spuntville-pagle"]=22,
 	["sqntzi-pagle"]=17,

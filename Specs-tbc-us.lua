@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9397 characters, read 2026-10-17 11:58 PM.
+-- Region tbc-us, 9397 characters, read 2026-10-18 12:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12371,7 +12371,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["gemzi-nightslayer"]=1,
 	["genericw-nightslayer"]=2,
 	["genevievch-dreamscythe"]=18,
-	["gêngar-nightslayer"]=8,
+	["gêngar-nightslayer"]=5,
 	["gengiscon-nightslayer"]=5,
 	["geniusbeast-nightslayer"]=7,
 	["gennisp-nightslayer"]=1,
@@ -12781,7 +12781,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["heavyanchor-nightslayer"]=10,
 	["heavycup-nightslayer"]=4,
 	["heckinbork-dreamscythe"]=10,
-	["hedgefundguy-nightslayer"]=4,
+	["hedgefundguy-nightslayer"]=6,
 	["heebhunter-nightslayer"]=15,
 	["hëff-nightslayer"]=3,
 	["heibaihua-nightslayer"]=7,
@@ -12817,7 +12817,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["héroburst-nightslayer"]=6,
 	["herroism-nightslayer"]=10,
 	["hershei-dreamscythe"]=2,
-	["hersheyblast-nightslayer"]=4,
+	["hersheyblast-nightslayer"]=6,
 	["heway-dreamscythe"]=2,
 	["hexagramx-nightslayer"]=2,
 	["hexastrike-nightslayer"]=24,
@@ -13784,7 +13784,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["kroun-nightslayer"]=5,
 	["krovsky-dreamscythe"]=4,
 	["kroyweezy-nightslayer"]=4,
-	["krsmatic-nightslayer"]=13,
+	["krsmatic-nightslayer"]=23,
 	["krsmaticx-nightslayer"]=24,
 	["krump-nightslayer"]=25,
 	["kruni-nightslayer"]=2,
@@ -17125,7 +17125,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["stokades-dreamscythe"]=11,
 	["stokes-nightslayer"]=2,
 	["stokespp-nightslayer"]=9,
-	["stokeswf-nightslayer"]=24,
+	["stokeswf-nightslayer"]=10,
 	["stokeszerk-nightslayer"]=2,
 	["stokex-nightslayer"]=3,
 	["stokez-nightslayer"]=2,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9781 characters, read 2026-10-17 11:59 PM.
+-- Region tbc-eu, 9782 characters, read 2026-10-18 12:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1550,6 +1550,7 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["cowdog-thunderstrike"]=61,
 	["cowmoomilla-spineshatter"]=61,
 	["cowralina-spineshatter"]=61,
+	["cowrpze-spineshatter"]=60,
 	["coygx-spineshatter"]=50,
 	["cozyfrog-spineshatter"]=21,
 	["cozypanda-spineshatter"]=61,
@@ -11222,6 +11223,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["cowdog-thunderstrike"]=1,
 	["cowmoomilla-spineshatter"]=1,
 	["cowralina-spineshatter"]=1,
+	["cowrpze-spineshatter"]=1,
 	["coygx-spineshatter"]=13,
 	["cozyfrog-spineshatter"]=16,
 	["cozypanda-spineshatter"]=1,
@@ -11632,7 +11634,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["Ðimitrov-spineshatter"]=5,
 	["Ðimma-spineshatter"]=3,
 	["dimork-spineshatter"]=5,
-	["dinaja-thunderstrike"]=25,
+	["dinaja-thunderstrike"]=24,
 	["dingyo-spineshatter"]=9,
 	["diodexy-spineshatter"]=2,
 	["diondog-spineshatter"]=25,
@@ -13957,7 +13959,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["kelayu-thunderstrike"]=1,
 	["keldor-thunderstrike"]=5,
 	["kelera-spineshatter"]=26,
-	["keljuk-spineshatter"]=26,
+	["keljuk-spineshatter"]=10,
 	["kellerr-thunderstrike"]=2,
 	["kelmiveli-spineshatter"]=3,
 	["kelrhance-spineshatter"]=12,
@@ -17877,7 +17879,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["sugarhoe-spineshatter"]=7,
 	["sugatha-spineshatter"]=9,
 	["sùggy-spineshatter"]=11,
-	["sugkhan-spineshatter"]=12,
+	["sugkhan-spineshatter"]=11,
 	["sugpope-spineshatter"]=2,
 	["suippi-spineshatter"]=5,
 	["sulfeon-spineshatter"]=10,
