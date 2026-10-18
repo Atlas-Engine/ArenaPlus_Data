@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5356 characters, read 2026-10-18 04:00 PM.
+-- Region eu, 5356 characters, read 2026-10-18 05:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6975,13 +6975,13 @@ ns.SPECS_BY_REGION["eu"] = {
 	["hyped-shekzeer"]=2,
 	["hypertouch-shekzeer"]=1,
 	["hypnodotcum-shekzeer"]=17,
-	["hypnogodz-shekzeer"]=11,
+	["hypnogodz-shekzeer"]=3,
 	["hysel-garalon"]=15,
 	["hyxro-mirage-raceway"]=9,
 	["iamcurt-mirage-raceway"]=9,
 	["iaminafullcc-shekzeer"]=3,
 	["iamsmeagol-hoptallus"]=17,
-	["iamyzis-mirage-raceway"]=16,
+	["iamyzis-mirage-raceway"]=13,
 	["ibitha-hoptallus"]=6,
 	["ibiza-mirage-raceway"]=1,
 	["icanfly-everlook"]=1,
@@ -7003,7 +7003,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["igrïs-shekzeer"]=12,
 	["ihavenobrain-shekzeer"]=0,
 	["ihavetopoo-shekzeer"]=8,
-	["ihnat-shekzeer"]=9,
+	["ihnat-shekzeer"]=12,
 	["iililli-mirage-raceway"]=8,
 	["ikarok-everlook"]=21,
 	["ikillhordes-hoptallus"]=11,
@@ -7537,7 +7537,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["lightavenger-shekzeer"]=5,
 	["lightgeneral-shekzeer"]=9,
 	["lightpaladin-garalon"]=15,
-	["lilbroke-shekzeer"]=4,
+	["lilbroke-shekzeer"]=20,
 	["lilcaprice-everlook"]=6,
 	["lilîthia-auberdine"]=2,
 	["liljohnson-shekzeer"]=16,
@@ -7926,7 +7926,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["mørbidængel-shekzeer"]=2,
 	["mòrd-everlook"]=7,
 	["mórdos-everlook"]=3,
-	["morenemsemmi-shekzeer"]=16,
+	["morenemsemmi-shekzeer"]=13,
 	["morepenet-hoptallus"]=1,
 	["morningafter-norushen"]=12,
 	["moroez-shekzeer"]=24,
@@ -7976,7 +7976,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["mythix-garalon"]=24,
 	["mythrugu-shekzeer"]=4,
 	["mythrugun-garalon"]=4,
-	["mythrugun-shekzeer"]=20,
+	["mythrugun-shekzeer"]=4,
 	["mywayz-mirage-raceway"]=2,
 	["mztx-shekzeer"]=20,
 	["nabek-shekzeer"]=13,
@@ -8812,7 +8812,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["satåna-garalon"]=4,
 	["satåna-shekzeer"]=4,
 	["såtanå-shekzeer"]=4,
-	["satånaz-shekzeer"]=14,
+	["satånaz-shekzeer"]=4,
 	["satåntrapbot-shekzeer"]=4,
 	["satara-shekzeer"]=26,
 	["satazhia-shekzeer"]=12,
@@ -9402,7 +9402,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["tline-shekzeer"]=0,
 	["tlxdx-shekzeer"]=3,
 	["tlxx-garalon"]=3,
-	["toatz-shekzeer"]=8,
+	["toatz-shekzeer"]=31,
 	["tobilock-shekzeer"]=17,
 	["toebee-shekzeer"]=1,
 	["toiletchamx-shekzeer"]=13,
@@ -9584,7 +9584,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["uwucats-shekzeer"]=8,
 	["uwugirluwu-shekzeer"]=6,
 	["væh-shekzeer"]=1,
-	["vaexis-norushen"]=15,
+	["vaexis-norushen"]=5,
 	["vaginclean-shekzeer"]=14,
 	["vagizzle-shekzeer"]=6,
 	["vah-shekzeer"]=15,
