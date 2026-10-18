@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9425 characters, read 2026-10-17 07:58 PM.
+-- Region tbc-us, 9425 characters, read 2026-10-17 08:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11483,7 +11483,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["doomtoreto-dreamscythe"]=13,
 	["doomtwist-dreamscythe"]=11,
 	["doomxxz-nightslayer"]=1,
-	["doopdefuq-nightslayer"]=10,
+	["doopdefuq-nightslayer"]=24,
 	["dooster-nightslayer"]=4,
 	["dopamin-nightslayer"]=5,
 	["dorabeil-nightslayer"]=1,
@@ -12334,7 +12334,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["gaav-nightslayer"]=1,
 	["gaavqt-nightslayer"]=16,
 	["gabry-nightslayer"]=2,
-	["gaea-nightslayer"]=22,
+	["gaea-nightslayer"]=3,
 	["gaealight-nightslayer"]=4,
 	["gaekpoong-nightslayer"]=10,
 	["gaenari-nightslayer"]=14,
@@ -12767,7 +12767,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["harmac-nightslayer"]=1,
 	["harmes-nightslayer"]=5,
 	["harper-nightslayer"]=15,
-	["harq-nightslayer"]=1,
+	["harq-nightslayer"]=14,
 	["harrybeav-nightslayer"]=1,
 	["hashixd-nightslayer"]=18,
 	["hashnaps-dreamscythe"]=19,
@@ -15303,7 +15303,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["oxilol-nightslayer"]=19,
 	["oxtos-nightslayer"]=1,
 	["oxwm-dreamscythe"]=5,
-	["oxym-nightslayer"]=4,
+	["oxym-nightslayer"]=6,
 	["oxypurp-nightslayer"]=4,
 	["oxyy-nightslayer"]=7,
 	["oznem-dreamscythe"]=2,
@@ -16811,7 +16811,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["slaad-nightslayer"]=2,
 	["slabsolutely-nightslayer"]=2,
 	["slamchamber-nightslayer"]=13,
-	["slammedenuff-nightslayer"]=13,
+	["slammedenuff-nightslayer"]=23,
 	["slammy-nightslayer"]=4,
 	["slammyx-nightslayer"]=6,
 	["slammyz-nightslayer"]=4,
@@ -16862,7 +16862,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["slw-nightslayer"]=8,
 	["slybow-nightslayer"]=21,
 	["slycat-nightslayer"]=5,
-	["slyptuah-nightslayer"]=5,
+	["slyptuah-nightslayer"]=8,
 	["slyz-nightslayer"]=1,
 	["slyzx-nightslayer"]=7,
 	["slzj-nightslayer"]=1,
@@ -17347,7 +17347,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["syrusfury-nightslayer"]=19,
 	["sytherx-nightslayer"]=8,
 	["szymek-nightslayer"]=2,
-	["taamy-nightslayer"]=1,
+	["taamy-nightslayer"]=12,
 	["tabzy-nightslayer"]=1,
 	["tacheese-dreamscythe"]=13,
 	["táckett-dreamscythe"]=3,

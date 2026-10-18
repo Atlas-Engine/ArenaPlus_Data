@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9776 characters, read 2026-10-17 07:59 PM.
+-- Region tbc-eu, 9776 characters, read 2026-10-17 08:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11298,7 +11298,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["crúyff-spineshatter"]=5,
 	["crydictus-spineshatter"]=5,
 	["cryeth-spineshatter"]=23,
-	["crymez-thunderstrike"]=19,
+	["crymez-thunderstrike"]=3,
 	["crymoar-spineshatter"]=9,
 	["crynoob-spineshatter"]=1,
 	["cryomace-spineshatter"]=11,
@@ -16452,7 +16452,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["raäwr-thunderstrike"]=5,
 	["raawrw-thunderstrike"]=18,
 	["raazer-spineshatter"]=23,
-	["rabbitpwnz-spineshatter"]=17,
+	["rabbitpwnz-spineshatter"]=2,
 	["rabddan-spineshatter"]=1,
 	["rabiez-thunderstrike"]=3,
 	["rabotyaga-spineshatter"]=25,
@@ -19055,7 +19055,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["xantyø-spineshatter"]=9,
 	["xanza-thunderstrike"]=5,
 	["xaramity-spineshatter"]=9,
-	["xaramityy-spineshatter"]=17,
+	["xaramityy-spineshatter"]=2,
 	["xarasta-spineshatter"]=2,
 	["xartt-spineshatter"]=19,
 	["xatha-spineshatter"]=13,
