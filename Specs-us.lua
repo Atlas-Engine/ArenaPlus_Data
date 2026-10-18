@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5187 characters, read 2026-10-18 10:59 AM.
+-- Region us, 5187 characters, read 2026-10-18 11:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6607,7 +6607,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["frenzywinz-raden"]=6,
 	["freskahjr-arugal-au"]=7,
 	["freskahx-arugal-au"]=7,
-	["frickedup-galakras"]=7,
+	["frickedup-galakras"]=23,
 	["friesx-pagle"]=21,
 	["friskees-immerseus"]=4,
 	["frobebryant-raden"]=11,
@@ -8106,7 +8106,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["nattywarrior-raden"]=7,
 	["natuhhlee-nazgrim"]=13,
 	["naturalqt-pagle"]=2,
-	["navij-pagle"]=4,
+	["navij-pagle"]=10,
 	["navio-pagle"]=16,
 	["nâx-pagle"]=11,
 	["nâxxrâmâs-arugal-au"]=23,
@@ -8580,7 +8580,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["pvpami-pagle"]=2,
 	["pvpcrazy-raden"]=6,
 	["pxssyxclout-raden"]=6,
-	["pxxp-pagle"]=34,
+	["pxxp-pagle"]=14,
 	["pyrexa-pagle"]=24,
 	["pyrofrost-nazgrim"]=11,
 	["qc-pagle"]=24,
