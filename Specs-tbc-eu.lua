@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9782 characters, read 2026-10-18 02:59 AM.
+-- Region tbc-eu, 9782 characters, read 2026-10-18 03:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11494,7 +11494,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["deadweight-spineshatter"]=4,
 	["dealas-spineshatter"]=7,
 	["dearstab-spineshatter"]=19,
-	["dearwish-spineshatter"]=3,
+	["dearwish-spineshatter"]=19,
 	["deathdealér-spineshatter"]=3,
 	["deathdragonx-spineshatter"]=1,
 	["deathlyblaze-spineshatter"]=2,
@@ -15619,7 +15619,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["nîxa-spineshatter"]=3,
 	["nîxkann-thunderstrike"]=5,
 	["nixsky-thunderstrike"]=3,
-	["niykeex-spineshatter"]=5,
+	["niykeex-spineshatter"]=15,
 	["niylh-thunderstrike"]=26,
 	["nizz-spineshatter"]=9,
 	["njia-spineshatter"]=1,
@@ -16825,7 +16825,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["rosewen-spineshatter"]=3,
 	["rosscameron-spineshatter"]=6,
 	["rosvomisa-spineshatter"]=3,
-	["rotarepmi-thunderstrike"]=22,
+	["rotarepmi-thunderstrike"]=5,
 	["rotdealer-spineshatter"]=13,
 	["rotebalov-spineshatter"]=3,
 	["rothius-spineshatter"]=25,

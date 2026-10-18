@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9405 characters, read 2026-10-18 02:58 AM.
+-- Region tbc-us, 9405 characters, read 2026-10-18 03:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11738,7 +11738,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["elchingadera-nightslayer"]=10,
 	["elcuh-nightslayer"]=24,
 	["eldak-dreamscythe"]=1,
-	["eldenblingz-nightslayer"]=1,
+	["eldenblingz-nightslayer"]=12,
 	["elðhim-nightslayer"]=1,
 	["elduelisto-nightslayer"]=4,
 	["eleazhar-nightslayer"]=9,
@@ -14207,7 +14207,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["lyzlock-nightslayer"]=13,
 	["maadhung-nightslayer"]=4,
 	["maalfunction-nightslayer"]=10,
-	["maam-nightslayer"]=2,
+	["maam-nightslayer"]=18,
 	["maanah-dreamscythe"]=10,
 	["maark-nightslayer"]=9,
 	["macarthurxd-nightslayer"]=5,
@@ -16051,7 +16051,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["riffer-nightslayer"]=4,
 	["riggity-nightslayer"]=14,
 	["righteousx-nightslayer"]=13,
-	["righteousxd-nightslayer"]=1,
+	["righteousxd-nightslayer"]=12,
 	["rightknut-nightslayer"]=12,
 	["rigothamus-nightslayer"]=10,
 	["rikiki-dreamscythe"]=10,
@@ -16875,7 +16875,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["snakeonplane-nightslayer"]=1,
 	["snakeygirl-nightslayer"]=7,
 	["snakrifice-dreamscythe"]=2,
-	["snapcity-nightslayer"]=16,
+	["snapcity-nightslayer"]=13,
 	["snapem-nightslayer"]=19,
 	["snapmytitz-nightslayer"]=5,
 	["snarkp-nightslayer"]=9,
