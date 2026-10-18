@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5346 characters, read 2026-10-18 01:00 PM.
+-- Region eu, 5346 characters, read 2026-10-18 02:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1689,7 +1689,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["hemyz-shekzeer"]=11,
 	["henrich-shekzeer"]=11,
 	["héra-shekzeer"]=11,
-	["herja-shekzeer"]=41,
 	["hermán-shekzeer"]=10,
 	["hermenigilda-shekzeer"]=11,
 	["hetty-shekzeer"]=31,
@@ -6251,7 +6250,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["domiino-shekzeer"]=12,
 	["dominant-garalon"]=28,
 	["dominant-shekzeer"]=2,
-	["dominoo-shekzeer"]=3,
+	["dominoo-shekzeer"]=21,
 	["domnox-auberdine"]=20,
 	["dönald-auberdine"]=17,
 	["dondrippiano-shekzeer"]=6,
@@ -6519,7 +6518,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["fengmoon-garalon"]=5,
 	["fentanyler-garalon"]=9,
 	["fentmaster-shekzeer"]=4,
-	["fergußs-everlook"]=26,
+	["fergußs-everlook"]=34,
 	["ferizelius-shekzeer"]=20,
 	["ferlaz-shekzeer"]=11,
 	["fernandoó-shekzeer"]=8,
@@ -6874,7 +6873,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["hemyz-shekzeer"]=7,
 	["henrich-shekzeer"]=9,
 	["héra-shekzeer"]=9,
-	["herja-shekzeer"]=21,
+	["herja-shekzeer"]=0,
 	["herjâ-shekzeer"]=0,
 	["hermán-shekzeer"]=15,
 	["hermenigilda-shekzeer"]=1,
@@ -8501,7 +8500,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["qikka-shekzeer"]=14,
 	["qk-shekzeer"]=9,
 	["qkz-shekzeer"]=4,
-	["qo-shekzeer"]=3,
+	["qo-shekzeer"]=11,
 	["qopsz-shekzeer"]=20,
 	["qraven-shekzeer"]=4,
 	["qriik-ook-ook"]=5,
@@ -9403,7 +9402,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["tonysopranoz-shekzeer"]=0,
 	["tøøgøød-shekzeer"]=3,
 	["toolatebro-auberdine"]=26,
-	["tophizzle-everlook"]=2,
+	["tophizzle-everlook"]=10,
 	["topkeck-mirage-raceway"]=7,
 	["topshotta-everlook"]=3,
 	["topspal-shekzeer"]=5,
