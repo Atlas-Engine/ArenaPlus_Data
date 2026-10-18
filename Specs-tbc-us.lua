@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9406 characters, read 2026-10-18 04:58 AM.
+-- Region tbc-us, 9406 characters, read 2026-10-18 05:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11457,7 +11457,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["dooges-nightslayer"]=3,
 	["doogsmon-nightslayer"]=10,
 	["dookymcpoopy-nightslayer"]=11,
-	["doombeast-nightslayer"]=7,
+	["doombeast-nightslayer"]=3,
 	["doompal-dreamscythe"]=25,
 	["doomswrath-nightslayer"]=19,
 	["doomtoreto-dreamscythe"]=13,
@@ -14102,7 +14102,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["lololkekw-nightslayer"]=5,
 	["lonewolfx-nightslayer"]=1,
 	["longboat-nightslayer"]=2,
-	["longfive-nightslayer"]=1,
+	["longfive-nightslayer"]=12,
 	["longgege-nightslayer"]=10,
 	["longstalker-nightslayer"]=1,
 	["looks-nightslayer"]=8,
@@ -15828,7 +15828,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["rageykamms-nightslayer"]=2,
 	["ragu-nightslayer"]=3,
 	["rahlz-dreamscythe"]=7,
-	["raidaslock-nightslayer"]=13,
+	["raidaslock-nightslayer"]=16,
 	["raika-nightslayer"]=13,
 	["railek-nightslayer"]=0,
 	["rainbetbeany-nightslayer"]=16,
@@ -16500,7 +16500,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["shamfuku-dreamscythe"]=10,
 	["shamilli-nightslayer"]=19,
 	["shamisham-nightslayer"]=19,
-	["shammix-nightslayer"]=19,
+	["shammix-nightslayer"]=24,
 	["shamoonist-dreamscythe"]=24,
 	["shamorkey-nightslayer"]=10,
 	["shampaigne-nightslayer"]=19,
@@ -16759,7 +16759,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["skoozi-nightslayer"]=4,
 	["skooziboy-nightslayer"]=1,
 	["skorghana-nightslayer"]=18,
-	["skörm-nightslayer"]=13,
+	["skörm-nightslayer"]=16,
 	["skoromilkers-nightslayer"]=22,
 	["skorototem-nightslayer"]=19,
 	["skorst-dreamscythe"]=2,
@@ -16791,7 +16791,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["slappyw-nightslayer"]=2,
 	["slashcat-nightslayer"]=7,
 	["slatemore-nightslayer"]=7,
-	["slayboi-nightslayer"]=8,
+	["slayboi-nightslayer"]=5,
 	["slayboys-nightslayer"]=5,
 	["slaypal-dreamscythe"]=11,
 	["slayterxx-nightslayer"]=7,
@@ -18131,7 +18131,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["wargewl-nightslayer"]=2,
 	["warglaivs-nightslayer"]=5,
 	["warglayves-nightslayer"]=18,
-	["warkhaos-nightslayer"]=2,
+	["warkhaos-nightslayer"]=18,
 	["warlockhater-nightslayer"]=12,
 	["warlorc-nightslayer"]=16,
 	["warmike-nightslayer"]=2,
