@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5191 characters, read 2026-10-18 07:59 PM.
+-- Region us, 5191 characters, read 2026-10-18 08:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5045,7 +5045,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["aem-pagle"]=13,
 	["Ærîthøs-pagle"]=16,
 	["aeroes-pagle"]=3,
-	["aerzkei-arugal-au"]=17,
+	["aerzkei-arugal-au"]=5,
 	["aës-pagle"]=1,
 	["afekz-immerseus"]=14,
 	["affliktt-arugal-au"]=9,
@@ -5123,7 +5123,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["amberance-pagle"]=5,
 	["ameldiel-pagle"]=20,
 	["amewz-pagle"]=7,
-	["amöra-galakras"]=21,
+	["amöra-galakras"]=13,
 	["amshelot-pagle"]=2,
 	["amused-lei-shen"]=4,
 	["amusedhammer-immerseus"]=16,
@@ -5208,7 +5208,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["arthasqt-raden"]=16,
 	["arthuritis-immerseus"]=23,
 	["arthy-pagle"]=0,
-	["artlight-nazgrim"]=16,
+	["artlight-nazgrim"]=2,
 	["arumág-pagle"]=16,
 	["asamil-pagle"]=5,
 	["asapsap-lei-shen"]=14,
@@ -8764,7 +8764,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["rippa-galakras"]=0,
 	["riptd-raden"]=16,
 	["riptdd-pagle"]=1,
-	["riptdx-raden"]=24,
+	["riptdx-raden"]=28,
 	["riptdy-raden"]=4,
 	["ripville-pagle"]=12,
 	["ris-nazgrim"]=33,

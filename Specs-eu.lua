@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5347 characters, read 2026-10-18 08:00 PM.
+-- Region eu, 5347 characters, read 2026-10-18 09:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -175,7 +175,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["alexandereu-shekzeer"]=11,
 	["alfajer-shekzeer"]=11,
 	["algerian-shekzeer"]=10,
-	["algharib-everlook"]=10,
+	["algharib-everlook"]=11,
 	["alieh-shekzeer"]=11,
 	["aliice-garalon"]=41,
 	["alkyos-auberdine"]=10,
@@ -2116,7 +2116,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["kimkrdashian-shekzeer"]=11,
 	["kimozabe-shekzeer"]=11,
 	["kimozabi-shekzeer"]=11,
-	["kimpossible-hoptallus"]=61,
+	["kimpossible-hoptallus"]=60,
 	["kimy-garalon"]=11,
 	["kinæsthesía-everlook"]=101,
 	["kinizsipally-mirage-raceway"]=10,
@@ -5344,7 +5344,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["angrywife-shekzeer"]=7,
 	["anika-shekzeer"]=5,
 	["animalleader-shekzeer"]=3,
-	["animecatgirl-shekzeer"]=11,
+	["animecatgirl-shekzeer"]=3,
 	["ankalagor-mirage-raceway"]=2,
 	["ankhulet-shekzeer"]=16,
 	["anlucky-shekzeer"]=28,
@@ -10129,7 +10129,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Биггдэди-flamegor"]=8,
 	["Бигл-flamegor"]=19,
 	["Биткантригем-flamegor"]=8,
-	["Бладых-flamegor"]=22,
+	["Бладых-flamegor"]=12,
 	["Близзняшка-flamegor"]=32,
 	["Близнец-flamegor"]=24,
 	["Блэйди-flamegor"]=7,

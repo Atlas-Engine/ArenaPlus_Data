@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9796 characters, read 2026-10-18 07:54 PM.
+-- Region tbc-eu, 9796 characters, read 2026-10-18 08:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11597,7 +11597,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["dévii-spineshatter"]=9,
 	["devilix-spineshatter"]=25,
 	["devílix-spineshatter"]=12,
-	["dévilla-spineshatter"]=9,
+	["dévilla-spineshatter"]=4,
 	["Ðevlin-spineshatter"]=26,
 	["devlockx-spineshatter"]=13,
 	["devmaister-spineshatter"]=5,
@@ -12805,7 +12805,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["givepvpservr-thunderstrike"]=3,
 	["giveupzv-spineshatter"]=8,
 	["gixxeer-spineshatter"]=5,
-	["gixxer-spineshatter"]=5,
+	["gixxer-spineshatter"]=15,
 	["gizmorc-spineshatter"]=11,
 	["gizmourn-spineshatter"]=2,
 	["gladiatorete-spineshatter"]=6,
@@ -14160,7 +14160,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["korkybuchek-spineshatter"]=13,
 	["korleone-spineshatter"]=13,
 	["korleonex-spineshatter"]=13,
-	["korobite-spineshatter"]=5,
+	["korobite-spineshatter"]=22,
 	["korruptpurk-spineshatter"]=8,
 	["körssi-spineshatter"]=5,
 	["körtisen-thunderstrike"]=4,
@@ -14218,7 +14218,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["krvo-thunderstrike"]=7,
 	["krykar-thunderstrike"]=5,
 	["krylard-spineshatter"]=24,
-	["kryptopwnzz-spineshatter"]=17,
+	["kryptopwnzz-spineshatter"]=2,
 	["krystalbest-spineshatter"]=8,
 	["ksmvr-thunderstrike"]=15,
 	["kstew-spineshatter"]=3,
@@ -15345,7 +15345,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["mythpala-spineshatter"]=26,
 	["myxxnuts-spineshatter"]=5,
 	["mzmzx-spineshatter"]=7,
-	["mzstzsx-spineshatter"]=2,
+	["mzstzsx-spineshatter"]=17,
 	["naali-spineshatter"]=1,
 	["naambawan-spineshatter"]=2,
 	["naano-thunderstrike"]=1,
