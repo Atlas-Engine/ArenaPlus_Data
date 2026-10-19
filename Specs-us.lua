@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5190 characters, read 2026-10-19 05:59 PM.
+-- Region us, 5190 characters, read 2026-10-19 06:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5440,7 +5440,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["bisßro-pagle"]=20,
 	["bistwo-pagle"]=0,
 	["bistwo-raden"]=0,
-	["bisü-pagle"]=18,
+	["bisü-pagle"]=3,
 	["bizznick-pagle"]=23,
 	["bjørnn-galakras"]=7,
 	["bjòrrn-pagle"]=15,
@@ -5481,7 +5481,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["bloodofares-nazgrim"]=7,
 	["bloodofnotus-nazgrim"]=27,
 	["bloodrake-nazgrim"]=25,
-	["bloodsoakd-pagle"]=7,
+	["bloodsoakd-pagle"]=23,
 	["bloodvâlor-lei-shen"]=6,
 	["blooms-pagle"]=17,
 	["bloomtodeath-raden"]=20,
@@ -5586,7 +5586,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["brickyboi-lei-shen"]=6,
 	["bringindeath-galakras"]=23,
 	["brisgerzap-immerseus"]=22,
-	["brnzlolo-nazgrim"]=32,
+	["brnzlolo-nazgrim"]=16,
 	["broadtip-galakras"]=18,
 	["brocodex-raden"]=0,
 	["brojax-pagle"]=7,
