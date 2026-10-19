@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9798 characters, read 2026-10-19 06:59 AM.
+-- Region tbc-eu, 9798 characters, read 2026-10-19 07:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9929,7 +9929,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["amanøiyum-thunderstrike"]=5,
 	["amaroa-spineshatter"]=19,
 	["amarol-spineshatter"]=8,
-	["ambidoll-spineshatter"]=3,
+	["ambidoll-spineshatter"]=19,
 	["ambiform-spineshatter"]=1,
 	["ambushador-spineshatter"]=3,
 	["amby-spineshatter"]=11,
@@ -10077,7 +10077,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["arrïmadas-spineshatter"]=19,
 	["arrivedercix-spineshatter"]=11,
 	["arrowstâck-spineshatter"]=24,
-	["artexz-spineshatter"]=13,
+	["artexz-spineshatter"]=18,
 	["arthamir-spineshatter"]=10,
 	["arthana-spineshatter"]=8,
 	["arthemi-spineshatter"]=14,
@@ -10350,7 +10350,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["baranatrice-spineshatter"]=11,
 	["barathon-spineshatter"]=11,
 	["barazanthul-thunderstrike"]=24,
-	["barbeque-spineshatter"]=23,
+	["barbeque-spineshatter"]=11,
 	["bårbiedoll-spineshatter"]=7,
 	["barbielol-spineshatter"]=10,
 	["baren-spineshatter"]=11,
@@ -12046,7 +12046,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["eid-spineshatter"]=9,
 	["eidô-thunderstrike"]=9,
 	["eikas-spineshatter"]=9,
-	["eikdin-spineshatter"]=26,
+	["eikdin-spineshatter"]=7,
 	["eikdruid-spineshatter"]=6,
 	["eikdruíd-spineshatter"]=1,
 	["eikdruìd-spineshatter"]=1,
@@ -16192,7 +16192,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["pökyli-spineshatter"]=9,
 	["polaky-spineshatter"]=22,
 	["polardina-spineshatter"]=11,
-	["polechydes-spineshatter"]=7,
+	["polechydes-spineshatter"]=26,
 	["polemasterxx-spineshatter"]=23,
 	["pollenta-spineshatter"]=1,
 	["pölo-spineshatter"]=3,
@@ -19446,7 +19446,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["zofan-spineshatter"]=2,
 	["zøfex-spineshatter"]=2,
 	["zôgzôg-spineshatter"]=5,
-	["zoh-spineshatter"]=4,
+	["zoh-spineshatter"]=9,
 	["zokmok-spineshatter"]=2,
 	["zomaria-thunderstrike"]=7,
 	["zômbie-thunderstrike"]=3,

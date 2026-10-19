@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9403 characters, read 2026-10-19 06:58 AM.
+-- Region tbc-us, 9402 characters, read 2026-10-19 07:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3113,7 +3113,6 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["gigawarlock-nightslayer"]=20,
 	["gigedoir-nightslayer"]=50,
 	["gilbert-nightslayer"]=50,
-	["gilfjuice-nightslayer"]=31,
 	["gilg-dreamscythe"]=11,
 	["gillbawk-nightslayer"]=21,
 	["gillyygan-nightslayer"]=70,
@@ -12441,7 +12440,6 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["gigawarlock-nightslayer"]=23,
 	["gigedoir-nightslayer"]=13,
 	["gilbert-nightslayer"]=12,
-	["gilfjuice-nightslayer"]=12,
 	["gilg-dreamscythe"]=12,
 	["gillbawk-nightslayer"]=2,
 	["gillyygan-nightslayer"]=2,
@@ -12609,7 +12607,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["grndpabilly-nightslayer"]=6,
 	["grocer-nightslayer"]=18,
 	["gronork-nightslayer"]=2,
-	["gropez-nightslayer"]=14,
+	["gropez-nightslayer"]=1,
 	["groph-nightslayer"]=2,
 	["grossematrak-nightslayer"]=2,
 	["groundingrod-nightslayer"]=19,
