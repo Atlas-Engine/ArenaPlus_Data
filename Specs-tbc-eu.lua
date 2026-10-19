@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9796 characters, read 2026-10-18 10:59 PM.
+-- Region tbc-eu, 9796 characters, read 2026-10-18 11:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12020,7 +12020,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["eclìpso-spineshatter"]=3,
 	["ecrøf-spineshatter"]=24,
 	["ecthoor-spineshatter"]=8,
-	["ecthorr-spineshatter"]=2,
+	["ecthorr-spineshatter"]=17,
 	["edaros-spineshatter"]=9,
 	["edaukin-spineshatter"]=5,
 	["eddeded-spineshatter"]=3,
@@ -13814,7 +13814,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["jwheezy-spineshatter"]=23,
 	["jwmn-spineshatter"]=13,
 	["jwsh-spineshatter"]=9,
-	["jx-spineshatter"]=19,
+	["jx-spineshatter"]=3,
 	["jxnte-spineshatter"]=24,
 	["jxs-spineshatter"]=25,
 	["jyrkikuusysi-spineshatter"]=13,
@@ -16282,7 +16282,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["priesless-spineshatter"]=2,
 	["priestcheez-thunderstrike"]=2,
 	["priesteritus-thunderstrike"]=2,
-	["prîêstgøðx-spineshatter"]=2,
+	["prîêstgøðx-spineshatter"]=17,
 	["priestitudé-spineshatter"]=2,
 	["priestler-spineshatter"]=2,
 	["priestlol-spineshatter"]=2,
@@ -17801,7 +17801,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["stensturon-spineshatter"]=4,
 	["stepbrô-spineshatter"]=3,
 	["stepdruid-spineshatter"]=1,
-	["stephanies-spineshatter"]=3,
+	["stephanies-spineshatter"]=19,
 	["stepondn-spineshatter"]=19,
 	["steponmeuwu-spineshatter"]=3,
 	["stepsîs-spineshatter"]=3,
@@ -18104,7 +18104,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["teddybill-spineshatter"]=3,
 	["teddype-spineshatter"]=5,
 	["teddyriner-spineshatter"]=4,
-	["teddys-spineshatter"]=19,
+	["teddys-spineshatter"]=27,
 	["teddysxdd-spineshatter"]=5,
 	["tedinho-spineshatter"]=26,
 	["tédiø-spineshatter"]=26,
@@ -19490,7 +19490,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["zulm-spineshatter"]=13,
 	["zulorg-spineshatter"]=13,
 	["zulørg-spineshatter"]=13,
-	["zulpì-spineshatter"]=19,
+	["zulpì-spineshatter"]=3,
 	["zulpii-spineshatter"]=3,
 	["zulza-spineshatter"]=23,
 	["zunniva-spineshatter"]=2,
