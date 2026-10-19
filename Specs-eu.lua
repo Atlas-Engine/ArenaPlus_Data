@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5352 characters, read 2026-10-19 04:00 AM.
+-- Region eu, 5352 characters, read 2026-10-19 05:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7877,7 +7877,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["momequ-norushen"]=2,
 	["momine-shekzeer"]=3,
 	["momíne-shekzeer"]=3,
-	["mommadots-shekzeer"]=28,
+	["mommadots-shekzeer"]=23,
 	["monais-shekzeer"]=16,
 	["monduk-auberdine"]=7,
 	["moneylong-shekzeer"]=17,
@@ -7898,7 +7898,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["monkrus-shekzeer"]=6,
 	["monkshadow-shekzeer"]=6,
 	["monktop-shekzeer"]=0,
-	["mønkz-shekzeer"]=6,
+	["mønkz-shekzeer"]=29,
 	["monlok-garalon"]=23,
 	["monloko-shekzeer"]=17,
 	["monlokoo-shekzeer"]=23,
@@ -9815,7 +9815,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["wodenjoyer-shekzeer"]=28,
 	["woippeÿ-shekzeer"]=30,
 	["woippret-shekzeer"]=5,
-	["wolfensteine-shekzeer"]=33,
+	["wolfensteine-shekzeer"]=8,
 	["wølfgunx-everlook"]=4,
 	["wølfgunxz-everlook"]=4,
 	["wolfus-mirage-raceway"]=1,
@@ -10319,7 +10319,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Медсистра-flamegor"]=12,
 	["Медтаблеттка-flamegor"]=5,
 	["Мейкил-flamegor"]=26,
-	["Менестрельно-flamegor"]=15,
+	["Менестрельно-flamegor"]=30,
 	["Миллразор-flamegor"]=2,
 	["Мимоотеней-flamegor"]=25,
 	["Мирайли-flamegor"]=13,
