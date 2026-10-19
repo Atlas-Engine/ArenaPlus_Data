@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9792 characters, read 2026-10-19 09:59 AM.
+-- Region tbc-eu, 9792 characters, read 2026-10-19 10:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11241,7 +11241,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["crabbexx-spineshatter"]=13,
 	["crabride-spineshatter"]=5,
 	["crabzx-spineshatter"]=3,
-	["crabzxtrapzx-spineshatter"]=25,
+	["crabzxtrapzx-spineshatter"]=24,
 	["cræbxz-spineshatter"]=7,
 	["cranegødx-spineshatter"]=17,
 	["crankié-spineshatter"]=9,
@@ -14077,7 +14077,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["kishti-spineshatter"]=7,
 	["kiskaq-spineshatter"]=7,
 	["kisonechka-spineshatter"]=7,
-	["kissbear-spineshatter"]=4,
+	["kissbear-spineshatter"]=9,
 	["kiswa-thunderstrike"]=2,
 	["kitkà-spineshatter"]=15,
 	["kíyomi-spineshatter"]=0,
@@ -16699,7 +16699,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["rewìde-spineshatter"]=7,
 	["reyap-spineshatter"]=8,
 	["reykar-spineshatter"]=6,
-	["reynn-spineshatter"]=3,
+	["reynn-spineshatter"]=19,
 	["rezog-spineshatter"]=23,
 	["rgblast-spineshatter"]=3,
 	["rgqt-thunderstrike"]=5,

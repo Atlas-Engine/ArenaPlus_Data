@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5353 characters, read 2026-10-19 10:00 AM.
+-- Region eu, 5353 characters, read 2026-10-19 11:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3281,6 +3281,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["ramsei-auberdine"]=10,
 	["randomfury-mirage-raceway"]=20,
 	["rankonedemon-shekzeer"]=41,
+	["rareshawty-shekzeer"]=10,
 	["rashgath-shekzeer"]=10,
 	["rashgathz-shekzeer"]=41,
 	["rashz-shekzeer"]=10,
@@ -6204,7 +6205,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["discopanda-norushen"]=6,
 	["discoprälle-shekzeer"]=9,
 	["discovery-shekzeer"]=7,
-	["diskotrisko-norushen"]=22,
+	["diskotrisko-norushen"]=9,
 	["dispelz-shekzeer"]=9,
 	["disperse-mirage-raceway"]=9,
 	["dispersio-mirage-raceway"]=3,
@@ -8559,7 +8560,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["randomboi-shekzeer"]=0,
 	["randomfury-mirage-raceway"]=19,
 	["rankonedemon-shekzeer"]=9,
-	["rareshawty-shekzeer"]=0,
+	["rareshawty-shekzeer"]=15,
 	["rashgath-shekzeer"]=1,
 	["rashgathz-shekzeer"]=11,
 	["rashz-shekzeer"]=8,
@@ -8582,7 +8583,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["realbûmbel-shekzeer"]=26,
 	["reàlbumbel-shekzeer"]=25,
 	["realbumbelbe-shekzeer"]=29,
-	["realbumbell-garalon"]=29,
+	["realbumbell-garalon"]=7,
 	["realnimraqt-everlook"]=5,
 	["realshifter-shekzeer"]=1,
 	["realwoippey-shekzeer"]=4,
@@ -8808,7 +8809,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["satåna-garalon"]=4,
 	["satåna-shekzeer"]=4,
 	["såtanå-shekzeer"]=4,
-	["satånaz-shekzeer"]=4,
+	["satånaz-shekzeer"]=14,
 	["satåntrapbot-shekzeer"]=4,
 	["satara-shekzeer"]=26,
 	["satazhia-shekzeer"]=12,
