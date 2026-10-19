@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5191 characters, read 2026-10-18 08:59 PM.
+-- Region us, 5191 characters, read 2026-10-18 09:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3447,7 +3447,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["protektive-pagle"]=11,
 	["protmain-raden"]=10,
 	["prototypeceo-pagle"]=20,
-	["proudfather-lei-shen"]=40,
+	["proudfather-lei-shen"]=60,
 	["proudgoyim-raden"]=10,
 	["pserverfreak-raden"]=11,
 	["psfive-pagle"]=40,
@@ -6764,7 +6764,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["gloggen-galakras"]=24,
 	["glogger-galakras"]=16,
 	["gloptoppomus-raden"]=7,
-	["gloriosas-raden"]=30,
+	["gloriosas-raden"]=7,
 	["gloryboi-pagle"]=2,
 	["gnarlyknight-pagle"]=16,
 	["gnarlyshotz-pagle"]=18,
@@ -6793,7 +6793,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["goofygoofer-raden"]=16,
 	["googleorbs-immerseus"]=4,
 	["googlepain-immerseus"]=3,
-	["goonerqt-pagle"]=9,
+	["goonerqt-pagle"]=21,
 	["goop-arugal-au"]=1,
 	["gooseus-pagle"]=16,
 	["gorack-nazgrim"]=3,
@@ -6930,7 +6930,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["héctorlavoe-pagle"]=18,
 	["hedensk-pagle"]=7,
 	["hedianne-lei-shen"]=0,
-	["hefestø-raden"]=3,
+	["hefestø-raden"]=18,
 	["hefini-nazgrim"]=21,
 	["heghost-pagle"]=9,
 	["heihaheiha-raden"]=10,
@@ -8087,7 +8087,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["nalx-raden"]=5,
 	["namosca-pagle"]=3,
 	["naniaids-lei-shen"]=28,
-	["nanikilla-lei-shen"]=4,
+	["nanikilla-lei-shen"]=10,
 	["nanismasha-lei-shen"]=15,
 	["nanixita-raden"]=24,
 	["nanslayer-raden"]=1,
@@ -8426,10 +8426,10 @@ ns.SPECS_BY_REGION["us"] = {
 	["peachpounder-pagle"]=6,
 	["peakedintbc-pagle"]=29,
 	["pearlescence-raden"]=15,
-	["peasalou-raden"]=16,
+	["peasalou-raden"]=2,
 	["pebblefist-pagle"]=7,
 	["peckrwood-immerseus"]=5,
-	["pedreirø-nazgrim"]=3,
+	["pedreirø-nazgrim"]=18,
 	["peekñheal-arugal-au"]=19,
 	["peligrozx-pagle"]=29,
 	["pellaëon-raden"]=6,

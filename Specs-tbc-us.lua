@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9398 characters, read 2026-10-18 08:58 PM.
+-- Region tbc-us, 9398 characters, read 2026-10-18 09:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -13379,7 +13379,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["jiigglypoofs-nightslayer"]=12,
 	["jimbald-nightslayer"]=13,
 	["jimbosalami-nightslayer"]=20,
-	["jimboslicé-nightslayer"]=24,
+	["jimboslicé-nightslayer"]=19,
 	["jimmjimm-nightslayer"]=23,
 	["jimmyp-nightslayer"]=14,
 	["jimmyrichter-dreamscythe"]=5,
@@ -13868,7 +13868,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["largemoot-nightslayer"]=2,
 	["larocheposay-nightslayer"]=24,
 	["larrisuh-nightslayer"]=18,
-	["larrybench-nightslayer"]=24,
+	["larrybench-nightslayer"]=10,
 	["larryog-nightslayer"]=10,
 	["larsmars-dreamscythe"]=16,
 	["lastchancè-nightslayer"]=5,
@@ -15565,7 +15565,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["pomrad-nightslayer"]=4,
 	["pomslave-nightslayer"]=1,
 	["pomswideopen-nightslayer"]=8,
-	["ponderøsa-dreamscythe"]=3,
+	["ponderøsa-dreamscythe"]=7,
 	["ponens-nightslayer"]=6,
 	["pongkix-nightslayer"]=7,
 	["pongkixo-nightslayer"]=7,
@@ -15827,7 +15827,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["raiseit-nightslayer"]=5,
 	["rajji-dreamscythe"]=12,
 	["rakemaster-dreamscythe"]=18,
-	["rakweese-dreamscythe"]=3,
+	["rakweese-dreamscythe"]=7,
 	["raldi-nightslayer"]=5,
 	["ralinator-nightslayer"]=4,
 	["ralphael-nightslayer"]=1,
@@ -15889,7 +15889,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["rdruidhater-nightslayer"]=19,
 	["rdubb-nightslayer"]=1,
 	["rdubbz-dreamscythe"]=1,
-	["rduda-nightslayer"]=4,
+	["rduda-nightslayer"]=6,
 	["rdude-nightslayer"]=5,
 	["rdudru-nightslayer"]=7,
 	["reactionary-nightslayer"]=18,
