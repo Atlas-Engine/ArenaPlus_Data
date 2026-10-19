@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9402 characters, read 2026-10-19 08:58 AM.
+-- Region tbc-us, 9402 characters, read 2026-10-19 09:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11354,7 +11354,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["diseasedrat-nightslayer"]=2,
 	["disgracey-nightslayer"]=15,
 	["dispelhate-dreamscythe"]=12,
-	["dispelhell-nightslayer"]=1,
+	["dispelhell-nightslayer"]=14,
 	["dispellcoolj-dreamscythe"]=12,
 	["dispellzz-nightslayer"]=14,
 	["dispelresìst-nightslayer"]=1,
@@ -16412,7 +16412,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["sepukupermyb-nightslayer"]=15,
 	["sequencing-nightslayer"]=5,
 	["seraphimski-nightslayer"]=12,
-	["seraphimx-dreamscythe"]=5,
+	["seraphimx-dreamscythe"]=8,
 	["serathis-dreamscythe"]=1,
 	["sergiopaladn-nightslayer"]=9,
 	["sergioshaman-nightslayer"]=10,
@@ -18018,7 +18018,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["villuxo-nightslayer"]=2,
 	["vincexd-nightslayer"]=1,
 	["vindrasende-nightslayer"]=19,
-	["vini-dreamscythe"]=11,
+	["vini-dreamscythe"]=25,
 	["vinimex-dreamscythe"]=15,
 	["viñkz-nightslayer"]=9,
 	["vînkz-nightslayer"]=1,

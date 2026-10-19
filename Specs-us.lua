@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5193 characters, read 2026-10-19 08:59 AM.
+-- Region us, 5193 characters, read 2026-10-19 09:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6970,7 +6970,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["hickery-arugal-au"]=14,
 	["hideandhunt-galakras"]=20,
 	["hifukface-raden"]=5,
-	["hifvckface-raden"]=4,
+	["hifvckface-raden"]=10,
 	["highc-galakras"]=22,
 	["highç-galakras"]=27,
 	["hîghc-galakras"]=17,
@@ -6997,13 +6997,13 @@ ns.SPECS_BY_REGION["us"] = {
 	["holyangelz-pagle"]=2,
 	["holycanoli-galakras"]=2,
 	["holycøcktail-raden"]=2,
-	["holyfender-pagle"]=2,
+	["holyfender-pagle"]=16,
 	["holyfkbubs-pagle"]=2,
 	["holyflamez-pagle"]=16,
 	["holyfluxq-pagle"]=9,
 	["holygym-nazgrim"]=13,
 	["holymar-pagle"]=6,
-	["holymoly-raden"]=21,
+	["holymoly-raden"]=9,
 	["holynip-raden"]=9,
 	["hølys-raden"]=2,
 	["holysaber-pagle"]=29,
@@ -7012,7 +7012,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["holysrt-raden"]=21,
 	["holythugx-pagle"]=16,
 	["holytick-pagle"]=2,
-	["holyvale-pagle"]=21,
+	["holyvale-pagle"]=13,
 	["hólyy-raden"]=16,
 	["holyywarr-raden"]=7,
 	["homiecuh-nazgrim"]=28,
@@ -8522,7 +8522,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["poppcorn-raden"]=5,
 	["popsmokè-pagle"]=29,
 	["pörch-pagle"]=14,
-	["porkchopx-nazgrim"]=10,
+	["porkchopx-nazgrim"]=4,
 	["porkfriedrai-immerseus"]=4,
 	["portholio-pagle"]=4,
 	["potatoes-arugal-au"]=18,
@@ -8565,7 +8565,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["pspspsps-galakras"]=5,
 	["psyced-galakras"]=24,
 	["psychotik-lei-shen"]=7,
-	["psykadélik-lei-shen"]=16,
+	["psykadélik-lei-shen"]=2,
 	["psykobunny-raden"]=12,
 	["ptownzxc-lei-shen"]=14,
 	["pullouts-raden"]=7,
@@ -9380,7 +9380,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["stticka-pagle"]=1,
 	["studbolt-lei-shen"]=1,
 	["stuffyknows-raden"]=0,
-	["stungød-pagle"]=14,
+	["stungød-pagle"]=29,
 	["stwongspell-pagle"]=28,
 	["stylles-raden"]=10,
 	["subàti-pagle"]=9,
