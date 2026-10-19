@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5193 characters, read 2026-10-19 12:59 PM.
+-- Region us, 5192 characters, read 2026-10-19 01:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1746,6 +1746,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["glas-raden"]=11,
 	["glasstoker-pagle"]=40,
 	["glayzed-raden"]=111,
+	["glinna-raden"]=41,
 	["glitcho-immerseus"]=101,
 	["glitercheeks-pagle"]=41,
 	["glizzyjizzy-nazgrim"]=101,
@@ -3171,7 +3172,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["nuzzles-raden"]=41,
 	["nvmxxtxx-raden"]=11,
 	["nvrtrinket-raden"]=41,
-	["nvxl-pagle"]=10,
 	["nyctrius-raden"]=41,
 	["nyloras-pagle"]=11,
 	["nyloras-raden"]=11,
@@ -4585,7 +4585,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["ursarwarrior-lei-shen"]=10,
 	["ursoc-lei-shen"]=221,
 	["urthehunted-pagle"]=260,
-	["urukburzumob-immerseus"]=21,
 	["urukghâshob-immerseus"]=21,
 	["urukgurumob-immerseus"]=21,
 	["usurero-pagle"]=90,
@@ -6198,7 +6197,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["Ðøøzy-pagle"]=25,
 	["dorayeda-galakras"]=10,
 	["dorris-raden"]=17,
-	["dorrsil-galakras"]=12,
+	["dorrsil-galakras"]=5,
 	["dorsil-galakras"]=1,
 	["dörsil-pagle"]=7,
 	["dorsill-galakras"]=22,
@@ -6329,7 +6328,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ebaylol-raden"]=1,
 	["ebolalola-galakras"]=1,
 	["ebolarama-galakras"]=2,
-	["ecafkcufhi-raden"]=10,
+	["ecafkcufhi-raden"]=4,
 	["echodotx-raden"]=9,
 	["eci-raden"]=9,
 	["ecmoo-pagle"]=4,
@@ -6761,6 +6760,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["glasstoker-pagle"]=17,
 	["glayzed-raden"]=19,
 	["gleef-pagle"]=0,
+	["glinna-raden"]=9,
 	["glitcho-immerseus"]=2,
 	["glitercheeks-pagle"]=17,
 	["glizzyjizzy-nazgrim"]=2,
@@ -8261,7 +8261,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["nuzzles-raden"]=5,
 	["nvmxxtxx-raden"]=4,
 	["nvrtrinket-raden"]=5,
-	["nvxl-pagle"]=1,
 	["nyctrius-raden"]=18,
 	["nyloras-pagle"]=7,
 	["nyloras-raden"]=7,
@@ -8737,7 +8736,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["retmainxd-raden"]=18,
 	["rétpáladin-raden"]=2,
 	["retrostance-galakras"]=2,
-	["rettek-raden"]=28,
+	["rettek-raden"]=8,
 	["rettmonk-raden"]=4,
 	["revcole-raden"]=9,
 	["revènge-raden"]=7,
@@ -9763,7 +9762,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["ursoc-lei-shen"]=17,
 	["urthehunted-pagle"]=18,
 	["uruka-raden"]=0,
-	["urukburzumob-immerseus"]=6,
 	["urukghâshob-immerseus"]=19,
 	["urukgurumob-immerseus"]=7,
 	["usurero-pagle"]=26,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5356 characters, read 2026-10-19 01:00 PM.
+-- Region eu, 5356 characters, read 2026-10-19 02:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5466,7 +5466,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["atheistpally-shekzeer"]=15,
 	["athenahz-shekzeer"]=3,
 	["athoran-everlook"]=2,
-	["atlántis-mirage-raceway"]=33,
+	["atlántis-mirage-raceway"]=8,
 	["atlasx-shekzeer"]=5,
 	["atmobile-shekzeer"]=2,
 	["atropa-shekzeer"]=0,
@@ -6526,7 +6526,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["fengmoon-garalon"]=5,
 	["fentanyler-garalon"]=9,
 	["fentmaster-shekzeer"]=4,
-	["fergußs-everlook"]=34,
+	["fergußs-everlook"]=24,
 	["ferizelius-shekzeer"]=20,
 	["ferlaz-shekzeer"]=11,
 	["fernandoó-shekzeer"]=8,
@@ -7722,7 +7722,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["martinriggs-garalon"]=9,
 	["marwena-shekzeer"]=1,
 	["maryjk-everlook"]=15,
-	["mascaraxoxo-shekzeer"]=4,
+	["mascaraxoxo-shekzeer"]=20,
 	["mashi-shekzeer"]=9,
 	["mashiro-shekzeer"]=1,
 	["mashleman-shekzeer"]=6,
@@ -8813,7 +8813,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["sashavolkova-garalon"]=24,
 	["satåna-garalon"]=4,
 	["satåna-shekzeer"]=4,
-	["såtanå-shekzeer"]=4,
+	["såtanå-shekzeer"]=14,
 	["satånaz-shekzeer"]=14,
 	["satåntrapbot-shekzeer"]=4,
 	["satara-shekzeer"]=26,
@@ -8822,7 +8822,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["satisfiedpri-shekzeer"]=9,
 	["saunabeer-gehennas"]=0,
 	["saur-shekzeer"]=15,
-	["saúro-garalon"]=2,
+	["saúro-garalon"]=27,
 	["saveny-everlook"]=2,
 	["savexx-shekzeer"]=2,
 	["savocid-shekzeer"]=5,
@@ -10308,7 +10308,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Лафарг-flamegor"]=15,
 	["Леонкупэ-flamegor"]=9,
 	["Лилрой-flamegor"]=2,
-	["Лолпыщпыщ-flamegor"]=12,
+	["Лолпыщпыщ-flamegor"]=9,
 	["Лоргандил-flamegor"]=3,
 	["Лордметал-flamegor"]=17,
 	["Луйсюнь-flamegor"]=6,
