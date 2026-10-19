@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5347 characters, read 2026-10-19 04:00 PM.
+-- Region eu, 5347 characters, read 2026-10-19 05:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5989,7 +5989,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["controlp-norushen"]=5,
 	["controlr-norushen"]=24,
 	["controlww-norushen"]=1,
-	["controlx-norushen"]=4,
+	["controlx-norushen"]=14,
 	["coors-shekzeer"]=9,
 	["corléonne-auberdine"]=6,
 	["corleonnee-auberdine"]=22,
@@ -6081,7 +6081,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["daïmôn-mirage-raceway"]=24,
 	["dalactar-auberdine"]=21,
 	["dalsonn-mirage-raceway"]=20,
-	["damagefwcker-shekzeer"]=4,
+	["damagefwcker-shekzeer"]=20,
 	["damageinc-shekzeer"]=15,
 	["damngg-shekzeer"]=24,
 	["dancehoney-mirage-raceway"]=26,
@@ -6516,7 +6516,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["fengmoon-garalon"]=5,
 	["fentanyler-garalon"]=9,
 	["fentmaster-shekzeer"]=4,
-	["fergußs-everlook"]=24,
+	["fergußs-everlook"]=34,
 	["ferizelius-shekzeer"]=20,
 	["ferlaz-shekzeer"]=11,
 	["fernandoó-shekzeer"]=8,
@@ -7237,7 +7237,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["kaliix-everlook"]=22,
 	["kalisis-shekzeer"]=14,
 	["kallagala-mirage-raceway"]=6,
-	["kalreth-shekzeer"]=22,
+	["kalreth-shekzeer"]=9,
 	["kamáhl-everlook"]=5,
 	["kamarsobaken-shekzeer"]=5,
 	["kamose-garalon"]=16,
@@ -7783,7 +7783,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["miamilkova-everlook"]=9,
 	["micayahr-everlook"]=24,
 	["michaell-shekzeer"]=24,
-	["mid-hoptallus"]=1,
+	["mid-hoptallus"]=25,
 	["middlecrew-mirage-raceway"]=4,
 	["midia-shekzeer"]=3,
 	["migliore-auberdine"]=14,
@@ -9732,7 +9732,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["waydemz-shekzeer"]=8,
 	["wayla-everlook"]=3,
 	["waylay-shekzeer"]=0,
-	["wazungu-shekzeer"]=31,
+	["wazungu-shekzeer"]=8,
 	["wcente-garalon"]=9,
 	["wdfcrit-garalon"]=19,
 	["weakaura-shekzeer"]=0,
@@ -10497,7 +10497,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Чтотыагришся-flamegor"]=11,
 	["Чыбарик-flamegor"]=4,
 	["Шадовбоб-flamegor"]=17,
-	["Шайтанмаг-flamegor"]=2,
+	["Шайтанмаг-flamegor"]=10,
 	["Шаманнутая-flamegor"]=13,
 	["Шамарыга-flamegor"]=16,
 	["Шамафлекс-flamegor"]=13,
