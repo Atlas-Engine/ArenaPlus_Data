@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5352 characters, read 2026-10-19 05:00 AM.
+-- Region eu, 5352 characters, read 2026-10-19 06:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7554,7 +7554,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["liplinerxoxo-garalon"]=23,
 	["lipmode-norushen"]=4,
 	["lippy-norushen"]=2,
-	["liquidity-shekzeer"]=33,
+	["liquidity-shekzeer"]=8,
 	["liriel-shekzeer"]=6,
 	["listerine-shekzeer"]=4,
 	["littlemanboy-shekzeer"]=2,
@@ -7726,7 +7726,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["massacro-gehennas"]=0,
 	["massivecnt-shekzeer"]=4,
 	["matadora-shekzeer"]=1,
-	["matiel-shekzeer"]=11,
+	["matiel-shekzeer"]=3,
 	["matinaa-shekzeer"]=14,
 	["matora-ook-ook"]=1,
 	["matroxafk-shekzeer"]=23,
@@ -7863,7 +7863,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["mmbzed-shekzeer"]=11,
 	["mnm-shekzeer"]=0,
 	["modderich-everlook"]=16,
-	["moeazy-shekzeer"]=21,
+	["moeazy-shekzeer"]=11,
 	["mohamedx-norushen"]=16,
 	["mohamédx-norushen"]=1,
 	["mohammedx-norushen"]=4,
@@ -8944,7 +8944,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["shockpowerr-shekzeer"]=5,
 	["shoesolex-everlook"]=14,
 	["shoqx-ook-ook"]=6,
-	["shotkill-mirage-raceway"]=34,
+	["shotkill-mirage-raceway"]=26,
 	["shotq-shekzeer"]=4,
 	["shotqu-shekzeer"]=2,
 	["shøxx-ook-ook"]=26,
@@ -9733,7 +9733,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["warsonger-auberdine"]=1,
 	["warßam-auberdine"]=1,
 	["wartinkin-norushen"]=8,
-	["wasabî-auberdine"]=13,
+	["wasabî-auberdine"]=16,
 	["wasapwasap-shekzeer"]=4,
 	["wassimar-mirage-raceway"]=17,
 	["wasterzhi-hoptallus"]=15,
@@ -9743,7 +9743,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["waydemz-shekzeer"]=8,
 	["wayla-everlook"]=3,
 	["waylay-shekzeer"]=0,
-	["wazungu-shekzeer"]=8,
+	["wazungu-shekzeer"]=31,
 	["wcente-garalon"]=9,
 	["wdfcrit-garalon"]=19,
 	["weakaura-shekzeer"]=0,

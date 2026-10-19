@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5193 characters, read 2026-10-19 04:59 AM.
+-- Region us, 5193 characters, read 2026-10-19 05:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7523,7 +7523,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["kusamgie-galakras"]=2,
 	["kusheatsleep-raden"]=18,
 	["kushgodx-raden"]=1,
-	["kushh-nazgrim"]=10,
+	["kushh-nazgrim"]=4,
 	["kutless-raden"]=16,
 	["kutty-nazgrim"]=11,
 	["kvalsvøll-pagle"]=6,
@@ -7555,7 +7555,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["largecoq-pagle"]=7,
 	["largecoqx-pagle"]=4,
 	["larissa-nazgrim"]=18,
-	["laritza-lei-shen"]=23,
+	["laritza-lei-shen"]=7,
 	["larvá-raden"]=6,
 	["laterdeen-pagle"]=21,
 	["latitifit-nazgrim"]=10,
@@ -7947,7 +7947,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["misprëdictio-nazgrim"]=21,
 	["missatrinni-pagle"]=0,
 	["missmama-galakras"]=5,
-	["missrollings-pagle"]=4,
+	["missrollings-pagle"]=10,
 	["misstotem-pagle"]=15,
 	["missyu-immerseus"]=23,
 	["mistafistuh-pagle"]=10,
@@ -9747,7 +9747,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["unknownleg-raden"]=14,
 	["unknownlegx-pagle"]=14,
 	["unknowsoldie-pagle"]=6,
-	["unlead-pagle"]=3,
+	["unlead-pagle"]=18,
 	["unphasedx-raden"]=9,
 	["unslayer-pagle"]=6,
 	["untaked-pagle"]=16,
