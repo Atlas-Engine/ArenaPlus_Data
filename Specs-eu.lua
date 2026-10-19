@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5356 characters, read 2026-10-19 02:00 PM.
+-- Region eu, 5356 characters, read 2026-10-19 03:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4501,7 +4501,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["woopzer-shekzeer"]=41,
 	["wordofwagyu-norushen"]=100,
 	["worstbhvr-shekzeer"]=11,
-	["worstpräst-shekzeer"]=41,
+	["worstpräst-shekzeer"]=11,
 	["worstrogueeu-ook-ook"]=10,
 	["wotblud-mirage-raceway"]=10,
 	["wpereborn-shekzeer"]=11,
@@ -5567,7 +5567,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bakasurge-shekzeer"]=11,
 	["bakatrap-shekzeer"]=4,
 	["bakomba-shekzeer"]=4,
-	["bakurau-mirage-raceway"]=14,
+	["bakurau-mirage-raceway"]=20,
 	["balanced-shekzeer"]=3,
 	["ballawatsch-shekzeer"]=6,
 	["ballbusting-shekzeer"]=24,
@@ -6350,7 +6350,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["dxab-shekzeer"]=22,
 	["dxbam-shekzeer"]=9,
 	["dxbme-shekzeer"]=2,
-	["dxbom-shekzeer"]=3,
+	["dxbom-shekzeer"]=21,
 	["dynalhia-mirage-raceway"]=1,
 	["dynarsia-shekzeer"]=3,
 	["dynther-shekzeer"]=1,
@@ -10450,7 +10450,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Теонн-flamegor"]=26,
 	["Тильтасен-flamegor"]=32,
 	["Тимадеус-flamegor"]=13,
-	["Тираэлиз-flamegor"]=10,
+	["Тираэлиз-flamegor"]=2,
 	["Тмоперао-flamegor"]=18,
 	["Тнэш-flamegor"]=1,
 	["Тогерд-flamegor"]=1,
