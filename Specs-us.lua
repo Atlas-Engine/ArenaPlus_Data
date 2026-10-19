@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5185 characters, read 2026-10-18 11:59 PM.
+-- Region us, 5185 characters, read 2026-10-19 12:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6250,7 +6250,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["drogon-immerseus"]=5,
 	["droowyd-pagle"]=5,
 	["droppingdotz-pagle"]=24,
-	["dropsoap-nazgrim"]=3,
+	["dropsoap-nazgrim"]=20,
 	["dropsoap-raden"]=14,
 	["dropsoappal-raden"]=16,
 	["dropsoapx-raden"]=17,
@@ -8124,7 +8124,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["necrodo-pagle"]=6,
 	["necrolife-nazgrim"]=24,
 	["neftyo-raden"]=9,
-	["negarun-raden"]=30,
+	["negarun-raden"]=7,
 	["negranieves-pagle"]=20,
 	["neifion-pagle"]=28,
 	["neiltheros-nazgrim"]=20,
@@ -8267,7 +8267,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["nzoth-nazgrim"]=16,
 	["nzuk-arugal-au"]=0,
 	["nzx-raden"]=3,
-	["oakenguard-raden"]=16,
+	["oakenguard-raden"]=32,
 	["oakshalaa-benediction"]=19,
 	["obsissj-raden"]=7,
 	["obyone-raden"]=18,
@@ -8421,7 +8421,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["peckrwood-immerseus"]=5,
 	["pedreirø-nazgrim"]=18,
 	["peekñheal-arugal-au"]=19,
-	["peligrozx-pagle"]=29,
+	["peligrozx-pagle"]=14,
 	["pellaëon-raden"]=6,
 	["penelope-raden"]=9,
 	["penguinxl-pagle"]=6,
@@ -9159,7 +9159,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["smallrass-pagle"]=30,
 	["smalltrain-pagle"]=15,
 	["smartpastry-pagle"]=14,
-	["smashdeez-nazgrim"]=30,
+	["smashdeez-nazgrim"]=7,
 	["smaxor-raden"]=7,
 	["sminchin-pagle"]=14,
 	["smokerweedch-pagle"]=24,

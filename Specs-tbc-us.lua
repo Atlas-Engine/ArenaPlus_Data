@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9401 characters, read 2026-10-18 11:58 PM.
+-- Region tbc-us, 9401 characters, read 2026-10-19 12:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11646,7 +11646,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["dustfriggenw-nightslayer"]=13,
 	["dusti-nightslayer"]=25,
 	["dutonga-nightslayer"]=18,
-	["duudah-nightslayer"]=11,
+	["duudah-nightslayer"]=9,
 	["duxlol-nightslayer"]=13,
 	["duxxar-nightslayer"]=15,
 	["duzentosvolt-nightslayer"]=24,
@@ -16035,7 +16035,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["rich-nightslayer"]=2,
 	["richardlolz-nightslayer"]=2,
 	["richardpig-nightslayer"]=10,
-	["richardrogue-dreamscythe"]=5,
+	["richardrogue-dreamscythe"]=8,
 	["richcaine-nightslayer"]=4,
 	["richiecaine-nightslayer"]=20,
 	["richiepz-nightslayer"]=1,
@@ -17648,7 +17648,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["tøst-nightslayer"]=7,
 	["totalanimal-nightslayer"]=4,
 	["tøte-nightslayer"]=10,
-	["totemchubby-nightslayer"]=10,
+	["totemchubby-nightslayer"]=19,
 	["totemjuju-nightslayer"]=19,
 	["totemluvr-nightslayer"]=10,
 	["totemskoro-nightslayer"]=19,
@@ -18733,7 +18733,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["zyxxs-dreamscythe"]=19,
 	["zyzzbruhx-nightslayer"]=7,
 	["zyzzmirin-nightslayer"]=2,
-	["zyzzup-nightslayer"]=2,
+	["zyzzup-nightslayer"]=18,
 	["zzc-nightslayer"]=2,
 	["zzie-nightslayer"]=11,
 	["zziggý-nightslayer"]=1,
