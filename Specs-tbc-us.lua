@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9403 characters, read 2026-10-19 05:58 AM.
+-- Region tbc-us, 9403 characters, read 2026-10-19 06:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9809,7 +9809,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bakey-dreamscythe"]=6,
 	["bakshotlarry-nightslayer"]=4,
 	["bakstab-nightslayer"]=5,
-	["balalalalu-dreamscythe"]=15,
+	["balalalalu-dreamscythe"]=17,
 	["baldandthicc-nightslayer"]=1,
 	["baldbulla-nightslayer"]=16,
 	["baldhealer-nightslayer"]=1,
@@ -10871,7 +10871,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["coneily-nightslayer"]=11,
 	["confrost-nightslayer"]=4,
 	["confusion-nightslayer"]=7,
-	["conjurewater-nightslayer"]=4,
+	["conjurewater-nightslayer"]=6,
 	["conos-nightslayer"]=3,
 	["conrad-nightslayer"]=16,
 	["conradical-nightslayer"]=23,
@@ -11252,7 +11252,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["denpolo-nightslayer"]=4,
 	["denthrix-dreamscythe"]=7,
 	["dentotem-nightslayer"]=10,
-	["depay-nightslayer"]=18,
+	["depay-nightslayer"]=2,
 	["deportmaxing-nightslayer"]=4,
 	["derekchaumin-nightslayer"]=19,
 	["derezzed-nightslayer"]=2,
@@ -14729,7 +14729,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["movejoe-nightslayer"]=7,
 	["mowald-dreamscythe"]=1,
 	["möxie-dreamscythe"]=4,
-	["mozartz-nightslayer"]=6,
+	["mozartz-nightslayer"]=4,
 	["mpbaldness-dreamscythe"]=18,
 	["mprst-dreamscythe"]=1,
 	["mssirrobin-nightslayer"]=10,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5352 characters, read 2026-10-19 06:00 AM.
+-- Region eu, 5350 characters, read 2026-10-19 07:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -458,7 +458,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["bcacu-shekzeer"]=10,
 	["bdm-auberdine"]=11,
 	["bðring-shekzeer"]=11,
-	["bearburst-shekzeer"]=41,
 	["bearia-shekzeer"]=11,
 	["beastmastr-everlook"]=80,
 	["beeka-auberdine"]=220,
@@ -5122,7 +5121,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["Фкю-flamegor"]=11,
 	["Фобя-flamegor"]=41,
 	["Фоллсс-flamegor"]=50,
-	["Фоллэнгодх-flamegor"]=11,
+	["Фоллэнгодх-flamegor"]=10,
 	["Фурист-flamegor"]=11,
 	["Ффолс-flamegor"]=60,
 	["Халлбъёрн-flamegor"]=30,
@@ -5596,7 +5595,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bcacu-shekzeer"]=1,
 	["bdm-auberdine"]=15,
 	["bðring-shekzeer"]=9,
-	["bearburst-shekzeer"]=32,
 	["bearia-shekzeer"]=4,
 	["beastmastr-everlook"]=4,
 	["beeka-auberdine"]=11,
@@ -5743,7 +5741,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bowline-shekzeer"]=20,
 	["bôwlognese-shekzeer"]=20,
 	["bowto-hoptallus"]=18,
-	["boyka-norushen"]=6,
+	["boyka-norushen"]=7,
 	["bozoblasta-shekzeer"]=4,
 	["bozzclqwn-everlook"]=19,
 	["bozzclqwnx-shekzeer"]=5,
@@ -6648,7 +6646,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["gagrothe-auberdine"]=33,
 	["gajubøø-auberdine"]=16,
 	["galadrial-ook-ook"]=22,
-	["galaxyrise-shekzeer"]=0,
 	["galazme-mirage-raceway"]=29,
 	["galthrom-norushen"]=8,
 	["gameisgamex-norushen"]=2,
@@ -7617,7 +7614,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["lunaraj-shekzeer"]=11,
 	["lunarbolt-shekzeer"]=3,
 	["lundsberg-shekzeer"]=13,
-	["lunkka-hoptallus"]=9,
+	["lunkka-hoptallus"]=12,
 	["lunkkaa-hoptallus"]=2,
 	["lunnatic-shekzeer"]=23,
 	["lunnkka-hoptallus"]=21,
@@ -7991,7 +7988,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["namaju-shekzeer"]=16,
 	["namasti-mirage-raceway"]=6,
 	["nameitdrood-shekzeer"]=3,
-	["names-hoptallus"]=3,
+	["names-hoptallus"]=11,
 	["naomia-shekzeer"]=9,
 	["naomiya-shekzeer"]=24,
 	["naoyà-shekzeer"]=15,
@@ -9638,7 +9635,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["verlyna-shekzeer"]=9,
 	["vérnyúl-shekzeer"]=1,
 	["verrückt-shekzeer"]=16,
-	["verti-norushen"]=8,
+	["verti-norushen"]=31,
 	["verybully-shekzeer"]=2,
 	["verysadboi-shekzeer"]=24,
 	["verywiseman-shekzeer"]=9,
@@ -9651,7 +9648,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["viint-shekzeer"]=8,
 	["vïïnt-shekzeer"]=21,
 	["viloy-lakeshire"]=22,
-	["vindictive-shekzeer"]=7,
+	["vindictive-shekzeer"]=6,
 	["vint-garalon"]=9,
 	["vínt-shekzeer"]=2,
 	["vïnt-shekzeer"]=15,
