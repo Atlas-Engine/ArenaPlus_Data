@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5347 characters, read 2026-10-19 05:00 PM.
+-- Region eu, 5347 characters, read 2026-10-19 06:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5707,7 +5707,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bngjr-shekzeer"]=20,
 	["bobbo-mirage-raceway"]=1,
 	["bobbyshmürda-shekzeer"]=3,
-	["bobbysta-auberdine"]=9,
+	["bobbysta-auberdine"]=12,
 	["bobjones-norushen"]=12,
 	["bobos-garalon"]=6,
 	["bobz-auberdine"]=6,
@@ -5903,7 +5903,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["cheis-shekzeer"]=24,
 	["chekies-shekzeer"]=1,
 	["chekiesx-shekzeer"]=24,
-	["chellara-everlook"]=9,
+	["chellara-everlook"]=12,
 	["chenanzhy-shekzeer"]=2,
 	["cheno-norushen"]=15,
 	["cherokeemist-auberdine"]=0,
@@ -6965,7 +6965,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["iamcurt-mirage-raceway"]=9,
 	["iaminafullcc-shekzeer"]=3,
 	["iamsmeagol-hoptallus"]=17,
-	["iamyzis-mirage-raceway"]=13,
+	["iamyzis-mirage-raceway"]=16,
 	["ibitha-hoptallus"]=6,
 	["ibiza-mirage-raceway"]=1,
 	["icanfly-everlook"]=1,
@@ -7959,7 +7959,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["mysticks-shekzeer"]=0,
 	["mytheridon-shekzeer"]=1,
 	["mythix-garalon"]=24,
-	["mythrugu-shekzeer"]=4,
+	["mythrugu-shekzeer"]=20,
 	["mythrugun-garalon"]=4,
 	["mythrugun-shekzeer"]=4,
 	["mywayz-mirage-raceway"]=2,
@@ -8414,7 +8414,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["plïnki-auberdine"]=8,
 	["plmbeachpete-shekzeer"]=7,
 	["pløgzy-shekzeer"]=2,
-	["pløgzyx-shekzeer"]=20,
+	["pløgzyx-shekzeer"]=4,
 	["plushfire-everlook"]=17,
 	["plushy-shekzeer"]=2,
 	["pm-shekzeer"]=8,
@@ -8731,7 +8731,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["runplz-shekzeer"]=19,
 	["runshisback-shekzeer"]=9,
 	["runshøsløw-shekzeer"]=9,
-	["runshpower-shekzeer"]=13,
+	["runshpower-shekzeer"]=16,
 	["runshtraps-shekzeer"]=4,
 	["rustarch-norushen"]=2,
 	["ruzha-shekzeer"]=9,
