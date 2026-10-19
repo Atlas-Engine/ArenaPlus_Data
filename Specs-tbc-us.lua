@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9400 characters, read 2026-10-19 10:58 AM.
+-- Region tbc-us, 9400 characters, read 2026-10-19 11:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11410,7 +11410,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["doloin-nightslayer"]=5,
 	["doloqtxoxo-dreamscythe"]=24,
 	["dolosham-nightslayer"]=10,
-	["domenek-nightslayer"]=23,
+	["domenek-nightslayer"]=13,
 	["domice-nightslayer"]=6,
 	["domicetoo-nightslayer"]=6,
 	["domoz-nightslayer"]=18,
@@ -13753,7 +13753,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["komyy-nightslayer"]=12,
 	["konnz-nightslayer"]=5,
 	["kooba-nightslayer"]=5,
-	["kook-nightslayer"]=7,
+	["kook-nightslayer"]=3,
 	["kordial-dreamscythe"]=11,
 	["korknbeans-nightslayer"]=10,
 	["korkz-nightslayer"]=10,
@@ -13917,7 +13917,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["leetpre-nightslayer"]=1,
 	["leftface-nightslayer"]=1,
 	["lefthandlary-nightslayer"]=12,
-	["lefttenclear-nightslayer"]=17,
+	["lefttenclear-nightslayer"]=15,
 	["leftténclear-nightslayer"]=17,
 	["legalcitizen-nightslayer"]=12,
 	["legday-nightslayer"]=18,
@@ -16360,7 +16360,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["scungy-nightslayer"]=5,
 	["scxtt-nightslayer"]=5,
 	["scyer-nightslayer"]=13,
-	["scyless-nightslayer"]=8,
+	["scyless-nightslayer"]=5,
 	["scynd-dreamscythe"]=6,
 	["scythë-nightslayer"]=2,
 	["sdeat-nightslayer"]=8,
@@ -16819,7 +16819,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["slothmoo-nightslayer"]=7,
 	["slowbolt-nightslayer"]=4,
 	["sloweyes-nightslayer"]=7,
-	["slowfast-nightslayer"]=16,
+	["slowfast-nightslayer"]=13,
 	["slumshocks-dreamscythe"]=19,
 	["slumwar-dreamscythe"]=18,
 	["slurpeezy-nightslayer"]=4,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5193 characters, read 2026-10-19 10:59 AM.
+-- Region us, 5193 characters, read 2026-10-19 11:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6573,7 +6573,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["flightschool-pagle"]=5,
 	["flipssix-lei-shen"]=18,
 	["floplock-raden"]=28,
-	["flossnest-pagle"]=21,
+	["flossnest-pagle"]=9,
 	["flowbow-pagle"]=3,
 	["flowkí-pagle"]=1,
 	["flownaze-galakras"]=5,
@@ -6617,10 +6617,10 @@ ns.SPECS_BY_REGION["us"] = {
 	["frenzywinz-raden"]=6,
 	["freskahjr-arugal-au"]=7,
 	["freskahx-arugal-au"]=7,
-	["frickedup-galakras"]=23,
+	["frickedup-galakras"]=7,
 	["friesx-pagle"]=21,
 	["friskees-immerseus"]=4,
-	["frobebryant-raden"]=11,
+	["frobebryant-raden"]=31,
 	["fromeo-raden"]=14,
 	["fromohio-raden"]=15,
 	["fróst-raden"]=1,
@@ -6690,7 +6690,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ganonmauz-raden"]=2,
 	["garbagedruid-raden"]=5,
 	["garnaby-pagle"]=14,
-	["garnarin-galakras"]=13,
+	["garnarin-galakras"]=9,
 	["garrahmonk-raden"]=4,
 	["garrahmw-raden"]=4,
 	["garrik-lei-shen"]=14,

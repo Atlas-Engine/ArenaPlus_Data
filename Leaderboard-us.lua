@@ -18,7 +18,7 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region us, season 14, read 2026-10-19 10:59 AM.
+-- Region us, season 14, read 2026-10-19 11:59 AM.
 -- Realm display names, because the ladder only carries slugs and no rule
 -- turns one back into the other: raden is Ra-den, lei-shen is Lei Shen and
 -- arugal-au is Arugal (AU). Read from Blizzard's realm index; a slug with no
@@ -35,8 +35,8 @@ ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["us"] = {
 	region  = "us",
-	checked = "2026-10-19 10:59 AM",
-	checkedEpoch = 1792421967,
+	checked = "2026-10-19 11:59 AM",
+	checkedEpoch = 1792425567,
 	snapshot = "2026-10-19 14:19",
 
 	[1] = {  -- 2v2, 5007 places, down to rating 1056 -- the API stops here, short of the cutoff
@@ -46,15 +46,15 @@ ns.LEADERBOARD_BY_REGION["us"] = {
 		{ rank=4, name="Oxydd", realm="arugal-au", rating=2741, won=204, lost=13, faction="ALLIANCE", dr=71, dk=-17 },
 		{ rank=5, name="Bâz", realm="arugal-au", rating=2738, won=140, lost=11, faction="ALLIANCE", dr=0, dk=2 },
 		{ rank=6, name="Reasonablë", realm="arugal-au", rating=2735, won=309, lost=29, faction="ALLIANCE", dr=30, dk=-4 },
-		{ rank=7, name="Selfplay", realm="raden", rating=2733, won=290, lost=87, faction="ALLIANCE", dr=41, dk=-7 },
-		{ rank=8, name="Nocarry", realm="raden", rating=2732, won=223, lost=55, faction="ALLIANCE", dr=5, dk=4 },
-		{ rank=9, name="Icarú", realm="raden", rating=2726, won=136, lost=32, faction="ALLIANCE", dr=17, dk=1 },
+		{ rank=7, name="Icarú", realm="raden", rating=2734, won=137, lost=32, faction="ALLIANCE", dr=25, dk=-1 },
+		{ rank=8, name="Selfplay", realm="raden", rating=2733, won=290, lost=87, faction="ALLIANCE", dr=41, dk=-6 },
+		{ rank=9, name="Nocarry", realm="raden", rating=2732, won=223, lost=55, faction="ALLIANCE", dr=5, dk=5 },
 		{ rank=10, name="Acx", realm="raden", rating=2722, won=292, lost=14, faction="ALLIANCE", dr=0, dk=4 },
 		{ rank=11, name="Magician", realm="arugal-au", rating=2721, won=280, lost=24, faction="ALLIANCE", dr=54, dk=-14 },
 		{ rank=12, name="Oxy", realm="arugal-au", rating=2717, won=160, lost=13, faction="ALLIANCE", dr=14, dk=0 },
 		{ rank=13, name="Honorbuddy", realm="raden", rating=2716, won=177, lost=31, faction="ALLIANCE", dr=0, dk=6 },
-		{ rank=14, name="Mojotree", realm="pagle", rating=2707, won=100, lost=5, faction="HORDE", dr=0, dk=5 },
-		{ rank=15, name="Nhyftwo", realm="raden", rating=2704, won=93, lost=5, faction="ALLIANCE", dr=0, dk=4 },
+		{ rank=14, name="Nhyftwo", realm="raden", rating=2713, won=94, lost=5, faction="ALLIANCE", dr=9, dk=3 },
+		{ rank=15, name="Mojotree", realm="pagle", rating=2707, won=100, lost=5, faction="HORDE", dr=0, dk=6 },
 		{ rank=16, name="Reckington", realm="raden", rating=2700, won=434, lost=160, faction="ALLIANCE", dr=0, dk=3 },
 		{ rank=17, name="Teatable", realm="raden", rating=2691, won=243, lost=68, faction="ALLIANCE", dr=0, dk=2 },
 		{ rank=18, name="Miposhká", realm="raden", rating=2686, won=263, lost=44, faction="ALLIANCE", dr=17, dk=-4 },
@@ -1175,7 +1175,6 @@ ns.LEADERBOARD_BY_REGION["us"] = {
 		{ rank=1128, name="Popnshockn", realm="pagle", rating=2009, won=65, lost=50, faction="ALLIANCE", dr=0, dk=35 },
 		{ rank=1128, name="Shmacked", realm="lei-shen", rating=2009, won=54, lost=34, faction="ALLIANCE", mr=2012, dr=0, dk=35 },
 		{ rank=1135, name="Anjurus", realm="pagle", rating=2008, won=56, lost=42, faction="ALLIANCE", dr=0, dk=30 },
-		{ rank=1135, name="Bbqwingz", realm="raden", rating=2008, won=55, lost=51, faction="ALLIANCE", mr=2024 },
 		{ rank=1135, name="Bouddha", realm="raden", rating=2008, won=85, lost=71, faction="ALLIANCE", dr=0, dk=30 },
 		{ rank=1135, name="Butthuff", realm="pagle", rating=2008, won=196, lost=222, faction="HORDE", mr=2021, dr=18, dk=-72 },
 		{ rank=1135, name="Elvius", realm="raden", rating=2008, won=101, lost=72, faction="ALLIANCE", dr=0, dk=30 },
@@ -1184,14 +1183,15 @@ ns.LEADERBOARD_BY_REGION["us"] = {
 		{ rank=1135, name="Notmystcdark", realm="pagle", rating=2008, won=53, lost=40, faction="ALLIANCE", dr=0, dk=30 },
 		{ rank=1135, name="Soar", realm="raden", rating=2008, won=175, lost=194, faction="ALLIANCE", mr=2075, dr=19, dk=-76 },
 		{ rank=1135, name="Tonieh", realm="pagle", rating=2008, won=67, lost=55, faction="ALLIANCE", dr=0, dk=30 },
-		{ rank=1145, name="Bigboitrump", realm="galakras", rating=2007, won=68, lost=47, faction="ALLIANCE", dr=0, dk=33 },
-		{ rank=1145, name="Clawingout", realm="pagle", rating=2007, won=58, lost=57, faction="ALLIANCE", dr=0, dk=33 },
-		{ rank=1145, name="Decaypox", realm="raden", rating=2007, won=66, lost=41, faction="HORDE", dr=0, dk=33 },
-		{ rank=1145, name="Epsilon", realm="pagle", rating=2007, won=48, lost=27, faction="ALLIANCE", dr=0, dk=33 },
-		{ rank=1145, name="Fernandes", realm="nazgrim", rating=2007, won=212, lost=232, faction="HORDE", mr=2040, dr=-12, dk=106 },
-		{ rank=1145, name="Riperonii", realm="pagle", rating=2007, won=85, lost=64, faction="ALLIANCE", mr=2041, dr=-16, dk=124 },
-		{ rank=1145, name="Saintarmor", realm="pagle", rating=2007, won=132, lost=100, faction="HORDE", mr=2068, dr=-18, dk=133 },
-		{ rank=1145, name="Spiftw", realm="grobbulus", rating=2007, won=142, lost=132, faction="ALLIANCE", mr=2010, dr=0, dk=33 },
+		{ rank=1144, name="Bbqwingz", realm="raden", rating=2007, won=57, lost=54, faction="ALLIANCE", mr=2024 },
+		{ rank=1144, name="Bigboitrump", realm="galakras", rating=2007, won=68, lost=47, faction="ALLIANCE", dr=0, dk=32 },
+		{ rank=1144, name="Clawingout", realm="pagle", rating=2007, won=58, lost=57, faction="ALLIANCE", dr=0, dk=32 },
+		{ rank=1144, name="Decaypox", realm="raden", rating=2007, won=66, lost=41, faction="HORDE", dr=0, dk=32 },
+		{ rank=1144, name="Epsilon", realm="pagle", rating=2007, won=48, lost=27, faction="ALLIANCE", dr=0, dk=32 },
+		{ rank=1144, name="Fernandes", realm="nazgrim", rating=2007, won=212, lost=232, faction="HORDE", mr=2040, dr=-12, dk=105 },
+		{ rank=1144, name="Riperonii", realm="pagle", rating=2007, won=85, lost=64, faction="ALLIANCE", mr=2041, dr=-16, dk=123 },
+		{ rank=1144, name="Saintarmor", realm="pagle", rating=2007, won=132, lost=100, faction="HORDE", mr=2068, dr=-18, dk=132 },
+		{ rank=1144, name="Spiftw", realm="grobbulus", rating=2007, won=142, lost=132, faction="ALLIANCE", mr=2010, dr=0, dk=32 },
 		{ rank=1153, name="Bigdaddymhem", realm="arugal-au", rating=2006, won=115, lost=109, faction="ALLIANCE", dr=16, dk=-54 },
 		{ rank=1153, name="Ganggangg", realm="immerseus", rating=2006, won=173, lost=234, faction="HORDE", mr=2033, dr=0, dk=35 },
 		{ rank=1153, name="Oopsuwu", realm="pagle", rating=2006, won=44, lost=31, faction="HORDE", dr=0, dk=35 },

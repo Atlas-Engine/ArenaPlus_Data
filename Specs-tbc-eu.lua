@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9792 characters, read 2026-10-19 10:59 AM.
+-- Region tbc-eu, 9792 characters, read 2026-10-19 11:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -13406,7 +13406,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["imapwnu-spineshatter"]=19,
 	["imbecile-spineshatter"]=3,
 	["iméri-spineshatter"]=12,
-	["imeverything-spineshatter"]=2,
+	["imeverything-spineshatter"]=17,
 	["imgaey-spineshatter"]=3,
 	["imgæy-spineshatter"]=3,
 	["imghay-spineshatter"]=4,
@@ -15152,7 +15152,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["mokar-spineshatter"]=5,
 	["mokhgra-spineshatter"]=12,
 	["mokks-spineshatter"]=1,
-	["moldver-spineshatter"]=3,
+	["moldver-spineshatter"]=19,
 	["molestär-thunderstrike"]=13,
 	["molodenkov-spineshatter"]=5,
 	["moltress-spineshatter"]=11,
@@ -15372,7 +15372,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["naive-spineshatter"]=12,
 	["naiw-thunderstrike"]=20,
 	["najqt-spineshatter"]=2,
-	["nakkes-spineshatter"]=25,
+	["nakkes-spineshatter"]=16,
 	["näla-thunderstrike"]=3,
 	["námeless-spineshatter"]=12,
 	["namesplate-spineshatter"]=5,
@@ -15526,7 +15526,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["neshgi-thunderstrike"]=2,
 	["nessay-spineshatter"]=19,
 	["nessie-spineshatter"]=5,
-	["nesswho-spineshatter"]=15,
+	["nesswho-spineshatter"]=5,
 	["nessye-spineshatter"]=10,
 	["netaru-thunderstrike"]=11,
 	["netflixdps-spineshatter"]=12,
@@ -15543,7 +15543,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["nevermindx-spineshatter"]=19,
 	["névermore-spineshatter"]=3,
 	["nevershearx-spineshatter"]=5,
-	["nevinna-spineshatter"]=11,
+	["nevinna-spineshatter"]=12,
 	["nevinnawar-spineshatter"]=5,
 	["nevinost-spineshatter"]=14,
 	["nevyo-spineshatter"]=11,
@@ -15825,7 +15825,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["onehpbtw-spineshatter"]=2,
 	["onelight-spineshatter"]=11,
 	["onemoretïme-spineshatter"]=11,
-	["oneofive-spineshatter"]=2,
+	["oneofive-spineshatter"]=17,
 	["onepangu-spineshatter"]=9,
 	["oneprayer-spineshatter"]=2,
 	["onery-thunderstrike"]=5,
