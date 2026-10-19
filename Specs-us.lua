@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5193 characters, read 2026-10-19 07:59 AM.
+-- Region us, 5193 characters, read 2026-10-19 08:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5823,7 +5823,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["cobear-pagle"]=3,
 	["cobearsdruid-pagle"]=17,
 	["cobrä-pagle"]=24,
-	["cöbrä-pagle"]=30,
+	["cöbrä-pagle"]=7,
 	["cochonhalal-pagle"]=32,
 	["codiplay-pagle"]=11,
 	["codywithak-raden"]=7,
@@ -6881,7 +6881,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["haileyy-raden"]=16,
 	["hairarmpit-benediction"]=4,
 	["haircheck-raden"]=4,
-	["hairyarms-raden"]=12,
+	["hairyarms-raden"]=5,
 	["hallowground-immerseus"]=21,
 	["halvon-raden"]=28,
 	["håm-nazgrim"]=30,
@@ -7047,7 +7047,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["huanuqueño-pagle"]=2,
 	["hueland-raden"]=1,
 	["hugehammr-lei-shen"]=16,
-	["humanpvpisez-pagle"]=4,
+	["humanpvpisez-pagle"]=10,
 	["hummuss-raden"]=7,
 	["hùnáy-pagle"]=11,
 	["hungfoo-pagle"]=6,
@@ -7950,7 +7950,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["missrollings-pagle"]=10,
 	["misstotem-pagle"]=15,
 	["missyu-immerseus"]=23,
-	["mistafistuh-pagle"]=10,
+	["mistafistuh-pagle"]=4,
 	["mistnme-pagle"]=0,
 	["mistortea-pagle"]=4,
 	["mistwalk-pagle"]=0,
@@ -8634,7 +8634,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["räïden-raden"]=22,
 	["raidenx-nazgrim"]=26,
 	["raíín-galakras"]=9,
-	["raijinkumax-pagle"]=15,
+	["raijinkumax-pagle"]=19,
 	["raijjin-pagle"]=19,
 	["rãin-pagle"]=14,
 	["raineclaw-raden"]=5,

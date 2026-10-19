@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5350 characters, read 2026-10-19 08:00 AM.
+-- Region eu, 5350 characters, read 2026-10-19 09:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6543,7 +6543,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["finq-mirage-raceway"]=17,
 	["finsh-shekzeer"]=26,
 	["fionicelli-shekzeer"]=6,
-	["firefaen-shekzeer"]=2,
+	["firefaen-shekzeer"]=10,
 	["firelina-shekzeer"]=10,
 	["firr-shekzeer"]=1,
 	["firráx-shekzeer"]=24,
@@ -6991,7 +6991,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["ifyoucare-shekzeer"]=29,
 	["igrïs-shekzeer"]=12,
 	["ihavenobrain-shekzeer"]=0,
-	["ihavetopoo-shekzeer"]=8,
+	["ihavetopoo-shekzeer"]=31,
 	["ihnat-shekzeer"]=12,
 	["iililli-mirage-raceway"]=8,
 	["ikarok-everlook"]=21,
@@ -7271,7 +7271,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["kazakhstani-shekzeer"]=1,
 	["kazemí-everlook"]=1,
 	["kazui-shekzeer"]=24,
-	["kbxdk-shekzeer"]=8,
+	["kbxdk-shekzeer"]=33,
 	["keaganator-mirage-raceway"]=2,
 	["kearnën-shekzeer"]=0,
 	["kebabsaurus-shekzeer"]=26,
@@ -7280,7 +7280,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["kekkonenx-garalon"]=1,
 	["keksy-shekzeer"]=0,
 	["keksyoq-everlook"]=24,
-	["kelsor-auberdine"]=20,
+	["kelsor-auberdine"]=4,
 	["kelsron-norushen"]=1,
 	["kemrez-shekzeer"]=3,
 	["kenarai-shekzeer"]=7,
