@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5192 characters, read 2026-10-19 02:59 PM.
+-- Region us, 5192 characters, read 2026-10-19 03:49 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5956,7 +5956,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["damanî-pagle"]=34,
 	["damimdialed-raden"]=3,
 	["dammyy-pagle"]=7,
-	["dampeners-raden"]=28,
+	["dampeners-raden"]=8,
 	["danar-raden"]=12,
 	["dáncingmines-raden"]=5,
 	["dandor-pagle"]=7,
@@ -5964,14 +5964,14 @@ ns.SPECS_BY_REGION["us"] = {
 	["dankendwarf-pagle"]=22,
 	["dankenelf-pagle"]=5,
 	["dankenshroom-lei-shen"]=12,
-	["dankenstein-lei-shen"]=22,
-	["dankorbs-pagle"]=4,
+	["dankenstein-lei-shen"]=19,
+	["dankorbs-pagle"]=27,
 	["dankshots-lei-shen"]=3,
 	["danuhai-pagle"]=19,
 	["danyshadow-raden"]=21,
 	["Ðark-nazgrim"]=6,
 	["darkavengerr-pagle"]=28,
-	["darkcurador-nazgrim"]=21,
+	["darkcurador-nazgrim"]=13,
 	["darkdankdope-raden"]=10,
 	["darkdeamon-pagle"]=11,
 	["darkdknight-pagle"]=6,
@@ -8827,7 +8827,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["rottenßlade-pagle"]=7,
 	["rougeone-pagle"]=29,
 	["rougesd-pagle"]=14,
-	["roulette-pagle"]=17,
+	["roulette-pagle"]=5,
 	["roxxe-raden"]=2,
 	["royalbear-lei-shen"]=18,
 	["royalflush-pagle"]=9,
@@ -9397,7 +9397,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["suigth-pagle"]=3,
 	["suký-pagle"]=7,
 	["sumbodee-pagle"]=7,
-	["sumgai-lei-shen"]=3,
+	["sumgai-lei-shen"]=18,
 	["summondeez-pagle"]=28,
 	["sunflowerrz-raden"]=13,
 	["sunkencost-raden"]=0,
