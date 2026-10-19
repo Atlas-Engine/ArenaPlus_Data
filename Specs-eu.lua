@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5352 characters, read 2026-10-19 02:00 AM.
+-- Region eu, 5352 characters, read 2026-10-19 03:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -8153,7 +8153,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["noormal-shekzeer"]=20,
 	["noproblems-mirage-raceway"]=1,
 	["nørmanna-shekzeer"]=0,
-	["normanqt-shekzeer"]=7,
+	["normanqt-shekzeer"]=6,
 	["norskugle-shekzeer"]=11,
 	["northtoad-shekzeer"]=8,
 	["noscopee-shekzeer"]=4,
@@ -8161,7 +8161,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["nossing-auberdine"]=26,
 	["nossy-hoptallus"]=12,
 	["nostopimback-shekzeer"]=0,
-	["nosurrend-garalon"]=1,
+	["nosurrend-garalon"]=18,
 	["notacowdruid-shekzeer"]=11,
 	["notaveragex-shekzeer"]=0,
 	["notfriendly-everlook"]=21,
@@ -8186,7 +8186,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["npbd-shekzeer"]=11,
 	["Ñqqa-shekzeer"]=1,
 	["nrg-shekzeer"]=24,
-	["nsé-garalon"]=15,
+	["nsé-garalon"]=5,
 	["ntbf-shekzeer"]=24,
 	["ntbfq-shekzeer"]=9,
 	["ntxfake-shekzeer"]=11,
@@ -8254,7 +8254,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["oo-shekzeer"]=16,
 	["ooboom-shekzeer"]=11,
 	["oof-shekzeer"]=20,
-	["ooffa-hoptallus"]=3,
+	["ooffa-hoptallus"]=11,
 	["Óófromlipain-shekzeer"]=5,
 	["Øølimpian-shekzeer"]=6,
 	["Øòóòóõöø-shekzeer"]=2,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9796 characters, read 2026-10-19 01:59 AM.
+-- Region tbc-eu, 9796 characters, read 2026-10-19 02:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10511,7 +10511,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["biggimama-spineshatter"]=2,
 	["bighencha-spineshatter"]=1,
 	["biginpants-spineshatter"]=3,
-	["bigjimmy-spineshatter"]=5,
+	["bigjimmy-spineshatter"]=15,
 	["bigmacleeroy-thunderstrike"]=20,
 	["bigname-spineshatter"]=9,
 	["bigprøblem-spineshatter"]=3,
@@ -12469,7 +12469,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["finnflurry-spineshatter"]=12,
 	["fintefan-spineshatter"]=11,
 	["fintiklushka-spineshatter"]=11,
-	["fìona-spineshatter"]=12,
+	["fìona-spineshatter"]=11,
 	["fionaqt-thunderstrike"]=12,
 	["fionluisant-spineshatter"]=17,
 	["firaa-spineshatter"]=5,
@@ -13964,7 +13964,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["kêkburagol-spineshatter"]=23,
 	["kekeog-spineshatter"]=9,
 	["kekesick-spineshatter"]=5,
-	["kekko-spineshatter"]=25,
+	["kekko-spineshatter"]=24,
 	["kekoz-spineshatter"]=9,
 	["kekpaw-spineshatter"]=16,
 	["kelayu-thunderstrike"]=1,
@@ -16670,7 +16670,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["rentree-spineshatter"]=1,
 	["repic-spineshatter"]=3,
 	["repixz-spineshatter"]=13,
-	["repple-spineshatter"]=25,
+	["repple-spineshatter"]=24,
 	["reprîeve-spineshatter"]=2,
 	["requièm-spineshatter"]=3,
 	["requiemit-spineshatter"]=3,
@@ -16916,7 +16916,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["sæxygreatkha-spineshatter"]=11,
 	["saggitta-spineshatter"]=16,
 	["sagoz-thunderstrike"]=5,
-	["sahlstrom-spineshatter"]=4,
+	["sahlstrom-spineshatter"]=9,
 	["saibotx-spineshatter"]=3,
 	["saicoo-spineshatter"]=5,
 	["saigow-spineshatter"]=5,
