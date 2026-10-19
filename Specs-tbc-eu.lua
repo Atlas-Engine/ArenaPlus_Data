@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9796 characters, read 2026-10-19 12:59 AM.
+-- Region tbc-eu, 9796 characters, read 2026-10-19 01:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -13373,7 +13373,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["ihitdabz-spineshatter"]=25,
 	["Íhr-thunderstrike"]=0,
 	["ihud-spineshatter"]=12,
-	["iiltexaine-spineshatter"]=18,
+	["iiltexaine-spineshatter"]=13,
 	["iiminix-spineshatter"]=11,
 	["iixii-spineshatter"]=25,
 	["iixqt-spineshatter"]=3,
@@ -16187,7 +16187,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["pokerdot-spineshatter"]=13,
 	["pokerok-spineshatter"]=8,
 	["pökyli-spineshatter"]=9,
-	["polaky-spineshatter"]=15,
+	["polaky-spineshatter"]=22,
 	["polardina-spineshatter"]=11,
 	["polechydes-spineshatter"]=7,
 	["polemasterxx-spineshatter"]=23,
@@ -18223,7 +18223,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["thokka-spineshatter"]=5,
 	["tholin-spineshatter"]=5,
 	["thomasmor-spineshatter"]=5,
-	["thommybrasco-spineshatter"]=3,
+	["thommybrasco-spineshatter"]=19,
 	["thommyßrasco-spineshatter"]=3,
 	["thör-spineshatter"]=7,
 	["thõr-spineshatter"]=11,
