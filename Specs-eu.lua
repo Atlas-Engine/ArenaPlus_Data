@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5347 characters, read 2026-10-18 07:00 PM.
+-- Region eu, 5347 characters, read 2026-10-18 08:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3474,7 +3474,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["rydothetrap-everlook"]=11,
 	["rydothetwink-everlook"]=41,
 	["rydothewar-everlook"]=10,
-	["rydothewl-everlook"]=10,
+	["rydothewl-everlook"]=11,
 	["ryles-hoptallus"]=10,
 	["ryuujin-shekzeer"]=10,
 	["ryuuko-shekzeer"]=11,
@@ -8417,7 +8417,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["plïnki-auberdine"]=8,
 	["plmbeachpete-shekzeer"]=7,
 	["pløgzy-shekzeer"]=2,
-	["pløgzyx-shekzeer"]=4,
+	["pløgzyx-shekzeer"]=20,
 	["plushfire-everlook"]=17,
 	["plushy-shekzeer"]=2,
 	["pm-shekzeer"]=8,
@@ -9292,8 +9292,8 @@ ns.SPECS_BY_REGION["eu"] = {
 	["tbk-auberdine"]=15,
 	["tbòne-everlook"]=1,
 	["tdzd-firemaw"]=21,
-	["teals-shekzeer"]=4,
-	["tealsbrew-shekzeer"]=6,
+	["teals-shekzeer"]=20,
+	["tealsbrew-shekzeer"]=29,
 	["teegärtner-everlook"]=7,
 	["tejbz-everlook"]=5,
 	["telander-everlook"]=1,
@@ -10324,7 +10324,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Мумаса-flamegor"]=13,
 	["Мурмау-flamegor"]=21,
 	["Мылкивэй-flamegor"]=1,
-	["Мэличка-flamegor"]=9,
+	["Мэличка-flamegor"]=12,
 	["Мягкийпоу-flamegor"]=7,
 	["Набичвар-flamegor"]=4,
 	["Назтарек-flamegor"]=0,
