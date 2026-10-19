@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9400 characters, read 2026-10-19 02:58 AM.
+-- Region tbc-us, 9400 characters, read 2026-10-19 03:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10801,7 +10801,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["cliñt-nightslayer"]=0,
 	["clinxie-nightslayer"]=4,
 	["clinxy-nightslayer"]=1,
-	["cliped-nightslayer"]=2,
+	["cliped-nightslayer"]=20,
 	["clipy-nightslayer"]=5,
 	["cloakzie-dreamscythe"]=5,
 	["clochan-nightslayer"]=13,
@@ -11642,7 +11642,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["dustfriggenw-nightslayer"]=13,
 	["dusti-nightslayer"]=25,
 	["dutonga-nightslayer"]=18,
-	["duudah-nightslayer"]=9,
+	["duudah-nightslayer"]=11,
 	["duxlol-nightslayer"]=13,
 	["duxxar-nightslayer"]=15,
 	["duzentosvolt-nightslayer"]=24,
@@ -14741,7 +14741,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["muffinmanx-nightslayer"]=5,
 	["muga-nightslayer"]=19,
 	["muggazugga-nightslayer"]=2,
-	["mugz-nightslayer"]=2,
+	["mugz-nightslayer"]=18,
 	["muhgert-dreamscythe"]=8,
 	["muirx-nightslayer"]=4,
 	["mujica-nightslayer"]=7,
@@ -16010,7 +16010,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["rexadilla-nightslayer"]=13,
 	["rexqx-nightslayer"]=11,
 	["rexxrawrr-dreamscythe"]=15,
-	["reyoulolz-nightslayer"]=2,
+	["reyoulolz-nightslayer"]=20,
 	["reyyzz-nightslayer"]=2,
 	["rezlina-nightslayer"]=8,
 	["rfe-nightslayer"]=8,
@@ -16649,7 +16649,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["shtewy-nightslayer"]=17,
 	["shticked-nightslayer"]=5,
 	["shujanko-nightslayer"]=5,
-	["shukmakok-nightslayer"]=2,
+	["shukmakok-nightslayer"]=20,
 	["shunning-nightslayer"]=5,
 	["shunsui-nightslayer"]=18,
 	["shuolezaijia-nightslayer"]=13,
@@ -18507,7 +18507,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["Ÿømï-nightslayer"]=4,
 	["yonce-nightslayer"]=19,
 	["yondos-nightslayer"]=10,
-	["yooti-dreamscythe"]=2,
+	["yooti-dreamscythe"]=18,
 	["yopoheal-nightslayer"]=10,
 	["yopomage-nightslayer"]=4,
 	["yorha-nightslayer"]=1,
@@ -18666,7 +18666,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["zlv-nightslayer"]=1,
 	["zmub-dreamscythe"]=5,
 	["znr-nightslayer"]=8,
-	["zns-nightslayer"]=2,
+	["zns-nightslayer"]=18,
 	["znug-nightslayer"]=19,
 	["zocho-nightslayer"]=18,
 	["zoghunter-nightslayer"]=6,
@@ -18713,7 +18713,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["zúlu-nightslayer"]=5,
 	["zumion-nightslayer"]=12,
 	["zurgs-dreamscythe"]=13,
-	["zurgzz-nightslayer"]=2,
+	["zurgzz-nightslayer"]=18,
 	["zurnr-dreamscythe"]=5,
 	["zurtflay-nightslayer"]=1,
 	["zusul-nightslayer"]=24,
