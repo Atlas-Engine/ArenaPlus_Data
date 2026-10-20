@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5349 characters, read 2026-10-20 04:00 AM.
+-- Region eu, 5349 characters, read 2026-10-20 05:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2637,7 +2637,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["monais-shekzeer"]=30,
 	["monduk-auberdine"]=10,
 	["moneylong-shekzeer"]=11,
-	["mongoliamonk-hoptallus"]=20,
+	["mongoliamonk-hoptallus"]=21,
 	["mongue-garalon"]=80,
 	["monkasxd-everlook"]=11,
 	["monkasxd-ook-ook"]=21,
@@ -7286,10 +7286,10 @@ ns.SPECS_BY_REGION["eu"] = {
 	["kenblöck-mirage-raceway"]=15,
 	["kenhavefun-shekzeer"]=6,
 	["kenkofot-garalon"]=10,
-	["kennyk-garalon"]=18,
+	["kennyk-garalon"]=1,
 	["kennyk-shekzeer"]=18,
 	["kennykk-garalon"]=1,
-	["kennyykofot-garalon"]=34,
+	["kennyykofot-garalon"]=24,
 	["kenoh-shekzeer"]=18,
 	["kenrize-shekzeer"]=2,
 	["kenshìk-shekzeer"]=1,
@@ -7559,7 +7559,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["livanà-everlook"]=12,
 	["lkdsjciks-shekzeer"]=3,
 	["lkkrwiepen-shekzeer"]=6,
-	["llorona-garalon"]=14,
+	["llorona-garalon"]=20,
 	["loadcum-shekzeer"]=13,
 	["lockdjävul-mirage-raceway"]=23,
 	["lockdownqt-everlook"]=23,
@@ -7877,7 +7877,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["monduk-auberdine"]=7,
 	["moneylong-shekzeer"]=17,
 	["mongoliamonk-hoptallus"]=13,
-	["mongue-garalon"]=9,
+	["mongue-garalon"]=12,
 	["monkasxd-everlook"]=6,
 	["monkasxd-ook-ook"]=6,
 	["monkatoz-shekzeer"]=7,
@@ -9777,7 +9777,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["willeps-shekzeer"]=2,
 	["windchimebro-shekzeer"]=7,
 	["windchimepro-shekzeer"]=14,
-	["windpapi-shekzeer"]=24,
+	["windpapi-shekzeer"]=34,
 	["windpipe-shekzeer"]=7,
 	["windpotata-shekzeer"]=7,
 	["windwålker-shekzeer"]=6,
