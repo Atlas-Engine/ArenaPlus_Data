@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9403 characters, read 2026-10-20 05:58 AM.
+-- Region tbc-us, 9403 characters, read 2026-10-20 06:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12748,7 +12748,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["harmac-nightslayer"]=14,
 	["harmes-nightslayer"]=5,
 	["harper-nightslayer"]=15,
-	["harq-nightslayer"]=14,
+	["harq-nightslayer"]=1,
 	["harrybeav-nightslayer"]=1,
 	["hashixd-nightslayer"]=18,
 	["hashnaps-dreamscythe"]=19,
@@ -14042,7 +14042,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["linorchid-nightslayer"]=7,
 	["linshift-nightslayer"]=3,
 	["lion-nightslayer"]=5,
-	["lionette-dreamscythe"]=2,
+	["lionette-dreamscythe"]=18,
 	["lipopx-nightslayer"]=8,
 	["liquidbrown-nightslayer"]=2,
 	["liquidlux-dreamscythe"]=1,
@@ -15768,7 +15768,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["qolel-nightslayer"]=1,
 	["qookd-nightslayer"]=1,
 	["qornelius-nightslayer"]=6,
-	["qp-nightslayer"]=6,
+	["qp-nightslayer"]=4,
 	["qpopx-nightslayer"]=11,
 	["qtavaha-nightslayer"]=13,
 	["qtcutie-nightslayer"]=2,
@@ -16045,7 +16045,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["rhyjz-nightslayer"]=7,
 	["rhythmic-nightslayer"]=5,
 	["riaxa-nightslayer"]=17,
-	["ricepoopie-dreamscythe"]=13,
+	["ricepoopie-dreamscythe"]=16,
 	["rich-nightslayer"]=2,
 	["richardlolz-nightslayer"]=2,
 	["richardpig-nightslayer"]=10,
@@ -17180,7 +17180,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["strapthefent-nightslayer"]=25,
 	["stratbot-nightslayer"]=4,
 	["strawbeemilk-nightslayer"]=6,
-	["strawhât-dreamscythe"]=7,
+	["strawhât-dreamscythe"]=3,
 	["strikful-dreamscythe"]=11,
 	["strokës-nightslayer"]=2,
 	["strongclaws-nightslayer"]=3,
@@ -18701,7 +18701,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["zr-nightslayer"]=5,
 	["zraka-nightslayer"]=2,
 	["zshamy-nightslayer"]=24,
-	["zugaccino-nightslayer"]=18,
+	["zugaccino-nightslayer"]=2,
 	["zugdonor-nightslayer"]=10,
 	["zuggantugg-nightslayer"]=18,
 	["zuggintbc-nightslayer"]=5,
