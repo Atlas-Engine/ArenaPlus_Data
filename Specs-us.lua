@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5186 characters, read 2026-10-20 03:59 PM.
+-- Region us, 5186 characters, read 2026-10-20 04:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -894,7 +894,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["coyson-immerseus"]=10,
 	["cozeno-pagle"]=41,
 	["cpc-raden"]=10,
-	["cptfauk-pagle"]=50,
+	["cptfauk-pagle"]=51,
 	["cptoomerica-pagle"]=10,
 	["cptstabbin-pagle"]=10,
 	["crabrangoon-galakras"]=11,
@@ -5795,7 +5795,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["chùnli-pagle"]=10,
 	["chuppie-pagle"]=2,
 	["chyse-pagle"]=1,
-	["ciapsyop-pagle"]=33,
+	["ciapsyop-pagle"]=12,
 	["cìel-pagle"]=10,
 	["cinch-lei-shen"]=3,
 	["citizentroll-immerseus"]=22,
@@ -5803,7 +5803,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["clamsslammer-pagle"]=7,
 	["clawingout-pagle"]=6,
 	["clay-raden"]=10,
-	["clayia-raden"]=5,
+	["clayia-raden"]=12,
 	["clayre-raden"]=13,
 	["cleantoilet-benediction"]=17,
 	["clefero-nazgrim"]=13,
@@ -5816,7 +5816,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["cloninglab-pagle"]=5,
 	["Çlot-raden"]=34,
 	["cloudstrifer-pagle"]=7,
-	["cloutxchaser-raden"]=17,
+	["cloutxchaser-raden"]=5,
 	["clovergirl-raden"]=17,
 	["clownsauce-nazgrim"]=29,
 	["clutchnthis-pagle"]=1,
@@ -5826,7 +5826,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["cobearsdruid-pagle"]=17,
 	["cobrä-pagle"]=24,
 	["cöbrä-pagle"]=7,
-	["cochonhalal-pagle"]=32,
+	["cochonhalal-pagle"]=16,
 	["codiplay-pagle"]=11,
 	["codywithak-raden"]=7,
 	["codyxd-pagle"]=16,
@@ -5856,7 +5856,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["corrodius-lei-shen"]=7,
 	["corumba-pagle"]=7,
 	["cosmicrage-lei-shen"]=7,
-	["cosmokramer-pagle"]=17,
+	["cosmokramer-pagle"]=5,
 	["cosmopolitin-raden"]=2,
 	["costaricax-pagle"]=20,
 	["cottenijoe-pagle"]=15,
@@ -7932,7 +7932,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["mindlessjak-raden"]=28,
 	["mindlessjr-nazgrim"]=28,
 	["mindlessjuan-raden"]=28,
-	["mindlless-raden"]=21,
+	["mindlless-raden"]=9,
 	["mindprison-raden"]=0,
 	["minigalof-raden"]=1,
 	["minioutragé-raden"]=24,
@@ -10076,7 +10076,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["youngx-pagle"]=4,
 	["youppl-pagle"]=7,
 	["yourendisher-pagle"]=11,
-	["youz-pagle"]=19,
+	["youz-pagle"]=15,
 	["yrd-pagle"]=9,
 	["yrrlol-pagle"]=5,
 	["yugehackman-pagle"]=7,

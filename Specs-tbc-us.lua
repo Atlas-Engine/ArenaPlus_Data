@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9380 characters, read 2026-10-20 03:58 PM.
+-- Region tbc-us, 9380 characters, read 2026-10-20 04:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12154,7 +12154,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["fnu-dreamscythe"]=11,
 	["foffer-nightslayer"]=7,
 	["foggy-nightslayer"]=2,
-	["fokrawr-dreamscythe"]=7,
+	["fokrawr-dreamscythe"]=3,
 	["fonz-nightslayer"]=13,
 	["fonzsham-nightslayer"]=19,
 	["fonzyx-nightslayer"]=13,
@@ -12357,7 +12357,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["gengiscon-nightslayer"]=5,
 	["geniusbeast-nightslayer"]=7,
 	["gennis-nightslayer"]=6,
-	["gennisp-nightslayer"]=14,
+	["gennisp-nightslayer"]=1,
 	["gennisw-nightslayer"]=2,
 	["gennys-nightslayer"]=10,
 	["gensai-nightslayer"]=5,
@@ -13733,7 +13733,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["komyy-nightslayer"]=12,
 	["konnz-nightslayer"]=5,
 	["kooba-nightslayer"]=5,
-	["kook-nightslayer"]=3,
+	["kook-nightslayer"]=7,
 	["kordial-dreamscythe"]=11,
 	["korknbeans-nightslayer"]=10,
 	["korkz-nightslayer"]=10,
@@ -15015,7 +15015,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["notoriousrat-nightslayer"]=11,
 	["notpants-nightslayer"]=2,
 	["notphenom-dreamscythe"]=13,
-	["notphenom-nightslayer"]=16,
+	["notphenom-nightslayer"]=13,
 	["notreezy-nightslayer"]=1,
 	["notswimming-nightslayer"]=19,
 	["nottabott-nightslayer"]=4,
@@ -16536,7 +16536,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["shiftÿ-nightslayer"]=7,
 	["shiftyceñt-nightslayer"]=7,
 	["shiftygoobec-nightslayer"]=7,
-	["shiftylock-nightslayer"]=13,
+	["shiftylock-nightslayer"]=16,
 	["shiftytree-nightslayer"]=3,
 	["shigekazu-nightslayer"]=12,
 	["shigzy-nightslayer"]=1,
@@ -16916,7 +16916,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["soullessrope-dreamscythe"]=7,
 	["soulshifta-dreamscythe"]=7,
 	["soulshiftuh-dreamscythe"]=7,
-	["soulx-nightslayer"]=15,
+	["soulx-nightslayer"]=0,
 	["souperfreak-dreamscythe"]=16,
 	["sourdiez-nightslayer"]=11,
 	["sourdoughx-nightslayer"]=5,
