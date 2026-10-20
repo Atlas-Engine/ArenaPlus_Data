@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5185 characters, read 2026-10-20 02:59 AM.
+-- Region us, 5185 characters, read 2026-10-20 03:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7786,7 +7786,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["makura-raden"]=1,
 	["malavenar-raden"]=5,
 	["maleficá-nazgrim"]=24,
-	["malirya-raden"]=9,
+	["malirya-raden"]=21,
 	["mállkü-pagle"]=22,
 	["mallkually-pagle"]=15,
 	["malmighty-pagle"]=3,
@@ -7827,7 +7827,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["matahordax-pagle"]=7,
 	["matemage-pagle"]=7,
 	["mathsbangsgg-pagle"]=8,
-	["mathsmoansgg-pagle"]=26,
+	["mathsmoansgg-pagle"]=25,
 	["matix-nazgrim"]=16,
 	["matraxs-raden"]=34,
 	["mátrix-pagle"]=14,
@@ -9870,7 +9870,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["waped-pagle"]=20,
 	["warcounsel-pagle"]=34,
 	["warkov-raden"]=7,
-	["warlockens-pagle"]=24,
+	["warlockens-pagle"]=8,
 	["warlockeuse-pagle"]=28,
 	["warmongering-raden"]=7,
 	["warqueeph-galakras"]=19,

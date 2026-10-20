@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9801 characters, read 2026-10-20 02:59 AM.
+-- Region tbc-eu, 9799 characters, read 2026-10-20 03:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5230,7 +5230,6 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["mercaoe-spineshatter"]=50,
 	["merciless-spineshatter"]=11,
 	["mercyq-spineshatter"]=11,
-	["merely-thunderstrike"]=31,
 	["mériáh-spineshatter"]=81,
 	["merpheus-spineshatter"]=20,
 	["mertzgodx-spineshatter"]=31,
@@ -6705,7 +6704,6 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["questionable-spineshatter"]=20,
 	["quichex-spineshatter"]=21,
 	["quickness-spineshatter"]=21,
-	["quickset-thunderstrike"]=41,
 	["quietplease-spineshatter"]=51,
 	["quiff-spineshatter"]=21,
 	["quiffwar-spineshatter"]=11,
@@ -10950,7 +10948,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["catice-spineshatter"]=6,
 	["catmän-spineshatter"]=6,
 	["cattalo-spineshatter"]=1,
-	["catwifhat-spineshatter"]=5,
+	["catwifhat-spineshatter"]=15,
 	["cavitonne-spineshatter"]=13,
 	["cãw-spineshatter"]=1,
 	["cazzette-thunderstrike"]=2,
@@ -14973,7 +14971,6 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["mercaoe-spineshatter"]=9,
 	["merciless-spineshatter"]=3,
 	["mercyq-spineshatter"]=15,
-	["merely-thunderstrike"]=16,
 	["mériáh-spineshatter"]=2,
 	["merizio-spineshatter"]=0,
 	["merpheus-spineshatter"]=22,
@@ -16467,7 +16464,6 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["questionable-spineshatter"]=23,
 	["quichex-spineshatter"]=19,
 	["quickness-spineshatter"]=3,
-	["quickset-thunderstrike"]=1,
 	["quietplease-spineshatter"]=3,
 	["quiff-spineshatter"]=5,
 	["quiffwar-spineshatter"]=5,
@@ -19245,7 +19241,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["yepho-spineshatter"]=6,
 	["yermeezylr-spineshatter"]=3,
 	["yermeezyy-spineshatter"]=5,
-	["yessa-spineshatter"]=19,
+	["yessa-spineshatter"]=3,
 	["yestor-spineshatter"]=1,
 	["yezay-spineshatter"]=11,
 	["yhv-spineshatter"]=2,
