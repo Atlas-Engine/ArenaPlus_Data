@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9377 characters, read 2026-10-20 08:58 AM.
+-- Region tbc-us, 9377 characters, read 2026-10-20 09:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10695,7 +10695,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["chovydog-nightslayer"]=5,
 	["chrishandsom-nightslayer"]=6,
 	["chrishlong-nightslayer"]=3,
-	["chriski-nightslayer"]=10,
+	["chriski-nightslayer"]=24,
 	["chrisonfire-nightslayer"]=4,
 	["chrispratt-nightslayer"]=1,
 	["chrispy-nightslayer"]=18,
@@ -12071,7 +12071,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["fishtwists-dreamscythe"]=19,
 	["fishwater-nightslayer"]=2,
 	["fishybop-dreamscythe"]=11,
-	["fishyfury-dreamscythe"]=18,
+	["fishyfury-dreamscythe"]=2,
 	["fishzaza-nightslayer"]=18,
 	["fiske-nightslayer"]=20,
 	["fistbuut-nightslayer"]=11,
@@ -12561,7 +12561,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["greenoutp-nightslayer"]=15,
 	["greenrangër-nightslayer"]=5,
 	["greensaw-nightslayer"]=1,
-	["greenworrier-dreamscythe"]=18,
+	["greenworrier-dreamscythe"]=2,
 	["gregoryhouse-nightslayer"]=14,
 	["gregsdead-nightslayer"]=1,
 	["grekt-nightslayer"]=2,
@@ -13102,7 +13102,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["imlikethat-nightslayer"]=13,
 	["immapwnu-nightslayer"]=1,
 	["immunelol-nightslayer"]=11,
-	["immvp-dreamscythe"]=12,
+	["immvp-dreamscythe"]=1,
 	["imnotokay-nightslayer"]=5,
 	["imox-dreamscythe"]=25,
 	["impatïence-nightslayer"]=10,
@@ -14171,7 +14171,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["lyariïi-dreamscythe"]=3,
 	["lyricalz-nightslayer"]=1,
 	["lyserdz-nightslayer"]=0,
-	["lyticqt-nightslayer"]=8,
+	["lyticqt-nightslayer"]=5,
 	["lyzlock-nightslayer"]=13,
 	["maadhung-nightslayer"]=4,
 	["maalfunction-nightslayer"]=10,
@@ -16674,7 +16674,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["sitdownsir-dreamscythe"]=1,
 	["sivyis-nightslayer"]=10,
 	["sixadin-nightslayer"]=11,
-	["sixbags-nightslayer"]=22,
+	["sixbags-nightslayer"]=7,
 	["sixfivesauce-nightslayer"]=13,
 	["sixjuliet-nightslayer"]=10,
 	["sìxma-nightslayer"]=18,
