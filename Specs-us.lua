@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5185 characters, read 2026-10-19 08:59 PM.
+-- Region us, 5185 characters, read 2026-10-19 09:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3831,7 +3831,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["sekyriu-pagle"]=80,
 	["selania-pagle"]=11,
 	["seleste-raden"]=111,
-	["selfplay-raden"]=10,
+	["selfplay-raden"]=11,
 	["selina-lei-shen"]=221,
 	["semingg-pagle"]=11,
 	["senddudesqt-pagle"]=20,
@@ -5042,7 +5042,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["aem-pagle"]=13,
 	["Ærîthøs-pagle"]=16,
 	["aeroes-pagle"]=3,
-	["aerzkei-arugal-au"]=5,
+	["aerzkei-arugal-au"]=17,
 	["aës-pagle"]=1,
 	["afekz-immerseus"]=14,
 	["affliktt-arugal-au"]=9,
@@ -5409,7 +5409,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["bigdmayhem-pagle"]=0,
 	["bigdudú-raden"]=17,
 	["bigfighterx-pagle"]=1,
-	["biggertotem-pagle"]=15,
+	["biggertotem-pagle"]=19,
 	["bigghøst-pagle"]=16,
 	["biggreensham-raden"]=15,
 	["bigjae-pagle"]=30,
@@ -9160,7 +9160,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["slumpirlpov-raden"]=1,
 	["slumplord-raden"]=14,
 	["slumplordx-raden"]=14,
-	["smallrass-pagle"]=30,
+	["smallrass-pagle"]=7,
 	["smalltrain-pagle"]=15,
 	["smartpastry-pagle"]=14,
 	["smashdeez-nazgrim"]=7,
