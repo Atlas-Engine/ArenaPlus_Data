@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9379 characters, read 2026-10-20 02:58 PM.
+-- Region tbc-us, 9380 characters, read 2026-10-20 03:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7657,6 +7657,7 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["sspxmane-nightslayer"]=20,
 	["ßraxtør-nightslayer"]=60,
 	["ßräzy-nightslayer"]=51,
+	["ßubbless-nightslayer"]=41,
 	["ßubblicious-nightslayer"]=101,
 	["ßutter-nightslayer"]=30,
 	["ßxß-nightslayer"]=110,
@@ -11254,7 +11255,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["deweystab-dreamscythe"]=8,
 	["dewsnipe-dreamscythe"]=6,
 	["dewxter-nightslayer"]=19,
-	["dexed-nightslayer"]=7,
+	["dexed-nightslayer"]=22,
 	["deywa-nightslayer"]=17,
 	["dezeaze-dreamscythe"]=16,
 	["dezmeow-dreamscythe"]=3,
@@ -11878,7 +11879,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["explicitlol-nightslayer"]=5,
 	["explicitlul-nightslayer"]=8,
 	["exponential-nightslayer"]=18,
-	["exqtt-nightslayer"]=13,
+	["exqtt-nightslayer"]=23,
 	["exrinn-dreamscythe"]=10,
 	["exsilpig-nightslayer"]=18,
 	["exsilw-nightslayer"]=18,
@@ -12356,7 +12357,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["gengiscon-nightslayer"]=5,
 	["geniusbeast-nightslayer"]=7,
 	["gennis-nightslayer"]=6,
-	["gennisp-nightslayer"]=1,
+	["gennisp-nightslayer"]=14,
 	["gennisw-nightslayer"]=2,
 	["gennys-nightslayer"]=10,
 	["gensai-nightslayer"]=5,
@@ -14331,7 +14332,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["mavarok-nightslayer"]=4,
 	["maverikc-nightslayer"]=18,
 	["mavriquio-nightslayer"]=2,
-	["maws-nightslayer"]=7,
+	["maws-nightslayer"]=3,
 	["maxas-dreamscythe"]=18,
 	["maxchickens-dreamscythe"]=7,
 	["maximoslol-nightslayer"]=16,
@@ -14571,7 +14572,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["mixies-nightslayer"]=21,
 	["mixzyy-nightslayer"]=13,
 	["mizoto-nightslayer"]=11,
-	["mizraelka-dreamscythe"]=10,
+	["mizraelka-dreamscythe"]=19,
 	["mjölk-nightslayer"]=9,
 	["mjôllnir-nightslayer"]=19,
 	["mkgx-nightslayer"]=13,
@@ -15014,7 +15015,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["notoriousrat-nightslayer"]=11,
 	["notpants-nightslayer"]=2,
 	["notphenom-dreamscythe"]=13,
-	["notphenom-nightslayer"]=13,
+	["notphenom-nightslayer"]=16,
 	["notreezy-nightslayer"]=1,
 	["notswimming-nightslayer"]=19,
 	["nottabott-nightslayer"]=4,
@@ -16829,7 +16830,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["smuxx-nightslayer"]=2,
 	["snaileyes-nightslayer"]=5,
 	["snakelingz-nightslayer"]=24,
-	["snakeonplane-nightslayer"]=12,
+	["snakeonplane-nightslayer"]=1,
 	["snakeygirl-nightslayer"]=7,
 	["snakrifice-dreamscythe"]=2,
 	["snapcity-nightslayer"]=13,
@@ -17020,6 +17021,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["sspxmane-nightslayer"]=10,
 	["ßraxtør-nightslayer"]=2,
 	["ßräzy-nightslayer"]=1,
+	["ßubbless-nightslayer"]=7,
 	["ßubblicious-nightslayer"]=11,
 	["ßursting-nightslayer"]=0,
 	["ßutter-nightslayer"]=17,
