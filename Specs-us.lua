@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5185 characters, read 2026-10-20 01:59 AM.
+-- Region us, 5185 characters, read 2026-10-20 02:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6345,7 +6345,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["eezz-nazgrim"]=13,
 	["efekz-immerseus"]=14,
 	["eggfooyoung-immerseus"]=4,
-	["eidottnawi-pagle"]=18,
+	["eidottnawi-pagle"]=3,
 	["eikou-pagle"]=2,
 	["eka-raden"]=18,
 	["eladriel-pagle"]=0,
@@ -7261,7 +7261,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["jealusmuch-arugal-au"]=0,
 	["jedicowie-pagle"]=21,
 	["jeewwjitsu-raden"]=10,
-	["jeffatality-nazgrim"]=10,
+	["jeffatality-nazgrim"]=27,
 	["jeffrence-pagle"]=16,
 	["jefmago-raden"]=11,
 	["jellierolls-pagle"]=4,
@@ -7907,7 +7907,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["miercy-galakras"]=16,
 	["mightymagus-raden"]=1,
 	["migué-pagle"]=16,
-	["mihal-nazgrim"]=1,
+	["mihal-nazgrim"]=11,
 	["miichael-pagle"]=2,
 	["miintpwnagex-nazgrim"]=18,
 	["mikaelios-raden"]=2,
@@ -7928,7 +7928,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["mîndless-raden"]=24,
 	["mindlessjack-raden"]=9,
 	["míndléssjáck-raden"]=18,
-	["mindlessjak-raden"]=24,
+	["mindlessjak-raden"]=28,
 	["mindlessjr-nazgrim"]=28,
 	["mindlessjuan-raden"]=28,
 	["mindlless-raden"]=21,
@@ -7943,7 +7943,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["misprëdictio-nazgrim"]=21,
 	["missatrinni-pagle"]=0,
 	["missmama-galakras"]=5,
-	["missrollings-pagle"]=10,
+	["missrollings-pagle"]=4,
 	["misstotem-pagle"]=15,
 	["missyu-immerseus"]=23,
 	["mistafistuh-pagle"]=4,
@@ -9934,7 +9934,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["wintercoolss-pagle"]=18,
 	["wïntërwîtch-pagle"]=25,
 	["winterzface-nazgrim"]=25,
-	["wiseoleman-pagle"]=22,
+	["wiseoleman-pagle"]=15,
 	["wispér-raden"]=6,
 	["wìz-raden"]=21,
 	["wîzärdøføzz-raden"]=15,
