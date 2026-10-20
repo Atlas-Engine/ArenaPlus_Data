@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5351 characters, read 2026-10-20 12:00 PM.
+-- Region eu, 5353 characters, read 2026-10-20 01:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -270,6 +270,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["aram-everlook"]=10,
 	["aramorth-mirage-raceway"]=20,
 	["aranoidea-everlook"]=41,
+	["arcasius-shekzeer"]=11,
 	["archaorn-mirage-raceway"]=20,
 	["archibald-hoptallus"]=10,
 	["archïchouett-shekzeer"]=10,
@@ -1307,6 +1308,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["fàcemash-shekzeer"]=41,
 	["faelivryn-ook-ook"]=41,
 	["fær-shekzeer"]=41,
+	["fair-mirage-raceway"]=11,
 	["faithful-everlook"]=11,
 	["fakekickqt-everlook"]=11,
 	["fakenurse-shekzeer"]=41,
@@ -4325,7 +4327,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["videostore-shekzeer"]=11,
 	["viint-shekzeer"]=11,
 	["vïïnt-shekzeer"]=41,
-	["viloy-lakeshire"]=41,
 	["vindictive-shekzeer"]=10,
 	["vint-garalon"]=11,
 	["vínt-shekzeer"]=11,
@@ -5395,6 +5396,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["aramorth-mirage-raceway"]=1,
 	["aranoidea-everlook"]=3,
 	["arcade-gehennas"]=0,
+	["arcasius-shekzeer"]=1,
 	["archaorn-mirage-raceway"]=8,
 	["archibald-hoptallus"]=9,
 	["archïchouett-shekzeer"]=2,
@@ -6478,6 +6480,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["fàcemash-shekzeer"]=11,
 	["faelivryn-ook-ook"]=9,
 	["fær-shekzeer"]=9,
+	["fair-mirage-raceway"]=24,
 	["faithful-everlook"]=23,
 	["fakekickqt-everlook"]=5,
 	["fakenurse-shekzeer"]=9,
@@ -6714,7 +6717,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["golmonquidot-shekzeer"]=17,
 	["gomugomuno-shekzeer"]=8,
 	["gonga-shekzeer"]=14,
-	["goodrich-shekzeer"]=17,
+	["goodrich-shekzeer"]=28,
 	["goofel-gehennas"]=0,
 	["googlemex-everlook"]=13,
 	["googleorb-shekzeer"]=6,
@@ -8702,7 +8705,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["rofmagexy-mirage-raceway"]=10,
 	["rogojine-shekzeer"]=5,
 	["rõgue-mirage-raceway"]=24,
-	["rogunjaknoha-norushen"]=34,
+	["rogunjaknoha-norushen"]=24,
 	["roheryn-shekzeer"]=1,
 	["roidesinges-shekzeer"]=1,
 	["rokusham-shekzeer"]=16,
@@ -8806,7 +8809,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["satåna-garalon"]=4,
 	["satåna-shekzeer"]=4,
 	["såtanå-shekzeer"]=14,
-	["satånaz-shekzeer"]=14,
+	["satånaz-shekzeer"]=4,
 	["satåntrapbot-shekzeer"]=4,
 	["satara-shekzeer"]=26,
 	["satazhia-shekzeer"]=12,
@@ -9646,7 +9649,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["videostore-shekzeer"]=20,
 	["viint-shekzeer"]=8,
 	["vïïnt-shekzeer"]=21,
-	["viloy-lakeshire"]=22,
+	["viloy-everlook"]=0,
 	["vindictive-shekzeer"]=6,
 	["vint-garalon"]=9,
 	["vínt-shekzeer"]=2,
