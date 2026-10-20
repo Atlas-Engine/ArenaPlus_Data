@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9379 characters, read 2026-10-20 12:58 PM.
+-- Region tbc-us, 9379 characters, read 2026-10-20 01:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11014,7 +11014,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["cutetamale-nightslayer"]=18,
 	["cuv-nightslayer"]=1,
 	["cve-dreamscythe"]=7,
-	["cvzz-nightslayer"]=23,
+	["cvzz-nightslayer"]=16,
 	["cwade-nightslayer"]=18,
 	["cxa-nightslayer"]=2,
 	["cxo-nightslayer"]=5,
@@ -12503,7 +12503,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["gonkman-nightslayer"]=5,
 	["gonna-nightslayer"]=5,
 	["gonzab-nightslayer"]=4,
-	["gonzoh-nightslayer"]=1,
+	["gonzoh-nightslayer"]=14,
 	["gooberjones-nightslayer"]=13,
 	["goochey-nightslayer"]=11,
 	["goochsniff-nightslayer"]=3,
@@ -14639,7 +14639,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["monkichi-nightslayer"]=2,
 	["monkmindset-nightslayer"]=7,
 	["monsieurcaca-nightslayer"]=17,
-	["monstamage-nightslayer"]=6,
+	["monstamage-nightslayer"]=4,
 	["monstër-dreamscythe"]=2,
 	["montix-nightslayer"]=8,
 	["montolite-nightslayer"]=11,
@@ -16630,7 +16630,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["shyrack-nightslayer"]=7,
 	["shyrunic-nightslayer"]=19,
 	["siaj-nightslayer"]=7,
-	["sialara-nightslayer"]=13,
+	["sialara-nightslayer"]=23,
 	["sickflow-nightslayer"]=2,
 	["sicklikeme-nightslayer"]=5,
 	["sicknature-nightslayer"]=24,
@@ -18351,7 +18351,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["xingyunhu-nightslayer"]=1,
 	["xinok-nightslayer"]=2,
 	["xitraxo-nightslayer"]=6,
-	["xixor-nightslayer"]=18,
+	["xixor-nightslayer"]=20,
 	["xkowan-nightslayer"]=10,
 	["xlader-dreamscythe"]=4,
 	["xlader-nightslayer"]=4,
