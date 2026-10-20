@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5188 characters, read 2026-10-20 06:59 AM.
+-- Region us, 5187 characters, read 2026-10-20 07:54 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -821,7 +821,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["chumpw-raden"]=11,
 	["chunklèè-galakras"]=21,
 	["chunkyhealz-galakras"]=50,
-	["chunkythotz-galakras"]=50,
 	["chùnli-pagle"]=51,
 	["chuppie-pagle"]=31,
 	["chyse-pagle"]=80,
@@ -5044,7 +5043,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["Æggrophobia-pagle"]=13,
 	["aeliline-pagle"]=0,
 	["aellane-pagle"]=6,
-	["aem-pagle"]=13,
+	["aem-pagle"]=9,
 	["Ærîthøs-pagle"]=16,
 	["aeroes-pagle"]=3,
 	["aerzkei-arugal-au"]=17,
@@ -5794,7 +5793,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["chumpw-raden"]=7,
 	["chunklèè-galakras"]=10,
 	["chunkyhealz-galakras"]=9,
-	["chunkythotz-galakras"]=4,
 	["chùnli-pagle"]=10,
 	["chuppie-pagle"]=2,
 	["chyse-pagle"]=1,
@@ -9485,7 +9483,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["teamobaggins-galakras"]=12,
 	["teatable-raden"]=1,
 	["technique-raden"]=7,
-	["tectros-pagle"]=7,
+	["tectros-pagle"]=30,
 	["tedespinguee-immerseus"]=4,
 	["teejayc-pagle"]=18,
 	["teejizzleqt-pagle"]=7,
@@ -9995,7 +9993,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["xarstorm-immerseus"]=1,
 	["xatica-pagle"]=14,
 	["xatyka-pagle"]=1,
-	["xavilier-pagle"]=14,
+	["xavilier-pagle"]=29,
 	["xb-galakras"]=10,
 	["xcen-raden"]=18,
 	["xcnrich-raden"]=10,
