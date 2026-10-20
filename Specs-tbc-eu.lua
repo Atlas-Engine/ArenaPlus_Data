@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9795 characters, read 2026-10-20 10:59 AM.
+-- Region tbc-eu, 9795 characters, read 2026-10-20 11:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10559,7 +10559,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["bitemark-spineshatter"]=1,
 	["bizquit-spineshatter"]=1,
 	["bjeff-thunderstrike"]=1,
-	["bjornesmag-thunderstrike"]=2,
+	["bjornesmag-thunderstrike"]=17,
 	["bjumpa-spineshatter"]=17,
 	["bjumpaa-spineshatter"]=15,
 	["bjutteh-thunderstrike"]=1,
@@ -12531,7 +12531,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["flixahtwo-spineshatter"]=11,
 	["flohw-spineshatter"]=20,
 	["floopz-spineshatter"]=3,
-	["floopzx-spineshatter"]=2,
+	["floopzx-spineshatter"]=17,
 	["floopzy-spineshatter"]=20,
 	["floozy-spineshatter"]=5,
 	["floverten-spineshatter"]=5,
@@ -13524,7 +13524,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["itsthesmash-spineshatter"]=11,
 	["itsv-spineshatter"]=15,
 	["itten-spineshatter"]=2,
-	["iuder-thunderstrike"]=12,
+	["iuder-thunderstrike"]=11,
 	["iùl-spineshatter"]=15,
 	["iunaticzer-spineshatter"]=7,
 	["ivanatrump-spineshatter"]=9,
@@ -16568,7 +16568,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["ravagerwolf-spineshatter"]=9,
 	["ravele-spineshatter"]=0,
 	["ravick-thunderstrike"]=19,
-	["ravin-spineshatter"]=3,
+	["ravin-spineshatter"]=19,
 	["ravine-spineshatter"]=9,
 	["ravined-spineshatter"]=3,
 	["ravineq-spineshatter"]=9,
@@ -17323,7 +17323,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["shpx-spineshatter"]=19,
 	["shqiptarr-spineshatter"]=2,
 	["shreddah-spineshatter"]=2,
-	["shrekkyy-spineshatter"]=13,
+	["shrekkyy-spineshatter"]=14,
 	["shrewbself-spineshatter"]=1,
 	["shrewbz-spineshatter"]=2,
 	["shrimpguy-spineshatter"]=5,
@@ -19471,7 +19471,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["zrph-spineshatter"]=24,
 	["zrubman-spineshatter"]=9,
 	["zshinobi-spineshatter"]=3,
-	["zslayer-spineshatter"]=17,
+	["zslayer-spineshatter"]=2,
 	["zuazney-thunderstrike"]=12,
 	["zucchero-spineshatter"]=7,
 	["zuckie-thunderstrike"]=11,

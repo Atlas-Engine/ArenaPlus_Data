@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5351 characters, read 2026-10-20 11:00 AM.
+-- Region eu, 5351 characters, read 2026-10-20 12:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6777,7 +6777,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["gutalax-ook-ook"]=8,
 	["guugur-auberdine"]=10,
 	["gww-garalon"]=1,
-	["gyatthunter-norushen"]=9,
+	["gyatthunter-norushen"]=12,
 	["gymbunny-shekzeer"]=15,
 	["gypsysniper-shekzeer"]=4,
 	["haberer-everlook"]=1,
@@ -6799,7 +6799,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["halowar-shekzeer"]=1,
 	["halowl-shekzeer"]=17,
 	["halul-shekzeer"]=2,
-	["halyse-shekzeer"]=27,
+	["halyse-shekzeer"]=2,
 	["hammer-garalon"]=0,
 	["hanagata-norushen"]=9,
 	["hanamichi-norushen"]=7,
@@ -8522,7 +8522,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["quynmonk-garalon"]=6,
 	["qwanya-shekzeer"]=2,
 	["qwix-shekzeer"]=0,
-	["qxx-shekzeer"]=3,
+	["qxx-shekzeer"]=21,
 	["qz-shekzeer"]=17,
 	["rachelrage-everlook"]=1,
 	["rachelroxx-shekzeer"]=20,
@@ -9288,7 +9288,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["tastemydmg-shekzeer"]=4,
 	["tastyd-shekzeer"]=3,
 	["tawnyx-everlook"]=3,
-	["taylôrswiftx-mirage-raceway"]=7,
+	["taylôrswiftx-mirage-raceway"]=6,
 	["taylorswitch-garalon"]=1,
 	["tazes-shekzeer"]=7,
 	["tazeskeg-shekzeer"]=1,
@@ -10488,10 +10488,10 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Хилпых-flamegor"]=3,
 	["Хихихахахихи-flamegor"]=5,
 	["Хишнык-flamegor"]=0,
-	["Хлебодар-flamegor"]=5,
+	["Хлебодар-flamegor"]=15,
 	["Холлигерл-flamegor"]=9,
 	["Хорнилавхъх-flamegor"]=19,
-	["Хохотальник-flamegor"]=11,
+	["Хохотальник-flamegor"]=3,
 	["Хрендол-flamegor"]=21,
 	["Хханамонтана-flamegor"]=1,
 	["Царьсекрет-flamegor"]=9,
