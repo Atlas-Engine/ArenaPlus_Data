@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5188 characters, read 2026-10-20 04:59 AM.
+-- Region us, 5188 characters, read 2026-10-20 05:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7008,7 +7008,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["holycøcktail-raden"]=2,
 	["holyfender-pagle"]=16,
 	["holyfkbubs-pagle"]=2,
-	["holyflamez-pagle"]=16,
+	["holyflamez-pagle"]=2,
 	["holyfluxq-pagle"]=9,
 	["holygym-nazgrim"]=13,
 	["holymar-pagle"]=6,
@@ -7480,9 +7480,9 @@ ns.SPECS_BY_REGION["us"] = {
 	["klept-raden"]=4,
 	["knockoutdt-pagle"]=13,
 	["knottypawz-pagle"]=17,
-	["knuckles-pagle"]=23,
+	["knuckles-pagle"]=7,
 	["knucklès-pagle"]=2,
-	["knucklës-pagle"]=28,
+	["knucklës-pagle"]=8,
 	["knûckles-pagle"]=17,
 	["kñuckles-pagle"]=6,
 	["knuklefkr-nazgrim"]=24,
@@ -7597,7 +7597,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["leonidasxl-pagle"]=4,
 	["leowna-pagle"]=2,
 	["leownaa-pagle"]=2,
-	["lepson-nazgrim"]=7,
+	["lepson-nazgrim"]=23,
 	["leroy-galakras"]=23,
 	["lester-raden"]=3,
 	["lesthoukov-pagle"]=3,
@@ -9668,7 +9668,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["trojanbubble-pagle"]=2,
 	["trojanbubble-raden"]=2,
 	["trojanphobia-pagle"]=9,
-	["trolled-pagle"]=13,
+	["trolled-pagle"]=21,
 	["trollmaoo-galakras"]=11,
 	["troyandk-raden"]=6,
 	["troyann-pagle"]=1,
