@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9377 characters, read 2026-10-20 07:58 AM.
+-- Region tbc-us, 9377 characters, read 2026-10-20 08:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11382,7 +11382,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["dolapalooza-nightslayer"]=19,
 	["dollerz-nightslayer"]=18,
 	["doloin-nightslayer"]=5,
-	["doloqtxoxo-dreamscythe"]=24,
+	["doloqtxoxo-dreamscythe"]=10,
 	["dolosham-nightslayer"]=10,
 	["domenek-nightslayer"]=13,
 	["domice-nightslayer"]=6,
@@ -11977,7 +11977,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["fawzyx-nightslayer"]=6,
 	["faxx-nightslayer"]=18,
 	["fáylaxp-nightslayer"]=1,
-	["fazan-nightslayer"]=17,
+	["fazan-nightslayer"]=15,
 	["fb-dreamscythe"]=19,
 	["fbgdre-nightslayer"]=19,
 	["fbr-nightslayer"]=13,
@@ -12164,7 +12164,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["fora-nightslayer"]=2,
 	["forést-nightslayer"]=10,
 	["forestcleave-nightslayer"]=24,
-	["forevermorez-dreamscythe"]=25,
+	["forevermorez-dreamscythe"]=11,
 	["formyhomies-dreamscythe"]=2,
 	["förstelnad-nightslayer"]=3,
 	["forsy-nightslayer"]=2,
@@ -12279,7 +12279,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["fyrewood-nightslayer"]=4,
 	["fzlr-nightslayer"]=5,
 	["gaav-nightslayer"]=1,
-	["gaavqt-nightslayer"]=16,
+	["gaavqt-nightslayer"]=23,
 	["gabagoonin-dreamscythe"]=11,
 	["gabry-nightslayer"]=2,
 	["gaea-nightslayer"]=3,
@@ -14813,7 +14813,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["nawandorder-nightslayer"]=15,
 	["nayate-nightslayer"]=5,
 	["nazgara-dreamscythe"]=1,
-	["nazgarr-nightslayer"]=10,
+	["nazgarr-nightslayer"]=24,
 	["nazgrath-nightslayer"]=18,
 	["nazguard-nightslayer"]=9,
 	["nazhjjin-nightslayer"]=4,
@@ -18176,7 +18176,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["whiterangeaa-nightslayer"]=1,
 	["whîtêtìgér-nightslayer"]=16,
 	["whoisthisrat-nightslayer"]=2,
-	["wholigan-nightslayer"]=2,
+	["wholigan-nightslayer"]=20,
 	["whompyx-nightslayer"]=1,
 	["whooshh-nightslayer"]=24,
 	["whosaysno-nightslayer"]=6,

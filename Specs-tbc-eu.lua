@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9798 characters, read 2026-10-20 07:59 AM.
+-- Region tbc-eu, 9798 characters, read 2026-10-20 08:49 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -13866,7 +13866,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["kalimar-thunderstrike"]=3,
 	["kalimbaa-spineshatter"]=4,
 	["kalimbo-spineshatter"]=9,
-	["kalith-spineshatter"]=1,
+	["kalith-spineshatter"]=6,
 	["kallbärs-spineshatter"]=3,
 	["kallemask-spineshatter"]=5,
 	["kallemera-spineshatter"]=7,
@@ -18610,7 +18610,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["uratadreaq-spineshatter"]=0,
 	["urkainochka-spineshatter"]=2,
 	["urruz-spineshatter"]=23,
-	["Ùseless-spineshatter"]=12,
+	["Ùseless-spineshatter"]=11,
 	["uselessbro-spineshatter"]=24,
 	["uslessbropal-spineshatter"]=7,
 	["utamar-spineshatter"]=25,
@@ -18738,7 +18738,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["vermin-spineshatter"]=17,
 	["vero-spineshatter"]=8,
 	["veronelol-spineshatter"]=2,
-	["verrana-spineshatter"]=17,
+	["verrana-spineshatter"]=2,
 	["vertun-spineshatter"]=5,
 	["verybigkahba-spineshatter"]=5,
 	["verylarge-spineshatter"]=11,
@@ -19428,7 +19428,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["zizzurp-spineshatter"]=3,
 	["zkn-spineshatter"]=19,
 	["zlad-spineshatter"]=3,
-	["zladdy-spineshatter"]=11,
+	["zladdy-spineshatter"]=23,
 	["zlade-spineshatter"]=12,
 	["zladjn-spineshatter"]=8,
 	["zladtoo-spineshatter"]=19,
