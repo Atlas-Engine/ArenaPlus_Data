@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5191 characters, read 2026-10-19 11:59 PM.
+-- Region us, 5191 characters, read 2026-10-20 12:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5769,7 +5769,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["chinotonic-pagle"]=4,
 	["chiokeme-arugal-au"]=10,
 	["chitheline-raden"]=2,
-	["choé-pagle"]=11,
+	["choé-pagle"]=1,
 	["chonkars-raden"]=0,
 	["choosen-pagle"]=10,
 	["chorizero-immerseus"]=16,
@@ -5816,7 +5816,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["cloninglab-pagle"]=5,
 	["Çlot-raden"]=34,
 	["cloudstrifer-pagle"]=7,
-	["cloutxchaser-raden"]=5,
+	["cloutxchaser-raden"]=17,
 	["clovergirl-raden"]=17,
 	["clownsauce-nazgrim"]=29,
 	["clutchnthis-pagle"]=1,
@@ -5890,7 +5890,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["crazywick-pagle"]=16,
 	["creamx-raden"]=1,
 	["creamytotem-galakras"]=15,
-	["crearly-galakras"]=25,
+	["crearly-galakras"]=6,
 	["crepes-pagle"]=12,
 	["crepuscolo-pagle"]=2,
 	["crepusculé-pagle"]=1,
@@ -6494,7 +6494,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["fattymcgee-lei-shen"]=1,
 	["fatwog-raden"]=16,
 	["faylaxd-raden"]=5,
-	["fctry-raden"]=20,
+	["fctry-raden"]=3,
 	["fcx-raden"]=1,
 	["fearbane-pagle"]=26,
 	["feardaddy-pagle"]=2,
@@ -6979,7 +6979,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["hifukface-raden"]=5,
 	["hifvckface-raden"]=10,
 	["highc-galakras"]=22,
-	["highç-galakras"]=27,
+	["highç-galakras"]=10,
 	["hîghc-galakras"]=17,
 	["highchi-raden"]=0,
 	["highcortisol-raden"]=5,
@@ -8251,7 +8251,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["nunnya-raden"]=4,
 	["nupper-pagle"]=23,
 	["nurfmedk-raden"]=0,
-	["nurfthemonk-pagle"]=4,
+	["nurfthemonk-pagle"]=10,
 	["nurfwarr-raden"]=7,
 	["nusubito-pagle"]=29,
 	["nutgrabber-pagle"]=34,
@@ -8267,7 +8267,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["nyctrius-raden"]=18,
 	["nyloras-pagle"]=7,
 	["nyloras-raden"]=7,
-	["nylorfist-pagle"]=4,
+	["nylorfist-pagle"]=27,
 	["nýmph-raden"]=14,
 	["nynaevxe-pagle"]=9,
 	["nynja-raden"]=14,
