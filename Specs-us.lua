@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5188 characters, read 2026-10-21 05:59 PM.
+-- Region us, 5188 characters, read 2026-10-21 06:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5679,7 +5679,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["calltoarms-pagle"]=16,
 	["calmish-lei-shen"]=10,
 	["camerano-pagle"]=7,
-	["candity-arugal-au"]=20,
+	["candity-arugal-au"]=3,
 	["candykanes-pagle"]=28,
 	["canera-galakras"]=10,
 	["canible-raden"]=31,
@@ -5768,7 +5768,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["chinotonic-pagle"]=4,
 	["chiokeme-arugal-au"]=10,
 	["chitheline-raden"]=2,
-	["choé-pagle"]=1,
+	["choé-pagle"]=11,
 	["chonkars-raden"]=0,
 	["choosen-pagle"]=10,
 	["chorizero-immerseus"]=16,
@@ -6026,7 +6026,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["deathroams-galakras"]=1,
 	["deathrubio-pagle"]=25,
 	["deathsvoice-lei-shen"]=6,
-	["deathzpirit-pagle"]=9,
+	["deathzpirit-pagle"]=21,
 	["decayin-raden"]=0,
 	["decaypox-raden"]=9,
 	["decayyoncé-raden"]=6,
@@ -9381,7 +9381,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["subàti-pagle"]=9,
 	["subdub-nazgrim"]=34,
 	["subparzero-raden"]=11,
-	["subzeroiq-raden"]=1,
+	["subzeroiq-raden"]=11,
 	["sucros-pagle"]=10,
 	["sugâr-raden"]=2,
 	["sugarbear-raden"]=1,
