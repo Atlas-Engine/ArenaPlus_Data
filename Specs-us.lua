@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5190 characters, read 2026-10-21 10:59 AM.
+-- Region us, 5190 characters, read 2026-10-21 11:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3356,7 +3356,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["peteslimjim-galakras"]=20,
 	["pewpilpopper-pagle"]=20,
 	["péz-pagle"]=11,
-	["pezdispencer-raden"]=10,
 	["phöoba-pagle"]=60,
 	["phrra-pagle"]=21,
 	["phugoid-pagle"]=81,
@@ -8456,7 +8455,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["peteslimjim-galakras"]=7,
 	["pewpilpopper-pagle"]=3,
 	["péz-pagle"]=27,
-	["pezdispencer-raden"]=2,
+	["pezdispencer-raden"]=0,
 	["phasex119ee7-raden"]=0,
 	["phöoba-pagle"]=5,
 	["phrra-pagle"]=7,
@@ -8604,7 +8603,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["quartêrmain-pagle"]=3,
 	["quelss-pagle"]=2,
 	["quesø-pagle"]=29,
-	["questopresto-nazgrim"]=4,
+	["questopresto-nazgrim"]=10,
 	["quickscopex-pagle"]=3,
 	["quickvanish-pagle"]=34,
 	["qwanya-raden"]=1,

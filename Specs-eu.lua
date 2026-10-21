@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5353 characters, read 2026-10-21 11:00 AM.
+-- Region eu, 5353 characters, read 2026-10-21 12:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1556,7 +1556,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["greasyx-shekzeer"]=41,
 	["greasyxz-shekzeer"]=11,
 	["greedypaws-shekzeer"]=20,
-	["greedysmom-shekzeer"]=11,
 	["greenhhornn-hoptallus"]=40,
 	["gregoriusz-garalon"]=50,
 	["greknajt-shekzeer"]=10,
@@ -6707,7 +6706,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["gogopowrang-auberdine"]=6,
 	["gogopowrange-auberdine"]=6,
 	["goingfishing-shekzeer"]=17,
-	["gojirabolt-garalon"]=23,
+	["gojirabolt-garalon"]=17,
 	["gojosatoru-shekzeer"]=5,
 	["golbeer-shekzeer"]=2,
 	["goldeneye-shekzeer"]=26,
@@ -6745,7 +6744,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["greasyx-shekzeer"]=11,
 	["greasyxz-shekzeer"]=5,
 	["greedypaws-shekzeer"]=24,
-	["greedysmom-shekzeer"]=4,
+	["greedysmom-shekzeer"]=0,
 	["greenhhornn-hoptallus"]=4,
 	["gregoriusz-garalon"]=17,
 	["greknajt-shekzeer"]=8,
@@ -6783,7 +6782,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["gutalax-ook-ook"]=8,
 	["guugur-auberdine"]=2,
 	["gww-garalon"]=1,
-	["gyatthunter-norushen"]=12,
+	["gyatthunter-norushen"]=9,
 	["gymbunny-shekzeer"]=15,
 	["gypsysniper-shekzeer"]=4,
 	["haberer-everlook"]=1,
@@ -8527,7 +8526,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["quynmonk-garalon"]=6,
 	["qwanya-shekzeer"]=2,
 	["qwix-shekzeer"]=0,
-	["qxx-shekzeer"]=21,
+	["qxx-shekzeer"]=3,
 	["qz-shekzeer"]=17,
 	["rachelrage-everlook"]=1,
 	["rachelroxx-shekzeer"]=20,
@@ -9111,7 +9110,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["ßázzy-shekzeer"]=15,
 	["sscarlet-shekzeer"]=9,
 	["ßeast-garalon"]=14,
-	["ßenimãru-shekzeer"]=11,
+	["ßenimãru-shekzeer"]=3,
 	["ßlickxy-shekzeer"]=3,
 	["ßlinkd-shekzeer"]=2,
 	["ßm-shekzeer"]=6,
