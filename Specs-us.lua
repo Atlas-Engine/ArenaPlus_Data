@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5186 characters, read 2026-10-21 02:59 PM.
+-- Region us, 5186 characters, read 2026-10-21 03:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5132,7 +5132,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["anakkrakatoa-nazgrim"]=11,
 	["anaksol-pagle"]=11,
 	["analayla-lei-shen"]=0,
-	["anariita-nazgrim"]=20,
+	["anariita-nazgrim"]=3,
 	["anastari-pagle"]=1,
 	["anastasiah-raden"]=24,
 	["anastasiahh-raden"]=21,
@@ -6045,7 +6045,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["defnotanj-pagle"]=3,
 	["degaüss-raden"]=16,
 	["dekk-raden"]=6,
-	["delané-raden"]=18,
+	["delané-raden"]=3,
 	["delaway-lei-shen"]=24,
 	["delgars-galakras"]=3,
 	["delonso-pagle"]=7,
@@ -6055,7 +6055,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["demicsx-nazgrim"]=28,
 	["demoncy-nazgrim"]=1,
 	["demonhome-raden"]=2,
-	["demonslayêr-galakras"]=6,
+	["demonslayêr-galakras"]=26,
 	["demonts-nazgrim"]=23,
 	["deprivedsóul-pagle"]=25,
 	["déprivedsoul-pagle"]=2,
@@ -8343,7 +8343,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ordanary-pagle"]=27,
 	["ordinary-galakras"]=5,
 	["orgian-pagle"]=5,
-	["orgimmar-raden"]=1,
+	["orgimmar-raden"]=31,
 	["oricalco-galakras"]=0,
 	["originalgank-pagle"]=0,
 	["orkage-immerseus"]=4,
@@ -9308,7 +9308,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ßöömdk-lei-shen"]=6,
 	["ßöömjudge-lei-shen"]=16,
 	["ßopic-pagle"]=16,
-	["sßeve-lei-shen"]=18,
+	["sßeve-lei-shen"]=3,
 	["ßulldøzer-pagle"]=16,
 	["ßùlmá-raden"]=1,
 	["ßxß-raden"]=4,

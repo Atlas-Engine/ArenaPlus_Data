@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5356 characters, read 2026-10-21 03:00 PM.
+-- Region eu, 5356 characters, read 2026-10-21 04:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -993,7 +993,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["Ðëmðn-shekzeer"]=11,
 	["demenzflöte-everlook"]=11,
 	["Ðêmô-shekzeer"]=31,
-	["demomain-shekzeer"]=11,
 	["demonbálor-garalon"]=21,
 	["dentri-shekzeer"]=11,
 	["depresa-norushen"]=20,
@@ -4552,7 +4551,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["xistens-shekzeer"]=41,
 	["xkiller-shekzeer"]=11,
 	["xlader-shekzeer"]=10,
-	["xladerinø-shekzeer"]=10,
+	["xladerinø-shekzeer"]=11,
 	["xladérz-shekzeer"]=10,
 	["xladerzf-shekzeer"]=11,
 	["xladerzg-shekzeer"]=11,
@@ -6139,7 +6138,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["deathspark-mirage-raceway"]=8,
 	["deathwarr-shekzeer"]=1,
 	["deathwàrs-auberdine"]=1,
-	["decader-norushen"]=24,
+	["decader-norushen"]=26,
 	["deepfreezee-shekzeer"]=2,
 	["deepfull-shekzeer"]=2,
 	["deepoxy-shekzeer"]=6,
@@ -6161,7 +6160,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Ðëmðn-shekzeer"]=14,
 	["demenzflöte-everlook"]=1,
 	["Ðêmô-shekzeer"]=16,
-	["demomain-shekzeer"]=17,
+	["demomain-shekzeer"]=0,
 	["demonbálor-garalon"]=28,
 	["dentri-shekzeer"]=1,
 	["depresa-norushen"]=1,
@@ -8817,7 +8816,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["satåna-shekzeer"]=4,
 	["såtanå-shekzeer"]=14,
 	["satånaz-shekzeer"]=14,
-	["satåntrapbot-shekzeer"]=14,
+	["satåntrapbot-shekzeer"]=4,
 	["satara-shekzeer"]=26,
 	["satazhia-shekzeer"]=12,
 	["satineta-shekzeer"]=34,
