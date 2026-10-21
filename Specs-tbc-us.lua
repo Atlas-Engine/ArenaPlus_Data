@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9386 characters, read 2026-10-20 10:58 PM.
+-- Region tbc-us, 9386 characters, read 2026-10-20 11:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9648,7 +9648,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["asapxd-nightslayer"]=5,
 	["asashin-nightslayer"]=5,
 	["ascendia-nightslayer"]=1,
-	["ashleybankz-nightslayer"]=8,
+	["ashleybankz-nightslayer"]=5,
 	["ashlol-nightslayer"]=1,
 	["ashman-nightslayer"]=12,
 	["ashtotems-nightslayer"]=10,
@@ -11307,7 +11307,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["dinnamon-dreamscythe"]=5,
 	["dinnathx-dreamscythe"]=5,
 	["dinnoo-nightslayer"]=2,
-	["dinolo-nightslayer"]=7,
+	["dinolo-nightslayer"]=22,
 	["dinstir-nightslayer"]=3,
 	["dìp-dreamscythe"]=22,
 	["dipla-dreamscythe"]=8,
@@ -13100,7 +13100,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["imabadhunter-nightslayer"]=15,
 	["imadotyou-nightslayer"]=13,
 	["imafuhwhicha-nightslayer"]=5,
-	["imafuhwicha-nightslayer"]=15,
+	["imafuhwicha-nightslayer"]=17,
 	["imagentdisc-nightslayer"]=12,
 	["imagenz-nightslayer"]=1,
 	["imashockyouu-dreamscythe"]=19,
@@ -13881,7 +13881,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["lbn-nightslayer"]=4,
 	["lbzs-nightslayer"]=1,
 	["lcr-dreamscythe"]=13,
-	["leafless-nightslayer"]=14,
+	["leafless-nightslayer"]=1,
 	["leakybanana-nightslayer"]=1,
 	["leanjunkie-nightslayer"]=1,
 	["learingcurve-nightslayer"]=10,
@@ -14771,7 +14771,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["mzw-dreamscythe"]=18,
 	["mzwr-dreamscythe"]=19,
 	["mzy-dreamscythe"]=13,
-	["naarushadow-nightslayer"]=5,
+	["naarushadow-nightslayer"]=8,
 	["nabotito-nightslayer"]=19,
 	["nacypelosi-nightslayer"]=4,
 	["naett-nightslayer"]=10,
@@ -17314,7 +17314,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["talond-nightslayer"]=22,
 	["tamari-nightslayer"]=1,
 	["tamarisaayu-nightslayer"]=2,
-	["tamestia-dreamscythe"]=1,
+	["tamestia-dreamscythe"]=14,
 	["tamurax-nightslayer"]=7,
 	["tandrex-nightslayer"]=3,
 	["tandrexx-nightslayer"]=11,

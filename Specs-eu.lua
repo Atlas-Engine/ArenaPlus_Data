@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5348 characters, read 2026-10-20 11:00 PM.
+-- Region eu, 5348 characters, read 2026-10-21 12:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5772,7 +5772,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["brywen-shekzeer"]=24,
 	["bs-mirage-raceway"]=13,
 	["bsdprime-shekzeer"]=6,
-	["bsød-mirage-raceway"]=16,
+	["bsød-mirage-raceway"]=13,
 	["bûbblebärbel-everlook"]=15,
 	["bubblebêé-everlook"]=5,
 	["bubblegmz-mirage-raceway"]=12,
@@ -8342,7 +8342,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["pazuzu-norushen"]=1,
 	["pb-shekzeer"]=6,
 	["pdai-shekzeer"]=0,
-	["pðiððy-shekzeer"]=13,
+	["pðiððy-shekzeer"]=16,
 	["peacefùl-shekzeer"]=15,
 	["peacher-gehennas"]=0,
 	["peakone-everlook"]=19,
@@ -8992,7 +8992,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["skullchachi-mirage-raceway"]=26,
 	["skylexia-auberdine"]=15,
 	["skynerd-shekzeer"]=17,
-	["skyráw-shekzeer"]=11,
+	["skyráw-shekzeer"]=21,
 	["skyrine-auberdine"]=8,
 	["slagteren-shekzeer"]=1,
 	["slamftw-shekzeer"]=1,
@@ -9380,7 +9380,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["tiroxmage-garalon"]=2,
 	["tiroxshaman-garalon"]=16,
 	["titangel-shekzeer"]=1,
-	["titanià-shekzeer"]=1,
+	["titanià-shekzeer"]=25,
 	["titanii-shekzeer"]=1,
 	["titaniis-shekzeer"]=1,
 	["titaniiz-shekzeer"]=3,
