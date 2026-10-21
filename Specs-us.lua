@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5188 characters, read 2026-10-21 04:59 PM.
+-- Region us, 5188 characters, read 2026-10-21 05:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3965,7 +3965,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["sisterfista-raden"]=11,
 	["sitdog-pagle"]=50,
 	["sithtyshades-galakras"]=51,
-	["síx-nazgrim"]=10,
+	["síx-nazgrim"]=11,
 	["sixmonth-raden"]=41,
 	["sixpathsage-pagle"]=10,
 	["skâde-nazgrim"]=101,
@@ -5653,7 +5653,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["burstinflams-pagle"]=0,
 	["burstzum-nazgrim"]=15,
 	["buryniceqt-raden"]=4,
-	["buster-raden"]=20,
+	["buster-raden"]=3,
 	["bustyshots-raden"]=20,
 	["butcherr-raden"]=18,
 	["buttafingaz-pagle"]=17,
@@ -5835,7 +5835,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["colinferal-pagle"]=12,
 	["coloredgreen-immerseus"]=12,
 	["côlyn-pagle"]=7,
-	["combusst-raden"]=1,
+	["combusst-raden"]=11,
 	["comeherepapi-raden"]=29,
 	["comethout-pagle"]=22,
 	["comfypillow-benediction"]=25,
@@ -6999,7 +6999,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["hojosatoru-raden"]=16,
 	["hojreplol-raden"]=16,
 	["hojville-pagle"]=16,
-	["holidayhamii-pagle"]=32,
+	["holidayhamii-pagle"]=16,
 	["holmz-pagle"]=3,
 	["holtxd-raden"]=7,
 	["holyangelz-pagle"]=2,
@@ -7142,7 +7142,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["illdra-pagle"]=32,
 	["illidari-pagle"]=3,
 	["illidingus-nazgrim"]=2,
-	["illíli-raden"]=26,
+	["illíli-raden"]=25,
 	["ilnicoll-pagle"]=2,
 	["ilockedyouup-pagle"]=24,
 	["ilockthis-galakras"]=8,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9739 characters, read 2026-10-21 04:54 PM.
+-- Region tbc-eu, 9739 characters, read 2026-10-21 05:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9871,7 +9871,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["amanøiyum-thunderstrike"]=5,
 	["amaroa-spineshatter"]=19,
 	["amarol-spineshatter"]=8,
-	["ambidoll-spineshatter"]=19,
+	["ambidoll-spineshatter"]=3,
 	["ambiform-spineshatter"]=1,
 	["ambroisie-spineshatter"]=2,
 	["ambushador-spineshatter"]=3,
@@ -10368,7 +10368,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["beeby-spineshatter"]=3,
 	["beefstealth-thunderstrike"]=1,
 	["beerdoom-spineshatter"]=14,
-	["beeri-spineshatter"]=15,
+	["beeri-spineshatter"]=5,
 	["beerma-spineshatter"]=2,
 	["bèésus-spineshatter"]=9,
 	["béiby-spineshatter"]=5,
@@ -12281,7 +12281,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["fantomz-spineshatter"]=0,
 	["fantowski-spineshatter"]=23,
 	["fánva-spineshatter"]=15,
-	["fappx-spineshatter"]=4,
+	["fappx-spineshatter"]=9,
 	["fapyoxd-spineshatter"]=5,
 	["faregodx-spineshatter"]=19,
 	["farfoosh-spineshatter"]=5,
@@ -15267,7 +15267,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["naëzam-spineshatter"]=13,
 	["nagacrew-spineshatter"]=1,
 	["nagacrewd-spineshatter"]=1,
-	["nagaosthree-spineshatter"]=19,
+	["nagaosthree-spineshatter"]=3,
 	["naggaa-spineshatter"]=25,
 	["någgefarfar-thunderstrike"]=2,
 	["naggz-spineshatter"]=5,
@@ -15514,7 +15514,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["nilremek-spineshatter"]=9,
 	["nimauwu-spineshatter"]=3,
 	["nimeria-spineshatter"]=1,
-	["nimmsi-thunderstrike"]=19,
+	["nimmsi-thunderstrike"]=3,
 	["nimzen-spineshatter"]=3,
 	["ninjarn-spineshatter"]=19,
 	["ninjashaman-spineshatter"]=12,
@@ -16508,7 +16508,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["reâper-spineshatter"]=3,
 	["reaperzx-spineshatter"]=3,
 	["reasønable-spineshatter"]=7,
-	["reasonicus-spineshatter"]=4,
+	["reasonicus-spineshatter"]=9,
 	["reasoning-spineshatter"]=1,
 	["reazlïght-spineshatter"]=10,
 	["reazscar-spineshatter"]=8,
@@ -16546,7 +16546,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["réktagram-spineshatter"]=3,
 	["rekteuhr-spineshatter"]=3,
 	["rektoresisto-spineshatter"]=13,
-	["relapsed-spineshatter"]=18,
+	["relapsed-spineshatter"]=13,
 	["relaxxbro-thunderstrike"]=5,
 	["remag-spineshatter"]=1,
 	["reminded-spineshatter"]=3,
