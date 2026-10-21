@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5187 characters, read 2026-10-21 04:59 AM.
+-- Region us, 5187 characters, read 2026-10-21 05:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2707,7 +2707,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["magicboii-pagle"]=20,
 	["magicclaps-pagle"]=10,
 	["magichi-pagle"]=11,
-	["magician-arugal-au"]=11,
+	["magician-arugal-au"]=10,
 	["magicsheep-pagle"]=111,
 	["magikanus-grobbulus"]=10,
 	["magikarrwz-nazgrim"]=20,
@@ -7862,7 +7862,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["meatballgun-lei-shen"]=15,
 	["meätbol-lei-shen"]=17,
 	["meatbolt-raden"]=15,
-	["mecharogue-raden"]=14,
+	["mecharogue-raden"]=29,
 	["meditação-pagle"]=16,
 	["meditated-pagle"]=12,
 	["meditator-pagle"]=5,

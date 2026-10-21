@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9377 characters, read 2026-10-21 04:58 AM.
+-- Region tbc-us, 9377 characters, read 2026-10-21 05:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9784,7 +9784,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bakey-dreamscythe"]=6,
 	["bakshotlarry-nightslayer"]=4,
 	["bakstab-nightslayer"]=5,
-	["balalalalu-dreamscythe"]=15,
+	["balalalalu-dreamscythe"]=17,
 	["baldandthicc-nightslayer"]=1,
 	["baldbulla-nightslayer"]=16,
 	["baldhealer-nightslayer"]=1,
@@ -10151,7 +10151,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bloodsport-nightslayer"]=8,
 	["bloodwaltz-nightslayer"]=2,
 	["bloodxknight-nightslayer"]=2,
-	["bloodydeznut-nightslayer"]=18,
+	["bloodydeznut-nightslayer"]=2,
 	["bloodyx-nightslayer"]=19,
 	["bloomed-dreamscythe"]=3,
 	["blöömer-nightslayer"]=7,
@@ -10225,7 +10225,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["boltqq-nightslayer"]=24,
 	["boltsmoommy-nightslayer"]=24,
 	["bomano-nightslayer"]=5,
-	["bombalu-nightslayer"]=13,
+	["bombalu-nightslayer"]=23,
 	["bonabtwistn-nightslayer"]=19,
 	["bondstar-nightslayer"]=5,
 	["bonecrank-dreamscythe"]=8,
@@ -12329,7 +12329,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["gaupjr-nightslayer"]=4,
 	["gaupm-nightslayer"]=6,
 	["gauq-nightslayer"]=1,
-	["gawtchax-nightslayer"]=18,
+	["gawtchax-nightslayer"]=2,
 	["gaybiman-nightslayer"]=7,
 	["gayonhandz-nightslayer"]=9,
 	["gayve-nightslayer"]=5,
@@ -12951,7 +12951,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["hsuanolz-nightslayer"]=11,
 	["hsuanuau-nightslayer"]=13,
 	["httr-nightslayer"]=3,
-	["huangchen-nightslayer"]=25,
+	["huangchen-nightslayer"]=9,
 	["huangyu-nightslayer"]=8,
 	["hudsun-nightslayer"]=2,
 	["hugemantys-nightslayer"]=2,

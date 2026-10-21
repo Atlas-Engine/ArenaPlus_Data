@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5348 characters, read 2026-10-21 05:00 AM.
+-- Region eu, 5348 characters, read 2026-10-21 06:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2489,7 +2489,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["maskof-shekzeer"]=10,
 	["massivecnt-shekzeer"]=11,
 	["matadora-shekzeer"]=10,
-	["matiel-shekzeer"]=40,
+	["matiel-shekzeer"]=41,
 	["matinaa-shekzeer"]=11,
 	["matora-ook-ook"]=11,
 	["matroxafk-shekzeer"]=71,
@@ -7754,7 +7754,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["megcecmpa-shekzeer"]=5,
 	["meilev-hoptallus"]=3,
 	["mejorbrujoxd-shekzeer"]=17,
-	["mekishiko-shekzeer"]=9,
+	["mekishiko-shekzeer"]=22,
 	["melba-shekzeer"]=11,
 	["melk-shekzeer"]=2,
 	["mellamell-shekzeer"]=7,
@@ -7785,7 +7785,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["miamilkova-everlook"]=9,
 	["micayahr-everlook"]=24,
 	["michaell-shekzeer"]=24,
-	["mid-hoptallus"]=25,
+	["mid-hoptallus"]=1,
 	["middlecrew-mirage-raceway"]=4,
 	["midia-shekzeer"]=3,
 	["migliore-auberdine"]=14,
