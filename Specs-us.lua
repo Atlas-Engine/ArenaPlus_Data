@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5188 characters, read 2026-10-21 09:59 AM.
+-- Region us, 5190 characters, read 2026-10-21 10:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1579,7 +1579,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["fngrplay-galakras"]=61,
 	["focusxander-raden"]=11,
 	["fogoflife-pagle"]=11,
-	["foldedsocks-raden"]=11,
 	["following-pagle"]=10,
 	["fongula-pagle"]=10,
 	["fontainesdc-arugal-au"]=41,
@@ -2370,6 +2369,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["kelse-pagle"]=11,
 	["kelthane-raden"]=10,
 	["kengriffyjr-pagle"]=11,
+	["kenoblue-pagle"]=31,
 	["kenomist-pagle"]=41,
 	["kenotrappin-pagle"]=41,
 	["kenquit-pagle"]=11,
@@ -2432,6 +2432,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["kledemarcos-nazgrim"]=20,
 	["klenzen-raden"]=11,
 	["klept-raden"]=10,
+	["kleptix-raden"]=10,
 	["knockoutdt-pagle"]=11,
 	["knottypawz-pagle"]=41,
 	["knuckles-pagle"]=11,
@@ -6276,6 +6277,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["drshultz-nazgrim"]=6,
 	["drtv-raden"]=5,
 	["drugluk-nazgrim"]=22,
+	["drugsarebad-raden"]=0,
 	["druids-galakras"]=17,
 	["druidtankduh-nazgrim"]=5,
 	["druidtrainer-arugal-au"]=5,
@@ -6589,7 +6591,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["fngrplay-galakras"]=5,
 	["focusxander-raden"]=21,
 	["fogoflife-pagle"]=13,
-	["foldedsocks-raden"]=2,
 	["following-pagle"]=26,
 	["fongula-pagle"]=7,
 	["fontainesdc-arugal-au"]=4,
@@ -7020,7 +7021,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["holysrt-raden"]=21,
 	["holythugx-pagle"]=16,
 	["holytick-pagle"]=2,
-	["holyvale-pagle"]=13,
+	["holyvale-pagle"]=21,
 	["hólyy-raden"]=16,
 	["holyywarr-raden"]=7,
 	["homiecuh-nazgrim"]=28,
@@ -7412,6 +7413,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["kelse-pagle"]=14,
 	["kelthane-raden"]=6,
 	["kengriffyjr-pagle"]=7,
+	["kenoblue-pagle"]=19,
 	["kenomist-pagle"]=4,
 	["kenotrappin-pagle"]=3,
 	["kenquit-pagle"]=6,
@@ -7477,6 +7479,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["kledemarcos-nazgrim"]=15,
 	["klenzen-raden"]=10,
 	["klept-raden"]=4,
+	["kleptix-raden"]=34,
 	["knockoutdt-pagle"]=13,
 	["knottypawz-pagle"]=17,
 	["knuckles-pagle"]=23,
