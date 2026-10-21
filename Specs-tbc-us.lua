@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9364 characters, read 2026-10-21 08:58 AM.
+-- Region tbc-us, 9364 characters, read 2026-10-21 09:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4888,6 +4888,7 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["magnilol-nightslayer"]=50,
 	["maheloo-nightslayer"]=110,
 	["mahmymilkers-dreamscythe"]=71,
+	["maigaysiao-nightslayer"]=60,
 	["mainbeam-nightslayer"]=60,
 	["mainim-nightslayer"]=30,
 	["mainstreeam-dreamscythe"]=111,
@@ -6793,7 +6794,6 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["ruckle-dreamscythe"]=110,
 	["rudager-nightslayer"]=40,
 	["ruiñ-nightslayer"]=11,
-	["ruixiao-nightslayer"]=10,
 	["rukaz-nightslayer"]=20,
 	["rukin-nightslayer"]=61,
 	["rukiyou-nightslayer"]=101,
@@ -14204,6 +14204,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["magnilol-nightslayer"]=1,
 	["maheloo-nightslayer"]=24,
 	["mahmymilkers-dreamscythe"]=2,
+	["maigaysiao-nightslayer"]=7,
 	["mainbeam-nightslayer"]=7,
 	["mainim-nightslayer"]=1,
 	["mainstreeam-dreamscythe"]=19,
@@ -15728,7 +15729,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["quesorita-nightslayer"]=13,
 	["queueitup-nightslayer"]=1,
 	["qui-nightslayer"]=2,
-	["quicklynow-nightslayer"]=5,
+	["quicklynow-nightslayer"]=8,
 	["quicktoes-dreamscythe"]=9,
 	["quicx-nightslayer"]=7,
 	["quii-nightslayer"]=11,
@@ -16136,7 +16137,6 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ruckle-dreamscythe"]=10,
 	["rudager-nightslayer"]=3,
 	["ruiñ-nightslayer"]=13,
-	["ruixiao-nightslayer"]=2,
 	["rukaz-nightslayer"]=2,
 	["rukin-nightslayer"]=7,
 	["rukiyou-nightslayer"]=4,
