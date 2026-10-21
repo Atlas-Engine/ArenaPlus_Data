@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9364 characters, read 2026-10-21 03:58 PM.
+-- Region tbc-us, 9364 characters, read 2026-10-21 04:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9584,7 +9584,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["archrtwo-dreamscythe"]=10,
 	["archxr-dreamscythe"]=10,
 	["archymarshal-nightslayer"]=5,
-	["arctürüs-dreamscythe"]=6,
+	["arctürüs-dreamscythe"]=4,
 	["arctuva-nightslayer"]=7,
 	["ardrane-nightslayer"]=5,
 	["arenafanatic-nightslayer"]=2,
@@ -15833,7 +15833,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["raynemann-dreamscythe"]=6,
 	["raystigger-nightslayer"]=5,
 	["raystigz-dreamscythe"]=4,
-	["raystigz-nightslayer"]=4,
+	["raystigz-nightslayer"]=6,
 	["rayyaflow-nightslayer"]=6,
 	["rayzo-nightslayer"]=5,
 	["razakam-nightslayer"]=6,
