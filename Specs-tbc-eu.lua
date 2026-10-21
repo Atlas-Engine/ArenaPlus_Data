@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9738 characters, read 2026-10-21 03:59 AM.
+-- Region tbc-eu, 9737 characters, read 2026-10-21 04:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4038,7 +4038,6 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["jukz-spineshatter"]=50,
 	["julbertos-spineshatter"]=51,
 	["jumpz-spineshatter"]=11,
-	["jungchansung-spineshatter"]=50,
 	["jungewaahaas-thunderstrike"]=20,
 	["jungleonly-spineshatter"]=50,
 	["jûnk-spineshatter"]=50,
@@ -13704,7 +13703,6 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["jukz-spineshatter"]=19,
 	["julbertos-spineshatter"]=2,
 	["jumpz-spineshatter"]=9,
-	["jungchansung-spineshatter"]=3,
 	["jungewaahaas-thunderstrike"]=12,
 	["jungleonly-spineshatter"]=3,
 	["jûnk-spineshatter"]=5,
@@ -18172,7 +18170,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["tilte-spineshatter"]=2,
 	["tilted-spineshatter"]=9,
 	["tilten-spineshatter"]=9,
-	["tiltpr-thunderstrike"]=2,
+	["tiltpr-thunderstrike"]=17,
 	["tiltuschrist-spineshatter"]=2,
 	["timbatotems-spineshatter"]=12,
 	["timeforfun-spineshatter"]=11,
@@ -18213,7 +18211,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["todu-spineshatter"]=6,
 	["toffeey-spineshatter"]=1,
 	["togé-spineshatter"]=5,
-	["togt-spineshatter"]=5,
+	["togt-spineshatter"]=15,
 	["toiletmanx-spineshatter"]=20,
 	["tokino-spineshatter"]=25,
 	["tokitaohma-spineshatter"]=8,

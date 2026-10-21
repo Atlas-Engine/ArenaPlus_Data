@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9377 characters, read 2026-10-21 03:58 AM.
+-- Region tbc-us, 9377 characters, read 2026-10-21 04:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11920,7 +11920,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["fairclass-nightslayer"]=5,
 	["fairynough-nightslayer"]=6,
 	["faithfuel-nightslayer"]=12,
-	["faithfueled-nightslayer"]=25,
+	["faithfueled-nightslayer"]=9,
 	["fakecasted-nightslayer"]=10,
 	["fakecasting-nightslayer"]=4,
 	["fakecasts-nightslayer"]=5,
@@ -13903,7 +13903,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["legros-dreamscythe"]=17,
 	["leien-nightslayer"]=7,
 	["lelzi-nightslayer"]=1,
-	["lemarky-nightslayer"]=14,
+	["lemarky-nightslayer"]=1,
 	["lemonaid-nightslayer"]=22,
 	["lemonjack-nightslayer"]=11,
 	["lemonn-nightslayer"]=10,
@@ -15986,7 +15986,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["rhaikor-nightslayer"]=4,
 	["rhap-nightslayer"]=2,
 	["rhaprhap-nightslayer"]=5,
-	["rhapsødy-nightslayer"]=6,
+	["rhapsødy-nightslayer"]=4,
 	["rhauw-nightslayer"]=1,
 	["rheverend-dreamscythe"]=1,
 	["rhinopill-nightslayer"]=13,
@@ -17672,7 +17672,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["troxxed-nightslayer"]=3,
 	["troyx-nightslayer"]=8,
 	["trps-nightslayer"]=0,
-	["trû-nightslayer"]=14,
+	["trû-nightslayer"]=1,
 	["trubeast-nightslayer"]=18,
 	["truccz-nightslayer"]=7,
 	["truckdog-dreamscythe"]=10,
@@ -18364,7 +18364,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["xomgasm-nightslayer"]=27,
 	["xonodra-nightslayer"]=21,
 	["xooji-nightslayer"]=4,
-	["xooti-dreamscythe"]=10,
+	["xooti-dreamscythe"]=24,
 	["xost-nightslayer"]=5,
 	["xown-nightslayer"]=1,
 	["xoxoxoxo-nightslayer"]=4,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5348 characters, read 2026-10-21 04:00 AM.
+-- Region eu, 5348 characters, read 2026-10-21 05:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2635,7 +2635,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["monais-shekzeer"]=30,
 	["monduk-auberdine"]=10,
 	["moneylong-shekzeer"]=11,
-	["mongoliamonk-hoptallus"]=21,
+	["mongoliamonk-hoptallus"]=20,
 	["mongue-garalon"]=80,
 	["monkasxd-everlook"]=11,
 	["monkasxd-ook-ook"]=21,
@@ -2681,7 +2681,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["moumantai-shekzeer"]=10,
 	["mousehunter-garalon"]=20,
 	["movehunter-shekzeer"]=21,
-	["moýo-shekzeer"]=41,
+	["moýo-shekzeer"]=40,
 	["moÿo-shekzeer"]=31,
 	["msrx-shekzeer"]=50,
 	["mstladyboy-auberdine"]=11,
@@ -6111,7 +6111,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["darkfang-garalon"]=20,
 	["darkmessiah-garalon"]=31,
 	["darkvâne-mirage-raceway"]=9,
-	["darthvada-shekzeer"]=8,
+	["darthvada-shekzeer"]=31,
 	["daru-shekzeer"]=6,
 	["darumonk-shekzeer"]=6,
 	["davinà-shekzeer"]=0,
