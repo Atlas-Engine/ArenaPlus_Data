@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9382 characters, read 2026-10-20 06:58 PM.
+-- Region tbc-us, 9382 characters, read 2026-10-20 07:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10653,7 +10653,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["chegorina-nightslayer"]=1,
 	["chegorita-nightslayer"]=1,
 	["cherbz-dreamscythe"]=1,
-	["cheryxx-nightslayer"]=4,
+	["cheryxx-nightslayer"]=6,
 	["cheshirez-nightslayer"]=0,
 	["chestday-nightslayer"]=19,
 	["chewtoy-nightslayer"]=10,
@@ -11568,7 +11568,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["drulekin-nightslayer"]=5,
 	["drules-nightslayer"]=1,
 	["drulok-nightslayer"]=3,
-	["drunkdracula-nightslayer"]=8,
+	["drunkdracula-nightslayer"]=5,
 	["drunkstrike-nightslayer"]=5,
 	["druudix-nightslayer"]=7,
 	["druwidynn-nightslayer"]=10,
@@ -15431,7 +15431,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["phentanyll-nightslayer"]=1,
 	["phi-nightslayer"]=7,
 	["phofilling-dreamscythe"]=2,
-	["phokintotems-dreamscythe"]=24,
+	["phokintotems-dreamscythe"]=10,
 	["phonkie-nightslayer"]=10,
 	["phonomenal-dreamscythe"]=1,
 	["phorken-dreamscythe"]=17,
@@ -16761,7 +16761,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["sleazi-dreamscythe"]=18,
 	["sleepíí-nightslayer"]=7,
 	["sleepness-nightslayer"]=0,
-	["sleepur-nightslayer"]=20,
+	["sleepur-nightslayer"]=2,
 	["sleiko-dreamscythe"]=16,
 	["sliceblade-nightslayer"]=5,
 	["sliceface-nightslayer"]=8,
@@ -17101,7 +17101,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["stoggimeistr-nightslayer"]=5,
 	["stoichy-nightslayer"]=7,
 	["stokades-dreamscythe"]=11,
-	["stokes-nightslayer"]=2,
+	["stokes-nightslayer"]=18,
 	["stokespp-nightslayer"]=9,
 	["stokeswf-nightslayer"]=10,
 	["stokeszerk-nightslayer"]=2,

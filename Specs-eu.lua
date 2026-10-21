@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5346 characters, read 2026-10-20 07:00 PM.
+-- Region eu, 5346 characters, read 2026-10-20 08:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4256,7 +4256,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["vah-shekzeer"]=11,
 	["vãh-shekzeer"]=11,
 	["vahlol-shekzeer"]=31,
-	["vahx-shekzeer"]=11,
+	["vahx-shekzeer"]=10,
 	["valehillx-shekzeer"]=31,
 	["valinór-garalon"]=101,
 	["valinoth-shekzeer"]=10,
@@ -5428,7 +5428,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["asapskaya-shekzeer"]=1,
 	["ascaredman-shekzeer"]=8,
 	["ascenda-shekzeer"]=6,
-	["ascéndéd-shekzeer"]=16,
+	["ascéndéd-shekzeer"]=19,
 	["ascensus-shekzeer"]=6,
 	["ascezug-garalon"]=16,
 	["asdamp-garalon"]=1,
@@ -5465,7 +5465,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["audioslave-shekzeer"]=16,
 	["augsburg-shekzeer"]=6,
 	["aultrasalt-shekzeer"]=23,
-	["auredian-mirage-raceway"]=5,
+	["auredian-mirage-raceway"]=15,
 	["aureliavid-auberdine"]=3,
 	["auryen-mirage-raceway"]=4,
 	["auslogics-shekzeer"]=2,
