@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5346 characters, read 2026-10-20 10:00 PM.
+-- Region eu, 5348 characters, read 2026-10-20 11:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1695,6 +1695,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["hico-everlook"]=10,
 	["hiddenpepe-shekzeer"]=11,
 	["híddentech-garalon"]=50,
+	["hiei-shekzeer"]=10,
 	["hinoke-mirage-raceway"]=11,
 	["hiriya-everlook"]=11,
 	["hiropyro-shekzeer"]=11,
@@ -2759,6 +2760,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["nastmvp-shekzeer"]=11,
 	["natin-norushen"]=11,
 	["nattskiftet-shekzeer"]=11,
+	["nattywarrior-shekzeer"]=10,
 	["naturebruh-shekzeer"]=41,
 	["naturestrike-mirage-raceway"]=40,
 	["nauda-norushen"]=20,
@@ -2882,6 +2884,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["nøkhi-shekzeer"]=41,
 	["noleapnofun-everlook"]=11,
 	["nolleke-shekzeer"]=11,
+	["nollij-shekzeer"]=40,
 	["nomátter-shekzeer"]=10,
 	["nømwnøfun-shekzeer"]=11,
 	["nonamé-mirage-raceway"]=111,
@@ -3549,7 +3552,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["scratzy-shekzeer"]=10,
 	["screez-shekzeer"]=40,
 	["screwedup-norushen"]=11,
-	["scrivw-everlook"]=11,
 	["scryèr-garalon"]=100,
 	["scvrecrow-shekzeer"]=10,
 	["sðe-shekzeer"]=11,
@@ -6886,6 +6888,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["hico-everlook"]=20,
 	["hiddenpepe-shekzeer"]=24,
 	["híddentech-garalon"]=26,
+	["hiei-shekzeer"]=2,
 	["hinoke-mirage-raceway"]=10,
 	["hiriya-everlook"]=5,
 	["hiropyro-shekzeer"]=10,
@@ -8002,6 +8005,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["nathis-shekzeer"]=0,
 	["natin-norushen"]=12,
 	["nattskiftet-shekzeer"]=26,
+	["nattywarrior-shekzeer"]=1,
 	["naturebruh-shekzeer"]=3,
 	["naturestrike-mirage-raceway"]=11,
 	["nauda-norushen"]=14,
@@ -8131,6 +8135,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["nøkhi-shekzeer"]=21,
 	["noleapnofun-everlook"]=1,
 	["nolleke-shekzeer"]=9,
+	["nollij-shekzeer"]=3,
 	["nomátter-shekzeer"]=1,
 	["nømwnøfun-shekzeer"]=6,
 	["nonamé-mirage-raceway"]=16,
@@ -8468,7 +8473,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["pumy-shekzeer"]=21,
 	["punchgodx-shekzeer"]=7,
 	["pünki-shekzeer"]=11,
-	["punyelf-shekzeer"]=15,
+	["punyelf-shekzeer"]=5,
 	["pupsan-mirage-raceway"]=1,
 	["pupsik-shekzeer"]=6,
 	["pupunya-shekzeer"]=9,
@@ -8827,7 +8832,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["screez-shekzeer"]=20,
 	["screwedup-norushen"]=4,
 	["scrípter-shekzeer"]=0,
-	["scrivw-everlook"]=1,
 	["scryèr-garalon"]=24,
 	["scvrecrow-shekzeer"]=10,
 	["sðe-shekzeer"]=2,
