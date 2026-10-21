@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9742 characters, read 2026-10-20 07:59 PM.
+-- Region tbc-eu, 9742 characters, read 2026-10-20 08:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10616,7 +10616,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["bonda-spineshatter"]=3,
 	["bonebeast-spineshatter"]=1,
 	["bonisek-spineshatter"]=7,
-	["bonjohny-spineshatter"]=17,
+	["bonjohny-spineshatter"]=2,
 	["bonkheim-thunderstrike"]=5,
 	["bonkiee-spineshatter"]=1,
 	["bonkrath-spineshatter"]=5,
@@ -12352,7 +12352,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["fenyádotcom-spineshatter"]=2,
 	["feomvp-spineshatter"]=14,
 	["feoniro-spineshatter"]=3,
-	["feôra-thunderstrike"]=19,
+	["feôra-thunderstrike"]=3,
 	["fêora-thunderstrike"]=5,
 	["feraldru-spineshatter"]=1,
 	["feráli-spineshatter"]=6,
@@ -12853,7 +12853,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["gripen-spineshatter"]=13,
 	["grìsh-spineshatter"]=16,
 	["griswood-spineshatter"]=25,
-	["grizellda-thunderstrike"]=5,
+	["grizellda-thunderstrike"]=15,
 	["grizzlysture-spineshatter"]=6,
 	["groblin-spineshatter"]=11,
 	["gromble-thunderstrike"]=5,
@@ -14099,7 +14099,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["kotzo-spineshatter"]=10,
 	["koukkutolú-spineshatter"]=23,
 	["koysti-spineshatter"]=3,
-	["kózzen-spineshatter"]=4,
+	["kózzen-spineshatter"]=9,
 	["kpopstar-spineshatter"]=5,
 	["kpvs-spineshatter"]=23,
 	["krackelf-thunderstrike"]=7,
@@ -15482,7 +15482,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["neyinx-spineshatter"]=4,
 	["neytijo-spineshatter"]=19,
 	["nfërr-spineshatter"]=9,
-	["Ñgã-spineshatter"]=19,
+	["Ñgã-spineshatter"]=3,
 	["nguaroth-spineshatter"]=1,
 	["nibbllerr-spineshatter"]=3,
 	["nicelee-thunderstrike"]=2,
@@ -18061,7 +18061,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["teslash-spineshatter"]=1,
 	["teslash-thunderstrike"]=1,
 	["tesler-spineshatter"]=11,
-	["teslù-spineshatter"]=23,
+	["teslù-spineshatter"]=11,
 	["testiclak-thunderstrike"]=2,
 	["tetradudu-spineshatter"]=6,
 	["teunemans-thunderstrike"]=1,
@@ -18601,7 +18601,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["vearnn-spineshatter"]=9,
 	["ved-spineshatter"]=3,
 	["vedklabb-spineshatter"]=1,
-	["vedtjuv-spineshatter"]=12,
+	["vedtjuv-spineshatter"]=11,
 	["vegeguayz-thunderstrike"]=19,
 	["vekintq-spineshatter"]=9,
 	["velania-spineshatter"]=2,

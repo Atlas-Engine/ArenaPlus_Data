@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9382 characters, read 2026-10-20 07:58 PM.
+-- Region tbc-us, 9382 characters, read 2026-10-20 08:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11987,7 +11987,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["fawzyx-nightslayer"]=6,
 	["faxx-nightslayer"]=18,
 	["fáylaxp-nightslayer"]=1,
-	["fazan-nightslayer"]=15,
+	["fazan-nightslayer"]=17,
 	["fb-dreamscythe"]=19,
 	["fbgdre-nightslayer"]=19,
 	["fbr-nightslayer"]=13,
@@ -12762,7 +12762,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["healthls-nightslayer"]=11,
 	["healthz-nightslayer"]=1,
 	["heartwork-nightslayer"]=4,
-	["heaters-dreamscythe"]=18,
+	["heaters-dreamscythe"]=2,
 	["heatscores-nightslayer"]=5,
 	["heatscorex-nightslayer"]=2,
 	["heavenleiigh-dreamscythe"]=13,
@@ -14842,7 +14842,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["nefitatemata-dreamscythe"]=5,
 	["negatîva-nightslayer"]=1,
 	["negitoromaki-nightslayer"]=5,
-	["negzor-nightslayer"]=18,
+	["negzor-nightslayer"]=2,
 	["nehoymenoy-nightslayer"]=2,
 	["nehs-nightslayer"]=25,
 	["neijuan-dreamscythe"]=4,
@@ -15101,7 +15101,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["odumz-nightslayer"]=2,
 	["Øg-nightslayer"]=4,
 	["ogbrutal-nightslayer"]=13,
-	["ogclonez-nightslayer"]=22,
+	["ogclonez-nightslayer"]=7,
 	["oggrok-nightslayer"]=6,
 	["ogk-nightslayer"]=4,
 	["ogrekill-nightslayer"]=11,
@@ -15453,7 +15453,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["picsun-dreamscythe"]=15,
 	["piddy-nightslayer"]=1,
 	["pierogï-dreamscythe"]=22,
-	["piers-nightslayer"]=16,
+	["piers-nightslayer"]=13,
 	["pigeonman-nightslayer"]=2,
 	["pigripper-dreamscythe"]=2,
 	["pigripper-nightslayer"]=2,
@@ -15678,7 +15678,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["pumperpete-nightslayer"]=2,
 	["pumpocalypse-dreamscythe"]=18,
 	["pumpz-nightslayer"]=2,
-	["pumpzzp-dreamscythe"]=11,
+	["pumpzzp-dreamscythe"]=25,
 	["pune-nightslayer"]=5,
 	["punísher-nightslayer"]=12,
 	["punîsher-nightslayer"]=2,

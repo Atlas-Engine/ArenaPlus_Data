@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5346 characters, read 2026-10-20 08:00 PM.
+-- Region eu, 5346 characters, read 2026-10-20 09:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5408,7 +5408,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["arminmeiwes-shekzeer"]=6,
 	["arnostelest-shekzeer"]=2,
 	["arnostelestt-shekzeer"]=9,
-	["aronalze-hoptallus"]=24,
+	["aronalze-hoptallus"]=26,
 	["arpar-everlook"]=0,
 	["arpar-shekzeer"]=0,
 	["arrowgasm-ook-ook"]=14,
@@ -6773,7 +6773,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["guriero-norushen"]=11,
 	["guruglenn-shekzeer"]=1,
 	["gutalax-ook-ook"]=8,
-	["guugur-auberdine"]=10,
+	["guugur-auberdine"]=2,
 	["gww-garalon"]=1,
 	["gyatthunter-norushen"]=12,
 	["gymbunny-shekzeer"]=15,
@@ -8807,7 +8807,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["satisfiedpri-shekzeer"]=9,
 	["saunabeer-gehennas"]=0,
 	["saur-shekzeer"]=15,
-	["saúro-garalon"]=27,
+	["saúro-garalon"]=2,
 	["saveny-everlook"]=2,
 	["savexx-shekzeer"]=2,
 	["savocid-shekzeer"]=5,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5189 characters, read 2026-10-20 07:59 PM.
+-- Region us, 5189 characters, read 2026-10-20 08:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1056,7 +1056,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["dêêdaniels-lei-shen"]=11,
 	["deedaniels-raden"]=11,
 	["deedanielss-lei-shen"]=41,
-	["deepwounds-raden"]=10,
+	["deepwounds-raden"]=11,
 	["deezknuckz-pagle"]=20,
 	["Ðefeated-pagle"]=10,
 	["defeated-raden"]=11,
@@ -2905,7 +2905,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["moizefala-immerseus"]=80,
 	["mojo-raden"]=41,
 	["mojotree-pagle"]=80,
-	["mollywhopped-pagle"]=10,
+	["mollywhopped-pagle"]=11,
 	["mommaphister-pagle"]=11,
 	["mommygirl-pagle"]=51,
 	["momrelax-raden"]=10,
@@ -3318,6 +3318,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["papismash-pagle"]=10,
 	["pariston-nazgrim"]=20,
 	["paspii-pagle"]=80,
+	["pastramipapi-raden"]=10,
 	["pastullio-raden"]=40,
 	["pathtohealth-raden"]=11,
 	["pätïentzërö-pagle"]=11,
@@ -5089,7 +5090,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["alette-pagle"]=2,
 	["aléxandros-nazgrim"]=7,
 	["alexmateo-pagle"]=7,
-	["alexrrbb-raden"]=7,
+	["alexrrbb-raden"]=23,
 	["alextraxas-pagle"]=7,
 	["alezaar-raden"]=5,
 	["algreen-pagle"]=4,
@@ -5177,7 +5178,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["aquandrah-raden"]=5,
 	["ar-pagle"]=1,
 	["arae-pagle"]=24,
-	["araeul-lei-shen"]=20,
+	["araeul-lei-shen"]=3,
 	["arbiter-raden"]=17,
 	["arbolita-raden"]=5,
 	["arbuckyl-galakras"]=16,
@@ -8415,7 +8416,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["papismash-pagle"]=7,
 	["pariston-nazgrim"]=23,
 	["paspii-pagle"]=3,
-	["pastramipapi-raden"]=0,
+	["pastramipapi-raden"]=7,
 	["pastullio-raden"]=9,
 	["pathtohealth-raden"]=13,
 	["pätïentzërö-pagle"]=6,
@@ -9171,7 +9172,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["smallrass-pagle"]=7,
 	["smalltrain-pagle"]=15,
 	["smartpastry-pagle"]=14,
-	["smashdeez-nazgrim"]=7,
+	["smashdeez-nazgrim"]=30,
 	["smaxor-raden"]=7,
 	["sminchin-pagle"]=14,
 	["smokerweedch-pagle"]=24,
