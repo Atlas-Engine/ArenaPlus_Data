@@ -18,7 +18,7 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region us, season 14, read 2026-10-21 01:59 AM.
+-- Region us, season 14, read 2026-10-21 02:59 AM.
 -- Realm display names, because the ladder only carries slugs and no rule
 -- turns one back into the other: raden is Ra-den, lei-shen is Lei Shen and
 -- arugal-au is Arugal (AU). Read from Blizzard's realm index; a slug with no
@@ -35,8 +35,8 @@ ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["us"] = {
 	region  = "us",
-	checked = "2026-10-21 01:59 AM",
-	checkedEpoch = 1792562368,
+	checked = "2026-10-21 02:59 AM",
+	checkedEpoch = 1792565968,
 	snapshot = "2026-10-21 05:41",
 
 	[1] = {  -- 2v2, 5005 places, down to rating 1056 -- the API stops here, short of the cutoff
@@ -1046,20 +1046,20 @@ ns.LEADERBOARD_BY_REGION["us"] = {
 		{ rank=1004, name="Spiftr", realm="pagle", rating=2040, won=84, lost=86, faction="ALLIANCE", dr=0, dk=54 },
 		{ rank=1004, name="Stungød", realm="pagle", rating=2040, won=179, lost=166, faction="ALLIANCE", mr=2105, dr=-2, dk=63 },
 		{ rank=1004, name="Zoar", realm="raden", rating=2040, won=71, lost=67, faction="ALLIANCE", dr=150, dk=-698 },
-		{ rank=1007, name="Agrosniper", realm="pagle", rating=2039, won=276, lost=285, faction="ALLIANCE", mr=2063, dr=89, dk=-375 },
 		{ rank=1007, name="Crapes", realm="raden", rating=2039, won=200, lost=195, faction="ALLIANCE", mr=2060, dr=0, dk=53 },
 		{ rank=1007, name="Fyruss", realm="pagle", rating=2039, won=90, lost=106, faction="ALLIANCE", dr=68, dk=-284 },
 		{ rank=1007, name="Schémes", realm="galakras", rating=2039, won=52, lost=54, faction="HORDE", dr=0, dk=53 },
 		{ rank=1007, name="Sleepii", realm="raden", rating=2039, won=122, lost=125, faction="HORDE", dr=0, dk=53 },
 		{ rank=1007, name="Squince", realm="pagle", rating=2039, won=87, lost=62, faction="HORDE", dr=0, dk=53 },
 		{ rank=1007, name="Ursá", realm="nazgrim", rating=2039, won=47, lost=31, faction="HORDE", dr=0, dk=53 },
-		{ rank=1014, name="Apochi", realm="galakras", rating=2038, won=103, lost=93, faction="HORDE", mr=2053, dr=0, dk=54 },
-		{ rank=1014, name="Berell", realm="galakras", rating=2038, won=66, lost=57, faction="HORDE", mr=2050, dr=0, dk=54 },
-		{ rank=1014, name="Bubblebeach", realm="pagle", rating=2038, won=41, lost=15, faction="ALLIANCE", dr=0, dk=54 },
-		{ rank=1014, name="Dumdum", realm="nazgrim", rating=2038, won=354, lost=348, faction="HORDE", mr=2121, dr=0, dk=54 },
-		{ rank=1014, name="Max", realm="raden", rating=2038, won=49, lost=21, faction="ALLIANCE", dr=0, dk=54 },
-		{ rank=1014, name="Stylles", realm="raden", rating=2038, won=77, lost=61, faction="ALLIANCE", dr=0, dk=54 },
-		{ rank=1014, name="Yahoozy", realm="arugal-au", rating=2038, won=62, lost=41, faction="ALLIANCE", dr=0, dk=54 },
+		{ rank=1013, name="Agrosniper", realm="pagle", rating=2038, won=276, lost=286, faction="ALLIANCE", mr=2063, dr=88, dk=-369 },
+		{ rank=1013, name="Apochi", realm="galakras", rating=2038, won=103, lost=93, faction="HORDE", mr=2053, dr=0, dk=53 },
+		{ rank=1013, name="Berell", realm="galakras", rating=2038, won=66, lost=57, faction="HORDE", mr=2050, dr=0, dk=53 },
+		{ rank=1013, name="Bubblebeach", realm="pagle", rating=2038, won=41, lost=15, faction="ALLIANCE", dr=0, dk=53 },
+		{ rank=1013, name="Dumdum", realm="nazgrim", rating=2038, won=354, lost=348, faction="HORDE", mr=2121, dr=0, dk=53 },
+		{ rank=1013, name="Max", realm="raden", rating=2038, won=49, lost=21, faction="ALLIANCE", dr=0, dk=53 },
+		{ rank=1013, name="Stylles", realm="raden", rating=2038, won=77, lost=61, faction="ALLIANCE", dr=0, dk=53 },
+		{ rank=1013, name="Yahoozy", realm="arugal-au", rating=2038, won=62, lost=41, faction="ALLIANCE", dr=0, dk=53 },
 		{ rank=1021, name="Blacksiide", realm="pagle", rating=2037, won=147, lost=165, faction="ALLIANCE", mr=2082, dr=0, dk=54 },
 		{ rank=1021, name="Lunarlass", realm="pagle", rating=2037, won=51, lost=63, faction="ALLIANCE", mr=2041, dr=0, dk=54 },
 		{ rank=1023, name="Gabimaru", realm="raden", rating=2036, won=39, lost=13, faction="ALLIANCE", dr=156, dk=-734 },
