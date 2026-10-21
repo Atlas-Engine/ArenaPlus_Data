@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9736 characters, read 2026-10-21 01:59 PM.
+-- Region tbc-eu, 9736 characters, read 2026-10-21 02:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10761,7 +10761,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["bukiw-spineshatter"]=15,
 	["bulbasaur-spineshatter"]=5,
 	["buldozas-spineshatter"]=5,
-	["bulldozar-spineshatter"]=5,
+	["bulldozar-spineshatter"]=15,
 	["bullminator-thunderstrike"]=5,
 	["bulltap-spineshatter"]=4,
 	["bulobongo-spineshatter"]=2,
@@ -12606,7 +12606,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["furysert-spineshatter"]=12,
 	["futuristic-spineshatter"]=9,
 	["fuy-spineshatter"]=7,
-	["füyglapoch-spineshatter"]=15,
+	["füyglapoch-spineshatter"]=5,
 	["fuzzyfeature-spineshatter"]=9,
 	["fyggzsham-spineshatter"]=12,
 	["fyor-spineshatter"]=10,
@@ -15642,7 +15642,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["nuggetman-spineshatter"]=20,
 	["nugun-spineshatter"]=11,
 	["nukuu-spineshatter"]=15,
-	["numberjuan-spineshatter"]=2,
+	["numberjuan-spineshatter"]=17,
 	["numia-thunderstrike"]=2,
 	["nummerz-thunderstrike"]=17,
 	["nungwi-spineshatter"]=4,
@@ -17190,7 +17190,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["shkekw-spineshatter"]=5,
 	["shkur-spineshatter"]=8,
 	["shkúra-spineshatter"]=2,
-	["shmaragon-spineshatter"]=13,
+	["shmaragon-spineshatter"]=14,
 	["shmoneypapa-spineshatter"]=23,
 	["shnibz-spineshatter"]=15,
 	["shnutz-spineshatter"]=11,
@@ -18747,7 +18747,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["wagyumommy-spineshatter"]=4,
 	["wagyuyu-spineshatter"]=1,
 	["wahchii-thunderstrike"]=8,
-	["wahum-spineshatter"]=8,
+	["wahum-spineshatter"]=2,
 	["waikru-spineshatter"]=0,
 	["wairen-spineshatter"]=11,
 	["waitpowerman-spineshatter"]=5,
@@ -19201,7 +19201,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["zapahpizdi-thunderstrike"]=3,
 	["zapahsexa-thunderstrike"]=3,
 	["zapaugaxd-spineshatter"]=13,
-	["zapaxctpaxa-spineshatter"]=22,
+	["zapaxctpaxa-spineshatter"]=5,
 	["zaphera-thunderstrike"]=12,
 	["zappleet-spineshatter"]=11,
 	["zaraquer-thunderstrike"]=12,

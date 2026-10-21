@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9364 characters, read 2026-10-21 01:58 PM.
+-- Region tbc-us, 9364 characters, read 2026-10-21 02:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10549,7 +10549,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["cattleyã-nightslayer"]=11,
 	["caustik-dreamscythe"]=2,
 	["cavalanche-nightslayer"]=19,
-	["cazaanos-nightslayer"]=4,
+	["cazaanos-nightslayer"]=6,
 	["cazsandra-dreamscythe"]=2,
 	["cazwyn-nightslayer"]=7,
 	["cazzi-nightslayer"]=1,
@@ -13874,7 +13874,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["leetpre-nightslayer"]=1,
 	["leftface-nightslayer"]=1,
 	["lefthandlary-nightslayer"]=12,
-	["lefttenclear-nightslayer"]=15,
+	["lefttenclear-nightslayer"]=17,
 	["leftténclear-nightslayer"]=15,
 	["legalcitizen-nightslayer"]=12,
 	["legday-nightslayer"]=18,
@@ -14901,7 +14901,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["nightjdnr-nightslayer"]=2,
 	["nightraith-nightslayer"]=7,
 	["nightroot-dreamscythe"]=7,
-	["nightswiper-nightslayer"]=4,
+	["nightswiper-nightslayer"]=6,
 	["nightts-nightslayer"]=2,
 	["niimrod-nightslayer"]=2,
 	["nikè-dreamscythe"]=11,
@@ -16408,7 +16408,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["shadowmournè-dreamscythe"]=18,
 	["shadowpetal-nightslayer"]=3,
 	["shadowrae-nightslayer"]=1,
-	["shadxwbxrn-nightslayer"]=15,
+	["shadxwbxrn-nightslayer"]=17,
 	["shadydealerx-nightslayer"]=1,
 	["shadyjames-dreamscythe"]=4,
 	["shadyy-nightslayer"]=1,
