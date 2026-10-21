@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9738 characters, read 2026-10-21 12:59 AM.
+-- Region tbc-eu, 9738 characters, read 2026-10-21 01:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10140,7 +10140,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["axxun-thunderstrike"]=5,
 	["axzh-spineshatter"]=2,
 	["axzi-spineshatter"]=5,
-	["axzih-spineshatter"]=3,
+	["axzih-spineshatter"]=19,
 	["ayagí-thunderstrike"]=3,
 	["ayaks-spineshatter"]=5,
 	["ayamè-spineshatter"]=25,
@@ -12585,7 +12585,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["fudini-spineshatter"]=1,
 	["fuegoturbo-spineshatter"]=4,
 	["fuelex-thunderstrike"]=23,
-	["fúji-thunderstrike"]=3,
+	["fúji-thunderstrike"]=19,
 	["fülcimpa-thunderstrike"]=1,
 	["fulfrans-spineshatter"]=11,
 	["fulguxd-spineshatter"]=5,
@@ -15826,7 +15826,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["ovemeíster-spineshatter"]=12,
 	["overreaction-spineshatter"]=3,
 	["owlmacó-spineshatter"]=20,
-	["owlyone-spineshatter"]=1,
+	["owlyone-spineshatter"]=20,
 	["ownow-spineshatter"]=19,
 	["ownôw-spineshatter"]=2,
 	["ownthedoge-spineshatter"]=9,
@@ -16412,7 +16412,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["ragebaitgødx-spineshatter"]=5,
 	["ragegpt-spineshatter"]=15,
 	["rageissues-spineshatter"]=15,
-	["ragekek-spineshatter"]=5,
+	["ragekek-spineshatter"]=15,
 	["rageslave-spineshatter"]=5,
 	["ragewl-spineshatter"]=18,
 	["ragexd-spineshatter"]=5,
@@ -19065,7 +19065,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["xuschá-spineshatter"]=23,
 	["xvivoo-spineshatter"]=5,
 	["xwei-spineshatter"]=3,
-	["xxtentasion-thunderstrike"]=5,
+	["xxtentasion-thunderstrike"]=15,
 	["xydz-spineshatter"]=3,
 	["xylvros-spineshatter"]=3,
 	["xyperious-spineshatter"]=7,
