@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5187 characters, read 2026-10-21 06:59 AM.
+-- Region us, 5188 characters, read 2026-10-21 07:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2744,6 +2744,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["manischewitz-galakras"]=51,
 	["mankandyxo-pagle"]=11,
 	["mantrose-pagle"]=41,
+	["mânuel-raden"]=11,
 	["mäpuche-nazgrim"]=260,
 	["marabu-pagle"]=40,
 	["marcão-pagle"]=21,
@@ -4305,7 +4306,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["tamhee-immerseus"]=101,
 	["tammyjane-pagle"]=11,
 	["tamnar-immerseus"]=101,
-	["tànkon-pagle"]=11,
+	["tànkon-pagle"]=10,
 	["tarasbulba-immerseus"]=50,
 	["tarzàn-pagle"]=10,
 	["tastetheshot-raden"]=11,
@@ -6998,7 +6999,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["hojosatoru-raden"]=16,
 	["hojreplol-raden"]=16,
 	["hojville-pagle"]=16,
-	["holidayhamii-pagle"]=16,
+	["holidayhamii-pagle"]=32,
 	["holmz-pagle"]=3,
 	["holtxd-raden"]=7,
 	["holyangelz-pagle"]=2,
@@ -7259,7 +7260,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["jaymayn-raden"]=7,
 	["jayzon-galakras"]=1,
 	["jazzpuss-pagle"]=17,
-	["jazzwar-pagle"]=30,
+	["jazzwar-pagle"]=7,
 	["jcdk-raden"]=6,
 	["jealusmuch-arugal-au"]=0,
 	["jedicowie-pagle"]=21,
@@ -7478,7 +7479,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["klept-raden"]=4,
 	["knockoutdt-pagle"]=13,
 	["knottypawz-pagle"]=17,
-	["knuckles-pagle"]=7,
+	["knuckles-pagle"]=23,
 	["knucklès-pagle"]=2,
 	["knucklës-pagle"]=8,
 	["knûckles-pagle"]=17,
@@ -7509,7 +7510,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["krelana-pagle"]=0,
 	["krico-raden"]=10,
 	["kromdorr-pagle"]=25,
-	["krooki-pagle"]=10,
+	["krooki-pagle"]=27,
 	["kroun-raden"]=14,
 	["krpriest-nazgrim"]=13,
 	["ksoldier-pagle"]=16,
@@ -7807,6 +7808,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["manischewitz-galakras"]=21,
 	["mankandyxo-pagle"]=3,
 	["mantrose-pagle"]=5,
+	["mânuel-raden"]=28,
 	["maozebung-pagle"]=0,
 	["mäpuche-nazgrim"]=10,
 	["marabu-pagle"]=12,
@@ -8284,7 +8286,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["oddenuff-immerseus"]=3,
 	["odenslight-raden"]=2,
 	["odokawa-pagle"]=9,
-	["offgrid-galakras"]=29,
+	["offgrid-galakras"]=14,
 	["officialgoat-lei-shen"]=29,
 	["offstamp-pagle"]=16,
 	["ogbryn-nazgrim"]=17,
@@ -9686,7 +9688,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["tsukawashime-raden"]=4,
 	["tsunadè-nazgrim"]=9,
 	["ttawdirg-pagle"]=3,
-	["tubalcain-galakras"]=19,
+	["tubalcain-galakras"]=22,
 	["turaoferao-raden"]=5,
 	["turbantime-pagle"]=4,
 	["turbomóist-pagle"]=15,

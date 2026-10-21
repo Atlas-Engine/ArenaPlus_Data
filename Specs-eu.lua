@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5348 characters, read 2026-10-21 07:00 AM.
+-- Region eu, 5350 characters, read 2026-10-21 08:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1575,6 +1575,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["grönavesslan-shekzeer"]=41,
 	["grondax-norushen"]=101,
 	["grsy-shekzeer"]=11,
+	["grumpydumpy-shekzeer"]=30,
 	["grumpyolbaby-shekzeer"]=41,
 	["grumshado-hoptallus"]=20,
 	["gsek-shekzeer"]=10,
@@ -3522,6 +3523,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["saraphiana-everlook"]=11,
 	["saripihkur-garalon"]=81,
 	["sarotas-shekzeer"]=41,
+	["sâsha-shekzeer"]=11,
 	["sashavolkova-garalon"]=20,
 	["satåna-garalon"]=20,
 	["satåna-shekzeer"]=20,
@@ -3554,7 +3556,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["screwedup-norushen"]=11,
 	["scryèr-garalon"]=100,
 	["scvrecrow-shekzeer"]=10,
-	["sðe-shekzeer"]=11,
 	["sealedtome-shekzeer"]=11,
 	["sealswap-shekzeer"]=10,
 	["seaudpurin-shekzeer"]=41,
@@ -4623,6 +4624,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["yutaokko-shekzeer"]=41,
 	["yutaokkotsu-shekzeer"]=11,
 	["yuy-shekzeer"]=10,
+	["Ÿûÿûÿûÿûÿûÿû-shekzeer"]=11,
 	["yva-shekzeer"]=11,
 	["yvachi-garalon"]=50,
 	["yvachi-shekzeer"]=11,
@@ -6759,6 +6761,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["grönavesslan-shekzeer"]=11,
 	["grondax-norushen"]=5,
 	["grsy-shekzeer"]=6,
+	["grumpydumpy-shekzeer"]=28,
 	["grumpyolbaby-shekzeer"]=3,
 	["grumshado-hoptallus"]=7,
 	["gsek-shekzeer"]=1,
@@ -6799,7 +6802,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["halowar-shekzeer"]=1,
 	["halowl-shekzeer"]=17,
 	["halul-shekzeer"]=2,
-	["halyse-shekzeer"]=2,
+	["halyse-shekzeer"]=10,
 	["hammer-garalon"]=0,
 	["hanagata-norushen"]=9,
 	["hanamichi-norushen"]=7,
@@ -8800,6 +8803,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["saraphiana-everlook"]=2,
 	["saripihkur-garalon"]=7,
 	["sarotas-shekzeer"]=9,
+	["sâsha-shekzeer"]=2,
 	["sashavolkova-garalon"]=24,
 	["satåna-garalon"]=4,
 	["satåna-shekzeer"]=4,
@@ -8834,7 +8838,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["scrípter-shekzeer"]=0,
 	["scryèr-garalon"]=24,
 	["scvrecrow-shekzeer"]=10,
-	["sðe-shekzeer"]=2,
 	["sealedtome-shekzeer"]=23,
 	["sealswap-shekzeer"]=15,
 	["seaudpurin-shekzeer"]=3,
@@ -9953,6 +9956,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["yutaokko-shekzeer"]=6,
 	["yutaokkotsu-shekzeer"]=6,
 	["yuy-shekzeer"]=7,
+	["Ÿûÿûÿûÿûÿûÿû-shekzeer"]=31,
 	["yva-shekzeer"]=2,
 	["yvachi-garalon"]=6,
 	["yvachi-shekzeer"]=6,
