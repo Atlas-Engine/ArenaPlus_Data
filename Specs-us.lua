@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5188 characters, read 2026-10-21 07:59 AM.
+-- Region us, 5188 characters, read 2026-10-21 08:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7174,7 +7174,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["inconclusive-galakras"]=3,
 	["indurate-raden"]=4,
 	["indyko-nazgrim"]=18,
-	["infecto-raden"]=28,
+	["infecto-raden"]=24,
 	["infectra-galakras"]=6,
 	["inferium-pagle"]=24,
 	["infrared-pagle"]=5,
@@ -8601,7 +8601,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["quartêrmain-pagle"]=3,
 	["quelss-pagle"]=2,
 	["quesø-pagle"]=29,
-	["questopresto-nazgrim"]=10,
+	["questopresto-nazgrim"]=4,
 	["quickscopex-pagle"]=3,
 	["quickvanish-pagle"]=34,
 	["qwanya-raden"]=1,
@@ -9584,7 +9584,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["tikky-raden"]=17,
 	["tiktac-immerseus"]=3,
 	["tilted-galakras"]=7,
-	["tiltedx-galakras"]=25,
+	["tiltedx-galakras"]=6,
 	["tinysmalldk-raden"]=6,
 	["titanofdeath-galakras"]=6,
 	["tjax-raden"]=9,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9742 characters, read 2026-10-21 07:59 AM.
+-- Region tbc-eu, 9742 characters, read 2026-10-21 08:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9926,7 +9926,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["animalisch-spineshatter"]=1,
 	["animation-spineshatter"]=10,
 	["animefeet-spineshatter"]=7,
-	["aniskun-spineshatter"]=8,
+	["aniskun-spineshatter"]=2,
 	["ankhnes-spineshatter"]=2,
 	["ankii-spineshatter"]=10,
 	["ankilol-spineshatter"]=12,
@@ -11772,7 +11772,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["draaniman-spineshatter"]=23,
 	["drachten-spineshatter"]=5,
 	["dractyl-spineshatter"]=13,
-	["dragenxz-spineshatter"]=11,
+	["dragenxz-spineshatter"]=12,
 	["dragonshan-spineshatter"]=5,
 	["draindlahype-spineshatter"]=13,
 	["drainèr-spineshatter"]=5,
@@ -11865,7 +11865,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["druteq-spineshatter"]=1,
 	["druwulfig-spineshatter"]=20,
 	["druzer-spineshatter"]=1,
-	["dryink-spineshatter"]=8,
+	["dryink-spineshatter"]=2,
 	["dryn-spineshatter"]=3,
 	["drynnia-spineshatter"]=6,
 	["drzeke-spineshatter"]=2,
@@ -14276,7 +14276,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["leafav-spineshatter"]=1,
 	["leafmuncher-thunderstrike"]=5,
 	["leafz-spineshatter"]=1,
-	["léanazaoui-spineshatter"]=5,
+	["léanazaoui-spineshatter"]=15,
 	["leandrill-spineshatter"]=25,
 	["leanslick-spineshatter"]=15,
 	["leaptomoon-spineshatter"]=1,
@@ -14910,7 +14910,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["meydle-spineshatter"]=7,
 	["meyself-spineshatter"]=12,
 	["mézesgeci-spineshatter"]=7,
-	["meziljie-spineshatter"]=6,
+	["meziljie-spineshatter"]=1,
 	["mezzes-spineshatter"]=9,
 	["mfkaxx-spineshatter"]=11,
 	["mgrn-spineshatter"]=9,
@@ -15847,10 +15847,10 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["oxyh-spineshatter"]=2,
 	["oyana-spineshatter"]=8,
 	["ozael-spineshatter"]=2,
-	["Øzempic-spineshatter"]=8,
+	["Øzempic-spineshatter"]=2,
 	["ozey-spineshatter"]=3,
 	["ozèy-spineshatter"]=23,
-	["ozëy-spineshatter"]=5,
+	["ozëy-spineshatter"]=15,
 	["oziach-spineshatter"]=5,
 	["Özlemx-spineshatter"]=3,
 	["Øzlemx-spineshatter"]=9,
@@ -18085,7 +18085,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["thawr-spineshatter"]=1,
 	["thäzzy-thunderstrike"]=8,
 	["thcreceptor-spineshatter"]=1,
-	["thdryzz-spineshatter"]=5,
+	["thdryzz-spineshatter"]=15,
 	["théblàckmàgé-spineshatter"]=0,
 	["thébox-spineshatter"]=3,
 	["thechicken-spineshatter"]=20,
