@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5348 characters, read 2026-10-21 12:00 AM.
+-- Region eu, 5348 characters, read 2026-10-21 01:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -8413,7 +8413,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["plåýböt-shekzeer"]=2,
 	["plåýbøt-shekzeer"]=7,
 	["plâybøybûnny-shekzeer"]=4,
-	["playmop-shekzeer"]=17,
+	["playmop-shekzeer"]=23,
 	["plåýßøt-shekzeer"]=7,
 	["plïnki-auberdine"]=8,
 	["plmbeachpete-shekzeer"]=7,
@@ -8447,7 +8447,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["prachton-mirage-raceway"]=15,
 	["prâitre-mirage-raceway"]=9,
 	["praystation-ook-ook"]=22,
-	["predak-mirage-raceway"]=4,
+	["predak-mirage-raceway"]=14,
 	["premanchan-everlook"]=26,
 	["prénium-auberdine"]=3,
 	["préservateaf-auberdine"]=2,
@@ -8780,7 +8780,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["salvatoriel-auberdine"]=5,
 	["salvxx-shekzeer"]=9,
 	["samaddhi-shekzeer"]=17,
-	["samael-auberdine"]=9,
+	["samael-auberdine"]=12,
 	["samaruh-mirage-raceway"]=20,
 	["samisa-shekzeer"]=9,
 	["sàmsara-shekzeer"]=10,
