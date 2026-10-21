@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9744 characters, read 2026-10-21 11:59 AM.
+-- Region tbc-eu, 9744 characters, read 2026-10-21 12:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3202,7 +3202,6 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["grømmf-spineshatter"]=10,
 	["grommoron-thunderstrike"]=80,
 	["grosbouc-spineshatter"]=51,
-	["grosseviande-spineshatter"]=61,
 	["grostahan-spineshatter"]=20,
 	["grötris-spineshatter"]=60,
 	["grottman-thunderstrike"]=20,
@@ -10666,7 +10665,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["boug-spineshatter"]=23,
 	["bouncus-spineshatter"]=13,
 	["bowood-spineshatter"]=24,
-	["boxxiye-spineshatter"]=19,
+	["boxxiye-spineshatter"]=3,
 	["boyhuntard-spineshatter"]=25,
 	["bqoorh-spineshatter"]=1,
 	["bracksir-spineshatter"]=13,
@@ -10837,7 +10836,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["calypsè-spineshatter"]=11,
 	["camelcorn-spineshatter"]=9,
 	["camill-spineshatter"]=2,
-	["canalisation-spineshatter"]=13,
+	["canalisation-spineshatter"]=18,
 	["candx-spineshatter"]=9,
 	["candypriest-thunderstrike"]=2,
 	["cantbearsed-spineshatter"]=3,
@@ -12862,7 +12861,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["grømmf-spineshatter"]=3,
 	["grommoron-thunderstrike"]=5,
 	["grosbouc-spineshatter"]=3,
-	["grosseviande-spineshatter"]=1,
+	["grosseviande-spineshatter"]=0,
 	["grostahan-spineshatter"]=5,
 	["grötris-spineshatter"]=1,
 	["grottman-thunderstrike"]=12,
@@ -15345,7 +15344,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["naturalplan-spineshatter"]=23,
 	["naturefüry-spineshatter"]=1,
 	["naturesimp-spineshatter"]=11,
-	["naturjuice-spineshatter"]=1,
+	["naturjuice-spineshatter"]=6,
 	["naturvrede-spineshatter"]=1,
 	["nawbee-spineshatter"]=13,
 	["nawbie-spineshatter"]=13,
@@ -16867,7 +16866,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["samasuke-spineshatter"]=12,
 	["samenub-spineshatter"]=1,
 	["samfury-spineshatter"]=23,
-	["samlaga-spineshatter"]=8,
+	["samlaga-spineshatter"]=2,
 	["samozrejme-spineshatter"]=1,
 	["samspeed-spineshatter"]=8,
 	["samstone-spineshatter"]=11,
@@ -19009,7 +19008,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["xdonik-thunderstrike"]=11,
 	["xdperhaps-spineshatter"]=2,
 	["xdshera-spineshatter"]=13,
-	["xdskullzz-spineshatter"]=24,
+	["xdskullzz-spineshatter"]=25,
 	["xebic-spineshatter"]=9,
 	["xeeyres-spineshatter"]=1,
 	["xeht-spineshatter"]=12,
