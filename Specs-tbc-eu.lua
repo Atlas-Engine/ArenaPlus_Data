@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9750 characters, read 2026-10-22 10:59 AM.
+-- Region tbc-eu, 9750 characters, read 2026-10-22 11:54 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11042,7 +11042,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["cicilol-spineshatter"]=8,
 	["cidia-thunderstrike"]=2,
 	["ciès-spineshatter"]=3,
-	["cigani-spineshatter"]=19,
+	["cigani-spineshatter"]=3,
 	["cigår-spineshatter"]=4,
 	["cigarétte-spineshatter"]=15,
 	["cigarètte-spineshatter"]=3,
@@ -11175,7 +11175,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["cøvfefe-spineshatter"]=11,
 	["cowaa-thunderstrike"]=1,
 	["côwabunga-spineshatter"]=20,
-	["cowaccident-spineshatter"]=12,
+	["cowaccident-spineshatter"]=23,
 	["cowbites-spineshatter"]=1,
 	["cowdog-thunderstrike"]=1,
 	["cowmoomilla-spineshatter"]=1,
@@ -16178,7 +16178,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["prealock-spineshatter"]=13,
 	["prebenx-thunderstrike"]=5,
 	["predatorcxd-spineshatter"]=5,
-	["predatorxd-spineshatter"]=5,
+	["predatorxd-spineshatter"]=15,
 	["predicte-spineshatter"]=9,
 	["preezt-thunderstrike"]=8,
 	["prehoy-spineshatter"]=2,
@@ -18701,7 +18701,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["vircotto-thunderstrike"]=15,
 	["virgilea-spineshatter"]=8,
 	["virgileo-spineshatter"]=9,
-	["virix-spineshatter"]=9,
+	["virix-spineshatter"]=4,
 	["virixdaddyx-spineshatter"]=9,
 	["virixlol-spineshatter"]=3,
 	["viruna-thunderstrike"]=2,
