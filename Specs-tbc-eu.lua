@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9741 characters, read 2026-10-22 02:59 AM.
+-- Region tbc-eu, 9741 characters, read 2026-10-22 03:44 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10268,7 +10268,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["bållin-spineshatter"]=13,
 	["ballprintxd-spineshatter"]=6,
 	["baltazarx-spineshatter"]=14,
-	["balthx-spineshatter"]=19,
+	["balthx-spineshatter"]=3,
 	["baltsisright-thunderstrike"]=3,
 	["balzi-spineshatter"]=15,
 	["balzie-spineshatter"]=12,
@@ -12655,7 +12655,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["gattouzu-thunderstrike"]=5,
 	["gattusö-spineshatter"]=10,
 	["gauti-spineshatter"]=5,
-	["gavlarss-spineshatter"]=15,
+	["gavlarss-spineshatter"]=5,
 	["gayheilt-thunderstrike"]=2,
 	["gbogstrok-spineshatter"]=1,
 	["gðdmðde-spineshatter"]=5,
@@ -15703,7 +15703,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["ohw-spineshatter"]=11,
 	["oînk-spineshatter"]=11,
 	["ojakhuri-spineshatter"]=13,
-	["okaja-spineshatter"]=5,
+	["okaja-spineshatter"]=15,
 	["okbloomer-spineshatter"]=1,
 	["okizeme-spineshatter"]=2,
 	["okratæsk-spineshatter"]=5,
@@ -16923,7 +16923,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["scamjika-spineshatter"]=2,
 	["scandyep-spineshatter"]=9,
 	["scareyo-spineshatter"]=5,
-	["scarfex-spineshatter"]=3,
+	["scarfex-spineshatter"]=19,
 	["scarletti-spineshatter"]=5,
 	["scarydeath-spineshatter"]=23,
 	["scaryy-spineshatter"]=3,

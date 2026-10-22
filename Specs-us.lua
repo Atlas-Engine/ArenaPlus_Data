@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5193 characters, read 2026-10-22 02:54 AM.
+-- Region us, 5193 characters, read 2026-10-22 03:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7040,7 +7040,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["horatian-pagle"]=7,
 	["horculez-pagle"]=6,
 	["hordeshanker-pagle"]=14,
-	["hordiddy-pagle"]=5,
+	["hordiddy-pagle"]=12,
 	["horizøn-pagle"]=10,
 	["horniaf-pagle"]=5,
 	["horsedike-pagle"]=1,
@@ -7183,7 +7183,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["infurryator-raden"]=12,
 	["initis-raden"]=7,
 	["injury-pagle"]=7,
-	["inkárri-arugal-au"]=4,
+	["inkárri-arugal-au"]=10,
 	["inmortalwar-raden"]=7,
 	["innoofirgize-raden"]=5,
 	["inorie-raden"]=4,
@@ -9855,7 +9855,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["vonxx-pagle"]=24,
 	["vonzxy-pagle"]=11,
 	["vorag-nazgrim"]=10,
-	["voromyr-lei-shen"]=7,
+	["voromyr-lei-shen"]=23,
 	["vorthorne-raden"]=7,
 	["voshay-pagle"]=15,
 	["vova-pagle"]=12,
