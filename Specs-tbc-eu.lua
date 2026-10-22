@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9743 characters, read 2026-10-22 12:54 AM.
+-- Region tbc-eu, 9741 characters, read 2026-10-22 01:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4596,7 +4596,6 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["léanazaoui-spineshatter"]=21,
 	["leandrill-spineshatter"]=41,
 	["leanslick-spineshatter"]=21,
-	["leaptomoon-spineshatter"]=40,
 	["leaxt-thunderstrike"]=41,
 	["lebabs-spineshatter"]=111,
 	["leberkás-spineshatter"]=11,
@@ -7289,7 +7288,6 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["seggsmachine-spineshatter"]=101,
 	["sehrschade-spineshatter"]=11,
 	["sejfx-spineshatter"]=60,
-	["sekker-spineshatter"]=21,
 	["seksiveijo-thunderstrike"]=110,
 	["selebro-thunderstrike"]=11,
 	["selectä-thunderstrike"]=110,
@@ -10947,7 +10945,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["chatmuted-spineshatter"]=5,
 	["chatteur-spineshatter"]=4,
 	["chconunu-thunderstrike"]=6,
-	["cheapresist-thunderstrike"]=19,
+	["cheapresist-thunderstrike"]=3,
 	["cheatcode-spineshatter"]=1,
 	["checkslow-spineshatter"]=25,
 	["cheekbuster-spineshatter"]=1,
@@ -14273,7 +14271,6 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["léanazaoui-spineshatter"]=15,
 	["leandrill-spineshatter"]=25,
 	["leanslick-spineshatter"]=15,
-	["leaptomoon-spineshatter"]=1,
 	["leaxt-thunderstrike"]=6,
 	["lebabs-spineshatter"]=23,
 	["leberkás-spineshatter"]=14,
@@ -17001,7 +16998,6 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["seggsmachine-spineshatter"]=7,
 	["sehrschade-spineshatter"]=9,
 	["sejfx-spineshatter"]=1,
-	["sekker-spineshatter"]=5,
 	["seksiveijo-thunderstrike"]=11,
 	["selebro-thunderstrike"]=2,
 	["selectä-thunderstrike"]=11,
