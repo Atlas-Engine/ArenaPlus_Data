@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5353 characters, read 2026-10-22 02:00 PM.
+-- Region eu, 5353 characters, read 2026-10-22 03:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3988,7 +3988,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["tastemydmg-shekzeer"]=11,
 	["tastyd-shekzeer"]=41,
 	["tawnyx-everlook"]=40,
-	["taylôrswiftx-mirage-raceway"]=11,
+	["taylôrswiftx-mirage-raceway"]=10,
 	["taylorswitch-garalon"]=10,
 	["tazes-shekzeer"]=10,
 	["tazeskeg-shekzeer"]=11,
@@ -6469,7 +6469,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["eyz-shekzeer"]=0,
 	["ezkill-shekzeer"]=26,
 	["ezkiz-shekzeer"]=2,
-	["ezpzy-shekzeer"]=3,
+	["ezpzy-shekzeer"]=11,
 	["eztre-mirage-raceway"]=26,
 	["ezwinlul-shekzeer"]=19,
 	["fácemash-shekzeer"]=4,
@@ -6574,7 +6574,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["flx-shekzeer"]=2,
 	["flxgodx-shekzeer"]=5,
 	["flyingkick-garalon"]=7,
-	["flyingkick-shekzeer"]=15,
+	["flyingkick-shekzeer"]=5,
 	["flyniqa-shekzeer"]=11,
 	["fmxyo-shekzeer"]=10,
 	["fmzk-shekzeer"]=24,

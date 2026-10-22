@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5193 characters, read 2026-10-22 01:59 PM.
+-- Region us, 5193 characters, read 2026-10-22 02:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6016,7 +6016,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["deadlifta-pagle"]=6,
 	["deadlylifts-pagle"]=7,
 	["deadmoon-galakras"]=24,
-	["deadnutz-nazgrim"]=34,
+	["deadnutz-nazgrim"]=14,
 	["deadpal-galakras"]=16,
 	["deadpoolwins-pagle"]=6,
 	["deadshottz-galakras"]=3,
@@ -6150,7 +6150,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["djabita-nazgrim"]=1,
 	["djadá-pagle"]=4,
 	["djblazyn-raden"]=1,
-	["djinx-raden"]=29,
+	["djinx-raden"]=14,
 	["djnapples-lei-shen"]=12,
 	["djnox-pagle"]=24,
 	["Ðjsnake-raden"]=0,
@@ -6716,7 +6716,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["geebroni-pagle"]=16,
 	["gelania-pagle"]=18,
 	["genelron-lei-shen"]=16,
-	["gentleman-pagle"]=25,
+	["gentleman-pagle"]=26,
 	["genuinely-raden"]=1,
 	["geser-raden"]=20,
 	["getaway-nazgrim"]=1,
@@ -6801,7 +6801,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["gonegirl-pagle"]=21,
 	["goochwhisper-nazgrim"]=29,
 	["goodolgamgam-raden"]=32,
-	["goofygoofer-raden"]=16,
+	["goofygoofer-raden"]=2,
 	["googleorbs-immerseus"]=4,
 	["googlepain-immerseus"]=3,
 	["goonerqt-pagle"]=9,
