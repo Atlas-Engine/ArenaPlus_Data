@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5348 characters, read 2026-10-22 07:00 AM.
+-- Region eu, 5349 characters, read 2026-10-22 08:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -716,6 +716,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["celestìas-auberdine"]=11,
 	["celestias-shekzeer"]=11,
 	["cellathebest-mirage-raceway"]=91,
+	["cemabii-everlook"]=20,
 	["cendriier-auberdine"]=50,
 	["céoqi-auberdine"]=11,
 	["cerezi-shekzeer"]=41,
@@ -5340,7 +5341,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["angrywife-shekzeer"]=7,
 	["anika-shekzeer"]=5,
 	["animalleader-shekzeer"]=3,
-	["animecatgirl-shekzeer"]=3,
+	["animecatgirl-shekzeer"]=11,
 	["ankalagor-mirage-raceway"]=2,
 	["ankhulet-shekzeer"]=16,
 	["anlucky-shekzeer"]=28,
@@ -5857,6 +5858,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["celestìas-auberdine"]=2,
 	["celestias-shekzeer"]=2,
 	["cellathebest-mirage-raceway"]=23,
+	["cemabii-everlook"]=14,
 	["cendriier-auberdine"]=17,
 	["céoqi-auberdine"]=6,
 	["cerezi-shekzeer"]=4,
@@ -7632,7 +7634,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["mackansdad-garalon"]=4,
 	["macuni-shekzeer"]=1,
 	["madgurux-shekzeer"]=11,
-	["madlore-shekzeer"]=25,
+	["madlore-shekzeer"]=1,
 	["madmyke-shekzeer"]=1,
 	["madsgirgas-shekzeer"]=15,
 	["maedic-shekzeer"]=5,
@@ -9469,7 +9471,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["trustmebro-shekzeer"]=1,
 	["truthspeaker-shekzeer"]=6,
 	["tryinglock-shekzeer"]=17,
-	["trytorun-shekzeer"]=4,
+	["trytorun-shekzeer"]=20,
 	["tsima-shekzeer"]=3,
 	["tslx-shekzeer"]=13,
 	["tsouvirak-garalon"]=1,
@@ -9766,7 +9768,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["willeps-shekzeer"]=2,
 	["windchimebro-shekzeer"]=7,
 	["windchimepro-shekzeer"]=14,
-	["windpapi-shekzeer"]=34,
+	["windpapi-shekzeer"]=24,
 	["windpipe-shekzeer"]=7,
 	["windpotata-shekzeer"]=7,
 	["windwålker-shekzeer"]=6,

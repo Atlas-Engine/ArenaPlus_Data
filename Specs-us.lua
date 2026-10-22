@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5193 characters, read 2026-10-22 06:59 AM.
+-- Region us, 5192 characters, read 2026-10-22 07:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1710,7 +1710,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["getclapt-lei-shen"]=10,
 	["getdough-grobbulus"]=11,
 	["getleid-lei-shen"]=10,
-	["getownedbkwz-raden"]=20,
 	["getshton-raden"]=41,
 	["getstøned-raden"]=10,
 	["gezzel-raden"]=11,
@@ -2769,6 +2768,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["matahordax-pagle"]=20,
 	["matemage-pagle"]=10,
 	["mathsbangsgg-pagle"]=11,
+	["mathscaresgg-pagle"]=61,
 	["mathsmoansgg-pagle"]=21,
 	["matix-nazgrim"]=100,
 	["matraxs-raden"]=10,
@@ -5614,7 +5614,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["brr-raden"]=1,
 	["brúcelee-pagle"]=0,
 	["bruceleroyd-pagle"]=27,
-	["brucewaynex-raden"]=0,
 	["bruhphister-pagle"]=2,
 	["bruisednees-raden"]=18,
 	["bruje-immerseus"]=10,
@@ -6724,7 +6723,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["getclapt-lei-shen"]=6,
 	["getdough-grobbulus"]=2,
 	["getleid-lei-shen"]=7,
-	["getownedbkwz-raden"]=7,
 	["getshton-raden"]=5,
 	["getstøned-raden"]=7,
 	["gezzel-raden"]=21,
@@ -7839,6 +7837,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["matahordax-pagle"]=7,
 	["matemage-pagle"]=7,
 	["mathsbangsgg-pagle"]=8,
+	["mathscaresgg-pagle"]=33,
 	["mathsmoansgg-pagle"]=25,
 	["matix-nazgrim"]=16,
 	["matraxs-raden"]=34,
@@ -9593,7 +9592,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["tikky-raden"]=17,
 	["tiktac-immerseus"]=3,
 	["tilted-galakras"]=7,
-	["tiltedx-galakras"]=6,
+	["tiltedx-galakras"]=25,
 	["tinysmalldk-raden"]=6,
 	["titanofdeath-galakras"]=6,
 	["tjax-raden"]=9,
@@ -10200,5 +10199,5 @@ ns.SPECS_BY_REGION["us"] = {
 	["zzaac-lei-shen"]=24,
 	["zzdy-raden"]=0,
 	["zzombiexxddk-raden"]=6,
-	["zztpsst-pagle"]=15,
+	["zztpsst-pagle"]=19,
 }

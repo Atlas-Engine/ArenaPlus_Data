@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9379 characters, read 2026-10-22 06:58 AM.
+-- Region tbc-us, 9379 characters, read 2026-10-22 07:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11555,7 +11555,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["drugsareokay-nightslayer"]=16,
 	["druidalina-nightslayer"]=7,
 	["druidmilker-nightslayer"]=7,
-	["druidsterly-nightslayer"]=7,
+	["druidsterly-nightslayer"]=3,
 	["druidtommy-nightslayer"]=7,
 	["drukings-nightslayer"]=7,
 	["drulekin-nightslayer"]=5,
@@ -14841,7 +14841,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["neilie-nightslayer"]=24,
 	["neiliee-nightslayer"]=9,
 	["neilomei-nightslayer"]=2,
-	["nekobearmeow-nightslayer"]=3,
+	["nekobearmeow-nightslayer"]=7,
 	["nekryss-nightslayer"]=1,
 	["nellymandela-nightslayer"]=19,
 	["nelsonice-nightslayer"]=7,
@@ -18370,7 +18370,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["xooji-nightslayer"]=4,
 	["xooti-dreamscythe"]=24,
 	["xost-nightslayer"]=5,
-	["xown-nightslayer"]=12,
+	["xown-nightslayer"]=1,
 	["xoxoxoxo-nightslayer"]=4,
 	["xpectdeath-nightslayer"]=13,
 	["xraka-nightslayer"]=2,
