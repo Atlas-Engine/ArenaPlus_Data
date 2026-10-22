@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5192 characters, read 2026-10-22 05:59 PM.
+-- Region us, 5192 characters, read 2026-10-22 06:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2576,7 +2576,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["ligmatron-raden"]=10,
 	["lijienator-pagle"]=100,
 	["likez-pagle"]=50,
-	["likmypsy-raden"]=10,
+	["likmypsy-raden"]=11,
 	["lilbabe-pagle"]=11,
 	["lilbenzo-raden"]=11,
 	["lilbonk-galakras"]=11,
@@ -4083,7 +4083,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["solreaver-nazgrim"]=50,
 	["sølve-pagle"]=41,
 	["sombodee-pagle"]=10,
-	["someidiot-raden"]=40,
+	["someidiot-raden"]=41,
 	["someonè-raden"]=11,
 	["songur-galakras"]=21,
 	["songurudhunt-galakras"]=51,
@@ -5136,7 +5136,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["anakkrakatoa-nazgrim"]=11,
 	["anaksol-pagle"]=11,
 	["analayla-lei-shen"]=0,
-	["anariita-nazgrim"]=20,
+	["anariita-nazgrim"]=3,
 	["anastari-pagle"]=1,
 	["anastasiah-raden"]=24,
 	["anastasiahh-raden"]=21,
@@ -5534,7 +5534,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["bonnith-pagle"]=7,
 	["bonwick-arugal-au"]=21,
 	["boofed-raden"]=1,
-	["booku-pagle"]=25,
+	["booku-pagle"]=6,
 	["boomantics-pagle"]=17,
 	["boomchicken-galakras"]=5,
 	["boomydo-raden"]=17,
@@ -5558,13 +5558,13 @@ ns.SPECS_BY_REGION["us"] = {
 	["bossdon-pagle"]=7,
 	["bouddha-raden"]=4,
 	["bovinelegend-galakras"]=0,
-	["bowflexy-raden"]=20,
+	["bowflexy-raden"]=3,
 	["bowhog-galakras"]=3,
 	["bowjakkson-immerseus"]=3,
 	["bowjayc-pagle"]=18,
 	["bowjo-lei-shen"]=3,
 	["bowjyden-pagle"]=3,
-	["bowlbasaur-pagle"]=29,
+	["bowlbasaur-pagle"]=34,
 	["bowlshift-raden"]=12,
 	["bowner-pagle"]=3,
 	["bównër-raden"]=18,
@@ -7623,7 +7623,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["lifely-raden"]=10,
 	["lifesavérs-pagle"]=21,
 	["lighi-raden"]=3,
-	["lightenforge-pagle"]=16,
+	["lightenforge-pagle"]=2,
 	["lightglare-pagle"]=7,
 	["lighthvalor-lei-shen"]=16,
 	["lightoftrump-pagle"]=2,
@@ -7635,7 +7635,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ligmatron-raden"]=7,
 	["lijienator-pagle"]=11,
 	["likez-pagle"]=21,
-	["likmypsy-raden"]=14,
+	["likmypsy-raden"]=34,
 	["lilbabe-pagle"]=16,
 	["lilbenzo-raden"]=16,
 	["lilbonk-galakras"]=7,
@@ -8092,7 +8092,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["nalx-raden"]=5,
 	["namosca-pagle"]=3,
 	["naniaids-lei-shen"]=28,
-	["nanikilla-lei-shen"]=10,
+	["nanikilla-lei-shen"]=4,
 	["nanismasha-lei-shen"]=15,
 	["nanixita-raden"]=24,
 	["nanslayer-raden"]=1,

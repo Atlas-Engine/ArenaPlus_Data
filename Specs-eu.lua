@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5350 characters, read 2026-10-22 06:00 PM.
+-- Region eu, 5350 characters, read 2026-10-22 07:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2079,7 +2079,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["kêrolina-shekzeer"]=41,
 	["keskia-auberdine"]=11,
 	["ketagenießer-everlook"]=111,
-	["ketchupmayo-shekzeer"]=10,
 	["keydan-ook-ook"]=41,
 	["kéydan-ook-ook"]=10,
 	["keydanus-ook-ook"]=10,
@@ -3470,7 +3469,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["rydothetrap-everlook"]=11,
 	["rydothetwink-everlook"]=40,
 	["rydothewar-everlook"]=10,
-	["rydothewl-everlook"]=11,
+	["rydothewl-everlook"]=10,
 	["ryles-hoptallus"]=10,
 	["ryuujin-shekzeer"]=10,
 	["ryuuko-shekzeer"]=11,
@@ -4536,7 +4535,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["xea-norushen"]=11,
 	["xena-shekzeer"]=111,
 	["xeyo-shekzeer"]=11,
-	["xfa-garalon"]=21,
+	["xfa-garalon"]=50,
 	["xfree-shekzeer"]=10,
 	["xiaochi-mirage-raceway"]=11,
 	["xijiping-shekzeer"]=10,
@@ -5670,7 +5669,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["blackmaan-shekzeer"]=1,
 	["bladesmonk-hoptallus"]=6,
 	["blahster-shekzeer"]=12,
-	["blakmoon-auberdine"]=11,
+	["blakmoon-auberdine"]=3,
 	["blancos-auberdine"]=1,
 	["blanky-shekzeer"]=2,
 	["blaqchina-shekzeer"]=6,
@@ -6928,7 +6927,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["hopeéloolxd-shekzeer"]=23,
 	["høpps-norushen"]=9,
 	["horderising-shekzeer"]=11,
-	["hordy-shekzeer"]=3,
+	["hordy-shekzeer"]=11,
 	["horrendouss-shekzeer"]=15,
 	["hoses-mirage-raceway"]=13,
 	["hotpoint-shekzeer"]=15,
@@ -7294,7 +7293,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["kêrolina-shekzeer"]=3,
 	["keskia-auberdine"]=5,
 	["ketagenießer-everlook"]=16,
-	["ketchupmayo-shekzeer"]=1,
+	["ketchupmayo-shekzeer"]=0,
 	["kex-shekzeer"]=0,
 	["keydan-ook-ook"]=9,
 	["kéydan-ook-ook"]=7,
@@ -7776,7 +7775,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["mezcladito-shekzeer"]=14,
 	["mhealkà-auberdine"]=30,
 	["mhyaazz-hoptallus"]=4,
-	["miamilkova-everlook"]=9,
+	["miamilkova-everlook"]=22,
 	["micayahr-everlook"]=24,
 	["michaell-shekzeer"]=24,
 	["mid-hoptallus"]=1,
