@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5193 characters, read 2026-10-22 03:59 PM.
+-- Region us, 5192 characters, read 2026-10-22 04:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -357,7 +357,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["baldam-nazgrim"]=60,
 	["baldpate-nazgrim"]=10,
 	["balduinoiv-galakras"]=100,
-	["balfiura-pagle"]=11,
 	["bälrog-lei-shen"]=10,
 	["bals-pagle"]=41,
 	["balsamico-raden"]=70,
@@ -721,7 +720,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["cantgetmeoff-pagle"]=50,
 	["cäpriëstsun-pagle"]=41,
 	["carbontaxes-pagle"]=10,
-	["cardoni-galakras"]=10,
 	["cardpally-galakras"]=10,
 	["carnàxx-pagle"]=10,
 	["càrnaxx-pagle"]=11,
@@ -1434,7 +1432,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["evilforcesgx-pagle"]=50,
 	["evilxdream-raden"]=41,
 	["evilxeevee-raden"]=41,
-	["evilxshamwow-raden"]=30,
+	["evilxshamwow-raden"]=31,
 	["evolution-pagle"]=41,
 	["exaltore-pagle"]=10,
 	["exceso-raden"]=11,
@@ -5126,7 +5124,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["alystrixa-pagle"]=34,
 	["amaterasu-raden"]=28,
 	["amazingufo-pagle"]=31,
-	["amberance-pagle"]=17,
+	["amberance-pagle"]=5,
 	["ameldiel-pagle"]=20,
 	["amewz-pagle"]=7,
 	["amöra-galakras"]=13,
@@ -5302,7 +5300,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["baldam-nazgrim"]=16,
 	["baldpate-nazgrim"]=25,
 	["balduinoiv-galakras"]=16,
-	["balfiura-pagle"]=24,
+	["balfiura-raden"]=0,
 	["bälrog-lei-shen"]=21,
 	["bals-pagle"]=5,
 	["balsamico-raden"]=1,
@@ -5692,7 +5690,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["cantgetmeoff-pagle"]=30,
 	["cäpriëstsun-pagle"]=9,
 	["carbontaxes-pagle"]=1,
-	["cardoni-galakras"]=3,
 	["cardpally-galakras"]=16,
 	["carnàxx-pagle"]=24,
 	["càrnaxx-pagle"]=1,
@@ -5715,7 +5712,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["catmasterx-raden"]=7,
 	["catpack-raden"]=12,
 	["cavalaum-galakras"]=19,
-	["cavallier-pagle"]=32,
+	["cavallier-pagle"]=2,
 	["caylara-raden"]=20,
 	["cazabrujas-raden"]=20,
 	["cbt-raden"]=4,
@@ -8902,7 +8899,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["sanguinious-lei-shen"]=7,
 	["sàngüinius-pagle"]=2,
 	["saphiiry-galakras"]=12,
-	["saphub-galakras"]=29,
+	["saphub-galakras"]=34,
 	["saplight-galakras"]=0,
 	["sapoo-pagle"]=14,
 	["sappinturtle-pagle"]=14,
@@ -9090,7 +9087,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["silqy-pagle"]=0,
 	["silviaisa-raden"]=14,
 	["silviita-raden"]=1,
-	["simplebleeds-raden"]=33,
+	["simplebleeds-raden"]=17,
 	["sin-nazgrim"]=0,
 	["sinath-pagle"]=21,
 	["sinfullwinz-raden"]=19,

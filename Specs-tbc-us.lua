@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9378 characters, read 2026-10-22 03:58 PM.
+-- Region tbc-us, 9378 characters, read 2026-10-22 04:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11432,7 +11432,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["doomtoreto-dreamscythe"]=13,
 	["doomtwist-dreamscythe"]=11,
 	["doomxxz-nightslayer"]=1,
-	["doopdefuq-nightslayer"]=24,
+	["doopdefuq-nightslayer"]=10,
 	["dooster-nightslayer"]=4,
 	["dopamin-nightslayer"]=5,
 	["dorabeil-nightslayer"]=1,
@@ -17199,7 +17199,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["suowar-nightslayer"]=2,
 	["superdush-dreamscythe"]=9,
 	["supermelt-dreamscythe"]=5,
-	["superrcharge-nightslayer"]=1,
+	["superrcharge-nightslayer"]=14,
 	["supershock-nightslayer"]=19,
 	["supersonics-nightslayer"]=19,
 	["supplecheeks-dreamscythe"]=1,
@@ -18512,7 +18512,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["yungmfkgoat-nightslayer"]=2,
 	["yungmfngoat-nightslayer"]=11,
 	["yungpumper-nightslayer"]=20,
-	["yuumim-dreamscythe"]=4,
+	["yuumim-dreamscythe"]=6,
 	["yuumior-dreamscythe"]=2,
 	["yuzx-nightslayer"]=6,
 	["za-nightslayer"]=12,
