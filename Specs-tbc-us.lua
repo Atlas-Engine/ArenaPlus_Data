@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9380 characters, read 2026-10-22 09:58 AM.
+-- Region tbc-us, 9380 characters, read 2026-10-22 10:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10431,7 +10431,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["burdienz-dreamscythe"]=7,
 	["burg-nightslayer"]=4,
 	["burnër-nightslayer"]=12,
-	["burnese-nightslayer"]=26,
+	["burnese-nightslayer"]=4,
 	["burnser-nightslayer"]=18,
 	["burnshady-nightslayer"]=5,
 	["burnswarr-dreamscythe"]=18,
@@ -10743,7 +10743,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["cindybrooke-nightslayer"]=8,
 	["cinladen-nightslayer"]=12,
 	["cínnamon-nightslayer"]=15,
-	["citizenkek-nightslayer"]=26,
+	["citizenkek-nightslayer"]=4,
 	["citsalt-dreamscythe"]=1,
 	["cïx-nightslayer"]=2,
 	["ciy-dreamscythe"]=10,
@@ -15860,7 +15860,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["raystigz-nightslayer"]=6,
 	["rayyaflow-nightslayer"]=6,
 	["rayzo-nightslayer"]=5,
-	["razakam-nightslayer"]=6,
+	["razakam-nightslayer"]=4,
 	["razgorb-nightslayer"]=4,
 	["razorsedgge-dreamscythe"]=2,
 	["rázzle-nightslayer"]=13,
@@ -15900,7 +15900,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["reeches-nightslayer"]=13,
 	["reefbb-nightslayer"]=6,
 	["reefblaze-nightslayer"]=6,
-	["reefey-nightslayer"]=6,
+	["reefey-nightslayer"]=4,
 	["reeflexx-nightslayer"]=8,
 	["reeitz-nightslayer"]=9,
 	["reekz-nightslayer"]=2,
@@ -16004,7 +16004,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["rhozy-nightslayer"]=25,
 	["rhxx-nightslayer"]=1,
 	["rhyjz-nightslayer"]=7,
-	["rhythmic-nightslayer"]=5,
+	["rhythmic-nightslayer"]=8,
 	["riaxa-nightslayer"]=17,
 	["ricepoopie-dreamscythe"]=16,
 	["rich-nightslayer"]=2,
@@ -16157,7 +16157,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["rubydatotem-nightslayer"]=19,
 	["rubyocho-dreamscythe"]=19,
 	["rubysixer-dreamscythe"]=11,
-	["rubyz-nightslayer"]=26,
+	["rubyz-nightslayer"]=4,
 	["ruckle-dreamscythe"]=10,
 	["rudager-nightslayer"]=3,
 	["ruiñ-nightslayer"]=13,
@@ -16267,7 +16267,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["saridan-dreamscythe"]=15,
 	["sashimì-nightslayer"]=6,
 	["sath-nightslayer"]=18,
-	["satisfyx-nightslayer"]=6,
+	["satisfyx-nightslayer"]=4,
 	["saucelordd-nightslayer"]=14,
 	["saucerman-nightslayer"]=5,
 	["saucý-nightslayer"]=5,
@@ -16372,7 +16372,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["señorbonk-nightslayer"]=2,
 	["senthiell-nightslayer"]=1,
 	["sentry-nightslayer"]=4,
-	["senyi-nightslayer"]=5,
+	["senyi-nightslayer"]=8,
 	["seob-nightslayer"]=1,
 	["sepukupermyb-nightslayer"]=15,
 	["sequencing-nightslayer"]=5,

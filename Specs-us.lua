@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5192 characters, read 2026-10-22 09:54 AM.
+-- Region us, 5192 characters, read 2026-10-22 10:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5125,7 +5125,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["alystrixa-pagle"]=34,
 	["amaterasu-raden"]=28,
 	["amazingufo-pagle"]=31,
-	["amberance-pagle"]=5,
+	["amberance-pagle"]=17,
 	["ameldiel-pagle"]=20,
 	["amewz-pagle"]=7,
 	["amöra-galakras"]=13,
@@ -6695,7 +6695,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ganonmauz-raden"]=2,
 	["garbagedruid-raden"]=5,
 	["garnaby-pagle"]=14,
-	["garnarin-galakras"]=9,
+	["garnarin-galakras"]=13,
 	["garrahmonk-raden"]=4,
 	["garrahmw-raden"]=4,
 	["garrik-lei-shen"]=14,
@@ -6721,7 +6721,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["geser-raden"]=20,
 	["getaway-nazgrim"]=1,
 	["getclapt-lei-shen"]=6,
-	["getdough-grobbulus"]=2,
+	["getdough-grobbulus"]=16,
 	["getleid-lei-shen"]=7,
 	["getshton-raden"]=5,
 	["getstøned-raden"]=7,
@@ -6756,7 +6756,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["gizmatik-raden"]=12,
 	["gizmho-raden"]=14,
 	["gizzeh-raden"]=21,
-	["gkazz-lei-shen"]=15,
+	["gkazz-lei-shen"]=22,
 	["gläcer-raden"]=1,
 	["glacior-pagle"]=1,
 	["glafira-raden"]=23,
@@ -8523,7 +8523,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["poppcorn-raden"]=5,
 	["popsmokè-pagle"]=29,
 	["pörch-pagle"]=14,
-	["porkchopx-nazgrim"]=4,
+	["porkchopx-nazgrim"]=10,
 	["porkfriedrai-immerseus"]=4,
 	["portholio-pagle"]=4,
 	["potatoes-arugal-au"]=18,
