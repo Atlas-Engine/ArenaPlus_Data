@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5349 characters, read 2026-10-22 08:00 AM.
+-- Region eu, 5349 characters, read 2026-10-22 09:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6962,7 +6962,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["iamcurt-mirage-raceway"]=9,
 	["iaminafullcc-shekzeer"]=3,
 	["iamsmeagol-hoptallus"]=17,
-	["iamyzis-mirage-raceway"]=16,
+	["iamyzis-mirage-raceway"]=13,
 	["ibitha-hoptallus"]=6,
 	["ibiza-mirage-raceway"]=1,
 	["icanfly-everlook"]=1,
@@ -7279,9 +7279,9 @@ ns.SPECS_BY_REGION["eu"] = {
 	["kenblöck-mirage-raceway"]=15,
 	["kenhavefun-shekzeer"]=6,
 	["kenkofot-garalon"]=10,
-	["kennyk-garalon"]=1,
+	["kennyk-garalon"]=18,
 	["kennyk-shekzeer"]=1,
-	["kennykk-garalon"]=18,
+	["kennykk-garalon"]=1,
 	["kennyykofot-garalon"]=24,
 	["kenoh-shekzeer"]=18,
 	["kenrize-shekzeer"]=2,
@@ -7303,7 +7303,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["khaliope-everlook"]=9,
 	["khazooq-mirage-raceway"]=25,
 	["khex-shekzeer"]=2,
-	["khobkhunkrap-shekzeer"]=3,
+	["khobkhunkrap-shekzeer"]=11,
 	["khofo-shekzeer"]=17,
 	["kickbot-shekzeer"]=26,
 	["kickboxarn-shekzeer"]=7,
@@ -8730,7 +8730,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["runplz-shekzeer"]=19,
 	["runshisback-shekzeer"]=9,
 	["runshøsløw-shekzeer"]=9,
-	["runshpower-shekzeer"]=16,
+	["runshpower-shekzeer"]=13,
 	["runshtraps-shekzeer"]=4,
 	["rustarch-norushen"]=2,
 	["ruzha-shekzeer"]=9,
@@ -9502,7 +9502,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["twarlx-shekzeer"]=1,
 	["twentyøne-shekzeer"]=15,
 	["twentythirty-shekzeer"]=4,
-	["twodeeps-shekzeer"]=2,
+	["twodeeps-shekzeer"]=10,
 	["twovtwoonly-shekzeer"]=6,
 	["tyââ-shekzeer"]=16,
 	["tykkebrian-shekzeer"]=33,
@@ -9545,7 +9545,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["underq-shekzeer"]=1,
 	["unðertaker-everlook"]=17,
 	["Ùñhöly-shekzeer"]=0,
-	["univrs-shekzeer"]=4,
+	["univrs-shekzeer"]=14,
 	["unknowx-shekzeer"]=3,
 	["unnämed-hoptallus"]=21,
 	["unpeudgàzouz-auberdine"]=30,
