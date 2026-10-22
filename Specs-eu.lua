@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5348 characters, read 2026-10-22 06:00 AM.
+-- Region eu, 5348 characters, read 2026-10-22 07:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6217,7 +6217,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["djrelax-auberdine"]=23,
 	["djskunk-shekzeer"]=5,
 	["djsosnitsky-shekzeer"]=9,
-	["djssleinad-garalon"]=19,
+	["djssleinad-garalon"]=16,
 	["Ðjsvrxzy-shekzeer"]=2,
 	["djwashedup-shekzeer"]=29,
 	["dksecouille-auberdine"]=31,
@@ -7659,7 +7659,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["maîa-auberdine"]=1,
 	["maîja-shekzeer"]=2,
 	["maje-shekzeer"]=17,
-	["majinbbx-shekzeer"]=26,
+	["majinbbx-shekzeer"]=24,
 	["måjïvü-shekzeer"]=17,
 	["majkyczek-hoptallus"]=12,
 	["makci-shekzeer"]=6,
@@ -8797,7 +8797,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["satåna-shekzeer"]=4,
 	["såtanå-shekzeer"]=14,
 	["satånaz-shekzeer"]=14,
-	["satåntrapbot-shekzeer"]=4,
+	["satåntrapbot-shekzeer"]=14,
 	["satara-shekzeer"]=26,
 	["satazhia-shekzeer"]=12,
 	["satineta-shekzeer"]=34,

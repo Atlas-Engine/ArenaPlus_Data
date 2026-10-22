@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5193 characters, read 2026-10-22 05:54 AM.
+-- Region us, 5193 characters, read 2026-10-22 06:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6980,7 +6980,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["hickery-arugal-au"]=14,
 	["hideandhunt-galakras"]=20,
 	["hifukface-raden"]=5,
-	["hifvckface-raden"]=4,
+	["hifvckface-raden"]=10,
 	["highc-galakras"]=22,
 	["highç-galakras"]=10,
 	["hîghc-galakras"]=17,
@@ -7405,7 +7405,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["kcidymkcus-arugal-au"]=0,
 	["keeferjar-pagle"]=3,
 	["keekster-pagle"]=9,
-	["keepithood-pagle"]=34,
+	["keepithood-pagle"]=14,
 	["kegsmashed-raden"]=4,
 	["kekmeister-raden"]=5,
 	["kelaía-pagle"]=9,
@@ -7427,7 +7427,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["kermit-pagle"]=2,
 	["kernal-pagle"]=7,
 	["kêrolina-raden"]=7,
-	["kerrypetty-pagle"]=4,
+	["kerrypetty-pagle"]=10,
 	["kewchii-pagle"]=9,
 	["keyastan-galakras"]=21,
 	["keyglock-pagle"]=10,
@@ -8910,7 +8910,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["saregore-raden"]=26,
 	["sàrëna-pagle"]=17,
 	["sarenity-raden"]=27,
-	["saridor-arugal-au"]=20,
+	["saridor-arugal-au"]=3,
 	["sârolyn-pagle"]=16,
 	["sasafras-pagle"]=5,
 	["sashastorm-pagle"]=24,
@@ -9631,7 +9631,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["touchmywañd-nazgrim"]=1,
 	["touchofdiddy-raden"]=4,
 	["toughstuff-raden"]=7,
-	["tøxic-nazgrim"]=14,
+	["tøxic-nazgrim"]=29,
 	["tóxica-pagle"]=34,
 	["toxiciguana-pagle"]=29,
 	["toxyc-galakras"]=21,
