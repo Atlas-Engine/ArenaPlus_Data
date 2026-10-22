@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5193 characters, read 2026-10-22 04:59 AM.
+-- Region us, 5193 characters, read 2026-10-22 05:54 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -647,7 +647,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["broxigâr-nazgrim"]=20,
 	["brr-raden"]=11,
 	["bruceleroyd-pagle"]=250,
-	["brucewaynex-raden"]=21,
 	["bruhphister-pagle"]=10,
 	["bruisednees-raden"]=80,
 	["bruje-immerseus"]=20,
@@ -5615,7 +5614,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["brr-raden"]=1,
 	["brúcelee-pagle"]=0,
 	["bruceleroyd-pagle"]=27,
-	["brucewaynex-raden"]=20,
+	["brucewaynex-raden"]=0,
 	["bruhphister-pagle"]=2,
 	["bruisednees-raden"]=18,
 	["bruje-immerseus"]=10,
@@ -7484,7 +7483,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["kleptix-raden"]=34,
 	["knockoutdt-pagle"]=13,
 	["knottypawz-pagle"]=17,
-	["knuckles-pagle"]=7,
+	["knuckles-pagle"]=23,
 	["knucklès-pagle"]=16,
 	["knucklës-pagle"]=8,
 	["knûckles-pagle"]=17,
@@ -7516,7 +7515,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["krelana-pagle"]=0,
 	["krico-raden"]=10,
 	["kromdorr-pagle"]=25,
-	["krooki-pagle"]=27,
+	["krooki-pagle"]=10,
 	["kroun-raden"]=14,
 	["krpriest-nazgrim"]=13,
 	["ksoldier-pagle"]=16,
@@ -7602,7 +7601,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["leonidasxl-pagle"]=4,
 	["leowna-pagle"]=2,
 	["leownaa-pagle"]=2,
-	["lepson-nazgrim"]=7,
+	["lepson-nazgrim"]=23,
 	["leroy-galakras"]=23,
 	["lester-raden"]=3,
 	["lesthoukov-pagle"]=3,
@@ -8606,7 +8605,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["quartêrmain-pagle"]=3,
 	["quelss-pagle"]=2,
 	["quesø-pagle"]=29,
-	["questopresto-nazgrim"]=10,
+	["questopresto-nazgrim"]=4,
 	["quickscopex-pagle"]=3,
 	["quickvanish-pagle"]=34,
 	["qwanya-raden"]=1,
