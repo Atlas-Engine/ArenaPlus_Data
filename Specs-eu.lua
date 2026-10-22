@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5348 characters, read 2026-10-22 04:00 AM.
+-- Region eu, 5348 characters, read 2026-10-22 05:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4471,7 +4471,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["wnkyx-shekzeer"]=11,
 	["wodarmsopx-shekzeer"]=10,
 	["wodclassicwr-shekzeer"]=11,
-	["wodenjoyer-shekzeer"]=10,
 	["woippeÿ-shekzeer"]=10,
 	["woippret-shekzeer"]=11,
 	["wolfensteine-shekzeer"]=220,
@@ -5763,7 +5762,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["brywen-shekzeer"]=24,
 	["bs-mirage-raceway"]=13,
 	["bsdprime-shekzeer"]=6,
-	["bsød-mirage-raceway"]=13,
+	["bsød-mirage-raceway"]=16,
 	["bûbblebärbel-everlook"]=15,
 	["bubblebêé-everlook"]=5,
 	["bubblegmz-mirage-raceway"]=12,
@@ -7914,7 +7913,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["mosskobold-shekzeer"]=3,
 	["motorichi-shekzeer"]=29,
 	["moumantai-shekzeer"]=5,
-	["mousehunter-garalon"]=4,
+	["mousehunter-garalon"]=20,
 	["movehunter-shekzeer"]=4,
 	["moýo-shekzeer"]=3,
 	["moÿo-shekzeer"]=16,
@@ -7930,7 +7929,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["muguruza-shekzeer"]=11,
 	["mugwumpy-shekzeer"]=21,
 	["mulltikill-mirage-raceway"]=19,
-	["munkafigger-everlook"]=17,
+	["munkafigger-everlook"]=23,
 	["munkkï-hoptallus"]=6,
 	["munkskunk-shekzeer"]=7,
 	["murphy-shekzeer"]=3,
@@ -8132,7 +8131,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["nomátter-shekzeer"]=1,
 	["nømwnøfun-shekzeer"]=6,
 	["nonamé-mirage-raceway"]=16,
-	["nonameww-shekzeer"]=29,
+	["nonameww-shekzeer"]=7,
 	["noneedórb-shekzeer"]=7,
 	["noneedrdroòd-shekzeer"]=3,
 	["noneedrof-shekzeer"]=2,
@@ -9767,7 +9766,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["willeps-shekzeer"]=2,
 	["windchimebro-shekzeer"]=7,
 	["windchimepro-shekzeer"]=14,
-	["windpapi-shekzeer"]=24,
+	["windpapi-shekzeer"]=34,
 	["windpipe-shekzeer"]=7,
 	["windpotata-shekzeer"]=7,
 	["windwålker-shekzeer"]=6,
@@ -9796,7 +9795,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["wnkyx-shekzeer"]=9,
 	["wodarmsopx-shekzeer"]=1,
 	["wodclassicwr-shekzeer"]=15,
-	["wodenjoyer-shekzeer"]=28,
+	["wodenjoyer-shekzeer"]=0,
 	["woippeÿ-shekzeer"]=30,
 	["woippret-shekzeer"]=5,
 	["wolfensteine-shekzeer"]=8,
@@ -9901,7 +9900,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["yahmo-shekzeer"]=17,
 	["yambol-garalon"]=3,
 	["yangka-shekzeer"]=0,
-	["yantra-shekzeer"]=19,
+	["yantra-shekzeer"]=16,
 	["yapful-shekzeer"]=5,
 	["yåpful-shekzeer"]=17,
 	["yaraki-mirage-raceway"]=2,
