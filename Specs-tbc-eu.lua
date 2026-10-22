@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9745 characters, read 2026-10-22 08:59 AM.
+-- Region tbc-eu, 9745 characters, read 2026-10-22 09:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -14051,7 +14051,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["koerean-spineshatter"]=17,
 	["koeter-spineshatter"]=3,
 	["koffiekopjes-thunderstrike"]=9,
-	["kohli-spineshatter"]=15,
+	["kohli-spineshatter"]=5,
 	["kojz-spineshatter"]=15,
 	["kokkz-spineshatter"]=26,
 	["kokojambik-spineshatter"]=13,
@@ -16971,7 +16971,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["scozii-spineshatter"]=12,
 	["scratchx-spineshatter"]=13,
 	["scratm-spineshatter"]=9,
-	["screamx-spineshatter"]=19,
+	["screamx-spineshatter"]=3,
 	["screepér-thunderstrike"]=14,
 	["screpy-spineshatter"]=5,
 	["scríptkìd-spineshatter"]=3,
@@ -17735,7 +17735,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["stinkschnidl-spineshatter"]=4,
 	["stiopa-thunderstrike"]=9,
 	["stivpinne-spineshatter"]=1,
-	["stmaria-spineshatter"]=8,
+	["stmaria-spineshatter"]=2,
 	["stoicman-spineshatter"]=23,
 	["stojimitotem-spineshatter"]=11,
 	["stols-spineshatter"]=5,

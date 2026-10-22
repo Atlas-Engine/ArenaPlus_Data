@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5349 characters, read 2026-10-22 09:00 AM.
+-- Region eu, 5349 characters, read 2026-10-22 10:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4151,7 +4151,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["trinkel-everlook"]=31,
 	["triplecheese-shekzeer"]=41,
 	["triplefeárjk-shekzeer"]=11,
-	["triplepizza-shekzeer"]=10,
+	["triplepizza-shekzeer"]=11,
 	["trippiewhite-hoptallus"]=30,
 	["trixane-shekzeer"]=11,
 	["trixii-shekzeer"]=11,
@@ -5064,7 +5064,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["Скатертрап-flamegor"]=10,
 	["Скуллфейс-flamegor"]=220,
 	["Смертоубица-flamegor"]=20,
-	["Смитихохо-flamegor"]=11,
 	["Совалесов-flamegor"]=41,
 	["Соснова-flamegor"]=80,
 	["Соулрейдж-flamegor"]=10,
@@ -8247,7 +8246,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["oøøps-auberdine"]=26,
 	["Øøopscat-auberdine"]=22,
 	["oop-hoptallus"]=11,
-	["operator-mirage-raceway"]=16,
+	["operator-mirage-raceway"]=19,
 	["opheliah-shekzeer"]=4,
 	["ophellia-shekzeer"]=0,
 	["ophoiz-shekzeer"]=17,
@@ -10413,7 +10412,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Скатертрап-flamegor"]=4,
 	["Скуллфейс-flamegor"]=3,
 	["Смертоубица-flamegor"]=19,
-	["Смитихохо-flamegor"]=20,
+	["Смитихохо-flamegor"]=0,
 	["Совалесов-flamegor"]=11,
 	["Соснова-flamegor"]=23,
 	["Соулрейдж-flamegor"]=1,

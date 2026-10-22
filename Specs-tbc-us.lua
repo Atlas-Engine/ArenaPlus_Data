@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9379 characters, read 2026-10-22 08:58 AM.
+-- Region tbc-us, 9380 characters, read 2026-10-22 09:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6802,6 +6802,7 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["ruckle-dreamscythe"]=110,
 	["rudager-nightslayer"]=40,
 	["ruiñ-nightslayer"]=11,
+	["ruixiao-nightslayer"]=10,
 	["rukaz-nightslayer"]=20,
 	["rukin-nightslayer"]=61,
 	["rukiyou-nightslayer"]=101,
@@ -9875,7 +9876,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bazook-nightslayer"]=13,
 	["bazooko-nightslayer"]=1,
 	["bazrael-nightslayer"]=13,
-	["bbangzz-dreamscythe"]=21,
+	["bbangzz-dreamscythe"]=15,
 	["bbqbulgogi-nightslayer"]=2,
 	["bbqsawz-dreamscythe"]=2,
 	["bbyclose-nightslayer"]=10,
@@ -10510,7 +10511,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["camthejedi-nightslayer"]=13,
 	["camthepally-nightslayer"]=9,
 	["camwise-nightslayer"]=7,
-	["camx-nightslayer"]=13,
+	["camx-nightslayer"]=16,
 	["cancersaurus-nightslayer"]=13,
 	["candlewick-dreamscythe"]=13,
 	["canjam-dreamscythe"]=10,
@@ -15366,7 +15367,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["peladini-nightslayer"]=11,
 	["pelafin-nightslayer"]=5,
 	["pelusa-nightslayer"]=5,
-	["penancé-nightslayer"]=1,
+	["penancé-nightslayer"]=14,
 	["pénance-nightslayer"]=1,
 	["penix-nightslayer"]=18,
 	["pennywies-nightslayer"]=4,
@@ -16160,6 +16161,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ruckle-dreamscythe"]=10,
 	["rudager-nightslayer"]=3,
 	["ruiñ-nightslayer"]=13,
+	["ruixiao-nightslayer"]=2,
 	["rukaz-nightslayer"]=2,
 	["rukin-nightslayer"]=7,
 	["rukiyou-nightslayer"]=4,
@@ -16778,7 +16780,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["slothmoo-nightslayer"]=7,
 	["slowbolt-nightslayer"]=6,
 	["sloweyes-nightslayer"]=7,
-	["slowfast-nightslayer"]=13,
+	["slowfast-nightslayer"]=16,
 	["slugpax-nightslayer"]=5,
 	["slumshocks-dreamscythe"]=19,
 	["slumwar-dreamscythe"]=18,
@@ -17843,7 +17845,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["unkaged-dreamscythe"]=2,
 	["unkborne-nightslayer"]=12,
 	["unknownx-nightslayer"]=23,
-	["unkowntarget-nightslayer"]=5,
+	["unkowntarget-nightslayer"]=8,
 	["unleash-nightslayer"]=6,
 	["unmasker-dreamscythe"]=19,
 	["unpeumort-dreamscythe"]=1,
