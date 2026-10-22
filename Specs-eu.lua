@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5350 characters, read 2026-10-22 05:00 PM.
+-- Region eu, 5350 characters, read 2026-10-22 06:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5701,7 +5701,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bluevoidd-shekzeer"]=28,
 	["blushxoxo-shekzeer"]=26,
 	["blyatmanx-shekzeer"]=14,
-	["bmsk-shekzeer"]=6,
+	["bmsk-shekzeer"]=7,
 	["bmskp-shekzeer"]=5,
 	["bngjr-shekzeer"]=20,
 	["bobbo-mirage-raceway"]=1,
@@ -5852,7 +5852,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["caypirinha-shekzeer"]=7,
 	["cazador-shekzeer"]=4,
 	["cbsboss-norushen"]=4,
-	["ccreticsback-mirage-raceway"]=18,
+	["ccreticsback-mirage-raceway"]=1,
 	["cdewig-shekzeer"]=13,
 	["Çeiçei-auberdine"]=16,
 	["Çeims-auberdine"]=11,
@@ -8063,7 +8063,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["ngprofessor-shekzeer"]=4,
 	["ngtz-auberdine"]=1,
 	["nharil-everlook"]=26,
-	["niallg-shekzeer"]=19,
+	["niallg-shekzeer"]=16,
 	["niamah-shekzeer"]=3,
 	["nicant-hoptallus"]=3,
 	["nicantes-hoptallus"]=1,

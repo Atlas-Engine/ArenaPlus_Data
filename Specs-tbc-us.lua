@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9378 characters, read 2026-10-22 04:58 PM.
+-- Region tbc-us, 9378 characters, read 2026-10-22 05:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10495,7 +10495,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["calley-nightslayer"]=4,
 	["callmezac-nightslayer"]=1,
 	["caltholomew-dreamscythe"]=10,
-	["cambamb-nightslayer"]=2,
+	["cambamb-nightslayer"]=18,
 	["camber-nightslayer"]=4,
 	["cameronw-nightslayer"]=18,
 	["camîlâ-nightslayer"]=2,
@@ -10517,7 +10517,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["canola-nightslayer"]=3,
 	["canon-nightslayer"]=11,
 	["cantfear-nightslayer"]=16,
-	["canti-nightslayer"]=17,
+	["canti-nightslayer"]=21,
 	["capitalize-dreamscythe"]=3,
 	["capitoline-nightslayer"]=19,
 	["caprabach-nightslayer"]=10,
@@ -11913,7 +11913,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["faeynn-nightslayer"]=5,
 	["faeynnbubble-nightslayer"]=25,
 	["faeynntank-nightslayer"]=2,
-	["fahr-nightslayer"]=18,
+	["fahr-nightslayer"]=2,
 	["fahzoo-nightslayer"]=12,
 	["faildpainter-nightslayer"]=8,
 	["failson-nightslayer"]=1,
@@ -12133,7 +12133,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["flowerwar-nightslayer"]=18,
 	["flows-nightslayer"]=4,
 	["flowzz-dreamscythe"]=7,
-	["flubbytub-nightslayer"]=15,
+	["flubbytub-nightslayer"]=21,
 	["flubtub-nightslayer"]=11,
 	["fluffyd-dreamscythe"]=3,
 	["flukenash-nightslayer"]=2,
@@ -14530,7 +14530,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["minimartha-nightslayer"]=1,
 	["minískirt-nightslayer"]=7,
 	["minitelanna-nightslayer"]=2,
-	["minixboy-nightslayer"]=21,
+	["minixboy-nightslayer"]=17,
 	["minmi-nightslayer"]=21,
 	["mintchocoice-nightslayer"]=5,
 	["minutz-nightslayer"]=1,
@@ -16948,7 +16948,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["speedster-nightslayer"]=18,
 	["sphinxyo-nightslayer"]=5,
 	["spicelord-nightslayer"]=4,
-	["spicyarmpits-dreamscythe"]=1,
+	["spicyarmpits-dreamscythe"]=12,
 	["spicycarp-nightslayer"]=3,
 	["spicyeliza-nightslayer"]=4,
 	["spicypasta-dreamscythe"]=3,
