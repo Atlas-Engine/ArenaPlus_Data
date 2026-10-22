@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5193 characters, read 2026-10-22 02:59 PM.
+-- Region us, 5193 characters, read 2026-10-22 03:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5891,7 +5891,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["crazywick-pagle"]=16,
 	["creamx-raden"]=1,
 	["creamytotem-galakras"]=15,
-	["crearly-galakras"]=25,
+	["crearly-galakras"]=6,
 	["crepes-pagle"]=12,
 	["crepuscolo-pagle"]=2,
 	["crepusculé-pagle"]=1,
@@ -5994,9 +5994,9 @@ ns.SPECS_BY_REGION["us"] = {
 	["darneljr-raden"]=1,
 	["darthdeath-pagle"]=7,
 	["darthmaos-nazgrim"]=16,
-	["darthtomato-pagle"]=9,
+	["darthtomato-pagle"]=21,
 	["dartmaul-pagle"]=6,
-	["dásh-nazgrim"]=16,
+	["dásh-nazgrim"]=2,
 	["datittycuz-galakras"]=20,
 	["daunit-raden"]=23,
 	["Ðâûñøvâtør-raden"]=6,
@@ -7624,7 +7624,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["lifebilder-pagle"]=9,
 	["lifeblderapp-pagle"]=20,
 	["lifely-raden"]=10,
-	["lifesavérs-pagle"]=9,
+	["lifesavérs-pagle"]=21,
 	["lighi-raden"]=3,
 	["lightenforge-pagle"]=16,
 	["lightglare-pagle"]=7,
@@ -8849,7 +8849,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["rufusdru-pagle"]=5,
 	["rufusmonk-pagle"]=4,
 	["ruged-immerseus"]=5,
-	["ruggone-pagle"]=25,
+	["ruggone-pagle"]=6,
 	["rugrats-raden"]=4,
 	["ruhzong-pagle"]=20,
 	["ruinous-raden"]=7,
