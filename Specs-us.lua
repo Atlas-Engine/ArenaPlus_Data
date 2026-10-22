@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5188 characters, read 2026-10-21 07:54 PM.
+-- Region us, 5188 characters, read 2026-10-21 08:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2402,7 +2402,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["kidfrøst-pagle"]=50,
 	["kijø-pagle"]=11,
 	["kilgorë-immerseus"]=80,
-	["kiljason-raden"]=41,
+	["kiljason-raden"]=40,
 	["killa-grobbulus"]=10,
 	["killa-immerseus"]=100,
 	["killbeer-pagle"]=10,
@@ -6967,7 +6967,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["heriberto-pagle"]=10,
 	["hernis-pagle"]=0,
 	["herroo-galakras"]=16,
-	["hesaproblem-pagle"]=17,
+	["hesaproblem-pagle"]=12,
 	["hexdoctor-raden"]=22,
 	["hexhowler-pagle"]=0,
 	["heydrew-raden"]=14,
@@ -7009,7 +7009,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["holyfkbubs-pagle"]=2,
 	["holyflamez-pagle"]=2,
 	["holyfluxq-pagle"]=9,
-	["holygym-nazgrim"]=13,
+	["holygym-nazgrim"]=9,
 	["holymar-pagle"]=6,
 	["holymoly-raden"]=9,
 	["holynip-raden"]=9,
@@ -7600,7 +7600,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["leonidasxl-pagle"]=4,
 	["leowna-pagle"]=2,
 	["leownaa-pagle"]=2,
-	["lepson-nazgrim"]=23,
+	["lepson-nazgrim"]=7,
 	["leroy-galakras"]=23,
 	["lester-raden"]=3,
 	["lesthoukov-pagle"]=3,

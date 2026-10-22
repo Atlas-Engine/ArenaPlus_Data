@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9744 characters, read 2026-10-21 07:59 PM.
+-- Region tbc-eu, 9744 characters, read 2026-10-21 08:54 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11026,7 +11026,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["chyrok-spineshatter"]=13,
 	["chz-spineshatter"]=7,
 	["cialt-thunderstrike"]=5,
-	["ciaociao-spineshatter"]=19,
+	["ciaociao-spineshatter"]=3,
 	["cicá-thunderstrike"]=5,
 	["cicasaurus-thunderstrike"]=7,
 	["cicilol-spineshatter"]=8,
@@ -12493,7 +12493,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["folfirinox-thunderstrike"]=13,
 	["fölstorm-spineshatter"]=4,
 	["fomô-spineshatter"]=2,
-	["foodoraquest-spineshatter"]=9,
+	["foodoraquest-spineshatter"]=4,
 	["foogledruid-spineshatter"]=1,
 	["fooglesham-spineshatter"]=11,
 	["foovei-spineshatter"]=23,
@@ -15138,7 +15138,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["mørtlock-spineshatter"]=11,
 	["mortlol-spineshatter"]=3,
 	["moschlord-spineshatter"]=11,
-	["moscuerta-spineshatter"]=10,
+	["moscuerta-spineshatter"]=7,
 	["mósha-thunderstrike"]=2,
 	["moshmongo-spineshatter"]=12,
 	["moshu-thunderstrike"]=4,
@@ -18147,7 +18147,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["thraxwf-spineshatter"]=12,
 	["threebinds-spineshatter"]=2,
 	["threecrits-spineshatter"]=5,
-	["threepz-spineshatter"]=25,
+	["threepz-spineshatter"]=24,
 	["threz-spineshatter"]=13,
 	["thue-thunderstrike"]=23,
 	["thulram-thunderstrike"]=2,
@@ -18677,7 +18677,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["vincentxd-spineshatter"]=3,
 	["vindieselx-spineshatter"]=5,
 	["vindmax-spineshatter"]=12,
-	["vindzxd-thunderstrike"]=15,
+	["vindzxd-thunderstrike"]=5,
 	["vindzyo-thunderstrike"]=12,
 	["vinijnr-spineshatter"]=5,
 	["vinyoda-spineshatter"]=11,
@@ -19413,7 +19413,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["zyxolina-spineshatter"]=2,
 	["zyxzoftw-spineshatter"]=11,
 	["zztlock-spineshatter"]=13,
-	["Йооу-anniversary"]=14,
+	["Йооу-anniversary"]=13,
 	["Копчик-anniversary"]=19,
 	["Мадамсезам-anniversary"]=4,
 	["Маз-anniversary"]=5,
@@ -19426,5 +19426,5 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["Тамплиер-anniversary"]=19,
 	["Фалстад-anniversary"]=25,
 	["Шмез-anniversary"]=1,
-	["Юсинк-anniversary"]=19,
+	["Юсинк-anniversary"]=3,
 }
