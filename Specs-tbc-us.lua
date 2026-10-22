@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9367 characters, read 2026-10-21 06:58 PM.
+-- Region tbc-us, 9367 characters, read 2026-10-21 07:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9775,7 +9775,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bakey-dreamscythe"]=6,
 	["bakshotlarry-nightslayer"]=4,
 	["bakstab-nightslayer"]=5,
-	["balalalalu-dreamscythe"]=17,
+	["balalalalu-dreamscythe"]=15,
 	["baldandthicc-nightslayer"]=1,
 	["baldbulla-nightslayer"]=16,
 	["baldhealer-nightslayer"]=1,
@@ -11228,7 +11228,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["derwynn-dreamscythe"]=11,
 	["désciplé-nightslayer"]=5,
 	["despot-nightslayer"]=1,
-	["destrogodx-nightslayer"]=23,
+	["destrogodx-nightslayer"]=13,
 	["destromg-nightslayer"]=13,
 	["determinist-dreamscythe"]=5,
 	["detract-nightslayer"]=0,
@@ -11369,7 +11369,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["doggostwo-nightslayer"]=2,
 	["dogofthelobb-nightslayer"]=4,
 	["dogpolice-nightslayer"]=1,
-	["dokurowow-dreamscythe"]=14,
+	["dokurowow-dreamscythe"]=1,
 	["dolangalaxy-dreamscythe"]=7,
 	["dolapalooza-nightslayer"]=19,
 	["dollerz-nightslayer"]=18,
@@ -11787,7 +11787,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ereek-nightslayer"]=14,
 	["erektrichard-nightslayer"]=19,
 	["erenx-nightslayer"]=15,
-	["erestala-dreamscythe"]=7,
+	["erestala-dreamscythe"]=3,
 	["ericat-dreamscythe"]=11,
 	["ericonehive-dreamscythe"]=9,
 	["ericslock-nightslayer"]=16,
@@ -16598,7 +16598,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["shukmakok-nightslayer"]=20,
 	["shunning-nightslayer"]=5,
 	["shunsui-nightslayer"]=18,
-	["shuolezaijia-nightslayer"]=23,
+	["shuolezaijia-nightslayer"]=13,
 	["shutrmcgavin-nightslayer"]=2,
 	["shutrmcgnome-nightslayer"]=2,
 	["shuupin-nightslayer"]=19,
@@ -17793,7 +17793,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["umådbro-nightslayer"]=2,
 	["umpapa-nightslayer"]=12,
 	["umßra-nightslayer"]=8,
-	["unagijon-nightslayer"]=13,
+	["unagijon-nightslayer"]=23,
 	["unbearables-nightslayer"]=7,
 	["unbrokenhc-dreamscythe"]=13,
 	["uncl-nightslayer"]=1,
@@ -18042,7 +18042,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["waldo-nightslayer"]=5,
 	["walf-nightslayer"]=5,
 	["walkendead-nightslayer"]=4,
-	["walkindead-nightslayer"]=13,
+	["walkindead-nightslayer"]=16,
 	["walla-nightslayer"]=18,
 	["wallasmol-nightslayer"]=2,
 	["wallsmasher-dreamscythe"]=2,
