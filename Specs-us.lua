@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5193 characters, read 2026-10-22 01:59 AM.
+-- Region us, 5193 characters, read 2026-10-22 02:54 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2885,7 +2885,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["mistyfists-nazgrim"]=50,
 	["mistysheep-pagle"]=111,
 	["mistyxo-raden"]=11,
-	["mitchelada-pagle"]=40,
+	["mitchelada-pagle"]=41,
 	["mitchelada-raden"]=221,
 	["mitcheladaqt-immerseus"]=30,
 	["mitchplz-raden"]=11,
@@ -4701,7 +4701,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["warlockeuse-pagle"]=11,
 	["warmongering-raden"]=11,
 	["warqueeph-galakras"]=20,
-	["wárrìor-raden"]=11,
+	["wárrìor-raden"]=10,
 	["warriorshad-nazgrim"]=260,
 	["warriorzev-raden"]=11,
 	["warrtistic-arugal-au"]=21,
@@ -10201,5 +10201,5 @@ ns.SPECS_BY_REGION["us"] = {
 	["zzaac-lei-shen"]=24,
 	["zzdy-raden"]=0,
 	["zzombiexxddk-raden"]=6,
-	["zztpsst-pagle"]=15,
+	["zztpsst-pagle"]=19,
 }
