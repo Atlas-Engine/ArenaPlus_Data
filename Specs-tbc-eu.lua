@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9744 characters, read 2026-10-21 08:54 PM.
+-- Region tbc-eu, 9744 characters, read 2026-10-21 09:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10299,7 +10299,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["banxw-spineshatter"]=15,
 	["baowi-spineshatter"]=12,
 	["baozí-spineshatter"]=13,
-	["bäphomet-spineshatter"]=19,
+	["bäphomet-spineshatter"]=3,
 	["barabulka-spineshatter"]=5,
 	["barathon-spineshatter"]=11,
 	["barazanthul-thunderstrike"]=24,
@@ -18003,7 +18003,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["tearbringer-spineshatter"]=3,
 	["tearjerkerx-spineshatter"]=5,
 	["teazer-spineshatter"]=3,
-	["technocat-spineshatter"]=6,
+	["technocat-spineshatter"]=1,
 	["technow-spineshatter"]=15,
 	["technoxd-spineshatter"]=6,
 	["teddype-spineshatter"]=5,
@@ -18852,7 +18852,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["whoizs-thunderstrike"]=12,
 	["wholyyankhan-spineshatter"]=7,
 	["whoopzz-spineshatter"]=16,
-	["whtgoesarnd-spineshatter"]=3,
+	["whtgoesarnd-spineshatter"]=19,
 	["whusi-thunderstrike"]=10,
 	["whysofrost-spineshatter"]=4,
 	["whytrabit-spineshatter"]=3,
@@ -19035,7 +19035,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["xikey-spineshatter"]=1,
 	["xiliver-spineshatter"]=3,
 	["xinzho-spineshatter"]=25,
-	["xionc-thunderstrike"]=8,
+	["xionc-thunderstrike"]=2,
 	["xìr-spineshatter"]=5,
 	["xircow-spineshatter"]=5,
 	["xiverz-spineshatter"]=9,

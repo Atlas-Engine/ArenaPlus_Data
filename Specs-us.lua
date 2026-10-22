@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5188 characters, read 2026-10-21 08:59 PM.
+-- Region us, 5188 characters, read 2026-10-21 09:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5075,7 +5075,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["alakk-lei-shen"]=7,
 	["alanfury-raden"]=7,
 	["alanfuryx-raden"]=19,
-	["alarayia-raden"]=3,
+	["alarayia-raden"]=18,
 	["alassin-galakras"]=4,
 	["albomane-pagle"]=21,
 	["alchemistmed-galakras"]=17,
@@ -5109,7 +5109,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["alloria-arugal-au"]=9,
 	["allric-raden"]=12,
 	["allsmk-pagle"]=34,
-	["alöns-pagle"]=6,
+	["alöns-pagle"]=26,
 	["alreadydead-nazgrim"]=14,
 	["alswaron-immerseus"]=7,
 	["altec-nazgrim"]=7,
@@ -5243,7 +5243,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["aurim-nazgrim"]=10,
 	["austiin-immerseus"]=6,
 	["autismaxxer-arugal-au"]=3,
-	["autismystic-raden"]=19,
+	["autismystic-raden"]=22,
 	["autotrap-raden"]=0,
 	["avelorn-pagle"]=3,
 	["averthery-pagle"]=28,
@@ -7484,7 +7484,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["knockoutdt-pagle"]=13,
 	["knottypawz-pagle"]=17,
 	["knuckles-pagle"]=7,
-	["knucklès-pagle"]=2,
+	["knucklès-pagle"]=16,
 	["knucklës-pagle"]=8,
 	["knûckles-pagle"]=17,
 	["kñuckles-pagle"]=6,
@@ -9321,7 +9321,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["staarboyy-raden"]=5,
 	["stabbath-raden"]=14,
 	["stábbý-pagle"]=29,
-	["stabualot-nazgrim"]=14,
+	["stabualot-nazgrim"]=29,
 	["stâmpfairtex-raden"]=14,
 	["stàn-immerseus"]=3,
 	["starfallol-lei-shen"]=17,
@@ -9658,7 +9658,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["tremeear-nazgrim"]=5,
 	["trenabuser-raden"]=0,
 	["trëv-galakras"]=24,
-	["trevoso-pagle"]=28,
+	["trevoso-pagle"]=8,
 	["triis-pagle"]=28,
 	["trinketcleav-pagle"]=29,
 	["triskets-pagle"]=7,
