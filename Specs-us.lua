@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5193 characters, read 2026-10-23 07:59 AM.
+-- Region us, 5193 characters, read 2026-10-23 08:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4312,7 +4312,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["tamhee-immerseus"]=101,
 	["tammyjane-pagle"]=11,
 	["tamnar-immerseus"]=101,
-	["tànkon-pagle"]=10,
+	["tànkon-pagle"]=11,
 	["tarasbulba-immerseus"]=50,
 	["tarzàn-pagle"]=10,
 	["tastetheshot-raden"]=11,
@@ -7141,7 +7141,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["illdra-pagle"]=32,
 	["illidari-pagle"]=3,
 	["illidingus-nazgrim"]=2,
-	["illíli-raden"]=25,
+	["illíli-raden"]=26,
 	["ilnicoll-pagle"]=2,
 	["ilockedyouup-pagle"]=24,
 	["ilockthis-galakras"]=8,
@@ -9457,7 +9457,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["sysadmin-immerseus"]=11,
 	["syssai-pagle"]=5,
 	["syssian-raden"]=3,
-	["systema-raden"]=7,
+	["systema-raden"]=30,
 	["systematic-galakras"]=14,
 	["szashagpt-pagle"]=9,
 	["szh-nazgrim"]=1,
@@ -9490,7 +9490,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["tastyshotz-raden"]=3,
 	["tatís-pagle"]=21,
 	["taulastria-nazgrim"]=24,
-	["taurenmen-immerseus"]=17,
+	["taurenmen-immerseus"]=33,
 	["tauruz-lei-shen"]=25,
 	["taybird-raden"]=7,
 	["tbk-raden"]=16,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5349 characters, read 2026-10-23 08:00 AM.
+-- Region eu, 5349 characters, read 2026-10-23 09:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6960,7 +6960,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["iamcurt-mirage-raceway"]=9,
 	["iaminafullcc-shekzeer"]=3,
 	["iamsmeagol-hoptallus"]=17,
-	["iamyzis-mirage-raceway"]=13,
+	["iamyzis-mirage-raceway"]=16,
 	["ibitha-hoptallus"]=6,
 	["ibiza-mirage-raceway"]=1,
 	["icanfly-everlook"]=1,
@@ -7265,7 +7265,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["kearnën-shekzeer"]=0,
 	["kebabsaurus-shekzeer"]=26,
 	["kegrolls-shekzeer"]=7,
-	["keijo-shekzeer"]=7,
+	["keijo-shekzeer"]=6,
 	["kekkonenx-garalon"]=1,
 	["keksy-shekzeer"]=0,
 	["keksyoq-everlook"]=24,
@@ -7279,7 +7279,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["kennyk-garalon"]=18,
 	["kennyk-shekzeer"]=1,
 	["kennykk-garalon"]=1,
-	["kennyykofot-garalon"]=24,
+	["kennyykofot-garalon"]=34,
 	["kenoh-shekzeer"]=18,
 	["kenrize-shekzeer"]=2,
 	["kenshìk-shekzeer"]=1,
@@ -7352,7 +7352,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["kobieciarz-shekzeer"]=5,
 	["kobra-shekzeer"]=24,
 	["koce-shekzeer"]=1,
-	["kodeinlover-mirage-raceway"]=9,
+	["kodeinlover-mirage-raceway"]=12,
 	["kodzha-mirage-raceway"]=1,
 	["kokw-mirage-raceway"]=17,
 	["kokz-shekzeer"]=2,
@@ -8937,7 +8937,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["shotqu-shekzeer"]=2,
 	["shøxx-ook-ook"]=26,
 	["shoxxyzlol-ook-ook"]=4,
-	["shozul-garalon"]=19,
+	["shozul-garalon"]=13,
 	["shredded-shekzeer"]=5,
 	["shrekisbusy-shekzeer"]=6,
 	["shuturmouth-shekzeer"]=0,
@@ -9555,7 +9555,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["untouchable-shekzeer"]=9,
 	["uploader-mirage-raceway"]=1,
 	["upskirt-everlook"]=26,
-	["uraltersack-shekzeer"]=1,
+	["uraltersack-shekzeer"]=25,
 	["urnightmare-shekzeer"]=7,
 	["urssaf-shekzeer"]=6,
 	["usualsuspect-shekzeer"]=4,

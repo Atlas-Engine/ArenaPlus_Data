@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9738 characters, read 2026-10-23 07:59 AM.
+-- Region tbc-eu, 9738 characters, read 2026-10-23 08:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11944,7 +11944,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["eccentricity-spineshatter"]=8,
 	["echoloa-spineshatter"]=2,
 	["echpochmák-spineshatter"]=12,
-	["eclairz-thunderstrike"]=19,
+	["eclairz-thunderstrike"]=3,
 	["eclìpso-spineshatter"]=3,
 	["ecrøf-spineshatter"]=24,
 	["ecthoor-spineshatter"]=8,
@@ -13870,7 +13870,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["keiana-spineshatter"]=9,
 	["keirgoz-spineshatter"]=5,
 	["keitlyn-spineshatter"]=22,
-	["keitto-spineshatter"]=11,
+	["keitto-spineshatter"]=23,
 	["keíyo-spineshatter"]=2,
 	["keizgor-spineshatter"]=11,
 	["kejzer-spineshatter"]=17,
@@ -15759,7 +15759,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["onlyswaps-spineshatter"]=13,
 	["onni-spineshatter"]=24,
 	["onpoint-spineshatter"]=5,
-	["onyxyo-spineshatter"]=19,
+	["onyxyo-spineshatter"]=3,
 	["Ôó-spineshatter"]=5,
 	["ooile-thunderstrike"]=1,
 	["oontoinalle-spineshatter"]=17,
@@ -18401,7 +18401,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["tweetieyo-spineshatter"]=11,
 	["twigsbee-spineshatter"]=24,
 	["twinii-spineshatter"]=13,
-	["twinkøff-spineshatter"]=18,
+	["twinkøff-spineshatter"]=13,
 	["twinsqt-spineshatter"]=23,
 	["twisky-spineshatter"]=4,
 	["twistaaja-spineshatter"]=7,
@@ -18695,7 +18695,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["vitziozosx-spineshatter"]=9,
 	["vivalamexica-spineshatter"]=13,
 	["vivalavulva-thunderstrike"]=7,
-	["vixuz-spineshatter"]=24,
+	["vixuz-spineshatter"]=25,
 	["vladich-spineshatter"]=11,
 	["vlper-spineshatter"]=3,
 	["vnn-spineshatter"]=13,
@@ -19084,7 +19084,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["yajietmichel-spineshatter"]=6,
 	["yaksii-spineshatter"]=2,
 	["yalegendalol-spineshatter"]=5,
-	["yamaquza-spineshatter"]=23,
+	["yamaquza-spineshatter"]=11,
 	["yamform-spineshatter"]=6,
 	["yanamltsht-spineshatter"]=16,
 	["yangka-spineshatter"]=0,
