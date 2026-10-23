@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5348 characters, read 2026-10-23 06:00 PM.
+-- Region eu, 5348 characters, read 2026-10-23 07:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4160,7 +4160,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["tryinglock-shekzeer"]=11,
 	["trytorun-shekzeer"]=11,
 	["tsima-shekzeer"]=41,
-	["tslx-shekzeer"]=31,
+	["tslx-shekzeer"]=30,
 	["tsouvirak-garalon"]=20,
 	["tsüfî-mirage-raceway"]=101,
 	["tsukasà-auberdine"]=20,
@@ -5662,7 +5662,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["blackmaan-shekzeer"]=1,
 	["bladesmonk-hoptallus"]=6,
 	["blahster-shekzeer"]=12,
-	["blakmoon-auberdine"]=3,
+	["blakmoon-auberdine"]=11,
 	["blancos-auberdine"]=1,
 	["blanky-shekzeer"]=2,
 	["blaqchina-shekzeer"]=6,
@@ -5698,7 +5698,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bngjr-shekzeer"]=20,
 	["bobbo-mirage-raceway"]=1,
 	["bobbyshmürda-shekzeer"]=3,
-	["bobbysta-auberdine"]=12,
+	["bobbysta-auberdine"]=9,
 	["bobjones-norushen"]=12,
 	["bobos-garalon"]=6,
 	["bobz-auberdine"]=6,
@@ -8119,7 +8119,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["nøkhi-shekzeer"]=21,
 	["noleapnofun-everlook"]=1,
 	["nolleke-shekzeer"]=9,
-	["nollij-shekzeer"]=11,
+	["nollij-shekzeer"]=3,
 	["nomátter-shekzeer"]=1,
 	["nømwnøfun-shekzeer"]=6,
 	["nonamé-mirage-raceway"]=16,
@@ -8665,7 +8665,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["rngbistrø-mirage-raceway"]=1,
 	["rngmonsterx-shekzeer"]=2,
 	["robikenzd-shekzeer"]=5,
-	["robinbobin-everlook"]=20,
+	["robinbobin-everlook"]=14,
 	["robinhoodx-auberdine"]=4,
 	["rockdbeat-shekzeer"]=4,
 	["rockdbeatdos-shekzeer"]=4,
@@ -9339,7 +9339,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["thorazyn-shekzeer"]=1,
 	["thosinxz-shekzeer"]=13,
 	["threemâ-everlook"]=14,
-	["threethumbs-shekzeer"]=21,
+	["threethumbs-shekzeer"]=3,
 	["throotqueèn-shekzeer"]=1,
 	["thugslife-shekzeer"]=24,
 	["thugzilla-shekzeer"]=26,
@@ -10293,7 +10293,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Лоргандил-flamegor"]=3,
 	["Лордметал-flamegor"]=17,
 	["Луйсюнь-flamegor"]=6,
-	["Лумиари-flamegor"]=16,
+	["Лумиари-flamegor"]=13,
 	["Лунтикс-flamegor"]=11,
 	["Магачкала-flamegor"]=2,
 	["Мамбуту-flamegor"]=1,

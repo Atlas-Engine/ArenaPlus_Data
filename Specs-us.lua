@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5194 characters, read 2026-10-23 05:59 PM.
+-- Region us, 5194 characters, read 2026-10-23 06:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4067,7 +4067,9 @@ ns.LOOKS_BY_REGION["us"] = {
 	["snutz-lei-shen"]=11,
 	["snÿx-raden"]=11,
 	["soaar-raden"]=41,
+	["soapstorm-raden"]=51,
 	["soapykitty-pagle"]=41,
+	["soapyx-raden"]=11,
 	["soapyxo-raden"]=11,
 	["soar-raden"]=11,
 	["soarr-raden"]=11,
@@ -5115,7 +5117,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["alloria-arugal-au"]=9,
 	["allric-raden"]=12,
 	["allsmk-pagle"]=34,
-	["alöns-pagle"]=26,
+	["alöns-pagle"]=6,
 	["alreadydead-nazgrim"]=14,
 	["alswaron-immerseus"]=7,
 	["altec-nazgrim"]=7,
@@ -5406,7 +5408,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["bheretta-pagle"]=32,
 	["bhoyka-immerseus"]=7,
 	["bibimbab-galakras"]=7,
-	["bichsluvsosa-pagle"]=19,
+	["bichsluvsosa-pagle"]=15,
 	["bigasstruck-raden"]=3,
 	["bigassz-raden"]=9,
 	["bigbadb-galakras"]=15,
@@ -5539,7 +5541,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["bonnith-pagle"]=7,
 	["bonwick-arugal-au"]=21,
 	["boofed-raden"]=1,
-	["booku-pagle"]=6,
+	["booku-pagle"]=25,
 	["boomantics-pagle"]=17,
 	["boomchicken-galakras"]=5,
 	["boomydo-raden"]=17,
@@ -6614,7 +6616,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["franco-nazgrim"]=26,
 	["frankieboy-galakras"]=0,
 	["frankinator-raden"]=4,
-	["frasno-nazgrim"]=34,
+	["frasno-nazgrim"]=14,
 	["frawbinbowls-pagle"]=16,
 	["freakshowx-raden"]=17,
 	["freddykrueg-pagle"]=8,
@@ -9054,7 +9056,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["shlorky-pagle"]=5,
 	["shluhpickle-raden"]=7,
 	["shmacked-lei-shen"]=1,
-	["shmagey-pagle"]=31,
+	["shmagey-pagle"]=1,
 	["shmallbabel-raden"]=1,
 	["shmeezmack-galakras"]=10,
 	["shobuu-immerseus"]=34,
@@ -9214,11 +9216,11 @@ ns.SPECS_BY_REGION["us"] = {
 	["snutz-lei-shen"]=24,
 	["snÿx-raden"]=9,
 	["soaar-raden"]=9,
-	["soapstorm-raden"]=0,
+	["soapstorm-raden"]=4,
 	["soapy-raden"]=0,
 	["søapy-raden"]=0,
 	["soapykitty-pagle"]=12,
-	["soapyx-raden"]=0,
+	["soapyx-raden"]=8,
 	["soapyxo-raden"]=6,
 	["soar-raden"]=14,
 	["soarr-raden"]=3,
