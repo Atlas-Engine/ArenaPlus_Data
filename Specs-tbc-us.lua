@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9387 characters, read 2026-10-23 12:58 AM.
+-- Region tbc-us, 9387 characters, read 2026-10-23 01:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11101,7 +11101,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["danleshaman-nightslayer"]=10,
 	["dannwar-nightslayer"]=2,
 	["dannybucket-nightslayer"]=18,
-	["dannynoonan-nightslayer"]=14,
+	["dannynoonan-nightslayer"]=1,
 	["dannyp-nightslayer"]=10,
 	["danthepan-nightslayer"]=5,
 	["danthepann-nightslayer"]=18,
@@ -16026,7 +16026,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["richardpig-nightslayer"]=10,
 	["richardrogue-dreamscythe"]=8,
 	["richcaine-nightslayer"]=4,
-	["richiecaine-nightslayer"]=20,
+	["richiecaine-nightslayer"]=2,
 	["richiepz-nightslayer"]=1,
 	["richoffbtc-nightslayer"]=10,
 	["richoffeth-nightslayer"]=16,
@@ -16377,7 +16377,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["selflobotomy-nightslayer"]=18,
 	["selüne-dreamscythe"]=7,
 	["semakin-nightslayer"]=12,
-	["senditagain-nightslayer"]=14,
+	["senditagain-nightslayer"]=1,
 	["sendmylove-nightslayer"]=5,
 	["senjubean-nightslayer"]=13,
 	["sennark-nightslayer"]=1,

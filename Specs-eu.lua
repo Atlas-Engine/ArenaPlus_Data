@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5346 characters, read 2026-10-23 01:00 AM.
+-- Region eu, 5344 characters, read 2026-10-23 02:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1157,7 +1157,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["dunia-everlook"]=11,
 	["dunkelheit-shekzeer"]=10,
 	["dúpond-auberdine"]=60,
-	["durianlover-shekzeer"]=41,
 	["duskmeh-shekzeer"]=220,
 	["duskyn-shekzeer"]=11,
 	["dusoleil-shekzeer"]=40,
@@ -6319,7 +6318,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["dunia-everlook"]=22,
 	["dunkelheit-shekzeer"]=9,
 	["dúpond-auberdine"]=3,
-	["durianlover-shekzeer"]=3,
 	["duskmeh-shekzeer"]=1,
 	["duskyn-shekzeer"]=20,
 	["dusoleil-shekzeer"]=24,
@@ -8252,7 +8250,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["orbabuser-shekzeer"]=6,
 	["orbese-ook-ook"]=6,
 	["orbmaster-shekzeer"]=6,
-	["orbyy-shekzeer"]=6,
+	["orbyy-shekzeer"]=7,
 	["orcgigaugly-everlook"]=1,
 	["orcpriest-shekzeer"]=2,
 	["orestis-norushen"]=1,
@@ -8342,7 +8340,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["pennyyo-everlook"]=15,
 	["pennyz-everlook"]=12,
 	["pentti-shekzeer"]=11,
-	["pépitô-auberdine"]=4,
+	["pépitô-auberdine"]=20,
 	["peregrinuss-shekzeer"]=1,
 	["pereza-shekzeer"]=18,
 	["perkalator-garalon"]=26,
@@ -9789,7 +9787,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["wizzwíllìams-shekzeer"]=2,
 	["wjagge-shekzeer"]=1,
 	["wmdabuser-shekzeer"]=1,
-	["wmdmeta-shekzeer"]=0,
 	["wmwmwmwmwmw-shekzeer"]=3,
 	["wnky-shekzeer"]=5,
 	["wnkyx-shekzeer"]=9,
