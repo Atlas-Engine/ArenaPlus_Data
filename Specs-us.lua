@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5191 characters, read 2026-10-22 11:59 PM.
+-- Region us, 5191 characters, read 2026-10-23 12:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5135,7 +5135,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["anakkrakatoa-nazgrim"]=11,
 	["anaksol-pagle"]=11,
 	["analayla-lei-shen"]=0,
-	["anariita-nazgrim"]=3,
+	["anariita-nazgrim"]=20,
 	["anastari-pagle"]=1,
 	["anastasiah-raden"]=24,
 	["anastasiahh-raden"]=21,
@@ -7544,7 +7544,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["lad-arugal-au"]=4,
 	["laddersavior-pagle"]=16,
 	["laddingtonx-raden"]=10,
-	["ladoramoon-pagle"]=33,
+	["ladoramoon-pagle"]=12,
 	["lagherta-raden"]=5,
 	["läin-raden"]=14,
 	["laleyenda-lei-shen"]=3,
@@ -9393,7 +9393,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["sugarich-pagle"]=7,
 	["sugarkill-raden"]=0,
 	["sugarpox-pagle"]=6,
-	["suigintou-raden"]=2,
+	["suigintou-raden"]=16,
 	["suigth-pagle"]=3,
 	["suký-pagle"]=7,
 	["sumbodee-pagle"]=7,
@@ -9503,7 +9503,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["tejedor-pagle"]=4,
 	["teluna-galakras"]=3,
 	["témis-nazgrim"]=3,
-	["tempestir-pagle"]=19,
+	["tempestir-pagle"]=15,
 	["tempestnatsu-raden"]=14,
 	["tèn-pagle"]=6,
 	["terentino-raden"]=20,

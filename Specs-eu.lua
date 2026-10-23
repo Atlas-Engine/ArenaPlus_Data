@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5346 characters, read 2026-10-23 12:00 AM.
+-- Region eu, 5346 characters, read 2026-10-23 01:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4702,7 +4702,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["zinouaflic-shekzeer"]=11,
 	["zipfe-everlook"]=41,
 	["zipzipzapzap-shekzeer"]=10,
-	["zïpzïpzåpzåp-shekzeer"]=10,
+	["zïpzïpzåpzåp-shekzeer"]=11,
 	["zirfar-shekzeer"]=10,
 	["zivojin-mirage-raceway"]=11,
 	["zizmo-shekzeer"]=81,
@@ -8432,7 +8432,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["prachton-mirage-raceway"]=15,
 	["prâitre-mirage-raceway"]=9,
 	["praystation-ook-ook"]=22,
-	["predak-mirage-raceway"]=14,
+	["predak-mirage-raceway"]=4,
 	["premanchan-everlook"]=26,
 	["prénium-auberdine"]=3,
 	["préservateaf-auberdine"]=2,
