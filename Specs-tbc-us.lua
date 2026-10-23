@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9383 characters, read 2026-10-22 10:58 PM.
+-- Region tbc-us, 9383 characters, read 2026-10-22 11:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10842,7 +10842,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["colinnx-nightslayer"]=2,
 	["cologneguy-dreamscythe"]=1,
 	["colombiangg-nightslayer"]=23,
-	["colombianrat-nightslayer"]=5,
+	["colombianrat-nightslayer"]=8,
 	["colony-nightslayer"]=12,
 	["colt-nightslayer"]=2,
 	["colts-nightslayer"]=1,
@@ -11715,7 +11715,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["elcapitank-nightslayer"]=20,
 	["elchingadera-nightslayer"]=10,
 	["elcuh-nightslayer"]=24,
-	["eldak-dreamscythe"]=12,
+	["eldak-dreamscythe"]=1,
 	["eldenblingz-nightslayer"]=12,
 	["elðhim-nightslayer"]=1,
 	["elduelisto-nightslayer"]=4,
@@ -12182,7 +12182,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["fotemtucker-dreamscythe"]=19,
 	["foulcandy-nightslayer"]=1,
 	["foulstench-nightslayer"]=2,
-	["fouzz-nightslayer"]=8,
+	["fouzz-nightslayer"]=5,
 	["fowlerlecok-dreamscythe"]=10,
 	["fowlspleen-nightslayer"]=22,
 	["foxxyrockz-nightslayer"]=13,
@@ -14550,7 +14550,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["mìrana-nightslayer"]=7,
 	["mirexx-nightslayer"]=1,
 	["mirkz-nightslayer"]=6,
-	["mirpugs-nightslayer"]=8,
+	["mirpugs-nightslayer"]=5,
 	["mîrpugs-nightslayer"]=5,
 	["mirry-nightslayer"]=11,
 	["misalsundayy-nightslayer"]=6,
@@ -16957,7 +16957,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["speedster-nightslayer"]=18,
 	["sphinxyo-nightslayer"]=5,
 	["spicelord-nightslayer"]=4,
-	["spicyarmpits-dreamscythe"]=12,
+	["spicyarmpits-dreamscythe"]=1,
 	["spicycarp-nightslayer"]=3,
 	["spicyeliza-nightslayer"]=4,
 	["spicypasta-dreamscythe"]=3,
@@ -18609,7 +18609,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["zhaomei-nightslayer"]=9,
 	["zhevek-dreamscythe"]=15,
 	["zhoomies-nightslayer"]=13,
-	["ziaj-nightslayer"]=10,
+	["ziaj-nightslayer"]=24,
 	["ziatt-nightslayer"]=2,
 	["zibra-dreamscythe"]=1,
 	["zidal-nightslayer"]=16,
