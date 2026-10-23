@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9384 characters, read 2026-10-23 01:58 PM.
+-- Region tbc-us, 9384 characters, read 2026-10-23 02:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -13146,7 +13146,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ingii-nightslayer"]=1,
 	["inhalers-nightslayer"]=10,
 	["injureginger-dreamscythe"]=12,
-	["inkymess-nightslayer"]=24,
+	["inkymess-nightslayer"]=10,
 	["inlor-nightslayer"]=7,
 	["inmates-nightslayer"]=2,
 	["innate-nightslayer"]=23,
@@ -13828,7 +13828,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["lahim-nightslayer"]=2,
 	["lakm-dreamscythe"]=10,
 	["lakonka-nightslayer"]=5,
-	["lakonki-nightslayer"]=5,
+	["lakonki-nightslayer"]=8,
 	["lakonko-nightslayer"]=4,
 	["laloo-dreamscythe"]=2,
 	["làmaña-nightslayer"]=6,
@@ -17854,7 +17854,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["unrealistic-nightslayer"]=4,
 	["unrívaled-nightslayer"]=17,
 	["unskulk-nightslayer"]=5,
-	["unw-dreamscythe"]=2,
+	["unw-dreamscythe"]=18,
 	["uooti-dreamscythe"]=9,
 	["upaupa-nightslayer"]=16,
 	["uppedhawk-dreamscythe"]=18,
