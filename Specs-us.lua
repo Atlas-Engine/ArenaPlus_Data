@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5193 characters, read 2026-10-23 06:59 AM.
+-- Region us, 5193 characters, read 2026-10-23 07:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3868,6 +3868,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["shadowchuckr-nazgrim"]=50,
 	["shadowjacker-pagle"]=10,
 	["shadowkenja-benediction"]=11,
+	["shadowstorm-immerseus"]=50,
 	["shadowxg-pagle"]=40,
 	["shadyr-pagle"]=50,
 	["shaea-galakras"]=111,
@@ -7268,7 +7269,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["jefmago-raden"]=11,
 	["jellierolls-pagle"]=4,
 	["jellybeans-raden"]=3,
-	["jellytugger-raden"]=8,
+	["jellytugger-raden"]=24,
 	["jerryjuve-lei-shen"]=5,
 	["jerryyer-raden"]=0,
 	["jerth-raden"]=0,
@@ -9000,6 +9001,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["shadowjacker-pagle"]=21,
 	["shadowkenja-benediction"]=16,
 	["shadowsige-pagle"]=0,
+	["shadowstorm-immerseus"]=8,
 	["shadowxg-pagle"]=20,
 	["shadyr-pagle"]=29,
 	["shaea-galakras"]=22,
@@ -9595,7 +9597,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["tiktac-immerseus"]=3,
 	["tilted-galakras"]=7,
 	["tiltedx-galakras"]=25,
-	["tinysmalldk-raden"]=0,
 	["titanofdeath-galakras"]=6,
 	["tjax-raden"]=9,
 	["tkilffa-arugal-au"]=9,

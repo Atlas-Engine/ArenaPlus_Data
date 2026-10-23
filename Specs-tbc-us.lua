@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9385 characters, read 2026-10-23 06:58 AM.
+-- Region tbc-us, 9385 characters, read 2026-10-23 07:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9610,7 +9610,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["arctuva-nightslayer"]=7,
 	["ardrane-nightslayer"]=8,
 	["arenafanatic-nightslayer"]=2,
-	["arenajunkie-nightslayer"]=16,
+	["arenajunkie-nightslayer"]=13,
 	["arenalol-nightslayer"]=5,
 	["arenamaster-dreamscythe"]=0,
 	["arendtpriest-dreamscythe"]=1,
@@ -13214,7 +13214,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["itchyholezx-nightslayer"]=5,
 	["ithrowbolts-dreamscythe"]=13,
 	["itofu-nightslayer"]=5,
-	["itsacookout-nightslayer"]=8,
+	["itsacookout-nightslayer"]=5,
 	["itsintuitive-dreamscythe"]=2,
 	["itsnotkappa-nightslayer"]=5,
 	["itsok-nightslayer"]=18,
@@ -14728,7 +14728,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["muirx-nightslayer"]=4,
 	["mujica-nightslayer"]=7,
 	["mulhtorg-dreamscythe"]=19,
-	["muller-nightslayer"]=23,
+	["muller-nightslayer"]=16,
 	["multifäce-nightslayer"]=7,
 	["mumbah-dreamscythe"]=5,
 	["munchmadiq-nightslayer"]=2,
@@ -15667,7 +15667,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["pryydrom-nightslayer"]=13,
 	["psilocybé-nightslayer"]=17,
 	["pssman-nightslayer"]=7,
-	["psxo-nightslayer"]=14,
+	["psxo-nightslayer"]=1,
 	["psychoz-nightslayer"]=13,
 	["ptitchatmiaw-nightslayer"]=13,
 	["ptjdruid-nightslayer"]=7,
