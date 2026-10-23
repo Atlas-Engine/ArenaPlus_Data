@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9384 characters, read 2026-10-23 12:58 PM.
+-- Region tbc-us, 9384 characters, read 2026-10-23 01:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9765,7 +9765,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["badzor-nightslayer"]=2,
 	["bäe-nightslayer"]=1,
 	["baekek-nightslayer"]=0,
-	["baekgitae-nightslayer"]=13,
+	["baekgitae-nightslayer"]=16,
 	["baekma-nightslayer"]=12,
 	["baerform-nightslayer"]=7,
 	["bàethoven-nightslayer"]=5,
@@ -11098,7 +11098,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["dannybucket-nightslayer"]=18,
 	["dannynoonan-nightslayer"]=1,
 	["dannyp-nightslayer"]=10,
-	["danthepan-nightslayer"]=5,
+	["danthepan-nightslayer"]=8,
 	["danthepann-nightslayer"]=18,
 	["dantos-nightslayer"]=1,
 	["dappadin-nightslayer"]=9,
@@ -11968,7 +11968,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["fastex-nightslayer"]=8,
 	["fasthands-nightslayer"]=10,
 	["fastpace-nightslayer"]=8,
-	["fastslow-nightslayer"]=6,
+	["fastslow-nightslayer"]=4,
 	["fatchudd-dreamscythe"]=4,
 	["fateseal-nightslayer"]=5,
 	["fatgeezer-nightslayer"]=19,
@@ -14036,7 +14036,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["lmaoidiot-nightslayer"]=16,
 	["lmerch-dreamscythe"]=1,
 	["lmnc-nightslayer"]=1,
-	["lmnllam-nightslayer"]=15,
+	["lmnllam-nightslayer"]=17,
 	["ln-nightslayer"]=0,
 	["lnln-nightslayer"]=1,
 	["loafprime-nightslayer"]=9,
@@ -14426,7 +14426,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["menswear-nightslayer"]=4,
 	["mentosxp-nightslayer"]=14,
 	["meowbruh-nightslayer"]=5,
-	["méowcules-dreamscythe"]=2,
+	["méowcules-dreamscythe"]=20,
 	["meowformomy-nightslayer"]=19,
 	["meowingtonz-nightslayer"]=7,
 	["meowpussgodx-nightslayer"]=7,
@@ -16618,8 +16618,8 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["shrook-nightslayer"]=19,
 	["shtewy-nightslayer"]=17,
 	["shticked-nightslayer"]=5,
-	["shujanko-nightslayer"]=5,
-	["shukmakok-nightslayer"]=20,
+	["shujanko-nightslayer"]=8,
+	["shukmakok-nightslayer"]=2,
 	["shunning-nightslayer"]=5,
 	["shunsui-nightslayer"]=18,
 	["shuolezaijia-nightslayer"]=13,
@@ -17852,7 +17852,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["unmasker-dreamscythe"]=19,
 	["unpeumort-dreamscythe"]=1,
 	["unrealistic-nightslayer"]=4,
-	["unrívaled-nightslayer"]=15,
+	["unrívaled-nightslayer"]=17,
 	["unskulk-nightslayer"]=5,
 	["unw-dreamscythe"]=2,
 	["uooti-dreamscythe"]=9,
