@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5194 characters, read 2026-10-23 04:59 PM.
+-- Region us, 5194 characters, read 2026-10-23 05:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4368,7 +4368,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["thannan-raden"]=10,
 	["tharealnerds-pagle"]=50,
 	["thatguyover-lei-shen"]=10,
-	["thaviks-raden"]=11,
+	["thaviks-raden"]=10,
 	["theægnt-raden"]=11,
 	["thebadjuan-pagle"]=10,
 	["thebagelcave-pagle"]=31,
@@ -5231,7 +5231,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["asthenoz-pagle"]=6,
 	["astraea-arugal-au"]=9,
 	["astrea-raden"]=7,
-	["astríds-pagle"]=3,
+	["astríds-pagle"]=18,
 	["astyus-pagle"]=7,
 	["asunari-pagle"]=3,
 	["asunyobi-pagle"]=10,
@@ -5821,7 +5821,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["cloninglab-pagle"]=5,
 	["Çlot-raden"]=34,
 	["cloudstrifer-pagle"]=7,
-	["cloutxchaser-raden"]=17,
+	["cloutxchaser-raden"]=5,
 	["clovergirl-raden"]=17,
 	["clownsauce-nazgrim"]=29,
 	["clutchnthis-pagle"]=1,
@@ -5830,7 +5830,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["cobear-pagle"]=3,
 	["cobearsdruid-pagle"]=17,
 	["cobrä-pagle"]=24,
-	["cöbrä-pagle"]=30,
+	["cöbrä-pagle"]=7,
 	["cochonhalal-pagle"]=16,
 	["codiplay-pagle"]=11,
 	["codywithak-raden"]=7,
@@ -6532,7 +6532,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["feråltyger-pagle"]=0,
 	["fernandes-nazgrim"]=16,
 	["fernandita-galakras"]=21,
-	["fhiziod-raden"]=17,
+	["fhiziod-raden"]=5,
 	["fhiziom-raden"]=4,
 	["fhizios-raden"]=15,
 	["fibbing-raden"]=22,
@@ -7142,7 +7142,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["illdra-pagle"]=32,
 	["illidari-pagle"]=3,
 	["illidingus-nazgrim"]=2,
-	["illíli-raden"]=26,
+	["illíli-raden"]=25,
 	["ilnicoll-pagle"]=2,
 	["ilockedyouup-pagle"]=24,
 	["ilockthis-galakras"]=8,
@@ -9756,7 +9756,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["unphasedx-raden"]=9,
 	["unrule-grobbulus"]=16,
 	["unslayer-pagle"]=6,
-	["untaked-pagle"]=32,
+	["untaked-pagle"]=16,
 	["uppercut-raden"]=10,
 	["upsetskdmark-raden"]=1,
 	["Ùpthewahs-immerseus"]=7,

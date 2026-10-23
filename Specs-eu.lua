@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5348 characters, read 2026-10-23 05:00 PM.
+-- Region eu, 5348 characters, read 2026-10-23 06:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -123,7 +123,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["affix-shekzeer"]=11,
 	["afflictia-shekzeer"]=11,
 	["aflixs-shekzeer"]=21,
-	["afqx-garalon"]=51,
+	["afqx-garalon"]=50,
 	["afrai-norushen"]=80,
 	["afrodiñ-shekzeer"]=10,
 	["afterchi-shekzeer"]=10,
@@ -6922,7 +6922,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["horrendouss-shekzeer"]=15,
 	["hoses-mirage-raceway"]=13,
 	["høtbaddíe-shekzeer"]=3,
-	["hotpoint-shekzeer"]=15,
+	["hotpoint-shekzeer"]=5,
 	["hottedeu-shekzeer"]=11,
 	["hotzalotz-hoptallus"]=3,
 	["houndshow-shekzeer"]=5,
@@ -7946,7 +7946,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["mythix-garalon"]=24,
 	["mythrugu-shekzeer"]=20,
 	["mythrugun-garalon"]=14,
-	["mythrugun-shekzeer"]=20,
+	["mythrugun-shekzeer"]=4,
 	["mywayz-mirage-raceway"]=2,
 	["mztx-shekzeer"]=20,
 	["nabek-shekzeer"]=13,
@@ -8395,7 +8395,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["plåýböt-shekzeer"]=2,
 	["plåýbøt-shekzeer"]=7,
 	["plâybøybûnny-shekzeer"]=4,
-	["playmop-shekzeer"]=23,
+	["playmop-shekzeer"]=17,
 	["plåýßøt-shekzeer"]=7,
 	["plïnki-auberdine"]=8,
 	["plmbeachpete-shekzeer"]=7,
@@ -9284,7 +9284,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["tbòne-everlook"]=1,
 	["tdzd-firemaw"]=21,
 	["teals-shekzeer"]=4,
-	["tealsbrew-shekzeer"]=29,
+	["tealsbrew-shekzeer"]=6,
 	["teegärtner-everlook"]=7,
 	["tejbz-everlook"]=5,
 	["telander-everlook"]=1,
@@ -10142,7 +10142,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Бритлберри-flamegor"]=2,
 	["Бубри-flamegor"]=4,
 	["Будрык-flamegor"]=21,
-	["Будрыкк-flamegor"]=20,
+	["Будрыкк-flamegor"]=4,
 	["Буревестъник-flamegor"]=13,
 	["Бурительдна-flamegor"]=16,
 	["Бурстанутый-flamegor"]=31,
