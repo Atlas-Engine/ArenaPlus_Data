@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9739 characters, read 2026-10-23 03:59 AM.
+-- Region tbc-eu, 9739 characters, read 2026-10-23 04:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12868,7 +12868,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["gruug-thunderstrike"]=5,
 	["grylius-spineshatter"]=13,
 	["gryzex-spineshatter"]=2,
-	["grzly-spineshatter"]=5,
+	["grzly-spineshatter"]=15,
 	["gschrapsi-spineshatter"]=2,
 	["gshockxd-spineshatter"]=11,
 	["gssöü-spineshatter"]=2,
@@ -14868,7 +14868,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["menomenh-spineshatter"]=23,
 	["mensensnerk-spineshatter"]=3,
 	["mentzia-thunderstrike"]=5,
-	["méphy-spineshatter"]=2,
+	["méphy-spineshatter"]=17,
 	["meqpog-spineshatter"]=11,
 	["meqpogs-spineshatter"]=1,
 	["meramoon-spineshatter"]=11,
@@ -14999,7 +14999,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["mirre-spineshatter"]=5,
 	["mirsa-spineshatter"]=2,
 	["mìsá-thunderstrike"]=3,
-	["misaamane-spineshatter"]=3,
+	["misaamane-spineshatter"]=19,
 	["mîsêry-spineshatter"]=9,
 	["mishaeqimi-spineshatter"]=2,
 	["míshan-spineshatter"]=5,
@@ -15541,7 +15541,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["niwahx-thunderstrike"]=9,
 	["nîxa-spineshatter"]=3,
 	["nîxkann-thunderstrike"]=5,
-	["nixsky-thunderstrike"]=3,
+	["nixsky-thunderstrike"]=19,
 	["niykeex-spineshatter"]=15,
 	["niylh-thunderstrike"]=26,
 	["nizz-spineshatter"]=9,
@@ -17570,7 +17570,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["spearo-spineshatter"]=8,
 	["speckbrot-spineshatter"]=13,
 	["speckgoat-spineshatter"]=23,
-	["spectatorpov-spineshatter"]=5,
+	["spectatorpov-spineshatter"]=15,
 	["spectér-spineshatter"]=3,
 	["spekepikk-thunderstrike"]=5,
 	["spellagå-spineshatter"]=13,
@@ -17629,7 +17629,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["srpy-spineshatter"]=15,
 	["srsturbo-spineshatter"]=1,
 	["srsturbocow-spineshatter"]=1,
-	["ßâcon-spineshatter"]=1,
+	["ßâcon-spineshatter"]=6,
 	["ßârthez-spineshatter"]=5,
 	["ßaßy-spineshatter"]=9,
 	["ßeadr-spineshatter"]=3,
