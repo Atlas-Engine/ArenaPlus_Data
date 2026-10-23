@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5187 characters, read 2026-10-22 07:59 PM.
+-- Region us, 5187 characters, read 2026-10-22 08:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5552,7 +5552,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["bossdon-pagle"]=7,
 	["bouddha-raden"]=4,
 	["bovinelegend-galakras"]=0,
-	["bowflexy-raden"]=3,
+	["bowflexy-raden"]=20,
 	["bowhog-galakras"]=3,
 	["bowjakkson-immerseus"]=3,
 	["bowjayc-pagle"]=18,
@@ -5635,7 +5635,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["budamz-pagle"]=7,
 	["buddaho-pagle"]=9,
 	["buddhacat-galakras"]=10,
-	["budnbeers-raden"]=28,
+	["budnbeers-raden"]=24,
 	["buffdeets-pagle"]=7,
 	["bullchiasse-pagle"]=16,
 	["bulletdrop-raden"]=3,
@@ -7478,7 +7478,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["knûckles-pagle"]=17,
 	["kñuckles-pagle"]=6,
 	["knuklefkr-nazgrim"]=24,
-	["kobe-lei-shen"]=31,
+	["kobe-lei-shen"]=1,
 	["kokuzin-pagle"]=7,
 	["kolokk-immerseus"]=26,
 	["kongpho-pagle"]=16,
@@ -7837,7 +7837,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["mattylocks-raden"]=24,
 	["mattymaage-raden"]=1,
 	["mattysp-raden"]=21,
-	["máuii-pagle"]=32,
+	["máuii-pagle"]=16,
 	["mauveblade-galakras"]=14,
 	["mav-raden"]=1,
 	["mavr-raden"]=14,
@@ -8306,7 +8306,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["oleyellur-pagle"]=9,
 	["olimpux-pagle"]=20,
 	["oliverqueenn-galakras"]=20,
-	["Õmegaa-raden"]=18,
+	["Õmegaa-raden"]=20,
 	["omegaslammin-pagle"]=0,
 	["omgilovewow-pagle"]=19,
 	["omnd-nazgrim"]=17,
@@ -9317,7 +9317,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["staarboyy-raden"]=5,
 	["stabbath-raden"]=14,
 	["stábbý-pagle"]=29,
-	["stabualot-nazgrim"]=29,
+	["stabualot-nazgrim"]=14,
 	["stâmpfairtex-raden"]=14,
 	["stàn-immerseus"]=3,
 	["starfallol-lei-shen"]=17,

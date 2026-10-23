@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9381 characters, read 2026-10-22 07:58 PM.
+-- Region tbc-us, 9381 characters, read 2026-10-22 08:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11211,7 +11211,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["dellios-nightslayer"]=21,
 	["deltywl-nightslayer"]=16,
 	["delusiønal-dreamscythe"]=9,
-	["dembootys-nightslayer"]=8,
+	["dembootys-nightslayer"]=5,
 	["demðn-nightslayer"]=19,
 	["demerara-nightslayer"]=7,
 	["demias-nightslayer"]=10,
@@ -13200,7 +13200,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["isofrog-nightslayer"]=5,
 	["israelitank-nightslayer"]=18,
 	["israelwarior-nightslayer"]=13,
-	["issadeltasr-dreamscythe"]=5,
+	["issadeltasr-dreamscythe"]=8,
 	["istabgnomes-nightslayer"]=5,
 	["istg-nightslayer"]=5,
 	["isuckatshard-nightslayer"]=12,
@@ -14664,7 +14664,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["moonyzz-nightslayer"]=18,
 	["moorehead-dreamscythe"]=18,
 	["móose-nightslayer"]=3,
-	["moosedeuce-dreamscythe"]=8,
+	["moosedeuce-dreamscythe"]=5,
 	["moosheisty-nightslayer"]=3,
 	["mopc-nightslayer"]=4,
 	["mopz-nightslayer"]=1,
@@ -15704,7 +15704,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["pvpman-nightslayer"]=15,
 	["pvpsensation-nightslayer"]=17,
 	["pvtfunction-dreamscythe"]=1,
-	["pwnologist-nightslayer"]=5,
+	["pwnologist-nightslayer"]=8,
 	["pwnown-nightslayer"]=2,
 	["pwnsaur-dreamscythe"]=10,
 	["pwnsmcgee-nightslayer"]=2,
