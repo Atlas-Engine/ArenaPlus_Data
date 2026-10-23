@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9381 characters, read 2026-10-22 06:58 PM.
+-- Region tbc-us, 9381 characters, read 2026-10-22 07:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10458,7 +10458,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["buttnuts-nightslayer"]=16,
 	["buttonz-dreamscythe"]=2,
 	["buttquake-dreamscythe"]=19,
-	["butud-nightslayer"]=1,
+	["butud-nightslayer"]=14,
 	["buumn-nightslayer"]=19,
 	["buxexa-nightslayer"]=1,
 	["buzzbuzz-nightslayer"]=1,
@@ -11311,7 +11311,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["dirtshields-nightslayer"]=10,
 	["dirtydaniela-dreamscythe"]=5,
 	["dirtydebrah-nightslayer"]=7,
-	["dirtydeedss-dreamscythe"]=8,
+	["dirtydeedss-dreamscythe"]=5,
 	["dirtyoldmän-nightslayer"]=1,
 	["dirtyplay-nightslayer"]=13,
 	["dirtyplayr-nightslayer"]=22,
@@ -11732,7 +11732,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["elivicky-nightslayer"]=4,
 	["elivvood-dreamscythe"]=7,
 	["elkykyi-nightslayer"]=2,
-	["ellajiayi-nightslayer"]=6,
+	["ellajiayi-nightslayer"]=4,
 	["elleiria-nightslayer"]=13,
 	["ellev-dreamscythe"]=10,
 	["ellexa-nightslayer"]=8,
@@ -13519,7 +13519,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["kaloi-dreamscythe"]=1,
 	["kalsiyum-nightslayer"]=13,
 	["kalthruangas-nightslayer"]=2,
-	["kalystol-dreamscythe"]=25,
+	["kalystol-dreamscythe"]=11,
 	["kamahalo-nightslayer"]=4,
 	["kamelais-nightslayer"]=1,
 	["kamí-nightslayer"]=2,
@@ -16174,7 +16174,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["rumesa-nightslayer"]=1,
 	["runawayy-dreamscythe"]=4,
 	["runescaper-nightslayer"]=18,
-	["runitbracks-nightslayer"]=18,
+	["runitbracks-nightslayer"]=2,
 	["ruq-nightslayer"]=2,
 	["rushie-nightslayer"]=18,
 	["rushieqt-nightslayer"]=16,
@@ -16449,7 +16449,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["shakorc-nightslayer"]=15,
 	["shakuzi-nightslayer"]=10,
 	["shaky-nightslayer"]=5,
-	["shalidar-nightslayer"]=13,
+	["shalidar-nightslayer"]=16,
 	["shamagnoll-nightslayer"]=24,
 	["shamanidk-nightslayer"]=10,
 	["shambails-nightslayer"]=10,
