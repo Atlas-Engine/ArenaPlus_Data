@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5187 characters, read 2026-10-22 08:59 PM.
+-- Region us, 5187 characters, read 2026-10-22 09:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2971,7 +2971,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["muridin-galakras"]=30,
 	["muriel-pagle"]=110,
 	["muroran-pagle"]=30,
-	["muschrooms-nazgrim"]=40,
+	["muschrooms-nazgrim"]=41,
 	["mused-lei-shen"]=11,
 	["mush-raden"]=41,
 	["musician-raden"]=11,
@@ -3328,7 +3328,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["peachpounder-pagle"]=10,
 	["peakedintbc-pagle"]=41,
 	["pearlescence-raden"]=111,
-	["peasalou-raden"]=11,
+	["peasalou-raden"]=10,
 	["pebblefist-pagle"]=30,
 	["peckrwood-immerseus"]=41,
 	["pedreirø-nazgrim"]=80,
@@ -5843,7 +5843,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["conjrexcuses-pagle"]=1,
 	["constantinej-raden"]=13,
 	["coochiemnstr-raden"]=1,
-	["coorsbanq-galakras"]=18,
+	["coorsbanq-galakras"]=20,
 	["cooterflute-raden"]=7,
 	["cooterman-raden"]=10,
 	["cornflakes-raden"]=3,
@@ -8049,7 +8049,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["muridin-galakras"]=20,
 	["muriel-pagle"]=16,
 	["muroran-pagle"]=9,
-	["muschrooms-nazgrim"]=5,
+	["muschrooms-nazgrim"]=17,
 	["mused-lei-shen"]=10,
 	["mush-raden"]=9,
 	["musician-raden"]=9,
