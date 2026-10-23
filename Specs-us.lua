@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5193 characters, read 2026-10-23 02:59 PM.
+-- Region us, 5193 characters, read 2026-10-23 03:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5997,7 +5997,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["darthmaos-nazgrim"]=16,
 	["darthtomato-pagle"]=21,
 	["dartmaul-pagle"]=6,
-	["dásh-nazgrim"]=2,
+	["dásh-nazgrim"]=16,
 	["datittycuz-galakras"]=20,
 	["daunit-raden"]=23,
 	["Ðâûñøvâtør-raden"]=6,
@@ -6017,7 +6017,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["deadlifta-pagle"]=6,
 	["deadlylifts-pagle"]=7,
 	["deadmoon-galakras"]=24,
-	["deadnutz-nazgrim"]=14,
+	["deadnutz-nazgrim"]=34,
 	["deadpal-galakras"]=16,
 	["deadpoolwins-pagle"]=6,
 	["deadshottz-galakras"]=3,
@@ -6556,7 +6556,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["fistenjoyer-raden"]=4,
 	["fistofdiddy-pagle"]=10,
 	["fistypants-pagle"]=10,
-	["fivefootirl-pagle"]=4,
+	["fivefootirl-pagle"]=10,
 	["fknrat-pagle"]=16,
 	["fknrats-pagle"]=10,
 	["fkq-raden"]=7,

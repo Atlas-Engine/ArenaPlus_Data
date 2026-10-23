@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5352 characters, read 2026-10-23 03:00 PM.
+-- Region eu, 5352 characters, read 2026-10-23 04:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1061,7 +1061,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["djrelax-auberdine"]=11,
 	["djskunk-shekzeer"]=11,
 	["djsosnitsky-shekzeer"]=11,
-	["djssleinad-garalon"]=111,
+	["djssleinad-garalon"]=20,
 	["Ðjsvrxzy-shekzeer"]=11,
 	["djwashedup-shekzeer"]=11,
 	["dksecouille-auberdine"]=20,
@@ -5784,7 +5784,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bumbelbeé-shekzeer"]=14,
 	["bumbelbemonk-shekzeer"]=7,
 	["bumbelgnome-shekzeer"]=7,
-	["bumbelmonk-garalon"]=7,
+	["bumbelmonk-garalon"]=29,
 	["bumbelorc-garalon"]=29,
 	["bumbelwar-shekzeer"]=25,
 	["bunnyjumperx-garalon"]=8,
@@ -6221,11 +6221,11 @@ ns.SPECS_BY_REGION["eu"] = {
 	["djrelax-auberdine"]=23,
 	["djskunk-shekzeer"]=5,
 	["djsosnitsky-shekzeer"]=9,
-	["djssleinad-garalon"]=16,
+	["djssleinad-garalon"]=13,
 	["Ðjsvrxzy-shekzeer"]=2,
 	["djwashedup-shekzeer"]=6,
 	["dksecouille-auberdine"]=31,
-	["dkw-gehennas"]=31,
+	["dkw-gehennas"]=8,
 	["dméndez-mirage-raceway"]=15,
 	["dnglo-mirage-raceway"]=1,
 	["dobanda-hoptallus"]=4,
@@ -7513,7 +7513,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["lightavenger-shekzeer"]=5,
 	["lightgeneral-shekzeer"]=9,
 	["lightpaladin-garalon"]=15,
-	["lilbroke-shekzeer"]=20,
+	["lilbroke-shekzeer"]=4,
 	["lilcaprice-everlook"]=6,
 	["lilîthia-auberdine"]=2,
 	["liljohnson-shekzeer"]=16,
@@ -8920,7 +8920,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["shiral-everlook"]=1,
 	["shiryup-auberdine"]=1,
 	["shiryùp-auberdine"]=13,
-	["shiryuù-auberdine"]=12,
+	["shiryuù-auberdine"]=9,
 	["shixx-ook-ook"]=1,
 	["shizophrenia-everlook"]=8,
 	["shlouh-shekzeer"]=3,
@@ -9407,7 +9407,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["tøøgøød-shekzeer"]=3,
 	["toolatebro-auberdine"]=26,
 	["tophizzle-everlook"]=10,
-	["topkeck-mirage-raceway"]=7,
+	["topkeck-mirage-raceway"]=6,
 	["topshotta-everlook"]=3,
 	["topspal-shekzeer"]=5,
 	["topspalz-shekzeer"]=15,
