@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5193 characters, read 2026-10-23 04:59 AM.
+-- Region us, 5193 characters, read 2026-10-23 05:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2574,7 +2574,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["lightspoon-benediction"]=11,
 	["lìghtsy-raden"]=11,
 	["lightvenge-pagle"]=10,
-	["ligmatron-raden"]=10,
+	["ligmatron-raden"]=11,
 	["likez-pagle"]=50,
 	["likmypsy-raden"]=11,
 	["lilbabe-pagle"]=11,
@@ -6997,7 +6997,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["hojosatoru-raden"]=16,
 	["hojreplol-raden"]=16,
 	["hojville-pagle"]=16,
-	["holidayhamii-pagle"]=32,
+	["holidayhamii-pagle"]=16,
 	["holmz-pagle"]=3,
 	["holtxd-raden"]=7,
 	["holyangelz-pagle"]=2,
@@ -7603,7 +7603,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["leroy-galakras"]=23,
 	["lester-raden"]=3,
 	["lesthoukov-pagle"]=3,
-	["letalor-pagle"]=14,
+	["letalor-pagle"]=29,
 	["leticiaa-pagle"]=3,
 	["letmechoff-pagle"]=4,
 	["letmetrap-pagle"]=0,
@@ -7666,7 +7666,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["lithim-pagle"]=18,
 	["litoutz-pagle"]=11,
 	["littheri-pagle"]=17,
-	["littielight-pagle"]=21,
+	["littielight-pagle"]=13,
 	["littlegirl-raden"]=1,
 	["littlesneky-pagle"]=34,
 	["littletinkle-galakras"]=2,
@@ -7839,7 +7839,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["matahordax-pagle"]=7,
 	["matemage-pagle"]=7,
 	["mathsbangsgg-pagle"]=8,
-	["mathscaresgg-pagle"]=33,
+	["mathscaresgg-pagle"]=5,
 	["mathsmoansgg-pagle"]=25,
 	["matix-nazgrim"]=16,
 	["matraxs-raden"]=34,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9387 characters, read 2026-10-23 04:58 AM.
+-- Region tbc-us, 9387 characters, read 2026-10-23 05:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12055,7 +12055,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["figuro-nightslayer"]=7,
 	["fiinduilas-nightslayer"]=11,
 	["filthyshot-nightslayer"]=15,
-	["filthytom-nightslayer"]=22,
+	["filthytom-nightslayer"]=3,
 	["finalflashx-nightslayer"]=7,
 	["finaliti-nightslayer"]=1,
 	["finaljonate-nightslayer"]=7,
@@ -15483,7 +15483,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["pipestrange-nightslayer"]=7,
 	["pipidd-dreamscythe"]=7,
 	["pipiss-dreamscythe"]=13,
-	["piratebooty-nightslayer"]=2,
+	["piratebooty-nightslayer"]=18,
 	["pississlurpi-nightslayer"]=4,
 	["pissmalorne-nightslayer"]=24,
 	["pissx-nightslayer"]=5,
@@ -15647,7 +15647,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["prizzen-dreamscythe"]=11,
 	["prks-nightslayer"]=7,
 	["prky-nightslayer"]=5,
-	["probear-nightslayer"]=13,
+	["probear-nightslayer"]=16,
 	["prøc-nightslayer"]=19,
 	["procborne-nightslayer"]=2,
 	["process-nightslayer"]=1,
@@ -18108,7 +18108,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["warlockhater-nightslayer"]=12,
 	["warlorc-nightslayer"]=13,
 	["warmike-nightslayer"]=2,
-	["warrém-nightslayer"]=18,
+	["warrém-nightslayer"]=2,
 	["warriorbbq-nightslayer"]=18,
 	["warriorerino-nightslayer"]=18,
 	["warriorwyp-nightslayer"]=2,

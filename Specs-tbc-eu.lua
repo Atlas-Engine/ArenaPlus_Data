@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9739 characters, read 2026-10-23 04:59 AM.
+-- Region tbc-eu, 9739 characters, read 2026-10-23 05:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -14133,7 +14133,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["krsx-spineshatter"]=3,
 	["krumeliño-spineshatter"]=17,
 	["kruttlappen-thunderstrike"]=7,
-	["krvo-thunderstrike"]=7,
+	["krvo-thunderstrike"]=26,
 	["krykar-thunderstrike"]=5,
 	["krylard-spineshatter"]=25,
 	["krystalbest-spineshatter"]=8,
@@ -14711,7 +14711,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["manaburnspam-spineshatter"]=2,
 	["managoesbrr-thunderstrike"]=2,
 	["manaintèrnx-spineshatter"]=2,
-	["manakspain-thunderstrike"]=2,
+	["manakspain-thunderstrike"]=17,
 	["manamanagèrx-spineshatter"]=2,
 	["manaprovider-spineshatter"]=8,
 	["manâra-thunderstrike"]=11,
@@ -14944,7 +14944,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["mikewhy-spineshatter"]=11,
 	["mikkodee-spineshatter"]=5,
 	["mikú-thunderstrike"]=8,
-	["miladbra-spineshatter"]=9,
+	["miladbra-spineshatter"]=4,
 	["milalylalou-spineshatter"]=25,
 	["milân-spineshatter"]=5,
 	["milched-spineshatter"]=12,
@@ -19137,7 +19137,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["yllnoth-spineshatter"]=3,
 	["ymatùmi-spineshatter"]=1,
 	["ymbr-spineshatter"]=19,
-	["ymbw-spineshatter"]=5,
+	["ymbw-spineshatter"]=15,
 	["ynnxx-spineshatter"]=1,
 	["yns-spineshatter"]=5,
 	["ynx-spineshatter"]=1,
