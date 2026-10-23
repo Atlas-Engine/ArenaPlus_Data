@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5193 characters, read 2026-10-23 11:59 AM.
+-- Region us, 5193 characters, read 2026-10-23 12:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6490,7 +6490,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["fatgirlsxxl-raden"]=1,
 	["fatguccimane-raden"]=1,
 	["fatmanscoop-raden"]=0,
-	["fatrass-pagle"]=14,
+	["fatrass-pagle"]=34,
 	["fatsob-lei-shen"]=2,
 	["fattitude-pagle"]=13,
 	["fattitude-raden"]=13,
@@ -6531,7 +6531,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["feråltyger-pagle"]=0,
 	["fernandes-nazgrim"]=16,
 	["fernandita-galakras"]=21,
-	["fhiziod-raden"]=5,
+	["fhiziod-raden"]=17,
 	["fhiziom-raden"]=4,
 	["fhizios-raden"]=15,
 	["fibbing-raden"]=22,
