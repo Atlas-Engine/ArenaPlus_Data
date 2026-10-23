@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5348 characters, read 2026-10-23 11:00 AM.
+-- Region eu, 5348 characters, read 2026-10-23 12:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2478,7 +2478,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["mashleman-shekzeer"]=250,
 	["maskof-shekzeer"]=10,
 	["massivecnt-shekzeer"]=11,
-	["matadora-shekzeer"]=10,
+	["matadora-shekzeer"]=11,
 	["matiel-shekzeer"]=40,
 	["matinaa-shekzeer"]=11,
 	["matora-ook-ook"]=11,
@@ -6701,7 +6701,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["golmonquidot-shekzeer"]=17,
 	["gomugomuno-shekzeer"]=8,
 	["gonga-shekzeer"]=14,
-	["goodrich-shekzeer"]=28,
+	["goodrich-shekzeer"]=17,
 	["goofel-gehennas"]=0,
 	["googlemex-everlook"]=13,
 	["googleorb-shekzeer"]=6,
@@ -6747,7 +6747,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["grönavesslan-shekzeer"]=11,
 	["grondax-norushen"]=5,
 	["grsy-shekzeer"]=6,
-	["grumpydumpy-shekzeer"]=28,
+	["grumpydumpy-shekzeer"]=23,
 	["grumpyolbaby-shekzeer"]=11,
 	["grumshado-hoptallus"]=7,
 	["gsek-shekzeer"]=1,
@@ -6916,7 +6916,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["holywar-shekzeer"]=9,
 	["honshu-shekzeer"]=16,
 	["hoodtrap-shekzeer"]=20,
-	["hoofhoof-hoptallus"]=11,
+	["hoofhoof-hoptallus"]=21,
 	["hopeéloolxd-shekzeer"]=23,
 	["høpps-norushen"]=9,
 	["horderising-shekzeer"]=11,
@@ -8537,7 +8537,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["rakamvp-shekzeer"]=13,
 	["raketenrudy-everlook"]=4,
 	["rakû-auberdine"]=1,
-	["raman-garalon"]=19,
+	["raman-garalon"]=13,
 	["ramsei-auberdine"]=25,
 	["randomboi-shekzeer"]=0,
 	["randomfury-mirage-raceway"]=19,
@@ -8647,7 +8647,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["ridahk-shekzeer"]=23,
 	["riemukupla-shekzeer"]=9,
 	["righthook-shekzeer"]=7,
-	["rihannaøwned-everlook"]=2,
+	["rihannaøwned-everlook"]=10,
 	["rihannaxoxo-everlook"]=24,
 	["rikimaru-shekzeer"]=26,
 	["riparena-shekzeer"]=17,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5193 characters, read 2026-10-23 10:59 AM.
+-- Region us, 5193 characters, read 2026-10-23 11:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6588,7 +6588,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["flowpal-pagle"]=2,
 	["flubbynubs-raden"]=26,
 	["flyingnite-pagle"]=16,
-	["flynn-nazgrim"]=4,
+	["flynn-nazgrim"]=10,
 	["fngrplay-galakras"]=5,
 	["focusxander-raden"]=21,
 	["fogoflife-pagle"]=13,
@@ -6707,7 +6707,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["gatorojo-raden"]=12,
 	["gatzuna-pagle"]=14,
 	["gawdofwar-raden"]=7,
-	["gaylordzz-benediction"]=9,
+	["gaylordzz-benediction"]=21,
 	["gc-raden"]=21,
 	["gcdru-raden"]=17,
 	["gcmte-raden"]=21,
@@ -8121,7 +8121,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["natuhhlee-nazgrim"]=13,
 	["naturalqt-pagle"]=2,
 	["navij-pagle"]=10,
-	["navio-pagle"]=16,
+	["navio-pagle"]=2,
 	["nâx-pagle"]=11,
 	["nâxxrâmâs-arugal-au"]=23,
 	["nayrish-pagle"]=2,

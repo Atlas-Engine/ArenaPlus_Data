@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9383 characters, read 2026-10-23 10:58 AM.
+-- Region tbc-us, 9383 characters, read 2026-10-23 11:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10913,7 +10913,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["cowthings-nightslayer"]=2,
 	["cowyote-nightslayer"]=10,
 	["cowzgomoo-nightslayer"]=9,
-	["coziliz-nightslayer"]=26,
+	["coziliz-nightslayer"]=4,
 	["cozylizy-nightslayer"]=1,
 	["cozytoes-nightslayer"]=1,
 	["cpc-dreamscythe"]=5,
@@ -12221,7 +12221,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["frënchy-dreamscythe"]=3,
 	["frënchy-nightslayer"]=3,
 	["freshaf-nightslayer"]=8,
-	["freshfade-nightslayer"]=10,
+	["freshfade-nightslayer"]=24,
 	["freshmedz-nightslayer"]=8,
 	["freshtadeath-nightslayer"]=5,
 	["freskahx-nightslayer"]=2,
@@ -13458,7 +13458,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["juanafarm-nightslayer"]=4,
 	["juannwiick-nightslayer"]=6,
 	["juanny-nightslayer"]=16,
-	["jubertha-dreamscythe"]=1,
+	["jubertha-dreamscythe"]=12,
 	["jublingz-nightslayer"]=9,
 	["juco-nightslayer"]=15,
 	["judeychop-nightslayer"]=8,
@@ -14228,7 +14228,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["maheloo-nightslayer"]=24,
 	["mahmymilkers-dreamscythe"]=2,
 	["maigaysiao-nightslayer"]=7,
-	["mainbeam-nightslayer"]=7,
+	["mainbeam-nightslayer"]=22,
 	["mainim-nightslayer"]=1,
 	["mainstreeam-dreamscythe"]=19,
 	["maintankonly-nightslayer"]=2,
@@ -15430,7 +15430,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["phenovoid-nightslayer"]=13,
 	["phentanyll-nightslayer"]=1,
 	["phi-nightslayer"]=7,
-	["phofilling-dreamscythe"]=20,
+	["phofilling-dreamscythe"]=2,
 	["phokintotems-dreamscythe"]=10,
 	["phonkie-nightslayer"]=10,
 	["phonomenal-dreamscythe"]=1,
@@ -15863,7 +15863,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["rayas-dreamscythe"]=16,
 	["raynemann-dreamscythe"]=6,
 	["raystigger-nightslayer"]=5,
-	["raystigz-dreamscythe"]=4,
+	["raystigz-dreamscythe"]=6,
 	["raystigz-nightslayer"]=6,
 	["rayyaflow-nightslayer"]=6,
 	["rayzo-nightslayer"]=5,

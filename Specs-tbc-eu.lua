@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9741 characters, read 2026-10-23 10:59 AM.
+-- Region tbc-eu, 9741 characters, read 2026-10-23 11:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11533,7 +11533,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["dévii-spineshatter"]=9,
 	["devilix-spineshatter"]=25,
 	["devílix-spineshatter"]=12,
-	["dévilla-spineshatter"]=4,
+	["dévilla-spineshatter"]=9,
 	["devlockx-spineshatter"]=13,
 	["devmaister-spineshatter"]=5,
 	["dewood-spineshatter"]=1,
@@ -13780,7 +13780,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["kalathea-spineshatter"]=2,
 	["kalimar-thunderstrike"]=3,
 	["kalimbaa-spineshatter"]=4,
-	["kalimbo-spineshatter"]=4,
+	["kalimbo-spineshatter"]=9,
 	["kalith-spineshatter"]=6,
 	["kallbärs-spineshatter"]=3,
 	["kallemask-spineshatter"]=15,
@@ -16575,7 +16575,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["repic-spineshatter"]=3,
 	["repixz-spineshatter"]=13,
 	["reprîeve-spineshatter"]=2,
-	["requièm-spineshatter"]=3,
+	["requièm-spineshatter"]=19,
 	["requiemit-spineshatter"]=19,
 	["requinze-thunderstrike"]=18,
 	["resisthis-spineshatter"]=21,
@@ -17696,7 +17696,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["stelconplaat-spineshatter"]=2,
 	["steltti-spineshatter"]=19,
 	["stemrødt-spineshatter"]=1,
-	["stenp-spineshatter"]=17,
+	["stenp-spineshatter"]=2,
 	["stenshield-spineshatter"]=2,
 	["stensturem-spineshatter"]=9,
 	["stensturon-spineshatter"]=4,
@@ -18871,7 +18871,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["willywiggah-spineshatter"]=4,
 	["wilzz-spineshatter"]=2,
 	["windfuked-spineshatter"]=23,
-	["wingching-thunderstrike"]=25,
+	["wingching-thunderstrike"]=24,
 	["winknblink-thunderstrike"]=4,
 	["winniefubear-spineshatter"]=2,
 	["winnielol-spineshatter"]=2,
