@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9387 characters, read 2026-10-23 01:58 AM.
+-- Region tbc-us, 9387 characters, read 2026-10-23 02:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12975,10 +12975,10 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["huggibow-dreamscythe"]=15,
 	["hughjaynas-dreamscythe"]=1,
 	["huka-nightslayer"]=8,
-	["huku-nightslayer"]=2,
+	["huku-nightslayer"]=20,
 	["hulkdaddy-nightslayer"]=2,
 	["hulkrogeun-nightslayer"]=5,
-	["humdinga-dreamscythe"]=2,
+	["humdinga-dreamscythe"]=20,
 	["hummz-nightslayer"]=8,
 	["hundeez-nightslayer"]=2,
 	["hungr-dreamscythe"]=18,
@@ -13211,7 +13211,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["isofrog-nightslayer"]=5,
 	["israelitank-nightslayer"]=18,
 	["israelwarior-nightslayer"]=13,
-	["issadeltasr-dreamscythe"]=8,
+	["issadeltasr-dreamscythe"]=5,
 	["istabgnomes-nightslayer"]=5,
 	["istg-nightslayer"]=5,
 	["isuckatshard-nightslayer"]=12,
@@ -14514,7 +14514,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["mikeybubble-dreamscythe"]=11,
 	["mikeycat-nightslayer"]=3,
 	["mikeydemon-nightslayer"]=5,
-	["mikeydevil-nightslayer"]=5,
+	["mikeydevil-nightslayer"]=8,
 	["mikeyret-nightslayer"]=11,
 	["mikeysaber-nightslayer"]=11,
 	["milansh-dreamscythe"]=13,
@@ -15401,7 +15401,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["perkolate-nightslayer"]=13,
 	["perl-nightslayer"]=11,
 	["perple-dreamscythe"]=1,
-	["perra-nightslayer"]=8,
+	["perra-nightslayer"]=5,
 	["perryerhoni-nightslayer"]=11,
 	["perrywashdup-nightslayer"]=4,
 	["persiphone-nightslayer"]=2,
@@ -16962,7 +16962,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["speedoh-nightslayer"]=1,
 	["speedster-nightslayer"]=18,
 	["sphinxyo-nightslayer"]=5,
-	["spicelord-nightslayer"]=4,
+	["spicelord-nightslayer"]=6,
 	["spicyarmpits-dreamscythe"]=1,
 	["spicycarp-nightslayer"]=3,
 	["spicyeliza-nightslayer"]=4,

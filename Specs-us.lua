@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5191 characters, read 2026-10-23 01:59 AM.
+-- Region us, 5191 characters, read 2026-10-23 02:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5732,7 +5732,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["chakrabolt-pagle"]=28,
 	["chambeazley-pagle"]=2,
 	["chamboyswag-nazgrim"]=19,
-	["champlock-raden"]=28,
+	["champlock-raden"]=24,
 	["champmage-raden"]=1,
 	["chaoscrittv-pagle"]=2,
 	["chaoscutie-galakras"]=24,
@@ -5879,7 +5879,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["crapes-raden"]=12,
 	["crapist-raden"]=3,
 	["crashdavis-raden"]=23,
-	["crashhoutt-pagle"]=6,
+	["crashhoutt-pagle"]=26,
 	["crashmoore-pagle"]=7,
 	["crayinmymind-pagle"]=7,
 	["crazè-pagle"]=34,
@@ -6039,7 +6039,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["deedaniels-raden"]=29,
 	["deedanielss-lei-shen"]=5,
 	["deepwounds-raden"]=7,
-	["deezknuckz-pagle"]=27,
+	["deezknuckz-pagle"]=10,
 	["Ðefeated-pagle"]=6,
 	["defeated-raden"]=6,
 	["defecal-raden"]=1,
@@ -6541,7 +6541,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["fíngerplay-galakras"]=15,
 	["fingerplay-raden"]=16,
 	["fingerrfkr-nazgrim"]=5,
-	["fingølfin-pagle"]=29,
+	["fingølfin-pagle"]=14,
 	["finkledinkle-pagle"]=16,
 	["finnese-pagle"]=1,
 	["fire-whitemane"]=0,
@@ -7935,10 +7935,10 @@ ns.SPECS_BY_REGION["us"] = {
 	["mîndless-raden"]=24,
 	["mindlessjack-raden"]=9,
 	["míndléssjáck-raden"]=18,
-	["mindlessjak-raden"]=28,
+	["mindlessjak-raden"]=24,
 	["mindlessjr-nazgrim"]=28,
 	["mindlessjuan-raden"]=28,
-	["mindlless-raden"]=9,
+	["mindlless-raden"]=21,
 	["mindprison-raden"]=0,
 	["minigalof-raden"]=1,
 	["minioutragé-raden"]=24,
@@ -7951,7 +7951,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["missatrinni-pagle"]=0,
 	["missmama-galakras"]=5,
 	["missrollings-pagle"]=10,
-	["misstotem-pagle"]=15,
+	["misstotem-pagle"]=19,
 	["missyu-immerseus"]=23,
 	["mistafistuh-pagle"]=4,
 	["mistnme-pagle"]=0,
@@ -9174,7 +9174,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["smallrass-pagle"]=7,
 	["smalltrain-pagle"]=15,
 	["smartpastry-pagle"]=14,
-	["smashdeez-nazgrim"]=30,
+	["smashdeez-nazgrim"]=7,
 	["smaxor-raden"]=7,
 	["sminchin-pagle"]=14,
 	["smokerweedch-pagle"]=24,
