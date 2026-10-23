@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5193 characters, read 2026-10-23 09:59 AM.
+-- Region us, 5193 characters, read 2026-10-23 10:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3454,7 +3454,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["protektive-pagle"]=11,
 	["protmain-raden"]=10,
 	["prototypeceo-pagle"]=20,
-	["proudfather-lei-shen"]=60,
+	["proudfather-lei-shen"]=40,
 	["proudgoyim-raden"]=10,
 	["pserverfreak-raden"]=11,
 	["psfive-pagle"]=40,
@@ -6783,7 +6783,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["goatler-benediction"]=3,
 	["goblynndez-galakras"]=6,
 	["goegta-raden"]=16,
-	["gognmagog-pagle"]=17,
+	["gognmagog-pagle"]=12,
 	["gogo-raden"]=1,
 	["goinghamms-immerseus"]=0,
 	["goingtobust-pagle"]=1,
@@ -8272,7 +8272,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["nyctrius-raden"]=18,
 	["nyloras-pagle"]=7,
 	["nyloras-raden"]=7,
-	["nylorfist-pagle"]=27,
+	["nylorfist-pagle"]=4,
 	["nýmph-raden"]=14,
 	["nynaevxe-pagle"]=9,
 	["nynja-raden"]=14,
