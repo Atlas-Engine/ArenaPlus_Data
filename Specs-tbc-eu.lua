@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9739 characters, read 2026-10-23 02:59 AM.
+-- Region tbc-eu, 9739 characters, read 2026-10-23 03:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -14588,7 +14588,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["lynpalagodx-spineshatter"]=7,
 	["lynxter-thunderstrike"]=12,
 	["lyoshkabdsm-spineshatter"]=3,
-	["lyrao-spineshatter"]=3,
+	["lyrao-spineshatter"]=19,
 	["lysdexia-spineshatter"]=6,
 	["lysebrun-spineshatter"]=5,
 	["lysel-spineshatter"]=11,
@@ -15769,7 +15769,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["oópsyy-spineshatter"]=3,
 	["opalakiax-spineshatter"]=13,
 	["opana-spineshatter"]=13,
-	["opaxx-spineshatter"]=23,
+	["opaxx-spineshatter"]=12,
 	["openbar-spineshatter"]=9,
 	["opid-spineshatter"]=3,
 	["oppyrogche-thunderstrike"]=3,
@@ -16543,7 +16543,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["rèflékzx-spineshatter"]=2,
 	["reformatio-spineshatter"]=15,
 	["regienoble-spineshatter"]=13,
-	["reigned-thunderstrike"]=14,
+	["reigned-thunderstrike"]=13,
 	["reignp-spineshatter"]=2,
 	["reilee-spineshatter"]=3,
 	["réja-spineshatter"]=15,
