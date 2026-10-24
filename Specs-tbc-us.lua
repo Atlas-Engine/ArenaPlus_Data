@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9385 characters, read 2026-10-24 12:58 PM.
+-- Region tbc-us, 9385 characters, read 2026-10-24 01:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10358,7 +10358,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["brussw-nightslayer"]=18,
 	["brustifield-nightslayer"]=10,
 	["brutain-nightslayer"]=8,
-	["brûtàl-nightslayer"]=2,
+	["brûtàl-nightslayer"]=18,
 	["brutalgladi-nightslayer"]=10,
 	["brutesavage-nightslayer"]=19,
 	["brutussx-nightslayer"]=19,
@@ -10768,7 +10768,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["clayhill-nightslayer"]=1,
 	["cleanboxers-nightslayer"]=15,
 	["clearcastt-nightslayer"]=4,
-	["clearlyice-dreamscythe"]=2,
+	["clearlyice-dreamscythe"]=20,
 	["cleav-dreamscythe"]=18,
 	["clëave-nightslayer"]=2,
 	["cleaveoclock-nightslayer"]=2,
@@ -16779,7 +16779,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["slothmoo-nightslayer"]=7,
 	["slowbolt-nightslayer"]=6,
 	["sloweyes-nightslayer"]=7,
-	["slowfast-nightslayer"]=16,
+	["slowfast-nightslayer"]=13,
 	["slugpax-nightslayer"]=5,
 	["slumshocks-dreamscythe"]=19,
 	["slumwar-dreamscythe"]=18,
@@ -17166,7 +17166,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["subscape-nightslayer"]=7,
 	["subw-nightslayer"]=18,
 	["sucashione-nightslayer"]=24,
-	["succubusn-nightslayer"]=13,
+	["succubusn-nightslayer"]=23,
 	["suezu-nightslayer"]=5,
 	["sufferìng-dreamscythe"]=7,
 	["sugarrfree-nightslayer"]=4,
@@ -17343,7 +17343,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["taylrswftmnd-dreamscythe"]=7,
 	["tayswíft-nightslayer"]=1,
 	["tazërface-nightslayer"]=18,
-	["tbalc-nightslayer"]=12,
+	["tbalc-nightslayer"]=1,
 	["tbcisawful-nightslayer"]=15,
 	["tbcisdeadcya-nightslayer"]=21,
 	["tbcpally-nightslayer"]=11,
