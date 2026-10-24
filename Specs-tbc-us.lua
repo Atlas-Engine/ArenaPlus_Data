@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9385 characters, read 2026-10-24 12:58 AM.
+-- Region tbc-us, 9385 characters, read 2026-10-24 01:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10571,7 +10571,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["cazsandra-dreamscythe"]=2,
 	["cazwyn-nightslayer"]=7,
 	["cazzi-nightslayer"]=1,
-	["cbte-nightslayer"]=8,
+	["cbte-nightslayer"]=5,
 	["cbtz-nightslayer"]=2,
 	["cbúm-nightslayer"]=2,
 	["ccb-nightslayer"]=7,
@@ -11376,7 +11376,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["dmforcøach-dreamscythe"]=1,
 	["dmgcontrol-dreamscythe"]=16,
 	["dmlol-nightslayer"]=1,
-	["dned-dreamscythe"]=6,
+	["dned-dreamscythe"]=4,
 	["dniym-nightslayer"]=7,
 	["dntsitonhim-nightslayer"]=10,
 	["dockingtotem-nightslayer"]=19,
@@ -13627,7 +13627,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["kerso-nightslayer"]=2,
 	["kesua-nightslayer"]=7,
 	["keter-nightslayer"]=7,
-	["ketheriya-nightslayer"]=14,
+	["ketheriya-nightslayer"]=1,
 	["ketusmacopin-dreamscythe"]=9,
 	["keumer-dreamscythe"]=2,
 	["kevbigpp-nightslayer"]=12,
@@ -15136,7 +15136,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["oldandslow-nightslayer"]=2,
 	["oldbc-nightslayer"]=19,
 	["oldbheezer-nightslayer"]=16,
-	["oldernewb-nightslayer"]=12,
+	["oldernewb-nightslayer"]=1,
 	["oldfitzz-dreamscythe"]=3,
 	["oldlee-nightslayer"]=5,
 	["oldmandellas-dreamscythe"]=18,
@@ -15825,7 +15825,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ramiusx-nightslayer"]=15,
 	["rammedaddy-nightslayer"]=1,
 	["rammershock-dreamscythe"]=19,
-	["ramrodlol-dreamscythe"]=18,
+	["ramrodlol-dreamscythe"]=2,
 	["ran-nightslayer"]=5,
 	["randomanimal-nightslayer"]=3,
 	["randømforest-nightslayer"]=22,
@@ -16444,7 +16444,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["shadxwbxrn-nightslayer"]=17,
 	["shadydealerx-nightslayer"]=1,
 	["shadyjames-dreamscythe"]=4,
-	["shadyy-nightslayer"]=12,
+	["shadyy-nightslayer"]=1,
 	["shae-nightslayer"]=8,
 	["shahealoneal-nightslayer"]=1,
 	["shaitn-dreamscythe"]=4,
@@ -18221,7 +18221,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["windfuryo-nightslayer"]=19,
 	["windsofsht-nightslayer"]=24,
 	["winnebango-nightslayer"]=10,
-	["winnergreen-nightslayer"]=11,
+	["winnergreen-nightslayer"]=9,
 	["winnieduhpoo-nightslayer"]=2,
 	["winnyy-nightslayer"]=10,
 	["wintermuted-nightslayer"]=18,

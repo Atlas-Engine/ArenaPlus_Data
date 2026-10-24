@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9750 characters, read 2026-10-24 12:59 AM.
+-- Region tbc-eu, 9751 characters, read 2026-10-24 01:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2858,6 +2858,7 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["foreveralone-spineshatter"]=40,
 	["forevermirin-spineshatter"]=100,
 	["forfk-spineshatter"]=50,
+	["forfn-spineshatter"]=80,
 	["forgemode-spineshatter"]=101,
 	["førgiv-spineshatter"]=31,
 	["forkinoutlet-spineshatter"]=20,
@@ -12519,6 +12520,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["foreveralone-spineshatter"]=25,
 	["forevermirin-spineshatter"]=7,
 	["forfk-spineshatter"]=2,
+	["forfn-spineshatter"]=17,
 	["forgemode-spineshatter"]=7,
 	["førgiv-spineshatter"]=2,
 	["forkinoutlet-spineshatter"]=23,
@@ -17628,7 +17630,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["sprattelinho-spineshatter"]=13,
 	["spraygirl-spineshatter"]=7,
 	["spready-thunderstrike"]=12,
-	["spreadyx-thunderstrike"]=5,
+	["spreadyx-thunderstrike"]=15,
 	["spritecherry-spineshatter"]=2,
 	["sprout-spineshatter"]=6,
 	["spurw-spineshatter"]=18,
