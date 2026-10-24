@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5348 characters, read 2026-10-24 04:00 AM.
+-- Region eu, 5347 characters, read 2026-10-24 05:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -88,6 +88,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["abadoney-everlook"]=50,
 	["abcdé-shekzeer"]=61,
 	["abclock-shekzeer"]=10,
+	["abdiwallahi-shekzeer"]=11,
 	["abdulmalik-shekzeer"]=11,
 	["abitova-shekzeer"]=11,
 	["ablaacissej-shekzeer"]=11,
@@ -451,7 +452,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["bcacu-shekzeer"]=10,
 	["bdm-auberdine"]=11,
 	["bðring-shekzeer"]=11,
-	["bearburst-shekzeer"]=41,
 	["bearia-shekzeer"]=11,
 	["beastmastr-everlook"]=80,
 	["beeka-auberdine"]=220,
@@ -2366,7 +2366,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["luciane-garalon"]=41,
 	["lucilisa-garalon"]=21,
 	["lucyshen-everlook"]=251,
-	["ludiwig-shekzeer"]=40,
+	["ludiwig-shekzeer"]=41,
 	["lügenbeutler-everlook"]=100,
 	["lugubrious-shekzeer"]=11,
 	["luicya-everlook"]=41,
@@ -5196,7 +5196,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["abadoney-everlook"]=9,
 	["abcdé-shekzeer"]=3,
 	["abclock-shekzeer"]=17,
-	["abdiwallahi-shekzeer"]=0,
+	["abdiwallahi-shekzeer"]=2,
 	["abdulmalik-shekzeer"]=6,
 	["abitova-shekzeer"]=14,
 	["ablaacissej-shekzeer"]=2,
@@ -5585,7 +5585,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bcacu-shekzeer"]=1,
 	["bdm-auberdine"]=15,
 	["bðring-shekzeer"]=9,
-	["bearburst-shekzeer"]=32,
 	["bearia-shekzeer"]=4,
 	["beastmastr-everlook"]=4,
 	["beeka-auberdine"]=11,
@@ -7169,7 +7168,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["jooko-hoptallus"]=28,
 	["jornironside-shekzeer"]=8,
 	["josax-mirage-raceway"]=5,
-	["jovovich-everlook"]=13,
+	["jovovich-everlook"]=16,
 	["jozsa-hoptallus"]=4,
 	["jpa-garalon"]=2,
 	["jpegracktus-shekzeer"]=1,
@@ -7586,7 +7585,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["lucilfer-garalon"]=0,
 	["lucilisa-garalon"]=7,
 	["lucyshen-everlook"]=6,
-	["ludiwig-shekzeer"]=11,
+	["ludiwig-shekzeer"]=3,
 	["lügenbeutler-everlook"]=15,
 	["lugubrious-shekzeer"]=9,
 	["luicya-everlook"]=9,
@@ -7880,7 +7879,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["mønkz-shekzeer"]=29,
 	["monlok-garalon"]=23,
 	["monloko-shekzeer"]=17,
-	["monlokoo-shekzeer"]=17,
+	["monlokoo-shekzeer"]=23,
 	["monomax-shekzeer"]=0,
 	["mønsìeurfràz-shekzeer"]=20,
 	["mønsignøre-shekzeer"]=5,
@@ -7937,7 +7936,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["mwman-shekzeer"]=6,
 	["mwmwmwmw-shekzeer"]=6,
 	["mwqew-shekzeer"]=6,
-	["mxed-shekzeer"]=26,
+	["mxed-shekzeer"]=24,
 	["mxge-mirage-raceway"]=2,
 	["mxgehc-mirage-raceway"]=2,
 	["mycopa-shekzeer"]=4,
