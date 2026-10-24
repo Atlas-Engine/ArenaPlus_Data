@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9389 characters, read 2026-10-23 07:58 PM.
+-- Region tbc-us, 9389 characters, read 2026-10-23 08:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10831,7 +10831,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["cogitatos-nightslayer"]=5,
 	["coguma-nightslayer"]=4,
 	["coileray-nightslayer"]=15,
-	["coilx-dreamscythe"]=13,
+	["coilx-dreamscythe"]=16,
 	["cokeewl-nightslayer"]=13,
 	["cokeey-nightslayer"]=16,
 	["colamitus-nightslayer"]=2,
@@ -12690,7 +12690,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["hailee-nightslayer"]=6,
 	["hailzuz-dreamscythe"]=15,
 	["hain-nightslayer"]=5,
-	["hairforkids-nightslayer"]=23,
+	["hairforkids-nightslayer"]=13,
 	["hairyhuevos-nightslayer"]=14,
 	["haishao-nightslayer"]=11,
 	["haitabao-nightslayer"]=7,
@@ -13153,7 +13153,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["inhalers-nightslayer"]=10,
 	["injureginger-dreamscythe"]=12,
 	["inkymess-nightslayer"]=10,
-	["inlor-nightslayer"]=7,
+	["inlor-nightslayer"]=3,
 	["inmates-nightslayer"]=2,
 	["innate-nightslayer"]=23,
 	["innated-nightslayer"]=7,
@@ -15337,7 +15337,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["patmaweeni-dreamscythe"]=1,
 	["paty-nightslayer"]=11,
 	["pauladeene-dreamscythe"]=2,
-	["pauljardin-nightslayer"]=2,
+	["pauljardin-nightslayer"]=20,
 	["paulphoenix-nightslayer"]=11,
 	["pawdrops-nightslayer"]=4,
 	["pawestruck-nightslayer"]=3,
@@ -16757,7 +16757,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["slappyw-nightslayer"]=2,
 	["slashcat-nightslayer"]=7,
 	["slatemore-nightslayer"]=7,
-	["slayboi-nightslayer"]=5,
+	["slayboi-nightslayer"]=8,
 	["slayboys-nightslayer"]=5,
 	["slaypal-dreamscythe"]=11,
 	["slayrogue-nightslayer"]=5,
@@ -17654,7 +17654,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["treepeat-nightslayer"]=22,
 	["treepilled-nightslayer"]=7,
 	["treeranger-nightslayer"]=13,
-	["treethers-dreamscythe"]=1,
+	["treethers-dreamscythe"]=14,
 	["treewaltz-nightslayer"]=7,
 	["treewar-nightslayer"]=2,
 	["treewood-nightslayer"]=3,
