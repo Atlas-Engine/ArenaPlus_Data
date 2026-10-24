@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5190 characters, read 2026-10-24 04:59 AM.
+-- Region us, 5190 characters, read 2026-10-24 05:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1561,7 +1561,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["flexi-pagle"]=20,
 	["flexism-pagle"]=50,
 	["flexismx-pagle"]=50,
-	["flexismxx-pagle"]=41,
+	["flexismxx-pagle"]=40,
 	["flightschool-pagle"]=41,
 	["flipssix-lei-shen"]=20,
 	["floplock-raden"]=81,
@@ -7460,7 +7460,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["kìngrøach-galakras"]=14,
 	["kinkykirby-raden"]=2,
 	["kinkystwosvn-nazgrim"]=0,
-	["kinoshyba-pagle"]=7,
+	["kinoshyba-pagle"]=30,
 	["kinshiki-galakras"]=14,
 	["kintok-raden"]=26,
 	["kiora-pagle"]=14,
@@ -7535,7 +7535,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["kusamgie-galakras"]=2,
 	["kusheatsleep-raden"]=18,
 	["kushgodx-raden"]=1,
-	["kushh-nazgrim"]=4,
+	["kushh-nazgrim"]=10,
 	["kutless-raden"]=16,
 	["kutty-nazgrim"]=11,
 	["kvalsvøll-pagle"]=6,
@@ -7551,7 +7551,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["lad-arugal-au"]=4,
 	["laddersavior-pagle"]=16,
 	["laddingtonx-raden"]=10,
-	["ladoramoon-pagle"]=12,
+	["ladoramoon-pagle"]=5,
 	["lagherta-raden"]=5,
 	["läin-raden"]=14,
 	["laleyenda-lei-shen"]=3,
@@ -7601,7 +7601,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["leonidasxl-pagle"]=4,
 	["leowna-pagle"]=2,
 	["leownaa-pagle"]=2,
-	["lepson-nazgrim"]=7,
+	["lepson-nazgrim"]=23,
 	["leroy-galakras"]=23,
 	["lester-raden"]=3,
 	["lesthoukov-pagle"]=3,
@@ -9698,7 +9698,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["tsukawashime-raden"]=4,
 	["tsunadè-nazgrim"]=9,
 	["ttawdirg-pagle"]=3,
-	["tubalcain-galakras"]=19,
+	["tubalcain-galakras"]=22,
 	["turaoferao-raden"]=5,
 	["turbantime-pagle"]=4,
 	["turbomóist-pagle"]=15,
