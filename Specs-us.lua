@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5187 characters, read 2026-10-24 02:59 PM.
+-- Region us, 5187 characters, read 2026-10-24 03:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6692,7 +6692,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ganonmauz-raden"]=2,
 	["garbagedruid-raden"]=5,
 	["garnaby-pagle"]=14,
-	["garnarin-galakras"]=13,
+	["garnarin-galakras"]=9,
 	["garrahmonk-raden"]=4,
 	["garrahmw-raden"]=4,
 	["garrik-lei-shen"]=14,
@@ -6975,7 +6975,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["hibashiba-galakras"]=20,
 	["hickery-arugal-au"]=14,
 	["hideandhunt-galakras"]=20,
-	["hifukface-raden"]=5,
+	["hifukface-raden"]=12,
 	["hifvckface-raden"]=10,
 	["highc-galakras"]=22,
 	["highç-galakras"]=10,
@@ -8054,7 +8054,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["murakami-raden"]=6,
 	["murder-raden"]=29,
 	["murderstein-raden"]=9,
-	["murdradis-pagle"]=22,
+	["murdradis-pagle"]=15,
 	["murica-lei-shen"]=3,
 	["muridin-galakras"]=20,
 	["muriel-pagle"]=16,
@@ -9050,7 +9050,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["shlorky-pagle"]=5,
 	["shluhpickle-raden"]=7,
 	["shmacked-lei-shen"]=1,
-	["shmagey-pagle"]=1,
+	["shmagey-pagle"]=31,
 	["shmallbabel-raden"]=1,
 	["shmeezmack-galakras"]=10,
 	["shobuu-immerseus"]=34,
@@ -10059,7 +10059,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["yekcoh-pagle"]=29,
 	["yellowspwn-raden"]=21,
 	["yelly-pagle"]=20,
-	["yerbastian-nazgrim"]=6,
+	["yerbastian-nazgrim"]=26,
 	["yermum-raden"]=7,
 	["yesindeedee-pagle"]=1,
 	["yesue-pagle"]=4,

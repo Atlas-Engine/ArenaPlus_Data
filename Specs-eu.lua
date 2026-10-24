@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5354 characters, read 2026-10-24 03:00 PM.
+-- Region eu, 5354 characters, read 2026-10-24 04:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1217,7 +1217,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["elendîl-shekzeer"]=10,
 	["elesham-shekzeer"]=20,
 	["Êlestê-shekzeer"]=11,
-	["elf-shekzeer"]=40,
+	["elf-shekzeer"]=41,
 	["elfie-shekzeer"]=11,
 	["elfiee-shekzeer"]=11,
 	["elgh-shekzeer"]=11,
@@ -2280,7 +2280,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["lëvi-mirage-raceway"]=80,
 	["lëvî-shekzeer"]=11,
 	["levitate-everlook"]=41,
-	["levn-shekzeer"]=11,
+	["levn-shekzeer"]=10,
 	["levna-shekzeer"]=41,
 	["lexyka-shekzeer"]=11,
 	["leyna-shekzeer"]=11,
@@ -3954,7 +3954,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["szarfosclass-norushen"]=21,
 	["szasha-shekzeer"]=10,
 	["szexjebøaka-mirage-raceway"]=11,
-	["szh-shekzeer"]=10,
+	["szh-shekzeer"]=11,
 	["szx-shekzeer"]=11,
 	["tackiella-shekzeer"]=41,
 	["tactic-shekzeer"]=10,
@@ -5993,7 +5993,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["controlr-norushen"]=24,
 	["controlww-norushen"]=1,
 	["controlx-norushen"]=14,
-	["coors-shekzeer"]=9,
+	["coors-shekzeer"]=22,
 	["corléonne-auberdine"]=6,
 	["corleonnee-auberdine"]=22,
 	["corristo-shekzeer"]=10,
@@ -6199,7 +6199,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["discopanda-norushen"]=6,
 	["discoprälle-shekzeer"]=9,
 	["discovery-shekzeer"]=7,
-	["diskotrisko-norushen"]=22,
+	["diskotrisko-norushen"]=12,
 	["dispelz-shekzeer"]=9,
 	["disperse-mirage-raceway"]=9,
 	["dispersio-mirage-raceway"]=3,
