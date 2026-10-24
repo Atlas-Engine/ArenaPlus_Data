@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5187 characters, read 2026-10-24 01:59 PM.
+-- Region us, 5187 characters, read 2026-10-24 02:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6042,7 +6042,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["deedaniels-raden"]=29,
 	["deedanielss-lei-shen"]=5,
 	["deepwounds-raden"]=7,
-	["deezknuckz-pagle"]=10,
+	["deezknuckz-pagle"]=27,
 	["Ðefeated-pagle"]=6,
 	["defeated-raden"]=6,
 	["defecal-raden"]=1,
@@ -6761,7 +6761,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["glasstoker-pagle"]=17,
 	["glayzed-raden"]=19,
 	["gleef-pagle"]=0,
-	["glinna-raden"]=9,
+	["glinna-raden"]=21,
 	["glitcho-immerseus"]=2,
 	["glitercheeks-pagle"]=17,
 	["glizzyjizzy-nazgrim"]=2,
@@ -6945,7 +6945,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["heghost-pagle"]=9,
 	["heihaheiha-raden"]=10,
 	["heilsatan-galakras"]=9,
-	["heldervince-nazgrim"]=16,
+	["heldervince-nazgrim"]=2,
 	["heliio-nazgrim"]=4,
 	["heliós-nazgrim"]=2,
 	["hellhills-pagle"]=3,
@@ -7758,7 +7758,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["machetelol-pagle"]=12,
 	["macombo-galakras"]=14,
 	["madam-pagle"]=16,
-	["maddlexie-pagle"]=28,
+	["maddlexie-pagle"]=24,
 	["madlisa-raden"]=7,
 	["madmadman-pagle"]=7,
 	["madmickie-pagle"]=7,
@@ -8317,7 +8317,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["olimpux-pagle"]=20,
 	["olitha-galakras"]=14,
 	["oliverqueenn-galakras"]=20,
-	["Õmegaa-raden"]=20,
+	["Õmegaa-raden"]=18,
 	["omegaslammin-pagle"]=0,
 	["omgilovewow-pagle"]=19,
 	["omnd-nazgrim"]=17,
@@ -8711,7 +8711,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["rel-nazgrim"]=26,
 	["relapse-lei-shen"]=1,
 	["relaxx-lei-shen"]=13,
-	["relichh-pagle"]=25,
+	["relichh-pagle"]=26,
 	["réligion-raden"]=25,
 	["relikemong-pagle"]=28,
 	["rellah-pagle"]=9,
