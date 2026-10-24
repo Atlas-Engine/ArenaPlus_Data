@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9751 characters, read 2026-10-24 01:59 AM.
+-- Region tbc-eu, 9751 characters, read 2026-10-24 02:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9826,7 +9826,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["alexpanda-spineshatter"]=9,
 	["alexws-spineshatter"]=11,
 	["alfà-spineshatter"]=5,
-	["alfapve-spineshatter"]=5,
+	["alfapve-spineshatter"]=15,
 	["alfaredan-spineshatter"]=5,
 	["Älgjägarn-thunderstrike"]=25,
 	["algrron-spineshatter"]=2,
@@ -12520,7 +12520,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["foreveralone-spineshatter"]=25,
 	["forevermirin-spineshatter"]=7,
 	["forfk-spineshatter"]=2,
-	["forfn-spineshatter"]=17,
+	["forfn-spineshatter"]=2,
 	["forgemode-spineshatter"]=7,
 	["førgiv-spineshatter"]=2,
 	["forkinoutlet-spineshatter"]=23,
@@ -12931,7 +12931,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["hællz-thunderstrike"]=10,
 	["håftbefehl-spineshatter"]=5,
 	["haftijr-spineshatter"]=5,
-	["hahahahalol-spineshatter"]=2,
+	["hahahahalol-spineshatter"]=17,
 	["haileyroses-spineshatter"]=11,
 	["haipstar-thunderstrike"]=17,
 	["hajteck-spineshatter"]=2,
@@ -16263,7 +16263,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["pshydro-spineshatter"]=3,
 	["psichoz-spineshatter"]=8,
 	["psilöcybin-spineshatter"]=3,
-	["psixx-spineshatter"]=4,
+	["psixx-spineshatter"]=9,
 	["psn-thunderstrike"]=19,
 	["psofa-spineshatter"]=5,
 	["pstamsta-thunderstrike"]=11,

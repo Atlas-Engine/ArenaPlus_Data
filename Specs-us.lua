@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5191 characters, read 2026-10-24 01:59 AM.
+-- Region us, 5191 characters, read 2026-10-24 02:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3502,7 +3502,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["quickscopex-pagle"]=11,
 	["quickvanish-pagle"]=11,
 	["qwanya-raden"]=10,
-	["qwes-raden"]=11,
+	["qwes-raden"]=10,
 	["qzw-galakras"]=260,
 	["raasclaat-pagle"]=41,
 	["rabager-grobbulus"]=251,
@@ -6049,7 +6049,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["defnotanj-pagle"]=3,
 	["degaüss-raden"]=16,
 	["dekk-raden"]=6,
-	["delané-raden"]=3,
+	["delané-raden"]=18,
 	["delaway-lei-shen"]=24,
 	["delgars-galakras"]=3,
 	["delonso-pagle"]=7,
@@ -7000,7 +7000,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["hojosatoru-raden"]=16,
 	["hojreplol-raden"]=16,
 	["hojville-pagle"]=16,
-	["holidayhamii-pagle"]=16,
+	["holidayhamii-pagle"]=2,
 	["holmz-pagle"]=3,
 	["holtxd-raden"]=7,
 	["holyangelz-pagle"]=2,
@@ -7249,7 +7249,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["jamalbanks-raden"]=1,
 	["jámu-raden"]=16,
 	["janevishus-lei-shen"]=9,
-	["janitron-galakras"]=16,
+	["janitron-galakras"]=2,
 	["järuid-raden"]=5,
 	["jasei-raden"]=10,
 	["jasey-raden"]=10,
@@ -7943,7 +7943,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["mîndless-raden"]=24,
 	["mindlessjack-raden"]=9,
 	["míndléssjáck-raden"]=18,
-	["mindlessjak-raden"]=24,
+	["mindlessjak-raden"]=28,
 	["mindlessjr-nazgrim"]=28,
 	["mindlessjuan-raden"]=28,
 	["mindlless-raden"]=9,
@@ -8063,7 +8063,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["muridin-galakras"]=20,
 	["muriel-pagle"]=16,
 	["muroran-pagle"]=9,
-	["muschrooms-nazgrim"]=5,
+	["muschrooms-nazgrim"]=17,
 	["mused-lei-shen"]=10,
 	["mush-raden"]=9,
 	["musician-raden"]=9,
@@ -9572,7 +9572,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["thorelam-pagle"]=25,
 	["thosanvn-raden"]=3,
 	["throbbinghog-raden"]=7,
-	["throbbinhood-pagle"]=1,
+	["throbbinhood-pagle"]=11,
 	["thugabear-raden"]=17,
 	["thugfist-pagle"]=10,
 	["thuggx-pagle"]=1,
