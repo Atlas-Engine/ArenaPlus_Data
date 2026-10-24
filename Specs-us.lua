@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5195 characters, read 2026-10-24 10:59 AM.
+-- Region us, 5195 characters, read 2026-10-24 11:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5861,7 +5861,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["conjrexcuses-pagle"]=1,
 	["constantinej-raden"]=13,
 	["coochiemnstr-raden"]=1,
-	["coorsbanq-galakras"]=20,
+	["coorsbanq-galakras"]=18,
 	["cooterflute-raden"]=7,
 	["cooterman-raden"]=10,
 	["cornflakes-raden"]=3,
@@ -6262,7 +6262,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["drgspit-pagle"]=28,
 	["drhub-galakras"]=21,
 	["driadstorm-raden"]=12,
-	["drimitrix-galakras"]=15,
+	["drimitrix-galakras"]=19,
 	["drinkbeerz-raden"]=12,
 	["dripkingk-pagle"]=1,
 	["drippydrzl-galakras"]=6,
@@ -8052,7 +8052,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["moufasta-pagle"]=5,
 	["mozzi-raden"]=7,
 	["mp-raden"]=9,
-	["mslusty-pagle"]=10,
+	["mslusty-pagle"]=4,
 	["msr-galakras"]=3,
 	["msthickmeat-raden"]=22,
 	["mtj-atiesh"]=17,
