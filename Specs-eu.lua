@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5348 characters, read 2026-10-24 03:00 AM.
+-- Region eu, 5348 characters, read 2026-10-24 04:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2739,7 +2739,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["napoléon-auberdine"]=70,
 	["narayx-shekzeer"]=11,
 	["narayz-shekzeer"]=11,
-	["nardero-shekzeer"]=10,
 	["nârutohokage-shekzeer"]=10,
 	["nås-shekzeer"]=41,
 	["nàscha-ook-ook"]=11,
@@ -4545,7 +4544,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["xistens-shekzeer"]=41,
 	["xkiller-shekzeer"]=11,
 	["xkxs-shekzeer"]=41,
-	["xlader-shekzeer"]=10,
+	["xlader-shekzeer"]=11,
 	["xladerinø-shekzeer"]=11,
 	["xladérz-shekzeer"]=10,
 	["xladerzf-shekzeer"]=11,
@@ -6330,7 +6329,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["dwgz-shekzeer"]=9,
 	["dxab-shekzeer"]=22,
 	["dxbam-shekzeer"]=9,
-	["dxbme-shekzeer"]=2,
+	["dxbme-shekzeer"]=10,
 	["dxbom-shekzeer"]=21,
 	["dynalhia-mirage-raceway"]=18,
 	["dynarsia-shekzeer"]=3,
@@ -7981,7 +7980,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["naprikole-shekzeer"]=0,
 	["narayx-shekzeer"]=1,
 	["narayz-shekzeer"]=2,
-	["nardero-shekzeer"]=15,
+	["nardero-shekzeer"]=0,
 	["nârutohokage-shekzeer"]=7,
 	["nås-shekzeer"]=11,
 	["nàscha-ook-ook"]=6,
@@ -9652,7 +9651,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["visionary-garalon"]=15,
 	["visiren-shekzeer"]=26,
 	["vispe-everlook"]=24,
-	["vivÿ-shekzeer"]=22,
+	["vivÿ-shekzeer"]=9,
 	["vizhivalovo-shekzeer"]=6,
 	["vizir-shekzeer"]=11,
 	["vladelecpvz-shekzeer"]=20,
