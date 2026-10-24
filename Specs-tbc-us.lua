@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9391 characters, read 2026-10-23 10:58 PM.
+-- Region tbc-us, 9391 characters, read 2026-10-23 11:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9783,7 +9783,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bailerz-dreamscythe"]=4,
 	["bainal-dreamscythe"]=14,
 	["baitosenshi-nightslayer"]=2,
-	["baiwuya-nightslayer"]=6,
+	["baiwuya-nightslayer"]=4,
 	["bajalol-nightslayer"]=10,
 	["bajamode-nightslayer"]=7,
 	["bajaphos-nightslayer"]=17,
@@ -12718,7 +12718,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["handholding-nightslayer"]=10,
 	["handofgodx-nightslayer"]=5,
 	["handsumlad-nightslayer"]=5,
-	["hanibal-nightslayer"]=5,
+	["hanibal-nightslayer"]=8,
 	["hanicor-nightslayer"]=1,
 	["hanrii-nightslayer"]=19,
 	["hansinn-nightslayer"]=4,
@@ -13952,7 +13952,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["lickmenip-nightslayer"]=1,
 	["lido-nightslayer"]=15,
 	["lidruzybussy-nightslayer"]=11,
-	["liegr-nightslayer"]=5,
+	["liegr-nightslayer"]=8,
 	["lierra-nightslayer"]=11,
 	["lifeordef-nightslayer"]=7,
 	["liferox-nightslayer"]=1,
@@ -14179,7 +14179,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["lvsham-nightslayer"]=10,
 	["lvutupac-nightslayer"]=11,
 	["lw-nightslayer"]=7,
-	["lxr-nightslayer"]=2,
+	["lxr-nightslayer"]=18,
 	["lyariïi-dreamscythe"]=3,
 	["lyricalz-nightslayer"]=1,
 	["lyserdz-nightslayer"]=0,

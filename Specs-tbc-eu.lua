@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9750 characters, read 2026-10-23 10:59 PM.
+-- Region tbc-eu, 9750 characters, read 2026-10-23 11:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10005,7 +10005,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["arbee-spineshatter"]=1,
 	["arbitrazhnik-spineshatter"]=11,
 	["arcaily-spineshatter"]=11,
-	["arcanebrasto-thunderstrike"]=4,
+	["arcanebrasto-thunderstrike"]=9,
 	["archpriestes-spineshatter"]=8,
 	["arcueid-spineshatter"]=2,
 	["arden-thunderstrike"]=6,
@@ -13783,7 +13783,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["kakatank-spineshatter"]=7,
 	["kakavi-spineshatter"]=9,
 	["kakkará-spineshatter"]=11,
-	["kakuriyø-spineshatter"]=14,
+	["kakuriyø-spineshatter"]=18,
 	["kakzu-spineshatter"]=1,
 	["kàla-spineshatter"]=6,
 	["kaladar-spineshatter"]=1,
@@ -16316,7 +16316,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["pushbane-spineshatter"]=25,
 	["pushistiymeh-spineshatter"]=6,
 	["pushpullegs-spineshatter"]=2,
-	["pusipulla-spineshatter"]=16,
+	["pusipulla-spineshatter"]=25,
 	["puskapaska-spineshatter"]=14,
 	["pusslayerx-spineshatter"]=3,
 	["putánochka-spineshatter"]=5,
