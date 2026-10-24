@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5351 characters, read 2026-10-24 12:00 PM.
+-- Region eu, 5351 characters, read 2026-10-24 01:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3469,11 +3469,8 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["rydothetrap-everlook"]=11,
 	["rydothetwink-everlook"]=40,
 	["rydothewar-everlook"]=10,
-	["rydothewl-everlook"]=10,
+	["rydothewl-everlook"]=11,
 	["ryles-hoptallus"]=10,
-	["ryuuko-shekzeer"]=11,
-	["ryuuman-shekzeer"]=10,
-	["ryuuren-garalon"]=10,
 	["saala-shekzeer"]=41,
 	["saasaa-shekzeer"]=111,
 	["sachikø-shekzeer"]=11,
@@ -5284,7 +5281,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["alalia-mirage-raceway"]=3,
 	["alavasca-mirage-raceway"]=9,
 	["albaner-ook-ook"]=2,
-	["albatrowss-shekzeer"]=9,
+	["albatrowss-shekzeer"]=12,
 	["alekcs-auberdine"]=25,
 	["alenkovich-shekzeer"]=17,
 	["alepoudiaris-garalon"]=15,
@@ -8541,7 +8538,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["rakamvp-shekzeer"]=13,
 	["raketenrudy-everlook"]=4,
 	["rakû-auberdine"]=1,
-	["raman-garalon"]=13,
+	["raman-garalon"]=19,
 	["ramsei-auberdine"]=25,
 	["randomboi-shekzeer"]=0,
 	["randomfury-mirage-raceway"]=19,
@@ -8748,13 +8745,13 @@ ns.SPECS_BY_REGION["eu"] = {
 	["rydothetrap-everlook"]=20,
 	["rydothetwink-everlook"]=7,
 	["rydothewar-everlook"]=1,
-	["rydothewl-everlook"]=17,
+	["rydothewl-everlook"]=23,
 	["ryles-hoptallus"]=12,
 	["ryscan-garalon"]=0,
 	["ryuujin-shekzeer"]=0,
-	["ryuuko-shekzeer"]=17,
-	["ryuuman-shekzeer"]=4,
-	["ryuuren-garalon"]=9,
+	["ryuuko-shekzeer"]=0,
+	["ryuuman-shekzeer"]=0,
+	["ryuuren-garalon"]=0,
 	["saala-shekzeer"]=1,
 	["saasaa-shekzeer"]=16,
 	["sachikø-shekzeer"]=9,
