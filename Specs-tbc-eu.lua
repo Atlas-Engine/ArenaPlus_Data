@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9753 characters, read 2026-10-24 05:59 AM.
+-- Region tbc-eu, 9753 characters, read 2026-10-24 06:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -14227,7 +14227,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["lafaro-thunderstrike"]=5,
 	["láflamezy-spineshatter"]=19,
 	["laflemmeqt-spineshatter"]=11,
-	["lafleurs-spineshatter"]=11,
+	["lafleurs-spineshatter"]=23,
 	["lagorda-spineshatter"]=12,
 	["lainmind-spineshatter"]=3,
 	["laitock-spineshatter"]=3,
@@ -14254,7 +14254,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["lapskausen-spineshatter"]=1,
 	["lapzakiranal-thunderstrike"]=18,
 	["largeoilrig-spineshatter"]=11,
-	["larksoni-spineshatter"]=5,
+	["larksoni-spineshatter"]=15,
 	["larkzen-spineshatter"]=17,
 	["larryfïnk-spineshatter"]=4,
 	["larskalas-spineshatter"]=1,
@@ -16859,7 +16859,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["sákuråßurst-spineshatter"]=3,
 	["sakuyax-spineshatter"]=9,
 	["salamolekula-spineshatter"]=13,
-	["salamstyxie-spineshatter"]=3,
+	["salamstyxie-spineshatter"]=19,
 	["salax-spineshatter"]=6,
 	["salaxar-spineshatter"]=6,
 	["saldor-thunderstrike"]=5,
@@ -17821,7 +17821,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["suburban-spineshatter"]=3,
 	["subzrø-spineshatter"]=3,
 	["sucemaglaive-spineshatter"]=3,
-	["suciamagrebi-spineshatter"]=2,
+	["suciamagrebi-spineshatter"]=17,
 	["suddin-spineshatter"]=2,
 	["sudokunt-spineshatter"]=23,
 	["suezqt-spineshatter"]=3,
@@ -19078,7 +19078,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["xolaire-spineshatter"]=2,
 	["xololo-spineshatter"]=3,
 	["xoolol-spineshatter"]=3,
-	["xpeng-spineshatter"]=19,
+	["xpeng-spineshatter"]=3,
 	["xqxqxq-spineshatter"]=17,
 	["xrg-spineshatter"]=13,
 	["xroaar-spineshatter"]=12,

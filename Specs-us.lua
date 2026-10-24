@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5190 characters, read 2026-10-24 05:59 AM.
+-- Region us, 5190 characters, read 2026-10-24 06:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1895,6 +1895,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["haruchann-pagle"]=11,
 	["hashie-pagle"]=60,
 	["hatehord-pagle"]=10,
+	["havitýx-raden"]=11,
 	["hãzel-pagle"]=41,
 	["hazi-galakras"]=21,
 	["hazì-galakras"]=60,
@@ -5451,7 +5452,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["bistwo-pagle"]=0,
 	["bistwo-raden"]=0,
 	["bisü-pagle"]=3,
-	["bitsuu-raden"]=2,
+	["bitsuu-raden"]=16,
 	["bizznick-pagle"]=23,
 	["bjørnn-galakras"]=7,
 	["bjòrrn-pagle"]=15,
@@ -6918,7 +6919,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["haruchann-pagle"]=10,
 	["hashie-pagle"]=12,
 	["hatehord-pagle"]=18,
-	["havitýx-raden"]=0,
+	["havitýx-raden"]=14,
 	["hãzel-pagle"]=17,
 	["hazi-galakras"]=20,
 	["hazì-galakras"]=12,
@@ -7405,7 +7406,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["kcidymkcus-arugal-au"]=0,
 	["keeferjar-pagle"]=3,
 	["keekster-pagle"]=9,
-	["keepithood-pagle"]=34,
+	["keepithood-pagle"]=14,
 	["kegsmashed-raden"]=4,
 	["kekmeister-raden"]=5,
 	["kelaía-pagle"]=9,
