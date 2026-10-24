@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5192 characters, read 2026-10-24 05:59 PM.
+-- Region us, 5192 characters, read 2026-10-24 06:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -484,7 +484,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["billcolector-pagle"]=221,
 	["billÿ-pagle"]=10,
 	["binggrae-pagle"]=11,
-	["bingylol-pagle"]=10,
 	["binji-galakras"]=20,
 	["binjito-galakras"]=80,
 	["bipbipbapbap-raden"]=80,
@@ -5339,7 +5338,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["battleground-pagle"]=17,
 	["battleground-raden"]=4,
 	["battlehealz-galakras"]=21,
-	["bayol-raden"]=21,
+	["bayol-raden"]=13,
 	["bâz-arugal-au"]=1,
 	["bazblast-arugal-au"]=15,
 	["bazflay-arugal-au"]=21,
@@ -5421,7 +5420,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["bigcowa-galakras"]=17,
 	["bigcut-immerseus"]=34,
 	["bigdaddymhem-arugal-au"]=0,
-	["bigdaddyx-nazgrim"]=4,
+	["bigdaddyx-nazgrim"]=10,
 	["bigdkslams-raden"]=7,
 	["bigdmayhem-pagle"]=0,
 	["bigdudú-raden"]=17,
@@ -5447,7 +5446,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["billcolector-pagle"]=5,
 	["billÿ-pagle"]=16,
 	["binggrae-pagle"]=2,
-	["bingylol-pagle"]=7,
+	["bingylol-pagle"]=0,
 	["binji-galakras"]=22,
 	["binjito-galakras"]=20,
 	["bipbipbapbap-raden"]=17,
@@ -5457,7 +5456,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["bistu-sulfuras"]=0,
 	["bistwo-pagle"]=0,
 	["bistwo-raden"]=0,
-	["bisü-pagle"]=3,
+	["bisü-pagle"]=18,
 	["bitsuu-raden"]=16,
 	["bizznick-pagle"]=23,
 	["bjørnn-galakras"]=7,
@@ -5741,7 +5740,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["chadjuicy-pagle"]=7,
 	["chadstorm-raden"]=7,
 	["chadwack-galakras"]=23,
-	["chakrabolt-pagle"]=28,
+	["chakrabolt-pagle"]=24,
 	["chambeazley-pagle"]=2,
 	["chamboyswag-nazgrim"]=19,
 	["champlock-raden"]=24,
@@ -6770,7 +6769,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["glasstoker-pagle"]=17,
 	["glayzed-raden"]=19,
 	["gleef-pagle"]=0,
-	["glinna-raden"]=21,
+	["glinna-raden"]=9,
 	["glitcho-immerseus"]=2,
 	["glitercheeks-pagle"]=17,
 	["glizzyjizzy-nazgrim"]=2,
@@ -6984,7 +6983,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["hibashiba-galakras"]=20,
 	["hickery-arugal-au"]=14,
 	["hideandhunt-galakras"]=20,
-	["hifukface-raden"]=12,
+	["hifukface-raden"]=5,
 	["hifvckface-raden"]=10,
 	["highc-galakras"]=22,
 	["highç-galakras"]=10,
