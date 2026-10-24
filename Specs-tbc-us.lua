@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9389 characters, read 2026-10-23 06:58 PM.
+-- Region tbc-us, 9389 characters, read 2026-10-23 07:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11413,7 +11413,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["donbod-nightslayer"]=2,
 	["dondep-nightslayer"]=19,
 	["dondoner-nightslayer"]=2,
-	["donfryé-nightslayer"]=2,
+	["donfryé-nightslayer"]=20,
 	["donkeyz-nightslayer"]=4,
 	["donnolan-nightslayer"]=1,
 	["donnybars-dreamscythe"]=2,
@@ -13395,7 +13395,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["jøannadark-nightslayer"]=23,
 	["joapydoapydo-nightslayer"]=16,
 	["jodaldal-nightslayer"]=7,
-	["jodda-nightslayer"]=14,
+	["jodda-nightslayer"]=1,
 	["joeasy-dreamscythe"]=10,
 	["joebuu-nightslayer"]=2,
 	["joedurotar-nightslayer"]=5,
@@ -13739,7 +13739,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["komos-nightslayer"]=4,
 	["kompal-dreamscythe"]=11,
 	["komyy-nightslayer"]=12,
-	["konnz-nightslayer"]=8,
+	["konnz-nightslayer"]=5,
 	["kooba-nightslayer"]=5,
 	["kook-nightslayer"]=7,
 	["kordial-dreamscythe"]=11,
@@ -16091,7 +16091,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["rocuroníum-nightslayer"]=5,
 	["rocyo-nightslayer"]=5,
 	["rodmaster-dreamscythe"]=17,
-	["rodshox-dreamscythe"]=24,
+	["rodshox-dreamscythe"]=10,
 	["rodstewart-nightslayer"]=19,
 	["roebu-nightslayer"]=5,
 	["røflz-nightslayer"]=14,
