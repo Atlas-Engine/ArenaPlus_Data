@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9389 characters, read 2026-10-24 04:58 PM.
+-- Region tbc-us, 9389 characters, read 2026-10-24 05:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10238,7 +10238,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bonecrank-dreamscythe"]=8,
 	["bonecrushin-dreamscythe"]=2,
 	["bonejovie-nightslayer"]=1,
-	["bonelink-nightslayer"]=5,
+	["bonelink-nightslayer"]=8,
 	["bonesmoke-nightslayer"]=5,
 	["boneszy-dreamscythe"]=5,
 	["bonifacio-nightslayer"]=10,
@@ -10289,7 +10289,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bottomburps-nightslayer"]=9,
 	["bottomdwellr-nightslayer"]=5,
 	["bourbondrunk-dreamscythe"]=13,
-	["boutjou-dreamscythe"]=2,
+	["boutjou-dreamscythe"]=20,
 	["bouzies-nightslayer"]=7,
 	["boward-nightslayer"]=4,
 	["bòwdòwn-nightslayer"]=5,
@@ -10716,14 +10716,14 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["chronlyy-dreamscythe"]=1,
 	["chtibyxes-nightslayer"]=11,
 	["chubbinsback-dreamscythe"]=2,
-	["chuckbleez-nightslayer"]=9,
+	["chuckbleez-nightslayer"]=11,
 	["chuckit-nightslayer"]=2,
 	["chuckyz-nightslayer"]=0,
 	["chudlite-nightslayer"]=3,
 	["chudmaxxerx-nightslayer"]=5,
 	["chudsando-nightslayer"]=4,
 	["chügz-nightslayer"]=10,
-	["chugzila-nightslayer"]=7,
+	["chugzila-nightslayer"]=3,
 	["chules-dreamscythe"]=5,
 	["chumpjohn-nightslayer"]=7,
 	["chumpz-nightslayer"]=5,
@@ -15110,7 +15110,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ogrtdlol-nightslayer"]=5,
 	["ogstubbz-nightslayer"]=4,
 	["ogstubbzxo-nightslayer"]=5,
-	["Øgx-nightslayer"]=5,
+	["Øgx-nightslayer"]=8,
 	["ohana-nightslayer"]=10,
 	["ohanaftw-nightslayer"]=10,
 	["ohdeng-nightslayer"]=3,
@@ -18525,7 +18525,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["yungpumper-nightslayer"]=20,
 	["yuumim-dreamscythe"]=6,
 	["yuumior-dreamscythe"]=2,
-	["yuzx-nightslayer"]=6,
+	["yuzx-nightslayer"]=4,
 	["za-nightslayer"]=12,
 	["zaag-nightslayer"]=10,
 	["zaajaa-nightslayer"]=14,
