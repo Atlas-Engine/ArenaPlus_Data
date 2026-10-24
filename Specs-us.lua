@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5189 characters, read 2026-10-23 08:59 PM.
+-- Region us, 5189 characters, read 2026-10-23 09:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3332,7 +3332,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["peachpounder-pagle"]=10,
 	["peakedintbc-pagle"]=41,
 	["pearlescence-raden"]=111,
-	["peasalou-raden"]=10,
+	["peasalou-raden"]=11,
 	["pebblefist-pagle"]=30,
 	["peckrwood-immerseus"]=41,
 	["pedreirø-nazgrim"]=80,
@@ -6555,7 +6555,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["fisherpete-arugal-au"]=6,
 	["fistatoosh-galakras"]=27,
 	["fistenjoyer-raden"]=4,
-	["fistofdiddy-pagle"]=10,
+	["fistofdiddy-pagle"]=4,
 	["fistypants-pagle"]=10,
 	["fivefootirl-pagle"]=10,
 	["fknrat-pagle"]=16,
@@ -7090,7 +7090,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ibituã-nazgrim"]=17,
 	["iboptanks-nazgrim"]=2,
 	["ibuildwalls-pagle"]=24,
-	["icarryhim-galakras"]=3,
+	["icarryhim-galakras"]=20,
 	["icaru-raden"]=10,
 	["icarú-raden"]=10,
 	["iceblight-nazgrim"]=0,
@@ -7244,7 +7244,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["jaggon-galakras"]=7,
 	["jaggz-raden"]=20,
 	["jaguarpaw-lei-shen"]=12,
-	["jãiãh-pagle"]=20,
+	["jãiãh-pagle"]=3,
 	["jalkun-raden"]=2,
 	["jamalbanks-raden"]=1,
 	["jámu-raden"]=16,
@@ -7479,7 +7479,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["kledemarcos-nazgrim"]=15,
 	["klenzen-raden"]=10,
 	["kleptix-raden"]=34,
-	["knockoutdt-pagle"]=21,
+	["knockoutdt-pagle"]=9,
 	["knottypawz-pagle"]=17,
 	["knuckles-pagle"]=7,
 	["knucklès-pagle"]=2,
@@ -8901,7 +8901,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["sanguinious-lei-shen"]=7,
 	["sàngüinius-pagle"]=2,
 	["saphiiry-galakras"]=12,
-	["saphub-galakras"]=34,
+	["saphub-galakras"]=14,
 	["saplight-galakras"]=0,
 	["sapoo-pagle"]=14,
 	["sappinturtle-pagle"]=14,
@@ -9467,7 +9467,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["tairné-galakras"]=14,
 	["takù-raden"]=17,
 	["talksíck-pagle"]=1,
-	["tamerac-raden"]=8,
+	["tamerac-raden"]=28,
 	["tamhee-immerseus"]=4,
 	["tammyjane-pagle"]=16,
 	["tamnar-immerseus"]=20,
@@ -9615,7 +9615,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["toorun-pagle"]=21,
 	["topshottaa-pagle"]=7,
 	["toquiktokill-benediction"]=20,
-	["torco-immerseus"]=18,
+	["torco-immerseus"]=3,
 	["torontopally-raden"]=2,
 	["tortaslayer-raden"]=4,
 	["tosco-raden"]=16,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9749 characters, read 2026-10-23 08:59 PM.
+-- Region tbc-eu, 9749 characters, read 2026-10-23 09:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -13651,7 +13651,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["joebrown-spineshatter"]=3,
 	["joee-spineshatter"]=3,
 	["joetime-spineshatter"]=19,
-	["jofa-spineshatter"]=13,
+	["jofa-spineshatter"]=14,
 	["jofrey-spineshatter"]=3,
 	["joghurtman-spineshatter"]=7,
 	["jøhncena-spineshatter"]=11,
@@ -16979,7 +16979,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["scoulton-spineshatter"]=19,
 	["scozii-spineshatter"]=12,
 	["scratchx-spineshatter"]=13,
-	["scratm-spineshatter"]=4,
+	["scratm-spineshatter"]=9,
 	["screamx-spineshatter"]=3,
 	["screepér-thunderstrike"]=14,
 	["screpy-spineshatter"]=5,
@@ -18938,7 +18938,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["worstdruidx-spineshatter"]=1,
 	["wørstðwarf-spineshatter"]=5,
 	["wotii-spineshatter"]=3,
-	["wotiw-spineshatter"]=15,
+	["wotiw-spineshatter"]=5,
 	["wotiww-spineshatter"]=5,
 	["wotlkisdgsht-spineshatter"]=11,
 	["wotlkwar-spineshatter"]=5,
