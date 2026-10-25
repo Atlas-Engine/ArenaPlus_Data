@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5196 characters, read 2026-10-25 06:59 AM.
+-- Region us, 5196 characters, read 2026-10-25 07:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -298,7 +298,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["atowel-galakras"]=50,
 	["atrâyu-pagle"]=100,
 	["atreyuz-galakras"]=20,
-	["Åuditore-raden"]=11,
 	["augsburg-pagle"]=51,
 	["aurasmith-raden"]=10,
 	["aureate-raden"]=11,
@@ -2848,6 +2847,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["miercy-galakras"]=11,
 	["mightymagus-raden"]=10,
 	["migué-pagle"]=10,
+	["mihal-nazgrim"]=50,
 	["miichael-pagle"]=100,
 	["miintpwnagex-nazgrim"]=21,
 	["mikaelios-raden"]=10,
@@ -5251,7 +5251,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["atowel-galakras"]=13,
 	["atrâyu-pagle"]=16,
 	["atreyuz-galakras"]=7,
-	["Åuditore-raden"]=10,
 	["augsburg-pagle"]=4,
 	["aurasmith-raden"]=16,
 	["aureate-raden"]=2,
@@ -6079,7 +6078,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["deputyd-lei-shen"]=5,
 	["derion-galakras"]=16,
 	["derklek-pagle"]=18,
-	["desdrix-pagle"]=30,
+	["desdrix-pagle"]=7,
 	["desecration-raden"]=6,
 	["despair-raden"]=5,
 	["dessicate-lei-shen"]=16,
@@ -6917,7 +6916,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["harrick-immerseus"]=34,
 	["härrick-immerseus"]=20,
 	["harrydotter-raden"]=28,
-	["harthgar-nazgrim"]=3,
+	["harthgar-nazgrim"]=20,
 	["haruchann-pagle"]=10,
 	["hashie-pagle"]=12,
 	["hatehord-pagle"]=18,
@@ -7212,7 +7211,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["isåbell-pagle"]=6,
 	["isabellee-raden"]=1,
 	["isbxr-raden"]=14,
-	["isg-pagle"]=23,
+	["isg-pagle"]=30,
 	["ishootropes-raden"]=7,
 	["ishotyou-galakras"]=3,
 	["isonuoli-pagle"]=3,
@@ -7242,7 +7241,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["jadei-grobbulus"]=0,
 	["jadespwn-raden"]=10,
 	["jâdestyles-nazgrim"]=4,
-	["jäeger-raden"]=20,
+	["jäeger-raden"]=3,
 	["jæý-raden"]=6,
 	["jáffáar-pagle"]=24,
 	["jáffáar-raden"]=24,
@@ -7251,7 +7250,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["jaggon-galakras"]=7,
 	["jaggz-raden"]=20,
 	["jaguarpaw-lei-shen"]=12,
-	["jãiãh-pagle"]=3,
+	["jãiãh-pagle"]=18,
 	["jalkun-raden"]=2,
 	["jamalbanks-raden"]=1,
 	["jámu-raden"]=16,
@@ -7930,6 +7929,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["miercy-galakras"]=16,
 	["mightymagus-raden"]=1,
 	["migué-pagle"]=16,
+	["mihal-nazgrim"]=1,
 	["miichael-pagle"]=2,
 	["miintpwnagex-nazgrim"]=18,
 	["mikaelios-raden"]=2,
