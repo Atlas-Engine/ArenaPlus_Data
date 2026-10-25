@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9367 characters, read 2026-10-25 01:58 AM.
+-- Region tbc-us, 9367 characters, read 2026-10-25 02:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11798,7 +11798,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["escanorlól-nightslayer"]=4,
 	["escapex-nightslayer"]=2,
 	["escrimah-dreamscythe"]=2,
-	["esfandina-nightslayer"]=9,
+	["esfandina-nightslayer"]=11,
 	["eshie-nightslayer"]=13,
 	["eskashammy-nightslayer"]=10,
 	["eskimokissez-nightslayer"]=17,
@@ -12857,7 +12857,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["hogcaller-nightslayer"]=10,
 	["hogpom-nightslayer"]=1,
 	["hogseason-nightslayer"]=19,
-	["hoi-nightslayer"]=8,
+	["hoi-nightslayer"]=5,
 	["hoip-nightslayer"]=1,
 	["holamigo-nightslayer"]=5,
 	["holdenhands-nightslayer"]=1,
@@ -18175,7 +18175,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["willu-nightslayer"]=18,
 	["windfurrys-nightslayer"]=19,
 	["windfuryo-nightslayer"]=19,
-	["windsofsht-nightslayer"]=24,
+	["windsofsht-nightslayer"]=10,
 	["wingp-nightslayer"]=1,
 	["winnebango-nightslayer"]=10,
 	["winnergreen-nightslayer"]=9,
@@ -18566,7 +18566,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["zhaomei-nightslayer"]=9,
 	["zhevek-dreamscythe"]=15,
 	["zhoomies-nightslayer"]=13,
-	["zi-dreamscythe"]=18,
+	["zi-dreamscythe"]=2,
 	["ziaj-nightslayer"]=24,
 	["ziatt-nightslayer"]=2,
 	["zibra-dreamscythe"]=1,
