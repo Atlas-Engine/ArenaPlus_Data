@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9373 characters, read 2026-10-25 03:58 AM.
+-- Region tbc-us, 9373 characters, read 2026-10-25 04:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9966,7 +9966,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bibidoubleyu-nightslayer"]=1,
 	["bibimbop-nightslayer"]=11,
 	["bibliophile-nightslayer"]=15,
-	["bickuri-nightslayer"]=4,
+	["bickuri-nightslayer"]=6,
 	["bidad-nightslayer"]=12,
 	["bidenlolsham-nightslayer"]=24,
 	["biestro-nightslayer"]=5,
@@ -10706,7 +10706,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["chuckyz-nightslayer"]=0,
 	["chudlite-nightslayer"]=3,
 	["chudmaxxerx-nightslayer"]=5,
-	["chudsando-nightslayer"]=6,
+	["chudsando-nightslayer"]=4,
 	["chügz-nightslayer"]=10,
 	["chugzila-nightslayer"]=22,
 	["chules-dreamscythe"]=5,
@@ -12029,7 +12029,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["fictianpal-nightslayer"]=11,
 	["fictianrogue-nightslayer"]=5,
 	["figenzo-nightslayer"]=3,
-	["figglez-nightslayer"]=6,
+	["figglez-nightslayer"]=4,
 	["fightmeandie-nightslayer"]=4,
 	["fightup-nightslayer"]=4,
 	["figuro-nightslayer"]=7,
@@ -15080,7 +15080,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ocewarlord-nightslayer"]=23,
 	["ocxd-nightslayer"]=5,
 	["odabipoc-nightslayer"]=13,
-	["odderpop-nightslayer"]=8,
+	["odderpop-nightslayer"]=5,
 	["oddvark-nightslayer"]=5,
 	["odeum-nightslayer"]=4,
 	["odumz-nightslayer"]=2,
@@ -15416,7 +15416,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["phentanyll-nightslayer"]=1,
 	["phi-nightslayer"]=7,
 	["phofilling-dreamscythe"]=2,
-	["phokintotems-dreamscythe"]=10,
+	["phokintotems-dreamscythe"]=24,
 	["phonkie-nightslayer"]=10,
 	["phonomenal-dreamscythe"]=1,
 	["phorken-dreamscythe"]=17,
@@ -15424,7 +15424,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["photongeyser-dreamscythe"]=2,
 	["phreshasfuq-nightslayer"]=23,
 	["phrostatute-nightslayer"]=8,
-	["phtuart-nightslayer"]=12,
+	["phtuart-nightslayer"]=1,
 	["phunkmastax-nightslayer"]=5,
 	["phurken-dreamscythe"]=7,
 	["piakpiak-nightslayer"]=4,
@@ -16176,7 +16176,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["rvca-nightslayer"]=8,
 	["rvcax-nightslayer"]=5,
 	["rxger-nightslayer"]=10,
-	["rxllex-nightslayer"]=6,
+	["rxllex-nightslayer"]=4,
 	["rxnoc-nightslayer"]=19,
 	["rxx-nightslayer"]=2,
 	["rxxa-nightslayer"]=0,
