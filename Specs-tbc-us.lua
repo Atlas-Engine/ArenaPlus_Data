@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9377 characters, read 2026-10-25 04:58 PM.
+-- Region tbc-us, 9377 characters, read 2026-10-25 05:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12064,7 +12064,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["firehide-nightslayer"]=7,
 	["firenuggets-nightslayer"]=6,
 	["firian-nightslayer"]=25,
-	["firstglobalz-dreamscythe"]=10,
+	["firstglobalz-dreamscythe"]=19,
 	["firsttimetbc-nightslayer"]=14,
 	["firsure-nightslayer"]=3,
 	["fishagain-nightslayer"]=23,
@@ -14200,7 +14200,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["macroflayge-nightslayer"]=12,
 	["mãdã-dreamscythe"]=12,
 	["madclaw-nightslayer"]=7,
-	["madeinoregon-nightslayer"]=15,
+	["madeinoregon-nightslayer"]=17,
 	["madgame-nightslayer"]=16,
 	["madgun-nightslayer"]=13,
 	["madnessxx-nightslayer"]=5,
@@ -17111,7 +17111,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["stormfurei-nightslayer"]=24,
 	["stormheralds-nightslayer"]=2,
 	["stormonks-nightslayer"]=24,
-	["stormtroopa-nightslayer"]=17,
+	["stormtroopa-nightslayer"]=15,
 	["stormweener-dreamscythe"]=2,
 	["stormxy-nightslayer"]=24,
 	["stormydanels-nightslayer"]=10,
