@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5194 characters, read 2026-10-25 11:59 AM.
+-- Region us, 5194 characters, read 2026-10-25 12:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1397,7 +1397,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["eoeoeoeoeoe-raden"]=111,
 	["epsilon-pagle"]=11,
 	["erass-nazgrim"]=100,
-	["erieshotz-pagle"]=10,
+	["erieshotz-pagle"]=11,
 	["erik-nazgrim"]=60,
 	["erikane-nazgrim"]=50,
 	["erikhai-nazgrim"]=20,
@@ -6500,7 +6500,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["fatwog-raden"]=16,
 	["faylaxd-raden"]=5,
 	["fctry-raden"]=3,
-	["fcx-raden"]=1,
+	["fcx-raden"]=11,
 	["fearbane-pagle"]=26,
 	["feardaddy-pagle"]=2,
 	["feardot-pagle"]=28,
@@ -8328,7 +8328,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["olimpux-pagle"]=20,
 	["olitha-galakras"]=14,
 	["oliverqueenn-galakras"]=20,
-	["Õmegaa-raden"]=18,
+	["Õmegaa-raden"]=20,
 	["omegaslammin-pagle"]=0,
 	["omgilovewow-pagle"]=19,
 	["omnd-nazgrim"]=17,
@@ -8722,7 +8722,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["rel-nazgrim"]=26,
 	["relapse-lei-shen"]=1,
 	["relaxx-lei-shen"]=9,
-	["relichh-pagle"]=26,
+	["relichh-pagle"]=25,
 	["réligion-raden"]=25,
 	["relikemong-pagle"]=28,
 	["rellah-pagle"]=9,
@@ -10012,7 +10012,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["xarshadow-immerseus"]=24,
 	["xarstorm-immerseus"]=1,
 	["xatica-pagle"]=14,
-	["xatyka-pagle"]=1,
+	["xatyka-pagle"]=11,
 	["xavilier-pagle"]=29,
 	["xb-galakras"]=10,
 	["xcen-raden"]=18,
