@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5363 characters, read 2026-10-24 10:00 PM.
+-- Region eu, 5365 characters, read 2026-10-24 11:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -605,6 +605,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["bradorn-shekzeer"]=10,
 	["brainduck-garalon"]=220,
 	["brakmany-garalon"]=101,
+	["bralle-shekzeer"]=10,
 	["brapbraphoe-shekzeer"]=10,
 	["brattan-shekzeer"]=110,
 	["braver-shekzeer"]=10,
@@ -3962,7 +3963,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["syrsk-shekzeer"]=11,
 	["sysmann-hoptallus"]=11,
 	["szarfosclass-norushen"]=21,
-	["szasha-shekzeer"]=10,
 	["szexjebøaka-mirage-raceway"]=11,
 	["szh-shekzeer"]=11,
 	["szx-shekzeer"]=11,
@@ -4443,6 +4443,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["wheelygood-shekzeer"]=11,
 	["whereâreyûat-everlook"]=11,
 	["wheyx-shekzeer"]=11,
+	["wheyxthree-shekzeer"]=11,
 	["wheyxw-shekzeer"]=11,
 	["whipmepls-shekzeer"]=11,
 	["whisp-garalon"]=41,
@@ -5757,6 +5758,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bradorn-shekzeer"]=33,
 	["brainduck-garalon"]=14,
 	["brakmany-garalon"]=23,
+	["bralle-shekzeer"]=2,
 	["brapbraphoe-shekzeer"]=2,
 	["brattan-shekzeer"]=16,
 	["braver-shekzeer"]=4,
@@ -6882,6 +6884,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["henrich-shekzeer"]=9,
 	["héra-shekzeer"]=9,
 	["herja-shekzeer"]=0,
+	["herjâ-shekzeer"]=0,
 	["hermán-shekzeer"]=15,
 	["hermenigilda-shekzeer"]=1,
 	["hetty-shekzeer"]=16,
@@ -9275,7 +9278,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["syrsk-shekzeer"]=15,
 	["sysmann-hoptallus"]=26,
 	["szarfosclass-norushen"]=1,
-	["szasha-shekzeer"]=2,
 	["szexjebøaka-mirage-raceway"]=15,
 	["szh-shekzeer"]=2,
 	["szx-shekzeer"]=2,
@@ -9782,6 +9784,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["wheelygood-shekzeer"]=4,
 	["whereâreyûat-everlook"]=23,
 	["wheyx-shekzeer"]=12,
+	["wheyxthree-shekzeer"]=12,
 	["wheyxw-shekzeer"]=25,
 	["whipmepls-shekzeer"]=8,
 	["whisp-garalon"]=11,
