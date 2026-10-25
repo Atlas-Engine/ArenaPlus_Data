@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9378 characters, read 2026-10-25 12:58 PM.
+-- Region tbc-us, 9378 characters, read 2026-10-25 01:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9565,7 +9565,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["Âppie-nightslayer"]=5,
 	["appledust-nightslayer"]=5,
 	["appleturd-nightslayer"]=1,
-	["apríll-nightslayer"]=6,
+	["apríll-nightslayer"]=4,
 	["apsis-nightslayer"]=5,
 	["aquanegus-nightslayer"]=10,
 	["aquapony-dreamscythe"]=3,
@@ -11558,7 +11558,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["druidsterly-nightslayer"]=3,
 	["druidtommy-nightslayer"]=7,
 	["drukings-nightslayer"]=7,
-	["drulekin-nightslayer"]=8,
+	["drulekin-nightslayer"]=5,
 	["drules-nightslayer"]=1,
 	["drulok-nightslayer"]=3,
 	["drunkdracula-nightslayer"]=5,
@@ -11728,7 +11728,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["elimjr-nightslayer"]=18,
 	["elitebeat-nightslayer"]=15,
 	["elivicky-nightslayer"]=4,
-	["elivvood-dreamscythe"]=7,
+	["elivvood-dreamscythe"]=3,
 	["elkykyi-nightslayer"]=2,
 	["ellajiayi-nightslayer"]=4,
 	["elleiria-nightslayer"]=13,
@@ -12950,7 +12950,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["hoyst-nightslayer"]=15,
 	["hozimir-nightslayer"]=5,
 	["hozitow-nightslayer"]=1,
-	["hsuanlol-nightslayer"]=23,
+	["hsuanlol-nightslayer"]=16,
 	["hsuanolz-nightslayer"]=11,
 	["hsuanuau-nightslayer"]=13,
 	["httr-nightslayer"]=3,
@@ -17003,7 +17003,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["srrated-nightslayer"]=20,
 	["ßabymonster-nightslayer"]=4,
 	["ßails-dreamscythe"]=1,
-	["ßaptizer-nightslayer"]=1,
+	["ßaptizer-nightslayer"]=12,
 	["ssatoshi-nightslayer"]=7,
 	["ßeedle-nightslayer"]=11,
 	["ßeedlez-nightslayer"]=2,
