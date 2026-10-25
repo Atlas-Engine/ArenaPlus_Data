@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9372 characters, read 2026-10-25 07:58 AM.
+-- Region tbc-us, 9372 characters, read 2026-10-25 08:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12454,7 +12454,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["glowy-nightslayer"]=11,
 	["glpjuan-nightslayer"]=16,
 	["glyphz-nightslayer"]=1,
-	["gnandhi-nightslayer"]=2,
+	["gnandhi-nightslayer"]=18,
 	["gnaw-nightslayer"]=7,
 	["gnf-dreamscythe"]=6,
 	["gnodumpski-nightslayer"]=4,
@@ -12882,7 +12882,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["holyboutso-nightslayer"]=11,
 	["holyburial-nightslayer"]=1,
 	["holychrom-nightslayer"]=1,
-	["holycry-nightslayer"]=9,
+	["holycry-nightslayer"]=25,
 	["holycurt-nightslayer"]=1,
 	["holyfánss-nightslayer"]=11,
 	["holyfknlight-nightslayer"]=9,
@@ -16396,7 +16396,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["sgtbubble-nightslayer"]=9,
 	["sgtholy-nightslayer"]=1,
 	["sgtincarnate-nightslayer"]=3,
-	["sgtmajòr-nightslayer"]=2,
+	["sgtmajòr-nightslayer"]=18,
 	["sgtmajör-nightslayer"]=23,
 	["sgtmoe-nightslayer"]=15,
 	["sgtzbag-nightslayer"]=10,
@@ -17086,7 +17086,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["stokeswf-nightslayer"]=10,
 	["stokeszerk-nightslayer"]=18,
 	["stokex-nightslayer"]=3,
-	["stokez-nightslayer"]=2,
+	["stokez-nightslayer"]=18,
 	["stompzz-nightslayer"]=2,
 	["stonedcop-nightslayer"]=12,
 	["stonedlion-nightslayer"]=10,

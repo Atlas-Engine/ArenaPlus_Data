@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5196 characters, read 2026-10-25 07:59 AM.
+-- Region us, 5196 characters, read 2026-10-25 08:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5636,7 +5636,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["brunelan-pagle"]=0,
 	["brunosars-pagle"]=6,
 	["brustle-raden"]=5,
-	["brutality-galakras"]=7,
+	["brutality-galakras"]=23,
 	["brutalmystic-nazgrim"]=15,
 	["brutasaurus-galakras"]=7,
 	["brutøn-raden"]=7,
@@ -6669,7 +6669,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["fyruss-pagle"]=20,
 	["gaarah-pagle"]=1,
 	["gabimaru-raden"]=4,
-	["gaejustin-pagle"]=33,
+	["gaejustin-pagle"]=12,
 	["gaêl-lei-shen"]=18,
 	["gaethje-raden"]=0,
 	["gaiden-nazgrim"]=34,
@@ -6833,7 +6833,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["grepes-pagle"]=19,
 	["grezwald-nazgrim"]=7,
 	["griefer-grobbulus"]=20,
-	["griff-raden"]=4,
+	["griff-raden"]=10,
 	["griffdk-raden"]=6,
 	["griffwarr-raden"]=7,
 	["griillo-pagle"]=3,
@@ -8266,7 +8266,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["nupper-pagle"]=23,
 	["nurfme-raden"]=0,
 	["nurfmedk-raden"]=6,
-	["nurfthemonk-pagle"]=10,
+	["nurfthemonk-pagle"]=4,
 	["nurfwarr-raden"]=7,
 	["nusubito-pagle"]=29,
 	["nutgrabber-pagle"]=34,
@@ -8650,7 +8650,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["raidenx-nazgrim"]=26,
 	["raíín-galakras"]=9,
 	["raíjin-raden"]=15,
-	["raijinkumax-pagle"]=15,
+	["raijinkumax-pagle"]=19,
 	["raijjin-pagle"]=19,
 	["rãin-pagle"]=14,
 	["raineclaw-raden"]=5,
@@ -9381,7 +9381,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["stooter-nazgrim"]=5,
 	["stootns-nazgrim"]=15,
 	["stooty-nazgrim"]=7,
-	["stoptalkme-raden"]=27,
+	["stoptalkme-raden"]=10,
 	["stormdaddyx-pagle"]=22,
 	["størmie-raden"]=15,
 	["stormieskye-galakras"]=17,
@@ -10016,7 +10016,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["xarshadow-immerseus"]=24,
 	["xarstorm-immerseus"]=1,
 	["xatica-pagle"]=29,
-	["xatyka-pagle"]=1,
+	["xatyka-pagle"]=11,
 	["xavilier-pagle"]=29,
 	["xb-galakras"]=10,
 	["xcen-raden"]=18,
