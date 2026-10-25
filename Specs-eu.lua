@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5357 characters, read 2026-10-25 03:00 PM.
+-- Region eu, 5357 characters, read 2026-10-25 04:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2466,7 +2466,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["mangostraf-mirage-raceway"]=20,
 	["mannen-shekzeer"]=10,
 	["mansøur-auberdine"]=60,
-	["maochamp-shekzeer"]=40,
+	["maochamp-shekzeer"]=41,
 	["maphra-shekzeer"]=11,
 	["marbeya-shekzeer"]=11,
 	["marcel-shekzeer"]=100,
@@ -5220,7 +5220,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["acquapal-shekzeer"]=5,
 	["adamsecurity-shekzeer"]=9,
 	["adarä-shekzeer"]=5,
-	["aderallmeta-shekzeer"]=11,
+	["aderallmeta-shekzeer"]=3,
 	["adesanya-shekzeer"]=7,
 	["adonix-auberdine"]=8,
 	["adrianmandos-garalon"]=15,
@@ -5290,7 +5290,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["alepoudiaris-garalon"]=15,
 	["alesant-shekzeer"]=1,
 	["alexandereu-shekzeer"]=10,
-	["alfajer-shekzeer"]=14,
+	["alfajer-shekzeer"]=4,
 	["algerian-shekzeer"]=4,
 	["algharib-everlook"]=8,
 	["alieh-shekzeer"]=15,
@@ -5982,7 +5982,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["combux-shekzeer"]=2,
 	["comète-shekzeer"]=3,
 	["commandor-garalon"]=15,
-	["commitment-shekzeer"]=5,
+	["commitment-shekzeer"]=15,
 	["compak-everlook"]=26,
 	["compey-everlook"]=33,
 	["comtelucius-auberdine"]=0,
@@ -6232,7 +6232,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Ðjsvrxzy-shekzeer"]=2,
 	["djwashedup-shekzeer"]=6,
 	["dksecouille-auberdine"]=31,
-	["dkw-gehennas"]=8,
+	["dkw-gehennas"]=31,
 	["dméndez-mirage-raceway"]=15,
 	["dnglo-mirage-raceway"]=1,
 	["dobanda-hoptallus"]=4,
@@ -6252,7 +6252,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["domiino-shekzeer"]=12,
 	["dominant-garalon"]=28,
 	["dominant-shekzeer"]=2,
-	["dominoo-shekzeer"]=3,
+	["dominoo-shekzeer"]=21,
 	["domnox-auberdine"]=20,
 	["dondrippiano-shekzeer"]=6,
 	["donjacky-shekzeer"]=6,
@@ -9400,7 +9400,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["tjyo-everlook"]=1,
 	["tlxdx-shekzeer"]=3,
 	["tlxx-garalon"]=3,
-	["toatz-shekzeer"]=31,
+	["toatz-shekzeer"]=8,
 	["tobilock-shekzeer"]=17,
 	["toebee-shekzeer"]=1,
 	["toiletchamx-shekzeer"]=13,
