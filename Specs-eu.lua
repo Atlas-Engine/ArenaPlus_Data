@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5365 characters, read 2026-10-25 01:00 AM.
+-- Region eu, 5365 characters, read 2026-10-25 02:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -139,6 +139,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["aimbøt-shekzeer"]=11,
 	["aimyourass-garalon"]=10,
 	["aintnothing-shekzeer"]=11,
+	["airfunk-shekzeer"]=41,
 	["aironsxx-shekzeer"]=51,
 	["aisanasbabe-auberdine"]=110,
 	["aitgem-mirage-raceway"]=10,
@@ -2735,7 +2736,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["naithalon-mirage-raceway"]=10,
 	["nåjø-everlook"]=41,
 	["najøuar-everlook"]=111,
-	["najouar-shekzeer"]=11,
+	["najouar-shekzeer"]=10,
 	["najøuar-shekzeer"]=11,
 	["najøuár-shekzeer"]=11,
 	["nåjøuãr-shekzeer"]=21,
@@ -5265,6 +5266,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["aimbøt-shekzeer"]=4,
 	["aimyourass-garalon"]=4,
 	["aintnothing-shekzeer"]=7,
+	["airfunk-shekzeer"]=3,
 	["aironsxx-shekzeer"]=9,
 	["aisanasbabe-auberdine"]=5,
 	["aitgem-mirage-raceway"]=15,
@@ -8303,7 +8305,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["outerspacé-garalon"]=6,
 	["outerspacé-shekzeer"]=6,
 	["Óutlaw-garalon"]=26,
-	["outplayd-shekzeer"]=21,
+	["outplayd-shekzeer"]=32,
 	["Øutplayed-mirage-raceway"]=2,
 	["ouzoo-mirage-raceway"]=2,
 	["owlcapóne-everlook"]=11,
@@ -8346,7 +8348,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["pãt-everlook"]=1,
 	["pät-ook-ook"]=1,
 	["pathétïc-shekzeer"]=2,
-	["patoshik-mirage-raceway"]=24,
+	["patoshik-mirage-raceway"]=26,
 	["patronas-shekzeer"]=3,
 	["pattong-hoptallus"]=34,
 	["pátulják-shekzeer"]=4,
@@ -9412,7 +9414,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["titaniiz-shekzeer"]=3,
 	["titanuranuz-mirage-raceway"]=5,
 	["tjyo-everlook"]=1,
-	["tline-shekzeer"]=0,
 	["tlxdx-shekzeer"]=3,
 	["tlxx-garalon"]=3,
 	["toatz-shekzeer"]=31,
