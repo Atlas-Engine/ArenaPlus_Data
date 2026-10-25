@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5194 characters, read 2026-10-24 07:59 PM.
+-- Region us, 5194 characters, read 2026-10-24 08:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -690,7 +690,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["bustyshots-raden"]=11,
 	["butcherr-raden"]=10,
 	["buttafingaz-pagle"]=40,
-	["buttérr-pagle"]=11,
+	["buttérr-pagle"]=10,
 	["butthuff-pagle"]=20,
 	["buubookittyf-pagle"]=41,
 	["buymysoup-raden"]=111,
@@ -5044,7 +5044,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["acxblue-raden"]=19,
 	["adalen-nazgrim"]=10,
 	["adamandsteve-immerseus"]=9,
-	["adamwarløck-nazgrim"]=24,
+	["adamwarløck-nazgrim"]=28,
 	["adeathians-lei-shen"]=6,
 	["adepto-pagle"]=7,
 	["adgavert-lei-shen"]=32,
@@ -5101,7 +5101,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["alette-pagle"]=2,
 	["aléxandros-nazgrim"]=7,
 	["alexmateo-pagle"]=7,
-	["alexrrbb-raden"]=23,
+	["alexrrbb-raden"]=7,
 	["alextraxas-pagle"]=7,
 	["alezaar-raden"]=5,
 	["algreen-pagle"]=4,
@@ -5159,7 +5159,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["angrydewd-raden"]=23,
 	["anihalator-pagle"]=26,
 	["anikdote-raden"]=16,
-	["animalzx-lei-shen"]=5,
+	["animalzx-lei-shen"]=17,
 	["anjurus-pagle"]=3,
 	["annikà-nazgrim"]=2,
 	["annoyinghunt-immerseus"]=20,
@@ -5938,7 +5938,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["cumbustions-nazgrim"]=1,
 	["cumfypillow-benediction"]=7,
 	["cupidxp-raden"]=16,
-	["currysausage-arugal-au"]=14,
+	["currysausage-arugal-au"]=34,
 	["cursedblood-pagle"]=26,
 	["cutter-raden"]=3,
 	["cvex-raden"]=23,

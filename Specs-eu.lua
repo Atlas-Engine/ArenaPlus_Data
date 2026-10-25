@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5363 characters, read 2026-10-24 08:00 PM.
+-- Region eu, 5363 characters, read 2026-10-24 09:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3473,7 +3473,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["rxsebøy-auberdine"]=11,
 	["rýdøthâðwlx-everlook"]=220,
 	["rydothedk-everlook"]=11,
-	["rýdøthègøátx-everlook"]=111,
+	["rýdøthègøátx-everlook"]=110,
 	["rydotheholy-everlook"]=10,
 	["rydothemage-everlook"]=10,
 	["rydothemonk-everlook"]=11,
@@ -5298,7 +5298,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["alepoudiaris-garalon"]=15,
 	["alesant-shekzeer"]=1,
 	["alexandereu-shekzeer"]=10,
-	["alfajer-shekzeer"]=14,
+	["alfajer-shekzeer"]=4,
 	["algerian-shekzeer"]=4,
 	["algharib-everlook"]=8,
 	["alieh-shekzeer"]=15,
@@ -6970,7 +6970,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["hyped-shekzeer"]=2,
 	["hypertouch-shekzeer"]=1,
 	["hypnodotcum-shekzeer"]=17,
-	["hypnogodz-shekzeer"]=3,
+	["hypnogodz-shekzeer"]=11,
 	["hysel-garalon"]=15,
 	["hyxro-mirage-raceway"]=9,
 	["iamcurt-mirage-raceway"]=9,
@@ -8763,7 +8763,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["rxsebøy-auberdine"]=20,
 	["rýdøthâðwlx-everlook"]=11,
 	["rydothedk-everlook"]=8,
-	["rýdøthègøátx-everlook"]=16,
+	["rýdøthègøátx-everlook"]=19,
 	["rydotheholy-everlook"]=9,
 	["rydothemage-everlook"]=10,
 	["rydothemonk-everlook"]=7,
@@ -8799,7 +8799,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["salvxx-shekzeer"]=9,
 	["samaddhi-shekzeer"]=17,
 	["samael-auberdine"]=12,
-	["samaruh-mirage-raceway"]=20,
+	["samaruh-mirage-raceway"]=4,
 	["samisa-shekzeer"]=9,
 	["sàmsara-shekzeer"]=10,
 	["samsei-shekzeer"]=6,
@@ -9926,7 +9926,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["xúén-shekzeer"]=7,
 	["xulior-everlook"]=1,
 	["xulthiær-everlook"]=9,
-	["xulthiar-everlook"]=12,
+	["xulthiar-everlook"]=9,
 	["xulthior-everlook"]=2,
 	["xuone-hoptallus"]=25,
 	["xyána-everlook"]=9,

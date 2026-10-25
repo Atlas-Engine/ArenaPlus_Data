@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9390 characters, read 2026-10-24 07:58 PM.
+-- Region tbc-us, 9390 characters, read 2026-10-24 08:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10565,7 +10565,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["catholicmane-nightslayer"]=25,
 	["cathork-nightslayer"]=14,
 	["catleash-nightslayer"]=12,
-	["cattleyã-nightslayer"]=11,
+	["cattleyã-nightslayer"]=25,
 	["caustik-dreamscythe"]=2,
 	["cavalanche-nightslayer"]=19,
 	["cazaanos-nightslayer"]=4,
@@ -11006,7 +11006,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["cuitytotoro-nightslayer"]=18,
 	["culturesz-nightslayer"]=11,
 	["cultxo-nightslayer"]=1,
-	["cumviction-nightslayer"]=11,
+	["cumviction-nightslayer"]=25,
 	["cunning-nightslayer"]=2,
 	["cunningd-nightslayer"]=4,
 	["cursednutz-nightslayer"]=13,
@@ -12206,7 +12206,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["freddiegibbs-nightslayer"]=10,
 	["freddystealz-nightslayer"]=5,
 	["fredyboyy-nightslayer"]=10,
-	["fredyshield-nightslayer"]=1,
+	["fredyshield-nightslayer"]=14,
 	["freea-nightslayer"]=24,
 	["freecast-nightslayer"]=4,
 	["freegardy-nightslayer"]=1,
@@ -12241,7 +12241,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["frow-nightslayer"]=18,
 	["froxhen-nightslayer"]=1,
 	["frozencone-nightslayer"]=4,
-	["frozenondvd-nightslayer"]=6,
+	["frozenondvd-nightslayer"]=4,
 	["frozenveg-nightslayer"]=6,
 	["frozenvirgin-nightslayer"]=4,
 	["fruckthemall-nightslayer"]=15,
@@ -12690,7 +12690,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["hairforkids-nightslayer"]=13,
 	["hairyhuevos-nightslayer"]=14,
 	["haishao-nightslayer"]=11,
-	["haitabao-nightslayer"]=7,
+	["haitabao-nightslayer"]=3,
 	["haitama-nightslayer"]=5,
 	["haiyah-nightslayer"]=5,
 	["haiyuri-dreamscythe"]=10,
@@ -15556,7 +15556,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["pomrad-nightslayer"]=6,
 	["pomslave-nightslayer"]=1,
 	["pomswideopen-nightslayer"]=8,
-	["ponderøsa-dreamscythe"]=3,
+	["ponderøsa-dreamscythe"]=7,
 	["ponens-nightslayer"]=6,
 	["pongkix-nightslayer"]=7,
 	["pongkixo-nightslayer"]=7,
