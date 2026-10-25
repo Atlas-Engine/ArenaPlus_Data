@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9373 characters, read 2026-10-25 04:58 AM.
+-- Region tbc-us, 9373 characters, read 2026-10-25 05:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12538,7 +12538,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["goydric-nightslayer"]=9,
 	["gph-nightslayer"]=6,
 	["graar-nightslayer"]=17,
-	["grabar-dreamscythe"]=8,
+	["grabar-dreamscythe"]=5,
 	["grãcexo-dreamscythe"]=1,
 	["grainbin-dreamscythe"]=9,
 	["gralno-nightslayer"]=7,
@@ -12793,7 +12793,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["herefrglaves-nightslayer"]=5,
 	["héroburst-nightslayer"]=6,
 	["herroism-nightslayer"]=10,
-	["hershei-dreamscythe"]=2,
+	["hershei-dreamscythe"]=18,
 	["hersheyblast-nightslayer"]=6,
 	["heway-dreamscythe"]=18,
 	["hexagramx-nightslayer"]=2,
@@ -14526,7 +14526,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["minimartha-nightslayer"]=1,
 	["minískirt-nightslayer"]=7,
 	["minitelanna-nightslayer"]=2,
-	["minixboy-nightslayer"]=15,
+	["minixboy-nightslayer"]=17,
 	["minmi-nightslayer"]=21,
 	["mintchocoice-nightslayer"]=5,
 	["minutz-nightslayer"]=1,
@@ -17165,7 +17165,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["sumjuanelse-nightslayer"]=2,
 	["sumjuansham-nightslayer"]=19,
 	["summit-dreamscythe"]=8,
-	["summits-dreamscythe"]=13,
+	["summits-dreamscythe"]=16,
 	["summitw-dreamscythe"]=8,
 	["summitx-dreamscythe"]=18,
 	["sumnhxx-nightslayer"]=11,
@@ -17869,7 +17869,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["väns-dreamscythe"]=25,
 	["vantagex-nightslayer"]=4,
 	["vapelordgord-nightslayer"]=3,
-	["varedis-dreamscythe"]=8,
+	["varedis-dreamscythe"]=5,
 	["varnigan-nightslayer"]=14,
 	["varrain-nightslayer"]=2,
 	["varuus-dreamscythe"]=15,
