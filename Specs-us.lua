@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5194 characters, read 2026-10-24 08:59 PM.
+-- Region us, 5194 characters, read 2026-10-24 09:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6945,7 +6945,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["healsforyou-raden"]=4,
 	["healsondek-pagle"]=2,
 	["healszx-pagle"]=0,
-	["healyee-immerseus"]=21,
+	["healyee-immerseus"]=9,
 	["heârtless-pagle"]=7,
 	["hêâtêd-pagle"]=20,
 	["heavymetal-raden"]=7,
@@ -7191,7 +7191,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["infurryator-raden"]=12,
 	["initis-raden"]=7,
 	["injury-pagle"]=7,
-	["inkárri-arugal-au"]=4,
+	["inkárri-arugal-au"]=10,
 	["inmortalwar-raden"]=7,
 	["innoofirgize-raden"]=5,
 	["inorie-raden"]=4,
@@ -8668,7 +8668,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["rándom-pagle"]=16,
 	["randomia-nazgrim"]=7,
 	["randybo-nazgrim"]=17,
-	["rankonewarz-benediction"]=23,
+	["rankonewarz-benediction"]=7,
 	["ráquel-raden"]=13,
 	["rasclatt-raden"]=21,
 	["rastafrost-galakras"]=1,
@@ -8722,7 +8722,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["rekzor-raden"]=7,
 	["rel-nazgrim"]=26,
 	["relapse-lei-shen"]=1,
-	["relaxx-lei-shen"]=13,
+	["relaxx-lei-shen"]=9,
 	["relichh-pagle"]=26,
 	["réligion-raden"]=25,
 	["relikemong-pagle"]=28,

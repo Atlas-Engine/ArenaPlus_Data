@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5363 characters, read 2026-10-24 09:00 PM.
+-- Region eu, 5363 characters, read 2026-10-24 10:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5228,7 +5228,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["acquapal-shekzeer"]=5,
 	["adamsecurity-shekzeer"]=9,
 	["adarä-shekzeer"]=5,
-	["aderallmeta-shekzeer"]=3,
+	["aderallmeta-shekzeer"]=11,
 	["adesanya-shekzeer"]=7,
 	["adonix-auberdine"]=8,
 	["adrianmandos-garalon"]=15,
@@ -5248,7 +5248,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["aeslmrr-mirage-raceway"]=8,
 	["affix-shekzeer"]=23,
 	["afflictia-shekzeer"]=23,
-	["aflixs-shekzeer"]=28,
+	["aflixs-shekzeer"]=17,
 	["afqx-garalon"]=10,
 	["afrai-norushen"]=34,
 	["afrodiñ-shekzeer"]=5,
@@ -9307,7 +9307,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["taopiepie-shekzeer"]=24,
 	["tardhun-shekzeer"]=0,
 	["tarhya-everlook"]=19,
-	["tastemydmg-shekzeer"]=20,
+	["tastemydmg-shekzeer"]=4,
 	["tastyd-shekzeer"]=3,
 	["tawnyx-everlook"]=3,
 	["taylôrswiftx-mirage-raceway"]=6,
