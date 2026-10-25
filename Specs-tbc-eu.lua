@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9675 characters, read 2026-10-25 05:59 AM.
+-- Region tbc-eu, 9675 characters, read 2026-10-25 06:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12010,7 +12010,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["emiliontti-spineshatter"]=6,
 	["emirâ-thunderstrike"]=13,
 	["emmanora-spineshatter"]=11,
-	["emmätiiä-spineshatter"]=7,
+	["emmätiiä-spineshatter"]=26,
 	["emns-spineshatter"]=23,
 	["emobunny-spineshatter"]=8,
 	["emodsy-spineshatter"]=8,
@@ -13141,7 +13141,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["iamawarrior-spineshatter"]=5,
 	["iamdaniel-spineshatter"]=5,
 	["iamdolboeb-spineshatter"]=26,
-	["iamgooner-spineshatter"]=12,
+	["iamgooner-spineshatter"]=11,
 	["iamjubilee-spineshatter"]=5,
 	["iamlucker-spineshatter"]=25,
 	["iamniall-spineshatter"]=15,
@@ -14949,7 +14949,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["mobywanz-spineshatter"]=7,
 	["mobyzw-spineshatter"]=6,
 	["mockie-spineshatter"]=15,
-	["modnaer-spineshatter"]=1,
+	["modnaer-spineshatter"]=6,
 	["moggelina-spineshatter"]=12,
 	["mogmaxing-spineshatter"]=3,
 	["mogzp-spineshatter"]=2,
@@ -16270,7 +16270,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["qwèh-spineshatter"]=9,
 	["qwertzuiop-spineshatter"]=25,
 	["qwwêrô-spineshatter"]=2,
-	["qwwerotwo-spineshatter"]=2,
+	["qwwerotwo-spineshatter"]=17,
 	["qyv-spineshatter"]=3,
 	["qzenvolk-spineshatter"]=3,
 	["raawr-thunderstrike"]=10,

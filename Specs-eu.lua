@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5365 characters, read 2026-10-25 06:00 AM.
+-- Region eu, 5365 characters, read 2026-10-25 07:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6768,7 +6768,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["grönavesslan-shekzeer"]=11,
 	["grondax-norushen"]=5,
 	["grsy-shekzeer"]=6,
-	["grumpydumpy-shekzeer"]=28,
+	["grumpydumpy-shekzeer"]=17,
 	["grumpyolbaby-shekzeer"]=11,
 	["grumshado-hoptallus"]=6,
 	["gsek-shekzeer"]=1,
@@ -7680,7 +7680,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["magico-auberdine"]=2,
 	["magicon-garalon"]=2,
 	["magicsnap-shekzeer"]=20,
-	["magicstar-shekzeer"]=2,
+	["magicstar-shekzeer"]=10,
 	["magnificènt-shekzeer"]=2,
 	["magnolean-shekzeer"]=24,
 	["maîja-shekzeer"]=2,
@@ -9698,7 +9698,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["voireg-shekzeer"]=15,
 	["voldreth-everlook"]=15,
 	["voldrex-everlook"]=16,
-	["voljix-shekzeer"]=14,
+	["voljix-shekzeer"]=4,
 	["voljiz-shekzeer"]=1,
 	["volkris-shekzeer"]=15,
 	["volkrz-shekzeer"]=19,
@@ -9811,7 +9811,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["windwålker-shekzeer"]=6,
 	["windztr-mirage-raceway"]=7,
 	["wingsfuhrer-shekzeer"]=15,
-	["wink-mirage-raceway"]=7,
+	["wink-mirage-raceway"]=6,
 	["winkaay-shekzeer"]=13,
 	["winkay-shekzeer"]=3,
 	["winkáy-shekzeer"]=2,
