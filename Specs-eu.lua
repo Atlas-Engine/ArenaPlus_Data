@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5355 characters, read 2026-10-25 09:00 AM.
+-- Region eu, 5355 characters, read 2026-10-25 10:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5260,7 +5260,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["aisanasbabe-auberdine"]=5,
 	["aitgem-mirage-raceway"]=15,
 	["aizakku-shekzeer"]=9,
-	["Åízákkú-shekzeer"]=5,
+	["Åízákkú-shekzeer"]=15,
 	["ajax-auberdine"]=17,
 	["Àjax-auberdine"]=1,
 	["Àjâx-auberdine"]=20,
@@ -5290,7 +5290,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["alepoudiaris-garalon"]=15,
 	["alesant-shekzeer"]=1,
 	["alexandereu-shekzeer"]=10,
-	["alfajer-shekzeer"]=4,
+	["alfajer-shekzeer"]=14,
 	["algerian-shekzeer"]=4,
 	["algharib-everlook"]=8,
 	["alieh-shekzeer"]=15,
@@ -6665,7 +6665,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["gembri-garalon"]=15,
 	["genetixz-shekzeer"]=2,
 	["gentlepawss-norushen"]=7,
-	["getbajs-shekzeer"]=19,
+	["getbajs-shekzeer"]=16,
 	["gethorned-garalon"]=3,
 	["gétòst-shekzeer"]=2,
 	["gharajü-auberdine"]=9,
@@ -6996,7 +6996,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["ikillhordes-hoptallus"]=11,
 	["ildjarn-shekzeer"]=21,
 	["ililililili-shekzeer"]=1,
-	["ilinor-shekzeer"]=6,
+	["ilinor-shekzeer"]=7,
 	["iliøuix-shekzeer"]=1,
 	["ilir-everlook"]=0,
 	["illaine-everlook"]=9,
@@ -7310,7 +7310,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["khaliope-everlook"]=9,
 	["khazooq-mirage-raceway"]=25,
 	["khex-shekzeer"]=2,
-	["khobkhunkrap-shekzeer"]=11,
+	["khobkhunkrap-shekzeer"]=3,
 	["khofo-shekzeer"]=17,
 	["kickbot-shekzeer"]=26,
 	["kickboxarn-shekzeer"]=7,
@@ -9488,7 +9488,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["tslx-shekzeer"]=16,
 	["tsouvirak-garalon"]=1,
 	["tsüfî-mirage-raceway"]=15,
-	["tsukasà-auberdine"]=13,
+	["tsukasà-auberdine"]=16,
 	["tsukuyommi-garalon"]=3,
 	["tsutso-shekzeer"]=1,
 	["tsutsu-auberdine"]=6,
