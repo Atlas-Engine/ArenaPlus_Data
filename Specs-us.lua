@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5189 characters, read 2026-10-25 05:59 PM.
+-- Region us, 5189 characters, read 2026-10-25 06:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5358,7 +5358,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["bearsong-galakras"]=12,
 	["beastlike-galakras"]=7,
 	["beastoo-sulfuras"]=0,
-	["beastwhisper-galakras"]=20,
+	["beastwhisper-galakras"]=3,
 	["beastwo-pagle"]=0,
 	["beâtryx-pagle"]=1,
 	["beaujobz-pagle"]=3,
@@ -5419,7 +5419,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["bigcowa-galakras"]=17,
 	["bigcut-immerseus"]=34,
 	["bigdaddymhem-arugal-au"]=0,
-	["bigdaddyx-nazgrim"]=10,
+	["bigdaddyx-nazgrim"]=4,
 	["bigdkslams-raden"]=7,
 	["bigdmayhem-pagle"]=0,
 	["bigdudú-raden"]=17,
@@ -5498,7 +5498,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["bloodofares-nazgrim"]=7,
 	["bloodofnotus-nazgrim"]=27,
 	["bloodrake-nazgrim"]=25,
-	["bloodsoakd-pagle"]=7,
+	["bloodsoakd-pagle"]=23,
 	["blooms-pagle"]=17,
 	["bloomtodeath-raden"]=20,
 	["blössöm-galakras"]=18,
@@ -6254,7 +6254,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["drgspit-pagle"]=28,
 	["drhub-galakras"]=21,
 	["driadstorm-raden"]=12,
-	["drimitrix-galakras"]=19,
+	["drimitrix-galakras"]=15,
 	["drinkbeerz-raden"]=12,
 	["dripkingk-pagle"]=1,
 	["drippydrzl-galakras"]=6,
@@ -8319,7 +8319,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["olemad-pagle"]=3,
 	["oleyellur-pagle"]=9,
 	["olimpux-pagle"]=20,
-	["olitha-galakras"]=14,
+	["olitha-galakras"]=29,
 	["oliverqueenn-galakras"]=20,
 	["Õmegaa-raden"]=18,
 	["omegaslammin-pagle"]=0,
