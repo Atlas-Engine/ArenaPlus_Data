@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5196 characters, read 2026-10-25 09:59 AM.
+-- Region us, 5194 characters, read 2026-10-25 10:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2847,7 +2847,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["miercy-galakras"]=11,
 	["mightymagus-raden"]=10,
 	["migué-pagle"]=10,
-	["mihal-nazgrim"]=50,
 	["miichael-pagle"]=100,
 	["miintpwnagex-nazgrim"]=21,
 	["mikaelios-raden"]=10,
@@ -4073,7 +4072,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["snÿx-raden"]=11,
 	["soaar-raden"]=41,
 	["soapstorm-raden"]=51,
-	["soapy-raden"]=11,
 	["soapykitty-pagle"]=41,
 	["soapyx-raden"]=11,
 	["soapyxo-raden"]=11,
@@ -6720,9 +6718,9 @@ ns.SPECS_BY_REGION["us"] = {
 	["geebroni-pagle"]=16,
 	["gelania-pagle"]=18,
 	["genelron-lei-shen"]=16,
-	["gentleman-pagle"]=26,
+	["gentleman-pagle"]=25,
 	["genuinely-raden"]=1,
-	["geser-raden"]=20,
+	["geser-raden"]=3,
 	["getaway-nazgrim"]=1,
 	["getclapt-lei-shen"]=6,
 	["getdough-grobbulus"]=16,
@@ -7929,7 +7927,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["miercy-galakras"]=16,
 	["mightymagus-raden"]=1,
 	["migué-pagle"]=16,
-	["mihal-nazgrim"]=1,
 	["miichael-pagle"]=2,
 	["miintpwnagex-nazgrim"]=18,
 	["mikaelios-raden"]=2,
@@ -8218,7 +8215,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["nlx-raden"]=5,
 	["nnyte-pagle"]=14,
 	["noä-pagle"]=18,
-	["nóa-pagle"]=10,
+	["nóa-pagle"]=4,
 	["nobzz-raden"]=9,
 	["nocarry-raden"]=10,
 	["nocense-immerseus"]=13,
@@ -8608,7 +8605,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["qjqjsdnltmzl-pagle"]=0,
 	["qrux-pagle"]=5,
 	["qsax-raden"]=7,
-	["qsyo-raden"]=3,
+	["qsyo-raden"]=20,
 	["qtips-lei-shen"]=34,
 	["qtmonkbb-pagle"]=4,
 	["qtpiè-pagle"]=4,
@@ -8628,7 +8625,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["rabager-grobbulus"]=19,
 	["rabblerouse-pagle"]=0,
 	["rabidwolf-pagle"]=19,
-	["racehunter-pagle"]=3,
+	["racehunter-pagle"]=18,
 	["racket-pagle"]=14,
 	["radaggast-lei-shen"]=1,
 	["radendznuts-raden"]=22,
@@ -9227,7 +9224,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["snÿx-raden"]=9,
 	["soaar-raden"]=9,
 	["soapstorm-raden"]=4,
-	["soapy-raden"]=4,
 	["søapy-raden"]=0,
 	["soapykitty-pagle"]=12,
 	["soapyx-raden"]=8,

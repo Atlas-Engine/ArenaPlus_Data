@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9375 characters, read 2026-10-25 09:58 AM.
+-- Region tbc-us, 9375 characters, read 2026-10-25 10:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10902,7 +10902,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["cowthings-nightslayer"]=2,
 	["cowyote-nightslayer"]=10,
 	["cowzgomoo-nightslayer"]=9,
-	["coziliz-nightslayer"]=26,
+	["coziliz-nightslayer"]=4,
 	["cozylizy-nightslayer"]=1,
 	["cozytoes-nightslayer"]=1,
 	["cpc-dreamscythe"]=5,
@@ -12773,7 +12773,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["helbie-nightslayer"]=2,
 	["helicopters-nightslayer"]=24,
 	["hellabald-nightslayer"]=18,
-	["hellbug-nightslayer"]=20,
+	["hellbug-nightslayer"]=2,
 	["hellguyy-nightslayer"]=5,
 	["hellów-nightslayer"]=5,
 	["hellpower-dreamscythe"]=1,
@@ -12992,7 +12992,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["hydraschool-nightslayer"]=1,
 	["hydroflux-dreamscythe"]=10,
 	["hydrowarrior-nightslayer"]=2,
-	["hyeji-nightslayer"]=16,
+	["hyeji-nightslayer"]=13,
 	["hynix-nightslayer"]=5,
 	["hyperiion-nightslayer"]=17,
 	["hypertreephy-dreamscythe"]=3,
@@ -14030,7 +14030,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["lmaoidiot-nightslayer"]=16,
 	["lmerch-dreamscythe"]=1,
 	["lmnc-nightslayer"]=1,
-	["lmnllam-nightslayer"]=15,
+	["lmnllam-nightslayer"]=17,
 	["ln-nightslayer"]=0,
 	["lnln-nightslayer"]=1,
 	["loafprime-nightslayer"]=9,
@@ -14771,7 +14771,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["nalmuk-nightslayer"]=1,
 	["naloe-nightslayer"]=7,
 	["nameitis-dreamscythe"]=10,
-	["namkijun-nightslayer"]=8,
+	["namkijun-nightslayer"]=5,
 	["nanaimo-nightslayer"]=11,
 	["nandazar-dreamscythe"]=18,
 	["nanersxd-nightslayer"]=23,
@@ -17468,7 +17468,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["thunderbro-nightslayer"]=2,
 	["thunderdommy-nightslayer"]=19,
 	["thunderfried-nightslayer"]=10,
-	["thunderglock-nightslayer"]=15,
+	["thunderglock-nightslayer"]=17,
 	["thunderscore-nightslayer"]=6,
 	["thúnderthÿ-nightslayer"]=22,
 	["thunderudder-nightslayer"]=10,
