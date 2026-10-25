@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5190 characters, read 2026-10-25 02:59 AM.
+-- Region us, 5190 characters, read 2026-10-25 03:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2435,7 +2435,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["knockoutdt-pagle"]=11,
 	["knottypawz-pagle"]=41,
 	["knuckles-pagle"]=11,
-	["knucklès-pagle"]=11,
+	["knucklès-pagle"]=10,
 	["knucklës-pagle"]=11,
 	["knûckles-pagle"]=220,
 	["kñuckles-pagle"]=11,
@@ -7849,10 +7849,10 @@ ns.SPECS_BY_REGION["us"] = {
 	["matthew-raden"]=21,
 	["mattylocks-raden"]=24,
 	["mattymaage-raden"]=1,
-	["mattysp-raden"]=21,
+	["mattysp-raden"]=9,
 	["máuii-pagle"]=16,
 	["mauveblade-galakras"]=14,
-	["mav-raden"]=1,
+	["mav-raden"]=11,
 	["mavr-raden"]=14,
 	["mavrïx-raden"]=3,
 	["mavzx-raden"]=23,
@@ -9037,7 +9037,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["shephèrd-pagle"]=20,
 	["shetops-pagle"]=6,
 	["shieldsx-raden"]=9,
-	["shieldzx-lei-shen"]=21,
+	["shieldzx-lei-shen"]=9,
 	["shiftener-nazgrim"]=5,
 	["shifthaps-raden"]=17,
 	["shìftkey-raden"]=5,
@@ -9635,11 +9635,11 @@ ns.SPECS_BY_REGION["us"] = {
 	["touchmywañd-nazgrim"]=1,
 	["touchofdiddy-raden"]=4,
 	["toughstuff-raden"]=7,
-	["tøxic-nazgrim"]=29,
+	["tøxic-nazgrim"]=14,
 	["tóxica-pagle"]=34,
 	["toxiciguana-pagle"]=29,
 	["toxyc-galakras"]=21,
-	["toymonster-raden"]=5,
+	["toymonster-raden"]=12,
 	["toyoill-raden"]=18,
 	["tpjx-raden"]=10,
 	["tpodyo-raden"]=9,
@@ -9809,7 +9809,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["veltharis-galakras"]=25,
 	["veneca-pagle"]=14,
 	["vengance-raden"]=2,
-	["vera-benediction"]=10,
+	["vera-benediction"]=27,
 	["verbzy-raden"]=14,
 	["verceslayz-raden"]=14,
 	["vercetti-raden"]=28,
@@ -9839,7 +9839,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["vildennx-raden"]=0,
 	["vilhelms-nazgrim"]=7,
 	["violet-raden"]=1,
-	["vipyrs-pagle"]=28,
+	["vipyrs-pagle"]=8,
 	["virtuus-galakras"]=7,
 	["vîs-lei-shen"]=16,
 	["viscio-pagle"]=1,
