@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5193 characters, read 2026-10-24 11:59 PM.
+-- Region us, 5193 characters, read 2026-10-25 12:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -8377,7 +8377,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ouchmyloot-nazgrim"]=7,
 	["outplayedd-pagle"]=14,
 	["outsmart-raden"]=6,
-	["ouushii-raden"]=29,
+	["ouushii-raden"]=14,
 	["overatedpvp-raden"]=7,
 	["overkilla-galakras"]=18,
 	["overmank-raden"]=27,
@@ -8412,7 +8412,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["palamán-raden"]=32,
 	["palapala-pagle"]=2,
 	["pallyboss-galakras"]=0,
-	["palodan-arugal-au"]=16,
+	["palodan-arugal-au"]=2,
 	["palpatîne-pagle"]=28,
 	["palyvash-galakras"]=16,
 	["palyy-raden"]=16,
@@ -8519,7 +8519,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["pokemonk-galakras"]=10,
 	["polilla-pagle"]=28,
 	["poliwarx-pagle"]=6,
-	["polutropos-galakras"]=5,
+	["polutropos-galakras"]=17,
 	["pomserenity-raden"]=9,
 	["pongii-pagle"]=20,
 	["pookyzombean-nazgrim"]=6,
@@ -8597,7 +8597,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["pvpami-pagle"]=2,
 	["pvpcrazy-raden"]=6,
 	["pxssyxclout-raden"]=6,
-	["pxxp-pagle"]=14,
+	["pxxp-pagle"]=29,
 	["pyrofrost-nazgrim"]=11,
 	["qc-pagle"]=24,
 	["qinshihuangt-pagle"]=18,
@@ -9266,7 +9266,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["sovice-raden"]=2,
 	["soyinfelíz-raden"]=6,
 	["soytupapi-pagle"]=9,
-	["spaak-raden"]=29,
+	["spaak-raden"]=34,
 	["space-raden"]=1,
 	["spala-pagle"]=0,
 	["sparas-raden"]=1,
@@ -10073,7 +10073,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["yekcoh-pagle"]=29,
 	["yellowspwn-raden"]=21,
 	["yelly-pagle"]=20,
-	["yerbastian-nazgrim"]=26,
+	["yerbastian-nazgrim"]=6,
 	["yermum-raden"]=7,
 	["yesindeedee-pagle"]=1,
 	["yesue-pagle"]=4,
