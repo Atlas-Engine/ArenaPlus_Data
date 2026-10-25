@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9375 characters, read 2026-10-25 10:58 AM.
+-- Region tbc-us, 9375 characters, read 2026-10-25 11:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9766,7 +9766,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bagototems-nightslayer"]=19,
 	["bailerz-dreamscythe"]=4,
 	["bainal-dreamscythe"]=14,
-	["baitosenshi-nightslayer"]=2,
+	["baitosenshi-nightslayer"]=18,
 	["baiwuya-nightslayer"]=4,
 	["bajalol-nightslayer"]=10,
 	["bajamode-nightslayer"]=7,
@@ -9928,7 +9928,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["beetlesham-nightslayer"]=10,
 	["beetlewarr-nightslayer"]=2,
 	["behindbehind-nightslayer"]=2,
-	["bekol-dreamscythe"]=8,
+	["bekol-dreamscythe"]=5,
 	["belgas-nightslayer"]=1,
 	["belini-nightslayer"]=16,
 	["bellabear-nightslayer"]=3,
@@ -10098,7 +10098,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["blackadam-nightslayer"]=10,
 	["blackberrys-nightslayer"]=7,
 	["blackchedda-nightslayer"]=13,
-	["blackcircle-nightslayer"]=4,
+	["blackcircle-nightslayer"]=6,
 	["blackcocoa-dreamscythe"]=11,
 	["blackcrows-nightslayer"]=1,
 	["blackdahila-nightslayer"]=2,
@@ -16372,7 +16372,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["seraphimski-nightslayer"]=12,
 	["seraphimx-dreamscythe"]=5,
 	["serathis-dreamscythe"]=1,
-	["sergiopaladn-nightslayer"]=9,
+	["sergiopaladn-nightslayer"]=25,
 	["sergioshaman-nightslayer"]=10,
 	["sérgo-nightslayer"]=12,
 	["sergolock-nightslayer"]=23,
@@ -17219,7 +17219,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["swagjustice-nightslayer"]=7,
 	["swagmanlogz-nightslayer"]=1,
 	["swagxdudu-nightslayer"]=7,
-	["swagy-nightslayer"]=2,
+	["swagy-nightslayer"]=18,
 	["swanke-nightslayer"]=10,
 	["swatrogue-nightslayer"]=5,
 	["swdscript-nightslayer"]=1,

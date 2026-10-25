@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5194 characters, read 2026-10-25 10:59 AM.
+-- Region us, 5194 characters, read 2026-10-25 11:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1556,7 +1556,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["flexi-pagle"]=20,
 	["flexism-pagle"]=50,
 	["flexismx-pagle"]=50,
-	["flexismxx-pagle"]=40,
+	["flexismxx-pagle"]=41,
 	["flightschool-pagle"]=41,
 	["flipssix-lei-shen"]=20,
 	["floplock-raden"]=81,
@@ -6529,7 +6529,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["fendrekron-pagle"]=19,
 	["fenfoo-pagle"]=10,
 	["fentamonk-pagle"]=10,
-	["feraldruidd-arugal-au"]=5,
+	["feraldruidd-arugal-au"]=12,
 	["feråltyger-pagle"]=0,
 	["fernandes-nazgrim"]=16,
 	["fernandita-galakras"]=21,
@@ -8062,7 +8062,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["murakami-raden"]=6,
 	["murder-raden"]=29,
 	["murderstein-raden"]=9,
-	["murdradis-pagle"]=15,
+	["murdradis-pagle"]=22,
 	["murica-lei-shen"]=3,
 	["muridin-galakras"]=20,
 	["muriel-pagle"]=16,
@@ -10011,8 +10011,8 @@ ns.SPECS_BY_REGION["us"] = {
 	["xarrstorm-immerseus"]=22,
 	["xarshadow-immerseus"]=24,
 	["xarstorm-immerseus"]=1,
-	["xatica-pagle"]=29,
-	["xatyka-pagle"]=11,
+	["xatica-pagle"]=14,
+	["xatyka-pagle"]=1,
 	["xavilier-pagle"]=29,
 	["xb-galakras"]=10,
 	["xcen-raden"]=18,
