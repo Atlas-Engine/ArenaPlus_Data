@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5357 characters, read 2026-10-25 02:00 PM.
+-- Region eu, 5357 characters, read 2026-10-25 03:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5506,7 +5506,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["azarrd-shekzeer"]=21,
 	["azarrdd-garalon"]=6,
 	["azdor-mirage-raceway"]=19,
-	["azelu-everlook"]=29,
+	["azelu-everlook"]=7,
 	["azgorrath-garalon"]=2,
 	["azraiil-garalon"]=8,
 	["azrailon-shekzeer"]=13,
@@ -6340,7 +6340,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["dxbam-shekzeer"]=9,
 	["dxbme-shekzeer"]=2,
 	["dxbom-shekzeer"]=21,
-	["dynalhia-mirage-raceway"]=1,
+	["dynalhia-mirage-raceway"]=18,
 	["dynarsia-shekzeer"]=3,
 	["dynther-shekzeer"]=1,
 	["dyrven-shekzeer"]=3,
@@ -9463,7 +9463,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["tren-shekzeer"]=9,
 	["trend-shekzeer"]=7,
 	["trendsetter-shekzeer"]=1,
-	["trera-norushen"]=6,
+	["trera-norushen"]=7,
 	["tresiba-garalon"]=2,
 	["trettonrätt-shekzeer"]=9,
 	["trgtacquired-mirage-raceway"]=16,

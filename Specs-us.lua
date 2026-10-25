@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5193 characters, read 2026-10-25 01:59 PM.
+-- Region us, 5193 characters, read 2026-10-25 02:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -890,7 +890,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["coyson-immerseus"]=10,
 	["cozeno-pagle"]=41,
 	["cpc-raden"]=10,
-	["cptfauk-pagle"]=51,
+	["cptfauk-pagle"]=50,
 	["cptoomerica-pagle"]=10,
 	["cptstabbin-pagle"]=10,
 	["crabrangoon-galakras"]=11,
@@ -1114,7 +1114,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["dieinahole-galakras"]=20,
 	["diella-raden"]=41,
 	["diellza-raden"]=11,
-	["diewar-raden"]=11,
+	["diewar-raden"]=10,
 	["digrat-galakras"]=51,
 	["dikhitswater-lei-shen"]=20,
 	["dilir-immerseus"]=50,
@@ -5238,7 +5238,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["asthenoz-pagle"]=6,
 	["astraea-arugal-au"]=9,
 	["astrea-raden"]=7,
-	["astríds-pagle"]=3,
+	["astríds-pagle"]=18,
 	["astyus-pagle"]=7,
 	["asunari-pagle"]=3,
 	["asunyobi-pagle"]=10,
@@ -5748,7 +5748,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["chaoscrittv-pagle"]=2,
 	["chaoscutie-galakras"]=24,
 	["chaôss-pagle"]=5,
-	["chäöss-pagle"]=14,
+	["chäöss-pagle"]=29,
 	["chaossy-pagle"]=24,
 	["chaotichunts-galakras"]=0,
 	["chaoticrush-lei-shen"]=24,
