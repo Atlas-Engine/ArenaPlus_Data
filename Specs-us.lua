@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5191 characters, read 2026-10-26 02:59 PM.
+-- Region us, 5191 characters, read 2026-10-26 03:54 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5942,7 +5942,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["cybrooke-lei-shen"]=18,
 	["cyclicc-pagle"]=0,
 	["cyclonebot-lei-shen"]=5,
-	["cyns-galakras"]=21,
+	["cyns-galakras"]=13,
 	["daarkglare-pagle"]=23,
 	["dabalot-raden"]=6,
 	["dabddaddy-raden"]=7,
@@ -5966,14 +5966,14 @@ ns.SPECS_BY_REGION["us"] = {
 	["damg-nazgrim"]=29,
 	["damimdialed-raden"]=3,
 	["dammyy-pagle"]=7,
-	["dampeners-raden"]=28,
+	["dampeners-raden"]=8,
 	["danar-raden"]=12,
 	["dáncingmines-raden"]=5,
 	["dandor-pagle"]=7,
 	["dangercat-immerseus"]=17,
 	["dankenbrew-lei-shen"]=4,
 	["dankendwarf-pagle"]=22,
-	["dankenelf-pagle"]=5,
+	["dankenelf-pagle"]=33,
 	["dankenshroom-lei-shen"]=12,
 	["dankenstein-lei-shen"]=22,
 	["dankorbs-pagle"]=4,
@@ -8065,7 +8065,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["muridin-galakras"]=20,
 	["muriel-pagle"]=16,
 	["muroran-pagle"]=9,
-	["muschrooms-nazgrim"]=5,
+	["muschrooms-nazgrim"]=17,
 	["mused-lei-shen"]=10,
 	["mush-raden"]=9,
 	["musician-raden"]=9,
