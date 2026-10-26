@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5191 characters, read 2026-10-26 03:54 PM.
+-- Region us, 5189 characters, read 2026-10-26 04:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -859,7 +859,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["cohenx-pagle"]=10,
 	["cohenxx-pagle"]=10,
 	["cojelosuave-pagle"]=10,
-	["colinferal-pagle"]=80,
+	["colinferal-pagle"]=40,
 	["coloredgreen-immerseus"]=41,
 	["côlyn-pagle"]=220,
 	["combusst-raden"]=11,
@@ -2427,7 +2427,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["klausjr-pagle"]=11,
 	["kledemarcos-nazgrim"]=20,
 	["klenzen-raden"]=11,
-	["klept-raden"]=10,
 	["kleptix-raden"]=10,
 	["knockoutdt-pagle"]=11,
 	["knottypawz-pagle"]=41,
@@ -5747,7 +5746,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["chaoscrittv-pagle"]=2,
 	["chaoscutie-galakras"]=24,
 	["chaôss-pagle"]=5,
-	["chäöss-pagle"]=29,
+	["chäöss-pagle"]=14,
 	["chaossy-pagle"]=24,
 	["chaotichunts-galakras"]=0,
 	["chaoticrush-lei-shen"]=24,
@@ -6569,7 +6568,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["fleshoflight-raden"]=16,
 	["flexi-pagle"]=10,
 	["flexism-pagle"]=11,
-	["flexismx-pagle"]=8,
+	["flexismx-pagle"]=24,
 	["flexismxx-pagle"]=11,
 	["flightschool-pagle"]=5,
 	["flipssix-lei-shen"]=18,
@@ -6761,7 +6760,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["glayzed-raden"]=19,
 	["gleef-pagle"]=0,
 	["glinna-raden"]=9,
-	["glitcho-immerseus"]=0,
 	["glitercheeks-pagle"]=17,
 	["glizzyjizzy-nazgrim"]=2,
 	["glogg-galakras"]=7,
@@ -6908,7 +6906,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["harrick-immerseus"]=34,
 	["härrick-immerseus"]=20,
 	["harrydotter-raden"]=28,
-	["harthgar-nazgrim"]=20,
+	["harthgar-nazgrim"]=3,
 	["haruchann-pagle"]=10,
 	["hashie-pagle"]=12,
 	["hatehord-pagle"]=18,
@@ -7479,7 +7477,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["klausjr-pagle"]=8,
 	["kledemarcos-nazgrim"]=15,
 	["klenzen-raden"]=10,
-	["klept-raden"]=4,
 	["kleptix-raden"]=34,
 	["knockoutdt-pagle"]=9,
 	["knottypawz-pagle"]=17,
@@ -7715,7 +7712,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["lostdata-raden"]=26,
 	["lothmar-pagle"]=24,
 	["lôukî-pagle"]=7,
-	["lovezone-lei-shen"]=2,
+	["lovezone-lei-shen"]=16,
 	["loxanna-raden"]=20,
 	["lsdd-raden"]=28,
 	["lsx-raden"]=9,
@@ -9469,7 +9466,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["tairné-galakras"]=14,
 	["takù-raden"]=17,
 	["talksíck-pagle"]=1,
-	["tamerac-raden"]=28,
+	["tamerac-raden"]=8,
 	["tamhee-immerseus"]=4,
 	["tammyjane-pagle"]=16,
 	["tamnar-immerseus"]=20,
