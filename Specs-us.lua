@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5188 characters, read 2026-10-26 12:59 PM.
+-- Region us, 5191 characters, read 2026-10-26 01:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1739,7 +1739,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["glasstoker-pagle"]=40,
 	["glayzed-raden"]=111,
 	["glinna-raden"]=41,
-	["glitcho-immerseus"]=101,
 	["glitercheeks-pagle"]=41,
 	["glizzyjizzy-nazgrim"]=101,
 	["glogg-galakras"]=20,
@@ -2923,6 +2922,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["monkjitsu-galakras"]=20,
 	["monksphere-immerseus"]=11,
 	["monktoohigh-pagle"]=70,
+	["monktty-lei-shen"]=11,
 	["monkx-raden"]=11,
 	["monstercrit-raden"]=10,
 	["monsyu-immerseus"]=260,
@@ -4440,6 +4440,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["tohataburet-pagle"]=60,
 	["tokonatsu-raden"]=41,
 	["tøkÿöghøül-raden"]=11,
+	["tomcantheal-galakras"]=220,
 	["tommytyphoon-raden"]=40,
 	["tomtwocox-raden"]=30,
 	["tonieh-pagle"]=10,
@@ -4498,6 +4499,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["trisomi-pagle"]=11,
 	["tritenxyz-raden"]=11,
 	["triver-galakras"]=260,
+	["trixx-lei-shen"]=80,
 	["trogath-atiesh"]=30,
 	["trojanbroke-raden"]=11,
 	["trojanbubble-pagle"]=11,
@@ -6231,7 +6233,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["drãkã-nazgrim"]=15,
 	["draknyel-galakras"]=4,
 	["draùnz-pagle"]=4,
-	["drazzuh-pagle"]=5,
+	["drazzuh-pagle"]=17,
 	["drbojackal-pagle"]=9,
 	["drcosby-pagle"]=12,
 	["drcrusher-galakras"]=9,
@@ -6759,7 +6761,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["glayzed-raden"]=19,
 	["gleef-pagle"]=0,
 	["glinna-raden"]=9,
-	["glitcho-immerseus"]=2,
+	["glitcho-immerseus"]=0,
 	["glitercheeks-pagle"]=17,
 	["glizzyjizzy-nazgrim"]=2,
 	["glogg-galakras"]=7,
@@ -8006,6 +8008,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["monkjitsu-galakras"]=10,
 	["monksphere-immerseus"]=10,
 	["monktoohigh-pagle"]=10,
+	["monktty-lei-shen"]=10,
 	["monkx-raden"]=10,
 	["monstercrit-raden"]=7,
 	["monstuh-pagle"]=0,
@@ -9607,6 +9610,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["tohataburet-pagle"]=5,
 	["tokonatsu-raden"]=17,
 	["tøkÿöghøül-raden"]=3,
+	["tomcantheal-galakras"]=5,
 	["tommytyphoon-raden"]=5,
 	["tomtwocox-raden"]=9,
 	["tonieh-pagle"]=1,
@@ -9668,6 +9672,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["trisomi-pagle"]=18,
 	["tritenxyz-raden"]=6,
 	["triver-galakras"]=10,
+	["trixx-lei-shen"]=28,
 	["trogath-atiesh"]=3,
 	["trojanbroke-raden"]=4,
 	["trojanbubble-pagle"]=2,

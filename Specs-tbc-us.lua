@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9355 characters, read 2026-10-26 12:58 PM.
+-- Region tbc-us, 9355 characters, read 2026-10-26 01:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10997,7 +10997,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["cxxi-nightslayer"]=4,
 	["cxzz-nightslayer"]=2,
 	["cyaidiot-nightslayer"]=13,
-	["cybee-dreamscythe"]=3,
+	["cybee-dreamscythe"]=7,
 	["cybéle-nightslayer"]=1,
 	["cyberbeastz-nightslayer"]=3,
 	["cyberblade-nightslayer"]=5,
@@ -12318,7 +12318,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["gemnz-nightslayer"]=2,
 	["gemoz-nightslayer"]=10,
 	["gemzi-nightslayer"]=1,
-	["genericw-nightslayer"]=2,
+	["genericw-nightslayer"]=18,
 	["genesister-dreamscythe"]=23,
 	["genevievch-dreamscythe"]=18,
 	["gêngar-nightslayer"]=5,
@@ -13565,7 +13565,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["kekliza-nightslayer"]=8,
 	["kekshookcen-nightslayer"]=7,
 	["kelanthor-nightslayer"]=21,
-	["keldora-nightslayer"]=2,
+	["keldora-nightslayer"]=18,
 	["kellén-nightslayer"]=5,
 	["kellenx-nightslayer"]=5,
 	["kellyy-nightslayer"]=25,
@@ -14560,7 +14560,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["mochaplxz-nightslayer"]=24,
 	["mochaplz-nightslayer"]=1,
 	["modain-nightslayer"]=4,
-	["model-nightslayer"]=8,
+	["model-nightslayer"]=5,
 	["modx-nightslayer"]=2,
 	["moebunga-nightslayer"]=3,
 	["moebunna-nightslayer"]=3,
@@ -15335,7 +15335,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["penancé-nightslayer"]=14,
 	["pénance-nightslayer"]=1,
 	["pendulam-dreamscythe"]=10,
-	["penix-nightslayer"]=18,
+	["penix-nightslayer"]=2,
 	["pennywies-nightslayer"]=4,
 	["pentradora-nightslayer"]=10,
 	["peo-nightslayer"]=1,
@@ -17417,7 +17417,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["thrasharzs-nightslayer"]=8,
 	["thrashtolive-nightslayer"]=3,
 	["threefeather-nightslayer"]=22,
-	["thricetsu-nightslayer"]=8,
+	["thricetsu-nightslayer"]=5,
 	["throbbingx-nightslayer"]=19,
 	["throbbingxd-nightslayer"]=24,
 	["throwpaws-nightslayer"]=3,
@@ -17481,7 +17481,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["tinyfearless-nightslayer"]=23,
 	["tinypp-nightslayer"]=0,
 	["tinyterror-nightslayer"]=2,
-	["titabitanaya-nightslayer"]=19,
+	["titabitanaya-nightslayer"]=10,
 	["titequeu-nightslayer"]=1,
 	["titsi-nightslayer"]=10,
 	["tjdotta-nightslayer"]=13,
