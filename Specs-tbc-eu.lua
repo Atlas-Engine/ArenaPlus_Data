@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9701 characters, read 2026-10-26 05:59 AM.
+-- Region tbc-eu, 9701 characters, read 2026-10-26 06:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10425,7 +10425,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["bigshiv-spineshatter"]=3,
 	["bigshocker-spineshatter"]=11,
 	["bigtaurène-spineshatter"]=1,
-	["bigtopg-spineshatter"]=2,
+	["bigtopg-spineshatter"]=17,
 	["bigtoybecky-spineshatter"]=15,
 	["bilbabo-spineshatter"]=2,
 	["bilbopippins-spineshatter"]=10,
@@ -10792,7 +10792,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["camelcorn-spineshatter"]=9,
 	["camill-spineshatter"]=2,
 	["canalisation-spineshatter"]=18,
-	["candx-spineshatter"]=9,
+	["candx-spineshatter"]=4,
 	["candypriest-thunderstrike"]=2,
 	["cantbearsed-spineshatter"]=3,
 	["cantlose-spineshatter"]=9,
@@ -11938,7 +11938,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["eikdruid-spineshatter"]=1,
 	["eikdruíd-spineshatter"]=6,
 	["eikdruìd-spineshatter"]=6,
-	["eïn-spineshatter"]=5,
+	["eïn-spineshatter"]=15,
 	["eisenkruste-spineshatter"]=11,
 	["ej-spineshatter"]=4,
 	["ejj-spineshatter"]=14,
@@ -13001,7 +13001,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["henchlex-spineshatter"]=5,
 	["henkone-spineshatter"]=5,
 	["henrikdruid-spineshatter"]=20,
-	["hepankok-spineshatter"]=22,
+	["hepankok-spineshatter"]=15,
 	["heptor-spineshatter"]=2,
 	["heraz-thunderstrike"]=15,
 	["herbivhore-spineshatter"]=1,

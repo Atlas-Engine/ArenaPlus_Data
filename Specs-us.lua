@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5188 characters, read 2026-10-26 05:59 AM.
+-- Region us, 5188 characters, read 2026-10-26 06:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4448,7 +4448,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["toorun-pagle"]=80,
 	["topshottaa-pagle"]=50,
 	["toquiktokill-benediction"]=30,
-	["torco-immerseus"]=20,
+	["torco-immerseus"]=10,
 	["torontopally-raden"]=11,
 	["tortaslayer-raden"]=10,
 	["tosco-raden"]=10,
@@ -7476,7 +7476,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["klausjr-pagle"]=8,
 	["kledemarcos-nazgrim"]=15,
 	["klenzen-raden"]=10,
-	["klept-raden"]=27,
+	["klept-raden"]=4,
 	["kleptix-raden"]=34,
 	["knockoutdt-pagle"]=9,
 	["knottypawz-pagle"]=17,
@@ -9627,10 +9627,10 @@ ns.SPECS_BY_REGION["us"] = {
 	["touchmywañd-nazgrim"]=1,
 	["touchofdiddy-raden"]=4,
 	["toughstuff-raden"]=7,
-	["tøxic-nazgrim"]=14,
+	["tøxic-nazgrim"]=29,
 	["tóxica-pagle"]=34,
 	["toxyc-galakras"]=21,
-	["toymonster-raden"]=12,
+	["toymonster-raden"]=5,
 	["toyoill-raden"]=18,
 	["tpjx-raden"]=10,
 	["tpodyo-raden"]=9,

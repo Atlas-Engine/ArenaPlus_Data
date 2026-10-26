@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9355 characters, read 2026-10-26 05:58 AM.
+-- Region tbc-us, 9357 characters, read 2026-10-26 06:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3838,6 +3838,7 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["intangibled-nightslayer"]=41,
 	["interestingg-nightslayer"]=71,
 	["interpret-dreamscythe"]=11,
+	["intheend-dreamscythe"]=60,
 	["inthelight-nightslayer"]=30,
 	["intis-nightslayer"]=101,
 	["inv-nightslayer"]=10,
@@ -6014,6 +6015,7 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["pelusa-nightslayer"]=50,
 	["penancé-nightslayer"]=50,
 	["pénance-nightslayer"]=31,
+	["pendulam-dreamscythe"]=21,
 	["penix-nightslayer"]=21,
 	["pennywies-nightslayer"]=51,
 	["pentradora-nightslayer"]=111,
@@ -11521,7 +11523,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["drsplash-nightslayer"]=13,
 	["drspongebob-nightslayer"]=10,
 	["drspunchbob-nightslayer"]=10,
-	["drstrangezz-nightslayer"]=6,
+	["drstrangezz-nightslayer"]=4,
 	["drthai-dreamscythe"]=7,
 	["drtimewizard-dreamscythe"]=25,
 	["drugdealin-nightslayer"]=12,
@@ -13122,6 +13124,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["intangibled-nightslayer"]=3,
 	["interestingg-nightslayer"]=4,
 	["interpret-dreamscythe"]=1,
+	["intheend-dreamscythe"]=7,
 	["inthelight-nightslayer"]=1,
 	["intis-nightslayer"]=9,
 	["inv-nightslayer"]=5,
@@ -14901,7 +14904,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ninjatoe-nightslayer"]=5,
 	["nips-nightslayer"]=1,
 	["nipz-nightslayer"]=0,
-	["nirawr-nightslayer"]=3,
+	["nirawr-nightslayer"]=7,
 	["nitazenes-nightslayer"]=1,
 	["niton-nightslayer"]=14,
 	["Ñíx-nightslayer"]=8,
@@ -15333,6 +15336,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["pelusa-nightslayer"]=5,
 	["penancé-nightslayer"]=14,
 	["pénance-nightslayer"]=1,
+	["pendulam-dreamscythe"]=10,
 	["penix-nightslayer"]=18,
 	["pennywies-nightslayer"]=4,
 	["pentradora-nightslayer"]=10,
@@ -15805,7 +15809,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ratcrap-dreamscythe"]=7,
 	["ratcuh-nightslayer"]=11,
 	["rateggs-nightslayer"]=17,
-	["ratfunts-nightslayer"]=6,
+	["ratfunts-nightslayer"]=4,
 	["ratidea-nightslayer"]=17,
 	["ratio-nightslayer"]=18,
 	["ratks-nightslayer"]=25,
@@ -17055,7 +17059,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["stokex-nightslayer"]=3,
 	["stokez-nightslayer"]=18,
 	["stompzz-nightslayer"]=2,
-	["stonedcop-nightslayer"]=12,
+	["stonedcop-nightslayer"]=1,
 	["stonédform-nightslayer"]=15,
 	["stonedformxd-nightslayer"]=1,
 	["stonedlion-nightslayer"]=10,

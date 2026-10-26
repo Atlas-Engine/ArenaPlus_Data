@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5360 characters, read 2026-10-26 06:00 AM.
+-- Region eu, 5360 characters, read 2026-10-26 07:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7669,7 +7669,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["magico-auberdine"]=2,
 	["magicon-garalon"]=2,
 	["magicsnap-shekzeer"]=20,
-	["magicstar-shekzeer"]=2,
+	["magicstar-shekzeer"]=10,
 	["magnificènt-shekzeer"]=2,
 	["magnolean-shekzeer"]=24,
 	["maîja-shekzeer"]=2,
@@ -7725,7 +7725,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["massacro-gehennas"]=0,
 	["massivecnt-shekzeer"]=4,
 	["matadora-shekzeer"]=1,
-	["matiel-shekzeer"]=3,
+	["matiel-shekzeer"]=11,
 	["matinaa-shekzeer"]=14,
 	["matora-ook-ook"]=1,
 	["matroxafk-shekzeer"]=23,
@@ -8818,7 +8818,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["såtanå-shekzeer"]=4,
 	["satånaz-shekzeer"]=4,
 	["satåntrapbot-shekzeer"]=4,
-	["satara-shekzeer"]=26,
+	["satara-shekzeer"]=34,
 	["satineta-shekzeer"]=34,
 	["satisfiedpri-shekzeer"]=9,
 	["saunabeer-gehennas"]=0,
@@ -9123,7 +9123,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["ßázzy-shekzeer"]=15,
 	["sscarlet-shekzeer"]=22,
 	["ßeast-garalon"]=14,
-	["ßenimãru-shekzeer"]=11,
+	["ßenimãru-shekzeer"]=3,
 	["ßlickxy-shekzeer"]=3,
 	["ßlinkd-shekzeer"]=2,
 	["ßm-shekzeer"]=6,
@@ -9668,7 +9668,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["vintster-shekzeer"]=24,
 	["vio-everlook"]=3,
 	["vioceptîon-everlook"]=19,
-	["vîper-mirage-raceway"]=32,
+	["vîper-mirage-raceway"]=21,
 	["viperfear-mirage-raceway"]=8,
 	["vishnyágødx-shekzeer"]=3,
 	["visionary-garalon"]=15,
@@ -9687,7 +9687,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["voireg-shekzeer"]=15,
 	["voldreth-everlook"]=15,
 	["voldrex-everlook"]=16,
-	["voljix-shekzeer"]=4,
+	["voljix-shekzeer"]=14,
 	["voljiz-shekzeer"]=1,
 	["volkris-shekzeer"]=15,
 	["volkrz-shekzeer"]=19,
