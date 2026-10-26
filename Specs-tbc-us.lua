@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9355 characters, read 2026-10-26 10:58 AM.
+-- Region tbc-us, 9355 characters, read 2026-10-26 11:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9710,7 +9710,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["babynovva-nightslayer"]=6,
 	["babyogurt-nightslayer"]=4,
 	["babyrazdar-nightslayer"]=13,
-	["babysham-nightslayer"]=19,
+	["babysham-nightslayer"]=10,
 	["babysoft-dreamscythe"]=19,
 	["babytickle-nightslayer"]=7,
 	["babyybillyy-nightslayer"]=1,
@@ -9923,7 +9923,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["benetanyahu-nightslayer"]=12,
 	["benjajr-nightslayer"]=1,
 	["benshocklin-nightslayer"]=19,
-	["benwl-nightslayer"]=23,
+	["benwl-nightslayer"]=16,
 	["benwll-nightslayer"]=23,
 	["benÿ-dreamscythe"]=5,
 	["béon-nightslayer"]=17,
@@ -11763,7 +11763,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["eprios-nightslayer"]=13,
 	["epstunned-nightslayer"]=5,
 	["equu-dreamscythe"]=10,
-	["er-nightslayer"]=2,
+	["er-nightslayer"]=18,
 	["erakamalah-nightslayer"]=19,
 	["eratrius-nightslayer"]=18,
 	["Êrb-nightslayer"]=17,
@@ -14137,7 +14137,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["lxr-nightslayer"]=18,
 	["lyariïi-dreamscythe"]=3,
 	["lyricalz-nightslayer"]=1,
-	["lyserdz-nightslayer"]=6,
+	["lyserdz-nightslayer"]=4,
 	["lyticqt-nightslayer"]=5,
 	["lyzlock-nightslayer"]=13,
 	["maadhung-nightslayer"]=4,
@@ -14854,7 +14854,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["nexecute-dreamscythe"]=18,
 	["nexshot-dreamscythe"]=15,
 	["nextgenesis-nightslayer"]=25,
-	["neytïrï-dreamscythe"]=3,
+	["neytïrï-dreamscythe"]=7,
 	["nezhra-dreamscythe"]=2,
 	["nezn-nightslayer"]=6,
 	["nezrul-dreamscythe"]=10,
@@ -16501,7 +16501,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["shiftytree-nightslayer"]=3,
 	["shigekazu-nightslayer"]=12,
 	["shigzy-nightslayer"]=1,
-	["shikumunss-dreamscythe"]=3,
+	["shikumunss-dreamscythe"]=7,
 	["shilly-nightslayer"]=2,
 	["shimo-nightslayer"]=2,
 	["shinbet-nightslayer"]=4,

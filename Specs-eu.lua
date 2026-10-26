@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5364 characters, read 2026-10-26 11:00 AM.
+-- Region eu, 5364 characters, read 2026-10-26 12:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1420,7 +1420,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["fortyfivemin-shekzeer"]=41,
 	["founcy-garalon"]=50,
 	["founcy-shekzeer"]=11,
-	["foundation-auberdine"]=11,
+	["foundation-auberdine"]=10,
 	["fournaîse-auberdine"]=11,
 	["foxløl-everlook"]=11,
 	["foxlôlly-everlook"]=11,
@@ -4444,7 +4444,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["wheyxw-shekzeer"]=11,
 	["whipmepls-shekzeer"]=11,
 	["whisp-garalon"]=41,
-	["whodid-shekzeer"]=41,
+	["whodid-shekzeer"]=40,
 	["whoppa-shekzeer"]=11,
 	["whowhatwhen-shekzeer"]=41,
 	["whynøøt-shekzeer"]=11,
@@ -6766,7 +6766,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["grönavesslan-shekzeer"]=11,
 	["grondax-norushen"]=5,
 	["grsy-shekzeer"]=6,
-	["grumpydumpy-shekzeer"]=17,
+	["grumpydumpy-shekzeer"]=28,
 	["grumpyolbaby-shekzeer"]=11,
 	["grumshado-hoptallus"]=6,
 	["gsek-shekzeer"]=1,
@@ -7623,7 +7623,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["lunaraj-shekzeer"]=11,
 	["lunarbolt-shekzeer"]=3,
 	["lundsberg-shekzeer"]=13,
-	["lunkka-hoptallus"]=12,
+	["lunkka-hoptallus"]=9,
 	["lunkkaa-hoptallus"]=2,
 	["lunnatic-shekzeer"]=23,
 	["lunnkka-hoptallus"]=21,
@@ -8679,7 +8679,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["riemukupla-shekzeer"]=9,
 	["righthook-shekzeer"]=7,
 	["rihannaøwned-everlook"]=2,
-	["rihannaxoxo-everlook"]=24,
+	["rihannaxoxo-everlook"]=34,
 	["rikimaru-shekzeer"]=26,
 	["riparena-shekzeer"]=17,
 	["ripgødx-garalon"]=1,
