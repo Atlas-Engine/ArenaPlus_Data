@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5360 characters, read 2026-10-26 02:00 AM.
+-- Region eu, 5360 characters, read 2026-10-26 03:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7426,7 +7426,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["kûroko-shekzeer"]=2,
 	["kurold-mirage-raceway"]=5,
 	["kurtat-shekzeer"]=26,
-	["kurttuqq-shekzeer"]=34,
+	["kurttuqq-shekzeer"]=26,
 	["kuruna-everlook"]=3,
 	["kusy-shekzeer"]=6,
 	["kusya-shekzeer"]=9,
@@ -8188,7 +8188,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["npbd-shekzeer"]=11,
 	["Ñqqa-shekzeer"]=1,
 	["nrg-shekzeer"]=24,
-	["nsé-garalon"]=5,
+	["nsé-garalon"]=15,
 	["ntbf-shekzeer"]=24,
 	["ntbfq-shekzeer"]=9,
 	["ntxfake-shekzeer"]=11,
@@ -8223,7 +8223,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["ofzppt-shekzeer"]=1,
 	["ogkushblôôm-everlook"]=3,
 	["oglappn-everlook"]=31,
-	["ogloj-shekzeer"]=5,
+	["ogloj-shekzeer"]=15,
 	["ogru-shekzeer"]=13,
 	["ogstreet-shekzeer"]=12,
 	["Ógstreet-shekzeer"]=13,
@@ -8266,7 +8266,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["operator-mirage-raceway"]=19,
 	["opheliah-shekzeer"]=4,
 	["ophellia-shekzeer"]=0,
-	["ophoiz-shekzeer"]=17,
+	["ophoiz-shekzeer"]=23,
 	["ophoizx-shekzeer"]=2,
 	["opiumdealer-shekzeer"]=2,
 	["opsy-norushen"]=10,
@@ -9927,7 +9927,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["yambol-garalon"]=3,
 	["yangka-shekzeer"]=0,
 	["yantra-shekzeer"]=16,
-	["yapful-shekzeer"]=5,
+	["yapful-shekzeer"]=15,
 	["yåpful-shekzeer"]=17,
 	["yaraki-mirage-raceway"]=2,
 	["yaruna-mirage-raceway"]=2,

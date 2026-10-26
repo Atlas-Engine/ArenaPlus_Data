@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5196 characters, read 2026-10-26 01:59 AM.
+-- Region us, 5196 characters, read 2026-10-26 02:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6920,7 +6920,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["hatehord-pagle"]=18,
 	["havitýx-raden"]=14,
 	["hãzel-pagle"]=17,
-	["hazi-galakras"]=20,
+	["hazi-galakras"]=3,
 	["hazì-galakras"]=12,
 	["hazí-pagle"]=1,
 	["hazzerrdd-pagle"]=6,
@@ -7494,13 +7494,13 @@ ns.SPECS_BY_REGION["us"] = {
 	["knuckles-pagle"]=7,
 	["knucklès-pagle"]=16,
 	["knucklës-pagle"]=8,
-	["knûckles-pagle"]=17,
+	["knûckles-pagle"]=5,
 	["kñuckles-pagle"]=6,
 	["knuklefkr-nazgrim"]=24,
 	["kobe-lei-shen"]=1,
 	["kokuzin-pagle"]=7,
 	["kolokk-immerseus"]=26,
-	["kongpho-pagle"]=16,
+	["kongpho-pagle"]=2,
 	["konishi-raden"]=27,
 	["konkachilla-raden"]=2,
 	["koreanbdash-pagle"]=1,
@@ -7838,7 +7838,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["marianslayer-pagle"]=7,
 	["mariaogkush-pagle"]=18,
 	["marna-pagle"]=5,
-	["marøon-raden"]=21,
+	["marøon-raden"]=9,
 	["marrnathan-raden"]=7,
 	["marrom-raden"]=0,
 	["marthel-lei-shen"]=6,
@@ -7906,7 +7906,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["merkon-lei-shen"]=7,
 	["merryraga-pagle"]=9,
 	["mesosilence-pagle"]=14,
-	["messey-lei-shen"]=24,
+	["messey-lei-shen"]=28,
 	["messigoat-nazgrim"]=10,
 	["mesv-pagle"]=1,
 	["mesyles-pagle"]=11,
@@ -9379,7 +9379,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["stooter-nazgrim"]=5,
 	["stootns-nazgrim"]=15,
 	["stooty-nazgrim"]=7,
-	["stoptalkme-raden"]=10,
+	["stoptalkme-raden"]=4,
 	["stormdaddyx-pagle"]=22,
 	["størmie-raden"]=15,
 	["stormieskye-galakras"]=17,
@@ -9852,7 +9852,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["virtuus-galakras"]=7,
 	["vîs-lei-shen"]=16,
 	["visenyxa-pagle"]=21,
-	["visions-pagle"]=28,
+	["visions-pagle"]=24,
 	["vitaly-nazgrim"]=17,
 	["vivabo-galakras"]=5,
 	["vlaxx-nazgrim"]=22,
