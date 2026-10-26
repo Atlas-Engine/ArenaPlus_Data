@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5187 characters, read 2026-10-25 07:59 PM.
+-- Region us, 5187 characters, read 2026-10-25 08:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5059,7 +5059,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["Àfterlifeqt-pagle"]=5,
 	["agame-pagle"]=13,
 	["aggron-galakras"]=0,
-	["agility-raden"]=3,
+	["agility-raden"]=20,
 	["agrosniper-pagle"]=3,
 	["ahdoniss-raden"]=22,
 	["ahrens-raden"]=14,
@@ -5093,7 +5093,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["alette-pagle"]=2,
 	["aléxandros-nazgrim"]=7,
 	["alexmateo-pagle"]=7,
-	["alexrrbb-raden"]=7,
+	["alexrrbb-raden"]=23,
 	["alextraxas-pagle"]=7,
 	["alezaar-raden"]=5,
 	["algreen-pagle"]=4,
@@ -5182,7 +5182,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["aquandrah-raden"]=5,
 	["ar-pagle"]=1,
 	["arae-pagle"]=24,
-	["araeul-lei-shen"]=20,
+	["araeul-lei-shen"]=3,
 	["arbiter-raden"]=17,
 	["arbolita-raden"]=5,
 	["arbuckyl-galakras"]=16,
@@ -5332,7 +5332,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["battleground-pagle"]=17,
 	["battleground-raden"]=4,
 	["battlehealz-galakras"]=21,
-	["bayol-raden"]=13,
+	["bayol-raden"]=21,
 	["bâz-arugal-au"]=1,
 	["bazblast-arugal-au"]=15,
 	["bazflay-arugal-au"]=21,
@@ -7474,7 +7474,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["knockoutdt-pagle"]=9,
 	["knottypawz-pagle"]=17,
 	["knuckles-pagle"]=7,
-	["knucklès-pagle"]=2,
+	["knucklès-pagle"]=16,
 	["knucklës-pagle"]=8,
 	["knûckles-pagle"]=17,
 	["kñuckles-pagle"]=6,

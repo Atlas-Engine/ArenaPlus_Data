@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5360 characters, read 2026-10-25 08:00 PM.
+-- Region eu, 5360 characters, read 2026-10-25 09:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5269,7 +5269,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Äjâx-auberdine"]=24,
 	["Äjäx-auberdine"]=20,
 	["akamugi-shekzeer"]=9,
-	["Ákamugi-shekzeer"]=11,
+	["Ákamugi-shekzeer"]=21,
 	["akar-shekzeer"]=10,
 	["akatuseiwa-shekzeer"]=13,
 	["akerbz-shekzeer"]=6,
@@ -9166,7 +9166,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["stìsho-shekzeer"]=7,
 	["stitchvnr-auberdine"]=33,
 	["stivkuling-shekzeer"]=2,
-	["stjärto-shekzeer"]=24,
+	["stjärto-shekzeer"]=26,
 	["stokssprime-shekzeer"]=14,
 	["stopfear-shekzeer"]=23,
 	["stopsheep-shekzeer"]=2,
@@ -9309,7 +9309,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["tbk-auberdine"]=15,
 	["tbòne-everlook"]=1,
 	["tdzd-firemaw"]=0,
-	["teals-shekzeer"]=4,
+	["teals-shekzeer"]=20,
 	["tealsbrew-shekzeer"]=6,
 	["tejbz-everlook"]=5,
 	["telander-everlook"]=1,
