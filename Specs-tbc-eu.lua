@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9703 characters, read 2026-10-26 11:59 AM.
+-- Region tbc-eu, 9703 characters, read 2026-10-26 12:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12010,7 +12010,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["elorsz-spineshatter"]=2,
 	["eloryel-spineshatter"]=4,
 	["elotheras-spineshatter"]=15,
-	["elowryn-spineshatter"]=19,
+	["elowryn-spineshatter"]=3,
 	["elplomo-thunderstrike"]=24,
 	["elpotato-spineshatter"]=1,
 	["elpotatò-spineshatter"]=1,
@@ -12127,7 +12127,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["esräpe-thunderstrike"]=7,
 	["essah-spineshatter"]=1,
 	["essáh-spineshatter"]=2,
-	["essentiale-spineshatter"]=6,
+	["essentiale-spineshatter"]=1,
 	["estatic-thunderstrike"]=15,
 	["estery-spineshatter"]=11,
 	["estoril-spineshatter"]=12,
@@ -12554,7 +12554,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["ftwfab-spineshatter"]=25,
 	["fudini-spineshatter"]=1,
 	["fuegoturbo-spineshatter"]=4,
-	["fuelex-thunderstrike"]=23,
+	["fuelex-thunderstrike"]=11,
 	["fugazzi-spineshatter"]=5,
 	["fúji-thunderstrike"]=19,
 	["fülcimpa-thunderstrike"]=1,
@@ -15596,7 +15596,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["nurfzy-spineshatter"]=1,
 	["nurofen-spineshatter"]=1,
 	["nushak-thunderstrike"]=26,
-	["nutcracky-spineshatter"]=9,
+	["nutcracky-spineshatter"]=4,
 	["nutellaskurk-spineshatter"]=3,
 	["nutlust-spineshatter"]=12,
 	["nuttý-spineshatter"]=15,
@@ -18070,7 +18070,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["thorgini-spineshatter"]=12,
 	["thorinn-spineshatter"]=8,
 	["thorny-spineshatter"]=17,
-	["thorzo-spineshatter"]=3,
+	["thorzo-spineshatter"]=19,
 	["thøs-spineshatter"]=5,
 	["thpi-spineshatter"]=3,
 	["thraxwf-spineshatter"]=12,

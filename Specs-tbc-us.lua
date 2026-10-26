@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9355 characters, read 2026-10-26 11:58 AM.
+-- Region tbc-us, 9355 characters, read 2026-10-26 12:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3040,6 +3040,7 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["geenox-nightslayer"]=81,
 	["geenoxx-nightslayer"]=50,
 	["geforcee-nightslayer"]=60,
+	["geganji-nightslayer"]=50,
 	["gem-dreamscythe"]=41,
 	["gemcat-nightslayer"]=41,
 	["gemnz-nightslayer"]=21,
@@ -7253,7 +7254,6 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["shynkuu-nightslayer"]=80,
 	["shyrack-nightslayer"]=60,
 	["shyrunic-nightslayer"]=21,
-	["sialara-nightslayer"]=11,
 	["sickflow-nightslayer"]=70,
 	["sicklikeme-nightslayer"]=11,
 	["sicknature-nightslayer"]=20,
@@ -11563,7 +11563,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["duffle-nightslayer"]=6,
 	["dugrem-nightslayer"]=7,
 	["duhblksheep-nightslayer"]=7,
-	["dukdukduk-nightslayer"]=7,
+	["dukdukduk-nightslayer"]=3,
 	["dulcepan-nightslayer"]=14,
 	["dullscythe-nightslayer"]=23,
 	["dumamae-nightslayer"]=11,
@@ -12311,6 +12311,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["geenox-nightslayer"]=6,
 	["geenoxx-nightslayer"]=6,
 	["geforcee-nightslayer"]=2,
+	["geganji-nightslayer"]=16,
 	["gegee-nightslayer"]=0,
 	["gem-dreamscythe"]=2,
 	["gemcat-nightslayer"]=7,
@@ -16233,7 +16234,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["sath-nightslayer"]=18,
 	["satisfyx-nightslayer"]=6,
 	["saucelordd-nightslayer"]=14,
-	["saucerman-nightslayer"]=5,
+	["saucerman-nightslayer"]=8,
 	["saucý-nightslayer"]=5,
 	["saunajerkx-nightslayer"]=5,
 	["savagegodx-nightslayer"]=5,
@@ -16586,7 +16587,6 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["shynkuu-nightslayer"]=1,
 	["shyrack-nightslayer"]=7,
 	["shyrunic-nightslayer"]=19,
-	["sialara-nightslayer"]=23,
 	["sickflow-nightslayer"]=2,
 	["sicklikeme-nightslayer"]=5,
 	["sicknature-nightslayer"]=10,
@@ -17417,7 +17417,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["thrasharzs-nightslayer"]=8,
 	["thrashtolive-nightslayer"]=3,
 	["threefeather-nightslayer"]=22,
-	["thricetsu-nightslayer"]=5,
+	["thricetsu-nightslayer"]=8,
 	["throbbingx-nightslayer"]=19,
 	["throbbingxd-nightslayer"]=24,
 	["throwpaws-nightslayer"]=3,
