@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5186 characters, read 2026-10-25 11:59 PM.
+-- Region us, 5186 characters, read 2026-10-26 12:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6286,7 +6286,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dsparxx-pagle"]=14,
 	["Ðßøzxs-raden"]=4,
 	["dtax-pagle"]=34,
-	["dubhub-galakras"]=16,
+	["dubhub-galakras"]=2,
 	["dubwise-raden"]=2,
 	["dubz-raden"]=4,
 	["dubzxx-raden"]=16,
@@ -8330,7 +8330,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["Önce-raden"]=34,
 	["oneeightsèvn-pagle"]=28,
 	["onehunid-raden"]=3,
-	["onelastdiddy-pagle"]=10,
+	["onelastdiddy-pagle"]=4,
 	["onelasthero-raden"]=2,
 	["onepiecem-pagle"]=4,
 	["onëshotwar-raden"]=7,
@@ -8509,7 +8509,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["pokemonk-galakras"]=10,
 	["polilla-pagle"]=28,
 	["poliwarx-pagle"]=6,
-	["polutropos-galakras"]=17,
+	["polutropos-galakras"]=5,
 	["pomserenity-raden"]=9,
 	["pongii-pagle"]=20,
 	["pookyzombean-nazgrim"]=6,
@@ -9489,7 +9489,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["teamobaggins-galakras"]=12,
 	["teatable-raden"]=1,
 	["technique-raden"]=7,
-	["tectros-pagle"]=30,
+	["tectros-pagle"]=7,
 	["tedespinguee-immerseus"]=4,
 	["teejayc-pagle"]=18,
 	["teejizzleqt-pagle"]=7,
@@ -10060,7 +10060,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["yekcoh-pagle"]=29,
 	["yellowspwn-raden"]=21,
 	["yelly-pagle"]=20,
-	["yerbastian-nazgrim"]=6,
+	["yerbastian-nazgrim"]=26,
 	["yermum-raden"]=7,
 	["yesindeedee-pagle"]=1,
 	["yesue-pagle"]=4,
