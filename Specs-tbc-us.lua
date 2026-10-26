@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9357 characters, read 2026-10-26 06:58 AM.
+-- Region tbc-us, 9357 characters, read 2026-10-26 07:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9712,7 +9712,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["babynovva-nightslayer"]=6,
 	["babyogurt-nightslayer"]=4,
 	["babyrazdar-nightslayer"]=13,
-	["babysham-nightslayer"]=10,
+	["babysham-nightslayer"]=19,
 	["babysoft-dreamscythe"]=19,
 	["babytickle-nightslayer"]=7,
 	["babyybillyy-nightslayer"]=1,
@@ -10415,7 +10415,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["buschfury-nightslayer"]=19,
 	["buschlattez-nightslayer"]=4,
 	["buschshift-nightslayer"]=22,
-	["bushwakkerr-nightslayer"]=2,
+	["bushwakkerr-nightslayer"]=20,
 	["busitwide-nightslayer"]=4,
 	["bustmybubble-dreamscythe"]=1,
 	["butexiron-nightslayer"]=18,
@@ -10719,7 +10719,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["cïx-nightslayer"]=2,
 	["ciy-dreamscythe"]=10,
 	["cjays-nightslayer"]=25,
-	["cjbreeze-dreamscythe"]=11,
+	["cjbreeze-dreamscythe"]=25,
 	["cjgg-nightslayer"]=10,
 	["cjglol-nightslayer"]=10,
 	["cjtwisty-dreamscythe"]=19,
@@ -14224,7 +14224,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["maltomilk-nightslayer"]=11,
 	["malvinfresh-nightslayer"]=15,
 	["malzira-nightslayer"]=14,
-	["mámácitá-nightslayer"]=11,
+	["mámácitá-nightslayer"]=9,
 	["manamanager-nightslayer"]=1,
 	["manaproblemz-dreamscythe"]=10,
 	["manashiner-nightslayer"]=10,

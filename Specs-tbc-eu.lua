@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9701 characters, read 2026-10-26 06:59 AM.
+-- Region tbc-eu, 9701 characters, read 2026-10-26 07:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1463,7 +1463,6 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["Çöçöjæmßö-spineshatter"]=50,
 	["cocojambaa-spineshatter"]=81,
 	["cocojambô-spineshatter"]=50,
-	["cocoma-spineshatter"]=21,
 	["codebrown-spineshatter"]=21,
 	["coffebreak-spineshatter"]=20,
 	["coffeecup-spineshatter"]=50,
@@ -2189,6 +2188,7 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["drloki-spineshatter"]=110,
 	["drmallow-spineshatter"]=31,
 	["drmasterz-spineshatter"]=50,
+	["drmehico-spineshatter"]=51,
 	["drmongrel-spineshatter"]=20,
 	["drmonstret-spineshatter"]=21,
 	["drnîx-thunderstrike"]=111,
@@ -11054,7 +11054,6 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["Çöçöjæmßö-spineshatter"]=3,
 	["cocojambaa-spineshatter"]=2,
 	["cocojambô-spineshatter"]=9,
-	["cocoma-spineshatter"]=13,
 	["codebrown-spineshatter"]=15,
 	["coffebreak-spineshatter"]=14,
 	["coffeecup-spineshatter"]=17,
@@ -11511,7 +11510,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["Ðiabla-spineshatter"]=5,
 	["diablè-spineshatter"]=5,
 	["dianenguyen-spineshatter"]=1,
-	["dibolol-spineshatter"]=1,
+	["dibolol-spineshatter"]=6,
 	["dibom-spineshatter"]=9,
 	["dicaprio-spineshatter"]=19,
 	["dicxz-spineshatter"]=2,
@@ -11792,6 +11791,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["drloki-spineshatter"]=23,
 	["drmallow-spineshatter"]=2,
 	["drmasterz-spineshatter"]=3,
+	["drmehico-spineshatter"]=8,
 	["drmongrel-spineshatter"]=5,
 	["drmonstret-spineshatter"]=23,
 	["drnîx-thunderstrike"]=23,
@@ -19088,7 +19088,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["yougods-spineshatter"]=2,
 	["youknowz-spineshatter"]=5,
 	["youmepriest-thunderstrike"]=8,
-	["youngdeniro-spineshatter"]=3,
+	["youngdeniro-spineshatter"]=19,
 	["youngdolphh-spineshatter"]=16,
 	["youngerol-spineshatter"]=2,
 	["youngma-spineshatter"]=1,
