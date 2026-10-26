@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9356 characters, read 2026-10-26 04:58 PM.
+-- Region tbc-us, 9356 characters, read 2026-10-26 05:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10358,7 +10358,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bubblinbenny-nightslayer"]=1,
 	["bubbrill-dreamscythe"]=1,
 	["bubikim-nightslayer"]=7,
-	["bubiss-nightslayer"]=1,
+	["bubiss-nightslayer"]=14,
 	["bubulle-nightslayer"]=9,
 	["bubzies-nightslayer"]=1,
 	["buckbaclot-dreamscythe"]=4,
@@ -10486,7 +10486,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["cancersaurus-nightslayer"]=13,
 	["candlewick-dreamscythe"]=13,
 	["canjam-dreamscythe"]=10,
-	["cannii-nightslayer"]=13,
+	["cannii-nightslayer"]=23,
 	["canola-nightslayer"]=3,
 	["canon-nightslayer"]=11,
 	["cantfear-nightslayer"]=16,
@@ -10980,7 +10980,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["cursiver-nightslayer"]=1,
 	["cutae-nightslayer"]=13,
 	["cutay-nightslayer"]=24,
-	["cutdown-nightslayer"]=5,
+	["cutdown-nightslayer"]=8,
 	["cuteboyirl-nightslayer"]=1,
 	["cutelilgirl-dreamscythe"]=1,
 	["cutelock-nightslayer"]=13,
@@ -11821,7 +11821,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["evilkin-nightslayer"]=8,
 	["evilmagicman-nightslayer"]=13,
 	["evilpinkzz-nightslayer"]=13,
-	["evilthap-dreamscythe"]=12,
+	["evilthap-dreamscythe"]=1,
 	["evilxhabibi-nightslayer"]=1,
 	["evirs-dreamscythe"]=19,
 	["evod-nightslayer"]=5,
@@ -11887,7 +11887,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["faeynn-nightslayer"]=5,
 	["faeynnbubble-nightslayer"]=25,
 	["faeynntank-nightslayer"]=2,
-	["fahr-nightslayer"]=18,
+	["fahr-nightslayer"]=2,
 	["fahzoo-nightslayer"]=12,
 	["faildpainter-nightslayer"]=8,
 	["failson-nightslayer"]=1,
@@ -11972,7 +11972,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["feesherr-nightslayer"]=14,
 	["feldargon-nightslayer"]=13,
 	["feldozer-dreamscythe"]=15,
-	["feleaf-nightslayer"]=18,
+	["feleaf-nightslayer"]=2,
 	["felóny-nightslayer"]=5,
 	["felorder-nightslayer"]=16,
 	["felrik-nightslayer"]=13,
@@ -15703,7 +15703,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["qterhounder-nightslayer"]=15,
 	["qtp-nightslayer"]=2,
 	["qtppc-nightslayer"]=1,
-	["quadrakal-nightslayer"]=5,
+	["quadrakal-nightslayer"]=8,
 	["quadrarogue-nightslayer"]=5,
 	["quadzilluh-nightslayer"]=10,
 	["quakelive-nightslayer"]=10,

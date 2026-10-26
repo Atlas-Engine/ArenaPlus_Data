@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5189 characters, read 2026-10-26 04:59 PM.
+-- Region us, 5189 characters, read 2026-10-26 05:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5594,7 +5594,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["brandopanda-galakras"]=10,
 	["brazzeal-pagle"]=16,
 	["brbcloning-pagle"]=5,
-	["brbsheeping-pagle"]=1,
+	["brbsheeping-pagle"]=31,
 	["breewdable-pagle"]=10,
 	["brendedoo-galakras"]=3,
 	["brewish-raden"]=4,
@@ -5603,7 +5603,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["brickyboi-lei-shen"]=6,
 	["bringindeath-galakras"]=23,
 	["brisgerzap-immerseus"]=22,
-	["brnzlolo-nazgrim"]=32,
+	["brnzlolo-nazgrim"]=16,
 	["broadtip-galakras"]=18,
 	["brocodex-raden"]=0,
 	["brojax-pagle"]=30,
@@ -5630,7 +5630,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["brunelan-pagle"]=0,
 	["brunosars-pagle"]=6,
 	["brustle-raden"]=5,
-	["brutality-galakras"]=23,
+	["brutality-galakras"]=7,
 	["brutalmystic-nazgrim"]=15,
 	["brutasaurus-galakras"]=7,
 	["brutøn-raden"]=7,
@@ -5663,7 +5663,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["burstinflams-pagle"]=0,
 	["burstzum-nazgrim"]=15,
 	["buryniceqt-raden"]=4,
-	["buster-raden"]=3,
+	["buster-raden"]=20,
 	["bustyshots-raden"]=20,
 	["butcherr-raden"]=18,
 	["buttafingaz-pagle"]=17,
@@ -5972,7 +5972,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dangercat-immerseus"]=17,
 	["dankenbrew-lei-shen"]=4,
 	["dankendwarf-pagle"]=22,
-	["dankenelf-pagle"]=33,
+	["dankenelf-pagle"]=12,
 	["dankenshroom-lei-shen"]=12,
 	["dankenstein-lei-shen"]=22,
 	["dankorbs-pagle"]=4,
@@ -6658,7 +6658,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["fyruss-pagle"]=20,
 	["gaarah-pagle"]=1,
 	["gabimaru-raden"]=4,
-	["gaejustin-pagle"]=12,
+	["gaejustin-pagle"]=33,
 	["gaêl-lei-shen"]=18,
 	["gaethje-raden"]=0,
 	["gaiden-nazgrim"]=34,
@@ -7712,7 +7712,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["lostdata-raden"]=26,
 	["lothmar-pagle"]=24,
 	["lôukî-pagle"]=7,
-	["lovezone-lei-shen"]=16,
+	["lovezone-lei-shen"]=2,
 	["loxanna-raden"]=20,
 	["lsdd-raden"]=28,
 	["lsx-raden"]=9,
