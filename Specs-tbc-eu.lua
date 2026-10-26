@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9701 characters, read 2026-10-26 04:59 AM.
+-- Region tbc-eu, 9701 characters, read 2026-10-26 05:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -16230,7 +16230,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["pushistiymeh-spineshatter"]=6,
 	["pushpullegs-spineshatter"]=2,
 	["pusipulla-spineshatter"]=25,
-	["puskapaska-spineshatter"]=14,
+	["puskapaska-spineshatter"]=18,
 	["pusslayerx-spineshatter"]=3,
 	["putánochka-spineshatter"]=5,
 	["putaro-thunderstrike"]=11,
@@ -17269,7 +17269,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["skìri-spineshatter"]=8,
 	["skizowizzard-spineshatter"]=5,
 	["skizzoskills-spineshatter"]=8,
-	["skjelten-spineshatter"]=15,
+	["skjelten-spineshatter"]=5,
 	["skolott-spineshatter"]=24,
 	["skrepp-spineshatter"]=23,
 	["skrillêx-spineshatter"]=13,
@@ -18676,7 +18676,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["wadufaq-spineshatter"]=3,
 	["wafelka-thunderstrike"]=2,
 	["wagyuheals-spineshatter"]=1,
-	["wagyumommy-spineshatter"]=4,
+	["wagyumommy-spineshatter"]=9,
 	["wagyuyu-spineshatter"]=1,
 	["wahchii-thunderstrike"]=8,
 	["wahum-spineshatter"]=2,

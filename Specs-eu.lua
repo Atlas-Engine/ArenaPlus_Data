@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5360 characters, read 2026-10-26 05:00 AM.
+-- Region eu, 5360 characters, read 2026-10-26 06:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5770,7 +5770,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["brywen-shekzeer"]=24,
 	["bs-mirage-raceway"]=13,
 	["bsdprime-shekzeer"]=6,
-	["bsød-mirage-raceway"]=16,
+	["bsød-mirage-raceway"]=13,
 	["bûbblebärbel-everlook"]=15,
 	["bubblebêé-everlook"]=5,
 	["bubblegmz-mirage-raceway"]=12,
@@ -7760,7 +7760,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["mëgâ-mirage-raceway"]=8,
 	["megacita-shekzeer"]=22,
 	["megcecmpa-shekzeer"]=5,
-	["meilev-hoptallus"]=21,
+	["meilev-hoptallus"]=3,
 	["mejorbrujoxd-shekzeer"]=17,
 	["mekishiko-shekzeer"]=9,
 	["melba-shekzeer"]=11,
@@ -7877,11 +7877,11 @@ ns.SPECS_BY_REGION["eu"] = {
 	["momequ-norushen"]=2,
 	["momine-shekzeer"]=3,
 	["momíne-shekzeer"]=3,
-	["mommadots-shekzeer"]=23,
+	["mommadots-shekzeer"]=17,
 	["monais-shekzeer"]=16,
 	["monduk-auberdine"]=7,
 	["moneylong-shekzeer"]=17,
-	["mongoliamonk-hoptallus"]=16,
+	["mongoliamonk-hoptallus"]=13,
 	["mongue-garalon"]=12,
 	["monkasxd-everlook"]=6,
 	["monkasxd-ook-ook"]=6,
@@ -9491,7 +9491,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["tryinglock-shekzeer"]=17,
 	["trytorun-shekzeer"]=4,
 	["tsima-shekzeer"]=3,
-	["tslx-shekzeer"]=16,
+	["tslx-shekzeer"]=13,
 	["tsouvirak-garalon"]=1,
 	["tsüfî-mirage-raceway"]=15,
 	["tsukasà-auberdine"]=16,
@@ -9726,7 +9726,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["wahtsup-shekzeer"]=6,
 	["waitwhatbro-shekzeer"]=3,
 	["waix-shekzeer"]=10,
-	["wakkabayashi-norushen"]=15,
+	["wakkabayashi-norushen"]=5,
 	["wãlter-shekzeer"]=9,
 	["warcrimes-shekzeer"]=25,
 	["wardz-mirage-raceway"]=2,
@@ -9743,7 +9743,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["warthorz-auberdine"]=25,
 	["wartinkin-norushen"]=8,
 	["warxd-auberdine"]=1,
-	["wasabî-auberdine"]=13,
+	["wasabî-auberdine"]=16,
 	["wasapwasap-shekzeer"]=4,
 	["wassimar-mirage-raceway"]=17,
 	["wasterzhi-hoptallus"]=15,
