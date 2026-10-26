@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5191 characters, read 2026-10-26 01:59 PM.
+-- Region us, 5191 characters, read 2026-10-26 02:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6069,7 +6069,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["déprivedsoul-pagle"]=2,
 	["deputyd-lei-shen"]=5,
 	["derion-galakras"]=16,
-	["derklek-pagle"]=18,
+	["derklek-pagle"]=3,
 	["desdrix-pagle"]=7,
 	["desecration-raden"]=6,
 	["despair-raden"]=5,
@@ -6141,7 +6141,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["distorte-pagle"]=5,
 	["distress-raden"]=4,
 	["Ðistrøyer-immerseus"]=7,
-	["ditrisus-pagle"]=3,
+	["ditrisus-pagle"]=20,
 	["diviñe-pagle"]=2,
 	["divinebleed-raden"]=7,
 	["divinehymnal-raden"]=0,
@@ -7003,7 +7003,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["holycøcktail-raden"]=2,
 	["holyfender-pagle"]=16,
 	["holyfkbubs-pagle"]=2,
-	["holyflamez-pagle"]=2,
+	["holyflamez-pagle"]=16,
 	["holyfluxq-pagle"]=9,
 	["holygym-nazgrim"]=13,
 	["holymar-pagle"]=6,
@@ -8848,7 +8848,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["rufusdru-pagle"]=5,
 	["rufusmonk-pagle"]=4,
 	["ruged-immerseus"]=5,
-	["ruggone-pagle"]=25,
+	["ruggone-pagle"]=6,
 	["rugrats-raden"]=4,
 	["ruhzong-pagle"]=20,
 	["ruinous-raden"]=7,

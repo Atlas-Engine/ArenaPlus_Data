@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5358 characters, read 2026-10-26 02:00 PM.
+-- Region eu, 5358 characters, read 2026-10-26 03:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6324,7 +6324,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["dunia-everlook"]=22,
 	["dunkelheit-shekzeer"]=9,
 	["dúpond-auberdine"]=3,
-	["durianlover-shekzeer"]=11,
+	["durianlover-shekzeer"]=3,
 	["duskmeh-shekzeer"]=1,
 	["duskyn-shekzeer"]=20,
 	["dusoleil-shekzeer"]=24,
@@ -6881,7 +6881,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["herjâ-shekzeer"]=0,
 	["hermán-shekzeer"]=15,
 	["hermenigilda-shekzeer"]=1,
-	["herõ-mirage-raceway"]=4,
+	["herõ-mirage-raceway"]=14,
 	["hetty-shekzeer"]=16,
 	["hevnlyst-shekzeer"]=6,
 	["hexador-everlook"]=23,
@@ -9030,7 +9030,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["smileyslayer-mirage-raceway"]=4,
 	["smille-shekzeer"]=5,
 	["smirnoffice-shekzeer"]=3,
-	["smîte-shekzeer"]=12,
+	["smîte-shekzeer"]=22,
 	["smo-shekzeer"]=11,
 	["smokepûrp-shekzeer"]=23,
 	["smokerz-mirage-raceway"]=24,
@@ -9571,7 +9571,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["untouchable-shekzeer"]=9,
 	["uploader-mirage-raceway"]=1,
 	["upskirt-everlook"]=26,
-	["uraltersack-shekzeer"]=25,
+	["uraltersack-shekzeer"]=1,
 	["urnightmare-shekzeer"]=7,
 	["urssaf-shekzeer"]=6,
 	["usualsuspect-shekzeer"]=4,
