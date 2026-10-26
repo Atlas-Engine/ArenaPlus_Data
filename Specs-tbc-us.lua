@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9355 characters, read 2026-10-26 03:58 AM.
+-- Region tbc-us, 9355 characters, read 2026-10-26 04:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11221,7 +11221,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["detslím-nightslayer"]=22,
 	["deucepolo-dreamscythe"]=11,
 	["deulbo-nightslayer"]=2,
-	["devilqtx-dreamscythe"]=18,
+	["devilqtx-dreamscythe"]=2,
 	["devloq-dreamscythe"]=13,
 	["devø-nightslayer"]=3,
 	["devstvenizza-nightslayer"]=1,
@@ -11253,7 +11253,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["diddystep-nightslayer"]=5,
 	["dieagnose-nightslayer"]=1,
 	["diesy-dreamscythe"]=10,
-	["diffbro-nightslayer"]=13,
+	["diffbro-nightslayer"]=23,
 	["digletthumb-nightslayer"]=9,
 	["diguin-nightslayer"]=4,
 	["diigit-nightslayer"]=19,
@@ -13756,7 +13756,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["kurbstompin-nightslayer"]=5,
 	["kurbstomprar-nightslayer"]=1,
 	["kurbstompsha-nightslayer"]=10,
-	["kurel-dreamscythe"]=1,
+	["kurel-dreamscythe"]=12,
 	["kuritas-nightslayer"]=14,
 	["kurlk-nightslayer"]=8,
 	["kuromiya-dreamscythe"]=1,
@@ -13873,7 +13873,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["lelzi-nightslayer"]=1,
 	["lemarky-nightslayer"]=1,
 	["lemonaid-nightslayer"]=22,
-	["lemonjack-nightslayer"]=11,
+	["lemonjack-nightslayer"]=9,
 	["lemonn-nightslayer"]=10,
 	["leozap-dreamscythe"]=5,
 	["lersonlust-nightslayer"]=10,
