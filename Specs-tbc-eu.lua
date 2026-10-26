@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9704 characters, read 2026-10-25 08:59 PM.
+-- Region tbc-eu, 9704 characters, read 2026-10-25 09:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12777,7 +12777,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["granimafia-spineshatter"]=16,
 	["grashokk-thunderstrike"]=13,
 	["gratitu-spineshatter"]=2,
-	["grausig-spineshatter"]=4,
+	["grausig-spineshatter"]=9,
 	["gravicius-thunderstrike"]=12,
 	["gravitypro-spineshatter"]=11,
 	["greave-spineshatter"]=15,
@@ -13289,7 +13289,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["imghay-spineshatter"]=4,
 	["iminixx-spineshatter"]=9,
 	["imkazay-thunderstrike"]=2,
-	["imminix-spineshatter"]=17,
+	["imminix-spineshatter"]=2,
 	["immo-spineshatter"]=11,
 	["immortalpri-spineshatter"]=2,
 	["immortalxl-spineshatter"]=1,
@@ -13378,7 +13378,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["isofora-thunderstrike"]=6,
 	["isomoria-thunderstrike"]=12,
 	["isosex-spineshatter"]=2,
-	["Íspøvéð-spineshatter"]=17,
+	["Íspøvéð-spineshatter"]=2,
 	["isputs-spineshatter"]=1,
 	["isputsftw-spineshatter"]=13,
 	["israhxz-spineshatter"]=2,
@@ -14114,7 +14114,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["kusysmack-spineshatter"]=8,
 	["kutak-spineshatter"]=6,
 	["kuumatyttö-spineshatter"]=19,
-	["kuzushi-spineshatter"]=2,
+	["kuzushi-spineshatter"]=17,
 	["kventiax-spineshatter"]=2,
 	["kvs-spineshatter"]=2,
 	["kwinn-spineshatter"]=5,
@@ -15002,7 +15002,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["moistxo-spineshatter"]=3,
 	["moistxx-spineshatter"]=3,
 	["mojogee-spineshatter"]=24,
-	["mojski-spineshatter"]=3,
+	["mojski-spineshatter"]=19,
 	["mokar-spineshatter"]=5,
 	["mokhgra-spineshatter"]=12,
 	["mokks-spineshatter"]=1,
@@ -17906,7 +17906,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["tatlos-spineshatter"]=9,
 	["tatøh-spineshatter"]=8,
 	["tatta-spineshatter"]=3,
-	["tatung-spineshatter"]=5,
+	["tatung-spineshatter"]=15,
 	["taurenglory-spineshatter"]=5,
 	["taurenlugge-spineshatter"]=1,
 	["taurenmaleye-spineshatter"]=6,
@@ -18947,7 +18947,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["xerez-spineshatter"]=11,
 	["xeriyo-spineshatter"]=1,
 	["xernz-spineshatter"]=1,
-	["xernzy-spineshatter"]=8,
+	["xernzy-spineshatter"]=2,
 	["xeroxd-thunderstrike"]=1,
 	["xersus-spineshatter"]=10,
 	["xexxi-spineshatter"]=5,

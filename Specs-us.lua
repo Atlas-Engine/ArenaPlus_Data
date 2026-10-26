@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5187 characters, read 2026-10-25 08:59 PM.
+-- Region us, 5187 characters, read 2026-10-25 09:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3388,7 +3388,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["playziyam-raden"]=41,
 	["plinkoitup-galakras"]=50,
 	["plsdontban-pagle"]=80,
-	["plum-raden"]=111,
+	["plum-raden"]=110,
 	["plume-raden"]=41,
 	["plumxo-raden"]=51,
 	["plv-raden"]=11,
@@ -6512,7 +6512,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["fendrekron-pagle"]=19,
 	["fenfoo-pagle"]=10,
 	["fentamonk-pagle"]=10,
-	["feraldruidd-arugal-au"]=12,
+	["feraldruidd-arugal-au"]=5,
 	["feråltyger-pagle"]=0,
 	["fernandes-nazgrim"]=16,
 	["fernandita-galakras"]=21,
@@ -7947,7 +7947,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["misprëdictio-nazgrim"]=21,
 	["missatrinni-pagle"]=0,
 	["missmama-galakras"]=5,
-	["missrollings-pagle"]=10,
+	["missrollings-pagle"]=4,
 	["misstotem-pagle"]=15,
 	["missyu-immerseus"]=23,
 	["mistafistuh-pagle"]=4,
@@ -9322,7 +9322,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["stábbý-pagle"]=29,
 	["stabualot-nazgrim"]=14,
 	["stâmpfairtex-raden"]=14,
-	["stàn-immerseus"]=3,
+	["stàn-immerseus"]=20,
 	["starielle-pagle"]=9,
 	["starlordes-pagle"]=3,
 	["starmaker-pagle"]=19,
