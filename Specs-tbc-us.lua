@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9355 characters, read 2026-10-26 09:58 AM.
+-- Region tbc-us, 9355 characters, read 2026-10-26 10:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12592,7 +12592,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["gumhotc-nightslayer"]=7,
 	["gummy-nightslayer"]=14,
 	["gumsack-nightslayer"]=4,
-	["gundolff-nightslayer"]=14,
+	["gundolff-nightslayer"]=1,
 	["gunhand-nightslayer"]=15,
 	["gunnagitcha-nightslayer"]=24,
 	["gunnyd-nightslayer"]=7,
@@ -16151,7 +16151,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["rvcax-nightslayer"]=5,
 	["rxger-nightslayer"]=10,
 	["rxllex-nightslayer"]=4,
-	["rxnoc-nightslayer"]=19,
+	["rxnoc-nightslayer"]=10,
 	["rxx-nightslayer"]=2,
 	["rxxa-nightslayer"]=0,
 	["rxxd-nightslayer"]=18,
@@ -17828,7 +17828,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["vanderden-nightslayer"]=2,
 	["vandriel-nightslayer"]=2,
 	["vanhoutte-nightslayer"]=2,
-	["vanillajuice-dreamscythe"]=2,
+	["vanillajuice-dreamscythe"]=18,
 	["vanishbrb-nightslayer"]=8,
 	["vanishh-nightslayer"]=8,
 	["vanishxoxo-nightslayer"]=14,
