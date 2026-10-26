@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5186 characters, read 2026-10-25 10:59 PM.
+-- Region us, 5186 characters, read 2026-10-25 11:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6331,7 +6331,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["eattis-pagle"]=9,
 	["ebaylol-raden"]=1,
 	["ebolarama-galakras"]=2,
-	["ecafkcufhi-raden"]=10,
+	["ecafkcufhi-raden"]=4,
 	["echodotx-raden"]=9,
 	["eci-raden"]=9,
 	["ecmoo-pagle"]=4,
@@ -7757,7 +7757,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["machetelol-pagle"]=12,
 	["macombo-galakras"]=14,
 	["madam-pagle"]=16,
-	["maddlexie-pagle"]=24,
+	["maddlexie-pagle"]=28,
 	["madlisa-raden"]=7,
 	["madmadman-pagle"]=7,
 	["madmickie-pagle"]=7,
@@ -9738,7 +9738,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["unclecuh-immerseus"]=17,
 	["undeaddeavo-galakras"]=25,
 	["undeaddevo-galakras"]=11,
-	["undeadøse-nazgrim"]=9,
+	["undeadøse-nazgrim"]=21,
 	["undinger-immerseus"]=7,
 	["unequaled-lei-shen"]=16,
 	["unethikal-lei-shen"]=2,
