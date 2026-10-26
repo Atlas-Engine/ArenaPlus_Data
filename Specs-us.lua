@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5188 characters, read 2026-10-26 07:59 AM.
+-- Region us, 5188 characters, read 2026-10-26 08:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4261,7 +4261,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["susuwatarii-pagle"]=11,
 	["suwhoo-pagle"]=10,
 	["suxatmage-immerseus"]=50,
-	["swagasaurus-raden"]=11,
+	["swagasaurus-raden"]=10,
 	["swangydangy-raden"]=10,
 	["swasbuck-galakras"]=60,
 	["swatemtawkin-raden"]=30,
@@ -5604,7 +5604,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["brnzlolo-nazgrim"]=32,
 	["broadtip-galakras"]=18,
 	["brocodex-raden"]=0,
-	["brojax-pagle"]=7,
+	["brojax-pagle"]=30,
 	["broleebro-raden"]=15,
 	["bromiro-pagle"]=0,
 	["bronzeagebud-raden"]=12,
@@ -6992,7 +6992,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["hojosatoru-raden"]=16,
 	["hojreplol-raden"]=16,
 	["hojville-pagle"]=16,
-	["holidayhamii-pagle"]=16,
+	["holidayhamii-pagle"]=2,
 	["holmz-pagle"]=3,
 	["holtxd-raden"]=7,
 	["holyangelz-pagle"]=2,
@@ -7011,7 +7011,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["holysnîper-grobbulus"]=3,
 	["holythugx-pagle"]=16,
 	["holytick-pagle"]=2,
-	["holyvale-pagle"]=21,
+	["holyvale-pagle"]=13,
 	["hólyy-raden"]=16,
 	["holyywarr-raden"]=7,
 	["homiecuh-nazgrim"]=28,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9701 characters, read 2026-10-26 07:59 AM.
+-- Region tbc-eu, 9701 characters, read 2026-10-26 08:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -15902,7 +15902,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["pekerogue-spineshatter"]=19,
 	["pekkahpig-spineshatter"]=15,
 	["pekkahx-spineshatter"]=11,
-	["pekzugzug-thunderstrike"]=5,
+	["pekzugzug-thunderstrike"]=22,
 	["pellex-spineshatter"]=2,
 	["pelsklumpen-thunderstrike"]=12,
 	["penancehero-spineshatter"]=2,
@@ -17061,7 +17061,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["shartah-spineshatter"]=11,
 	["shäs-spineshatter"]=11,
 	["shàterx-spineshatter"]=2,
-	["shaterz-spineshatter"]=13,
+	["shaterz-spineshatter"]=14,
 	["shativa-spineshatter"]=1,
 	["shattrazé-spineshatter"]=2,
 	["shatuk-spineshatter"]=12,
@@ -17893,7 +17893,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["targor-spineshatter"]=11,
 	["targow-spineshatter"]=9,
 	["tariic-spineshatter"]=9,
-	["tarthor-spineshatter"]=11,
+	["tarthor-spineshatter"]=23,
 	["tartiflettes-spineshatter"]=12,
 	["tasdmerd-spineshatter"]=3,
 	["tastykrousty-spineshatter"]=5,
@@ -18331,7 +18331,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["tweetieyo-spineshatter"]=11,
 	["twigsbee-spineshatter"]=24,
 	["twinii-spineshatter"]=13,
-	["twinkøff-spineshatter"]=18,
+	["twinkøff-spineshatter"]=13,
 	["twinsqt-spineshatter"]=23,
 	["twisky-spineshatter"]=4,
 	["twistaaja-spineshatter"]=7,
@@ -19088,7 +19088,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["yougods-spineshatter"]=2,
 	["youknowz-spineshatter"]=5,
 	["youmepriest-thunderstrike"]=8,
-	["youngdeniro-spineshatter"]=19,
+	["youngdeniro-spineshatter"]=3,
 	["youngdolphh-spineshatter"]=16,
 	["youngerol-spineshatter"]=2,
 	["youngma-spineshatter"]=1,
