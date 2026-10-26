@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9357 characters, read 2026-10-26 08:58 AM.
+-- Region tbc-us, 9355 characters, read 2026-10-26 09:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4971,7 +4971,6 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["mashe-nightslayer"]=30,
 	["mashingit-nightslayer"]=11,
 	["massaxer-nightslayer"]=20,
-	["massivecarry-nightslayer"]=40,
 	["massivemule-dreamscythe"]=40,
 	["massivewar-nightslayer"]=10,
 	["mastashlong-nightslayer"]=60,
@@ -7925,7 +7924,6 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["tanggo-dreamscythe"]=70,
 	["tanglez-nightslayer"]=60,
 	["tankaa-dreamscythe"]=10,
-	["tankawarden-nightslayer"]=60,
 	["tankface-nightslayer"]=101,
 	["tanktrack-nightslayer"]=60,
 	["tankyboyy-dreamscythe"]=70,
@@ -14278,7 +14276,6 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["mashe-nightslayer"]=20,
 	["mashingit-nightslayer"]=2,
 	["massaxer-nightslayer"]=19,
-	["massivecarry-nightslayer"]=7,
 	["massivemule-dreamscythe"]=3,
 	["massivewar-nightslayer"]=2,
 	["mastashlong-nightslayer"]=18,
@@ -16736,7 +16733,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["slothmoo-nightslayer"]=7,
 	["slowbolt-nightslayer"]=6,
 	["sloweyes-nightslayer"]=7,
-	["slowfast-nightslayer"]=16,
+	["slowfast-nightslayer"]=13,
 	["slugpax-nightslayer"]=5,
 	["slumshocks-dreamscythe"]=19,
 	["slumwar-dreamscythe"]=18,
@@ -17265,7 +17262,6 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["tanggo-dreamscythe"]=2,
 	["tanglez-nightslayer"]=7,
 	["tankaa-dreamscythe"]=2,
-	["tankawarden-nightslayer"]=19,
 	["tankface-nightslayer"]=25,
 	["tanktrack-nightslayer"]=2,
 	["tankyboyy-dreamscythe"]=2,

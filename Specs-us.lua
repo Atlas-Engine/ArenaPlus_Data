@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5188 characters, read 2026-10-26 08:59 AM.
+-- Region us, 5188 characters, read 2026-10-26 09:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7374,7 +7374,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["kamikylol-pagle"]=29,
 	["kamiyam-raden"]=6,
 	["kánabiss-galakras"]=3,
-	["kandì-pagle"]=1,
+	["kandì-pagle"]=31,
 	["kanol-immerseus"]=3,
 	["kaptnascend-pagle"]=22,
 	["kaptnhard-pagle"]=24,
@@ -8471,7 +8471,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["pigfarmerjoe-pagle"]=3,
 	["pimen-pagle"]=1,
 	["pinguen-pagle"]=0,
-	["pinguisulina-galakras"]=29,
+	["pinguisulina-galakras"]=14,
 	["pinkdreads-pagle"]=12,
 	["pinkfinder-pagle"]=21,
 	["pinkfiregg-pagle"]=10,

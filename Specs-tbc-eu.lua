@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9701 characters, read 2026-10-26 08:59 AM.
+-- Region tbc-eu, 9701 characters, read 2026-10-26 09:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -15200,7 +15200,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["nabila-spineshatter"]=13,
 	["nabyllou-spineshatter"]=10,
 	["nachalix-thunderstrike"]=12,
-	["nachø-spineshatter"]=4,
+	["nachø-spineshatter"]=9,
 	["nåcktschneck-spineshatter"]=9,
 	["nadiaoffbach-spineshatter"]=2,
 	["nadrampb-thunderstrike"]=2,
@@ -16636,7 +16636,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["roidmonki-spineshatter"]=5,
 	["roirana-spineshatter"]=15,
 	["röken-spineshatter"]=5,
-	["rokhnar-spineshatter"]=3,
+	["rokhnar-spineshatter"]=19,
 	["rokhsan-spineshatter"]=2,
 	["rolerf-spineshatter"]=3,
 	["rolexmale-spineshatter"]=3,
@@ -17652,7 +17652,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["stgr-spineshatter"]=3,
 	["stickán-spineshatter"]=15,
 	["stickumz-thunderstrike"]=5,
-	["stickydotdk-thunderstrike"]=13,
+	["stickydotdk-thunderstrike"]=18,
 	["stickynova-spineshatter"]=9,
 	["stiebie-spineshatter"]=17,
 	["stiga-spineshatter"]=2,
