@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5360 characters, read 2026-10-26 03:00 AM.
+-- Region eu, 5360 characters, read 2026-10-26 04:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3475,7 +3475,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["rydothedk-everlook"]=11,
 	["rýdøthègøátx-everlook"]=110,
 	["rydotheholy-everlook"]=10,
-	["rydothemage-everlook"]=10,
+	["rydothemage-everlook"]=11,
 	["rydothemonk-everlook"]=11,
 	["rydotheret-everlook"]=10,
 	["rydotheroq-everlook"]=10,
@@ -8026,7 +8026,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["nâzrins-shekzeer"]=23,
 	["neatø-shekzeer"]=4,
 	["nebuplum-shekzeer"]=28,
-	["necrodædz-everlook"]=12,
+	["necrodædz-everlook"]=22,
 	["necromancy-shekzeer"]=17,
 	["necrot-hoptallus"]=24,
 	["necroticflow-shekzeer"]=8,
@@ -8758,7 +8758,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["rydothedk-everlook"]=8,
 	["rýdøthègøátx-everlook"]=19,
 	["rydotheholy-everlook"]=9,
-	["rydothemage-everlook"]=10,
+	["rydothemage-everlook"]=2,
 	["rydothemonk-everlook"]=7,
 	["rydotheret-everlook"]=5,
 	["rydotheroq-everlook"]=24,
@@ -9917,7 +9917,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["xúén-shekzeer"]=7,
 	["xulior-everlook"]=1,
 	["xulthiær-everlook"]=9,
-	["xulthiar-everlook"]=9,
+	["xulthiar-everlook"]=12,
 	["xulthior-everlook"]=2,
 	["xuone-hoptallus"]=25,
 	["xyána-everlook"]=9,

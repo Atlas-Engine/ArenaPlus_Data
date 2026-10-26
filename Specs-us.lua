@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5196 characters, read 2026-10-26 02:59 AM.
+-- Region us, 5196 characters, read 2026-10-26 03:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7805,7 +7805,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["makura-raden"]=1,
 	["malavenar-raden"]=5,
 	["maleficá-nazgrim"]=24,
-	["malirya-raden"]=9,
+	["malirya-raden"]=21,
 	["mállkü-pagle"]=22,
 	["mallkually-pagle"]=15,
 	["malmighty-pagle"]=3,
@@ -7969,7 +7969,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["missrollings-pagle"]=4,
 	["misstotem-pagle"]=15,
 	["missyu-immerseus"]=23,
-	["mistafistuh-pagle"]=4,
+	["mistafistuh-pagle"]=10,
 	["mistnme-pagle"]=0,
 	["mistortea-pagle"]=4,
 	["mistwalk-pagle"]=0,
@@ -9833,7 +9833,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["vertara-raden"]=2,
 	["veryuska-pagle"]=13,
 	["vespareia-pagle"]=20,
-	["vettaex-arugal-au"]=21,
+	["vettaex-arugal-au"]=9,
 	["vexe-pagle"]=2,
 	["veygâ-pagle"]=20,
 	["viadin-lei-shen"]=16,
@@ -9848,7 +9848,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["vildennx-raden"]=0,
 	["vilhelms-nazgrim"]=7,
 	["violet-raden"]=1,
-	["vipyrs-pagle"]=8,
+	["vipyrs-pagle"]=28,
 	["virtuus-galakras"]=7,
 	["vîs-lei-shen"]=16,
 	["visenyxa-pagle"]=21,
@@ -9881,7 +9881,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["vulture-raden"]=9,
 	["vvalaydia-pagle"]=1,
 	["vvarrior-raden"]=6,
-	["vvuvvuuvvuvv-raden"]=1,
+	["vvuvvuuvvuvv-raden"]=11,
 	["vyaphets-immerseus"]=1,
 	["vyndruh-pagle"]=2,
 	["vysifer-pagle"]=24,
