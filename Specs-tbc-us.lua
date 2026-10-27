@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9364 characters, read 2026-10-27 06:58 AM.
+-- Region tbc-us, 9364 characters, read 2026-10-27 07:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9765,7 +9765,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bakey-dreamscythe"]=6,
 	["bakshotlarry-nightslayer"]=4,
 	["bakstab-nightslayer"]=5,
-	["balalalalu-dreamscythe"]=15,
+	["balalalalu-dreamscythe"]=17,
 	["baldandthicc-nightslayer"]=1,
 	["baldazario-nightslayer"]=2,
 	["baldbulla-nightslayer"]=16,
@@ -9848,7 +9848,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["baxter-nightslayer"]=2,
 	["bayexplorer-nightslayer"]=19,
 	["baygoners-nightslayer"]=10,
-	["baylers-dreamscythe"]=18,
+	["baylers-dreamscythe"]=2,
 	["bayyn-dreamscythe"]=22,
 	["baziz-nightslayer"]=4,
 	["bazook-nightslayer"]=13,
@@ -12136,7 +12136,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["fora-nightslayer"]=2,
 	["forést-nightslayer"]=10,
 	["forestcleave-nightslayer"]=24,
-	["forevermorez-dreamscythe"]=25,
+	["forevermorez-dreamscythe"]=11,
 	["förstelnad-nightslayer"]=3,
 	["forsy-nightslayer"]=2,
 	["fortnitegodx-nightslayer"]=7,
@@ -12790,7 +12790,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["hidrogênio-nightslayer"]=4,
 	["hielo-nightslayer"]=0,
 	["higher-nightslayer"]=5,
-	["highfade-nightslayer"]=10,
+	["highfade-nightslayer"]=24,
 	["highqts-nightslayer"]=4,
 	["highx-nightslayer"]=19,
 	["hiimhunterxd-nightslayer"]=4,
@@ -14038,7 +14038,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["lonewolfx-nightslayer"]=1,
 	["longboat-nightslayer"]=2,
 	["longfive-nightslayer"]=1,
-	["longgege-nightslayer"]=19,
+	["longgege-nightslayer"]=10,
 	["longstalker-nightslayer"]=1,
 	["looks-nightslayer"]=8,
 	["looksmaxxing-nightslayer"]=18,
@@ -16158,7 +16158,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["rushie-nightslayer"]=18,
 	["rustyspyda-nightslayer"]=1,
 	["rutheal-dreamscythe"]=1,
-	["ruthieree-dreamscythe"]=14,
+	["ruthieree-dreamscythe"]=1,
 	["ruusk-nightslayer"]=10,
 	["ruxl-nightslayer"]=18,
 	["ruzok-nightslayer"]=2,
