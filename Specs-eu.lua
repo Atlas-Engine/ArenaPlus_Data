@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5361 characters, read 2026-10-27 05:00 AM.
+-- Region eu, 5361 characters, read 2026-10-27 06:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4445,7 +4445,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["wheyxw-shekzeer"]=11,
 	["whipmepls-shekzeer"]=11,
 	["whisp-garalon"]=41,
-	["whodid-shekzeer"]=40,
+	["whodid-shekzeer"]=41,
 	["whoppa-shekzeer"]=11,
 	["whowhatwhen-shekzeer"]=41,
 	["whynøøt-shekzeer"]=11,
@@ -6886,7 +6886,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["herjâ-shekzeer"]=0,
 	["hermán-shekzeer"]=15,
 	["hermenigilda-shekzeer"]=1,
-	["herõ-mirage-raceway"]=14,
+	["herõ-mirage-raceway"]=4,
 	["hetty-shekzeer"]=16,
 	["hevnlyst-shekzeer"]=6,
 	["hexador-everlook"]=17,
@@ -7793,7 +7793,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["mewkaqt-shekzeer"]=34,
 	["mezcladito-shekzeer"]=14,
 	["mhealkà-auberdine"]=30,
-	["mhyaazz-hoptallus"]=4,
+	["mhyaazz-hoptallus"]=14,
 	["miamilkova-everlook"]=22,
 	["micayahr-everlook"]=24,
 	["michaell-shekzeer"]=24,
@@ -7841,7 +7841,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["miroc-shekzeer"]=1,
 	["misann-hoptallus"]=9,
 	["mishlen-shekzeer"]=13,
-	["misne-shekzeer"]=6,
+	["misne-shekzeer"]=29,
 	["missaicecity-shekzeer"]=3,
 	["missisclone-shekzeer"]=11,
 	["missota-shekzeer"]=11,
@@ -9732,7 +9732,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["wahaj-shekzeer"]=2,
 	["wahtsup-shekzeer"]=6,
 	["waix-shekzeer"]=10,
-	["wakkabayashi-norushen"]=5,
+	["wakkabayashi-norushen"]=15,
 	["wãlter-shekzeer"]=9,
 	["warcrimes-shekzeer"]=25,
 	["wardz-mirage-raceway"]=2,
@@ -9804,7 +9804,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["windwålker-shekzeer"]=6,
 	["windztr-mirage-raceway"]=7,
 	["wingsfuhrer-shekzeer"]=15,
-	["wink-mirage-raceway"]=6,
+	["wink-mirage-raceway"]=7,
 	["winkaay-shekzeer"]=13,
 	["winkay-shekzeer"]=3,
 	["winkáy-shekzeer"]=2,

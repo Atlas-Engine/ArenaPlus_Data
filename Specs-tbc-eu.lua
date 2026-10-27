@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9713 characters, read 2026-10-27 04:59 AM.
+-- Region tbc-eu, 9713 characters, read 2026-10-27 05:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12158,7 +12158,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["eveningstars-thunderstrike"]=14,
 	["everlost-spineshatter"]=9,
 	["everman-spineshatter"]=13,
-	["evërsince-spineshatter"]=24,
+	["evërsince-spineshatter"]=25,
 	["evev-spineshatter"]=4,
 	["Évident-spineshatter"]=1,
 	["evìe-spineshatter"]=1,
@@ -13921,7 +13921,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["kikoobibtoo-spineshatter"]=2,
 	["kilipäärambo-spineshatter"]=9,
 	["killerbeebop-spineshatter"]=18,
-	["killmemyself-spineshatter"]=19,
+	["killmemyself-spineshatter"]=3,
 	["killonz-spineshatter"]=9,
 	["killux-thunderstrike"]=3,
 	["kilminda-spineshatter"]=5,
@@ -15915,7 +15915,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["peeskgb-spineshatter"]=12,
 	["peggz-spineshatter"]=15,
 	["peï-thunderstrike"]=13,
-	["pekerogue-spineshatter"]=19,
+	["pekerogue-spineshatter"]=3,
 	["pekkahpig-spineshatter"]=15,
 	["pekkahx-spineshatter"]=11,
 	["pekzugzug-thunderstrike"]=22,
@@ -16892,7 +16892,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["schmeckow-spineshatter"]=5,
 	["schmendit-spineshatter"]=11,
 	["schmex-spineshatter"]=4,
-	["schmexx-spineshatter"]=17,
+	["schmexx-spineshatter"]=2,
 	["schmexy-spineshatter"]=9,
 	["schmini-spineshatter"]=5,
 	["schmockz-spineshatter"]=12,

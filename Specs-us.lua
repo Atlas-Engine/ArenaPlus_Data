@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5194 characters, read 2026-10-27 04:59 AM.
+-- Region us, 5194 characters, read 2026-10-27 05:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5541,7 +5541,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["bojackalx-pagle"]=7,
 	["bojackalxx-pagle"]=7,
 	["boloheadd-lei-shen"]=2,
-	["boltboy-raden"]=8,
+	["boltboy-raden"]=28,
 	["boltsboy-raden"]=8,
 	["boltzito-pagle"]=24,
 	["bømber-pagle"]=14,
@@ -7557,7 +7557,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["lad-arugal-au"]=4,
 	["laddersavior-pagle"]=16,
 	["laddingtonx-raden"]=10,
-	["ladoramoon-pagle"]=5,
+	["ladoramoon-pagle"]=17,
 	["lagherta-raden"]=5,
 	["läin-raden"]=14,
 	["laleyenda-lei-shen"]=3,
@@ -7608,11 +7608,11 @@ ns.SPECS_BY_REGION["us"] = {
 	["leonidasxl-pagle"]=4,
 	["leowna-pagle"]=2,
 	["leownaa-pagle"]=2,
-	["lepson-nazgrim"]=7,
+	["lepson-nazgrim"]=23,
 	["leroy-galakras"]=23,
 	["lester-raden"]=3,
 	["lesthoukov-pagle"]=3,
-	["letalor-pagle"]=29,
+	["letalor-pagle"]=14,
 	["leticiaa-pagle"]=3,
 	["letmechoff-pagle"]=4,
 	["letmetrap-pagle"]=0,
@@ -9709,7 +9709,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["tsukawashime-raden"]=4,
 	["tsunadè-nazgrim"]=9,
 	["ttawdirg-pagle"]=3,
-	["tubalcain-galakras"]=22,
+	["tubalcain-galakras"]=19,
 	["turaoferao-raden"]=5,
 	["turbantime-pagle"]=4,
 	["turbomóist-pagle"]=15,
