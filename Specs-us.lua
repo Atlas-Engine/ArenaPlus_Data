@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5192 characters, read 2026-10-27 01:59 AM.
+-- Region us, 5192 characters, read 2026-10-27 02:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5552,7 +5552,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["bonnith-pagle"]=7,
 	["bonwick-arugal-au"]=21,
 	["boofed-raden"]=1,
-	["booku-pagle"]=25,
+	["booku-pagle"]=6,
 	["boomantics-pagle"]=17,
 	["boomchicken-galakras"]=5,
 	["boomydo-raden"]=17,
@@ -7578,7 +7578,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["lavablob-pagle"]=15,
 	["lawlurdead-raden"]=29,
 	["lawydruid-pagle"]=5,
-	["laydatpipe-lei-shen"]=5,
+	["laydatpipe-lei-shen"]=12,
 	["layenda-lei-shen"]=16,
 	["laynerz-raden"]=0,
 	["lbloll-pagle"]=15,
@@ -7963,7 +7963,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["misprëdictio-nazgrim"]=21,
 	["missatrinni-pagle"]=0,
 	["missmama-galakras"]=5,
-	["missrollings-pagle"]=4,
+	["missrollings-pagle"]=10,
 	["misstotem-pagle"]=15,
 	["missyu-immerseus"]=23,
 	["mistafistuh-pagle"]=10,
@@ -9701,7 +9701,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["trumpskity-galakras"]=4,
 	["trumpspets-galakras"]=20,
 	["tryitbro-raden"]=24,
-	["tsuedohunter-pagle"]=3,
+	["tsuedohunter-pagle"]=20,
 	["tsukawashime-raden"]=4,
 	["tsunadè-nazgrim"]=9,
 	["ttawdirg-pagle"]=3,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5361 characters, read 2026-10-27 02:00 AM.
+-- Region eu, 5361 characters, read 2026-10-27 03:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -8194,7 +8194,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["npbd-shekzeer"]=11,
 	["Ñqqa-shekzeer"]=1,
 	["nrg-shekzeer"]=24,
-	["nsé-garalon"]=15,
+	["nsé-garalon"]=5,
 	["ntbf-shekzeer"]=24,
 	["ntbfq-shekzeer"]=9,
 	["ntxfake-shekzeer"]=11,
@@ -9453,8 +9453,8 @@ ns.SPECS_BY_REGION["eu"] = {
 	["toxicelitist-shekzeer"]=9,
 	["toxicfuz-garalon"]=6,
 	["toxiqkid-shekzeer"]=1,
-	["tpriestlx-shekzeer"]=12,
-	["trachea-shekzeer"]=6,
+	["tpriestlx-shekzeer"]=9,
+	["trachea-shekzeer"]=7,
 	["tracye-shekzeer"]=9,
 	["trafålguy-garalon"]=6,
 	["traktopelle-auberdine"]=3,
@@ -9901,7 +9901,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["xkxs-shekzeer"]=3,
 	["xladerinø-shekzeer"]=9,
 	["xladérz-shekzeer"]=1,
-	["xladerzf-shekzeer"]=7,
+	["xladerzf-shekzeer"]=6,
 	["xladerzg-shekzeer"]=1,
 	["xladerzw-shekzeer"]=23,
 	["xmm-shekzeer"]=4,
@@ -9933,7 +9933,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["yambol-garalon"]=3,
 	["yangka-shekzeer"]=0,
 	["yantra-shekzeer"]=16,
-	["yapful-shekzeer"]=15,
+	["yapful-shekzeer"]=5,
 	["yåpful-shekzeer"]=17,
 	["yaraki-mirage-raceway"]=2,
 	["yaruna-mirage-raceway"]=2,
