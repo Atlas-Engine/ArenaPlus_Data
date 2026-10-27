@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9711 characters, read 2026-10-26 10:59 PM.
+-- Region tbc-eu, 9711 characters, read 2026-10-26 11:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12769,7 +12769,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["goùdale-spineshatter"]=13,
 	["gougerpala-spineshatter"]=7,
 	["gougerpriest-spineshatter"]=8,
-	["gougerx-spineshatter"]=3,
+	["gougerx-spineshatter"]=27,
 	["gougerz-spineshatter"]=3,
 	["goutrageous-spineshatter"]=1,
 	["gøxylock-spineshatter"]=14,
@@ -13207,7 +13207,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["icelancedogx-spineshatter"]=9,
 	["icemanr-spineshatter"]=11,
 	["iceplay-spineshatter"]=9,
-	["icepressox-spineshatter"]=9,
+	["icepressox-spineshatter"]=4,
 	["icerift-spineshatter"]=9,
 	["iceteazero-thunderstrike"]=5,
 	["icewalow-thunderstrike"]=3,
@@ -18314,7 +18314,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["tuetou-spineshatter"]=11,
 	["tulivuori-spineshatter"]=4,
 	["tumunion-thunderstrike"]=11,
-	["tumvoipu-spineshatter"]=19,
+	["tumvoipu-spineshatter"]=3,
 	["tundrabzm-spineshatter"]=3,
 	["tunskari-spineshatter"]=3,
 	["tuono-spineshatter"]=7,
