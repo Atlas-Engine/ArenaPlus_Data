@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9366 characters, read 2026-10-27 09:58 AM.
+-- Region tbc-us, 9368 characters, read 2026-10-27 10:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -262,6 +262,7 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["anaståsia-nightslayer"]=11,
 	["anathe-nightslayer"]=60,
 	["anavarkazar-nightslayer"]=20,
+	["anchorstrong-dreamscythe"]=11,
 	["andinas-dreamscythe"]=61,
 	["andoran-nightslayer"]=30,
 	["andrewluck-nightslayer"]=11,
@@ -4170,7 +4171,6 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["kachicoh-nightslayer"]=101,
 	["kadsexe-nightslayer"]=21,
 	["kaellara-nightslayer"]=101,
-	["kaezynn-dreamscythe"]=11,
 	["kafflo-nightslayer"]=20,
 	["kagezz-nightslayer"]=10,
 	["kahla-nightslayer"]=11,
@@ -7950,6 +7950,7 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["tarzx-nightslayer"]=50,
 	["tarzxx-nightslayer"]=100,
 	["tas-nightslayer"]=101,
+	["taserfaace-dreamscythe"]=41,
 	["tasky-nightslayer"]=111,
 	["taterjoe-nightslayer"]=20,
 	["tatertatas-nightslayer"]=101,
@@ -9489,6 +9490,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["anaståsia-nightslayer"]=1,
 	["anathe-nightslayer"]=3,
 	["anavarkazar-nightslayer"]=2,
+	["anchorstrong-dreamscythe"]=13,
 	["andinas-dreamscythe"]=7,
 	["andoran-nightslayer"]=12,
 	["andrewluck-nightslayer"]=13,
@@ -11109,7 +11111,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["dasishocks-dreamscythe"]=10,
 	["datgalbig-nightslayer"]=1,
 	["dature-dreamscythe"]=2,
-	["daub-nightslayer"]=8,
+	["daub-nightslayer"]=5,
 	["dauntleastx-nightslayer"]=1,
 	["dauntlessx-nightslayer"]=2,
 	["daveedz-nightslayer"]=5,
@@ -13471,7 +13473,6 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["kachicoh-nightslayer"]=14,
 	["kadsexe-nightslayer"]=18,
 	["kaellara-nightslayer"]=11,
-	["kaezynn-dreamscythe"]=5,
 	["kafflo-nightslayer"]=20,
 	["kagezz-nightslayer"]=12,
 	["kahla-nightslayer"]=18,
@@ -17299,6 +17300,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["tarzx-nightslayer"]=8,
 	["tarzxx-nightslayer"]=9,
 	["tas-nightslayer"]=11,
+	["taserfaace-dreamscythe"]=7,
 	["tasky-nightslayer"]=10,
 	["taterjoe-nightslayer"]=2,
 	["tatertatas-nightslayer"]=9,
@@ -18419,6 +18421,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ynshax-nightslayer"]=10,
 	["ynslime-nightslayer"]=2,
 	["yntruck-nightslayer"]=2,
+	["ynvmebu-dreamscythe"]=0,
 	["ynwithcredit-nightslayer"]=6,
 	["yodead-nightslayer"]=2,
 	["yogibera-nightslayer"]=7,

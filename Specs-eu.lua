@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5360 characters, read 2026-10-27 10:00 AM.
+-- Region eu, 5364 characters, read 2026-10-27 11:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2217,6 +2217,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["kylliing-shekzeer"]=11,
 	["kyllíng-shekzeer"]=11,
 	["kyllinglol-shekzeer"]=11,
+	["kyma-shekzeer"]=40,
 	["kÿnøx-auberdine"]=10,
 	["kyoko-shekzeer"]=11,
 	["kyozabi-shekzeer"]=41,
@@ -2329,6 +2330,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["liquidity-shekzeer"]=10,
 	["liriel-shekzeer"]=41,
 	["listerine-shekzeer"]=10,
+	["littlelulu-garalon"]=81,
 	["littlemanboy-shekzeer"]=10,
 	["lìùkang-shekzeer"]=50,
 	["liusu-shekzeer"]=41,
@@ -4271,6 +4273,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["valinoth-shekzeer"]=10,
 	["valla-shekzeer"]=11,
 	["vallaríel-everlook"]=41,
+	["vallendei-shekzeer"]=11,
 	["vâlyria-shekzeer"]=40,
 	["vampiro-shekzeer"]=11,
 	["vanadéy-mirage-raceway"]=90,
@@ -6825,6 +6828,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["hasuni-shekzeer"]=9,
 	["hasunimi-hoptallus"]=31,
 	["haugnat-everlook"]=5,
+	["hauq-shekzeer"]=0,
 	["havana-ook-ook"]=1,
 	["havecluelol-shekzeer"]=20,
 	["havitýx-mirage-raceway"]=2,
@@ -7437,6 +7441,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["kylliing-shekzeer"]=12,
 	["kyllíng-shekzeer"]=2,
 	["kyllinglol-shekzeer"]=17,
+	["kyma-shekzeer"]=21,
 	["kÿnøx-auberdine"]=14,
 	["kyoko-shekzeer"]=8,
 	["kyozabi-shekzeer"]=12,
@@ -7555,6 +7560,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["liquidity-shekzeer"]=33,
 	["liriel-shekzeer"]=6,
 	["listerine-shekzeer"]=4,
+	["littlelulu-garalon"]=9,
 	["littlemanboy-shekzeer"]=2,
 	["lìùkang-shekzeer"]=7,
 	["liusu-shekzeer"]=3,
@@ -9599,6 +9605,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["valinoth-shekzeer"]=31,
 	["valla-shekzeer"]=4,
 	["vallaríel-everlook"]=3,
+	["vallendei-shekzeer"]=24,
 	["vâlyria-shekzeer"]=20,
 	["vampiro-shekzeer"]=26,
 	["vanadéy-mirage-raceway"]=9,
