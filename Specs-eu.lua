@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5361 characters, read 2026-10-27 04:00 AM.
+-- Region eu, 5361 characters, read 2026-10-27 05:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5624,7 +5624,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bernadette-shekzeer"]=8,
 	["berrett-auberdine"]=24,
 	["bérsérkér-shekzeer"]=1,
-	["berserkvalor-shekzeer"]=31,
+	["berserkvalor-shekzeer"]=33,
 	["berthiine-shekzeer"]=2,
 	["bes-mirage-raceway"]=1,
 	["beskunk-shekzeer"]=9,
@@ -7298,7 +7298,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["kenhavefun-shekzeer"]=6,
 	["kenkofot-garalon"]=10,
 	["kennyk-garalon"]=18,
-	["kennyk-shekzeer"]=1,
+	["kennyk-shekzeer"]=18,
 	["kennykk-garalon"]=1,
 	["kennyykofot-garalon"]=34,
 	["kenoh-shekzeer"]=18,
@@ -9834,7 +9834,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["wølfgunxz-everlook"]=4,
 	["wolfus-mirage-raceway"]=1,
 	["wongfeihung-shekzeer"]=6,
-	["wongliener-everlook"]=14,
+	["wongliener-everlook"]=4,
 	["woodsboro-auberdine"]=6,
 	["woopzer-shekzeer"]=32,
 	["wordofwagyu-norushen"]=15,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9367 characters, read 2026-10-27 03:58 AM.
+-- Region tbc-us, 9367 characters, read 2026-10-27 04:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12514,7 +12514,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["goydric-nightslayer"]=9,
 	["gph-nightslayer"]=6,
 	["graar-nightslayer"]=17,
-	["grabar-dreamscythe"]=8,
+	["grabar-dreamscythe"]=5,
 	["grãcexo-dreamscythe"]=1,
 	["grainbin-dreamscythe"]=9,
 	["gralno-nightslayer"]=7,
@@ -13889,7 +13889,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["leshdru-nightslayer"]=7,
 	["lestát-nightslayer"]=4,
 	["letmecrack-dreamscythe"]=19,
-	["letsgetnasty-nightslayer"]=20,
+	["letsgetnasty-nightslayer"]=2,
 	["leung-nightslayer"]=4,
 	["leuut-nightslayer"]=6,
 	["levimis-nightslayer"]=2,
@@ -14469,7 +14469,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["mikek-nightslayer"]=6,
 	["mikelowwrey-nightslayer"]=7,
 	["míkes-dreamscythe"]=1,
-	["mikeward-nightslayer"]=2,
+	["mikeward-nightslayer"]=18,
 	["mikex-nightslayer"]=8,
 	["mikexo-nightslayer"]=1,
 	["mikeybtw-nightslayer"]=14,
@@ -14964,7 +14964,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["noriptidelol-dreamscythe"]=10,
 	["normmage-nightslayer"]=4,
 	["normsemflay-nightslayer"]=1,
-	["noroxus-nightslayer"]=19,
+	["noroxus-nightslayer"]=10,
 	["noshabz-nightslayer"]=24,
 	["noshkek-nightslayer"]=4,
 	["noshlol-nightslayer"]=10,
@@ -15098,7 +15098,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ohnjr-nightslayer"]=15,
 	["ohnoimoom-nightslayer"]=14,
 	["ohnoitisme-nightslayer"]=7,
-	["ohnpala-nightslayer"]=25,
+	["ohnpala-nightslayer"]=11,
 	["ohns-nightslayer"]=18,
 	["ohokohokohok-nightslayer"]=7,
 	["ohreally-nightslayer"]=8,
@@ -15158,7 +15158,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["onimpulse-nightslayer"]=10,
 	["onionrangs-nightslayer"]=1,
 	["onit-nightslayer"]=7,
-	["oniyo-nightslayer"]=13,
+	["oniyo-nightslayer"]=16,
 	["onlybakshotz-nightslayer"]=5,
 	["Ønlyfears-nightslayer"]=1,
 	["onlykamms-nightslayer"]=2,
@@ -15390,7 +15390,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["pgshaman-nightslayer"]=10,
 	["phainmus-nightslayer"]=13,
 	["phalse-nightslayer"]=7,
-	["phanaticc-dreamscythe"]=8,
+	["phanaticc-dreamscythe"]=5,
 	["phanhealz-dreamscythe"]=7,
 	["pharma-nightslayer"]=4,
 	["pharun-nightslayer"]=1,
@@ -16192,7 +16192,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["sabarkas-nightslayer"]=7,
 	["saberdot-nightslayer"]=13,
 	["sabin-dreamscythe"]=5,
-	["sabrosita-nightslayer"]=18,
+	["sabrosita-nightslayer"]=2,
 	["sabur-nightslayer"]=7,
 	["sacmen-nightslayer"]=7,
 	["sacrè-nightslayer"]=1,
