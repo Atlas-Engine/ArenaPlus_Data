@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5364 characters, read 2026-10-27 12:00 PM.
+-- Region eu, 5364 characters, read 2026-10-27 01:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -67,6 +67,7 @@ ns.SPEC_SLUGS_BY_REGION["eu"] = {
 	"death-knight-frost",
 	"rogue-assassination",
 	"warrior-initial",
+	"hunter-initial",
 }
 
 -- Kept for anything still reading the old name; it is the same list this file
@@ -6663,7 +6664,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["gannícús-shekzeer"]=1,
 	["garanas-shekzeer"]=1,
 	["garbula-shekzeer"]=15,
-	["gatz-garalon"]=18,
+	["gatz-garalon"]=1,
 	["gavno-shekzeer"]=2,
 	["geezus-hoptallus"]=9,
 	["gelexica-everlook"]=2,
@@ -6885,7 +6886,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["herjâ-shekzeer"]=0,
 	["hermán-shekzeer"]=15,
 	["hermenigilda-shekzeer"]=1,
-	["herõ-mirage-raceway"]=14,
+	["herõ-mirage-raceway"]=4,
 	["hetty-shekzeer"]=16,
 	["hevnlyst-shekzeer"]=6,
 	["hexador-everlook"]=17,
@@ -6912,7 +6913,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["hkm-shekzeer"]=5,
 	["hls-shekzeer"]=19,
 	["hobex-shekzeer"]=3,
-	["hoglx-shekzeer"]=4,
+	["hoglx-shekzeer"]=36,
 	["hokokaku-garalon"]=14,
 	["holdmyliquor-garalon"]=9,
 	["hollôw-shekzeer"]=26,
@@ -10481,7 +10482,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Ультрашторм-flamegor"]=19,
 	["Урчит-flamegor"]=23,
 	["Успенскаяя-flamegor"]=6,
-	["Утятница-flamegor"]=11,
+	["Утятница-flamegor"]=3,
 	["Ушастыйлол-flamegor"]=3,
 	["Фазерихх-flamegor"]=6,
 	["Фазеркх-flamegor"]=11,
