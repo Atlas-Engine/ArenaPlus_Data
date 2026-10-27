@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9351 characters, read 2026-10-26 07:58 PM.
+-- Region tbc-us, 9351 characters, read 2026-10-26 08:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2664,7 +2664,6 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["fatgeezer-nightslayer"]=111,
 	["fatherbursty-nightslayer"]=30,
 	["fatherdreams-nightslayer"]=30,
-	["fatherfent-nightslayer"]=50,
 	["fathervipe-nightslayer"]=30,
 	["fatherzug-nightslayer"]=30,
 	["fathrmcfeely-nightslayer"]=50,
@@ -9300,7 +9299,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["Âbra-nightslayer"]=5,
 	["abreez-nightslayer"]=2,
 	["Àbub-nightslayer"]=1,
-	["abuelitas-dreamscythe"]=7,
+	["abuelitas-dreamscythe"]=22,
 	["abuzed-dreamscythe"]=19,
 	["academi-nightslayer"]=2,
 	["accèpted-nightslayer"]=4,
@@ -11929,7 +11928,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["fatgeezer-nightslayer"]=19,
 	["fatherbursty-nightslayer"]=14,
 	["fatherdreams-nightslayer"]=12,
-	["fatherfent-nightslayer"]=14,
+	["fatherfent-nightslayer"]=0,
 	["fathervipe-nightslayer"]=1,
 	["fatherzug-nightslayer"]=1,
 	["fathrmcfeely-nightslayer"]=5,
@@ -12797,7 +12796,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["hinaki-nightslayer"]=8,
 	["hipclick-nightslayer"]=13,
 	["hípocrita-nightslayer"]=19,
-	["hippo-nightslayer"]=2,
+	["hippo-nightslayer"]=18,
 	["hippocalypse-nightslayer"]=19,
 	["hipster-nightslayer"]=1,
 	["hiqt-nightslayer"]=1,
@@ -14260,7 +14259,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["marshle-nightslayer"]=20,
 	["marspayne-nightslayer"]=5,
 	["martianpk-nightslayer"]=7,
-	["martinovich-nightslayer"]=6,
+	["martinovich-nightslayer"]=4,
 	["marty-nightslayer"]=11,
 	["masalachai-nightslayer"]=22,
 	["masar-nightslayer"]=13,
@@ -14351,7 +14350,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["meganfrostx-nightslayer"]=6,
 	["megaphone-nightslayer"]=4,
 	["megasaur-nightslayer"]=2,
-	["mêgumîn-nightslayer"]=4,
+	["mêgumîn-nightslayer"]=6,
 	["meilleur-nightslayer"]=1,
 	["meineschatz-dreamscythe"]=15,
 	["mekimeij-nightslayer"]=4,
@@ -15228,7 +15227,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["pahlaundoh-nightslayer"]=11,
 	["páinkiller-nightslayer"]=11,
 	["paiñsup-nightslayer"]=1,
-	["painulti-nightslayer"]=19,
+	["painulti-nightslayer"]=10,
 	["paladynn-nightslayer"]=1,
 	["palajuan-nightslayer"]=9,
 	["palantis-nightslayer"]=18,
@@ -16076,7 +16075,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["rolluh-nightslayer"]=3,
 	["romulo-nightslayer"]=0,
 	["ronbot-nightslayer"]=4,
-	["ronchon-nightslayer"]=14,
+	["ronchon-nightslayer"]=1,
 	["rondog-nightslayer"]=11,
 	["rondop-nightslayer"]=12,
 	["ronexx-dreamscythe"]=1,
