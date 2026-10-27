@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5195 characters, read 2026-10-27 01:59 PM.
+-- Region us, 5195 characters, read 2026-10-27 02:44 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6156,7 +6156,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["distorte-pagle"]=5,
 	["distress-raden"]=4,
 	["Ðistrøyer-immerseus"]=7,
-	["ditrisus-pagle"]=20,
+	["ditrisus-pagle"]=3,
 	["diviñe-pagle"]=2,
 	["divinebleed-raden"]=7,
 	["divinehymnal-raden"]=0,
@@ -6256,7 +6256,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dréäm-raden"]=10,
 	["dreamgrrl-pagle"]=5,
 	["dreathhammer-raden"]=2,
-	["dreckk-nazgrim"]=20,
+	["dreckk-nazgrim"]=3,
 	["drekthâr-nazgrim"]=15,
 	["drellus-pagle"]=15,
 	["Ðressrøsa-immerseus"]=10,
@@ -6301,7 +6301,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["drumuss-galakras"]=28,
 	["drunknßeagle-lei-shen"]=27,
 	["drwick-pagle"]=5,
-	["dsparxx-pagle"]=14,
+	["dsparxx-pagle"]=29,
 	["Ðßøzxs-raden"]=4,
 	["dtax-pagle"]=34,
 	["dubhub-galakras"]=2,
@@ -9042,7 +9042,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["shephèrd-pagle"]=20,
 	["shetops-pagle"]=6,
 	["shieldsx-raden"]=9,
-	["shieldzx-lei-shen"]=9,
+	["shieldzx-lei-shen"]=21,
 	["shiftener-nazgrim"]=5,
 	["shifthaps-raden"]=17,
 	["shìftkey-raden"]=5,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9368 characters, read 2026-10-27 01:58 PM.
+-- Region tbc-us, 9368 characters, read 2026-10-27 02:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12084,7 +12084,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["fleakun-dreamscythe"]=19,
 	["fledgling-nightslayer"]=15,
 	["flerx-nightslayer"]=13,
-	["fleshwallet-nightslayer"]=5,
+	["fleshwallet-nightslayer"]=8,
 	["fletchin-dreamscythe"]=15,
 	["fleurdeleys-nightslayer"]=17,
 	["flexbringer-dreamscythe"]=11,
@@ -12926,7 +12926,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["hozitow-nightslayer"]=1,
 	["hsuanlol-nightslayer"]=16,
 	["hsuanolz-nightslayer"]=11,
-	["hsuanuau-nightslayer"]=16,
+	["hsuanuau-nightslayer"]=13,
 	["httr-nightslayer"]=3,
 	["huangchen-nightslayer"]=9,
 	["huangyu-nightslayer"]=8,
@@ -14031,7 +14031,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["lokap-nightslayer"]=1,
 	["lokapp-nightslayer"]=1,
 	["lokii-nightslayer"]=6,
-	["loko-nightslayer"]=1,
+	["loko-nightslayer"]=12,
 	["lokof-nightslayer"]=2,
 	["lokomotiv-nightslayer"]=5,
 	["lolabrooke-nightslayer"]=14,
@@ -17462,7 +17462,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["thunderwx-nightslayer"]=2,
 	["thunderx-nightslayer"]=6,
 	["thurgood-dreamscythe"]=18,
-	["thuudd-dreamscythe"]=7,
+	["thuudd-dreamscythe"]=3,
 	["thwarfinn-nightslayer"]=18,
 	["thyness-nightslayer"]=11,
 	["thyxx-nightslayer"]=12,

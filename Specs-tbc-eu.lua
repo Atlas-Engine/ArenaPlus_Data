@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9711 characters, read 2026-10-27 01:59 PM.
+-- Region tbc-eu, 9711 characters, read 2026-10-27 02:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9778,7 +9778,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["alcalix-thunderstrike"]=3,
 	["alcapown-spineshatter"]=3,
 	["alecbaldwins-spineshatter"]=3,
-	["alettaa-thunderstrike"]=9,
+	["alettaa-thunderstrike"]=4,
 	["alexchama-spineshatter"]=3,
 	["alexpanda-spineshatter"]=9,
 	["alexws-spineshatter"]=11,
@@ -11709,7 +11709,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["dory-spineshatter"]=6,
 	["dosenbîer-spineshatter"]=1,
 	["dotahontas-spineshatter"]=18,
-	["dotdotdown-thunderstrike"]=13,
+	["dotdotdown-thunderstrike"]=18,
 	["dotgyneco-thunderstrike"]=0,
 	["dotinska-thunderstrike"]=13,
 	["dotlulzi-spineshatter"]=13,
@@ -13179,7 +13179,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["hylissang-spineshatter"]=3,
 	["hylixx-spineshatter"]=2,
 	["hyperie-spineshatter"]=18,
-	["hyrïs-spineshatter"]=27,
+	["hyrïs-spineshatter"]=3,
 	["hyrz-thunderstrike"]=8,
 	["hytrol-spineshatter"]=9,
 	["hywwe-spineshatter"]=3,
@@ -16132,7 +16132,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["prettyrico-spineshatter"]=23,
 	["preview-thunderstrike"]=4,
 	["preworkout-thunderstrike"]=1,
-	["preyme-spineshatter"]=17,
+	["preyme-spineshatter"]=2,
 	["prêyme-spineshatter"]=13,
 	["prézica-spineshatter"]=2,
 	["prickli-spineshatter"]=5,
@@ -18227,7 +18227,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["touta-spineshatter"]=4,
 	["tower-spineshatter"]=5,
 	["towhead-spineshatter"]=25,
-	["toxicfluid-spineshatter"]=13,
+	["toxicfluid-spineshatter"]=18,
 	["toxickn-spineshatter"]=1,
 	["toxiz-thunderstrike"]=12,
 	["tøxx-spineshatter"]=11,
