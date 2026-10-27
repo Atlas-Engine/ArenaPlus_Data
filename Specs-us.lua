@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5192 characters, read 2026-10-27 02:59 AM.
+-- Region us, 5192 characters, read 2026-10-27 03:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2775,7 +2775,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["matemage-pagle"]=10,
 	["mathsbangsgg-pagle"]=11,
 	["mathscaresgg-pagle"]=61,
-	["mathsmoansgg-pagle"]=21,
+	["mathsmoansgg-pagle"]=20,
 	["matix-nazgrim"]=100,
 	["matraxs-raden"]=10,
 	["mátrix-pagle"]=101,
@@ -4072,6 +4072,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["soaar-raden"]=41,
 	["soapstorm-raden"]=51,
 	["soapy-raden"]=11,
+	["søapy-raden"]=11,
 	["soapykitty-pagle"]=41,
 	["soapyx-raden"]=11,
 	["soapyxo-raden"]=11,
@@ -4678,7 +4679,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["volcoom-pagle"]=51,
 	["vømit-galakras"]=50,
 	["vonwicc-pagle"]=11,
-	["vonxx-pagle"]=11,
+	["vonxx-pagle"]=10,
 	["vonzxy-pagle"]=20,
 	["vorag-nazgrim"]=20,
 	["voromyr-lei-shen"]=10,
@@ -7863,7 +7864,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["mav-raden"]=11,
 	["mavr-raden"]=14,
 	["mavrïx-raden"]=3,
-	["mavzx-raden"]=23,
+	["mavzx-raden"]=7,
 	["max-raden"]=0,
 	["maxipoo-raden"]=0,
 	["maxximumcat-lei-shen"]=12,
@@ -8106,7 +8107,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["nalx-raden"]=5,
 	["namosca-pagle"]=3,
 	["naniaids-lei-shen"]=28,
-	["nanikilla-lei-shen"]=10,
+	["nanikilla-lei-shen"]=4,
 	["nanismasha-lei-shen"]=15,
 	["nanixita-raden"]=24,
 	["nanslayer-raden"]=1,
@@ -9221,7 +9222,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["soaar-raden"]=9,
 	["soapstorm-raden"]=4,
 	["soapy-raden"]=4,
-	["søapy-raden"]=0,
+	["søapy-raden"]=6,
 	["soapykitty-pagle"]=12,
 	["soapyx-raden"]=8,
 	["soapyxo-raden"]=6,
@@ -9767,7 +9768,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["untaked-pagle"]=16,
 	["uppercut-raden"]=10,
 	["upsetskdmark-raden"]=1,
-	["Ùpthewahs-immerseus"]=7,
+	["Ùpthewahs-immerseus"]=30,
 	["uracity-raden"]=20,
 	["urapotato-arugal-au"]=25,
 	["urhero-arugal-au"]=16,
@@ -9829,7 +9830,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["verstepper-pagle"]=0,
 	["veryuska-pagle"]=13,
 	["vespareia-pagle"]=20,
-	["vettaex-arugal-au"]=9,
+	["vettaex-arugal-au"]=21,
 	["vexe-pagle"]=2,
 	["veygâ-pagle"]=20,
 	["viadin-lei-shen"]=16,
