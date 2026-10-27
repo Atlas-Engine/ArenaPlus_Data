@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5198 characters, read 2026-10-27 04:59 PM.
+-- Region us, 5198 characters, read 2026-10-27 05:54 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5708,7 +5708,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["candity-arugal-au"]=3,
 	["candykanes-pagle"]=28,
 	["canera-galakras"]=10,
-	["canible-raden"]=31,
+	["canible-raden"]=1,
 	["cannabimorph-pagle"]=5,
 	["cannibirilla-pagle"]=7,
 	["cantgetmeoff-pagle"]=30,
@@ -5725,7 +5725,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["casaamigos-pagle"]=21,
 	["cashpoorxlm-raden"]=14,
 	["cåssidý-raden"]=5,
-	["câtâclysm-nazgrim"]=24,
+	["câtâclysm-nazgrim"]=8,
 	["catafracta-pagle"]=30,
 	["catcalling-pagle"]=18,
 	["câtchthïs-raden"]=3,
@@ -5762,7 +5762,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["champmage-raden"]=1,
 	["chaoscrittv-pagle"]=2,
 	["chaoscutie-galakras"]=24,
-	["chaôss-pagle"]=5,
+	["chaôss-pagle"]=12,
 	["chäöss-pagle"]=14,
 	["chaossy-pagle"]=24,
 	["chaotichunts-galakras"]=0,
@@ -5824,7 +5824,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ciapsyop-pagle"]=12,
 	["cìel-pagle"]=10,
 	["cinch-lei-shen"]=3,
-	["ck-raden"]=7,
+	["ck-raden"]=30,
 	["clamsslammer-pagle"]=7,
 	["clawingout-pagle"]=6,
 	["clay-raden"]=10,

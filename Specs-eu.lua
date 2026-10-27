@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5358 characters, read 2026-10-27 05:00 PM.
+-- Region eu, 5358 characters, read 2026-10-27 06:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2284,7 +2284,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["letmehuntyou-shekzeer"]=11,
 	["levelingfun-shekzeer"]=31,
 	["lëvi-mirage-raceway"]=80,
-	["lëvî-shekzeer"]=11,
+	["lëvî-shekzeer"]=10,
 	["levitate-everlook"]=41,
 	["levn-shekzeer"]=10,
 	["levna-shekzeer"]=41,
@@ -5999,7 +5999,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["crazydruid-shekzeer"]=21,
 	["crazyskiill-shekzeer"]=19,
 	["crazyskill-shekzeer"]=26,
-	["creagender-shekzeer"]=18,
+	["creagender-shekzeer"]=1,
 	["creativeless-everlook"]=5,
 	["creon-garalon"]=23,
 	["críìss-auberdine"]=6,
@@ -6966,7 +6966,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["iamcurt-mirage-raceway"]=9,
 	["iaminafullcc-shekzeer"]=3,
 	["iamsmeagol-hoptallus"]=17,
-	["iamyzis-mirage-raceway"]=13,
+	["iamyzis-mirage-raceway"]=16,
 	["ibitha-hoptallus"]=6,
 	["ibiza-mirage-raceway"]=1,
 	["icanfly-everlook"]=1,
@@ -7671,7 +7671,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["maje-shekzeer"]=17,
 	["majinbbx-shekzeer"]=24,
 	["måjïvü-shekzeer"]=17,
-	["majkyczek-hoptallus"]=12,
+	["majkyczek-hoptallus"]=9,
 	["makci-shekzeer"]=6,
 	["makcie-shekzeer"]=6,
 	["makeawish-shekzeer"]=2,
@@ -9298,7 +9298,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["tardhun-shekzeer"]=0,
 	["tarhya-everlook"]=19,
 	["tarkôw-shekzeer"]=7,
-	["tastemydmg-shekzeer"]=4,
+	["tastemydmg-shekzeer"]=20,
 	["tastyd-shekzeer"]=3,
 	["tawnyx-everlook"]=3,
 	["taylôrswiftx-mirage-raceway"]=6,
