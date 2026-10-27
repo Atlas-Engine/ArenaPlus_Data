@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9711 characters, read 2026-10-27 07:59 AM.
+-- Region tbc-eu, 9711 characters, read 2026-10-27 08:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -14026,7 +14026,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["korkybuchek-spineshatter"]=13,
 	["korleone-spineshatter"]=13,
 	["korleonex-spineshatter"]=13,
-	["korobite-spineshatter"]=22,
+	["korobite-spineshatter"]=5,
 	["korruptpurk-spineshatter"]=8,
 	["körssi-spineshatter"]=5,
 	["körtisen-thunderstrike"]=4,
@@ -15368,7 +15368,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["neqtoon-spineshatter"]=2,
 	["neravia-thunderstrike"]=5,
 	["nerda-spineshatter"]=3,
-	["nerdpolice-spineshatter"]=3,
+	["nerdpolice-spineshatter"]=19,
 	["neretics-spineshatter"]=11,
 	["nereuus-spineshatter"]=15,
 	["nerfbat-spineshatter"]=10,
@@ -17180,7 +17180,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["shrigan-spineshatter"]=0,
 	["shrimpguy-spineshatter"]=5,
 	["shroud-thunderstrike"]=19,
-	["shroudii-spineshatter"]=3,
+	["shroudii-spineshatter"]=19,
 	["shroudina-spineshatter"]=3,
 	["shtanga-spineshatter"]=5,
 	["shuan-spineshatter"]=11,
@@ -18900,7 +18900,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["wwqqx-spineshatter"]=4,
 	["wx-spineshatter"]=13,
 	["wxim-spineshatter"]=15,
-	["wÿmz-spineshatter"]=1,
+	["wÿmz-spineshatter"]=6,
 	["wypersh-spineshatter"]=12,
 	["wyrmhide-spineshatter"]=9,
 	["wyxed-spineshatter"]=6,

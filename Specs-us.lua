@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5195 characters, read 2026-10-27 07:59 AM.
+-- Region us, 5195 characters, read 2026-10-27 08:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4270,7 +4270,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["susuwatarii-pagle"]=11,
 	["suwhoo-pagle"]=10,
 	["suxatmage-immerseus"]=50,
-	["swagasaurus-raden"]=10,
+	["swagasaurus-raden"]=11,
 	["swangydangy-raden"]=10,
 	["swasbuck-galakras"]=60,
 	["swatemtawkin-raden"]=30,
@@ -6870,7 +6870,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["gwendolyn-raden"]=1,
 	["gwuapo-raden"]=7,
 	["gyez-pagle"]=6,
-	["gymgirl-pagle"]=24,
+	["gymgirl-pagle"]=8,
 	["gymsharkbadi-arugal-au"]=3,
 	["gyshanmmw-raden"]=4,
 	["gyshanpal-pagle"]=2,
@@ -7118,7 +7118,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["idek-raden"]=6,
 	["idestroyedu-pagle"]=10,
 	["idhrenoh-raden"]=7,
-	["idomorecritz-raden"]=19,
+	["idomorecritz-raden"]=15,
 	["idontfeartwo-raden"]=24,
 	["idrainyou-pagle"]=28,
 	["ieattidepods-raden"]=21,
@@ -7184,7 +7184,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["infurryator-raden"]=12,
 	["initis-raden"]=7,
 	["injury-pagle"]=7,
-	["inkárri-arugal-au"]=4,
+	["inkárri-arugal-au"]=10,
 	["inmortalwar-raden"]=7,
 	["innoofirgize-raden"]=5,
 	["inorie-raden"]=4,
@@ -9466,7 +9466,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["sysadmin-immerseus"]=11,
 	["syssai-pagle"]=5,
 	["syssian-raden"]=3,
-	["systema-raden"]=30,
+	["systema-raden"]=7,
 	["systematic-galakras"]=14,
 	["szashagpt-pagle"]=9,
 	["szh-nazgrim"]=1,
