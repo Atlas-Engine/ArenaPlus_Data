@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5358 characters, read 2026-10-27 06:00 PM.
+-- Region eu, 5358 characters, read 2026-10-27 07:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -461,7 +461,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["behàppy-shekzeer"]=11,
 	["bélek-shekzeer"]=11,
 	["bélèk-shekzeer"]=11,
-	["belkapro-shekzeer"]=11,
+	["belkapro-shekzeer"]=10,
 	["bellator-everlook"]=20,
 	["belnadris-everlook"]=41,
 	["benjaminfra-shekzeer"]=11,
@@ -527,7 +527,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["bláckwarrior-shekzeer"]=10,
 	["bladesmonk-hoptallus"]=10,
 	["blahster-shekzeer"]=10,
-	["blakmoon-auberdine"]=41,
+	["blakmoon-auberdine"]=40,
 	["blancos-auberdine"]=11,
 	["blanky-shekzeer"]=11,
 	["blaqchina-shekzeer"]=11,
@@ -3772,7 +3772,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["sofpokito-auberdine"]=220,
 	["softpaws-mirage-raceway"]=41,
 	["soixanteuros-auberdine"]=111,
-	["sokorean-mirage-raceway"]=40,
+	["sokorean-mirage-raceway"]=41,
 	["solá-shekzeer"]=11,
 	["sololvling-shekzeer"]=11,
 	["soloway-shekzeer"]=50,
@@ -5638,7 +5638,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bign-shekzeer"]=11,
 	["bigname-shekzeer"]=23,
 	["bigorbseeya-shekzeer"]=29,
-	["bigpower-norushen"]=25,
+	["bigpower-norushen"]=1,
 	["bigpun-shekzeer"]=34,
 	["bigpussyx-shekzeer"]=1,
 	["bigshotorca-shekzeer"]=6,
@@ -5663,7 +5663,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bláckwarrior-shekzeer"]=1,
 	["bladesmonk-hoptallus"]=6,
 	["blahster-shekzeer"]=12,
-	["blakmoon-auberdine"]=11,
+	["blakmoon-auberdine"]=3,
 	["blancos-auberdine"]=1,
 	["blanky-shekzeer"]=2,
 	["blaqchina-shekzeer"]=6,
@@ -5971,7 +5971,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["combux-shekzeer"]=2,
 	["comète-shekzeer"]=3,
 	["commandor-garalon"]=15,
-	["commitment-shekzeer"]=15,
+	["commitment-shekzeer"]=5,
 	["compak-everlook"]=26,
 	["compey-everlook"]=33,
 	["comtelucius-auberdine"]=0,
@@ -9219,7 +9219,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["susmonk-shekzeer"]=7,
 	["suspriest-shekzeer"]=9,
 	["susrog-shekzeer"]=24,
-	["sussham-shekzeer"]=13,
+	["sussham-shekzeer"]=19,
 	["susubibi-shekzeer"]=4,
 	["suturer-norushen"]=24,
 	["suwney-shekzeer"]=27,
