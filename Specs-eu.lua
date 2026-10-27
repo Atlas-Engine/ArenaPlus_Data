@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5360 characters, read 2026-10-27 09:00 AM.
+-- Region eu, 5360 characters, read 2026-10-27 10:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1746,7 +1746,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["hopeéloolxd-shekzeer"]=11,
 	["høpps-norushen"]=11,
 	["horderising-shekzeer"]=80,
-	["hordy-shekzeer"]=80,
 	["horrendouss-shekzeer"]=10,
 	["hoses-mirage-raceway"]=111,
 	["hotpoint-shekzeer"]=11,
@@ -6382,7 +6381,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["ekwail-shekzeer"]=4,
 	["eláena-hoptallus"]=21,
 	["elbustada-garalon"]=15,
-	["Èlcapitan-mirage-raceway"]=26,
+	["Èlcapitan-mirage-raceway"]=24,
 	["eldorado-shekzeer"]=16,
 	["eleabuser-everlook"]=0,
 	["electricity-shekzeer"]=19,
@@ -6940,7 +6939,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["hopeéloolxd-shekzeer"]=23,
 	["høpps-norushen"]=9,
 	["horderising-shekzeer"]=11,
-	["hordy-shekzeer"]=11,
+	["hordy-shekzeer"]=0,
 	["horrendouss-shekzeer"]=15,
 	["hoses-mirage-raceway"]=13,
 	["hotpoint-shekzeer"]=5,
@@ -6956,7 +6955,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["hugesac-shekzeer"]=5,
 	["hugsnotdrugs-shekzeer"]=17,
 	["huiying-auberdine"]=20,
-	["huln-shekzeer"]=20,
+	["huln-shekzeer"]=14,
 	["humbelbee-shekzeer"]=14,
 	["humblé-shekzeer"]=17,
 	["hùntdc-auberdine"]=4,
@@ -7109,7 +7108,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["jaguarro-shekzeer"]=1,
 	["jaiky-mirage-raceway"]=4,
 	["jakam-shekzeer"]=21,
-	["jakamoto-shekzeer"]=17,
+	["jakamoto-shekzeer"]=23,
 	["jakamotô-shekzeer"]=17,
 	["jakamstar-shekzeer"]=26,
 	["jakele-garalon"]=16,
@@ -9125,7 +9124,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["ßázzy-shekzeer"]=15,
 	["sscarlet-shekzeer"]=22,
 	["ßeast-garalon"]=14,
-	["ßenimãru-shekzeer"]=11,
+	["ßenimãru-shekzeer"]=3,
 	["ßlickxy-shekzeer"]=3,
 	["ßlinkd-shekzeer"]=2,
 	["ßm-shekzeer"]=6,
@@ -9493,7 +9492,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["trustmebro-shekzeer"]=1,
 	["truthspeaker-shekzeer"]=6,
 	["tryinglock-shekzeer"]=17,
-	["trytorun-shekzeer"]=20,
+	["trytorun-shekzeer"]=4,
 	["tsima-shekzeer"]=3,
 	["tslx-shekzeer"]=13,
 	["tsouvirak-garalon"]=1,
@@ -10365,7 +10364,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Нилиссит-flamegor"]=22,
 	["Нихаунт-flamegor"]=4,
 	["Нноорроорроо-flamegor"]=15,
-	["Нотайс-flamegor"]=12,
+	["Нотайс-flamegor"]=9,
 	["Нотайси-flamegor"]=13,
 	["Ноттим-flamegor"]=6,
 	["Ноудотз-flamegor"]=17,
