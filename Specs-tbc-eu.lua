@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9711 characters, read 2026-10-27 12:59 AM.
+-- Region tbc-eu, 9713 characters, read 2026-10-27 01:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7384,6 +7384,7 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["shankspank-spineshatter"]=11,
 	["shannkerzx-spineshatter"]=50,
 	["shanori-spineshatter"]=101,
+	["shantao-thunderstrike"]=60,
 	["shâper-spineshatter"]=50,
 	["shâpeshifty-spineshatter"]=40,
 	["sharalala-spineshatter"]=41,
@@ -9608,6 +9609,7 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["zulørg-spineshatter"]=21,
 	["zulpì-spineshatter"]=51,
 	["zulpii-spineshatter"]=11,
+	["zulwi-thunderstrike"]=80,
 	["zulza-spineshatter"]=20,
 	["zunniva-spineshatter"]=51,
 	["zünniva-spineshatter"]=31,
@@ -11949,7 +11951,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["eïn-spineshatter"]=15,
 	["eisenkruste-spineshatter"]=11,
 	["ej-spineshatter"]=4,
-	["ejj-spineshatter"]=14,
+	["ejj-spineshatter"]=13,
 	["ejpe-spineshatter"]=7,
 	["eju-thunderstrike"]=4,
 	["ekans-thunderstrike"]=5,
@@ -12769,7 +12771,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["goùdale-spineshatter"]=13,
 	["gougerpala-spineshatter"]=7,
 	["gougerpriest-spineshatter"]=8,
-	["gougerx-spineshatter"]=27,
+	["gougerx-spineshatter"]=19,
 	["gougerz-spineshatter"]=3,
 	["goutrageous-spineshatter"]=1,
 	["gøxylock-spineshatter"]=14,
@@ -17065,6 +17067,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["shankspank-spineshatter"]=19,
 	["shannkerzx-spineshatter"]=3,
 	["shanori-spineshatter"]=3,
+	["shantao-thunderstrike"]=6,
 	["shâper-spineshatter"]=3,
 	["shâpeshifty-spineshatter"]=1,
 	["shapx-spineshatter"]=0,
@@ -19324,6 +19327,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["zulørg-spineshatter"]=13,
 	["zulpì-spineshatter"]=3,
 	["zulpii-spineshatter"]=3,
+	["zulwi-thunderstrike"]=2,
 	["zulza-spineshatter"]=23,
 	["zunniva-spineshatter"]=2,
 	["zünniva-spineshatter"]=2,
