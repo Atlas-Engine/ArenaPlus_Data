@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5364 characters, read 2026-10-27 11:00 AM.
+-- Region eu, 5364 characters, read 2026-10-27 12:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1577,7 +1577,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["grondax-norushen"]=101,
 	["grsy-shekzeer"]=11,
 	["grumpydumpy-shekzeer"]=30,
-	["grumpyolbaby-shekzeer"]=41,
 	["grumshado-hoptallus"]=20,
 	["gsek-shekzeer"]=10,
 	["guangtou-shekzeer"]=10,
@@ -5350,7 +5349,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["angrywife-shekzeer"]=7,
 	["anika-shekzeer"]=5,
 	["animalleader-shekzeer"]=3,
-	["animecatgirl-shekzeer"]=3,
+	["animecatgirl-shekzeer"]=11,
 	["ankalagor-mirage-raceway"]=2,
 	["ankhulet-shekzeer"]=16,
 	["anlucky-shekzeer"]=28,
@@ -6763,9 +6762,9 @@ ns.SPECS_BY_REGION["eu"] = {
 	["grönavesslan-shekzeer"]=11,
 	["grondax-norushen"]=5,
 	["grsy-shekzeer"]=6,
-	["grumpydumpy-shekzeer"]=28,
-	["grumpyolbaby-shekzeer"]=11,
-	["grumshado-hoptallus"]=6,
+	["grumpydumpy-shekzeer"]=17,
+	["grumpyolbaby-shekzeer"]=0,
+	["grumshado-hoptallus"]=7,
 	["gsek-shekzeer"]=1,
 	["guangtou-shekzeer"]=1,
 	["guaposensei-shekzeer"]=11,
@@ -6776,7 +6775,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["gulavesslan-shekzeer"]=15,
 	["gülizar-shekzeer"]=4,
 	["gumdrops-shekzeer"]=9,
-	["gunzales-shekzeer"]=20,
+	["gunzales-shekzeer"]=4,
 	["guriero-norushen"]=11,
 	["guruglenn-shekzeer"]=1,
 	["gutalax-ook-ook"]=8,
@@ -7187,7 +7186,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["jønky-shekzeer"]=9,
 	["jonsnow-mirage-raceway"]=32,
 	["jontrian-hoptallus"]=33,
-	["jooko-hoptallus"]=28,
+	["jooko-hoptallus"]=23,
 	["jornironside-shekzeer"]=8,
 	["josax-mirage-raceway"]=5,
 	["jovovich-everlook"]=16,
@@ -8433,7 +8432,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["plåýböt-shekzeer"]=2,
 	["plåýbøt-shekzeer"]=7,
 	["plâybøybûnny-shekzeer"]=4,
-	["playmop-shekzeer"]=23,
+	["playmop-shekzeer"]=17,
 	["plåýßøt-shekzeer"]=7,
 	["plmbeachpete-shekzeer"]=7,
 	["pløgzy-shekzeer"]=2,
