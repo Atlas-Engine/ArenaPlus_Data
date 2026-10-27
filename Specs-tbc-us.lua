@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9368 characters, read 2026-10-27 12:58 PM.
+-- Region tbc-us, 9368 characters, read 2026-10-27 01:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9616,7 +9616,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["arturuzyzz-nightslayer"]=5,
 	["aryapala-nightslayer"]=25,
 	["aryarogue-nightslayer"]=5,
-	["aryss-nightslayer"]=1,
+	["aryss-nightslayer"]=12,
 	["asakhana-nightslayer"]=2,
 	["Äsap-nightslayer"]=2,
 	["asapvx-nightslayer"]=5,
@@ -12926,7 +12926,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["hozitow-nightslayer"]=1,
 	["hsuanlol-nightslayer"]=16,
 	["hsuanolz-nightslayer"]=11,
-	["hsuanuau-nightslayer"]=13,
+	["hsuanuau-nightslayer"]=16,
 	["httr-nightslayer"]=3,
 	["huangchen-nightslayer"]=9,
 	["huangyu-nightslayer"]=8,
@@ -15392,7 +15392,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["pgshaman-nightslayer"]=10,
 	["phainmus-nightslayer"]=13,
 	["phalse-nightslayer"]=7,
-	["phanaticc-dreamscythe"]=5,
+	["phanaticc-dreamscythe"]=8,
 	["phanhealz-dreamscythe"]=7,
 	["pharma-nightslayer"]=4,
 	["pharun-nightslayer"]=1,
@@ -16980,7 +16980,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["srrated-nightslayer"]=20,
 	["ßabymonster-nightslayer"]=4,
 	["ßails-dreamscythe"]=1,
-	["ßaptizer-nightslayer"]=12,
+	["ßaptizer-nightslayer"]=1,
 	["ssatoshi-nightslayer"]=7,
 	["ßeedle-nightslayer"]=11,
 	["ßeedlez-nightslayer"]=2,
@@ -17681,7 +17681,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["turbomong-nightslayer"]=8,
 	["turbonerd-dreamscythe"]=2,
 	["turbopriest-nightslayer"]=1,
-	["turbosalad-dreamscythe"]=16,
+	["turbosalad-dreamscythe"]=13,
 	["turnpiike-dreamscythe"]=2,
 	["turntt-nightslayer"]=5,
 	["turokqt-dreamscythe"]=13,
@@ -17751,7 +17751,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["uddernutz-nightslayer"]=7,
 	["Ùgar-nightslayer"]=18,
 	["ughsmash-nightslayer"]=18,
-	["uglyandfat-nightslayer"]=14,
+	["uglyandfat-nightslayer"]=1,
 	["uglybaldbaby-nightslayer"]=7,
 	["uglymugg-dreamscythe"]=18,
 	["uglyok-nightslayer"]=19,

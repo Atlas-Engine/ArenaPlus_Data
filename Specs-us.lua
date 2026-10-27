@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5195 characters, read 2026-10-27 12:59 PM.
+-- Region us, 5195 characters, read 2026-10-27 01:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1427,7 +1427,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["everannaqt-pagle"]=11,
 	["everlast-raden"]=10,
 	["evilbrewslee-raden"]=11,
-	["evilchicken-raden"]=41,
 	["evilforcesgx-pagle"]=50,
 	["evilxdream-raden"]=41,
 	["evilxeevee-raden"]=41,
@@ -3201,6 +3200,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["nzarw-pagle"]=11,
 	["nzoth-nazgrim"]=100,
 	["nzx-raden"]=11,
+	["oakenguard-raden"]=10,
 	["oakshalaa-benediction"]=30,
 	["obnoxygen-immerseus"]=50,
 	["obsissj-raden"]=11,
@@ -6300,7 +6300,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["drummah-pagle"]=5,
 	["drumuss-galakras"]=28,
 	["drunknßeagle-lei-shen"]=27,
-	["drwick-pagle"]=17,
+	["drwick-pagle"]=5,
 	["dsparxx-pagle"]=14,
 	["Ðßøzxs-raden"]=4,
 	["dtax-pagle"]=34,
@@ -6444,7 +6444,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["everelle-pagle"]=0,
 	["everlast-raden"]=24,
 	["evilbrewslee-raden"]=4,
-	["evilchicken-raden"]=5,
+	["evilchicken-raden"]=0,
 	["evilforcesgx-pagle"]=14,
 	["evilxdream-raden"]=5,
 	["evilxeevee-raden"]=9,
@@ -6459,7 +6459,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["exiztm-raden"]=1,
 	["exiztww-raden"]=10,
 	["exoticdots-pagle"]=21,
-	["exotichub-galakras"]=3,
+	["exotichub-galakras"]=20,
 	["exxor-raden"]=7,
 	["eyemkr-raden"]=22,
 	["eyep-pagle"]=1,
@@ -8299,7 +8299,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["nzoth-nazgrim"]=16,
 	["nzuk-arugal-au"]=0,
 	["nzx-raden"]=3,
-	["oakenguards-grobbulus"]=0,
+	["oakenguard-raden"]=16,
 	["oakshalaa-benediction"]=19,
 	["obnoxygen-immerseus"]=11,
 	["obsissj-raden"]=7,
