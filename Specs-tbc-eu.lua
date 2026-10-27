@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9713 characters, read 2026-10-27 05:59 AM.
+-- Region tbc-eu, 9713 characters, read 2026-10-27 06:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11107,7 +11107,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["conmanxd-spineshatter"]=18,
 	["contango-spineshatter"]=3,
 	["coobe-thunderstrike"]=1,
-	["coókié-spineshatter"]=15,
+	["coókié-spineshatter"]=5,
 	["còókielol-spineshatter"]=2,
 	["coolbean-spineshatter"]=1,
 	["coolcat-spineshatter"]=6,
@@ -12088,7 +12088,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["ennui-spineshatter"]=7,
 	["enrenren-spineshatter"]=19,
 	["ensmutsigren-spineshatter"]=2,
-	["ensore-spineshatter"]=17,
+	["ensore-spineshatter"]=2,
 	["entropi-spineshatter"]=13,
 	["envu-spineshatter"]=22,
 	["envuu-spineshatter"]=11,
@@ -12444,7 +12444,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["flowkey-spineshatter"]=3,
 	["floyd-thunderstrike"]=5,
 	["fluents-spineshatter"]=9,
-	["flumes-spineshatter"]=13,
+	["flumes-spineshatter"]=18,
 	["fluugege-spineshatter"]=25,
 	["fluuges-spineshatter"]=11,
 	["fluumbi-spineshatter"]=6,
@@ -12835,7 +12835,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["gruug-thunderstrike"]=15,
 	["grylius-spineshatter"]=13,
 	["gryzex-spineshatter"]=2,
-	["gschrapsi-spineshatter"]=2,
+	["gschrapsi-spineshatter"]=17,
 	["gshockxd-spineshatter"]=11,
 	["gssöü-spineshatter"]=2,
 	["gtb-spineshatter"]=14,
@@ -15563,7 +15563,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["notagodx-spineshatter"]=3,
 	["notaprophet-thunderstrike"]=2,
 	["notârise-thunderstrike"]=1,
-	["notdonetryin-thunderstrike"]=9,
+	["notdonetryin-thunderstrike"]=4,
 	["notdrottinn-spineshatter"]=15,
 	["noteexperte-thunderstrike"]=26,
 	["nôtezb-spineshatter"]=1,
@@ -16160,7 +16160,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["proeliatorxd-spineshatter"]=12,
 	["proeliatorxx-spineshatter"]=5,
 	["profchief-spineshatter"]=7,
-	["projetmbappé-spineshatter"]=19,
+	["projetmbappé-spineshatter"]=3,
 	["prokin-thunderstrike"]=20,
 	["prolame-thunderstrike"]=9,
 	["prolapsi-spineshatter"]=3,
@@ -17861,7 +17861,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["synizz-spineshatter"]=7,
 	["synnslol-thunderstrike"]=5,
 	["sýnoným-spineshatter"]=3,
-	["synuux-spineshatter"]=23,
+	["synuux-spineshatter"]=11,
 	["systemcrash-spineshatter"]=9,
 	["systemdaemon-spineshatter"]=13,
 	["systemhack-spineshatter"]=5,
