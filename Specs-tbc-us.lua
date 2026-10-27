@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9368 characters, read 2026-10-27 02:58 PM.
+-- Region tbc-us, 9368 characters, read 2026-10-27 03:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12823,7 +12823,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["hitandrun-nightslayer"]=15,
 	["hitchr-nightslayer"]=1,
 	["hitchy-nightslayer"]=5,
-	["hitchz-nightslayer"]=5,
+	["hitchz-nightslayer"]=8,
 	["hitmasterx-nightslayer"]=7,
 	["hitmønchan-dreamscythe"]=18,
 	["hitmonlee-dreamscythe"]=2,
@@ -14059,7 +14059,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["loserrogues-dreamscythe"]=10,
 	["lospizdos-nightslayer"]=7,
 	["lostangell-nightslayer"]=9,
-	["losthopê-nightslayer"]=14,
+	["losthopê-nightslayer"]=1,
 	["losticus-nightslayer"]=8,
 	["lostlol-dreamscythe"]=14,
 	["lotuspocus-nightslayer"]=3,
@@ -15116,7 +15116,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["oldbheezer-nightslayer"]=16,
 	["oldcats-nightslayer"]=5,
 	["oldernewb-nightslayer"]=12,
-	["oldfitzz-dreamscythe"]=3,
+	["oldfitzz-dreamscythe"]=7,
 	["oldlee-nightslayer"]=5,
 	["oldmandellas-dreamscythe"]=18,
 	["oldmanjasey-nightslayer"]=2,
@@ -15392,7 +15392,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["pgshaman-nightslayer"]=10,
 	["phainmus-nightslayer"]=13,
 	["phalse-nightslayer"]=7,
-	["phanaticc-dreamscythe"]=8,
+	["phanaticc-dreamscythe"]=5,
 	["phanhealz-dreamscythe"]=7,
 	["pharma-nightslayer"]=4,
 	["pharun-nightslayer"]=1,
