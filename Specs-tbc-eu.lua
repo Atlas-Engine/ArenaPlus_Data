@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9705 characters, read 2026-10-26 08:59 PM.
+-- Region tbc-eu, 9705 characters, read 2026-10-26 09:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10242,7 +10242,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["bangtohereox-spineshatter"]=9,
 	["bangtoherex-spineshatter"]=13,
 	["bannedagane-spineshatter"]=5,
-	["bannedbyai-spineshatter"]=17,
+	["bannedbyai-spineshatter"]=2,
 	["bannedonmain-spineshatter"]=1,
 	["bannedpöv-spineshatter"]=9,
 	["banshewallah-spineshatter"]=17,
@@ -11437,7 +11437,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["deiligdudu-spineshatter"]=1,
 	["deivwl-spineshatter"]=13,
 	["dejamort-spineshatter"]=4,
-	["dejvlol-spineshatter"]=5,
+	["dejvlol-spineshatter"]=15,
 	["dekario-spineshatter"]=11,
 	["dektar-spineshatter"]=5,
 	["delder-thunderstrike"]=5,
@@ -12748,7 +12748,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["goosepants-spineshatter"]=3,
 	["gooyda-spineshatter"]=23,
 	["gopro-spineshatter"]=5,
-	["gopvp-spineshatter"]=19,
+	["gopvp-spineshatter"]=3,
 	["gorillaglue-spineshatter"]=4,
 	["görlöm-spineshatter"]=3,
 	["gorrè-spineshatter"]=2,
@@ -12995,7 +12995,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["hemad-spineshatter"]=1,
 	["hemas-spineshatter"]=11,
 	["hemax-spineshatter"]=5,
-	["hemoleif-spineshatter"]=3,
+	["hemoleif-spineshatter"]=19,
 	["hemousxx-spineshatter"]=8,
 	["henchlex-spineshatter"]=5,
 	["henkone-spineshatter"]=5,
@@ -16830,7 +16830,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["saptain-spineshatter"]=3,
 	["sapyboo-spineshatter"]=19,
 	["saren-spineshatter"]=3,
-	["sarilielia-spineshatter"]=4,
+	["sarilielia-spineshatter"]=9,
 	["sarîx-thunderstrike"]=6,
 	["sarulol-thunderstrike"]=18,
 	["sarwaz-spineshatter"]=5,
@@ -18403,7 +18403,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["undeadoo-spineshatter"]=6,
 	["undeadpriést-spineshatter"]=5,
 	["underik-spineshatter"]=2,
-	["undertàker-spineshatter"]=4,
+	["undertàker-spineshatter"]=9,
 	["undralol-thunderstrike"]=1,
 	["undret-spineshatter"]=2,
 	["undskýld-spineshatter"]=2,

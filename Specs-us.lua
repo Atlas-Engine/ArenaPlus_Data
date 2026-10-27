@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5195 characters, read 2026-10-26 08:59 PM.
+-- Region us, 5195 characters, read 2026-10-26 09:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2396,7 +2396,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["kiggzx-pagle"]=41,
 	["kijø-pagle"]=11,
 	["kilgorë-immerseus"]=80,
-	["kiljason-raden"]=40,
+	["kiljason-raden"]=41,
 	["killa-grobbulus"]=10,
 	["killa-immerseus"]=100,
 	["killbeer-pagle"]=10,
@@ -5045,7 +5045,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["activeshöotr-pagle"]=20,
 	["acx-raden"]=2,
 	["acxblue-raden"]=19,
-	["adalen-nazgrim"]=10,
+	["adalen-nazgrim"]=27,
 	["adamandsteve-immerseus"]=9,
 	["adeathians-lei-shen"]=6,
 	["adepto-pagle"]=7,
@@ -5338,7 +5338,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["basedgõd-raden"]=20,
 	["basedproc-pagle"]=15,
 	["basedprocity-pagle"]=15,
-	["bashlee-lei-shen"]=7,
+	["bashlee-lei-shen"]=23,
 	["battleground-pagle"]=17,
 	["battleground-raden"]=4,
 	["battlehealz-galakras"]=21,
@@ -7349,7 +7349,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["juicedupd-pagle"]=17,
 	["juisyblight-galakras"]=6,
 	["juisytouch-galakras"]=4,
-	["jujubeanz-raden"]=20,
+	["jujubeanz-raden"]=3,
 	["juleran-pagle"]=8,
 	["jumpercablez-raden"]=19,
 	["jumpinropes-pagle"]=16,
@@ -8415,7 +8415,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["palamán-raden"]=32,
 	["palapala-pagle"]=2,
 	["pallyboss-galakras"]=0,
-	["palodan-arugal-au"]=2,
+	["palodan-arugal-au"]=16,
 	["palpatîne-pagle"]=28,
 	["palyvash-galakras"]=16,
 	["palyy-raden"]=16,
@@ -9122,7 +9122,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["skantz-pagle"]=20,
 	["skarv-galakras"]=23,
 	["skate-raden"]=21,
-	["skatta-raden"]=3,
+	["skatta-raden"]=18,
 	["skeezîx-nazgrim"]=28,
 	["skèézix-nazgrim"]=23,
 	["skeletonzx-galakras"]=6,
