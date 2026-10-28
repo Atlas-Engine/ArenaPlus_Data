@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9345 characters, read 2026-10-28 01:58 PM.
+-- Region tbc-us, 9345 characters, read 2026-10-28 02:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9374,7 +9374,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["akalikali-nightslayer"]=8,
 	["akär-dreamscythe"]=1,
 	["akaran-nightslayer"]=3,
-	["akarina-nightslayer"]=25,
+	["akarina-nightslayer"]=11,
 	["akaszo-nightslayer"]=5,
 	["akgrizzly-nightslayer"]=1,
 	["akhy-nightslayer"]=19,
@@ -10803,7 +10803,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["consolas-nightslayer"]=11,
 	["consul-nightslayer"]=10,
 	["control-nightslayer"]=10,
-	["conya-nightslayer"]=7,
+	["conya-nightslayer"]=22,
 	["coolamerican-nightslayer"]=5,
 	["cooldownn-nightslayer"]=15,
 	["coolec-dreamscythe"]=3,
@@ -13972,7 +13972,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["lmaoidiot-nightslayer"]=16,
 	["lmerch-dreamscythe"]=1,
 	["lmnc-nightslayer"]=1,
-	["lmnllam-nightslayer"]=17,
+	["lmnllam-nightslayer"]=15,
 	["ln-nightslayer"]=0,
 	["lnln-nightslayer"]=14,
 	["loafprime-nightslayer"]=9,
@@ -16533,7 +16533,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["show-nightslayer"]=2,
 	["showdru-nightslayer"]=7,
 	["showershoos-nightslayer"]=4,
-	["showhan-nightslayer"]=10,
+	["showhan-nightslayer"]=24,
 	["showtime-nightslayer"]=5,
 	["showx-nightslayer"]=1,
 	["shozs-nightslayer"]=10,
@@ -17938,7 +17938,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["voljintini-nightslayer"]=19,
 	["volmir-nightslayer"]=9,
 	["voltagespike-dreamscythe"]=12,
-	["voltij-nightslayer"]=4,
+	["voltij-nightslayer"]=6,
 	["voltzx-nightslayer"]=17,
 	["voodookilla-dreamscythe"]=12,
 	["voolta-nightslayer"]=24,

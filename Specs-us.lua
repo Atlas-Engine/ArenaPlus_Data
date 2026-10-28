@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5199 characters, read 2026-10-28 01:59 PM.
+-- Region us, 5199 characters, read 2026-10-28 02:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6214,7 +6214,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dontfollow-arugal-au"]=15,
 	["dóntrun-pagle"]=10,
 	["doodoos-raden"]=3,
-	["dookienator-raden"]=4,
+	["dookienator-raden"]=10,
 	["dookstain-nazgrim"]=10,
 	["doomqt-raden"]=9,
 	["doontsx-pagle"]=7,
@@ -6259,7 +6259,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dreckk-nazgrim"]=3,
 	["drekthâr-nazgrim"]=15,
 	["drellus-pagle"]=15,
-	["Ðressrøsa-immerseus"]=10,
+	["Ðressrøsa-immerseus"]=27,
 	["drewdipsy-pagle"]=7,
 	["drewleon-pagle"]=5,
 	["drewwd-nazgrim"]=5,
@@ -8923,7 +8923,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["sapyski-galakras"]=0,
 	["sarces-immerseus"]=13,
 	["saregore-raden"]=26,
-	["sàrëna-pagle"]=5,
+	["sàrëna-pagle"]=17,
 	["sarenity-raden"]=27,
 	["sârolyn-pagle"]=16,
 	["sasafras-pagle"]=5,
