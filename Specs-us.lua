@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5199 characters, read 2026-10-28 08:59 AM.
+-- Region us, 5199 characters, read 2026-10-28 09:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4300,7 +4300,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["synonymrolls-pagle"]=11,
 	["synthrex-pagle"]=91,
 	["syphonfiltèr-pagle"]=21,
-	["sysadmin-immerseus"]=50,
 	["syssai-pagle"]=60,
 	["syssian-raden"]=21,
 	["systema-raden"]=10,
@@ -4586,6 +4585,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["unclepo-raden"]=250,
 	["undeaddeavo-galakras"]=50,
 	["undeaddevo-galakras"]=50,
+	["undeadgød-immerseus"]=50,
 	["undeadøse-nazgrim"]=51,
 	["undinger-immerseus"]=50,
 	["unequaled-lei-shen"]=10,
@@ -6772,7 +6772,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["glasstoker-pagle"]=17,
 	["glayzed-raden"]=19,
 	["gleef-pagle"]=0,
-	["glinna-raden"]=21,
+	["glinna-raden"]=9,
 	["glitcho-immerseus"]=2,
 	["glitercheeks-pagle"]=17,
 	["glizzyjizzy-nazgrim"]=2,
@@ -9469,7 +9469,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["synonymrolls-pagle"]=28,
 	["synthrex-pagle"]=24,
 	["syphonfiltèr-pagle"]=28,
-	["sysadmin-immerseus"]=11,
 	["syssai-pagle"]=5,
 	["syssian-raden"]=3,
 	["systema-raden"]=7,
@@ -9766,6 +9765,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["unclepo-raden"]=21,
 	["undeaddeavo-galakras"]=25,
 	["undeaddevo-galakras"]=11,
+	["undeadgød-immerseus"]=11,
 	["undeadøse-nazgrim"]=21,
 	["undinger-immerseus"]=7,
 	["unequaled-lei-shen"]=16,
