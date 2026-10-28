@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5199 characters, read 2026-10-27 07:59 PM.
+-- Region us, 5199 characters, read 2026-10-27 08:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5556,7 +5556,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["bonhojia-lei-shen"]=3,
 	["bonitaa-pagle"]=1,
 	["bonkyoass-pagle"]=7,
-	["bonnìerotten-lei-shen"]=25,
+	["bonnìerotten-lei-shen"]=6,
 	["bonnith-pagle"]=7,
 	["bonwick-arugal-au"]=21,
 	["boofed-raden"]=1,
@@ -5841,7 +5841,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["clomar-nazgrim"]=15,
 	["cloninglab-pagle"]=5,
 	["cloudstrifer-pagle"]=7,
-	["cloutxchaser-raden"]=5,
+	["cloutxchaser-raden"]=12,
 	["clovergirl-raden"]=17,
 	["clownsauce-nazgrim"]=29,
 	["cnt-lei-shen"]=0,
@@ -6002,7 +6002,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["darkavengerr-pagle"]=28,
 	["darkcurador-nazgrim"]=13,
 	["darkdankdope-raden"]=10,
-	["darkdeamon-pagle"]=1,
+	["darkdeamon-pagle"]=11,
 	["darkdknight-pagle"]=6,
 	["darkestcyn-galakras"]=28,
 	["darkferocity-pagle"]=21,
@@ -9346,7 +9346,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["staarboyy-raden"]=5,
 	["stabbath-raden"]=14,
 	["stábbý-pagle"]=29,
-	["stabualot-nazgrim"]=14,
+	["stabualot-nazgrim"]=29,
 	["stâmpfairtex-raden"]=14,
 	["stàn-immerseus"]=20,
 	["starielle-pagle"]=9,
@@ -9999,7 +9999,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["worstrogna-pagle"]=14,
 	["worststdus-pagle"]=25,
 	["wowamazingcc-raden"]=3,
-	["wowmichael-pagle"]=20,
+	["wowmichael-pagle"]=3,
 	["wowpvptvonyt-nazgrim"]=16,
 	["wraithzy-raden"]=3,
 	["wraithzz-pagle"]=1,

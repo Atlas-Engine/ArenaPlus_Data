@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9356 characters, read 2026-10-27 07:58 PM.
+-- Region tbc-us, 9356 characters, read 2026-10-27 08:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9565,7 +9565,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["arcaneslave-nightslayer"]=6,
 	["archaean-dreamscythe"]=10,
 	["archmedd-nightslayer"]=1,
-	["archr-dreamscythe"]=17,
+	["archr-dreamscythe"]=15,
 	["archrtwo-dreamscythe"]=10,
 	["archxr-dreamscythe"]=10,
 	["archymarshal-nightslayer"]=5,
@@ -9849,7 +9849,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bazooko-nightslayer"]=1,
 	["bazrael-nightslayer"]=13,
 	["bbangzz-dreamscythe"]=17,
-	["bbqbulgogi-nightslayer"]=20,
+	["bbqbulgogi-nightslayer"]=2,
 	["bbqsawz-dreamscythe"]=2,
 	["bbubbleboi-nightslayer"]=11,
 	["bbyclose-nightslayer"]=10,
@@ -12585,7 +12585,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["gunnagitcha-nightslayer"]=24,
 	["gunnyd-nightslayer"]=7,
 	["gunnym-nightslayer"]=4,
-	["gunzbangbang-nightslayer"]=15,
+	["gunzbangbang-nightslayer"]=21,
 	["gurdock-nightslayer"]=3,
 	["gurgrom-nightslayer"]=3,
 	["gurthyrat-nightslayer"]=2,
@@ -13014,7 +13014,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["iggyytv-nightslayer"]=13,
 	["ignorancia-nightslayer"]=3,
 	["igotchoo-nightslayer"]=5,
-	["igotchootwo-nightslayer"]=4,
+	["igotchootwo-nightslayer"]=6,
 	["igrogg-dreamscythe"]=15,
 	["ihatepallyz-dreamscythe"]=9,
 	["ihatethis-nightslayer"]=14,
@@ -14421,7 +14421,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["miamizoo-nightslayer"]=1,
 	["miccybowze-nightslayer"]=12,
 	["michaelmouse-nightslayer"]=17,
-	["michaelobama-nightslayer"]=18,
+	["michaelobama-nightslayer"]=2,
 	["míchi-nightslayer"]=7,
 	["microfelon-nightslayer"]=16,
 	["micropeker-nightslayer"]=7,
@@ -17741,7 +17741,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ujjio-nightslayer"]=4,
 	["ujjz-nightslayer"]=5,
 	["ukero-nightslayer"]=19,
-	["uktrash-nightslayer"]=18,
+	["uktrash-nightslayer"]=2,
 	["ulawlee-nightslayer"]=7,
 	["ulawli-nightslayer"]=5,
 	["uld-dreamscythe"]=18,
