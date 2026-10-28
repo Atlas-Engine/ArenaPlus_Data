@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9345 characters, read 2026-10-28 11:58 AM.
+-- Region tbc-us, 9345 characters, read 2026-10-28 12:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12838,7 +12838,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["holygooners-nightslayer"]=1,
 	["holyhippo-nightslayer"]=14,
 	["holyphool-dreamscythe"]=11,
-	["holyrx-nightslayer"]=1,
+	["holyrx-nightslayer"]=14,
 	["holyshiilol-nightslayer"]=1,
 	["holytears-nightslayer"]=14,
 	["holywalt-nightslayer"]=9,
@@ -15266,7 +15266,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["pastorhymen-nightslayer"]=1,
 	["pastself-nightslayer"]=14,
 	["patchwxrk-nightslayer"]=2,
-	["pathoen-dreamscythe"]=13,
+	["pathoen-dreamscythe"]=16,
 	["patïence-nightslayer"]=7,
 	["patmaweeni-dreamscythe"]=1,
 	["paty-nightslayer"]=11,
@@ -15851,7 +15851,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["reefblaze-nightslayer"]=6,
 	["reefey-nightslayer"]=6,
 	["reeflexx-nightslayer"]=8,
-	["reeitz-nightslayer"]=9,
+	["reeitz-nightslayer"]=25,
 	["reekz-nightslayer"]=2,
 	["reesonabull-nightslayer"]=7,
 	["reesons-nightslayer"]=5,
@@ -17827,7 +17827,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["vectorsum-nightslayer"]=17,
 	["veddr-nightslayer"]=14,
 	["veedor-nightslayer"]=7,
-	["vêgàñghøül-nightslayer"]=1,
+	["vêgàñghøül-nightslayer"]=14,
 	["veganstomper-nightslayer"]=25,
 	["vegasdave-dreamscythe"]=18,
 	["veidaz-nightslayer"]=0,
