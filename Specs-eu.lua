@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5365 characters, read 2026-10-28 01:00 PM.
+-- Region eu, 5365 characters, read 2026-10-28 02:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1353,6 +1353,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["fichi-shekzeer"]=111,
 	["fientedepaon-shekzeer"]=11,
 	["fiftydbreath-shekzeer"]=11,
+	["fiftyzen-everlook"]=11,
 	["figment-garalon"]=81,
 	["fiksiuss-mirage-raceway"]=11,
 	["fillez-shekzeer"]=11,
@@ -3550,7 +3551,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["scärlett-norushen"]=11,
 	["scattertrap-shekzeer"]=10,
 	["schildfried-everlook"]=10,
-	["schlag-garalon"]=20,
+	["schlag-garalon"]=21,
 	["schmobstaa-shekzeer"]=10,
 	["schockgnar-everlook"]=30,
 	["schwitzz-everlook"]=10,
@@ -6529,7 +6530,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["fientedepaon-shekzeer"]=4,
 	["fiftsven-everlook"]=0,
 	["fiftydbreath-shekzeer"]=10,
-	["fiftyzen-everlook"]=0,
+	["fiftyzen-everlook"]=6,
 	["figment-garalon"]=3,
 	["fiksiuss-mirage-raceway"]=15,
 	["fillez-shekzeer"]=12,
@@ -7231,7 +7232,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["käîdo-shekzeer"]=1,
 	["kaienshiba-shekzeer"]=25,
 	["kaihunt-everlook"]=4,
-	["káiros-hoptallus"]=7,
+	["káiros-hoptallus"]=29,
 	["kaizan-garalon"]=23,
 	["kajolgluglu-auberdine"]=3,
 	["kakalocko-shekzeer"]=23,
@@ -8844,7 +8845,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["scärlett-norushen"]=15,
 	["scattertrap-shekzeer"]=4,
 	["schildfried-everlook"]=1,
-	["schlag-garalon"]=19,
+	["schlag-garalon"]=16,
 	["schmobstaa-shekzeer"]=1,
 	["schockgnar-everlook"]=12,
 	["schwitzz-everlook"]=15,
@@ -9428,7 +9429,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["tonysopranoz-shekzeer"]=0,
 	["tøøgøød-shekzeer"]=3,
 	["toolatebro-auberdine"]=26,
-	["tophizzle-everlook"]=10,
+	["tophizzle-everlook"]=2,
 	["topkeck-mirage-raceway"]=7,
 	["topshotta-everlook"]=3,
 	["topspal-shekzeer"]=5,
