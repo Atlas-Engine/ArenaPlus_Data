@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5366 characters, read 2026-10-28 10:00 AM.
+-- Region eu, 5366 characters, read 2026-10-28 11:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3999,7 +3999,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["tastemydmg-shekzeer"]=11,
 	["tastyd-shekzeer"]=41,
 	["tawnyx-everlook"]=40,
-	["taylôrswiftx-mirage-raceway"]=11,
+	["taylôrswiftx-mirage-raceway"]=10,
 	["taylorswitch-garalon"]=10,
 	["tazes-shekzeer"]=10,
 	["tazeskeg-shekzeer"]=11,
@@ -6872,7 +6872,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["hellnight-auberdine"]=31,
 	["helløkitty-garalon"]=4,
 	["helmetboy-shekzeer"]=1,
-	["hemsk-shekzeer"]=7,
+	["hemsk-shekzeer"]=6,
 	["hemyz-shekzeer"]=7,
 	["henkista-everlook"]=2,
 	["henrich-shekzeer"]=9,
@@ -6884,7 +6884,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["herõ-mirage-raceway"]=4,
 	["hetty-shekzeer"]=16,
 	["hevnlyst-shekzeer"]=6,
-	["hexador-everlook"]=17,
+	["hexador-everlook"]=23,
 	["hexenmeister-shekzeer"]=23,
 	["hexxa-hoptallus"]=14,
 	["heyalright-shekzeer"]=0,
@@ -10535,7 +10535,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Шатаранг-flamegor"]=9,
 	["Шатцуи-flamegor"]=6,
 	["Шаурмяныч-flamegor"]=19,
-	["Широкийгодх-flamegor"]=9,
+	["Широкийгодх-flamegor"]=12,
 	["Шкваллхеллоу-flamegor"]=2,
 	["Шмёль-flamegor"]=2,
 	["Шоккин-flamegor"]=13,
