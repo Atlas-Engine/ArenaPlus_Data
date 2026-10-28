@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9355 characters, read 2026-10-28 02:58 AM.
+-- Region tbc-us, 9355 characters, read 2026-10-28 03:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10103,7 +10103,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["blickytucked-nightslayer"]=4,
 	["blindfold-nightslayer"]=8,
 	["blindhots-nightslayer"]=7,
-	["blìnker-dreamscythe"]=1,
+	["blìnker-dreamscythe"]=14,
 	["blinkur-nightslayer"]=4,
 	["blitzzkìn-nightslayer"]=7,
 	["blixxus-dreamscythe"]=2,
@@ -11433,7 +11433,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["dpsbotxx-nightslayer"]=4,
 	["Ðracø-nightslayer"]=1,
 	["dracosa-dreamscythe"]=4,
-	["draegrom-dreamscythe"]=10,
+	["draegrom-dreamscythe"]=24,
 	["draenosh-nightslayer"]=2,
 	["dragonballx-nightslayer"]=5,
 	["dragonik-nightslayer"]=4,
@@ -14488,7 +14488,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["minimartha-nightslayer"]=1,
 	["minískirt-nightslayer"]=7,
 	["minitelanna-nightslayer"]=2,
-	["minixboy-nightslayer"]=17,
+	["minixboy-nightslayer"]=15,
 	["minmi-nightslayer"]=21,
 	["mintchocoice-nightslayer"]=5,
 	["minutz-nightslayer"]=1,
@@ -15056,7 +15056,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ogk-nightslayer"]=4,
 	["ogrekill-nightslayer"]=11,
 	["ogresuit-nightslayer"]=2,
-	["ogrtdlol-nightslayer"]=8,
+	["ogrtdlol-nightslayer"]=5,
 	["ogstubbz-nightslayer"]=4,
 	["ogstubbzxo-nightslayer"]=5,
 	["Øgx-nightslayer"]=8,
@@ -16159,7 +16159,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ryl-nightslayer"]=8,
 	["rylàis-nightslayer"]=19,
 	["rym-nightslayer"]=19,
-	["ryrd-nightslayer"]=4,
+	["ryrd-nightslayer"]=6,
 	["ryuxd-nightslayer"]=2,
 	["ryxno-dreamscythe"]=5,
 	["ryybo-dreamscythe"]=6,
@@ -18162,7 +18162,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["wipah-dreamscythe"]=1,
 	["wireful-nightslayer"]=7,
 	["wisehare-nightslayer"]=5,
-	["wishxd-nightslayer"]=5,
+	["wishxd-nightslayer"]=8,
 	["wiskeyjack-nightslayer"]=3,
 	["withersake-dreamscythe"]=11,
 	["wizfury-dreamscythe"]=19,
