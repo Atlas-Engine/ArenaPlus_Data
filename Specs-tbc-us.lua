@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9346 characters, read 2026-10-28 04:58 AM.
+-- Region tbc-us, 9346 characters, read 2026-10-28 05:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9697,7 +9697,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["babyimback-dreamscythe"]=1,
 	["babyjesüs-nightslayer"]=1,
 	["babynovva-nightslayer"]=6,
-	["babyogurt-nightslayer"]=6,
+	["babyogurt-nightslayer"]=4,
 	["babyrazdar-nightslayer"]=13,
 	["babysham-nightslayer"]=10,
 	["babysoft-dreamscythe"]=19,
@@ -15364,7 +15364,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["phathomxd-nightslayer"]=18,
 	["phatpoohcee-nightslayer"]=2,
 	["phaya-dreamscythe"]=19,
-	["phde-nightslayer"]=16,
+	["phde-nightslayer"]=13,
 	["phdphil-nightslayer"]=8,
 	["phebz-nightslayer"]=5,
 	["phemtoss-nightslayer"]=13,
@@ -16945,7 +16945,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ssk-dreamscythe"]=5,
 	["ssk-nightslayer"]=5,
 	["ßlinker-nightslayer"]=6,
-	["ßlunted-nightslayer"]=4,
+	["ßlunted-nightslayer"]=6,
 	["ßoosey-nightslayer"]=4,
 	["sspxmane-nightslayer"]=10,
 	["ßraxtør-nightslayer"]=2,
