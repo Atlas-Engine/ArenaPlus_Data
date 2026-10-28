@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5193 characters, read 2026-10-28 12:59 AM.
+-- Region us, 5193 characters, read 2026-10-28 01:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3007,7 +3007,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["nahfr-pagle"]=11,
 	["naigerle-pagle"]=11,
 	["nairtas-nazgrim"]=20,
-	["nalix-nazgrim"]=41,
 	["nalx-raden"]=41,
 	["namosca-pagle"]=220,
 	["nananutmuffn-pagle"]=91,
@@ -5220,7 +5219,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["arthamyel-pagle"]=0,
 	["arthasqt-raden"]=16,
 	["arthy-pagle"]=0,
-	["artlight-nazgrim"]=16,
+	["artlight-nazgrim"]=2,
 	["asamil-pagle"]=5,
 	["asapsap-lei-shen"]=14,
 	["asbull-immerseus"]=12,
@@ -5767,7 +5766,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["cherebisk-nazgrim"]=7,
 	["chesthair-galakras"]=9,
 	["chiatsup-raden"]=1,
-	["chicagoßull-pagle"]=26,
+	["chicagoßull-pagle"]=6,
 	["chickanuggs-pagle"]=22,
 	["chickenbags-pagle"]=24,
 	["chíhírø-raden"]=2,
@@ -6708,7 +6707,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["geebroni-pagle"]=16,
 	["gelania-pagle"]=18,
 	["genelron-lei-shen"]=16,
-	["gentleman-pagle"]=25,
+	["gentleman-pagle"]=26,
 	["genuinely-raden"]=1,
 	["geser-raden"]=20,
 	["getaway-nazgrim"]=1,
@@ -8046,7 +8045,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["mslusty-pagle"]=4,
 	["msnurfme-raden"]=5,
 	["msr-galakras"]=3,
-	["msthickmeat-raden"]=22,
+	["msthickmeat-raden"]=15,
 	["mtj-atiesh"]=17,
 	["mtnbrews-raden"]=10,
 	["mufasaz-pagle"]=4,
@@ -8098,7 +8097,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["nahfr-pagle"]=6,
 	["naigerle-pagle"]=24,
 	["nairtas-nazgrim"]=3,
-	["nalix-nazgrim"]=5,
+	["nalix-nazgrim"]=0,
 	["nalx-raden"]=5,
 	["namosca-pagle"]=3,
 	["nananutmuffn-pagle"]=29,
@@ -8137,9 +8136,9 @@ ns.SPECS_BY_REGION["us"] = {
 	["nc-lei-shen"]=7,
 	["neac-pagle"]=21,
 	["neat-immerseus"]=24,
-	["nebubanana-raden"]=8,
+	["nebubanana-raden"]=28,
 	["nebuboom-nazgrim"]=17,
-	["nebugrape-raden"]=28,
+	["nebugrape-raden"]=8,
 	["nebupeach-nazgrim"]=8,
 	["nebuplum-raden"]=8,
 	["necris-galakras"]=6,
@@ -8620,7 +8619,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["rabager-grobbulus"]=19,
 	["rabblerouse-pagle"]=0,
 	["rabidwolf-pagle"]=19,
-	["racehunter-pagle"]=18,
+	["racehunter-pagle"]=3,
 	["racket-pagle"]=14,
 	["radaggast-lei-shen"]=1,
 	["radendznuts-raden"]=15,
