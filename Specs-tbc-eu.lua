@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9623 characters, read 2026-10-28 02:59 PM.
+-- Region tbc-eu, 9623 characters, read 2026-10-28 03:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10353,7 +10353,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["billythewar-spineshatter"]=0,
 	["billywinks-thunderstrike"]=3,
 	["bîlox-thunderstrike"]=2,
-	["bilursag-thunderstrike"]=5,
+	["bilursag-thunderstrike"]=22,
 	["bimbolo-spineshatter"]=2,
 	["bimbzgg-spineshatter"]=5,
 	["binchillin-spineshatter"]=5,
@@ -11020,7 +11020,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["copse-spineshatter"]=3,
 	["cordane-spineshatter"]=6,
 	["cordonx-spineshatter"]=5,
-	["cordycepsxx-thunderstrike"]=11,
+	["cordycepsxx-thunderstrike"]=12,
 	["coreh-spineshatter"]=2,
 	["coreshock-spineshatter"]=11,
 	["corneherb-spineshatter"]=3,
@@ -14084,7 +14084,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["laveerre-spineshatter"]=24,
 	["lavíto-spineshatter"]=3,
 	["lavkarbo-spineshatter"]=3,
-	["lavmian-spineshatter"]=22,
+	["lavmian-spineshatter"]=15,
 	["lawann-spineshatter"]=2,
 	["lawiné-spineshatter"]=2,
 	["lawrencejame-spineshatter"]=5,
@@ -14580,7 +14580,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["más-spineshatter"]=5,
 	["mashkov-spineshatter"]=11,
 	["mashylya-spineshatter"]=2,
-	["maslowgødx-spineshatter"]=25,
+	["maslowgødx-spineshatter"]=16,
 	["masquerada-spineshatter"]=5,
 	["mastakillahg-spineshatter"]=2,
 	["mastalock-spineshatter"]=14,
@@ -15447,7 +15447,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["novanahkis-spineshatter"]=4,
 	["novap-spineshatter"]=7,
 	["novelb-spineshatter"]=24,
-	["nowelqxz-spineshatter"]=9,
+	["nowelqxz-spineshatter"]=4,
 	["nowviable-spineshatter"]=9,
 	["noxshox-spineshatter"]=23,
 	["nppn-spineshatter"]=9,
@@ -16532,7 +16532,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["rompyxr-spineshatter"]=19,
 	["romtalix-spineshatter"]=1,
 	["ronaldoyo-spineshatter"]=2,
-	["ronchonx-spineshatter"]=2,
+	["ronchonx-spineshatter"]=17,
 	["ronemwf-spineshatter"]=11,
 	["ronniegnomen-spineshatter"]=5,
 	["ronson-spineshatter"]=3,

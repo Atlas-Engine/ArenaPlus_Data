@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5359 characters, read 2026-10-28 03:00 PM.
+-- Region eu, 5359 characters, read 2026-10-28 04:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6265,7 +6265,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["dotzalotz-hoptallus"]=23,
 	["doublebust-shekzeer"]=24,
 	["doublechamp-shekzeer"]=24,
-	["doublecheese-shekzeer"]=2,
+	["doublecheese-shekzeer"]=10,
 	["doubleshamp-shekzeer"]=19,
 	["doubletime-mirage-raceway"]=13,
 	["doucheppc-mirage-raceway"]=1,
@@ -8949,12 +8949,12 @@ ns.SPECS_BY_REGION["eu"] = {
 	["shnaidoku-shekzeer"]=0,
 	["shndrss-shekzeer"]=7,
 	["shockdk-shekzeer"]=8,
-	["shockpowé-shekzeer"]=13,
+	["shockpowé-shekzeer"]=19,
 	["shockpowerjk-shekzeer"]=5,
 	["shockpowerr-shekzeer"]=5,
 	["shoesolex-everlook"]=14,
 	["shoqx-ook-ook"]=6,
-	["shotkill-mirage-raceway"]=24,
+	["shotkill-mirage-raceway"]=26,
 	["shotq-shekzeer"]=4,
 	["shotqu-shekzeer"]=2,
 	["shøxx-ook-ook"]=26,
@@ -10062,7 +10062,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["zivká-everlook"]=13,
 	["zivojin-mirage-raceway"]=4,
 	["zizmo-shekzeer"]=34,
-	["zloto-garalon"]=4,
+	["zloto-garalon"]=14,
 	["zlugi-hoptallus"]=34,
 	["zmus-garalon"]=1,
 	["zniffa-mirage-raceway"]=2,
@@ -10469,7 +10469,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Уикерботтом-flamegor"]=34,
 	["Ультрашторм-flamegor"]=19,
 	["Успенскаяя-flamegor"]=6,
-	["Утятница-flamegor"]=11,
+	["Утятница-flamegor"]=3,
 	["Ушастыйлол-flamegor"]=3,
 	["Фазерихх-flamegor"]=6,
 	["Фазеркх-flamegor"]=11,
