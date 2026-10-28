@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9620 characters, read 2026-10-28 10:59 AM.
+-- Region tbc-eu, 9620 characters, read 2026-10-28 11:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10544,7 +10544,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["brame-spineshatter"]=5,
 	["brândmal-thunderstrike"]=13,
 	["brandone-spineshatter"]=3,
-	["brandyford-thunderstrike"]=18,
+	["brandyford-thunderstrike"]=13,
 	["branscombe-spineshatter"]=2,
 	["braph-spineshatter"]=5,
 	["brasileiros-spineshatter"]=9,
@@ -12031,7 +12031,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["ethere-spineshatter"]=13,
 	["etmejiban-spineshatter"]=2,
 	["etna-thunderstrike"]=15,
-	["etnii-thunderstrike"]=3,
+	["etnii-thunderstrike"]=19,
 	["etoireezy-spineshatter"]=3,
 	["euphória-spineshatter"]=1,
 	["euprä-spineshatter"]=23,
@@ -13784,7 +13784,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["kikoobibtoo-spineshatter"]=2,
 	["kilipäärambo-spineshatter"]=9,
 	["killerbeebop-spineshatter"]=18,
-	["killmemyself-spineshatter"]=19,
+	["killmemyself-spineshatter"]=3,
 	["killonz-spineshatter"]=9,
 	["killux-thunderstrike"]=3,
 	["kilminda-spineshatter"]=5,
@@ -15459,7 +15459,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["nurfzy-spineshatter"]=1,
 	["nurofen-spineshatter"]=1,
 	["nushak-thunderstrike"]=26,
-	["nutcracky-spineshatter"]=9,
+	["nutcracky-spineshatter"]=4,
 	["nutellaskurk-spineshatter"]=3,
 	["nutlust-spineshatter"]=23,
 	["nuttý-spineshatter"]=15,
@@ -19032,7 +19032,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["zetchd-thunderstrike"]=1,
 	["zevil-spineshatter"]=2,
 	["zeytenh-spineshatter"]=18,
-	["zezaergx-spineshatter"]=19,
+	["zezaergx-spineshatter"]=3,
 	["zezimasama-thunderstrike"]=13,
 	["zfn-spineshatter"]=9,
 	["zgegzer-spineshatter"]=5,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9345 characters, read 2026-10-28 10:58 AM.
+-- Region tbc-us, 9345 characters, read 2026-10-28 11:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9569,7 +9569,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["arguslight-dreamscythe"]=0,
 	["ariiana-dreamscythe"]=1,
 	["ariiana-nightslayer"]=1,
-	["arisdotle-nightslayer"]=16,
+	["arisdotle-nightslayer"]=23,
 	["aristhotle-nightslayer"]=6,
 	["arkelos-nightslayer"]=7,
 	["arkeo-nightslayer"]=18,
@@ -10468,7 +10468,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["cannii-nightslayer"]=23,
 	["canola-nightslayer"]=3,
 	["canon-nightslayer"]=11,
-	["cantfear-nightslayer"]=16,
+	["cantfear-nightslayer"]=13,
 	["canti-nightslayer"]=21,
 	["capitalize-dreamscythe"]=3,
 	["capitoline-nightslayer"]=19,
@@ -10853,7 +10853,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["cowthings-nightslayer"]=2,
 	["cowyote-nightslayer"]=10,
 	["cowzgomoo-nightslayer"]=9,
-	["coziliz-nightslayer"]=26,
+	["coziliz-nightslayer"]=4,
 	["cozylizy-nightslayer"]=1,
 	["cozytoes-nightslayer"]=1,
 	["cpc-dreamscythe"]=5,
@@ -11068,7 +11068,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["darkslappy-nightslayer"]=1,
 	["darksyde-nightslayer"]=8,
 	["darkwarden-nightslayer"]=13,
-	["darmora-nightslayer"]=6,
+	["darmora-nightslayer"]=4,
 	["Ðarrow-nightslayer"]=11,
 	["darthkirbzz-nightslayer"]=13,
 	["darthlegolas-nightslayer"]=2,
@@ -16496,7 +16496,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["shivkebabs-nightslayer"]=5,
 	["shivverz-nightslayer"]=7,
 	["shiz-nightslayer"]=5,
-	["shizday-nightslayer"]=4,
+	["shizday-nightslayer"]=6,
 	["shloopy-nightslayer"]=2,
 	["shmavey-nightslayer"]=13,
 	["shmexy-nightslayer"]=19,
@@ -17766,7 +17766,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["unpeumort-dreamscythe"]=1,
 	["unrealistic-nightslayer"]=4,
 	["unrívaled-nightslayer"]=15,
-	["unskulk-nightslayer"]=8,
+	["unskulk-nightslayer"]=5,
 	["unw-dreamscythe"]=18,
 	["uooti-dreamscythe"]=9,
 	["upaupa-nightslayer"]=16,
