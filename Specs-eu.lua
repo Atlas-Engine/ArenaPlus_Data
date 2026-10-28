@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5359 characters, read 2026-10-28 04:00 PM.
+-- Region eu, 5359 characters, read 2026-10-28 05:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4574,6 +4574,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["xpm-everlook"]=11,
 	["xpu-everlook"]=41,
 	["xstabbe-shekzeer"]=11,
+	["xuen-everlook"]=11,
 	["xúén-shekzeer"]=11,
 	["xulior-everlook"]=11,
 	["xulthiær-everlook"]=11,
@@ -5265,7 +5266,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Äjâx-auberdine"]=24,
 	["Äjäx-auberdine"]=20,
 	["akamugi-shekzeer"]=9,
-	["Ákamugi-shekzeer"]=21,
+	["Ákamugi-shekzeer"]=11,
 	["akar-shekzeer"]=10,
 	["akatuseiwa-shekzeer"]=13,
 	["akerbz-shekzeer"]=6,
@@ -5429,7 +5430,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["ascenda-shekzeer"]=6,
 	["ascéndéd-shekzeer"]=19,
 	["ascensus-shekzeer"]=6,
-	["ascezug-garalon"]=16,
+	["ascezug-garalon"]=19,
 	["asdamp-garalon"]=1,
 	["asdhomo-norushen"]=14,
 	["ashamedavah-shekzeer"]=24,
@@ -6002,7 +6003,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["crazydruid-shekzeer"]=21,
 	["crazyskiill-shekzeer"]=19,
 	["crazyskill-shekzeer"]=26,
-	["creagender-shekzeer"]=1,
+	["creagender-shekzeer"]=18,
 	["creativeless-everlook"]=5,
 	["creon-garalon"]=23,
 	["críìss-auberdine"]=6,
@@ -7149,7 +7150,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["jeromepowell-shekzeer"]=6,
 	["jesi-norushen"]=2,
 	["jetekittbro-auberdine"]=4,
-	["jezayqt-shekzeer"]=11,
+	["jezayqt-shekzeer"]=3,
 	["jhaku-shekzeer"]=9,
 	["jhealmal-auberdine"]=19,
 	["jhiraya-mirage-raceway"]=3,
@@ -9054,7 +9055,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["snoopydawgs-everlook"]=17,
 	["snooty-shekzeer"]=5,
 	["snovix-shekzeer"]=13,
-	["snowglobe-garalon"]=9,
+	["snowglobe-garalon"]=12,
 	["snøwy-shekzeer"]=6,
 	["snuglzque-shekzeer"]=21,
 	["snurre-norushen"]=10,
@@ -9911,7 +9912,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["xpm-everlook"]=6,
 	["xpu-everlook"]=9,
 	["xstabbe-shekzeer"]=26,
-	["xuen-everlook"]=0,
+	["xuen-everlook"]=6,
 	["xúén-shekzeer"]=7,
 	["xulior-everlook"]=1,
 	["xulthiær-everlook"]=9,
