@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5365 characters, read 2026-10-28 07:00 AM.
+-- Region eu, 5365 characters, read 2026-10-28 08:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3998,7 +3998,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["tastemydmg-shekzeer"]=11,
 	["tastyd-shekzeer"]=41,
 	["tawnyx-everlook"]=40,
-	["taylôrswiftx-mirage-raceway"]=10,
+	["taylôrswiftx-mirage-raceway"]=11,
 	["taylorswitch-garalon"]=10,
 	["tazes-shekzeer"]=10,
 	["tazeskeg-shekzeer"]=11,
@@ -4289,7 +4289,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["vanthief-shekzeer"]=11,
 	["varaxx-mirage-raceway"]=80,
 	["varkin-mirage-raceway"]=20,
-	["varkong-mirage-raceway"]=71,
+	["varkong-mirage-raceway"]=70,
 	["varoline-shekzeer"]=11,
 	["vashi-norushen"]=80,
 	["vasyanpro-shekzeer"]=11,
@@ -6334,7 +6334,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["dwgz-shekzeer"]=9,
 	["dxab-shekzeer"]=22,
 	["dxbam-shekzeer"]=9,
-	["dxbme-shekzeer"]=2,
+	["dxbme-shekzeer"]=10,
 	["dxbom-shekzeer"]=21,
 	["dynah-mirage-raceway"]=6,
 	["dynalhia-mirage-raceway"]=1,
@@ -7584,7 +7584,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["loraden-shekzeer"]=14,
 	["loradenn-shekzeer"]=5,
 	["lorcmanaudou-auberdine"]=16,
-	["lorinser-shekzeer"]=1,
+	["lorinser-shekzeer"]=25,
 	["lorjana-shekzeer"]=2,
 	["lorry-shekzeer"]=1,
 	["loseandicba-ook-ook"]=20,
@@ -7967,7 +7967,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["mwman-shekzeer"]=6,
 	["mwmwmwmw-shekzeer"]=6,
 	["mwqew-shekzeer"]=6,
-	["mxed-shekzeer"]=24,
+	["mxed-shekzeer"]=26,
 	["mxge-mirage-raceway"]=2,
 	["mxgehc-mirage-raceway"]=2,
 	["mycopa-shekzeer"]=4,
@@ -9637,7 +9637,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["vej-shekzeer"]=23,
 	["velani-shekzeer"]=7,
 	["velena-shekzeer"]=8,
-	["vemer-shekzeer"]=8,
+	["vemer-shekzeer"]=31,
 	["vendeta-shekzeer"]=8,
 	["venire-mirage-raceway"]=3,
 	["venóm-shekzeer"]=14,
