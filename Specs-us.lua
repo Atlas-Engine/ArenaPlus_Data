@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5195 characters, read 2026-10-27 10:59 PM.
+-- Region us, 5195 characters, read 2026-10-27 11:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7524,7 +7524,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["kroun-raden"]=14,
 	["krpriest-nazgrim"]=13,
 	["ksoldier-pagle"]=16,
-	["kthall-pagle"]=23,
+	["kthall-pagle"]=30,
 	["ktm-lei-shen"]=5,
 	["kungfugrip-arugal-au"]=10,
 	["kungfuhub-galakras"]=10,
@@ -8520,7 +8520,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["pokemonk-galakras"]=10,
 	["polilla-pagle"]=28,
 	["poliwarx-pagle"]=6,
-	["polutropos-galakras"]=5,
+	["polutropos-galakras"]=17,
 	["pomserenity-raden"]=9,
 	["pongii-pagle"]=20,
 	["pookyzombean-nazgrim"]=6,
@@ -9435,7 +9435,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["swagasaurus-raden"]=1,
 	["swangydangy-raden"]=9,
 	["swasbuck-galakras"]=12,
-	["swatemtawkin-raden"]=15,
+	["swatemtawkin-raden"]=19,
 	["sweatnbullet-galakras"]=18,
 	["sweestrikes-raden"]=7,
 	["swiftone-pagle"]=12,

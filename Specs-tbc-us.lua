@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9357 characters, read 2026-10-27 10:58 PM.
+-- Region tbc-us, 9357 characters, read 2026-10-27 11:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10042,7 +10042,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bìngsu-nightslayer"]=13,
 	["binjo-nightslayer"]=24,
 	["binkston-nightslayer"]=14,
-	["binzness-dreamscythe"]=4,
+	["binzness-dreamscythe"]=6,
 	["birdfird-nightslayer"]=2,
 	["birdfrd-nightslayer"]=6,
 	["birdfromtree-dreamscythe"]=3,
@@ -11259,7 +11259,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["dinknflicka-nightslayer"]=10,
 	["dinnalive-dreamscythe"]=5,
 	["dinnamon-dreamscythe"]=5,
-	["dinnathx-dreamscythe"]=8,
+	["dinnathx-dreamscythe"]=5,
 	["dinnoo-nightslayer"]=2,
 	["dinolo-nightslayer"]=22,
 	["dinstir-nightslayer"]=3,
@@ -12776,7 +12776,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["hidrogênio-nightslayer"]=4,
 	["hielo-nightslayer"]=0,
 	["higher-nightslayer"]=5,
-	["highfade-nightslayer"]=24,
+	["highfade-nightslayer"]=10,
 	["highqts-nightslayer"]=4,
 	["highx-nightslayer"]=19,
 	["hiimhunterxd-nightslayer"]=4,
@@ -16164,7 +16164,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ryrd-nightslayer"]=4,
 	["ryuxd-nightslayer"]=2,
 	["ryxno-dreamscythe"]=5,
-	["ryybo-dreamscythe"]=4,
+	["ryybo-dreamscythe"]=6,
 	["ryyker-dreamscythe"]=21,
 	["ryzp-nightslayer"]=11,
 	["rzka-nightslayer"]=19,
@@ -16648,7 +16648,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["skeptxo-nightslayer"]=5,
 	["skg-nightslayer"]=7,
 	["skibidirizzw-nightslayer"]=5,
-	["skillherald-nightslayer"]=2,
+	["skillherald-nightslayer"]=18,
 	["skilltercept-nightslayer"]=2,
 	["skilltrap-nightslayer"]=21,
 	["skinnay-nightslayer"]=21,
@@ -16755,7 +16755,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["smeld-dreamscythe"]=7,
 	["smelerad-nightslayer"]=10,
 	["smellnar-nightslayer"]=11,
-	["smellytrash-nightslayer"]=8,
+	["smellytrash-nightslayer"]=5,
 	["smibbers-nightslayer"]=7,
 	["smibs-nightslayer"]=2,
 	["smiggieballs-nightslayer"]=7,
