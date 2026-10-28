@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5202 characters, read 2026-10-28 03:59 AM.
+-- Region us, 5202 characters, read 2026-10-28 04:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2677,7 +2677,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["lumanwarx-pagle"]=10,
 	["lumapal-pagle"]=11,
 	["luminarìa-pagle"]=11,
-	["lumineth-pagle"]=11,
+	["lumineth-pagle"]=10,
 	["lunishamtwo-raden"]=111,
 	["lunpi-raden"]=251,
 	["lusts-raden"]=11,
@@ -5258,7 +5258,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["atreyuz-galakras"]=7,
 	["Åuditore-raden"]=10,
 	["augsburg-pagle"]=4,
-	["aurasmith-raden"]=16,
+	["aurasmith-raden"]=32,
 	["aureate-raden"]=2,
 	["aureateblue-raden"]=0,
 	["aureatex-raden"]=1,
@@ -6464,7 +6464,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["exiztm-raden"]=1,
 	["exiztww-raden"]=10,
 	["exoticdots-pagle"]=21,
-	["exotichub-galakras"]=20,
+	["exotichub-galakras"]=18,
 	["exxor-raden"]=7,
 	["eyemkr-raden"]=22,
 	["eyep-pagle"]=1,
@@ -7700,7 +7700,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["livlord-pagle"]=20,
 	["lixzos-nazgrim"]=18,
 	["liyarlena-raden"]=14,
-	["lizen-pagle"]=14,
+	["lizen-pagle"]=29,
 	["lkwjebfb-immerseus"]=9,
 	["llaski-galakras"]=18,
 	["llinc-pagle"]=3,

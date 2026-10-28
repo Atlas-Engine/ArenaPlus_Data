@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5365 characters, read 2026-10-28 04:00 AM.
+-- Region eu, 5365 characters, read 2026-10-28 05:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7292,9 +7292,9 @@ ns.SPECS_BY_REGION["eu"] = {
 	["kenblöck-mirage-raceway"]=15,
 	["kenhavefun-shekzeer"]=6,
 	["kenkofot-garalon"]=10,
-	["kennyk-garalon"]=1,
+	["kennyk-garalon"]=18,
 	["kennyk-shekzeer"]=18,
-	["kennykk-garalon"]=1,
+	["kennykk-garalon"]=18,
 	["kennyykofot-garalon"]=34,
 	["kenoh-shekzeer"]=18,
 	["kenrize-shekzeer"]=2,
@@ -7886,7 +7886,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["monais-shekzeer"]=16,
 	["monduk-auberdine"]=7,
 	["moneylong-shekzeer"]=17,
-	["mongoliamonk-hoptallus"]=13,
+	["mongoliamonk-hoptallus"]=16,
 	["mongue-garalon"]=12,
 	["monkasxd-everlook"]=6,
 	["monkasxd-ook-ook"]=6,
@@ -7899,7 +7899,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["monkfresher-hoptallus"]=6,
 	["monkhere-mirage-raceway"]=6,
 	["monkloide-shekzeer"]=6,
-	["monkp-norushen"]=7,
+	["monkp-norushen"]=29,
 	["monkrus-shekzeer"]=6,
 	["monkshadow-shekzeer"]=6,
 	["monktop-shekzeer"]=0,
@@ -7921,7 +7921,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["møonzqt-auberdine"]=1,
 	["moppin-shekzeer"]=2,
 	["mopsaint-shekzeer"]=14,
-	["mopster-norushen"]=6,
+	["mopster-norushen"]=29,
 	["mopzz-shekzeer"]=10,
 	["mørbidængel-shekzeer"]=2,
 	["mòrd-everlook"]=7,
@@ -9808,7 +9808,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["wink-mirage-raceway"]=7,
 	["winkaay-shekzeer"]=13,
 	["winkay-shekzeer"]=3,
-	["winkáy-shekzeer"]=2,
+	["winkáy-shekzeer"]=10,
 	["wïns-shekzeer"]=6,
 	["winterhunts-shekzeer"]=14,
 	["winteriuss-shekzeer"]=4,
@@ -9835,7 +9835,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["wølfgunxz-everlook"]=4,
 	["wolfus-mirage-raceway"]=1,
 	["wongfeihung-shekzeer"]=6,
-	["wongliener-everlook"]=4,
+	["wongliener-everlook"]=14,
 	["woodsboro-auberdine"]=6,
 	["woopzer-shekzeer"]=32,
 	["wordofwagyu-norushen"]=15,

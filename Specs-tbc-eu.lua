@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9620 characters, read 2026-10-28 03:59 AM.
+-- Region tbc-eu, 9620 characters, read 2026-10-28 04:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12787,7 +12787,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["hanniko-spineshatter"]=3,
 	["hansal-spineshatter"]=11,
 	["hansiboss-spineshatter"]=11,
-	["hansoons-spineshatter"]=8,
+	["hansoons-spineshatter"]=2,
 	["hantzy-spineshatter"]=17,
 	["hanunik-spineshatter"]=5,
 	["hanzõ-spineshatter"]=3,
@@ -13027,7 +13027,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["hunterhans-spineshatter"]=25,
 	["huntersorts-spineshatter"]=25,
 	["huntriox-spineshatter"]=25,
-	["huntshunts-thunderstrike"]=25,
+	["huntshunts-thunderstrike"]=24,
 	["huohottaja-spineshatter"]=18,
 	["hupnoqt-spineshatter"]=8,
 	["hurbo-spineshatter"]=7,
@@ -13371,7 +13371,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["jaydeenx-spineshatter"]=23,
 	["jayfk-spineshatter"]=5,
 	["jaykid-spineshatter"]=23,
-	["jaylév-spineshatter"]=2,
+	["jaylév-spineshatter"]=17,
 	["jayron-thunderstrike"]=19,
 	["jayserk-spineshatter"]=5,
 	["jaysonzheng-spineshatter"]=9,
