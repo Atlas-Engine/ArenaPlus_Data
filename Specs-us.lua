@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5193 characters, read 2026-10-28 01:59 AM.
+-- Region us, 5193 characters, read 2026-10-28 02:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5513,7 +5513,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["bluewhit-lei-shen"]=15,
 	["bluntish-lei-shen"]=14,
 	["bluntsntits-pagle"]=19,
-	["blunttraumah-immerseus"]=17,
+	["blunttraumah-immerseus"]=5,
 	["blutrunstig-pagle"]=7,
 	["bmacxvi-raden"]=21,
 	["bobal-galakras"]=4,
@@ -7263,7 +7263,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["jefmago-raden"]=11,
 	["jellierolls-pagle"]=4,
 	["jellybeans-raden"]=3,
-	["jellytugger-raden"]=24,
+	["jellytugger-raden"]=8,
 	["jerryjuve-lei-shen"]=5,
 	["jerryyer-raden"]=0,
 	["jerth-raden"]=0,
@@ -7296,7 +7296,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["jnick-raden"]=12,
 	["jocah-raden"]=9,
 	["jocksarotten-arugal-au"]=9,
-	["jodido-lei-shen"]=6,
+	["jodido-lei-shen"]=25,
 	["jodiesdad-raden"]=9,
 	["joefro-raden"]=16,
 	["joelrollan-raden"]=7,
@@ -7707,7 +7707,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["longlost-raden"]=9,
 	["longswôrd-pagle"]=0,
 	["lønyzz-raden"]=0,
-	["loonitics-raden"]=26,
+	["loonitics-raden"]=6,
 	["lopo-lei-shen"]=4,
 	["lorralai-pagle"]=2,
 	["loserbeam-pagle"]=17,
@@ -10007,7 +10007,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["xarped-nazgrim"]=17,
 	["xarshadow-immerseus"]=24,
 	["xatica-pagle"]=29,
-	["xatyka-pagle"]=1,
+	["xatyka-pagle"]=11,
 	["xavilier-pagle"]=29,
 	["xb-galakras"]=10,
 	["xcen-raden"]=18,
