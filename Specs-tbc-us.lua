@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9357 characters, read 2026-10-27 11:58 PM.
+-- Region tbc-us, 9357 characters, read 2026-10-28 12:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9624,7 +9624,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["assdestruct-nightslayer"]=13,
 	["assisyumi-nightslayer"]=2,
 	["astå-nightslayer"]=7,
-	["astias-nightslayer"]=2,
+	["astias-nightslayer"]=18,
 	["astonishu-nightslayer"]=2,
 	["astormage-nightslayer"]=6,
 	["astralgummi-nightslayer"]=7,
@@ -10610,7 +10610,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["chegorina-nightslayer"]=1,
 	["chegorita-nightslayer"]=12,
 	["cherbz-dreamscythe"]=1,
-	["cheryxx-nightslayer"]=6,
+	["cheryxx-nightslayer"]=4,
 	["cheshirez-nightslayer"]=0,
 	["chestday-nightslayer"]=19,
 	["chewtoy-nightslayer"]=10,
@@ -16882,7 +16882,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["spacee-nightslayer"]=7,
 	["spacelazer-nightslayer"]=9,
 	["spaghettiie-dreamscythe"]=18,
-	["spaghettoh-dreamscythe"]=1,
+	["spaghettoh-dreamscythe"]=14,
 	["spammingpom-nightslayer"]=1,
 	["spanishtranq-dreamscythe"]=22,
 	["spankntank-nightslayer"]=18,
