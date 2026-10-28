@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5200 characters, read 2026-10-28 04:59 PM.
+-- Region us, 5200 characters, read 2026-10-28 05:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -727,6 +727,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["cantgetmeoff-pagle"]=50,
 	["cäpriëstsun-pagle"]=41,
 	["carbontaxes-pagle"]=10,
+	["cardnelf-galakras"]=40,
 	["cardoni-galakras"]=10,
 	["cardpally-galakras"]=10,
 	["carnàxx-pagle"]=10,
@@ -1159,7 +1160,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["dizzrock-lei-shen"]=30,
 	["djabita-nazgrim"]=81,
 	["djadá-pagle"]=11,
-	["djblazyn-raden"]=10,
+	["djblazyn-raden"]=11,
 	["djinx-raden"]=11,
 	["djnapples-lei-shen"]=41,
 	["djnox-pagle"]=51,
@@ -5706,13 +5707,13 @@ ns.SPECS_BY_REGION["us"] = {
 	["candity-arugal-au"]=18,
 	["candykanes-pagle"]=28,
 	["canera-galakras"]=10,
-	["canible-raden"]=1,
+	["canible-raden"]=31,
 	["cannabimorph-pagle"]=5,
 	["cannibirilla-pagle"]=7,
 	["cantgetmeoff-pagle"]=30,
 	["cäpriëstsun-pagle"]=9,
 	["carbontaxes-pagle"]=1,
-	["cardnelf-galakras"]=0,
+	["cardnelf-galakras"]=5,
 	["cardoni-galakras"]=3,
 	["cardpally-galakras"]=16,
 	["carnàxx-pagle"]=24,
@@ -5736,7 +5737,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["catmasterx-raden"]=7,
 	["catpack-raden"]=12,
 	["cavalaum-galakras"]=19,
-	["cavallier-pagle"]=2,
+	["cavallier-pagle"]=32,
 	["caylara-raden"]=20,
 	["cazabrujas-raden"]=20,
 	["cbt-raden"]=4,
@@ -7598,7 +7599,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["leap-raden"]=7,
 	["lebenn-pagle"]=1,
 	["lebzozo-pagle"]=9,
-	["leddydk-pagle"]=6,
+	["leddydk-pagle"]=26,
 	["leddyshx-pagle"]=19,
 	["leddywx-pagle"]=7,
 	["leddyx-pagle"]=4,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9348 characters, read 2026-10-28 04:58 PM.
+-- Region tbc-us, 9348 characters, read 2026-10-28 05:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11167,7 +11167,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["demiimoore-nightslayer"]=5,
 	["demö-nightslayer"]=2,
 	["demølish-nightslayer"]=7,
-	["demonara-nightslayer"]=14,
+	["demonara-nightslayer"]=1,
 	["demonedge-nightslayer"]=18,
 	["demonsoup-dreamscythe"]=13,
 	["demønwrath-nightslayer"]=2,
@@ -11192,7 +11192,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["despot-nightslayer"]=1,
 	["destrogodx-nightslayer"]=13,
 	["destromg-nightslayer"]=13,
-	["determinist-dreamscythe"]=5,
+	["determinist-dreamscythe"]=8,
 	["detract-nightslayer"]=0,
 	["detslím-nightslayer"]=22,
 	["deucepolo-dreamscythe"]=11,
@@ -13491,7 +13491,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["karnij-nightslayer"]=18,
 	["karnyge-nightslayer"]=4,
 	["karonaz-nightslayer"]=5,
-	["karrakar-nightslayer"]=5,
+	["karrakar-nightslayer"]=8,
 	["karrakhaz-nightslayer"]=3,
 	["karru-nightslayer"]=1,
 	["karsie-dreamscythe"]=12,
@@ -16929,7 +16929,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["squirtmcgurt-nightslayer"]=21,
 	["squishay-nightslayer"]=5,
 	["squishd-nightslayer"]=5,
-	["squisheh-nightslayer"]=14,
+	["squisheh-nightslayer"]=1,
 	["squishmuffin-dreamscythe"]=14,
 	["squishyfawk-nightslayer"]=1,
 	["squishyfawkx-nightslayer"]=24,
