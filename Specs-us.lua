@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5192 characters, read 2026-10-28 09:54 PM.
+-- Region us, 5192 characters, read 2026-10-28 10:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5394,7 +5394,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["berell-galakras"]=17,
 	["berell-raden"]=5,
 	["berkson-galakras"]=20,
-	["bertharro-galakras"]=11,
+	["bertharro-galakras"]=1,
 	["bertoxxulos-galakras"]=28,
 	["bestiiaa-raden"]=20,
 	["bestmonkus-raden"]=4,
@@ -5898,7 +5898,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["crazywick-pagle"]=16,
 	["creamx-raden"]=1,
 	["creamytotem-galakras"]=15,
-	["crearly-galakras"]=6,
+	["crearly-galakras"]=25,
 	["crepes-pagle"]=12,
 	["crepuscolo-pagle"]=2,
 	["crepusculé-pagle"]=1,
@@ -9609,7 +9609,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["tocolita-pagle"]=16,
 	["tocornal-lei-shen"]=7,
 	["toepixs-pagle"]=10,
-	["töes-lei-shen"]=29,
+	["töes-lei-shen"]=34,
 	["toest-pagle"]=29,
 	["tohataburet-pagle"]=5,
 	["tokonatsu-raden"]=17,
