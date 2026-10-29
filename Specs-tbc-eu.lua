@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9630 characters, read 2026-10-29 07:59 AM.
+-- Region tbc-eu, 9630 characters, read 2026-10-29 08:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11148,7 +11148,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["cuckao-spineshatter"]=1,
 	["cuckoldrex-spineshatter"]=3,
 	["cucumshot-spineshatter"]=24,
-	["cucumwoof-spineshatter"]=11,
+	["cucumwoof-spineshatter"]=23,
 	["cuddlér-spineshatter"]=3,
 	["cuddo-spineshatter"]=2,
 	["cudds-spineshatter"]=12,
@@ -12891,7 +12891,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["hellathug-spineshatter"]=3,
 	["hëllcât-spineshatter"]=1,
 	["hellfirerr-spineshatter"]=5,
-	["hellhowl-spineshatter"]=23,
+	["hellhowl-spineshatter"]=12,
 	["hellmode-spineshatter"]=9,
 	["hellokitkat-spineshatter"]=6,
 	["helpimstuck-spineshatter"]=1,
@@ -13793,7 +13793,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["kiaràh-spineshatter"]=11,
 	["kiàrah-spineshatter"]=11,
 	["kiatra-spineshatter"]=9,
-	["kidneyspéàrs-thunderstrike"]=3,
+	["kidneyspéàrs-thunderstrike"]=19,
 	["kielmeister-spineshatter"]=13,
 	["kielomyy-spineshatter"]=1,
 	["kievfiend-thunderstrike"]=1,
@@ -17075,7 +17075,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["siittäjä-thunderstrike"]=13,
 	["sijuh-spineshatter"]=25,
 	["sikorex-spineshatter"]=13,
-	["síl-spineshatter"]=7,
+	["síl-spineshatter"]=26,
 	["sildryn-spineshatter"]=5,
 	["silencegoy-spineshatter"]=14,
 	["silentlaw-spineshatter"]=3,
