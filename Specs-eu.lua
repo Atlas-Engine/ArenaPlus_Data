@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5353 characters, read 2026-10-29 03:00 PM.
+-- Region eu, 5353 characters, read 2026-10-29 04:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6117,7 +6117,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["deathchaz-shekzeer"]=0,
 	["déathkón-shekzeer"]=33,
 	["deathléss-shekzeer"]=11,
-	["deaths-garalon"]=24,
+	["deaths-garalon"]=26,
 	["dèáthsmile-shekzeer"]=1,
 	["deathspark-mirage-raceway"]=33,
 	["deathwarr-shekzeer"]=1,
@@ -6129,7 +6129,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["deepshelter-shekzeer"]=0,
 	["dèépthroot-shekzeer"]=11,
 	["deevazz-everlook"]=26,
-	["defílers-shekzeer"]=15,
+	["defílers-shekzeer"]=5,
 	["defilius-everlook"]=9,
 	["degman-shekzeer"]=5,
 	["degoshka-norushen"]=13,
@@ -6240,7 +6240,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["domiino-shekzeer"]=12,
 	["dominant-garalon"]=28,
 	["dominant-shekzeer"]=2,
-	["dominoo-shekzeer"]=3,
+	["dominoo-shekzeer"]=21,
 	["domnox-auberdine"]=20,
 	["dondrippiano-shekzeer"]=6,
 	["donjacky-shekzeer"]=6,
@@ -6257,7 +6257,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["dotzalotz-hoptallus"]=23,
 	["doublebust-shekzeer"]=24,
 	["doublechamp-shekzeer"]=24,
-	["doublecheese-shekzeer"]=10,
+	["doublecheese-shekzeer"]=2,
 	["doubleshamp-shekzeer"]=19,
 	["doubletime-mirage-raceway"]=13,
 	["doucheppc-mirage-raceway"]=1,
