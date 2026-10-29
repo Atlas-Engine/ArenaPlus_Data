@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5353 characters, read 2026-10-29 06:00 PM.
+-- Region eu, 5353 characters, read 2026-10-29 07:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -524,7 +524,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["bláckwarrior-shekzeer"]=10,
 	["bladesmonk-hoptallus"]=10,
 	["blahster-shekzeer"]=10,
-	["blakmoon-auberdine"]=40,
+	["blakmoon-auberdine"]=41,
 	["blancos-auberdine"]=11,
 	["blanky-shekzeer"]=11,
 	["blaqchina-shekzeer"]=11,
@@ -3272,7 +3272,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["rainbowrider-shekzeer"]=41,
 	["rainbowrïder-shekzeer"]=41,
 	["rainbôwrider-shekzeer"]=30,
-	["rakå-shekzeer"]=11,
+	["rakå-shekzeer"]=10,
 	["rakamvp-shekzeer"]=31,
 	["raketenrudy-everlook"]=11,
 	["rakû-auberdine"]=60,
@@ -4122,7 +4122,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["toxicelitist-shekzeer"]=11,
 	["toxicfuz-garalon"]=50,
 	["toxiqkid-shekzeer"]=11,
-	["tpriestlx-shekzeer"]=10,
+	["tpriestlx-shekzeer"]=11,
 	["trachea-shekzeer"]=11,
 	["tracye-shekzeer"]=11,
 	["trafålguy-garalon"]=41,
@@ -5235,7 +5235,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["aggaa-shekzeer"]=21,
 	["Äggakaka-shekzeer"]=3,
 	["agnesx-shekzeer"]=17,
-	["Äíågêñt-shekzeer"]=20,
+	["Äíågêñt-shekzeer"]=14,
 	["aiden-shekzeer"]=1,
 	["aimbøt-shekzeer"]=4,
 	["aimyourass-garalon"]=4,
@@ -5652,7 +5652,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bláckwarrior-shekzeer"]=1,
 	["bladesmonk-hoptallus"]=6,
 	["blahster-shekzeer"]=12,
-	["blakmoon-auberdine"]=11,
+	["blakmoon-auberdine"]=3,
 	["blancos-auberdine"]=1,
 	["blanky-shekzeer"]=2,
 	["blaqchina-shekzeer"]=6,
@@ -5682,7 +5682,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bloodytrace-shekzeer"]=4,
 	["bluetoad-shekzeer"]=15,
 	["bluevoidd-shekzeer"]=28,
-	["blushxoxo-shekzeer"]=24,
+	["blushxoxo-shekzeer"]=26,
 	["blyatmanx-shekzeer"]=14,
 	["bmsk-shekzeer"]=6,
 	["bmskp-shekzeer"]=5,
@@ -6864,7 +6864,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["herõ-mirage-raceway"]=14,
 	["hetty-shekzeer"]=16,
 	["hevnlyst-shekzeer"]=6,
-	["hexador-everlook"]=23,
+	["hexador-everlook"]=17,
 	["hexenmeister-shekzeer"]=23,
 	["hexxa-hoptallus"]=14,
 	["heyalright-shekzeer"]=0,
@@ -9019,7 +9019,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["smileyslayer-mirage-raceway"]=4,
 	["smille-shekzeer"]=5,
 	["smirnoffice-shekzeer"]=3,
-	["smîte-shekzeer"]=22,
+	["smîte-shekzeer"]=12,
 	["smo-shekzeer"]=11,
 	["smokepûrp-shekzeer"]=23,
 	["smokerz-mirage-raceway"]=24,

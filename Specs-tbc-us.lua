@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9356 characters, read 2026-10-29 05:58 PM.
+-- Region tbc-us, 9356 characters, read 2026-10-29 06:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10723,7 +10723,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["claudeclone-nightslayer"]=7,
 	["claudecode-nightslayer"]=0,
 	["claudesonnet-nightslayer"]=5,
-	["cláudiá-nightslayer"]=2,
+	["cláudiá-nightslayer"]=18,
 	["clayhill-nightslayer"]=1,
 	["cleanboxers-nightslayer"]=15,
 	["clearcastt-nightslayer"]=4,
@@ -12605,7 +12605,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["haadrian-dreamscythe"]=13,
 	["haahahahahaa-nightslayer"]=5,
 	["haao-nightslayer"]=10,
-	["haard-nightslayer"]=24,
+	["haard-nightslayer"]=10,
 	["haarsm-nightslayer"]=6,
 	["haarsmage-nightslayer"]=6,
 	["haarspal-nightslayer"]=9,
@@ -14494,7 +14494,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["minimartha-nightslayer"]=1,
 	["minískirt-nightslayer"]=7,
 	["minitelanna-nightslayer"]=2,
-	["minixboy-nightslayer"]=15,
+	["minixboy-nightslayer"]=17,
 	["minmi-nightslayer"]=21,
 	["mintchocoice-nightslayer"]=5,
 	["minutz-nightslayer"]=1,
