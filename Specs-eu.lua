@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5355 characters, read 2026-10-29 11:00 AM.
+-- Region eu, 5357 characters, read 2026-10-29 12:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -190,6 +190,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["altuhakatuha-shekzeer"]=11,
 	["altuhanataha-shekzeer"]=41,
 	["altuhaoksana-shekzeer"]=10,
+	["altww-shekzeer"]=11,
 	["alucxrd-auberdine"]=21,
 	["alume-shekzeer"]=11,
 	["alwayseel-shekzeer"]=41,
@@ -3046,6 +3047,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["pagerodzida-norushen"]=20,
 	["paggi-shekzeer"]=11,
 	["pähkinä-hoptallus"]=11,
+	["paintrain-shekzeer"]=11,
 	["painwatchery-shekzeer"]=220,
 	["pakisman-garalon"]=100,
 	["pakorabani-shekzeer"]=10,
@@ -5298,6 +5300,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["altuhakatuha-shekzeer"]=1,
 	["altuhanataha-shekzeer"]=4,
 	["altuhaoksana-shekzeer"]=6,
+	["altww-shekzeer"]=7,
 	["alucxrd-auberdine"]=25,
 	["alume-shekzeer"]=2,
 	["alwayseel-shekzeer"]=6,
@@ -6639,6 +6642,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["gagrothe-auberdine"]=33,
 	["gajubøø-auberdine"]=16,
 	["galadrial-ook-ook"]=22,
+	["galaxyrise-shekzeer"]=0,
 	["galazme-mirage-raceway"]=29,
 	["galthrom-norushen"]=8,
 	["gameisgamex-norushen"]=2,
@@ -6953,7 +6957,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["huntorhunted-mirage-raceway"]=4,
 	["hùnty-auberdine"]=14,
 	["hurø-shekzeer"]=24,
-	["husnøgle-mirage-raceway"]=29,
+	["husnøgle-mirage-raceway"]=7,
 	["hvna-ook-ook"]=1,
 	["hylxia-auberdine"]=5,
 	["hyped-shekzeer"]=2,
@@ -8306,6 +8310,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["pagerodzida-norushen"]=4,
 	["paggi-shekzeer"]=6,
 	["pähkinä-hoptallus"]=26,
+	["paintrain-shekzeer"]=1,
 	["painwatchery-shekzeer"]=25,
 	["pakisman-garalon"]=5,
 	["pakorabani-shekzeer"]=1,
@@ -9202,7 +9207,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["superbob-norushen"]=16,
 	["superog-shekzeer"]=17,
 	["superpunch-shekzeer"]=7,
-	["supnerds-shekzeer"]=0,
 	["suprug-shekzeer"]=13,
 	["sur-hoptallus"]=9,
 	["surely-shekzeer"]=20,

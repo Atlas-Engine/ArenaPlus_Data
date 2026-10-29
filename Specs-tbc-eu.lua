@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9633 characters, read 2026-10-29 10:59 AM.
+-- Region tbc-eu, 9633 characters, read 2026-10-29 11:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9700,7 +9700,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["albi-spineshatter"]=9,
 	["albinojack-spineshatter"]=3,
 	["albraik-spineshatter"]=9,
-	["alcalix-thunderstrike"]=3,
+	["alcalix-thunderstrike"]=19,
 	["alcapown-spineshatter"]=3,
 	["alecbaldwins-spineshatter"]=3,
 	["alettaa-thunderstrike"]=4,
@@ -9831,7 +9831,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["anoréxica-spineshatter"]=9,
 	["anotherheal-spineshatter"]=0,
 	["anothertry-spineshatter"]=0,
-	["anoukix-thunderstrike"]=23,
+	["anoukix-thunderstrike"]=12,
 	["añt-spineshatter"]=1,
 	["antarticx-spineshatter"]=9,
 	["Ánticide-spineshatter"]=5,
@@ -10110,7 +10110,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["badforyá-spineshatter"]=1,
 	["badinfection-thunderstrike"]=17,
 	["badluckdref-spineshatter"]=1,
-	["badmånner-spineshatter"]=8,
+	["badmånner-spineshatter"]=2,
 	["badmfka-spineshatter"]=11,
 	["badmoove-spineshatter"]=6,
 	["badmuufo-spineshatter"]=5,
@@ -10835,7 +10835,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["checkslow-spineshatter"]=25,
 	["cheekbuster-spineshatter"]=1,
 	["cheeseballz-spineshatter"]=9,
-	["cheezies-thunderstrike"]=13,
+	["cheezies-thunderstrike"]=14,
 	["cheezr-spineshatter"]=3,
 	["cheginka-spineshatter"]=1,
 	["chemmss-spineshatter"]=12,
@@ -11197,7 +11197,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["daglas-spineshatter"]=8,
 	["dahealax-spineshatter"]=1,
 	["daimjo-thunderstrike"]=2,
-	["daïmon-thunderstrike"]=12,
+	["daïmon-thunderstrike"]=11,
 	["daìn-spineshatter"]=2,
 	["daiquiry-spineshatter"]=1,
 	["dàiquiry-spineshatter"]=1,
@@ -13607,7 +13607,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["kaelyqt-thunderstrike"]=9,
 	["kaepernickk-thunderstrike"]=3,
 	["kaerthyra-spineshatter"]=5,
-	["kaerthyshift-spineshatter"]=1,
+	["kaerthyshift-spineshatter"]=20,
 	["kaex-spineshatter"]=1,
 	["kagg-spineshatter"]=11,
 	["kahagen-spineshatter"]=3,
@@ -14729,7 +14729,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["mettlock-thunderstrike"]=13,
 	["meursault-spineshatter"]=9,
 	["mewtwoiq-spineshatter"]=11,
-	["mewzx-spineshatter"]=17,
+	["mewzx-spineshatter"]=2,
 	["mewzy-spineshatter"]=2,
 	["meydle-spineshatter"]=10,
 	["meyself-spineshatter"]=12,
@@ -14824,7 +14824,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["miracles-spineshatter"]=3,
 	["miraio-thunderstrike"]=12,
 	["miraix-spineshatter"]=3,
-	["mírandá-spineshatter"]=2,
+	["mírandá-spineshatter"]=17,
 	["mirlòl-spineshatter"]=3,
 	["mirlôl-spineshatter"]=3,
 	["mirosa-spineshatter"]=5,
