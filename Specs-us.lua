@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5197 characters, read 2026-10-29 12:59 PM.
+-- Region us, 5197 characters, read 2026-10-29 01:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2710,7 +2710,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["madvillainx-pagle"]=60,
 	["mærshall-raden"]=11,
 	["mag-raden"]=10,
-	["magdalenia-pagle"]=10,
+	["magdalenia-pagle"]=11,
 	["mageblackrat-pagle"]=10,
 	["magegaje-pagle"]=11,
 	["magemagehair-pagle"]=51,
@@ -6318,7 +6318,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dumbpoptart-benediction"]=7,
 	["dumdum-nazgrim"]=18,
 	["dúmß-raden"]=7,
-	["dunardel-raden"]=30,
+	["dunardel-raden"]=7,
 	["dunkindotnut-raden"]=0,
 	["dunkyb-raden"]=1,
 	["durck-pagle"]=5,
@@ -8463,7 +8463,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["penitential-raden"]=21,
 	["pennisrodman-pagle"]=22,
 	["penpaly-galakras"]=16,
-	["pepsí-lei-shen"]=2,
+	["pepsí-lei-shen"]=16,
 	["percosett-raden"]=7,
 	["periqueado-pagle"]=2,
 	["peritho-benediction"]=17,
@@ -9277,7 +9277,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["spaak-raden"]=34,
 	["space-raden"]=1,
 	["spala-pagle"]=0,
-	["sparas-raden"]=1,
+	["sparas-raden"]=11,
 	["sparqxx-pagle"]=14,
 	["sparrowsknee-pagle"]=3,
 	["speedfiree-pagle"]=3,
@@ -10078,12 +10078,12 @@ ns.SPECS_BY_REGION["us"] = {
 	["yazor-nazgrim"]=1,
 	["ybats-grobbulus"]=24,
 	["yecnay-galakras"]=7,
-	["yecum-galakras"]=9,
+	["yecum-galakras"]=21,
 	["yeezus-grobbulus"]=13,
 	["yekcoh-pagle"]=29,
 	["yellowspwn-raden"]=21,
 	["yelly-pagle"]=20,
-	["yerbastian-nazgrim"]=6,
+	["yerbastian-nazgrim"]=26,
 	["yermum-raden"]=7,
 	["yesindeedee-pagle"]=1,
 	["yesue-pagle"]=4,

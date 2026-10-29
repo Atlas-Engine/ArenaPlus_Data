@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5357 characters, read 2026-10-29 01:00 PM.
+-- Region eu, 5357 characters, read 2026-10-29 02:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1357,7 +1357,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["fichi-shekzeer"]=111,
 	["fientedepaon-shekzeer"]=11,
 	["fiftydbreath-shekzeer"]=11,
-	["fiftyzen-everlook"]=11,
 	["figment-garalon"]=81,
 	["fiksiuss-mirage-raceway"]=11,
 	["fillez-shekzeer"]=11,
@@ -5481,7 +5480,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["awoawoawalmx-shekzeer"]=2,
 	["awoawoawalwm-shekzeer"]=9,
 	["awuawoawawow-shekzeer"]=2,
-	["axéa-hoptallus"]=18,
+	["axéa-hoptallus"]=1,
 	["axesaw-norushen"]=1,
 	["axmed-garalon"]=15,
 	["ay-shekzeer"]=3,
@@ -6527,7 +6526,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["fientedepaon-shekzeer"]=4,
 	["fiftsven-everlook"]=0,
 	["fiftydbreath-shekzeer"]=10,
-	["fiftyzen-everlook"]=6,
+	["fiftyzen-everlook"]=0,
 	["figment-garalon"]=3,
 	["fiksiuss-mirage-raceway"]=15,
 	["fillez-shekzeer"]=12,
@@ -6599,7 +6598,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["foxlollyx-ook-ook"]=19,
 	["fractalshow-shekzeer"]=11,
 	["fragola-mirage-raceway"]=6,
-	["frakastou-auberdine"]=1,
+	["frakastou-auberdine"]=25,
 	["freaked-shekzeer"]=4,
 	["freakirl-shekzeer"]=1,
 	["freakírl-shekzeer"]=2,
@@ -8367,7 +8366,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["pennyyo-everlook"]=15,
 	["pennyz-everlook"]=12,
 	["pentti-shekzeer"]=11,
-	["pépitô-auberdine"]=20,
+	["pépitô-auberdine"]=4,
 	["peregrinuss-shekzeer"]=1,
 	["pereza-shekzeer"]=1,
 	["perkalator-garalon"]=26,
@@ -8775,7 +8774,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["ryuuman-shekzeer"]=0,
 	["ryuuren-garalon"]=0,
 	["saala-shekzeer"]=1,
-	["saasaa-shekzeer"]=13,
+	["saasaa-shekzeer"]=16,
 	["sachikø-shekzeer"]=9,
 	["sacredvow-shekzeer"]=5,
 	["sadeqool-mirage-raceway"]=8,
