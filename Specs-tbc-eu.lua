@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9630 characters, read 2026-10-29 12:59 AM.
+-- Region tbc-eu, 9632 characters, read 2026-10-29 01:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2811,6 +2811,7 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["foamweasel-spineshatter"]=61,
 	["fodax-spineshatter"]=21,
 	["føfrøs-spineshatter"]=60,
+	["foknlegend-spineshatter"]=40,
 	["folarin-thunderstrike"]=111,
 	["folfirinox-spineshatter"]=21,
 	["folfirinox-thunderstrike"]=21,
@@ -6937,6 +6938,7 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["rolexowtwo-spineshatter"]=11,
 	["rolikek-spineshatter"]=50,
 	["rollfacezz-thunderstrike"]=11,
+	["rollond-spineshatter"]=40,
 	["roltenz-spineshatter"]=31,
 	["romilio-spineshatter"]=30,
 	["romilla-spineshatter"]=111,
@@ -7444,7 +7446,6 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["shtanga-spineshatter"]=60,
 	["shuan-spineshatter"]=111,
 	["shufflebones-spineshatter"]=50,
-	["shün-spineshatter"]=60,
 	["shunatan-spineshatter"]=51,
 	["shundra-thunderstrike"]=51,
 	["shy-spineshatter"]=100,
@@ -7719,6 +7720,7 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["sööthie-spineshatter"]=51,
 	["sopado-spineshatter"]=21,
 	["sopep-spineshatter"]=50,
+	["sophokingud-spineshatter"]=10,
 	["soppingdildo-spineshatter"]=20,
 	["soqui-spineshatter"]=50,
 	["sorakek-spineshatter"]=11,
@@ -12352,6 +12354,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["foamweasel-spineshatter"]=6,
 	["fodax-spineshatter"]=5,
 	["føfrøs-spineshatter"]=6,
+	["foknlegend-spineshatter"]=6,
 	["folarin-thunderstrike"]=11,
 	["folfirinox-spineshatter"]=13,
 	["folfirinox-thunderstrike"]=13,
@@ -16534,6 +16537,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["rolexowtwo-spineshatter"]=3,
 	["rolikek-spineshatter"]=3,
 	["rollfacezz-thunderstrike"]=7,
+	["rollond-spineshatter"]=1,
 	["roltenz-spineshatter"]=5,
 	["romilio-spineshatter"]=2,
 	["romilla-spineshatter"]=11,
@@ -17049,7 +17053,6 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["shtanga-spineshatter"]=5,
 	["shuan-spineshatter"]=11,
 	["shufflebones-spineshatter"]=3,
-	["shün-spineshatter"]=6,
 	["shunatan-spineshatter"]=19,
 	["shundra-thunderstrike"]=9,
 	["shy-spineshatter"]=26,
@@ -17330,6 +17333,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["sööthie-spineshatter"]=18,
 	["sopado-spineshatter"]=15,
 	["sopep-spineshatter"]=9,
+	["sophokingud-spineshatter"]=3,
 	["soppingdildo-spineshatter"]=12,
 	["soqui-spineshatter"]=2,
 	["sorakek-spineshatter"]=15,

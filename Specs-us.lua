@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5200 characters, read 2026-10-29 12:59 AM.
+-- Region us, 5200 characters, read 2026-10-29 01:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4778,7 +4778,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["wïntërwîtch-pagle"]=41,
 	["winterzface-nazgrim"]=10,
 	["wiseoleman-pagle"]=20,
-	["wispér-raden"]=11,
 	["wìz-raden"]=11,
 	["wîzärdøføzz-raden"]=31,
 	["wkndxo-raden"]=10,
@@ -7465,7 +7464,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["kiggzx-pagle"]=17,
 	["kijø-pagle"]=24,
 	["kilgorë-immerseus"]=19,
-	["kiljason-raden"]=17,
+	["kiljason-raden"]=5,
 	["killa-grobbulus"]=7,
 	["killa-immerseus"]=16,
 	["killbeer-pagle"]=2,
@@ -8154,7 +8153,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["nc-lei-shen"]=7,
 	["neac-pagle"]=21,
 	["neat-immerseus"]=24,
-	["nebubanana-raden"]=28,
+	["nebubanana-raden"]=8,
 	["nebuboom-nazgrim"]=17,
 	["nebugrape-raden"]=8,
 	["nebupeach-nazgrim"]=8,
@@ -9533,7 +9532,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["terowyn-pagle"]=16,
 	["tertran-raden"]=7,
 	["tertuhl-raden"]=7,
-	["terzerd-nazgrim"]=10,
+	["terzerd-nazgrim"]=4,
 	["teshsky-pagle"]=28,
 	["testicls-galakras"]=3,
 	["testndbolwar-raden"]=7,
@@ -9971,7 +9970,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["wïntërwîtch-pagle"]=25,
 	["winterzface-nazgrim"]=25,
 	["wiseoleman-pagle"]=22,
-	["wispér-raden"]=6,
+	["wispér-raden"]=0,
 	["wìz-raden"]=21,
 	["wîzärdøføzz-raden"]=15,
 	["wkndxo-raden"]=1,
