@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9358 characters, read 2026-10-29 08:58 AM.
+-- Region tbc-us, 9358 characters, read 2026-10-29 09:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9523,7 +9523,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["anthoe-nightslayer"]=5,
 	["antidoties-nightslayer"]=18,
 	["antiskill-nightslayer"]=2,
-	["antitasy-nightslayer"]=3,
+	["antitasy-nightslayer"]=7,
 	["antixxyo-nightslayer"]=8,
 	["antonha-nightslayer"]=19,
 	["anubis-nightslayer"]=15,
@@ -13614,7 +13614,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["kigame-nightslayer"]=2,
 	["kiggzm-nightslayer"]=4,
 	["kiggzp-nightslayer"]=11,
-	["kiggzr-nightslayer"]=5,
+	["kiggzr-nightslayer"]=27,
 	["kiggzs-nightslayer"]=24,
 	["killi-nightslayer"]=0,
 	["killkrazed-nightslayer"]=2,
@@ -17286,7 +17286,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["taserfaace-dreamscythe"]=7,
 	["tasky-nightslayer"]=10,
 	["taterjoe-nightslayer"]=2,
-	["tatertatas-nightslayer"]=11,
+	["tatertatas-nightslayer"]=9,
 	["tathron-nightslayer"]=7,
 	["tauntxoffme-nightslayer"]=9,
 	["tavzy-nightslayer"]=16,
