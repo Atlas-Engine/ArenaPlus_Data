@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5199 characters, read 2026-10-28 06:59 PM.
+-- Region us, 5199 characters, read 2026-10-28 07:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5292,7 +5292,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["babycool-raden"]=0,
 	["babyturd-pagle"]=12,
 	["bacatranx-pagle"]=18,
-	["badabign-pagle"]=21,
+	["badabign-pagle"]=9,
 	["badanha-nazgrim"]=7,
 	["badanhaa-nazgrim"]=30,
 	["badback-nazgrim"]=7,
@@ -5344,7 +5344,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["basedgõd-raden"]=20,
 	["basedproc-pagle"]=15,
 	["basedprocity-pagle"]=15,
-	["bashlee-lei-shen"]=23,
+	["bashlee-lei-shen"]=7,
 	["battleground-pagle"]=17,
 	["battleground-raden"]=4,
 	["battlehealz-galakras"]=21,
@@ -5469,7 +5469,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["bistwo-raden"]=0,
 	["bistwo-sulfuras"]=0,
 	["bisü-pagle"]=18,
-	["bitsuu-raden"]=16,
+	["bitsuu-raden"]=32,
 	["bizznick-pagle"]=23,
 	["bjørnn-galakras"]=7,
 	["bjòrrn-pagle"]=15,
@@ -5981,7 +5981,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["damimdialed-raden"]=3,
 	["dammyy-pagle"]=7,
 	["dampeners-raden"]=8,
-	["danar-raden"]=12,
+	["danar-raden"]=5,
 	["dáncingmines-raden"]=5,
 	["dandor-pagle"]=7,
 	["dangercat-immerseus"]=17,
@@ -7457,7 +7457,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["kiggzx-pagle"]=17,
 	["kijø-pagle"]=24,
 	["kilgorë-immerseus"]=19,
-	["kiljason-raden"]=5,
+	["kiljason-raden"]=17,
 	["killa-grobbulus"]=7,
 	["killa-immerseus"]=16,
 	["killallmages-pagle"]=0,
@@ -9119,7 +9119,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["sírchargé-lei-shen"]=7,
 	["sisterfista-raden"]=10,
 	["sithtyshades-galakras"]=9,
-	["síx-nazgrim"]=6,
+	["síx-nazgrim"]=26,
 	["sixgodx-raden"]=7,
 	["sixmonth-raden"]=4,
 	["sixpathsage-pagle"]=27,
