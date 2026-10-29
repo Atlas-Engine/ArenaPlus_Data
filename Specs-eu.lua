@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5354 characters, read 2026-10-29 02:00 AM.
+-- Region eu, 5354 characters, read 2026-10-29 03:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2928,7 +2928,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["npbd-shekzeer"]=40,
 	["Ñqqa-shekzeer"]=11,
 	["nrg-shekzeer"]=11,
-	["nsé-garalon"]=11,
+	["nsé-garalon"]=10,
 	["ntbf-shekzeer"]=11,
 	["ntbfq-shekzeer"]=11,
 	["ntxfake-shekzeer"]=41,
@@ -4292,7 +4292,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["vayn-shekzeer"]=11,
 	["vazir-shekzeer"]=220,
 	["vazyx-shekzeer"]=110,
-	["vazyxsdad-shekzeer"]=10,
 	["veera-shekzeer"]=71,
 	["vegz-garalon"]=11,
 	["veilvet-auberdine"]=20,
@@ -8182,7 +8181,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["npbd-shekzeer"]=11,
 	["Ñqqa-shekzeer"]=1,
 	["nrg-shekzeer"]=24,
-	["nsé-garalon"]=5,
+	["nsé-garalon"]=15,
 	["ntbf-shekzeer"]=24,
 	["ntbfq-shekzeer"]=9,
 	["ntxfake-shekzeer"]=11,
@@ -9614,7 +9613,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["vayn-shekzeer"]=5,
 	["vazir-shekzeer"]=11,
 	["vazyx-shekzeer"]=13,
-	["vazyxsdad-shekzeer"]=7,
+	["vazyxsdad-shekzeer"]=0,
 	["veera-shekzeer"]=26,
 	["vegz-garalon"]=5,
 	["veilvet-auberdine"]=1,
