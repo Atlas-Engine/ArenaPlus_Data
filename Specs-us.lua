@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5196 characters, read 2026-10-29 06:59 AM.
+-- Region us, 5196 characters, read 2026-10-29 07:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5111,7 +5111,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["algreen-pagle"]=4,
 	["alhamdulilla-raden"]=5,
 	["alicia-raden"]=4,
-	["alienmilf-pagle"]=12,
+	["alienmilf-pagle"]=5,
 	["Älina-raden"]=16,
 	["alipriest-pagle"]=13,
 	["aliría-raden"]=0,
@@ -7219,7 +7219,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["isåbell-pagle"]=6,
 	["isabellee-raden"]=1,
 	["isbxr-raden"]=14,
-	["isg-pagle"]=23,
+	["isg-pagle"]=30,
 	["ishootropes-raden"]=7,
 	["ishotyou-galakras"]=3,
 	["isisnuke-raden"]=1,
@@ -7279,7 +7279,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["jcdk-raden"]=6,
 	["jedicowie-pagle"]=21,
 	["jeewwjitsu-raden"]=10,
-	["jeffatality-nazgrim"]=10,
+	["jeffatality-nazgrim"]=27,
 	["jeffrence-pagle"]=16,
 	["jefmago-raden"]=11,
 	["jellierolls-pagle"]=4,
@@ -8036,7 +8036,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["moonspellol-galakras"]=14,
 	["møønstár-arugal-au"]=5,
 	["møonxz-raden"]=12,
-	["møønzx-galakras"]=17,
+	["møønzx-galakras"]=5,
 	["mootski-pagle"]=18,
 	["mopdruid-pagle"]=0,
 	["mopples-arugal-au"]=4,
@@ -9499,14 +9499,14 @@ ns.SPECS_BY_REGION["us"] = {
 	["tastyshotz-raden"]=3,
 	["tatís-pagle"]=21,
 	["taulastria-nazgrim"]=24,
-	["taurenmen-immerseus"]=33,
+	["taurenmen-immerseus"]=17,
 	["taybird-raden"]=7,
 	["tbk-raden"]=16,
 	["tcuro-raden"]=4,
 	["teamobaggins-galakras"]=12,
 	["teatable-raden"]=1,
 	["technique-raden"]=7,
-	["tectros-pagle"]=30,
+	["tectros-pagle"]=7,
 	["tedespinguee-immerseus"]=4,
 	["teejayc-pagle"]=18,
 	["teejizzleqt-pagle"]=7,
