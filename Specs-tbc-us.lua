@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9353 characters, read 2026-10-28 11:58 PM.
+-- Region tbc-us, 9353 characters, read 2026-10-29 12:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9428,7 +9428,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["allegheny-nightslayer"]=2,
 	["allemin-nightslayer"]=5,
 	["allenstout-nightslayer"]=21,
-	["allstarsocal-nightslayer"]=15,
+	["allstarsocal-nightslayer"]=21,
 	["allstarxx-nightslayer"]=15,
 	["allupinsideu-nightslayer"]=9,
 	["allurie-nightslayer"]=9,
@@ -11352,7 +11352,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["donaldp-nightslayer"]=18,
 	["donavanmcnab-nightslayer"]=4,
 	["donbeck-nightslayer"]=4,
-	["donbeckr-nightslayer"]=5,
+	["donbeckr-nightslayer"]=8,
 	["donbod-nightslayer"]=2,
 	["dondep-nightslayer"]=19,
 	["dondoner-nightslayer"]=2,
@@ -11869,7 +11869,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["faeynn-nightslayer"]=5,
 	["faeynnbubble-nightslayer"]=25,
 	["faeynntank-nightslayer"]=2,
-	["fahr-nightslayer"]=2,
+	["fahr-nightslayer"]=18,
 	["fahzoo-nightslayer"]=12,
 	["faildpainter-nightslayer"]=8,
 	["failson-nightslayer"]=1,
@@ -14560,7 +14560,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["moistjohnson-nightslayer"]=4,
 	["moistured-nightslayer"]=2,
 	["mojabighost-nightslayer"]=13,
-	["mojando-nightslayer"]=13,
+	["mojando-nightslayer"]=16,
 	["mõjando-nightslayer"]=3,
 	["mojing-dreamscythe"]=1,
 	["mojitosz-dreamscythe"]=2,
@@ -15965,7 +15965,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["rhozy-nightslayer"]=25,
 	["rhxx-nightslayer"]=1,
 	["rhyjz-nightslayer"]=7,
-	["rhythmic-nightslayer"]=8,
+	["rhythmic-nightslayer"]=5,
 	["riaxa-nightslayer"]=17,
 	["ricepoopie-dreamscythe"]=16,
 	["rich-nightslayer"]=2,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5354 characters, read 2026-10-29 12:00 AM.
+-- Region eu, 5354 characters, read 2026-10-29 01:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9439,7 +9439,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["toxicfuz-garalon"]=6,
 	["toxiqkid-shekzeer"]=1,
 	["tpriestlx-shekzeer"]=9,
-	["trachea-shekzeer"]=7,
+	["trachea-shekzeer"]=6,
 	["tracye-shekzeer"]=9,
 	["trafålguy-garalon"]=6,
 	["traktopelle-auberdine"]=3,
@@ -9483,7 +9483,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["tryinglock-shekzeer"]=17,
 	["trytorun-shekzeer"]=4,
 	["tsima-shekzeer"]=3,
-	["tslx-shekzeer"]=13,
+	["tslx-shekzeer"]=16,
 	["tsouvirak-garalon"]=1,
 	["tsüfî-mirage-raceway"]=15,
 	["tsukasà-auberdine"]=16,
@@ -10072,7 +10072,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["zonnmonk-hoptallus"]=6,
 	["zonya-hoptallus"]=9,
 	["zoompräst-shekzeer"]=12,
-	["zoraa-everlook"]=5,
+	["zoraa-everlook"]=15,
 	["zoraa-shekzeer"]=5,
 	["zorroxx-shekzeer"]=9,
 	["zportster-shekzeer"]=34,

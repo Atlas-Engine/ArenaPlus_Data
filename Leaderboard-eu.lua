@@ -18,7 +18,7 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region eu, season 14, read 2026-10-29 12:00 AM.
+-- Region eu, season 14, read 2026-10-29 01:00 AM.
 -- Realm display names, because the ladder only carries slugs and no rule
 -- turns one back into the other: raden is Ra-den, lei-shen is Lei Shen and
 -- arugal-au is Arugal (AU). Read from Blizzard's realm index; a slug with no
@@ -34,8 +34,8 @@ ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["eu"] = {
 	region  = "eu",
-	checked = "2026-10-29 12:00 AM",
-	checkedEpoch = 1793246406,
+	checked = "2026-10-29 01:00 AM",
+	checkedEpoch = 1793250005,
 	snapshot = "2026-10-29 03:12",
 
 	[1] = {  -- 2v2, 5000 places, down to rating 1049 -- the API stops here, short of the cutoff
@@ -5073,10 +5073,10 @@ ns.LEADERBOARD_BY_REGION["eu"] = {
 		{ rank=30, name="ßlinkd", realm="shekzeer", rating=2596, won=80, lost=74, faction="ALLIANCE", dr=59, dk=-9 },
 		{ rank=30, name="Szx", realm="shekzeer", rating=2596, won=71, lost=40, faction="ALLIANCE", mr=2601, dr=274, dk=-83 },
 		{ rank=32, name="Apologies", realm="shekzeer", rating=2592, won=107, lost=71, faction="ALLIANCE", mr=2642, dr=-50, dk=16 },
-		{ rank=32, name="Trachea", realm="shekzeer", rating=2592, won=76, lost=67, faction="ALLIANCE", dr=264, dk=-76 },
-		{ rank=34, name="Holypal", realm="shekzeer", rating=2590, won=107, lost=77, faction="ALLIANCE", dr=77, dk=-12 },
-		{ rank=35, name="Maestrø", realm="shekzeer", rating=2587, won=69, lost=29, faction="ALLIANCE", mr=2597, dr=155, dk=-48 },
-		{ rank=36, name="Ostosbigego", realm="shekzeer", rating=2584, won=74, lost=39, faction="ALLIANCE", mr=2595, dr=-11, dk=11 },
+		{ rank=33, name="Holypal", realm="shekzeer", rating=2590, won=107, lost=77, faction="ALLIANCE", dr=77, dk=-13 },
+		{ rank=34, name="Maestrø", realm="shekzeer", rating=2587, won=69, lost=29, faction="ALLIANCE", mr=2597, dr=155, dk=-49 },
+		{ rank=35, name="Ostosbigego", realm="shekzeer", rating=2584, won=74, lost=39, faction="ALLIANCE", mr=2595, dr=-11, dk=10 },
+		{ rank=36, name="Trachea", realm="shekzeer", rating=2581, won=76, lost=68, faction="ALLIANCE", mr=2592, dr=253, dk=-72 },
 		{ rank=37, name="Soveryx", realm="shekzeer", rating=2576, won=79, lost=88, faction="ALLIANCE", dr=23, dk=4 },
 		{ rank=38, name="Holyknightlx", realm="shekzeer", rating=2570, won=95, lost=44, faction="ALLIANCE", mr=2573, dr=34, dk=-2 },
 		{ rank=39, name="Moýo", realm="shekzeer", rating=2565, won=95, lost=61, faction="ALLIANCE", dr=124, dk=-38 },
