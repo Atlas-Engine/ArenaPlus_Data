@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9353 characters, read 2026-10-28 10:58 PM.
+-- Region tbc-us, 9353 characters, read 2026-10-28 11:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11226,7 +11226,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["diali-nightslayer"]=24,
 	["diamxnd-nightslayer"]=2,
 	["dianà-nightslayer"]=17,
-	["diavolo-nightslayer"]=11,
+	["diavolo-nightslayer"]=25,
 	["dibzrage-nightslayer"]=2,
 	["diçe-nightslayer"]=5,
 	["dicoo-nightslayer"]=5,
@@ -11326,7 +11326,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["dmforcøach-dreamscythe"]=1,
 	["dmgcontrol-dreamscythe"]=16,
 	["dmlol-nightslayer"]=1,
-	["dned-dreamscythe"]=4,
+	["dned-dreamscythe"]=6,
 	["dniym-nightslayer"]=7,
 	["dntsitonhim-nightslayer"]=10,
 	["dockingtotem-nightslayer"]=19,
@@ -11470,7 +11470,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["driftingw-nightslayer"]=9,
 	["driftingz-nightslayer"]=4,
 	["driggity-nightslayer"]=7,
-	["driguin-nightslayer"]=8,
+	["driguin-nightslayer"]=5,
 	["dringet-nightslayer"]=2,
 	["drinktodrown-dreamscythe"]=10,
 	["drippyjönes-nightslayer"]=1,
@@ -14329,7 +14329,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["meatsweatsz-nightslayer"]=2,
 	["meda-nightslayer"]=24,
 	["medastorm-nightslayer"]=24,
-	["meddlesome-nightslayer"]=14,
+	["meddlesome-nightslayer"]=1,
 	["medevaxx-nightslayer"]=7,
 	["medi-nightslayer"]=1,
 	["medimark-nightslayer"]=15,
@@ -15701,7 +15701,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["quadzilluh-nightslayer"]=10,
 	["quakelive-nightslayer"]=10,
 	["quartzorc-nightslayer"]=10,
-	["quasant-dreamscythe"]=2,
+	["quasant-dreamscythe"]=18,
 	["quasar-nightslayer"]=4,
 	["quatang-nightslayer"]=12,
 	["quazic-nightslayer"]=18,
@@ -16167,7 +16167,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["sabandija-nightslayer"]=7,
 	["sabarkas-nightslayer"]=7,
 	["saberdot-nightslayer"]=13,
-	["sabin-dreamscythe"]=5,
+	["sabin-dreamscythe"]=8,
 	["sabrosita-nightslayer"]=2,
 	["sabur-nightslayer"]=7,
 	["sacmen-nightslayer"]=7,
@@ -16773,7 +16773,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["smuxx-nightslayer"]=2,
 	["snaileyes-nightslayer"]=5,
 	["snakelingz-nightslayer"]=24,
-	["snakeonplane-nightslayer"]=12,
+	["snakeonplane-nightslayer"]=1,
 	["snakeygirl-nightslayer"]=7,
 	["snakrifice-dreamscythe"]=2,
 	["snapcity-nightslayer"]=13,
@@ -17916,7 +17916,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["villuxo-nightslayer"]=2,
 	["vincexd-nightslayer"]=1,
 	["vindrasende-nightslayer"]=19,
-	["vini-dreamscythe"]=25,
+	["vini-dreamscythe"]=11,
 	["vinimex-dreamscythe"]=15,
 	["viñkz-nightslayer"]=9,
 	["vînkz-nightslayer"]=1,
