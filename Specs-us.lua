@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5195 characters, read 2026-10-29 11:59 AM.
+-- Region us, 5197 characters, read 2026-10-29 12:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -78,6 +78,7 @@ ns.SPEC_SLUGS = ns.SPEC_SLUGS or ns.SPEC_SLUGS_BY_REGION["us"]
 ns.LOOKS_BY_REGION = ns.LOOKS_BY_REGION or {}
 
 ns.LOOKS_BY_REGION["us"] = {
+	["aalterego-pagle"]=50,
 	["aarôn-raden"]=41,
 	["aaronbead-lei-shen"]=10,
 	["aaronns-galakras"]=11,
@@ -218,6 +219,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["animalzx-lei-shen"]=40,
 	["anjurus-pagle"]=11,
 	["annatorius-pagle"]=60,
+	["annecrawford-pagle"]=31,
 	["annikà-nazgrim"]=101,
 	["annoyinghunt-immerseus"]=10,
 	["anobi-pagle"]=101,
@@ -374,7 +376,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["bárd-pagle"]=10,
 	["barebackkids-raden"]=41,
 	["barêskin-galakras"]=20,
-	["baripries-pagle"]=11,
 	["barkskinwinz-pagle"]=41,
 	["barneybaddy-pagle"]=10,
 	["barneybandge-pagle"]=10,
@@ -4115,6 +4116,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["soytupapi-pagle"]=50,
 	["spaak-raden"]=11,
 	["space-raden"]=111,
+	["sparas-raden"]=71,
 	["sparqxx-pagle"]=11,
 	["sparrowsknee-pagle"]=10,
 	["speedfiree-pagle"]=10,
@@ -5022,6 +5024,7 @@ ns.LOOKS_BY_REGION["us"] = {
 ns.SPECS_BY_REGION = ns.SPECS_BY_REGION or {}
 
 ns.SPECS_BY_REGION["us"] = {
+	["aalterego-pagle"]=9,
 	["aarôn-raden"]=9,
 	["aaronbead-lei-shen"]=32,
 	["aaronns-galakras"]=3,
@@ -5167,6 +5170,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["animalzx-lei-shen"]=5,
 	["anjurus-pagle"]=3,
 	["annatorius-pagle"]=16,
+	["annecrawford-pagle"]=19,
 	["annikà-nazgrim"]=2,
 	["annoyinghunt-immerseus"]=20,
 	["anobi-pagle"]=13,
@@ -5333,7 +5337,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["bárd-pagle"]=3,
 	["barebackkids-raden"]=5,
 	["barêskin-galakras"]=6,
-	["baripries-pagle"]=9,
 	["barkskinwinz-pagle"]=5,
 	["barneybaddy-pagle"]=7,
 	["barneybandge-pagle"]=4,
@@ -9274,6 +9277,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["spaak-raden"]=34,
 	["space-raden"]=1,
 	["spala-pagle"]=0,
+	["sparas-raden"]=1,
 	["sparqxx-pagle"]=14,
 	["sparrowsknee-pagle"]=3,
 	["speedfiree-pagle"]=3,

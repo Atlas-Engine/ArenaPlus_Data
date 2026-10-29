@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9350 characters, read 2026-10-29 11:58 AM.
+-- Region tbc-us, 9350 characters, read 2026-10-29 12:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -13017,7 +13017,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["iitztricky-nightslayer"]=2,
 	["ijustschartd-dreamscythe"]=15,
 	["ikazurum-nightslayer"]=23,
-	["ikedayuji-nightslayer"]=6,
+	["ikedayuji-nightslayer"]=4,
 	["iketv-nightslayer"]=11,
 	["iksrups-nightslayer"]=4,
 	["ikthariusx-nightslayer"]=5,
@@ -13089,7 +13089,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["innate-nightslayer"]=23,
 	["innated-nightslayer"]=7,
 	["innatep-nightslayer"]=9,
-	["innater-nightslayer"]=8,
+	["innater-nightslayer"]=5,
 	["innovatorx-nightslayer"]=18,
 	["innovindill-dreamscythe"]=21,
 	["inquislolxd-nightslayer"]=0,
@@ -15731,7 +15731,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["rabear-nightslayer"]=7,
 	["rabishmuley-nightslayer"]=19,
 	["raboute-nightslayer"]=18,
-	["racam-nightslayer"]=20,
+	["racam-nightslayer"]=2,
 	["racialop-nightslayer"]=8,
 	["rackcitybih-nightslayer"]=1,
 	["radagaz-nightslayer"]=4,
@@ -16802,7 +16802,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["snuffadin-dreamscythe"]=11,
 	["snuffpriest-dreamscythe"]=14,
 	["snuux-nightslayer"]=6,
-	["snyeek-nightslayer"]=8,
+	["snyeek-nightslayer"]=27,
 	["soakk-dreamscythe"]=5,
 	["soccerdad-nightslayer"]=12,
 	["socialfox-dreamscythe"]=19,
@@ -18086,7 +18086,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["whateverz-nightslayer"]=16,
 	["whattehpho-dreamscythe"]=5,
 	["whatthefk-nightslayer"]=12,
-	["whatupcuhh-nightslayer"]=8,
+	["whatupcuhh-nightslayer"]=5,
 	["whatwindfury-nightslayer"]=19,
 	["wheatchex-nightslayer"]=13,
 	["wheeznation-dreamscythe"]=13,
