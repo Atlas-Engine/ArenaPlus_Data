@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9638 characters, read 2026-10-28 08:59 PM.
+-- Region tbc-eu, 9638 characters, read 2026-10-28 09:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10000,7 +10000,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["availwtf-spineshatter"]=2,
 	["avalðve-spineshatter"]=0,
 	["avataylor-spineshatter"]=1,
-	["avendery-thunderstrike"]=18,
+	["avendery-thunderstrike"]=13,
 	["avengerx-spineshatter"]=5,
 	["avenu-thunderstrike"]=19,
 	["aviapochta-spineshatter"]=1,
@@ -13242,7 +13242,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["inshæpe-spineshatter"]=6,
 	["inshayne-spineshatter"]=5,
 	["insolol-spineshatter"]=3,
-	["insølolz-spineshatter"]=21,
+	["insølolz-spineshatter"]=9,
 	["insømniac-spineshatter"]=1,
 	["inspirefear-spineshatter"]=5,
 	["instantv-spineshatter"]=9,
@@ -15130,7 +15130,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["námeless-spineshatter"]=12,
 	["namesplate-spineshatter"]=5,
 	["namooste-spineshatter"]=5,
-	["namro-spineshatter"]=19,
+	["namro-spineshatter"]=3,
 	["namzir-spineshatter"]=3,
 	["namzug-spineshatter"]=5,
 	["nanap-spineshatter"]=9,
@@ -15813,7 +15813,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["pennyz-thunderstrike"]=12,
 	["penp-spineshatter"]=13,
 	["pentagrosie-spineshatter"]=7,
-	["pepewneine-spineshatter"]=18,
+	["pepewneine-spineshatter"]=13,
 	["pephex-spineshatter"]=12,
 	["pepoløl-spineshatter"]=1,
 	["peppersprayx-spineshatter"]=7,
@@ -16556,7 +16556,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["romoimoi-spineshatter"]=23,
 	["rompyx-spineshatter"]=13,
 	["rompyxh-spineshatter"]=13,
-	["rompyxr-spineshatter"]=19,
+	["rompyxr-spineshatter"]=3,
 	["romtalix-spineshatter"]=1,
 	["ronaldoyo-spineshatter"]=2,
 	["ronaldpotter-spineshatter"]=7,
@@ -17635,7 +17635,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["suicidalidol-spineshatter"]=3,
 	["suippi-spineshatter"]=5,
 	["sulfeon-spineshatter"]=10,
-	["sulgerino-spineshatter"]=17,
+	["sulgerino-spineshatter"]=2,
 	["sull-spineshatter"]=9,
 	["summerjam-spineshatter"]=16,
 	["sumyud-spineshatter"]=3,
