@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5353 characters, read 2026-10-29 04:00 PM.
+-- Region eu, 5353 characters, read 2026-10-29 05:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4082,7 +4082,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["titaniiz-shekzeer"]=41,
 	["titanuranuz-mirage-raceway"]=10,
 	["tjyo-everlook"]=11,
-	["tlxdx-shekzeer"]=40,
+	["tlxdx-shekzeer"]=41,
 	["tlxx-garalon"]=61,
 	["toatz-shekzeer"]=10,
 	["tobilock-shekzeer"]=11,
@@ -9031,7 +9031,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["smyle-norushen"]=4,
 	["snairip-shekzeer"]=21,
 	["snaredog-shekzeer"]=2,
-	["sneijz-shekzeer"]=1,
+	["sneijz-shekzeer"]=18,
 	["sneqq-mirage-raceway"]=5,
 	["snik-shekzeer"]=3,
 	["snillheks-shekzeer"]=21,
@@ -9401,7 +9401,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["tokonatsu-shekzeer"]=11,
 	["tokyocast-shekzeer"]=2,
 	["tomaspinall-shekzeer"]=11,
-	["tomboy-shekzeer"]=4,
+	["tomboy-shekzeer"]=20,
 	["tómriddle-garalon"]=34,
 	["tonysopranoz-shekzeer"]=0,
 	["tøøgøød-shekzeer"]=3,

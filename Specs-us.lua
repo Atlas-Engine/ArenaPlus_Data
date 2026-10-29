@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5202 characters, read 2026-10-29 03:59 PM.
+-- Region us, 5202 characters, read 2026-10-29 04:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5244,7 +5244,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ascension-raden"]=10,
 	["ashcarver-galakras"]=0,
 	["ashiroo-pagle"]=6,
-	["ashkaash-raden"]=3,
+	["ashkaash-raden"]=20,
 	["ashvrael-pagle"]=6,
 	["aspen-raden"]=1,
 	["astave-nazgrim"]=34,
@@ -5876,7 +5876,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["cooterflute-raden"]=7,
 	["cooterman-raden"]=10,
 	["cornflakes-raden"]=3,
-	["cornßread-pagle"]=10,
+	["cornßread-pagle"]=4,
 	["corrodius-lei-shen"]=7,
 	["corumba-pagle"]=7,
 	["cosmokramer-pagle"]=5,
@@ -5910,7 +5910,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["crayon-pagle"]=5,
 	["crazè-pagle"]=34,
 	["crazykreder-pagle"]=5,
-	["crazywick-pagle"]=16,
+	["crazywick-pagle"]=32,
 	["creamx-raden"]=1,
 	["creamytotem-galakras"]=15,
 	["crearly-galakras"]=25,
@@ -7624,7 +7624,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["leonidasxl-pagle"]=4,
 	["leowna-pagle"]=2,
 	["leownaa-pagle"]=2,
-	["lepson-nazgrim"]=23,
+	["lepson-nazgrim"]=7,
 	["leroy-galakras"]=23,
 	["lester-raden"]=3,
 	["lesthoukov-pagle"]=3,
@@ -8108,7 +8108,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["mynamejeff-pagle"]=3,
 	["mynthore-raden"]=5,
 	["myster-pagle"]=4,
-	["mysthiccmunq-pagle"]=4,
+	["mysthiccmunq-pagle"]=10,
 	["mÿstical-galakras"]=3,
 	["mysticdrood-pagle"]=12,
 	["mysticzaza-benediction"]=24,
@@ -8859,7 +8859,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["rougeone-pagle"]=29,
 	["roulette-pagle"]=5,
 	["roxxe-raden"]=2,
-	["royalflush-pagle"]=21,
+	["royalflush-pagle"]=9,
 	["royalkelly-raden"]=21,
 	["royalpaladin-lei-shen"]=32,
 	["royalqt-pagle"]=2,
@@ -10132,7 +10132,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["yuthinasia-galakras"]=16,
 	["yuvish-lei-shen"]=26,
 	["yves-pagle"]=1,
-	["yvlxd-pagle"]=28,
+	["yvlxd-pagle"]=8,
 	["yxyxyxyxyxyx-pagle"]=16,
 	["yyz-raden"]=1,
 	["yzr-pagle"]=17,
