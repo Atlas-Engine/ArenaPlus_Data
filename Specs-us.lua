@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5205 characters, read 2026-10-29 03:59 AM.
+-- Region us, 5205 characters, read 2026-10-29 04:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2695,6 +2695,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["lvllup-raden"]=11,
 	["lvupp-raden"]=10,
 	["lycah-raden"]=11,
+	["lyfe-raden"]=71,
 	["lykz-nazgrim"]=11,
 	["lyl-arugal-au"]=60,
 	["lypya-raden"]=11,
@@ -6373,7 +6374,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["edumage-nazgrim"]=1,
 	["eerii-raden"]=13,
 	["eezz-nazgrim"]=13,
-	["efekz-immerseus"]=14,
+	["efekz-immerseus"]=29,
 	["eggfooyoung-immerseus"]=4,
 	["eidottnawi-pagle"]=3,
 	["eikou-pagle"]=2,
@@ -7778,7 +7779,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["lvllup-raden"]=6,
 	["lvupp-raden"]=1,
 	["lycah-raden"]=3,
-	["lyfe-raden"]=0,
+	["lyfe-raden"]=4,
 	["lykz-nazgrim"]=18,
 	["lyl-arugal-au"]=12,
 	["lypya-raden"]=7,
@@ -9786,7 +9787,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["unknownleg-raden"]=14,
 	["unknownlegx-pagle"]=14,
 	["unknowsoldie-pagle"]=6,
-	["unlead-pagle"]=18,
+	["unlead-pagle"]=3,
 	["unphasedx-raden"]=9,
 	["unrule-grobbulus"]=16,
 	["unslayer-pagle"]=6,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9632 characters, read 2026-10-29 03:59 AM.
+-- Region tbc-eu, 9632 characters, read 2026-10-29 04:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12233,7 +12233,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["fermetoncul-spineshatter"]=1,
 	["fernandello-spineshatter"]=25,
 	["feroce-spineshatter"]=15,
-	["ferraripeekk-spineshatter"]=25,
+	["ferraripeekk-spineshatter"]=16,
 	["ferrisbowler-spineshatter"]=24,
 	["fessierpure-spineshatter"]=5,
 	["fetidorifice-spineshatter"]=9,
@@ -16220,7 +16220,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["racsoboon-spineshatter"]=19,
 	["radamsa-spineshatter"]=3,
 	["räddaren-spineshatter"]=7,
-	["radical-spineshatter"]=24,
+	["radical-spineshatter"]=25,
 	["radonqt-thunderstrike"]=11,
 	["radulo-spineshatter"]=13,
 	["raffãh-spineshatter"]=2,
@@ -16689,7 +16689,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["sãnctified-spineshatter"]=10,
 	["sanctusfidem-spineshatter"]=25,
 	["sancy-spineshatter"]=1,
-	["sandalïmx-spineshatter"]=2,
+	["sandalïmx-spineshatter"]=17,
 	["sandbagsteve-spineshatter"]=11,
 	["sandelssi-spineshatter"]=11,
 	["sandmacka-spineshatter"]=22,
@@ -18777,7 +18777,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["xandon-spineshatter"]=17,
 	["xantyø-spineshatter"]=9,
 	["xanza-thunderstrike"]=5,
-	["xaramityy-spineshatter"]=2,
+	["xaramityy-spineshatter"]=17,
 	["xarasta-spineshatter"]=2,
 	["xartt-spineshatter"]=19,
 	["xatha-spineshatter"]=13,
