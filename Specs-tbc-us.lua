@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9346 characters, read 2026-10-30 05:58 AM.
+-- Region tbc-us, 9346 characters, read 2026-10-30 06:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9746,7 +9746,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bakey-dreamscythe"]=6,
 	["bakshotlarry-nightslayer"]=4,
 	["bakstab-nightslayer"]=5,
-	["balalalalu-dreamscythe"]=15,
+	["balalalalu-dreamscythe"]=21,
 	["baldandthicc-nightslayer"]=1,
 	["baldazario-nightslayer"]=2,
 	["baldbulla-nightslayer"]=16,
@@ -11498,7 +11498,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["drspunchbob-nightslayer"]=10,
 	["drthai-dreamscythe"]=7,
 	["drtimewizard-dreamscythe"]=25,
-	["drugdealin-nightslayer"]=12,
+	["drugdealin-nightslayer"]=1,
 	["drugsareokay-nightslayer"]=23,
 	["druidalina-nightslayer"]=7,
 	["druidmilker-nightslayer"]=7,
@@ -11743,7 +11743,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["erenx-nightslayer"]=15,
 	["erestala-dreamscythe"]=3,
 	["ericat-dreamscythe"]=25,
-	["ericonehive-dreamscythe"]=25,
+	["ericonehive-dreamscythe"]=9,
 	["ericslock-nightslayer"]=16,
 	["erictecleric-nightslayer"]=1,
 	["erinthos-nightslayer"]=1,
@@ -14479,7 +14479,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["minimartha-nightslayer"]=1,
 	["minískirt-nightslayer"]=7,
 	["minitelanna-nightslayer"]=2,
-	["minixboy-nightslayer"]=17,
+	["minixboy-nightslayer"]=15,
 	["minmi-nightslayer"]=21,
 	["mintchocoice-nightslayer"]=5,
 	["minutz-nightslayer"]=1,
@@ -17592,7 +17592,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["trickx-nightslayer"]=17,
 	["tridel-dreamscythe"]=1,
 	["triedtree-dreamscythe"]=7,
-	["trigg-nightslayer"]=1,
+	["trigg-nightslayer"]=14,
 	["trigonometry-nightslayer"]=7,
 	["trillvil-nightslayer"]=2,
 	["triohs-nightslayer"]=24,
@@ -18391,7 +18391,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["yomblast-nightslayer"]=10,
 	["yombom-nightslayer"]=9,
 	["yomeh-nightslayer"]=1,
-	["Ÿømï-nightslayer"]=4,
+	["Ÿømï-nightslayer"]=6,
 	["yonce-nightslayer"]=19,
 	["yondos-nightslayer"]=10,
 	["yooti-dreamscythe"]=2,

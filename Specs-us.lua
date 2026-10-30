@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5193 characters, read 2026-10-30 05:59 AM.
+-- Region us, 5194 characters, read 2026-10-30 06:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3195,6 +3195,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["nynaevxe-pagle"]=11,
 	["nynja-raden"]=11,
 	["nytesøng-pagle"]=101,
+	["nyxria-pagle"]=11,
 	["nyxxi-lei-shen"]=101,
 	["nzar-pagle"]=11,
 	["nzarw-pagle"]=11,
@@ -7458,7 +7459,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["kiggzx-pagle"]=17,
 	["kijø-pagle"]=24,
 	["kilgorë-immerseus"]=19,
-	["kiljason-raden"]=5,
+	["kiljason-raden"]=17,
 	["killa-grobbulus"]=7,
 	["killa-immerseus"]=16,
 	["killbeer-pagle"]=2,
@@ -7531,7 +7532,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["krelana-pagle"]=0,
 	["krico-raden"]=10,
 	["kromdorr-pagle"]=25,
-	["krooki-pagle"]=10,
+	["krooki-pagle"]=27,
 	["kroun-raden"]=14,
 	["krpriest-nazgrim"]=13,
 	["ksoldier-pagle"]=16,
@@ -8290,6 +8291,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["nynaevxe-pagle"]=9,
 	["nynja-raden"]=14,
 	["nytesøng-pagle"]=34,
+	["nyxria-pagle"]=9,
 	["nyxxi-lei-shen"]=4,
 	["nzar-pagle"]=14,
 	["nzarw-pagle"]=7,
@@ -9046,7 +9048,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["shifthaps-raden"]=17,
 	["shìftkey-raden"]=5,
 	["shiftybiloge-galakras"]=5,
-	["shiftycent-raden"]=17,
+	["shiftycent-raden"]=5,
 	["shîfu-nazgrim"]=4,
 	["shikamarie-pagle"]=21,
 	["shínígamíí-pagle"]=29,
@@ -9578,7 +9580,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["thorelam-pagle"]=25,
 	["thosanvn-raden"]=3,
 	["throbbinghog-raden"]=7,
-	["throbbinhood-pagle"]=1,
+	["throbbinhood-pagle"]=11,
 	["thugabear-raden"]=17,
 	["thugfist-pagle"]=10,
 	["thuggx-pagle"]=1,

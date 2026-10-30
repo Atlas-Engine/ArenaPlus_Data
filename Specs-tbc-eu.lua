@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9657 characters, read 2026-10-30 05:59 AM.
+-- Region tbc-eu, 9657 characters, read 2026-10-30 06:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11091,7 +11091,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["cptnpickle-spineshatter"]=3,
 	["craabzx-spineshatter"]=19,
 	["crabbexx-spineshatter"]=18,
-	["crabride-spineshatter"]=5,
+	["crabride-spineshatter"]=22,
 	["crabzx-spineshatter"]=3,
 	["crabzxtrapzx-spineshatter"]=24,
 	["cræbxz-spineshatter"]=7,
@@ -13006,7 +13006,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["holybaxter-spineshatter"]=10,
 	["holybeefz-thunderstrike"]=7,
 	["hølychad-spineshatter"]=10,
-	["holyerror-spineshatter"]=2,
+	["holyerror-spineshatter"]=17,
 	["holyjimmyy-spineshatter"]=17,
 	["holykensen-spineshatter"]=10,
 	["holykills-thunderstrike"]=6,
@@ -16187,7 +16187,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["pykko-spineshatter"]=23,
 	["pyörremyrsky-spineshatter"]=25,
 	["pyram-spineshatter"]=5,
-	["pyreth-spineshatter"]=2,
+	["pyreth-spineshatter"]=17,
 	["pyroqt-spineshatter"]=12,
 	["qanp-spineshatter"]=7,
 	["qapi-spineshatter"]=9,
