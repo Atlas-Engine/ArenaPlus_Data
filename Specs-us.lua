@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5206 characters, read 2026-10-29 09:59 PM.
+-- Region us, 5206 characters, read 2026-10-29 10:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5153,7 +5153,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["alxss-pagle"]=7,
 	["alyndel-pagle"]=16,
 	["alystrixa-pagle"]=34,
-	["amaterasu-raden"]=8,
+	["amaterasu-raden"]=28,
 	["amazingufo-pagle"]=31,
 	["amberance-pagle"]=5,
 	["ameldiel-pagle"]=20,
@@ -5190,7 +5190,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["anthiel-pagle"]=12,
 	["anthrex-nazgrim"]=0,
 	["anticxltxre-pagle"]=17,
-	["antisnowcial-galakras"]=1,
+	["antisnowcial-galakras"]=11,
 	["anytips-pagle"]=28,
 	["aoisama-raden"]=1,
 	["aoxi-raden"]=16,
@@ -6802,7 +6802,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["gloriosas-raden"]=7,
 	["gloryboi-pagle"]=2,
 	["gnarlyknight-pagle"]=16,
-	["gnarlyshotz-pagle"]=18,
+	["gnarlyshotz-pagle"]=20,
 	["gnomeßeater-pagle"]=4,
 	["gøàtbrádlëê-raden"]=2,
 	["goatler-benediction"]=3,
@@ -7804,7 +7804,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["madvillainx-pagle"]=22,
 	["mærshall-raden"]=7,
 	["mag-raden"]=7,
-	["magdalenia-pagle"]=2,
+	["magdalenia-pagle"]=16,
 	["mageblackrat-pagle"]=1,
 	["magegaje-pagle"]=1,
 	["magemagehair-pagle"]=1,
@@ -8852,7 +8852,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["rokh-pagle"]=3,
 	["role-galakras"]=20,
 	["rollriptide-pagle"]=15,
-	["rollwon-raden"]=10,
+	["rollwon-raden"]=4,
 	["romdruid-pagle"]=5,
 	["rompah-raden"]=0,
 	["röninraged-galakras"]=7,
