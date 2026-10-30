@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5193 characters, read 2026-10-30 09:59 AM.
+-- Region us, 5193 characters, read 2026-10-30 10:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7004,7 +7004,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["hojosatoru-raden"]=16,
 	["hojreplol-raden"]=16,
 	["hojville-pagle"]=16,
-	["holidayhamii-pagle"]=2,
+	["holidayhamii-pagle"]=16,
 	["holmz-pagle"]=18,
 	["holtxd-raden"]=7,
 	["holyangelz-pagle"]=2,
@@ -8232,7 +8232,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["nofæar-nazgrim"]=31,
 	["nogame-pagle"]=14,
 	["noizzy-raden"]=1,
-	["nøktërîä-nazgrim"]=21,
+	["nøktërîä-nazgrim"]=13,
 	["nollij-raden"]=5,
 	["nolotion-raden"]=4,
 	["nomatixa-lei-shen"]=25,
@@ -8296,7 +8296,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["nzoth-nazgrim"]=16,
 	["nzuk-arugal-au"]=0,
 	["nzx-raden"]=3,
-	["oakenguard-raden"]=32,
+	["oakenguard-raden"]=16,
 	["oakshalaa-benediction"]=19,
 	["obnoxygen-immerseus"]=11,
 	["obsissj-raden"]=7,
