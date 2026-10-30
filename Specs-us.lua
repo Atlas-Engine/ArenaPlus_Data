@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5206 characters, read 2026-10-29 10:59 PM.
+-- Region us, 5206 characters, read 2026-10-29 11:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -971,7 +971,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["daddybangz-raden"]=11,
 	["daddypompum-raden"]=41,
 	["daemz-pagle"]=10,
-	["Ðæthwish-raden"]=10,
+	["Ðæthwish-raden"]=11,
 	["daffykinz-pagle"]=11,
 	["daggertwist-raden"]=10,
 	["dailou-grobbulus"]=10,
@@ -6740,7 +6740,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["geebroni-pagle"]=16,
 	["gelania-pagle"]=18,
 	["genelron-lei-shen"]=16,
-	["gentleman-pagle"]=26,
+	["gentleman-pagle"]=25,
 	["genuinely-raden"]=1,
 	["geser-raden"]=20,
 	["getaway-nazgrim"]=1,
@@ -8128,7 +8128,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["mythologic-nazgrim"]=7,
 	["mythrunn-pagle"]=17,
 	["næl-pagle"]=7,
-	["naghvoid-pagle"]=13,
+	["naghvoid-pagle"]=21,
 	["nahfr-pagle"]=6,
 	["naigerle-pagle"]=24,
 	["nairtas-nazgrim"]=3,
@@ -8220,7 +8220,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["nieblita-raden"]=4,
 	["nightm-raden"]=1,
 	["nightmre-lei-shen"]=10,
-	["nightshaded-bloodsail-buccaneers"]=21,
+	["nightshaded-bloodsail-buccaneers"]=13,
 	["nihaoxp-pagle"]=9,
 	["nihcnims-pagle"]=29,
 	["nik-galakras"]=0,
@@ -8775,8 +8775,8 @@ ns.SPECS_BY_REGION["us"] = {
 	["retmainxd-raden"]=18,
 	["rétpáladin-raden"]=2,
 	["retrostance-galakras"]=2,
-	["rettek-raden"]=28,
-	["rettmonk-raden"]=4,
+	["rettek-raden"]=8,
+	["rettmonk-raden"]=10,
 	["revcole-raden"]=9,
 	["revènge-raden"]=7,
 	["reverencex-pagle"]=24,
