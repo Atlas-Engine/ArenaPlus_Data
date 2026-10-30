@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9344 characters, read 2026-10-30 02:58 AM.
+-- Region tbc-us, 9344 characters, read 2026-10-30 03:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9560,7 +9560,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["arctuva-nightslayer"]=7,
 	["ardrane-nightslayer"]=8,
 	["arenafanatic-nightslayer"]=2,
-	["arenajunkie-nightslayer"]=16,
+	["arenajunkie-nightslayer"]=13,
 	["arenalol-nightslayer"]=5,
 	["arenamaster-dreamscythe"]=0,
 	["arendtpriest-dreamscythe"]=1,
@@ -9897,7 +9897,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["belini-nightslayer"]=16,
 	["bellabear-nightslayer"]=3,
 	["bellacallow-nightslayer"]=2,
-	["bellagío-nightslayer"]=5,
+	["bellagío-nightslayer"]=8,
 	["bêllatrix-nightslayer"]=13,
 	["bellindaa-nightslayer"]=2,
 	["bellmere-dreamscythe"]=19,
@@ -10761,7 +10761,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["cocochow-nightslayer"]=7,
 	["cocoplum-nightslayer"]=7,
 	["cocoshift-nightslayer"]=3,
-	["codeforfood-nightslayer"]=1,
+	["codeforfood-nightslayer"]=12,
 	["coerce-nightslayer"]=15,
 	["côffee-nightslayer"]=24,
 	["coffeedisc-nightslayer"]=1,
@@ -11563,7 +11563,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["dustfriggenw-nightslayer"]=13,
 	["dusti-nightslayer"]=25,
 	["dutonga-nightslayer"]=2,
-	["duudah-nightslayer"]=11,
+	["duudah-nightslayer"]=9,
 	["duxlol-nightslayer"]=13,
 	["duxxar-nightslayer"]=15,
 	["duzentosvolt-nightslayer"]=24,
@@ -13128,7 +13128,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["irvinstone-nightslayer"]=2,
 	["iseeyounow-dreamscythe"]=5,
 	["ishogall-dreamscythe"]=2,
-	["iskk-dreamscythe"]=13,
+	["iskk-dreamscythe"]=23,
 	["iskkw-dreamscythe"]=18,
 	["islavanel-dreamscythe"]=6,
 	["isofrog-nightslayer"]=5,
@@ -16030,7 +16030,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["roebu-nightslayer"]=5,
 	["røflz-nightslayer"]=14,
 	["rogersham-nightslayer"]=19,
-	["roggae-nightslayer"]=14,
+	["roggae-nightslayer"]=1,
 	["rogtuahlol-nightslayer"]=8,
 	["roguedude-nightslayer"]=5,
 	["roguehard-nightslayer"]=5,

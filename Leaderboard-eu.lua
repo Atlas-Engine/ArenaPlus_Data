@@ -18,7 +18,7 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region eu, season 14, read 2026-10-30 03:00 AM.
+-- Region eu, season 14, read 2026-10-30 04:00 AM.
 -- Realm display names, because the ladder only carries slugs and no rule
 -- turns one back into the other: raden is Ra-den, lei-shen is Lei Shen and
 -- arugal-au is Arugal (AU). Read from Blizzard's realm index; a slug with no
@@ -34,8 +34,8 @@ ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["eu"] = {
 	region  = "eu",
-	checked = "2026-10-30 03:00 AM",
-	checkedEpoch = 1793343611,
+	checked = "2026-10-30 04:00 AM",
+	checkedEpoch = 1793347205,
 	snapshot = "2026-10-30 06:12",
 
 	[1] = {  -- 2v2, 5007 places, down to rating 1048 -- the API stops here, short of the cutoff
@@ -1290,26 +1290,26 @@ ns.LEADERBOARD_BY_REGION["eu"] = {
 		{ rank=1249, name="Doubleshamp", realm="shekzeer", rating=2097, won=78, lost=101, faction="ALLIANCE", mr=2106, dr=0, dk=99 },
 		{ rank=1249, name="Haywoods", realm="shekzeer", rating=2097, won=126, lost=108, faction="ALLIANCE", mr=2135, dr=0, dk=99 },
 		{ rank=1249, name="Reginalds", realm="shekzeer", rating=2097, won=76, lost=75, faction="HORDE", mr=2128, dr=23, dk=4 },
+		{ rank=1252, name="Daggystyle", realm="auberdine", rating=2096, won=164, lost=176, faction="ALLIANCE", mr=2109, dr=84, dk=-325 },
 		{ rank=1252, name="Pipilili", realm="shekzeer", rating=2096, won=103, lost=109, faction="ALLIANCE", mr=2204, dr=-37, dk=253 },
 		{ rank=1252, name="Syrebrist", realm="shekzeer", rating=2096, won=100, lost=121, faction="ALLIANCE", mr=2133, dr=0, dk=100 },
-		{ rank=1254, name="Crucifiér", realm="norushen", rating=2095, won=58, lost=46, faction="HORDE", dr=0, dk=99 },
-		{ rank=1254, name="Mefather", realm="shekzeer", rating=2095, won=45, lost=33, faction="ALLIANCE" },
-		{ rank=1254, name="Momine", realm="shekzeer", rating=2095, won=49, lost=37, faction="ALLIANCE", dr=0, dk=99 },
-		{ rank=1254, name="Panameragt", realm="shekzeer", rating=2095, won=79, lost=59, faction="ALLIANCE", dr=0, dk=99 },
-		{ rank=1254, name="Shoesolex", realm="everlook", rating=2095, won=86, lost=55, faction="ALLIANCE", dr=0, dk=99 },
-		{ rank=1259, name="Sînîster", realm="shekzeer", rating=2094, won=148, lost=159, faction="ALLIANCE", mr=2158, dr=0, dk=99 },
-		{ rank=1259, name="Willbefine", realm="shekzeer", rating=2094, won=67, lost=55, faction="ALLIANCE", dr=0, dk=99 },
-		{ rank=1261, name="Daggystyle", realm="auberdine", rating=2093, won=163, lost=176, faction="ALLIANCE", mr=2109, dr=81, dk=-316 },
-		{ rank=1261, name="Deadmane", realm="shekzeer", rating=2093, won=128, lost=106, faction="ALLIANCE", dr=0, dk=98 },
-		{ rank=1261, name="Hearthslam", realm="everlook", rating=2093, won=52, lost=47, faction="ALLIANCE", dr=0, dk=98 },
-		{ rank=1261, name="Henkista", realm="everlook", rating=2093, won=69, lost=74, faction="ALLIANCE", mr=2104 },
-		{ rank=1261, name="Hiropyro", realm="shekzeer", rating=2093, won=69, lost=59, faction="ALLIANCE", mr=2102, dr=42, dk=-89 },
-		{ rank=1261, name="Jingjang", realm="everlook", rating=2093, won=164, lost=178, faction="HORDE", mr=2103, dr=98, dk=-451 },
-		{ rank=1261, name="Mugwumpy", realm="shekzeer", rating=2093, won=42, lost=33, faction="ALLIANCE", dr=119, dk=-550 },
-		{ rank=1261, name="Sisentäjä", realm="shekzeer", rating=2093, won=102, lost=98, faction="ALLIANCE", mr=2119, dr=0, dk=98 },
-		{ rank=1261, name="Zodarki", realm="norushen", rating=2093, won=115, lost=118, faction="HORDE", mr=2109, dr=0, dk=98 },
-		{ rank=1261, name="Друдэриус", realm="flamegor", rating=2093, won=82, lost=91, faction="HORDE", dr=0, dk=98 },
-		{ rank=1261, name="Совалесов", realm="flamegor", rating=2093, won=160, lost=157, faction="ALLIANCE", dr=0, dk=98 },
+		{ rank=1255, name="Crucifiér", realm="norushen", rating=2095, won=58, lost=46, faction="HORDE", dr=0, dk=100 },
+		{ rank=1255, name="Mefather", realm="shekzeer", rating=2095, won=45, lost=33, faction="ALLIANCE" },
+		{ rank=1255, name="Momine", realm="shekzeer", rating=2095, won=49, lost=37, faction="ALLIANCE", dr=0, dk=100 },
+		{ rank=1255, name="Panameragt", realm="shekzeer", rating=2095, won=79, lost=59, faction="ALLIANCE", dr=0, dk=100 },
+		{ rank=1255, name="Shoesolex", realm="everlook", rating=2095, won=86, lost=55, faction="ALLIANCE", dr=0, dk=100 },
+		{ rank=1260, name="Sînîster", realm="shekzeer", rating=2094, won=148, lost=159, faction="ALLIANCE", mr=2158, dr=0, dk=100 },
+		{ rank=1260, name="Willbefine", realm="shekzeer", rating=2094, won=67, lost=55, faction="ALLIANCE", dr=0, dk=100 },
+		{ rank=1262, name="Deadmane", realm="shekzeer", rating=2093, won=128, lost=106, faction="ALLIANCE", dr=0, dk=99 },
+		{ rank=1262, name="Hearthslam", realm="everlook", rating=2093, won=52, lost=47, faction="ALLIANCE", dr=0, dk=99 },
+		{ rank=1262, name="Henkista", realm="everlook", rating=2093, won=69, lost=74, faction="ALLIANCE", mr=2104 },
+		{ rank=1262, name="Hiropyro", realm="shekzeer", rating=2093, won=69, lost=59, faction="ALLIANCE", mr=2102, dr=42, dk=-88 },
+		{ rank=1262, name="Jingjang", realm="everlook", rating=2093, won=164, lost=178, faction="HORDE", mr=2103, dr=98, dk=-450 },
+		{ rank=1262, name="Mugwumpy", realm="shekzeer", rating=2093, won=42, lost=33, faction="ALLIANCE", dr=119, dk=-549 },
+		{ rank=1262, name="Sisentäjä", realm="shekzeer", rating=2093, won=102, lost=98, faction="ALLIANCE", mr=2119, dr=0, dk=99 },
+		{ rank=1262, name="Zodarki", realm="norushen", rating=2093, won=115, lost=118, faction="HORDE", mr=2109, dr=0, dk=99 },
+		{ rank=1262, name="Друдэриус", realm="flamegor", rating=2093, won=82, lost=91, faction="HORDE", dr=0, dk=99 },
+		{ rank=1262, name="Совалесов", realm="flamegor", rating=2093, won=160, lost=157, faction="ALLIANCE", dr=0, dk=99 },
 		{ rank=1272, name="Betix", realm="shekzeer", rating=2092, won=301, lost=369, faction="ALLIANCE", mr=2157, dr=0, dk=103 },
 		{ rank=1272, name="Boomshockx", realm="shekzeer", rating=2092, won=103, lost=89, faction="ALLIANCE", dr=0, dk=103 },
 		{ rank=1272, name="Commitment", realm="shekzeer", rating=2092, won=165, lost=144, faction="ALLIANCE", mr=2119, dr=24, dk=4 },
