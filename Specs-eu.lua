@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5352 characters, read 2026-10-30 04:00 PM.
+-- Region eu, 5352 characters, read 2026-10-30 05:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1823,7 +1823,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["infection-shekzeer"]=10,
 	["infectiøns-auberdine"]=11,
 	["infergrimm-everlook"]=30,
-	["injurieux-shekzeer"]=10,
+	["injurieux-shekzeer"]=11,
 	["innà-auberdine"]=11,
 	["innâ-auberdine"]=11,
 	["Ìnna-auberdine"]=41,
@@ -5850,7 +5850,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["certifiedg-mirage-raceway"]=33,
 	["chagee-shekzeer"]=5,
 	["chakrasan-shekzeer"]=9,
-	["chakwao-shekzeer"]=5,
+	["chakwao-shekzeer"]=30,
 	["chalecos-shekzeer"]=0,
 	["challedge-garalon"]=6,
 	["chamboyswag-shekzeer"]=13,
@@ -6135,7 +6135,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["delirioûs-shekzeer"]=8,
 	["delsaran-garalon"]=15,
 	["délujë-auberdine"]=21,
-	["demachaux-everlook"]=12,
+	["demachaux-everlook"]=9,
 	["Ðëmðn-shekzeer"]=14,
 	["Ðêmô-shekzeer"]=16,
 	["demomain-shekzeer"]=0,
@@ -7277,7 +7277,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["kenhavefun-shekzeer"]=6,
 	["kenkofot-garalon"]=10,
 	["kennyk-garalon"]=18,
-	["kennyk-shekzeer"]=18,
+	["kennyk-shekzeer"]=1,
 	["kennykk-garalon"]=18,
 	["kennyykofot-garalon"]=34,
 	["kenoh-shekzeer"]=18,
@@ -7943,7 +7943,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["murphy-shekzeer"]=3,
 	["mûrre-mirage-raceway"]=6,
 	["muryokusho-shekzeer"]=9,
-	["mus-shekzeer"]=10,
+	["mus-shekzeer"]=2,
 	["muså-shekzeer"]=21,
 	["mushado-auberdine"]=20,
 	["muslimshield-shekzeer"]=0,

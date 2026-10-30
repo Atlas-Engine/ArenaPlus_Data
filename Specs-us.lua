@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5198 characters, read 2026-10-30 03:59 PM.
+-- Region us, 5198 characters, read 2026-10-30 04:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7008,7 +7008,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["hojosatoru-raden"]=16,
 	["hojreplol-raden"]=16,
 	["hojville-pagle"]=16,
-	["holidayhamii-pagle"]=2,
+	["holidayhamii-pagle"]=16,
 	["holmz-pagle"]=18,
 	["holtxd-raden"]=7,
 	["holyangelz-pagle"]=2,
@@ -8483,7 +8483,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["phurby-immerseus"]=17,
 	["phymura-pagle"]=19,
 	["piaget-raden"]=4,
-	["piankeeper-pagle"]=6,
+	["piankeeper-pagle"]=25,
 	["picaflor-pagle"]=14,
 	["pigfarmerjoe-pagle"]=3,
 	["pimen-pagle"]=1,
@@ -10079,12 +10079,12 @@ ns.SPECS_BY_REGION["us"] = {
 	["yazor-nazgrim"]=1,
 	["ybats-grobbulus"]=24,
 	["yecnay-galakras"]=7,
-	["yecum-galakras"]=21,
+	["yecum-galakras"]=9,
 	["yeezus-grobbulus"]=13,
 	["yekcoh-pagle"]=29,
 	["yellowspwn-raden"]=21,
 	["yelly-pagle"]=20,
-	["yerbastian-nazgrim"]=6,
+	["yerbastian-nazgrim"]=26,
 	["yermum-raden"]=7,
 	["yesindeedee-pagle"]=1,
 	["yesue-pagle"]=4,
