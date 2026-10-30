@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9353 characters, read 2026-10-29 08:58 PM.
+-- Region tbc-us, 9353 characters, read 2026-10-29 09:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -8618,6 +8618,7 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["voxbox-nightslayer"]=11,
 	["voxbtw-nightslayer"]=71,
 	["voxlol-nightslayer"]=30,
+	["voxqt-nightslayer"]=41,
 	["vrmt-nightslayer"]=71,
 	["vrostadamus-nightslayer"]=70,
 	["vrs-dreamscythe"]=11,
@@ -14120,7 +14121,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["lvsham-nightslayer"]=10,
 	["lvutupac-nightslayer"]=11,
 	["lw-nightslayer"]=7,
-	["lxr-nightslayer"]=18,
+	["lxr-nightslayer"]=2,
 	["lyariïi-dreamscythe"]=3,
 	["lyricalz-nightslayer"]=1,
 	["lyserdz-nightslayer"]=4,
@@ -17967,7 +17968,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["voxbox-nightslayer"]=9,
 	["voxbtw-nightslayer"]=2,
 	["voxlol-nightslayer"]=1,
-	["voxqt-nightslayer"]=0,
+	["voxqt-nightslayer"]=7,
 	["vrmt-nightslayer"]=6,
 	["vrostadamus-nightslayer"]=4,
 	["vrs-dreamscythe"]=5,

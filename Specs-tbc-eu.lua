@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9652 characters, read 2026-10-29 08:54 PM.
+-- Region tbc-eu, 9652 characters, read 2026-10-29 09:19 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -14507,7 +14507,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["magiu-spineshatter"]=13,
 	["magixsmith-spineshatter"]=10,
 	["magoloco-spineshatter"]=4,
-	["magü-spineshatter"]=4,
+	["magü-spineshatter"]=9,
 	["mahbeat-spineshatter"]=10,
 	["mahøne-spineshatter"]=3,
 	["mahønex-spineshatter"]=3,
@@ -15349,7 +15349,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["nieya-spineshatter"]=2,
 	["niff-spineshatter"]=3,
 	["nightelfkata-spineshatter"]=1,
-	["níghtfever-spineshatter"]=15,
+	["níghtfever-spineshatter"]=5,
 	["nightmän-spineshatter"]=3,
 	["nightrâid-thunderstrike"]=19,
 	["nightsõng-spineshatter"]=15,
@@ -18532,7 +18532,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["vitziozosx-spineshatter"]=9,
 	["vivalamexica-spineshatter"]=13,
 	["vivalavulva-thunderstrike"]=7,
-	["vixuz-spineshatter"]=24,
+	["vixuz-spineshatter"]=25,
 	["vizux-spineshatter"]=10,
 	["vladich-spineshatter"]=11,
 	["vlper-spineshatter"]=3,

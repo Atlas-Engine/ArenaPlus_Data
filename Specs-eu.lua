@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5358 characters, read 2026-10-29 09:00 PM.
+-- Region eu, 5358 characters, read 2026-10-29 10:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3871,7 +3871,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["stormsinger-everlook"]=31,
 	["størmz-everlook"]=10,
 	["strangulol-ook-ook"]=20,
-	["straviouse-hoptallus"]=11,
+	["straviouse-hoptallus"]=10,
 	["strick-norushen"]=21,
 	["strip-mirage-raceway"]=10,
 	["striva-mirage-raceway"]=111,
@@ -5211,7 +5211,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["acquapal-shekzeer"]=5,
 	["adamsecurity-shekzeer"]=9,
 	["adarä-shekzeer"]=5,
-	["aderallmeta-shekzeer"]=3,
+	["aderallmeta-shekzeer"]=11,
 	["adesanya-shekzeer"]=7,
 	["adonix-auberdine"]=8,
 	["adrianmandos-garalon"]=15,
@@ -5450,7 +5450,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["atheistpally-shekzeer"]=15,
 	["athenahz-shekzeer"]=3,
 	["athoran-everlook"]=2,
-	["atlántis-mirage-raceway"]=33,
+	["atlántis-mirage-raceway"]=8,
 	["atlasx-shekzeer"]=5,
 	["atmobile-shekzeer"]=2,
 	["attis-norushen"]=14,
