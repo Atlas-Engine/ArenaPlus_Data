@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5198 characters, read 2026-10-30 04:59 PM.
+-- Region us, 5198 characters, read 2026-10-30 06:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5608,7 +5608,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["brandopanda-galakras"]=10,
 	["brazzeal-pagle"]=16,
 	["brbcloning-pagle"]=5,
-	["brbsheeping-pagle"]=11,
+	["brbsheeping-pagle"]=1,
 	["breewdable-pagle"]=10,
 	["brewish-raden"]=4,
 	["brewsleè-raden"]=27,
@@ -5701,7 +5701,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["candity-arugal-au"]=18,
 	["candykanes-pagle"]=28,
 	["canera-galakras"]=10,
-	["canible-raden"]=31,
+	["canible-raden"]=1,
 	["cannabimorph-pagle"]=5,
 	["cannibirilla-pagle"]=7,
 	["cantgetmeoff-pagle"]=30,
@@ -5735,7 +5735,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["caylara-raden"]=20,
 	["cazabrujas-raden"]=20,
 	["cbt-raden"]=4,
-	["cbus-pagle"]=16,
+	["cbus-pagle"]=32,
 	["cconsequence-raden"]=2,
 	["cdioxide-raden"]=19,
 	["cdioxidez-pagle"]=19,
@@ -10019,7 +10019,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["xatica-pagle"]=29,
 	["xatyka-pagle"]=1,
 	["xavilier-pagle"]=29,
-	["xb-galakras"]=10,
+	["xb-galakras"]=4,
 	["xbushmaster-pagle"]=12,
 	["xbushweaver-pagle"]=4,
 	["xcen-raden"]=18,

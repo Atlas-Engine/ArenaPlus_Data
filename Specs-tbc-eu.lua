@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9648 characters, read 2026-10-30 04:54 PM.
+-- Region tbc-eu, 9648 characters, read 2026-10-30 05:54 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10579,7 +10579,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["braph-spineshatter"]=15,
 	["brasileiros-spineshatter"]=9,
 	["braská-spineshatter"]=0,
-	["bratly-spineshatter"]=19,
+	["bratly-spineshatter"]=3,
 	["brattaa-spineshatter"]=1,
 	["breadpiit-spineshatter"]=3,
 	["breaked-spineshatter"]=2,
@@ -11425,7 +11425,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["dexory-spineshatter"]=1,
 	["déxory-spineshatter"]=2,
 	["dexorym-spineshatter"]=4,
-	["dexorys-spineshatter"]=11,
+	["dexorys-spineshatter"]=12,
 	["dextriox-spineshatter"]=12,
 	["deyan-thunderstrike"]=13,
 	["deydruid-thunderstrike"]=6,
@@ -11439,7 +11439,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["Ðiabla-spineshatter"]=5,
 	["diablè-spineshatter"]=15,
 	["dianenguyen-spineshatter"]=1,
-	["dibolol-spineshatter"]=6,
+	["dibolol-spineshatter"]=1,
 	["dibom-spineshatter"]=9,
 	["dicaprio-spineshatter"]=19,
 	["dicxz-spineshatter"]=2,
@@ -11630,7 +11630,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["dorohédoro-spineshatter"]=12,
 	["dory-spineshatter"]=6,
 	["dosenbîer-spineshatter"]=1,
-	["dotahontas-spineshatter"]=13,
+	["dotahontas-spineshatter"]=18,
 	["dotdotdown-thunderstrike"]=18,
 	["dotgyneco-thunderstrike"]=14,
 	["dotinska-thunderstrike"]=13,
@@ -15009,7 +15009,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["moutz-spineshatter"]=5,
 	["mowglii-spineshatter"]=13,
 	["moxjet-spineshatter"]=9,
-	["moxnes-spineshatter"]=25,
+	["moxnes-spineshatter"]=24,
 	["moxpearl-spineshatter"]=2,
 	["moxruby-spineshatter"]=11,
 	["moya-spineshatter"]=5,
@@ -18435,7 +18435,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["velvlol-spineshatter"]=13,
 	["velzu-spineshatter"]=9,
 	["vemma-spineshatter"]=1,
-	["venceky-thunderstrike"]=18,
+	["venceky-thunderstrike"]=13,
 	["venceký-thunderstrike"]=23,
 	["vendorpriest-spineshatter"]=17,
 	["venefiz-spineshatter"]=24,
