@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5359 characters, read 2026-10-30 04:00 AM.
+-- Region eu, 5359 characters, read 2026-10-30 05:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2709,7 +2709,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["murphy-shekzeer"]=40,
 	["mûrre-mirage-raceway"]=11,
 	["muryokusho-shekzeer"]=41,
-	["mus-shekzeer"]=10,
+	["mus-shekzeer"]=11,
 	["muså-shekzeer"]=41,
 	["mushado-auberdine"]=11,
 	["mutant-garalon"]=20,
@@ -7928,7 +7928,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["mosskobold-shekzeer"]=3,
 	["motorichi-shekzeer"]=29,
 	["moumantai-shekzeer"]=5,
-	["mousehunter-garalon"]=20,
+	["mousehunter-garalon"]=4,
 	["movehunter-shekzeer"]=4,
 	["moýo-shekzeer"]=3,
 	["moÿo-shekzeer"]=16,
@@ -7945,7 +7945,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["mugmug-hoptallus"]=5,
 	["mugwumpy-shekzeer"]=21,
 	["mulltikill-mirage-raceway"]=19,
-	["munkafigger-everlook"]=23,
+	["munkafigger-everlook"]=17,
 	["munkkï-hoptallus"]=6,
 	["munkskunk-shekzeer"]=7,
 	["murmelmuffx-norushen"]=34,
@@ -8394,7 +8394,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["phora-shekzeer"]=9,
 	["phøßia-everlook"]=1,
 	["phsk-shekzeer"]=9,
-	["phsydon-everlook"]=10,
+	["phsydon-everlook"]=2,
 	["pickulica-shekzeer"]=10,
 	["pijo-shekzeer"]=9,
 	["pikassos-shekzeer"]=2,
@@ -9832,7 +9832,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["wotblud-mirage-raceway"]=1,
 	["wpereborn-shekzeer"]=6,
 	["wrøngtarget-shekzeer"]=19,
-	["wrongwilson-shekzeer"]=23,
+	["wrongwilson-shekzeer"]=28,
 	["wtbrage-garalon"]=1,
 	["wtsecstasy-shekzeer"]=11,
 	["wuming-mirage-raceway"]=31,
