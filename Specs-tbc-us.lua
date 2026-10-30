@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9353 characters, read 2026-10-29 07:58 PM.
+-- Region tbc-us, 9353 characters, read 2026-10-29 08:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9714,7 +9714,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["backfliplord-nightslayer"]=10,
 	["bácon-dreamscythe"]=16,
 	["badchad-dreamscythe"]=24,
-	["badguysp-nightslayer"]=1,
+	["badguysp-nightslayer"]=12,
 	["badlarryx-dreamscythe"]=19,
 	["badle-nightslayer"]=3,
 	["badlockbob-nightslayer"]=13,
@@ -10890,7 +10890,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["crazythunder-nightslayer"]=19,
 	["crcrcrcrcrcr-nightslayer"]=12,
 	["cream-nightslayer"]=4,
-	["creamtotes-nightslayer"]=10,
+	["creamtotes-nightslayer"]=24,
 	["creation-nightslayer"]=4,
 	["creationlawl-nightslayer"]=7,
 	["creationw-nightslayer"]=2,
@@ -12876,7 +12876,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["hosemaster-dreamscythe"]=1,
 	["hoshixo-nightslayer"]=12,
 	["hotcakés-nightslayer"]=14,
-	["hotcrushin-dreamscythe"]=3,
+	["hotcrushin-dreamscythe"]=7,
 	["hotdadbodirl-nightslayer"]=12,
 	["hotdogbun-nightslayer"]=10,
 	["hotdognobun-nightslayer"]=16,
