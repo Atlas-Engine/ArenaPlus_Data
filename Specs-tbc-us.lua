@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9346 characters, read 2026-10-30 04:58 AM.
+-- Region tbc-us, 9346 characters, read 2026-10-30 05:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9454,7 +9454,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["amathm-dreamscythe"]=6,
 	["amazý-nightslayer"]=1,
 	["ambusch-nightslayer"]=8,
-	["ambxshx-dreamscythe"]=8,
+	["ambxshx-dreamscythe"]=5,
 	["amdmaster-nightslayer"]=5,
 	["amesin-dreamscythe"]=3,
 	["amiriz-nightslayer"]=1,
@@ -11790,7 +11790,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["evilkin-nightslayer"]=8,
 	["evilmagicman-nightslayer"]=13,
 	["evilpinkzz-nightslayer"]=13,
-	["evilthap-dreamscythe"]=1,
+	["evilthap-dreamscythe"]=12,
 	["evilxhabibi-nightslayer"]=1,
 	["evirs-dreamscythe"]=19,
 	["evod-nightslayer"]=5,
@@ -14504,7 +14504,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["misswexler-nightslayer"]=4,
 	["missypriest-nightslayer"]=1,
 	["mistapell-dreamscythe"]=1,
-	["miszrd-nightslayer"]=7,
+	["miszrd-nightslayer"]=22,
 	["mitchellpaul-dreamscythe"]=1,
 	["mithral-nightslayer"]=5,
 	["mithridate-nightslayer"]=17,
@@ -17538,7 +17538,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["törperös-dreamscythe"]=18,
 	["torsito-nightslayer"]=12,
 	["törste-nightslayer"]=9,
-	["tortapwndr-nightslayer"]=21,
+	["tortapwndr-nightslayer"]=17,
 	["tortaslayr-nightslayer"]=2,
 	["tortasmashr-nightslayer"]=19,
 	["torturely-nightslayer"]=15,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5359 characters, read 2026-10-30 05:00 AM.
+-- Region eu, 5360 characters, read 2026-10-30 06:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2745,6 +2745,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["najøuár-shekzeer"]=11,
 	["nåjøuãr-shekzeer"]=21,
 	["nakalidøg-shekzeer"]=41,
+	["nalâa-everlook"]=41,
 	["nalix-shekzeer"]=41,
 	["namaju-shekzeer"]=31,
 	["namasti-mirage-raceway"]=261,
@@ -4262,7 +4263,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["vaginclean-shekzeer"]=10,
 	["vagizzle-shekzeer"]=11,
 	["vah-shekzeer"]=11,
-	["vãh-shekzeer"]=10,
+	["vãh-shekzeer"]=11,
 	["vahlol-shekzeer"]=31,
 	["vahx-shekzeer"]=10,
 	["valehillx-shekzeer"]=31,
@@ -7222,7 +7223,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["käîdo-shekzeer"]=1,
 	["kaienshiba-shekzeer"]=25,
 	["kaihunt-everlook"]=4,
-	["káiros-hoptallus"]=29,
+	["káiros-hoptallus"]=7,
 	["kaizan-garalon"]=23,
 	["kajolgluglu-auberdine"]=3,
 	["kakalocko-shekzeer"]=23,
@@ -7760,7 +7761,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["megcecmpa-shekzeer"]=5,
 	["meilev-hoptallus"]=3,
 	["mejorbrujoxd-shekzeer"]=17,
-	["mekishiko-shekzeer"]=9,
+	["mekishiko-shekzeer"]=22,
 	["melba-shekzeer"]=11,
 	["melk-shekzeer"]=2,
 	["mellamell-shekzeer"]=7,
@@ -7990,6 +7991,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["najøuár-shekzeer"]=6,
 	["nåjøuãr-shekzeer"]=1,
 	["nakalidøg-shekzeer"]=9,
+	["nalâa-everlook"]=3,
 	["nalix-shekzeer"]=3,
 	["namaju-shekzeer"]=13,
 	["namasti-mirage-raceway"]=6,
@@ -8568,7 +8570,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["rashgathz-shekzeer"]=11,
 	["rashz-shekzeer"]=8,
 	["raßßi-shekzeer"]=14,
-	["ratedmformoo-hoptallus"]=32,
+	["ratedmformoo-hoptallus"]=3,
 	["ratitude-shekzeer"]=12,
 	["ratslayers-shekzeer"]=1,
 	["raushier-shekzeer"]=1,
@@ -9889,7 +9891,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["xkiller-shekzeer"]=2,
 	["xladerinø-shekzeer"]=9,
 	["xladérz-shekzeer"]=1,
-	["xladerzf-shekzeer"]=6,
+	["xladerzf-shekzeer"]=7,
 	["xladerzg-shekzeer"]=1,
 	["xladerzw-shekzeer"]=23,
 	["xmm-shekzeer"]=4,
