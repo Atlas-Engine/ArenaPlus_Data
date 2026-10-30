@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5198 characters, read 2026-10-30 01:59 AM.
+-- Region us, 5198 characters, read 2026-10-30 02:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7684,7 +7684,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["linktrol-pagle"]=18,
 	["linnker-pagle"]=9,
 	["lionner-lei-shen"]=10,
-	["liopleurodon-nazgrim"]=9,
+	["liopleurodon-nazgrim"]=13,
 	["liorindei-raden"]=33,
 	["liquidated-pagle"]=1,
 	["lìt-pagle"]=7,
@@ -9079,7 +9079,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["shockleone-pagle"]=15,
 	["shocknfuhboy-pagle"]=22,
 	["shockoné-pagle"]=4,
-	["shocktopus-pagle"]=19,
+	["shocktopus-pagle"]=22,
 	["shòckwâve-galakras"]=22,
 	["shøckz-galakras"]=22,
 	["shõfu-pagle"]=4,
@@ -9960,7 +9960,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["wildoak-raden"]=5,
 	["wìllferal-lei-shen"]=12,
 	["willøe-pagle"]=16,
-	["wilynnithan-pagle"]=31,
+	["wilynnithan-pagle"]=1,
 	["winded-raden"]=7,
 	["windexnipple-nazgrim"]=24,
 	["windstorm-raden"]=7,
