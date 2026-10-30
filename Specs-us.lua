@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5205 characters, read 2026-10-29 06:59 PM.
+-- Region us, 5205 characters, read 2026-10-29 07:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5412,7 +5412,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["berell-galakras"]=17,
 	["berell-raden"]=5,
 	["berkson-galakras"]=20,
-	["bertharro-galakras"]=1,
+	["bertharro-galakras"]=11,
 	["bertoxxulos-galakras"]=28,
 	["bestiiaa-raden"]=20,
 	["bestmonkus-raden"]=4,
@@ -5519,7 +5519,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["bloodofares-nazgrim"]=7,
 	["bloodofnotus-nazgrim"]=27,
 	["bloodrake-nazgrim"]=25,
-	["bloodsoakd-pagle"]=7,
+	["bloodsoakd-pagle"]=23,
 	["blooms-pagle"]=17,
 	["bloomtodeath-raden"]=20,
 	["blössöm-galakras"]=18,
@@ -5879,7 +5879,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["cooterflute-raden"]=7,
 	["cooterman-raden"]=10,
 	["cornflakes-raden"]=3,
-	["cornßread-pagle"]=4,
+	["cornßread-pagle"]=10,
 	["corrodius-lei-shen"]=7,
 	["corumba-pagle"]=7,
 	["cosmokramer-pagle"]=5,
@@ -10138,7 +10138,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["yuthinasia-galakras"]=16,
 	["yuvish-lei-shen"]=26,
 	["yves-pagle"]=11,
-	["yvlxd-pagle"]=8,
+	["yvlxd-pagle"]=28,
 	["yxyxyxyxyxyx-pagle"]=16,
 	["yyz-raden"]=1,
 	["yzr-pagle"]=17,

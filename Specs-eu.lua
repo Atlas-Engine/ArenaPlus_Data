@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5353 characters, read 2026-10-29 07:00 PM.
+-- Region eu, 5353 characters, read 2026-10-29 08:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -600,7 +600,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["bozzclqwnx-shekzeer"]=10,
 	["bradorn-shekzeer"]=10,
 	["brakmany-garalon"]=101,
-	["bralle-shekzeer"]=10,
+	["bralle-shekzeer"]=11,
 	["brapbraphoe-shekzeer"]=10,
 	["brattan-shekzeer"]=110,
 	["braver-shekzeer"]=10,
@@ -3766,7 +3766,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["sofpokito-auberdine"]=220,
 	["softpaws-mirage-raceway"]=41,
 	["soixanteuros-auberdine"]=111,
-	["sokorean-mirage-raceway"]=41,
+	["sokorean-mirage-raceway"]=40,
 	["solá-shekzeer"]=11,
 	["sololvling-shekzeer"]=11,
 	["soloway-shekzeer"]=50,
@@ -5542,7 +5542,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bakasurge-shekzeer"]=11,
 	["bakatrap-shekzeer"]=4,
 	["bakomba-shekzeer"]=4,
-	["bakurau-mirage-raceway"]=20,
+	["bakurau-mirage-raceway"]=14,
 	["balanced-shekzeer"]=3,
 	["ballawatsch-shekzeer"]=6,
 	["ballbusting-shekzeer"]=24,
@@ -5652,7 +5652,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bláckwarrior-shekzeer"]=1,
 	["bladesmonk-hoptallus"]=6,
 	["blahster-shekzeer"]=12,
-	["blakmoon-auberdine"]=3,
+	["blakmoon-auberdine"]=11,
 	["blancos-auberdine"]=1,
 	["blanky-shekzeer"]=2,
 	["blaqchina-shekzeer"]=6,
@@ -9320,7 +9320,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["testabuser-shekzeer"]=9,
 	["teukka-shekzeer"]=25,
 	["teyshwar-garalon"]=1,
-	["thailandx-shekzeer"]=5,
+	["thailandx-shekzeer"]=15,
 	["thaixx-shekzeer"]=6,
 	["thaladra-shekzeer"]=21,
 	["thana-ook-ook"]=6,
@@ -10407,7 +10407,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Седойдед-flamegor"]=8,
 	["Сенжермэн-flamegor"]=34,
 	["Сергейсэр-flamegor"]=2,
-	["Симбикс-flamegor"]=4,
+	["Симбикс-flamegor"]=20,
 	["Симбиш-flamegor"]=26,
 	["Сияниемоё-flamegor"]=22,
 	["Скарадримс-flamegor"]=15,
