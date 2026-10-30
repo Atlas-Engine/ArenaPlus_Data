@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9346 characters, read 2026-10-30 06:58 AM.
+-- Region tbc-us, 9347 characters, read 2026-10-30 07:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4384,6 +4384,7 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["kolesiff-dreamscythe"]=21,
 	["kölmar-dreamscythe"]=50,
 	["kologhan-nightslayer"]=50,
+	["kombatlog-nightslayer"]=41,
 	["kommagi-dreamscythe"]=111,
 	["komos-nightslayer"]=80,
 	["komyy-nightslayer"]=41,
@@ -11252,7 +11253,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["dìp-dreamscythe"]=22,
 	["dipla-dreamscythe"]=8,
 	["dipt-nightslayer"]=19,
-	["dirkz-nightslayer"]=5,
+	["dirkz-nightslayer"]=8,
 	["dirtbike-nightslayer"]=10,
 	["dirtpipe-dreamscythe"]=15,
 	["dirts-nightslayer"]=12,
@@ -12416,7 +12417,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["goatsoup-dreamscythe"]=24,
 	["gobagoo-nightslayer"]=2,
 	["gobbeur-dreamscythe"]=16,
-	["gódféáríng-nightslayer"]=6,
+	["gódféáríng-nightslayer"]=4,
 	["gödsmack-nightslayer"]=19,
 	["gôdz-dreamscythe"]=4,
 	["gofux-nightslayer"]=10,
@@ -13668,6 +13669,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["kolesiff-dreamscythe"]=10,
 	["kölmar-dreamscythe"]=12,
 	["kologhan-nightslayer"]=4,
+	["kombatlog-nightslayer"]=7,
 	["kombuchha-nightslayer"]=0,
 	["kommagi-dreamscythe"]=6,
 	["komos-nightslayer"]=4,
