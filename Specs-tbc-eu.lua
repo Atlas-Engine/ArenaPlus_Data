@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9645 characters, read 2026-10-30 11:34 AM.
+-- Region tbc-eu, 9645 characters, read 2026-10-30 12:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10570,7 +10570,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["brame-spineshatter"]=5,
 	["brândmal-thunderstrike"]=13,
 	["brandone-spineshatter"]=3,
-	["brandyford-thunderstrike"]=13,
+	["brandyford-thunderstrike"]=14,
 	["branscombe-spineshatter"]=2,
 	["braph-spineshatter"]=15,
 	["brasileiros-spineshatter"]=9,
@@ -11039,7 +11039,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["copse-spineshatter"]=3,
 	["cordane-spineshatter"]=6,
 	["cordonx-spineshatter"]=5,
-	["cordycepsxx-thunderstrike"]=12,
+	["cordycepsxx-thunderstrike"]=11,
 	["coreh-spineshatter"]=2,
 	["coreshock-spineshatter"]=11,
 	["corkaksiedza-spineshatter"]=5,
@@ -11067,7 +11067,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["cowdog-thunderstrike"]=1,
 	["cowmoomilla-spineshatter"]=1,
 	["cowralina-spineshatter"]=1,
-	["cowtit-spineshatter"]=1,
+	["cowtit-spineshatter"]=6,
 	["coygx-spineshatter"]=13,
 	["cozyfrog-spineshatter"]=16,
 	["cozypanda-spineshatter"]=1,
@@ -16730,7 +16730,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["saptain-spineshatter"]=3,
 	["sapyboo-spineshatter"]=19,
 	["saren-spineshatter"]=3,
-	["sarilielia-spineshatter"]=4,
+	["sarilielia-spineshatter"]=9,
 	["sarîx-thunderstrike"]=6,
 	["sarulol-thunderstrike"]=18,
 	["sarwaz-spineshatter"]=5,
@@ -18340,7 +18340,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["uzziy-spineshatter"]=9,
 	["vaál-thunderstrike"]=5,
 	["vaant-spineshatter"]=8,
-	["vadlol-spineshatter"]=3,
+	["vadlol-spineshatter"]=19,
 	["vaeerrys-spineshatter"]=1,
 	["vaelane-thunderstrike"]=5,
 	["vaelinia-thunderstrike"]=19,

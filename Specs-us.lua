@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5193 characters, read 2026-10-30 11:54 AM.
+-- Region us, 5194 characters, read 2026-10-30 12:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6356,7 +6356,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["edumage-nazgrim"]=1,
 	["eerii-raden"]=13,
 	["eezz-nazgrim"]=13,
-	["efekz-immerseus"]=29,
+	["efekz-immerseus"]=14,
 	["eggfooyoung-immerseus"]=4,
 	["eidottnawi-pagle"]=3,
 	["eikou-pagle"]=2,
@@ -6387,7 +6387,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["eltoromu-nazgrim"]=5,
 	["elusivenes-raden"]=29,
 	["eluulttv-raden"]=10,
-	["eluveth-pagle"]=21,
+	["eluveth-pagle"]=9,
 	["elvius-raden"]=7,
 	["elyä-pagle"]=16,
 	["elyandris-raden"]=4,
@@ -6415,7 +6415,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["erifnothgin-raden"]=9,
 	["erik-nazgrim"]=7,
 	["erikane-nazgrim"]=4,
-	["erikh-pagle"]=16,
+	["erikh-pagle"]=32,
 	["erikhai-nazgrim"]=3,
 	["erikius-nazgrim"]=2,
 	["erimdk-pagle"]=6,
@@ -6444,7 +6444,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["evilforcesgx-pagle"]=14,
 	["evilxdream-raden"]=5,
 	["evilxeevee-raden"]=9,
-	["evilxshamwow-raden"]=19,
+	["evilxshamwow-raden"]=15,
 	["evilxtracker-nazgrim"]=3,
 	["evolution-pagle"]=5,
 	["exaltore-pagle"]=7,
@@ -6502,7 +6502,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["fatwog-raden"]=16,
 	["faylaxd-raden"]=5,
 	["fctry-raden"]=3,
-	["fcx-raden"]=11,
+	["fcx-raden"]=1,
 	["fearbane-pagle"]=26,
 	["feardaddy-pagle"]=2,
 	["feardot-pagle"]=28,
@@ -7936,6 +7936,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["miercy-galakras"]=16,
 	["mightymagus-raden"]=1,
 	["migué-pagle"]=16,
+	["mihal-nazgrim"]=0,
 	["miichael-pagle"]=2,
 	["miintpwnagex-nazgrim"]=18,
 	["mikaelios-raden"]=2,
