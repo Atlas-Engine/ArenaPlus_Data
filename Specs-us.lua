@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5198 characters, read 2026-10-30 06:00 PM.
+-- Region us, 5197 characters, read 2026-10-30 06:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -721,6 +721,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["cantgetmeoff-pagle"]=50,
 	["cäpriëstsun-pagle"]=41,
 	["carbontaxes-pagle"]=10,
+	["cardmage-galakras"]=10,
 	["cardoni-galakras"]=10,
 	["cardpally-galakras"]=10,
 	["carnàxx-pagle"]=10,
@@ -2683,7 +2684,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["lunishamtwo-raden"]=111,
 	["lunpi-raden"]=251,
 	["lusts-raden"]=11,
-	["luum-raden"]=41,
 	["lüz-pagle"]=11,
 	["luzey-raden"]=11,
 	["lvl-raden"]=11,
@@ -5404,7 +5404,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["berell-galakras"]=17,
 	["berell-raden"]=5,
 	["berkson-galakras"]=20,
-	["bertharro-galakras"]=11,
+	["bertharro-galakras"]=1,
 	["bertoxxulos-galakras"]=28,
 	["bestiiaa-raden"]=20,
 	["bestmonkus-raden"]=4,
@@ -5496,7 +5496,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["blazco-raden"]=9,
 	["blazedboii-pagle"]=18,
 	["blazingchi-arugal-au"]=4,
-	["bleeko-immerseus"]=17,
+	["bleeko-immerseus"]=5,
 	["blickkyyx-pagle"]=18,
 	["blicko-pagle"]=2,
 	["blindedlight-raden"]=2,
@@ -5707,6 +5707,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["cantgetmeoff-pagle"]=30,
 	["cäpriëstsun-pagle"]=9,
 	["carbontaxes-pagle"]=1,
+	["cardmage-galakras"]=1,
 	["cardoni-galakras"]=3,
 	["cardpally-galakras"]=16,
 	["carnàxx-pagle"]=24,
@@ -6516,7 +6517,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["fearntears-raden"]=21,
 	["fears-raden"]=28,
 	["fearwulf-pagle"]=24,
-	["feece-pagle"]=14,
+	["feece-pagle"]=29,
 	["fefedruid-raden"]=12,
 	["fefewarrior-raden"]=7,
 	["fefy-pagle"]=7,
@@ -7758,8 +7759,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["lunishamtwo-raden"]=22,
 	["lunpi-raden"]=27,
 	["lusts-raden"]=10,
-	["luum-raden"]=17,
-	["luvex-galakras"]=0,
 	["lüz-pagle"]=16,
 	["luzey-raden"]=1,
 	["lvl-raden"]=3,

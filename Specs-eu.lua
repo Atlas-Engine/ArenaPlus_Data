@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5358 characters, read 2026-10-30 06:00 PM.
+-- Region eu, 5358 characters, read 2026-10-30 07:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1607,7 +1607,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["hängo-shekzeer"]=11,
 	["hanjil-hoptallus"]=11,
 	["hannamontana-hoptallus"]=20,
-	["hannibllc-mirage-raceway"]=10,
+	["hannibllc-mirage-raceway"]=11,
 	["haølod-hoptallus"]=10,
 	["haori-shekzeer"]=41,
 	["hapless-everlook"]=11,
@@ -5619,7 +5619,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bezdarniy-shekzeer"]=2,
 	["bibbi-shekzeer"]=5,
 	["bibeed-shekzeer"]=3,
-	["bibuba-shekzeer"]=3,
+	["bibuba-shekzeer"]=11,
 	["bierbuddah-shekzeer"]=6,
 	["bigangryorc-garalon"]=1,
 	["bigchill-mirage-raceway"]=1,
@@ -5702,7 +5702,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bolventie-garalon"]=3,
 	["bombshock-shekzeer"]=23,
 	["bonciukaz-garalon"]=5,
-	["bonefire-garalon"]=2,
+	["bonefire-garalon"]=10,
 	["bonjour-auberdine"]=4,
 	["boogboogboog-shekzeer"]=7,
 	["boogle-shekzeer"]=20,
@@ -5916,7 +5916,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["chucknofist-ook-ook"]=6,
 	["chucknourísh-ook-ook"]=3,
 	["chumahod-shekzeer"]=8,
-	["chunglee-everlook"]=6,
+	["chunglee-everlook"]=7,
 	["chuppachups-norushen"]=8,
 	["cia-auberdine"]=9,
 	["ciatalyst-auberdine"]=14,
@@ -6514,7 +6514,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["fiendly-gehennas"]=0,
 	["fientedepaon-shekzeer"]=4,
 	["fiftsven-everlook"]=0,
-	["fiftydbreath-shekzeer"]=2,
+	["fiftydbreath-shekzeer"]=10,
 	["fiftyzen-everlook"]=0,
 	["figment-garalon"]=3,
 	["fiksiuss-mirage-raceway"]=15,
@@ -9112,7 +9112,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["ßázy-shekzeer"]=4,
 	["ßázzy-shekzeer"]=15,
 	["ßeast-garalon"]=14,
-	["ßenimãru-shekzeer"]=3,
+	["ßenimãru-shekzeer"]=11,
 	["ßlickxy-shekzeer"]=3,
 	["ßlinkd-shekzeer"]=2,
 	["ßm-shekzeer"]=6,
