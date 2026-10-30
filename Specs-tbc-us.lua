@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9347 characters, read 2026-10-30 08:58 AM.
+-- Region tbc-us, 9347 characters, read 2026-10-30 09:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11843,7 +11843,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["fablol-nightslayer"]=7,
 	["facebookmod-nightslayer"]=22,
 	["facecrusher-nightslayer"]=2,
-	["facefoot-dreamscythe"]=10,
+	["facefoot-dreamscythe"]=19,
 	["facemaskx-nightslayer"]=10,
 	["fachnan-nightslayer"]=8,
 	["fadeburn-nightslayer"]=1,
@@ -11920,7 +11920,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["fawzyx-nightslayer"]=6,
 	["faxx-nightslayer"]=18,
 	["fáylaxp-nightslayer"]=1,
-	["fazan-nightslayer"]=17,
+	["fazan-nightslayer"]=21,
 	["fb-dreamscythe"]=19,
 	["fbgdre-nightslayer"]=19,
 	["fbr-nightslayer"]=13,
@@ -12123,7 +12123,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["frankygg-dreamscythe"]=19,
 	["franticfury-dreamscythe"]=18,
 	["frauduleux-dreamscythe"]=6,
-	["frazzlerip-dreamscythe"]=5,
+	["frazzlerip-dreamscythe"]=8,
 	["freakmage-nightslayer"]=4,
 	["freakyahhboy-nightslayer"]=8,
 	["freakyjason-nightslayer"]=18,

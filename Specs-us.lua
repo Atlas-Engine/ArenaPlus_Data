@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5194 characters, read 2026-10-30 08:59 AM.
+-- Region us, 5193 characters, read 2026-10-30 09:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1666,7 +1666,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["gangalee-raden"]=30,
 	["ganggangg-immerseus"]=50,
 	["gangstir-pagle"]=20,
-	["gangzter-lei-shen"]=10,
 	["gankem-immerseus"]=20,
 	["gankgangg-nazgrim"]=41,
 	["ganksta-pagle"]=60,
@@ -6693,7 +6692,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["gangalee-raden"]=22,
 	["ganggangg-immerseus"]=1,
 	["gangstir-pagle"]=6,
-	["gangzter-lei-shen"]=6,
 	["gankem-immerseus"]=3,
 	["gankgangg-nazgrim"]=34,
 	["ganksta-pagle"]=25,
@@ -6785,7 +6783,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["gloriosas-raden"]=7,
 	["gloryboi-pagle"]=2,
 	["gnarlyknight-pagle"]=16,
-	["gnarlyshotz-pagle"]=20,
+	["gnarlyshotz-pagle"]=18,
 	["gnomeßeater-pagle"]=4,
 	["gøàtbrádlëê-raden"]=2,
 	["goatler-benediction"]=3,
@@ -6874,7 +6872,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["gwendolyn-raden"]=1,
 	["gwuapo-raden"]=7,
 	["gyez-pagle"]=6,
-	["gymgirl-pagle"]=24,
+	["gymgirl-pagle"]=8,
 	["gymsharkbadi-arugal-au"]=3,
 	["gyshanmmw-raden"]=4,
 	["gyshanpal-pagle"]=2,
