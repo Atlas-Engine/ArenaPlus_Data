@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5194 characters, read 2026-10-30 07:59 AM.
+-- Region us, 5194 characters, read 2026-10-30 08:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5202,7 +5202,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["arcanetrump-pagle"]=1,
 	["archdiocese-raden"]=2,
 	["arcindia-galakras"]=13,
-	["arcticmunchy-grobbulus"]=21,
+	["arcticmunchy-grobbulus"]=9,
 	["arena-pagle"]=4,
 	["arenaelun-pagle"]=4,
 	["arg-nazgrim"]=7,
@@ -7025,7 +7025,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["holysnîper-grobbulus"]=3,
 	["holythugx-pagle"]=16,
 	["holytick-pagle"]=2,
-	["holyvale-pagle"]=21,
+	["holyvale-pagle"]=13,
 	["hólyy-raden"]=16,
 	["holyywarr-raden"]=7,
 	["homiecuh-nazgrim"]=28,
@@ -7106,7 +7106,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["iceblight-nazgrim"]=0,
 	["icebluee-pagle"]=1,
 	["icecrysis-pagle"]=26,
-	["icedwater-raden"]=20,
+	["icedwater-raden"]=3,
 	["icefear-pagle"]=28,
 	["iceinurface-pagle"]=0,
 	["icelancer-pagle"]=1,
