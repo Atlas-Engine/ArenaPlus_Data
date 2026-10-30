@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5194 characters, read 2026-10-30 01:59 PM.
+-- Region us, 5194 characters, read 2026-10-30 03:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3720,7 +3720,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["rottenßlade-pagle"]=50,
 	["rougeone-pagle"]=50,
 	["roulette-pagle"]=41,
-	["roxxe-raden"]=10,
+	["roxxe-raden"]=11,
 	["royalflush-pagle"]=50,
 	["royalkelly-raden"]=11,
 	["royalpaladin-lei-shen"]=60,
@@ -5873,7 +5873,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["cottenijoe-pagle"]=15,
 	["cottoncandÿ-pagle"]=10,
 	["coughmed-arugal-au"]=24,
-	["coughsizzurp-galakras"]=18,
+	["coughsizzurp-galakras"]=3,
 	["covidcase-immerseus"]=34,
 	["coxãoduro-pagle"]=5,
 	["coyson-immerseus"]=29,
@@ -8108,7 +8108,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["naghvoid-pagle"]=21,
 	["nahfr-pagle"]=6,
 	["naigerle-pagle"]=24,
-	["nairtas-nazgrim"]=3,
+	["nairtas-nazgrim"]=18,
 	["nalx-raden"]=5,
 	["namosca-pagle"]=3,
 	["nananutmuffn-pagle"]=29,
@@ -8902,7 +8902,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["samgee-pagle"]=16,
 	["sammyboyy-pagle"]=2,
 	["sanachikito-pagle"]=9,
-	["sanadora-pagle"]=9,
+	["sanadora-pagle"]=21,
 	["sandbunny-pagle"]=10,
 	["sandore-raden"]=7,
 	["sandosa-pagle"]=10,
@@ -9393,7 +9393,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["stticka-pagle"]=1,
 	["studbolt-lei-shen"]=1,
 	["stuffyknows-raden"]=0,
-	["stungød-pagle"]=14,
+	["stungød-pagle"]=29,
 	["stwongspell-pagle"]=28,
 	["stylles-raden"]=10,
 	["subàti-pagle"]=9,

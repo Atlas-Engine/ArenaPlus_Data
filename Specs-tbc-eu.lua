@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9651 characters, read 2026-10-30 01:59 PM.
+-- Region tbc-eu, 9651 characters, read 2026-10-30 02:54 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10122,7 +10122,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["backsitter-spineshatter"]=1,
 	["backtoschool-spineshatter"]=13,
 	["backttfuture-spineshatter"]=2,
-	["backup-spineshatter"]=19,
+	["backup-spineshatter"]=3,
 	["backx-thunderstrike"]=5,
 	["baconflippin-spineshatter"]=9,
 	["bâd-spineshatter"]=5,
@@ -11272,7 +11272,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["darkfaid-thunderstrike"]=8,
 	["darkflamez-spineshatter"]=14,
 	["darklinxs-thunderstrike"]=9,
-	["darkmid-spineshatter"]=23,
+	["darkmid-spineshatter"]=11,
 	["darkncreamy-spineshatter"]=15,
 	["darkolak-spineshatter"]=11,
 	["darkolakgodx-spineshatter"]=11,
@@ -11926,7 +11926,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["elkopo-spineshatter"]=11,
 	["elkw-spineshatter"]=1,
 	["ellectron-spineshatter"]=16,
-	["ellectrons-spineshatter"]=13,
+	["ellectrons-spineshatter"]=18,
 	["ellimelli-spineshatter"]=11,
 	["ellistheni-spineshatter"]=12,
 	["elmalá-spineshatter"]=0,
@@ -12406,7 +12406,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["fouls-spineshatter"]=5,
 	["foúr-spineshatter"]=2,
 	["fourxhope-spineshatter"]=13,
-	["foxcønn-thunderstrike"]=15,
+	["foxcønn-thunderstrike"]=5,
 	["føxconn-thunderstrike"]=26,
 	["föxi-thunderstrike"]=9,
 	["föxxî-thunderstrike"]=23,
@@ -15377,7 +15377,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["nimzen-spineshatter"]=19,
 	["ninjarn-spineshatter"]=19,
 	["ninjashaman-spineshatter"]=12,
-	["ninjâtrips-spineshatter"]=3,
+	["ninjâtrips-spineshatter"]=19,
 	["ninyio-thunderstrike"]=2,
 	["nïor-spineshatter"]=5,
 	["nipzlipz-spineshatter"]=5,
@@ -17182,7 +17182,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["skizowizzard-spineshatter"]=5,
 	["skizzoskills-spineshatter"]=8,
 	["skjelten-spineshatter"]=5,
-	["skolott-spineshatter"]=24,
+	["skolott-spineshatter"]=25,
 	["skrepp-spineshatter"]=23,
 	["skrillêx-spineshatter"]=13,
 	["skritsch-spineshatter"]=9,
@@ -17886,7 +17886,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["tengoldpls-spineshatter"]=17,
 	["tenkaa-thunderstrike"]=19,
 	["tensorflow-spineshatter"]=3,
-	["tentto-spineshatter"]=9,
+	["tentto-spineshatter"]=4,
 	["tepik-thunderstrike"]=3,
 	["terakhakan-spineshatter"]=12,
 	["terakhakandr-spineshatter"]=6,
@@ -18425,7 +18425,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["ved-spineshatter"]=3,
 	["vedklabb-spineshatter"]=1,
 	["vegeguayz-thunderstrike"]=19,
-	["vekintq-spineshatter"]=9,
+	["vekintq-spineshatter"]=4,
 	["velania-spineshatter"]=2,
 	["velatil-spineshatter"]=23,
 	["velatte-spineshatter"]=5,
