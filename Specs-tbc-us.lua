@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9347 characters, read 2026-10-30 02:58 PM.
+-- Region tbc-us, 9347 characters, read 2026-10-30 03:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10883,7 +10883,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["crazythunder-nightslayer"]=19,
 	["crcrcrcrcrcr-nightslayer"]=12,
 	["cream-nightslayer"]=4,
-	["creamtotes-nightslayer"]=10,
+	["creamtotes-nightslayer"]=24,
 	["creation-nightslayer"]=4,
 	["creationlawl-nightslayer"]=7,
 	["creationw-nightslayer"]=2,
@@ -11851,7 +11851,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["fadedrage-nightslayer"]=2,
 	["fadetotems-nightslayer"]=10,
 	["fadthai-nightslayer"]=11,
-	["faegan-nightslayer"]=10,
+	["faegan-nightslayer"]=19,
 	["faelent-dreamscythe"]=13,
 	["faeriefireqt-nightslayer"]=3,
 	["faeriejane-nightslayer"]=1,
@@ -12464,7 +12464,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["goreland-nightslayer"]=2,
 	["goreshocks-nightslayer"]=19,
 	["gorgeousirl-nightslayer"]=4,
-	["gorgorath-nightslayer"]=8,
+	["gorgorath-nightslayer"]=5,
 	["gørilla-nightslayer"]=2,
 	["gosari-nightslayer"]=5,
 	["gosarí-nightslayer"]=5,
@@ -15191,7 +15191,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["outshined-dreamscythe"]=11,
 	["outtapockets-nightslayer"]=0,
 	["outtapocketz-nightslayer"]=8,
-	["ouzenn-nightslayer"]=13,
+	["ouzenn-nightslayer"]=16,
 	["overanalyze-nightslayer"]=25,
 	["Ôverlòad-dreamscythe"]=24,
 	["overtaken-nightslayer"]=8,
