@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5357 characters, read 2026-10-30 11:00 PM.
+-- Region eu, 5356 characters, read 2026-10-31 12:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -122,7 +122,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["Ærobi-auberdine"]=41,
 	["aerosole-shekzeer"]=10,
 	["aërýs-auberdine"]=61,
-	["Æscanør-everlook"]=11,
 	["affix-shekzeer"]=11,
 	["afflictia-shekzeer"]=11,
 	["aflixs-shekzeer"]=21,
@@ -3921,6 +3920,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["svärdlennart-shekzeer"]=10,
 	["svårtva-shekzeer"]=11,
 	["sveniss-mirage-raceway"]=30,
+	["svettkossan-norushen"]=60,
 	["svinopas-shekzeer"]=221,
 	["svnt-shekzeer"]=11,
 	["swanfiahtwo-shekzeer"]=11,
@@ -4253,7 +4253,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["uwe-shekzeer"]=30,
 	["uwucats-shekzeer"]=220,
 	["uwugirluwu-shekzeer"]=11,
-	["væh-shekzeer"]=10,
+	["væh-shekzeer"]=11,
 	["vaginclean-shekzeer"]=10,
 	["vagizzle-shekzeer"]=11,
 	["vah-shekzeer"]=11,
@@ -4302,7 +4302,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["veràn-auberdine"]=51,
 	["vercettix-shekzeer"]=11,
 	["vêrcêttîx-shekzeer"]=50,
-	["vercettixt-shekzeer"]=41,
 	["vercettixx-shekzeer"]=11,
 	["vêrcy-everlook"]=41,
 	["verethar-mirage-raceway"]=110,
@@ -5227,7 +5226,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Ærobi-auberdine"]=3,
 	["aerosole-shekzeer"]=6,
 	["aërýs-auberdine"]=21,
-	["Æscanør-everlook"]=15,
 	["affix-shekzeer"]=23,
 	["afflictia-shekzeer"]=23,
 	["aflixs-shekzeer"]=17,
@@ -7887,7 +7885,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["monkfresher-hoptallus"]=6,
 	["monkhere-mirage-raceway"]=6,
 	["monkloide-shekzeer"]=6,
-	["monkp-norushen"]=29,
+	["monkp-norushen"]=7,
 	["monkrus-shekzeer"]=6,
 	["monkshadow-shekzeer"]=6,
 	["monktop-shekzeer"]=0,
@@ -9222,6 +9220,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["svärdlennart-shekzeer"]=1,
 	["svårtva-shekzeer"]=2,
 	["sveniss-mirage-raceway"]=13,
+	["svettkossan-norushen"]=3,
 	["svinopas-shekzeer"]=4,
 	["svnt-shekzeer"]=24,
 	["swanfiahtwo-shekzeer"]=7,
@@ -9626,7 +9625,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["veràn-auberdine"]=10,
 	["vercettix-shekzeer"]=17,
 	["vêrcêttîx-shekzeer"]=6,
-	["vercettixt-shekzeer"]=11,
 	["vercettixx-shekzeer"]=6,
 	["vêrcy-everlook"]=9,
 	["verethar-mirage-raceway"]=13,

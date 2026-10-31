@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9345 characters, read 2026-10-30 10:58 PM.
+-- Region tbc-us, 9345 characters, read 2026-10-30 11:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9614,7 +9614,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["assdestruct-nightslayer"]=13,
 	["assisyumi-nightslayer"]=2,
 	["astå-nightslayer"]=7,
-	["astias-nightslayer"]=18,
+	["astias-nightslayer"]=2,
 	["astonishu-nightslayer"]=2,
 	["astormage-nightslayer"]=6,
 	["astralgummi-nightslayer"]=7,
@@ -10243,7 +10243,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["boward-nightslayer"]=4,
 	["bòwdòwn-nightslayer"]=5,
 	["bøwned-nightslayer"]=15,
-	["bownerjamal-dreamscythe"]=21,
+	["bownerjamal-dreamscythe"]=15,
 	["bowphamet-nightslayer"]=15,
 	["boxbanger-nightslayer"]=3,
 	["boxeddots-nightslayer"]=23,
@@ -11257,7 +11257,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["dirts-nightslayer"]=12,
 	["dirtshields-nightslayer"]=10,
 	["dirtydebrah-nightslayer"]=7,
-	["dirtydeedss-dreamscythe"]=8,
+	["dirtydeedss-dreamscythe"]=5,
 	["dirtyoldmän-nightslayer"]=1,
 	["dirtyplay-nightslayer"]=13,
 	["dirtyplayr-nightslayer"]=22,
@@ -13980,7 +13980,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["lnln-nightslayer"]=14,
 	["loafprime-nightslayer"]=9,
 	["lochadin-dreamscythe"]=11,
-	["lockajewbaca-nightslayer"]=16,
+	["lockajewbaca-nightslayer"]=23,
 	["lockballess-dreamscythe"]=13,
 	["lockmainxd-nightslayer"]=5,
 	["lockmike-nightslayer"]=13,
@@ -17574,7 +17574,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["treepeat-nightslayer"]=22,
 	["treepilled-nightslayer"]=7,
 	["treeranger-nightslayer"]=13,
-	["treethers-dreamscythe"]=14,
+	["treethers-dreamscythe"]=1,
 	["treewaltz-nightslayer"]=7,
 	["treewar-nightslayer"]=2,
 	["treewood-nightslayer"]=3,
