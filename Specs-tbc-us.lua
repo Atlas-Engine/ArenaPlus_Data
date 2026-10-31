@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9351 characters, read 2026-10-30 08:58 PM.
+-- Region tbc-us, 9351 characters, read 2026-10-30 09:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12055,7 +12055,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["flerx-nightslayer"]=13,
 	["fleshwallet-nightslayer"]=8,
 	["fletchin-dreamscythe"]=15,
-	["fleurdeleys-nightslayer"]=15,
+	["fleurdeleys-nightslayer"]=17,
 	["flexbringer-dreamscythe"]=11,
 	["flexcash-nightslayer"]=13,
 	["flexcraft-dreamscythe"]=6,
@@ -13560,7 +13560,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["kennyloggnz-nightslayer"]=10,
 	["kenova-nightslayer"]=4,
 	["kenpx-nightslayer"]=25,
-	["kenulas-dreamscythe"]=17,
+	["kenulas-dreamscythe"]=15,
 	["keqing-nightslayer"]=3,
 	["keris-nightslayer"]=5,
 	["kerosiné-nightslayer"]=5,
@@ -13860,7 +13860,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["lekiz-dreamscythe"]=4,
 	["lelzi-nightslayer"]=14,
 	["lemarky-nightslayer"]=1,
-	["lemonaid-nightslayer"]=7,
+	["lemonaid-nightslayer"]=22,
 	["lemonjack-nightslayer"]=9,
 	["lemonn-nightslayer"]=10,
 	["leozap-dreamscythe"]=5,
@@ -17372,7 +17372,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["thehardbolt-nightslayer"]=23,
 	["thejig-nightslayer"]=19,
 	["thekuras-dreamscythe"]=5,
-	["thelle-nightslayer"]=5,
+	["thelle-nightslayer"]=8,
 	["thèlupa-nightslayer"]=1,
 	["theorii-nightslayer"]=1,
 	["thepanda-nightslayer"]=3,
@@ -17621,7 +17621,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["trû-nightslayer"]=1,
 	["trubeast-nightslayer"]=18,
 	["truccz-nightslayer"]=7,
-	["truckdog-dreamscythe"]=10,
+	["truckdog-dreamscythe"]=24,
 	["trueplaya-nightslayer"]=1,
 	["truffle-nightslayer"]=7,
 	["trufflepigx-nightslayer"]=7,
@@ -18594,7 +18594,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["zuggantugg-nightslayer"]=18,
 	["zuggintbc-nightslayer"]=8,
 	["zuggio-nightslayer"]=2,
-	["zuggle-nightslayer"]=5,
+	["zuggle-nightslayer"]=8,
 	["zugglezz-nightslayer"]=2,
 	["zuggodx-nightslayer"]=2,
 	["zugshers-nightslayer"]=18,
