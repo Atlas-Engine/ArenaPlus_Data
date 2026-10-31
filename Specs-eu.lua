@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5361 characters, read 2026-10-31 09:00 AM.
+-- Region eu, 5361 characters, read 2026-10-31 10:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6483,7 +6483,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["fartvape-shekzeer"]=7,
 	["fatmartine-auberdine"]=18,
 	["fatorbz-shekzeer"]=6,
-	["fatty-shekzeer"]=17,
+	["fatty-shekzeer"]=23,
 	["fazzu-shekzeer"]=9,
 	["fçize-shekzeer"]=6,
 	["fckeraa-shekzeer"]=2,
@@ -6963,7 +6963,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["iamcurt-mirage-raceway"]=9,
 	["iaminafullcc-shekzeer"]=3,
 	["iamsmeagol-hoptallus"]=17,
-	["iamyzis-mirage-raceway"]=13,
+	["iamyzis-mirage-raceway"]=16,
 	["ibitha-hoptallus"]=6,
 	["ibiza-mirage-raceway"]=1,
 	["icanfly-everlook"]=1,
@@ -7146,7 +7146,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["jhiraya-mirage-raceway"]=3,
 	["jimihendrix-shekzeer"]=1,
 	["jín-ook-ook"]=7,
-	["jingjang-everlook"]=6,
+	["jingjang-everlook"]=7,
 	["jinnxyo-shekzeer"]=5,
 	["jinzow-auberdine"]=20,
 	["jir-everlook"]=20,
@@ -7287,7 +7287,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["kenkofot-garalon"]=10,
 	["kennyk-garalon"]=18,
 	["kennyk-shekzeer"]=1,
-	["kennykk-garalon"]=18,
+	["kennykk-garalon"]=1,
 	["kennyykofot-garalon"]=34,
 	["kenoh-shekzeer"]=18,
 	["kenrize-shekzeer"]=2,
@@ -9464,7 +9464,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["tren-shekzeer"]=9,
 	["trend-shekzeer"]=7,
 	["trendsetter-shekzeer"]=1,
-	["trera-norushen"]=6,
+	["trera-norushen"]=7,
 	["tresiba-garalon"]=2,
 	["trettonrätt-shekzeer"]=9,
 	["trgtacquired-mirage-raceway"]=16,
@@ -9488,7 +9488,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["trustmebro-shekzeer"]=1,
 	["truthspeaker-shekzeer"]=6,
 	["tryinglock-shekzeer"]=17,
-	["trytorun-shekzeer"]=4,
+	["trytorun-shekzeer"]=20,
 	["tsima-shekzeer"]=3,
 	["tslx-shekzeer"]=13,
 	["tsouvirak-garalon"]=1,
