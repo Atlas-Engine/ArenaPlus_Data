@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5204 characters, read 2026-10-31 11:59 AM.
+-- Region us, 5204 characters, read 2026-10-31 12:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -91,6 +91,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["abracadabra-nazgrim"]=11,
 	["abruaz-raden"]=10,
 	["absofoo-pagle"]=70,
+	["absolutelyx-pagle"]=11,
 	["absolutzero-nazgrim"]=10,
 	["absopally-pagle"]=11,
 	["abusivekitty-galakras"]=61,
@@ -2687,6 +2688,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["lunishamtwo-raden"]=111,
 	["lunpi-raden"]=251,
 	["lusts-raden"]=11,
+	["luum-raden"]=41,
 	["lüz-pagle"]=11,
 	["luzey-raden"]=11,
 	["lvl-raden"]=11,
@@ -4232,7 +4234,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["strangebrews-raden"]=251,
 	["stranglor-galakras"]=60,
 	["strèamlight-raden"]=11,
-	["strikebike-pagle"]=20,
 	["stringname-pagle"]=11,
 	["strly-pagle"]=11,
 	["strungupjig-immerseus"]=20,
@@ -5043,6 +5044,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["abracadabra-nazgrim"]=3,
 	["abruaz-raden"]=1,
 	["absofoo-pagle"]=4,
+	["absolutelyx-pagle"]=14,
 	["absolutzero-nazgrim"]=11,
 	["absopally-pagle"]=2,
 	["abusivekitty-galakras"]=12,
@@ -5242,7 +5244,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["asamil-pagle"]=5,
 	["asapsap-lei-shen"]=14,
 	["asbull-immerseus"]=12,
-	["ascension-raden"]=10,
+	["ascension-raden"]=4,
 	["ashcarver-galakras"]=0,
 	["ashiroo-pagle"]=6,
 	["ashkaash-raden"]=20,
@@ -7550,7 +7552,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["ksoldier-pagle"]=16,
 	["kthall-pagle"]=30,
 	["ktm-lei-shen"]=5,
-	["kunfuki-raden"]=0,
 	["kungfugrip-arugal-au"]=10,
 	["kungfuhub-galakras"]=10,
 	["kungfulah-nazgrim"]=4,
@@ -7768,6 +7769,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["lunishamtwo-raden"]=22,
 	["lunpi-raden"]=27,
 	["lusts-raden"]=10,
+	["luum-raden"]=17,
 	["lüz-pagle"]=16,
 	["luzey-raden"]=1,
 	["lvl-raden"]=3,
@@ -9403,7 +9405,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["strangebrews-raden"]=27,
 	["stranglor-galakras"]=17,
 	["strèamlight-raden"]=2,
-	["strikebike-pagle"]=7,
 	["stringname-pagle"]=14,
 	["strly-pagle"]=3,
 	["strungupjig-immerseus"]=25,
@@ -9662,7 +9663,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["tøxic-nazgrim"]=29,
 	["tóxica-pagle"]=34,
 	["toxyc-galakras"]=21,
-	["toymonster-raden"]=5,
+	["toymonster-raden"]=17,
 	["toyoill-raden"]=18,
 	["tpjx-raden"]=10,
 	["tpodyo-raden"]=9,
