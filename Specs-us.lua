@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5199 characters, read 2026-10-31 12:59 AM.
+-- Region us, 5199 characters, read 2026-10-31 01:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5520,7 +5520,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["bluewhit-lei-shen"]=15,
 	["bluntish-lei-shen"]=14,
 	["bluntsntits-pagle"]=19,
-	["blunttraumah-immerseus"]=5,
+	["blunttraumah-immerseus"]=17,
 	["blutrunstig-pagle"]=7,
 	["bobal-galakras"]=4,
 	["bobalx-galakras"]=4,
@@ -5952,7 +5952,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["cybrooke-lei-shen"]=18,
 	["cyclicc-pagle"]=0,
 	["cyclonebot-lei-shen"]=5,
-	["cyndi-nazgrim"]=7,
+	["cyndi-nazgrim"]=30,
 	["cyns-galakras"]=21,
 	["daarkglare-pagle"]=23,
 	["dabalot-raden"]=6,
@@ -7924,7 +7924,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["methalien-nazgrim"]=16,
 	["methie-pagle"]=16,
 	["methusilah-pagle"]=14,
-	["metroboomkin-raden"]=17,
+	["metroboomkin-raden"]=5,
 	["mëts-raden"]=1,
 	["metwell-pagle"]=15,
 	["mewarmoo-pagle"]=7,
