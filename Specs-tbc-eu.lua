@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9649 characters, read 2026-10-31 07:59 AM.
+-- Region tbc-eu, 9649 characters, read 2026-10-31 08:49 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11101,7 +11101,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["creamcup-spineshatter"]=23,
 	["creamed-spineshatter"]=1,
 	["creamsn-spineshatter"]=5,
-	["crecc-thunderstrike"]=3,
+	["crecc-thunderstrike"]=19,
 	["creedq-spineshatter"]=9,
 	["creepcreeps-spineshatter"]=9,
 	["crekk-thunderstrike"]=5,
@@ -11862,7 +11862,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["eggmon-spineshatter"]=2,
 	["egirlform-spineshatter"]=1,
 	["egirlmanagër-spineshatter"]=3,
-	["egirlshealer-spineshatter"]=1,
+	["egirlshealer-spineshatter"]=6,
 	["eid-spineshatter"]=9,
 	["eidô-thunderstrike"]=9,
 	["eikdin-spineshatter"]=7,
@@ -12154,7 +12154,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["fakeaim-spineshatter"]=25,
 	["fakeàrakis-spineshatter"]=2,
 	["fakedane-spineshatter"]=12,
-	["fakeful-spineshatter"]=3,
+	["fakeful-spineshatter"]=19,
 	["fakeglads-spineshatter"]=6,
 	["fakengay-thunderstrike"]=6,
 	["fakeshimp-thunderstrike"]=18,
@@ -15007,7 +15007,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["moutz-spineshatter"]=5,
 	["mowglii-spineshatter"]=13,
 	["moxjet-spineshatter"]=9,
-	["moxnes-spineshatter"]=24,
+	["moxnes-spineshatter"]=16,
 	["moxpearl-spineshatter"]=2,
 	["moxruby-spineshatter"]=11,
 	["moya-spineshatter"]=5,
@@ -15396,7 +15396,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["njia-spineshatter"]=1,
 	["nlawfury-spineshatter"]=11,
 	["nlightx-spineshatter"]=3,
-	["nnsn-thunderstrike"]=1,
+	["nnsn-thunderstrike"]=20,
 	["noalia-spineshatter"]=19,
 	["nobeh-spineshatter"]=1,
 	["noblockgg-spineshatter"]=4,
@@ -18655,7 +18655,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["weymo-spineshatter"]=4,
 	["wfapustaja-spineshatter"]=12,
 	["wfr-spineshatter"]=24,
-	["wglx-spineshatter"]=19,
+	["wglx-spineshatter"]=3,
 	["whatslove-thunderstrike"]=4,
 	["whayfarer-spineshatter"]=5,
 	["wheatenzwo-spineshatter"]=13,
