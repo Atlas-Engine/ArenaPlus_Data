@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5358 characters, read 2026-10-31 04:00 PM.
+-- Region eu, 5358 characters, read 2026-10-31 05:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3631,7 +3631,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["shhmmye-mirage-raceway"]=41,
 	["shiftnpew-everlook"]=11,
 	["shiftnrun-everlook"]=10,
-	["shiftshaprr-shekzeer"]=80,
 	["shiimy-everlook"]=81,
 	["shiimyy-everlook"]=41,
 	["shiloh-ook-ook"]=101,
@@ -5976,7 +5975,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["controlr-norushen"]=24,
 	["controlww-norushen"]=1,
 	["controlx-norushen"]=14,
-	["coors-shekzeer"]=9,
+	["coors-shekzeer"]=22,
 	["corléonne-auberdine"]=6,
 	["corleonnee-auberdine"]=22,
 	["corristo-shekzeer"]=10,
@@ -6009,7 +6008,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["crøven-shekzeer"]=2,
 	["crovens-shekzeer"]=4,
 	["crseven-shekzeer"]=2,
-	["crucifiér-norushen"]=12,
+	["crucifiér-norushen"]=9,
 	["cruel-shekzeer"]=6,
 	["crumbled-auberdine"]=24,
 	["crunked-auberdine"]=1,
@@ -6053,7 +6052,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["daddysticks-garalon"]=7,
 	["dadsoldman-shekzeer"]=12,
 	["dadsoldmommy-shekzeer"]=12,
-	["dadynature-shekzeer"]=3,
+	["dadynature-shekzeer"]=32,
 	["dãg-mirage-raceway"]=23,
 	["daggerdjck-shekzeer"]=3,
 	["daggystyle-auberdine"]=26,
@@ -6659,7 +6658,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["getbajs-shekzeer"]=16,
 	["gethorned-garalon"]=3,
 	["gétòst-shekzeer"]=2,
-	["ggiggiggiggi-shekzeer"]=25,
+	["ggiggiggiggi-shekzeer"]=1,
 	["gharajü-auberdine"]=9,
 	["ghst-shekzeer"]=26,
 	["giantzemi-shekzeer"]=1,
@@ -7201,7 +7200,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["juicypusi-everlook"]=34,
 	["juicyverÿ-shekzeer"]=17,
 	["juicyzugzug-everlook"]=8,
-	["jûlês-everlook"]=6,
+	["jûlês-everlook"]=7,
 	["juliká-shekzeer"]=2,
 	["jullas-hoptallus"]=5,
 	["julliboomzxc-shekzeer"]=23,
@@ -8922,7 +8921,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["shieldzz-ook-ook"]=0,
 	["shiftnpew-everlook"]=6,
 	["shiftnrun-everlook"]=4,
-	["shiftshaprr-shekzeer"]=11,
+	["shiftshaprr-shekzeer"]=0,
 	["shiimy-everlook"]=11,
 	["shiimyy-everlook"]=3,
 	["shiloh-ook-ook"]=5,
@@ -9036,7 +9035,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["smyle-norushen"]=4,
 	["snairip-shekzeer"]=21,
 	["snaredog-shekzeer"]=2,
-	["sneijz-shekzeer"]=18,
+	["sneijz-shekzeer"]=1,
 	["sneqq-mirage-raceway"]=5,
 	["snik-shekzeer"]=3,
 	["snillheks-shekzeer"]=21,
