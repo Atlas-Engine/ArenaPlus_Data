@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9347 characters, read 2026-10-31 02:58 AM.
+-- Region tbc-us, 9347 characters, read 2026-10-31 03:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -8019,6 +8019,7 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["thebigpig-nightslayer"]=20,
 	["thebigtime-nightslayer"]=30,
 	["theboop-nightslayer"]=20,
+	["thebrick-nightslayer"]=70,
 	["thecensored-nightslayer"]=20,
 	["thecloserx-nightslayer"]=50,
 	["thedamned-nightslayer"]=101,
@@ -9762,7 +9763,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ballsbankone-nightslayer"]=4,
 	["ballthackus-dreamscythe"]=7,
 	["balmer-nightslayer"]=5,
-	["balmorea-nightslayer"]=1,
+	["balmorea-nightslayer"]=12,
 	["balmutsham-nightslayer"]=19,
 	["balofo-nightslayer"]=11,
 	["baløø-nightslayer"]=3,
@@ -13952,7 +13953,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["linorchid-nightslayer"]=7,
 	["linshift-nightslayer"]=3,
 	["lion-nightslayer"]=5,
-	["lionette-dreamscythe"]=18,
+	["lionette-dreamscythe"]=2,
 	["lipopx-nightslayer"]=8,
 	["liquidbrown-nightslayer"]=2,
 	["liquidlux-dreamscythe"]=1,
@@ -17350,7 +17351,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["thebigpig-nightslayer"]=10,
 	["thebigtime-nightslayer"]=1,
 	["theboop-nightslayer"]=19,
-	["thebrick-nightslayer"]=0,
+	["thebrick-nightslayer"]=4,
 	["thecensored-nightslayer"]=24,
 	["thecloserx-nightslayer"]=5,
 	["thedamned-nightslayer"]=11,
