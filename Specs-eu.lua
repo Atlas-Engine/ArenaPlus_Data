@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5358 characters, read 2026-10-31 03:00 PM.
+-- Region eu, 5358 characters, read 2026-10-31 04:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -655,7 +655,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["býàkùgan-shekzeer"]=11,
 	["byzho-mirage-raceway"]=10,
 	["cabalthewar-everlook"]=10,
-	["cabalx-everlook"]=221,
+	["cabalx-everlook"]=220,
 	["cadiack-auberdine"]=11,
 	["caerys-auberdine"]=41,
 	["cafeine-shekzeer"]=11,
@@ -3064,7 +3064,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["pareja-norushen"]=81,
 	["parkettaszeg-shekzeer"]=41,
 	["pashabiceps-everlook"]=10,
-	["pasnormal-shekzeer"]=41,
+	["pasnormal-shekzeer"]=11,
 	["pasuhi-shekzeer"]=10,
 	["pãt-everlook"]=11,
 	["pät-ook-ook"]=21,
@@ -3750,7 +3750,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["snoopydawgs-everlook"]=11,
 	["snooty-shekzeer"]=11,
 	["snovix-shekzeer"]=31,
-	["snowglobe-garalon"]=10,
+	["snowglobe-garalon"]=11,
 	["snøwy-shekzeer"]=11,
 	["snuglzque-shekzeer"]=40,
 	["snurre-norushen"]=80,
@@ -6742,7 +6742,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["gríselda-shekzeer"]=3,
 	["grizzii-auberdine"]=19,
 	["gromosov-mirage-raceway"]=11,
-	["grona-shekzeer"]=20,
+	["grona-shekzeer"]=4,
 	["grönavesslan-shekzeer"]=11,
 	["grondax-norushen"]=5,
 	["grsy-shekzeer"]=6,
@@ -6958,7 +6958,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["hypertouch-shekzeer"]=1,
 	["hypnodotcum-shekzeer"]=17,
 	["hypnogodz-shekzeer"]=11,
-	["hysel-garalon"]=15,
+	["hysel-garalon"]=5,
 	["hyxro-mirage-raceway"]=9,
 	["iamcurt-mirage-raceway"]=9,
 	["iaminafullcc-shekzeer"]=3,
@@ -7717,7 +7717,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["martinriggs-garalon"]=9,
 	["marwena-shekzeer"]=1,
 	["maryjk-everlook"]=15,
-	["mascaraxoxo-shekzeer"]=4,
+	["mascaraxoxo-shekzeer"]=20,
 	["mashi-shekzeer"]=9,
 	["mashiro-shekzeer"]=1,
 	["mashleman-shekzeer"]=6,
@@ -9047,7 +9047,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["snoopydawgs-everlook"]=17,
 	["snooty-shekzeer"]=5,
 	["snovix-shekzeer"]=13,
-	["snowglobe-garalon"]=12,
+	["snowglobe-garalon"]=9,
 	["snøwy-shekzeer"]=6,
 	["snuglzque-shekzeer"]=21,
 	["snurre-norushen"]=10,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9351 characters, read 2026-10-31 02:58 PM.
+-- Region tbc-us, 9351 characters, read 2026-10-31 03:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10595,7 +10595,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["cheesé-nightslayer"]=8,
 	["cheesecurds-nightslayer"]=17,
 	["cheesedonair-nightslayer"]=5,
-	["cheesepizzâ-nightslayer"]=11,
+	["cheesepizzâ-nightslayer"]=25,
 	["cheesitz-nightslayer"]=7,
 	["cheeskee-dreamscythe"]=16,
 	["cheezitzyum-nightslayer"]=7,
@@ -10605,7 +10605,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["chegorina-nightslayer"]=1,
 	["chegorita-nightslayer"]=12,
 	["cherbz-dreamscythe"]=1,
-	["cheryxx-nightslayer"]=6,
+	["cheryxx-nightslayer"]=4,
 	["cheshirez-nightslayer"]=0,
 	["chestday-nightslayer"]=19,
 	["chewtoy-nightslayer"]=10,
@@ -12247,7 +12247,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["gandiisdruid-nightslayer"]=7,
 	["ganduuf-nightslayer"]=6,
 	["gangwasi-dreamscythe"]=1,
-	["gankboy-nightslayer"]=8,
+	["gankboy-nightslayer"]=5,
 	["gankmasterr-nightslayer"]=5,
 	["garangg-nightslayer"]=19,
 	["garangz-nightslayer"]=19,
@@ -14622,7 +14622,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["moreganna-nightslayer"]=6,
 	["moreperfect-dreamscythe"]=7,
 	["morepower-nightslayer"]=7,
-	["morganfredom-nightslayer"]=9,
+	["morganfredom-nightslayer"]=25,
 	["morgiano-dreamscythe"]=24,
 	["moritwotoe-nightslayer"]=2,
 	["mork-nightslayer"]=18,
