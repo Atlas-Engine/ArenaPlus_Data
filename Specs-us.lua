@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5204 characters, read 2026-10-31 12:59 PM.
+-- Region us, 5204 characters, read 2026-10-31 01:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6254,7 +6254,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["drãkã-nazgrim"]=15,
 	["draknyel-galakras"]=4,
 	["draùnz-pagle"]=4,
-	["drazzuh-pagle"]=17,
+	["drazzuh-pagle"]=5,
 	["drbojackal-pagle"]=9,
 	["drcosby-pagle"]=12,
 	["drcrusher-galakras"]=9,
@@ -8423,7 +8423,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["pagbstabbin-galakras"]=34,
 	["pagledznuts-pagle"]=28,
 	["pahlava-immerseus"]=21,
-	["painbarrier-lei-shen"]=9,
+	["painbarrier-lei-shen"]=13,
 	["painnkillerr-galakras"]=0,
 	["paladiums-pagle"]=2,
 	["paladtty-lei-shen"]=16,
@@ -8770,7 +8770,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["retmainxd-raden"]=18,
 	["rétpáladin-raden"]=2,
 	["retrostance-galakras"]=2,
-	["rettek-raden"]=24,
+	["rettek-raden"]=28,
 	["rettmonk-raden"]=10,
 	["revcole-raden"]=9,
 	["revènge-raden"]=7,
@@ -8922,7 +8922,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["samgee-pagle"]=16,
 	["sammyboyy-pagle"]=2,
 	["sanachikito-pagle"]=9,
-	["sanadora-pagle"]=21,
+	["sanadora-pagle"]=9,
 	["sandbunny-pagle"]=10,
 	["sandore-raden"]=7,
 	["sandosa-pagle"]=10,
@@ -8934,7 +8934,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["saplight-galakras"]=0,
 	["sapoo-pagle"]=14,
 	["sappinturtle-pagle"]=14,
-	["sapstep-immerseus"]=34,
+	["sapstep-immerseus"]=29,
 	["sapyski-galakras"]=0,
 	["sarces-immerseus"]=13,
 	["saregore-raden"]=26,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5354 characters, read 2026-10-31 01:00 PM.
+-- Region eu, 5354 characters, read 2026-10-31 02:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3464,7 +3464,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["rv-shekzeer"]=10,
 	["rx-shekzeer"]=11,
 	["rxsebøy-auberdine"]=11,
-	["rýdøthâðwlx-everlook"]=220,
+	["rýdøthâðwlx-everlook"]=221,
 	["rydothedk-everlook"]=11,
 	["rýdøthègøátx-everlook"]=110,
 	["rydotheholy-everlook"]=11,
@@ -6091,7 +6091,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["darkfang-garalon"]=20,
 	["darkmessiah-garalon"]=31,
 	["darkvâne-mirage-raceway"]=9,
-	["darthvada-shekzeer"]=31,
+	["darthvada-shekzeer"]=8,
 	["daru-shekzeer"]=6,
 	["darumonk-shekzeer"]=6,
 	["davinà-shekzeer"]=0,
@@ -6536,7 +6536,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["fîtze-mirage-raceway"]=25,
 	["fivedruids-shekzeer"]=3,
 	["fizy-garalon"]=7,
-	["fkn-hoptallus"]=24,
+	["fkn-hoptallus"]=26,
 	["fladrif-garalon"]=24,
 	["flaksen-shekzeer"]=15,
 	["flamstrams-norushen"]=23,
@@ -6568,7 +6568,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["fofii-shekzeer"]=9,
 	["fookchoo-garalon"]=6,
 	["foreignagent-garalon"]=22,
-	["foreignágent-garalon"]=17,
+	["foreignágent-garalon"]=23,
 	["foreígnagent-garalon"]=3,
 	["førestgump-garalon"]=14,
 	["formology-auberdine"]=3,
@@ -6620,7 +6620,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["furfang-norushen"]=3,
 	["fusion-garalon"]=21,
 	["fuzionz-garalon"]=2,
-	["fxckitweball-shekzeer"]=7,
+	["fxckitweball-shekzeer"]=29,
 	["fxlibfrjhdsx-shekzeer"]=9,
 	["fyratre-shekzeer"]=12,
 	["fyrk-garalon"]=1,
