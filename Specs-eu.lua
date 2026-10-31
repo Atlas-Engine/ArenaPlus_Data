@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5358 characters, read 2026-10-30 07:00 PM.
+-- Region eu, 5358 characters, read 2026-10-30 08:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1410,7 +1410,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["fortyfivemin-shekzeer"]=41,
 	["founcy-garalon"]=50,
 	["founcy-shekzeer"]=11,
-	["foundation-auberdine"]=10,
+	["foundation-auberdine"]=11,
 	["fournaîse-auberdine"]=11,
 	["foxløl-everlook"]=11,
 	["foxlôlly-everlook"]=11,
@@ -1816,7 +1816,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["indié-everlook"]=11,
 	["indîe-everlook"]=11,
 	["ineedtopoo-shekzeer"]=10,
-	["ineo-shekzeer"]=10,
+	["ineo-shekzeer"]=11,
 	["inertemplier-shekzeer"]=10,
 	["infection-shekzeer"]=10,
 	["infectiøns-auberdine"]=11,
@@ -4477,7 +4477,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["wjagge-shekzeer"]=10,
 	["wmdabuser-shekzeer"]=11,
 	["wmwmwmwmwmw-shekzeer"]=41,
-	["wnky-shekzeer"]=10,
+	["wnky-shekzeer"]=11,
 	["wodclassicwr-shekzeer"]=11,
 	["woippeÿ-shekzeer"]=10,
 	["woippret-shekzeer"]=11,
@@ -5449,7 +5449,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["atheistpally-shekzeer"]=15,
 	["athenahz-shekzeer"]=3,
 	["athoran-everlook"]=2,
-	["atlántis-mirage-raceway"]=8,
+	["atlántis-mirage-raceway"]=33,
 	["atlasx-shekzeer"]=5,
 	["atmobile-shekzeer"]=2,
 	["audioslave-shekzeer"]=16,
@@ -5462,7 +5462,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["autoshotandy-shekzeer"]=0,
 	["autschbatsch-garalon"]=23,
 	["autschbatsch-shekzeer"]=23,
-	["autschi-everlook"]=23,
+	["autschi-everlook"]=17,
 	["auxaron-garalon"]=1,
 	["auxy-garalon"]=2,
 	["aveal-shekzeer"]=3,
@@ -5513,7 +5513,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["babooz-shekzeer"]=11,
 	["babulo-shekzeer"]=11,
 	["baby-shekzeer"]=5,
-	["babylizzy-everlook"]=9,
+	["babylizzy-everlook"]=12,
 	["babyoil-norushen"]=4,
 	["bachna-shekzeer"]=1,
 	["backinbsns-shekzeer"]=1,
@@ -8947,7 +8947,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["shotq-shekzeer"]=4,
 	["shotqu-shekzeer"]=2,
 	["shøxx-ook-ook"]=26,
-	["shoxxyzlol-ook-ook"]=4,
+	["shoxxyzlol-ook-ook"]=14,
 	["shozul-garalon"]=13,
 	["shred-shekzeer"]=6,
 	["shredded-shekzeer"]=5,
@@ -9156,7 +9156,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["stìsho-shekzeer"]=7,
 	["stitchvnr-auberdine"]=33,
 	["stivkuling-shekzeer"]=2,
-	["stjärto-shekzeer"]=26,
+	["stjärto-shekzeer"]=24,
 	["stokssprime-shekzeer"]=14,
 	["stopfear-shekzeer"]=23,
 	["stopsheep-shekzeer"]=2,
