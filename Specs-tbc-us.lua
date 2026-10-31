@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9345 characters, read 2026-10-30 11:58 PM.
+-- Region tbc-us, 9345 characters, read 2026-10-31 12:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9442,7 +9442,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["aluciepriest-dreamscythe"]=1,
 	["alvanz-dreamscythe"]=5,
 	["alwaysgankin-nightslayer"]=5,
-	["alwaystotems-nightslayer"]=19,
+	["alwaystotems-nightslayer"]=10,
 	["alwayzlust-nightslayer"]=10,
 	["alyisham-dreamscythe"]=24,
 	["alyiz-dreamscythe"]=2,
@@ -10706,7 +10706,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["clapjohnson-dreamscythe"]=11,
 	["clapps-nightslayer"]=19,
 	["clarityone-nightslayer"]=22,
-	["claritytwo-nightslayer"]=7,
+	["claritytwo-nightslayer"]=3,
 	["clasix-nightslayer"]=2,
 	["clåssic-nightslayer"]=1,
 	["claudeclone-nightslayer"]=7,
@@ -12865,7 +12865,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["hosemaster-dreamscythe"]=1,
 	["hoshixo-nightslayer"]=12,
 	["hotcakés-nightslayer"]=14,
-	["hotcrushin-dreamscythe"]=7,
+	["hotcrushin-dreamscythe"]=3,
 	["hotdadbodirl-nightslayer"]=12,
 	["hotdogbun-nightslayer"]=10,
 	["hotdognobun-nightslayer"]=16,
@@ -14985,7 +14985,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ntertainment-nightslayer"]=23,
 	["nthmage-dreamscythe"]=4,
 	["nu-dreamscythe"]=10,
-	["nuaz-nightslayer"]=22,
+	["nuaz-nightslayer"]=7,
 	["nubclub-nightslayer"]=18,
 	["nuggz-nightslayer"]=4,
 	["numbald-dreamscythe"]=2,
@@ -15912,7 +15912,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["reszult-nightslayer"]=13,
 	["retaliation-nightslayer"]=2,
 	["retcherx-nightslayer"]=4,
-	["retfury-dreamscythe"]=11,
+	["retfury-dreamscythe"]=25,
 	["retgrim-dreamscythe"]=25,
 	["retiredation-nightslayer"]=4,
 	["retkon-nightslayer"]=11,
@@ -17651,7 +17651,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["tuskmender-nightslayer"]=10,
 	["tutubo-dreamscythe"]=6,
 	["tutuko-dreamscythe"]=5,
-	["tuusk-nightslayer"]=7,
+	["tuusk-nightslayer"]=3,
 	["tuxoss-nightslayer"]=21,
 	["tva-nightslayer"]=3,
 	["twangy-nightslayer"]=5,
