@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9665 characters, read 2026-10-31 01:49 AM.
+-- Region tbc-eu, 9665 characters, read 2026-10-31 02:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12183,7 +12183,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["faki-spineshatter"]=15,
 	["fakkerino-spineshatter"]=2,
 	["falador-spineshatter"]=10,
-	["faladrix-spineshatter"]=14,
+	["faladrix-spineshatter"]=13,
 	["falawfel-spineshatter"]=5,
 	["falcus-spineshatter"]=1,
 	["famemonsterx-spineshatter"]=2,
@@ -14930,7 +14930,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["mogmaxing-spineshatter"]=3,
 	["mogzp-spineshatter"]=2,
 	["mogzs-spineshatter"]=11,
-	["moirain-spineshatter"]=2,
+	["moirain-spineshatter"]=8,
 	["moistxo-spineshatter"]=3,
 	["moistxx-spineshatter"]=3,
 	["mojogee-spineshatter"]=24,
@@ -15780,7 +15780,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["paox-spineshatter"]=1,
 	["papachi-spineshatter"]=2,
 	["papacita-thunderstrike"]=5,
-	["papaszitó-spineshatter"]=8,
+	["papaszitó-spineshatter"]=2,
 	["papatytiks-spineshatter"]=2,
 	["papatytx-spineshatter"]=2,
 	["paperpete-spineshatter"]=10,
@@ -15972,7 +15972,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["pokerdot-spineshatter"]=13,
 	["pokerok-spineshatter"]=8,
 	["pökyli-spineshatter"]=9,
-	["polaky-spineshatter"]=22,
+	["polaky-spineshatter"]=15,
 	["polardina-spineshatter"]=11,
 	["polechydes-spineshatter"]=7,
 	["polemasterxx-spineshatter"]=23,

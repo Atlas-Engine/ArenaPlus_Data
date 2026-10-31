@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5356 characters, read 2026-10-31 02:00 AM.
+-- Region eu, 5357 characters, read 2026-10-31 03:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2459,6 +2459,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["mamamonkx-shekzeer"]=11,
 	["manalow-mirage-raceway"]=101,
 	["mangemagnus-garalon"]=20,
+	["manggix-mirage-raceway"]=250,
 	["mangochulo-shekzeer"]=11,
 	["mangostraf-mirage-raceway"]=20,
 	["mannen-shekzeer"]=10,
@@ -4641,7 +4642,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["zahide-shekzeer"]=11,
 	["zaînà-auberdine"]=41,
 	["zajnerx-mirage-raceway"]=30,
-	["zajo-mirage-raceway"]=80,
+	["zajo-mirage-raceway"]=30,
 	["zaperoni-shekzeer"]=30,
 	["zapoi-auberdine"]=11,
 	["zapshemalio-auberdine"]=111,
@@ -7683,6 +7684,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["mamamonkx-shekzeer"]=6,
 	["manalow-mirage-raceway"]=5,
 	["mangemagnus-garalon"]=4,
+	["manggix-mirage-raceway"]=6,
 	["mangochulo-shekzeer"]=5,
 	["mangostraf-mirage-raceway"]=1,
 	["mannen-shekzeer"]=31,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9347 characters, read 2026-10-31 01:58 AM.
+-- Region tbc-us, 9347 characters, read 2026-10-31 02:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9531,7 +9531,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["Âppie-nightslayer"]=5,
 	["appledust-nightslayer"]=5,
 	["appleturd-nightslayer"]=1,
-	["apríll-nightslayer"]=6,
+	["apríll-nightslayer"]=4,
 	["apsis-nightslayer"]=5,
 	["aquanegus-nightslayer"]=10,
 	["aquapony-dreamscythe"]=3,
@@ -10216,7 +10216,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["boopy-nightslayer"]=15,
 	["booquas-nightslayer"]=6,
 	["boostero-dreamscythe"]=18,
-	["bootii-dreamscythe"]=16,
+	["bootii-dreamscythe"]=13,
 	["bootydrainer-nightslayer"]=23,
 	["bootzphd-nightslayer"]=5,
 	["booxo-nightslayer"]=4,
@@ -10763,7 +10763,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["cocochow-nightslayer"]=7,
 	["cocoplum-nightslayer"]=7,
 	["cocoshift-nightslayer"]=3,
-	["codeforfood-nightslayer"]=1,
+	["codeforfood-nightslayer"]=12,
 	["coerce-nightslayer"]=15,
 	["côffee-nightslayer"]=24,
 	["coffeedisc-nightslayer"]=1,
@@ -10881,7 +10881,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["crazythunder-nightslayer"]=19,
 	["crcrcrcrcrcr-nightslayer"]=12,
 	["cream-nightslayer"]=4,
-	["creamtotes-nightslayer"]=24,
+	["creamtotes-nightslayer"]=10,
 	["creation-nightslayer"]=4,
 	["creationlawl-nightslayer"]=7,
 	["creationw-nightslayer"]=2,
@@ -12268,13 +12268,13 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["gawtchax-nightslayer"]=2,
 	["gaybiman-nightslayer"]=7,
 	["gayonhandz-nightslayer"]=9,
-	["gayve-nightslayer"]=5,
+	["gayve-nightslayer"]=8,
 	["gbox-dreamscythe"]=7,
 	["gcd-nightslayer"]=7,
 	["gde-nightslayer"]=0,
 	["geckonator-nightslayer"]=13,
 	["gecksfiend-nightslayer"]=5,
-	["gedoran-nightslayer"]=1,
+	["gedoran-nightslayer"]=14,
 	["geenox-nightslayer"]=6,
 	["geenoxx-nightslayer"]=6,
 	["geforcee-nightslayer"]=2,
@@ -12297,7 +12297,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["gennys-nightslayer"]=19,
 	["gensai-nightslayer"]=5,
 	["gensaix-nightslayer"]=5,
-	["gentlehealer-dreamscythe"]=7,
+	["gentlehealer-dreamscythe"]=3,
 	["genyuwine-dreamscythe"]=16,
 	["geoffbear-nightslayer"]=3,
 	["geoffepsteen-nightslayer"]=1,
@@ -17625,7 +17625,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["truuth-nightslayer"]=14,
 	["tryactin-nightslayer"]=4,
 	["trytokeepupx-nightslayer"]=20,
-	["tryyard-nightslayer"]=8,
+	["tryyard-nightslayer"]=5,
 	["tscrubdru-nightslayer"]=3,
 	["tsdfq-nightslayer"]=13,
 	["tsgg-nightslayer"]=2,
@@ -17812,7 +17812,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["vandriel-nightslayer"]=2,
 	["vanhoutte-nightslayer"]=2,
 	["vanillajuice-dreamscythe"]=18,
-	["vanishbrb-nightslayer"]=8,
+	["vanishbrb-nightslayer"]=5,
 	["vanishh-nightslayer"]=8,
 	["vanishxoxo-nightslayer"]=14,
 	["vankara-dreamscythe"]=5,
