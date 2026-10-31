@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9665 characters, read 2026-10-31 04:54 AM.
+-- Region tbc-eu, 9665 characters, read 2026-10-31 05:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -14758,7 +14758,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["mertzgodx-spineshatter"]=2,
 	["mesomorph-spineshatter"]=8,
 	["messalinna-spineshatter"]=3,
-	["mestarihippi-spineshatter"]=5,
+	["mestarihippi-spineshatter"]=15,
 	["metabolíc-spineshatter"]=1,
 	["metahslayer-spineshatter"]=7,
 	["metaland-spineshatter"]=12,
@@ -15657,7 +15657,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["orangejeeda-spineshatter"]=6,
 	["orannisha-spineshatter"]=12,
 	["orcabrina-spineshatter"]=11,
-	["orcagent-spineshatter"]=19,
+	["orcagent-spineshatter"]=3,
 	["orchi-spineshatter"]=1,
 	["orcpøwer-spineshatter"]=13,
 	["orcpvp-spineshatter"]=5,
@@ -16439,7 +16439,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["rendi-thunderstrike"]=5,
 	["reneredogig-spineshatter"]=1,
 	["renntech-spineshatter"]=9,
-	["reno-spineshatter"]=2,
+	["reno-spineshatter"]=8,
 	["renovario-thunderstrike"]=11,
 	["rens-spineshatter"]=13,
 	["rensl-spineshatter"]=14,
@@ -18528,7 +18528,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["vincentxd-spineshatter"]=3,
 	["vindieselx-spineshatter"]=5,
 	["vindmax-spineshatter"]=12,
-	["vindzxd-thunderstrike"]=15,
+	["vindzxd-thunderstrike"]=5,
 	["vindzyo-thunderstrike"]=12,
 	["vinijnr-spineshatter"]=5,
 	["vinningshafi-spineshatter"]=3,
