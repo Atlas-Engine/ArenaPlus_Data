@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5355 characters, read 2026-10-31 06:00 PM.
+-- Region eu, 5355 characters, read 2026-10-31 07:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1376,7 +1376,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["fkn-hoptallus"]=11,
 	["fladrif-garalon"]=50,
 	["flaksen-shekzeer"]=60,
-	["flamstrams-norushen"]=50,
+	["flamstrams-norushen"]=51,
 	["flarin-shekzeer"]=41,
 	["flárin-shekzeer"]=41,
 	["flárín-shekzeer"]=41,
@@ -5478,7 +5478,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["ayaya-ook-ook"]=6,
 	["aydan-shekzeer"]=2,
 	["aydedee-garalon"]=20,
-	["ayleena-mirage-raceway"]=7,
+	["ayleena-mirage-raceway"]=6,
 	["ayleenaah-ook-ook"]=31,
 	["ayleenah-mirage-raceway"]=3,
 	["ayloupipi-shekzeer"]=2,
@@ -5638,7 +5638,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bilbobaggins-shekzeer"]=16,
 	["bínal-shekzeer"]=15,
 	["bingle-everlook"]=6,
-	["bingopower-hoptallus"]=18,
+	["bingopower-hoptallus"]=1,
 	["bitcow-gehennas"]=0,
 	["bizo-shekzeer"]=33,
 	["bjork-everlook"]=1,
@@ -5769,7 +5769,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bulotmayo-auberdine"]=7,
 	["bumbelbé-shekzeer"]=14,
 	["bumbelbeé-shekzeer"]=14,
-	["bumbelgnome-shekzeer"]=29,
+	["bumbelgnome-shekzeer"]=7,
 	["bumbelmonk-garalon"]=29,
 	["bumbelorc-garalon"]=29,
 	["bumbelwar-shekzeer"]=25,
