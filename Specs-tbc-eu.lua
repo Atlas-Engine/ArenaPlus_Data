@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9665 characters, read 2026-10-31 03:59 AM.
+-- Region tbc-eu, 9665 characters, read 2026-10-31 04:54 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10311,7 +10311,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["bellø-spineshatter"]=3,
 	["belshazzaar-spineshatter"]=23,
 	["bemaw-thunderstrike"]=24,
-	["benchwarmer-spineshatter"]=24,
+	["benchwarmer-spineshatter"]=25,
 	["bené-spineshatter"]=9,
 	["benedicthicc-thunderstrike"]=2,
 	["bennybrumago-spineshatter"]=9,
@@ -11614,7 +11614,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["donchinjao-thunderstrike"]=2,
 	["dönderdöris-spineshatter"]=12,
 	["doneyxd-thunderstrike"]=3,
-	["donfranko-thunderstrike"]=15,
+	["donfranko-thunderstrike"]=5,
 	["donjovi-spineshatter"]=11,
 	["donkarnagé-spineshatter"]=11,
 	["donkarnáge-spineshatter"]=11,
@@ -15657,7 +15657,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["orangejeeda-spineshatter"]=6,
 	["orannisha-spineshatter"]=12,
 	["orcabrina-spineshatter"]=11,
-	["orcagent-spineshatter"]=3,
+	["orcagent-spineshatter"]=19,
 	["orchi-spineshatter"]=1,
 	["orcpøwer-spineshatter"]=13,
 	["orcpvp-spineshatter"]=5,
@@ -17487,8 +17487,8 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["sråñjë-spineshatter"]=13,
 	["srbiin-spineshatter"]=5,
 	["srbongabonga-spineshatter"]=5,
-	["srenix-spineshatter"]=9,
-	["srox-spineshatter"]=15,
+	["srenix-spineshatter"]=4,
+	["srox-spineshatter"]=5,
 	["srpack-spineshatter"]=12,
 	["srpy-spineshatter"]=15,
 	["srsturbo-spineshatter"]=1,
