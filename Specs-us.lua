@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5210 characters, read 2026-11-01 03:54 PM.
+-- Region us, 5210 characters, read 2026-11-01 04:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5621,13 +5621,13 @@ ns.SPECS_BY_REGION["us"] = {
 	["brandopanda-galakras"]=10,
 	["brazzeal-pagle"]=16,
 	["brbcloning-pagle"]=17,
-	["brbsheeping-pagle"]=1,
+	["brbsheeping-pagle"]=11,
 	["breewdable-pagle"]=10,
 	["brewish-raden"]=4,
 	["brewsleè-raden"]=27,
 	["brewtãlity-pagle"]=27,
 	["brisgerzap-immerseus"]=22,
-	["brnzlolo-nazgrim"]=32,
+	["brnzlolo-nazgrim"]=16,
 	["brocodex-raden"]=0,
 	["brojax-pagle"]=30,
 	["broleebro-raden"]=15,
@@ -5713,7 +5713,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["candity-arugal-au"]=18,
 	["candykanes-pagle"]=28,
 	["canera-galakras"]=10,
-	["canible-raden"]=1,
+	["canible-raden"]=31,
 	["cannabimorph-pagle"]=5,
 	["cannibirilla-pagle"]=7,
 	["cantgetmeoff-pagle"]=30,
@@ -7008,7 +7008,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["hibashiba-galakras"]=20,
 	["hickery-arugal-au"]=14,
 	["hideandhunt-galakras"]=20,
-	["hifukface-raden"]=5,
+	["hifukface-raden"]=12,
 	["hifvckface-raden"]=10,
 	["hîghc-galakras"]=17,
 	["highchi-raden"]=0,
@@ -9631,7 +9631,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["tigrexwp-raden"]=9,
 	["tikky-raden"]=17,
 	["tilted-galakras"]=7,
-	["tiltedx-galakras"]=25,
+	["tiltedx-galakras"]=6,
 	["tindrx-raden"]=14,
 	["tinysmalldk-raden"]=6,
 	["titanofdeath-galakras"]=6,
@@ -10144,7 +10144,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["yuriyumi-raden"]=17,
 	["yuthinasia-galakras"]=16,
 	["yuvish-lei-shen"]=26,
-	["yves-pagle"]=11,
+	["yves-pagle"]=1,
 	["yvlxd-pagle"]=28,
 	["yxyxyxyxyxyx-pagle"]=16,
 	["yyz-raden"]=1,

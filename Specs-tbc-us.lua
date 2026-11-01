@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9359 characters, read 2026-11-01 03:58 PM.
+-- Region tbc-us, 9359 characters, read 2026-11-01 04:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10672,7 +10672,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["christofferr-dreamscythe"]=10,
 	["christofferr-nightslayer"]=10,
 	["chriswl-nightslayer"]=2,
-	["chrisypissy-nightslayer"]=4,
+	["chrisypissy-nightslayer"]=6,
 	["chromattic-nightslayer"]=4,
 	["chronlyy-dreamscythe"]=1,
 	["chtibyxes-nightslayer"]=11,
@@ -12075,7 +12075,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["flexbringer-dreamscythe"]=11,
 	["flexcash-nightslayer"]=13,
 	["flexcraft-dreamscythe"]=6,
-	["flexdaddy-nightslayer"]=19,
+	["flexdaddy-nightslayer"]=10,
 	["flexecutetv-nightslayer"]=18,
 	["flexecutexo-nightslayer"]=2,
 	["flexhance-nightslayer"]=19,
@@ -13782,7 +13782,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["lacosanostra-nightslayer"]=1,
 	["laerbeef-nightslayer"]=7,
 	["laerix-nightslayer"]=17,
-	["lafauwndah-nightslayer"]=24,
+	["lafauwndah-nightslayer"]=10,
 	["lagbuster-dreamscythe"]=18,
 	["lagoland-dreamscythe"]=7,
 	["lahefa-nightslayer"]=1,
@@ -18019,7 +18019,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["walalace-dreamscythe"]=7,
 	["waldo-nightslayer"]=8,
 	["walf-nightslayer"]=5,
-	["walkendead-nightslayer"]=4,
+	["walkendead-nightslayer"]=6,
 	["walkindead-nightslayer"]=13,
 	["walla-nightslayer"]=18,
 	["wallasmol-nightslayer"]=2,
