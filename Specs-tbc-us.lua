@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9358 characters, read 2026-11-01 08:58 AM.
+-- Region tbc-us, 9358 characters, read 2026-11-01 09:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10989,7 +10989,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["cxzz-nightslayer"]=2,
 	["cyaidiot-nightslayer"]=13,
 	["cybee-dreamscythe"]=7,
-	["cybéle-nightslayer"]=12,
+	["cybéle-nightslayer"]=1,
 	["cyberbeastz-nightslayer"]=3,
 	["cyberchud-nightslayer"]=3,
 	["cyberpurge-nightslayer"]=19,
@@ -12461,7 +12461,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["gonzab-nightslayer"]=4,
 	["gonzoh-nightslayer"]=14,
 	["gooberjones-nightslayer"]=13,
-	["goochey-nightslayer"]=11,
+	["goochey-nightslayer"]=25,
 	["goochsniff-nightslayer"]=3,
 	["goofygooberx-nightslayer"]=19,
 	["goombastompa-nightslayer"]=11,
@@ -14111,7 +14111,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["luna-nightslayer"]=3,
 	["lúnâ-nightslayer"]=1,
 	["lunarbug-nightslayer"]=7,
-	["lunareste-nightslayer"]=5,
+	["lunareste-nightslayer"]=8,
 	["lunytoon-nightslayer"]=1,
 	["lunyx-nightslayer"]=1,
 	["lunyxd-nightslayer"]=7,
@@ -14495,7 +14495,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["minimartha-nightslayer"]=1,
 	["minískirt-nightslayer"]=7,
 	["minitelanna-nightslayer"]=2,
-	["minixboy-nightslayer"]=15,
+	["minixboy-nightslayer"]=21,
 	["minmi-nightslayer"]=21,
 	["mintchocoice-nightslayer"]=5,
 	["minutz-nightslayer"]=1,
@@ -14737,7 +14737,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["nalmuk-nightslayer"]=1,
 	["naloe-nightslayer"]=7,
 	["nameitis-dreamscythe"]=10,
-	["namkijun-nightslayer"]=5,
+	["namkijun-nightslayer"]=8,
 	["nanaimo-nightslayer"]=11,
 	["nandazar-dreamscythe"]=18,
 	["nanersxd-nightslayer"]=23,
@@ -15928,7 +15928,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["restokind-nightslayer"]=7,
 	["restotech-nightslayer"]=7,
 	["resubaru-nightslayer"]=19,
-	["resurged-nightslayer"]=18,
+	["resurged-nightslayer"]=2,
 	["reszult-nightslayer"]=13,
 	["retaliation-nightslayer"]=2,
 	["retcherx-nightslayer"]=4,
