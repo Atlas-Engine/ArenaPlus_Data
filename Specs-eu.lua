@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5355 characters, read 2026-10-31 07:00 PM.
+-- Region eu, 5355 characters, read 2026-10-31 08:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2933,7 +2933,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["nugo-everlook"]=11,
 	["nuketony-shekzeer"]=11,
 	["nukuportlol-hoptallus"]=11,
-	["numanuxna-shekzeer"]=10,
+	["numanuxna-shekzeer"]=11,
 	["nuper-everlook"]=40,
 	["nurbs-auberdine"]=11,
 	["nvotix-garalon"]=50,
@@ -5542,7 +5542,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bakasurge-shekzeer"]=11,
 	["bakatrap-shekzeer"]=4,
 	["bakomba-shekzeer"]=4,
-	["bakurau-mirage-raceway"]=14,
+	["bakurau-mirage-raceway"]=20,
 	["balanced-shekzeer"]=3,
 	["ballawatsch-shekzeer"]=6,
 	["ballbusting-shekzeer"]=24,
@@ -9004,7 +9004,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["slamgirl-everlook"]=1,
 	["slåpåtæven-mirage-raceway"]=8,
 	["slapskidogx-garalon"]=10,
-	["slavinor-garalon"]=22,
+	["slavinor-garalon"]=9,
 	["slemheks-shekzeer"]=23,
 	["slîcklol-shekzeer"]=7,
 	["slimmyboi-norushen"]=20,
@@ -9151,7 +9151,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["stìsho-shekzeer"]=7,
 	["stitchvnr-auberdine"]=33,
 	["stivkuling-shekzeer"]=2,
-	["stjärto-shekzeer"]=24,
+	["stjärto-shekzeer"]=26,
 	["stopfear-shekzeer"]=23,
 	["stopsheep-shekzeer"]=2,
 	["stopthismage-shekzeer"]=2,
@@ -9339,7 +9339,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["theicer-garalon"]=2,
 	["theisón-everlook"]=15,
 	["thelorde-shekzeer"]=15,
-	["themachiner-shekzeer"]=25,
+	["themachiner-shekzeer"]=1,
 	["themalinman-auberdine"]=1,
 	["thematsie-shekzeer"]=4,
 	["thepríest-mirage-raceway"]=6,
@@ -9434,7 +9434,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["toxicelitist-shekzeer"]=9,
 	["toxicfuz-garalon"]=6,
 	["toxiqkid-shekzeer"]=1,
-	["tpriestlx-shekzeer"]=9,
+	["tpriestlx-shekzeer"]=12,
 	["trachea-shekzeer"]=6,
 	["tracye-shekzeer"]=9,
 	["trafålguy-garalon"]=6,
