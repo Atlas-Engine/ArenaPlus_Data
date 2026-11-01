@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5206 characters, read 2026-11-01 09:59 AM.
+-- Region us, 5206 characters, read 2026-11-01 10:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3172,7 +3172,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["noturtype-pagle"]=41,
 	["novä-lei-shen"]=11,
 	["novalight-arugal-au"]=11,
-	["nøved-pagle"]=100,
+	["nøved-pagle"]=101,
 	["novokaine-immerseus"]=80,
 	["nøx-pagle"]=11,
 	["nrash-raden"]=11,
@@ -6555,7 +6555,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["feråltyger-pagle"]=0,
 	["fernandes-nazgrim"]=16,
 	["fernandita-galakras"]=21,
-	["fhisiod-raden"]=5,
+	["fhisiod-raden"]=17,
 	["fhiziod-raden"]=17,
 	["fhiziom-raden"]=4,
 	["fhizios-raden"]=15,
@@ -6593,7 +6593,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["flashoflight-raden"]=16,
 	["flato-raden"]=18,
 	["flatsixx-pagle"]=11,
-	["flává-raden"]=7,
+	["flává-raden"]=23,
 	["flayzlock-raden"]=24,
 	["flayzr-raden"]=14,
 	["flexi-pagle"]=10,
