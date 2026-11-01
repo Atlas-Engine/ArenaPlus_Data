@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9356 characters, read 2026-11-01 01:58 PM.
+-- Region tbc-us, 9356 characters, read 2026-11-01 02:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -13421,7 +13421,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["juheard-nightslayer"]=5,
 	["juicejuice-dreamscythe"]=22,
 	["juicetime-nightslayer"]=10,
-	["juiceydots-nightslayer"]=13,
+	["juiceydots-nightslayer"]=16,
 	["juicyjer-dreamscythe"]=7,
 	["jujitsujimmy-nightslayer"]=5,
 	["jukedlawl-nightslayer"]=1,
@@ -16121,7 +16121,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["rubyz-nightslayer"]=26,
 	["ruckle-dreamscythe"]=10,
 	["rudager-nightslayer"]=3,
-	["ruiñ-nightslayer"]=13,
+	["ruiñ-nightslayer"]=16,
 	["ruixiao-nightslayer"]=2,
 	["rukaz-nightslayer"]=2,
 	["rukin-nightslayer"]=7,
@@ -17408,7 +17408,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["thiccweena-nightslayer"]=10,
 	["thiccyx-nightslayer"]=7,
 	["thickette-nightslayer"]=5,
-	["thickskeet-dreamscythe"]=1,
+	["thickskeet-dreamscythe"]=14,
 	["thighgápy-nightslayer"]=12,
 	["thighslápper-nightslayer"]=15,
 	["thimblebery-dreamscythe"]=11,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5364 characters, read 2026-11-01 02:00 PM.
+-- Region eu, 5364 characters, read 2026-11-01 03:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1877,7 +1877,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["jackarrowx-mirage-raceway"]=11,
 	["jackiepain-shekzeer"]=11,
 	["jackrâgeùx-garalon"]=60,
-	["jackson-ook-ook"]=20,
+	["jackson-ook-ook"]=21,
 	["jackynko-hoptallus"]=11,
 	["jäckynko-hoptallus"]=11,
 	["jäckynkô-hoptallus"]=11,
@@ -6616,7 +6616,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["frodin-shekzeer"]=19,
 	["froheostern-shekzeer"]=9,
 	["frøøst-shekzeer"]=2,
-	["frøtzen-auberdine"]=10,
+	["frøtzen-auberdine"]=2,
 	["froxman-norushen"]=18,
 	["frozche-shekzeer"]=6,
 	["frufreia-shekzeer"]=21,
@@ -7462,7 +7462,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["laotzue-shekzeer"]=3,
 	["laperica-mirage-raceway"]=11,
 	["larcy-shekzeer"]=9,
-	["lastà-everlook"]=15,
+	["lastà-everlook"]=5,
 	["laudy-shekzeer"]=0,
 	["laudya-shekzeer"]=7,
 	["laudyx-shekzeer"]=11,
@@ -8969,7 +8969,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["sickblink-shekzeer"]=2,
 	["sicktwo-shekzeer"]=2,
 	["sidned-shekzeer"]=1,
-	["siedov-norushen"]=11,
+	["siedov-norushen"]=32,
 	["siènna-shekzeer"]=2,
 	["sigmaboyx-auberdine"]=1,
 	["signae-shekzeer"]=15,
@@ -9922,7 +9922,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["xulthiar-everlook"]=12,
 	["xulthior-everlook"]=2,
 	["xuone-hoptallus"]=25,
-	["xxcutejablol-shekzeer"]=7,
+	["xxcutejablol-shekzeer"]=29,
 	["xyána-everlook"]=9,
 	["xyraine-norushen"]=12,
 	["yaacov-auberdine"]=21,
@@ -10298,7 +10298,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Ккбб-flamegor"]=6,
 	["Клинокпепла-flamegor"]=0,
 	["Книфка-flamegor"]=1,
-	["Колмакк-flamegor"]=20,
+	["Колмакк-flamegor"]=4,
 	["Коррелятсна-flamegor"]=4,
 	["Коэволюция-flamegor"]=0,
 	["Крайзимолот-flamegor"]=15,
