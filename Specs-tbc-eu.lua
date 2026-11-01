@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9647 characters, read 2026-11-01 01:59 AM.
+-- Region tbc-eu, 9647 characters, read 2026-11-01 02:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11316,7 +11316,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["deâdeye-spineshatter"]=11,
 	["deadgcd-spineshatter"]=9,
 	["deadgi-spineshatter"]=17,
-	["deadlol-spineshatter"]=3,
+	["deadlol-spineshatter"]=19,
 	["deadlycut-spineshatter"]=3,
 	["deadlydotter-spineshatter"]=13,
 	["deadlytebi-thunderstrike"]=11,
@@ -12596,7 +12596,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["gillun-spineshatter"]=2,
 	["gimlienjoyer-spineshatter"]=10,
 	["ginetc-spineshatter"]=8,
-	["gingerdog-spineshatter"]=2,
+	["gingerdog-spineshatter"]=17,
 	["gingrid-spineshatter"]=8,
 	["gings-spineshatter"]=3,
 	["ginkobiloaba-spineshatter"]=2,
@@ -13305,7 +13305,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["Íspøvéð-spineshatter"]=2,
 	["isputs-spineshatter"]=1,
 	["isputsftw-spineshatter"]=13,
-	["israhxz-spineshatter"]=2,
+	["israhxz-spineshatter"]=17,
 	["isydor-spineshatter"]=25,
 	["isyllia-spineshatter"]=2,
 	["isymilk-spineshatter"]=1,
