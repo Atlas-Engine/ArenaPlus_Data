@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5359 characters, read 2026-11-01 11:00 AM.
+-- Region eu, 5359 characters, read 2026-11-01 12:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1360,7 +1360,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["fillez-shekzeer"]=11,
 	["filthyfresh-shekzeer"]=11,
 	["finbekluz-shekzeer"]=11,
-	["finö-shekzeer"]=11,
 	["finq-mirage-raceway"]=80,
 	["finsh-shekzeer"]=11,
 	["fionicelli-shekzeer"]=11,
@@ -6528,7 +6527,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["filmarisa-shekzeer"]=0,
 	["filthyfresh-shekzeer"]=12,
 	["finbekluz-shekzeer"]=2,
-	["finö-shekzeer"]=2,
+	["finö-shekzeer"]=0,
 	["finq-mirage-raceway"]=17,
 	["finsh-shekzeer"]=26,
 	["fionicelli-shekzeer"]=6,
@@ -8752,7 +8751,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["rydotheholy-everlook"]=9,
 	["rydothemage-everlook"]=2,
 	["rydothemonk-everlook"]=7,
-	["rydotheret-everlook"]=5,
+	["rydotheret-everlook"]=15,
 	["rydotheroq-everlook"]=24,
 	["rydothetrap-everlook"]=20,
 	["rydothetwink-everlook"]=7,

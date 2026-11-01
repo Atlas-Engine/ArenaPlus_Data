@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9641 characters, read 2026-11-01 10:59 AM.
+-- Region tbc-eu, 9641 characters, read 2026-11-01 11:54 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10657,7 +10657,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["builtforsin-spineshatter"]=2,
 	["bukiw-spineshatter"]=15,
 	["bulbasaur-spineshatter"]=5,
-	["buldozas-spineshatter"]=5,
+	["buldozas-spineshatter"]=15,
 	["bulldozar-spineshatter"]=15,
 	["bullminator-thunderstrike"]=5,
 	["bulltap-spineshatter"]=4,
@@ -10736,7 +10736,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["Çapic-thunderstrike"]=25,
 	["capmay-spineshatter"]=5,
 	["cåpø-spineshatter"]=8,
-	["cappadonna-spineshatter"]=2,
+	["cappadonna-spineshatter"]=17,
 	["cappuccino-spineshatter"]=15,
 	["captnx-spineshatter"]=7,
 	["carakal-spineshatter"]=18,
@@ -11069,7 +11069,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["cptnjack-spineshatter"]=2,
 	["cptnpickle-spineshatter"]=3,
 	["craabzx-spineshatter"]=3,
-	["crabbexx-spineshatter"]=18,
+	["crabbexx-spineshatter"]=13,
 	["crabride-spineshatter"]=22,
 	["crabzx-spineshatter"]=3,
 	["crabzxtrapzx-spineshatter"]=24,
@@ -13066,7 +13066,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["hvnx-spineshatter"]=17,
 	["hxck-spineshatter"]=3,
 	["hxtr-spineshatter"]=2,
-	["hÿ-spineshatter"]=9,
+	["hÿ-spineshatter"]=4,
 	["hybridd-spineshatter"]=23,
 	["hydê-spineshatter"]=5,
 	["hydr-spineshatter"]=2,
@@ -15981,7 +15981,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["postmaclone-spineshatter"]=1,
 	["postmalone-spineshatter"]=17,
 	["posty-spineshatter"]=9,
-	["potaru-thunderstrike"]=4,
+	["potaru-thunderstrike"]=9,
 	["potshot-spineshatter"]=24,
 	["potso-thunderstrike"]=1,
 	["poutsa-spineshatter"]=9,
@@ -16448,7 +16448,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["rewìde-spineshatter"]=7,
 	["reykar-spineshatter"]=6,
 	["reyleen-spineshatter"]=5,
-	["rezog-spineshatter"]=23,
+	["rezog-spineshatter"]=11,
 	["rezogo-spineshatter"]=3,
 	["rgblast-spineshatter"]=3,
 	["rgqt-thunderstrike"]=22,

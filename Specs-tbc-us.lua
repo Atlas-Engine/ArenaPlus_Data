@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9358 characters, read 2026-11-01 10:58 AM.
+-- Region tbc-us, 9358 characters, read 2026-11-01 11:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4763,6 +4763,7 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["lowlifexo-nightslayer"]=50,
 	["lowlux-nightslayer"]=21,
 	["lowx-nightslayer"]=21,
+	["loyalsnake-nightslayer"]=50,
 	["lpkoji-nightslayer"]=11,
 	["lrizz-nightslayer"]=30,
 	["lsdreamz-nightslayer"]=51,
@@ -10920,7 +10921,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["crispyrat-nightslayer"]=24,
 	["cristianfeor-nightslayer"]=21,
 	["cristíanfeor-nightslayer"]=17,
-	["critaz-dreamscythe"]=18,
+	["critaz-dreamscythe"]=2,
 	["critonmyback-nightslayer"]=18,
 	["critrip-nightslayer"]=15,
 	["critsomuch-nightslayer"]=3,
@@ -13241,7 +13242,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["jarzz-nightslayer"]=5,
 	["jasni-nightslayer"]=5,
 	["jassylb-nightslayer"]=3,
-	["jaszper-nightslayer"]=11,
+	["jaszper-nightslayer"]=25,
 	["jattdruid-nightslayer"]=3,
 	["jattisha-nightslayer"]=13,
 	["javlotdglace-nightslayer"]=4,
@@ -13884,7 +13885,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["leuut-nightslayer"]=6,
 	["levimis-nightslayer"]=2,
 	["levimisu-nightslayer"]=18,
-	["lexik-nightslayer"]=2,
+	["lexik-nightslayer"]=18,
 	["lexiwilliams-dreamscythe"]=1,
 	["lexys-dreamscythe"]=2,
 	["leyben-nightslayer"]=4,
@@ -14068,7 +14069,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["lowlifexo-nightslayer"]=5,
 	["lowlux-nightslayer"]=2,
 	["lowx-nightslayer"]=2,
-	["loyalsnake-nightslayer"]=0,
+	["loyalsnake-nightslayer"]=14,
 	["lpkoji-nightslayer"]=5,
 	["lrizz-nightslayer"]=2,
 	["lsdreamz-nightslayer"]=1,
