@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9647 characters, read 2026-11-01 03:59 AM.
+-- Region tbc-eu, 9647 characters, read 2026-11-01 04:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10993,7 +10993,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["cocojambô-spineshatter"]=9,
 	["codebrown-spineshatter"]=15,
 	["coffebreak-spineshatter"]=14,
-	["coffeecup-spineshatter"]=17,
+	["coffeecup-spineshatter"]=2,
 	["cogblocker-spineshatter"]=5,
 	["coggers-spineshatter"]=17,
 	["cøhle-thunderstrike"]=13,
@@ -15978,7 +15978,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["popshaman-spineshatter"]=23,
 	["popzy-spineshatter"]=17,
 	["pørksláyer-spineshatter"]=3,
-	["pornello-spineshatter"]=2,
+	["pornello-spineshatter"]=17,
 	["poroseenok-spineshatter"]=5,
 	["pørtoss-thunderstrike"]=5,
 	["pøsipaka-spineshatter"]=3,
@@ -17802,7 +17802,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["tartiflettes-spineshatter"]=12,
 	["tasdmerd-spineshatter"]=3,
 	["tastykrousty-spineshatter"]=5,
-	["tatabrox-spineshatter"]=1,
+	["tatabrox-spineshatter"]=6,
 	["tatlos-spineshatter"]=9,
 	["tatøh-spineshatter"]=8,
 	["tatta-spineshatter"]=3,

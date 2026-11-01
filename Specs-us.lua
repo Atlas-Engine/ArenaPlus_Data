@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5205 characters, read 2026-11-01 03:59 AM.
+-- Region us, 5205 characters, read 2026-11-01 04:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7204,7 +7204,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["infrared-pagle"]=5,
 	["infurryator-raden"]=12,
 	["injury-pagle"]=7,
-	["inkárri-arugal-au"]=4,
+	["inkárri-arugal-au"]=10,
 	["inmortalwar-raden"]=7,
 	["innoofirgize-raden"]=5,
 	["inorie-raden"]=4,
@@ -7692,7 +7692,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["linktrol-pagle"]=18,
 	["linnker-pagle"]=9,
 	["lionner-lei-shen"]=10,
-	["liopleurodon-nazgrim"]=13,
+	["liopleurodon-nazgrim"]=9,
 	["liorindei-raden"]=33,
 	["liquidated-pagle"]=1,
 	["lìt-pagle"]=7,
@@ -7706,7 +7706,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["littletinkle-galakras"]=2,
 	["littman-raden"]=29,
 	["litwhit-lei-shen"]=16,
-	["litze-raden"]=16,
+	["litze-raden"]=32,
 	["liusu-pagle"]=5,
 	["liveforeverr-pagle"]=5,
 	["liverr-galakras"]=14,
@@ -7746,7 +7746,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["loserbeam-pagle"]=17,
 	["lothmar-pagle"]=24,
 	["lôukî-pagle"]=7,
-	["lovezone-lei-shen"]=2,
+	["lovezone-lei-shen"]=16,
 	["loxanna-raden"]=20,
 	["lsx-raden"]=9,
 	["lubos-pagle"]=7,
@@ -7754,7 +7754,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["lucítà-raden"]=2,
 	["ludere-pagle"]=2,
 	["luhve-pagle"]=9,
-	["luigy-pagle"]=15,
+	["luigy-pagle"]=22,
 	["lukangaruko-pagle"]=7,
 	["lukehunts-nazgrim"]=3,
 	["lukesmash-raden"]=7,
@@ -7764,7 +7764,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["lumantho-pagle"]=7,
 	["lumanwarx-pagle"]=7,
 	["lumapal-pagle"]=16,
-	["luminarìa-pagle"]=16,
+	["luminarìa-pagle"]=2,
 	["lumineth-pagle"]=9,
 	["lunarlass-pagle"]=0,
 	["lunchmeat-nazgrim"]=0,
@@ -9729,7 +9729,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["tsukawashime-raden"]=4,
 	["tsunadè-nazgrim"]=9,
 	["ttawdirg-pagle"]=3,
-	["tubalcain-galakras"]=19,
+	["tubalcain-galakras"]=15,
 	["tucosita-pagle"]=14,
 	["turaoferao-raden"]=5,
 	["turbantime-pagle"]=4,
