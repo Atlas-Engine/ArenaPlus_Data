@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9358 characters, read 2026-11-01 05:58 AM.
+-- Region tbc-us, 9358 characters, read 2026-11-01 06:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9381,7 +9381,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["aikoditos-nightslayer"]=1,
 	["aikun-dreamscythe"]=18,
 	["aimzatchu-nightslayer"]=7,
-	["aipiaciaehya-nightslayer"]=20,
+	["aipiaciaehya-nightslayer"]=2,
 	["airpodsv-nightslayer"]=2,
 	["aitri-nightslayer"]=19,
 	["ajaxpk-nightslayer"]=5,
@@ -10860,7 +10860,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["couchman-dreamscythe"]=5,
 	["cøurage-nightslayer"]=0,
 	["cousineddiy-dreamscythe"]=7,
-	["covenant-nightslayer"]=5,
+	["covenant-nightslayer"]=8,
 	["cowasaurus-nightslayer"]=19,
 	["cowfurion-nightslayer"]=22,
 	["cowlbi-nightslayer"]=3,
@@ -11405,7 +11405,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["dorami-nightslayer"]=1,
 	["dorckness-nightslayer"]=10,
 	["dordle-nightslayer"]=1,
-	["doriss-dreamscythe"]=12,
+	["doriss-dreamscythe"]=1,
 	["dorothia-nightslayer"]=14,
 	["dosticlol-nightslayer"]=6,
 	["dotdamstevie-dreamscythe"]=13,
@@ -11440,7 +11440,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["Ðracø-nightslayer"]=1,
 	["dracosa-dreamscythe"]=4,
 	["draegrom-dreamscythe"]=24,
-	["draenosh-nightslayer"]=2,
+	["draenosh-nightslayer"]=18,
 	["dragonballx-nightslayer"]=5,
 	["dragonik-nightslayer"]=4,
 	["dragonlord-dreamscythe"]=1,

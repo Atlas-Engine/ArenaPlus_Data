@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5359 characters, read 2026-11-01 06:00 AM.
+-- Region eu, 5359 characters, read 2026-11-01 07:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6124,7 +6124,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["deathspark-mirage-raceway"]=33,
 	["deathwarr-shekzeer"]=1,
 	["deathwàrs-auberdine"]=1,
-	["decader-norushen"]=26,
+	["decader-norushen"]=24,
 	["deepfreezee-shekzeer"]=2,
 	["deepfull-shekzeer"]=2,
 	["deepoxy-shekzeer"]=6,
@@ -7460,7 +7460,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["laotzue-shekzeer"]=3,
 	["laperica-mirage-raceway"]=11,
 	["larcy-shekzeer"]=9,
-	["lastà-everlook"]=5,
+	["lastà-everlook"]=15,
 	["laudy-shekzeer"]=2,
 	["laudya-shekzeer"]=7,
 	["laudyx-shekzeer"]=11,
@@ -8366,7 +8366,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["peregrinuss-shekzeer"]=1,
 	["pereza-shekzeer"]=1,
 	["perkalator-garalon"]=26,
-	["perrí-shekzeer"]=16,
+	["perrí-shekzeer"]=13,
 	["perrun-mirage-raceway"]=13,
 	["perryprecog-shekzeer"]=5,
 	["pêrsa-everlook"]=5,
@@ -9727,7 +9727,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["warning-shekzeer"]=1,
 	["warox-shekzeer"]=1,
 	["warrdooms-firemaw"]=1,
-	["wãrrior-shekzeer"]=17,
+	["wãrrior-shekzeer"]=23,
 	["warriormove-ook-ook"]=1,
 	["warriormove-shekzeer"]=1,
 	["warrudin-garalon"]=1,
@@ -9868,7 +9868,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["xave-shekzeer"]=9,
 	["xaviéduponts-auberdine"]=1,
 	["xaxaxaxaxa-shekzeer"]=11,
-	["xâxâxâxâxâxâ-shekzeer"]=17,
+	["xâxâxâxâxâxâ-shekzeer"]=23,
 	["xddðð-shekzeer"]=11,
 	["xdkale-shekzeer"]=31,
 	["xdww-shekzeer"]=7,
