@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5364 characters, read 2026-11-01 03:00 PM.
+-- Region eu, 5364 characters, read 2026-11-01 04:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3633,6 +3633,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["shhmmye-mirage-raceway"]=41,
 	["shiftnpew-everlook"]=11,
 	["shiftnrun-everlook"]=10,
+	["shiftshaprr-shekzeer"]=81,
 	["shiimy-everlook"]=81,
 	["shiimyy-everlook"]=41,
 	["shiloh-ook-ook"]=101,
@@ -4187,7 +4188,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["turbobär-everlook"]=250,
 	["turboferal-shekzeer"]=41,
 	["turboladd-shekzeer"]=10,
-	["turbotime-mirage-raceway"]=11,
+	["turbotime-mirage-raceway"]=10,
 	["turkiss-garalon"]=80,
 	["turles-shekzeer"]=10,
 	["turnipfarmer-shekzeer"]=11,
@@ -4195,7 +4196,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["tusneldah-everlook"]=111,
 	["tutentotem-mirage-raceway"]=110,
 	["twanti-hoptallus"]=111,
-	["twarlx-shekzeer"]=10,
+	["twarlx-shekzeer"]=11,
 	["twentyøne-shekzeer"]=11,
 	["twentythirty-shekzeer"]=10,
 	["twodeeps-shekzeer"]=10,
@@ -5972,7 +5973,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["combux-shekzeer"]=2,
 	["comète-shekzeer"]=3,
 	["commandor-garalon"]=15,
-	["commitment-shekzeer"]=5,
+	["commitment-shekzeer"]=15,
 	["compak-everlook"]=26,
 	["compey-everlook"]=33,
 	["comtelucius-auberdine"]=0,
@@ -8073,7 +8074,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["nexz-everlook"]=0,
 	["neylifive-shekzeer"]=4,
 	["neyrowly-everlook"]=5,
-	["neyvíl-everlook"]=24,
+	["neyvíl-everlook"]=26,
 	["nezuka-mirage-raceway"]=21,
 	["ngmi-shekzeer"]=23,
 	["ngprofessor-shekzeer"]=4,
@@ -8928,7 +8929,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["shieldzz-ook-ook"]=0,
 	["shiftnpew-everlook"]=6,
 	["shiftnrun-everlook"]=4,
-	["shiftshaprr-shekzeer"]=0,
+	["shiftshaprr-shekzeer"]=11,
 	["shiimy-everlook"]=11,
 	["shiimyy-everlook"]=3,
 	["shiloh-ook-ook"]=5,
@@ -10298,7 +10299,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Ккбб-flamegor"]=6,
 	["Клинокпепла-flamegor"]=0,
 	["Книфка-flamegor"]=1,
-	["Колмакк-flamegor"]=4,
+	["Колмакк-flamegor"]=20,
 	["Коррелятсна-flamegor"]=4,
 	["Коэволюция-flamegor"]=0,
 	["Крайзимолот-flamegor"]=15,
