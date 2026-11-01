@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5200 characters, read 2026-11-01 12:59 AM.
+-- Region us, 5200 characters, read 2026-11-01 01:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5739,7 +5739,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["caylara-raden"]=20,
 	["cazabrujas-raden"]=20,
 	["cbt-raden"]=4,
-	["cbus-pagle"]=32,
+	["cbus-pagle"]=2,
 	["cconsequence-raden"]=2,
 	["cdioxide-raden"]=19,
 	["cdioxidez-pagle"]=19,
@@ -8041,7 +8041,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["monuei-raden"]=10,
 	["moobookaiyah-galakras"]=7,
 	["mooleone-pagle"]=5,
-	["mòónfirebeam-raden"]=12,
+	["mòónfirebeam-raden"]=5,
 	["moonloon-pagle"]=5,
 	["moonpieelite-immerseus"]=1,
 	["moonrip-raden"]=12,
@@ -8073,7 +8073,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["msthickmeat-raden"]=15,
 	["mtj-atiesh"]=17,
 	["mtnbrews-raden"]=10,
-	["mufasaz-pagle"]=4,
+	["mufasaz-pagle"]=10,
 	["muffhh-raden"]=10,
 	["muffìn-raden"]=7,
 	["mugil-galakras"]=24,
@@ -8128,7 +8128,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["nananutmuffn-pagle"]=29,
 	["naniaids-lei-shen"]=28,
 	["nanikilla-lei-shen"]=4,
-	["nanismasha-lei-shen"]=15,
+	["nanismasha-lei-shen"]=22,
 	["nanixita-raden"]=24,
 	["nanslayer-raden"]=1,
 	["naoki-bloodsail-buccaneers"]=16,
