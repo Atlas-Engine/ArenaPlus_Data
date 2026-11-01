@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5359 characters, read 2026-11-01 12:00 PM.
+-- Region eu, 5359 characters, read 2026-11-01 01:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1503,7 +1503,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["gladiatorz-garalon"]=10,
 	["glamourmw-mirage-raceway"]=11,
 	["gleenya-everlook"]=11,
-	["gnnagetchaos-shekzeer"]=80,
+	["gnnagetchaos-shekzeer"]=81,
 	["gnomchina-mirage-raceway"]=70,
 	["gnomidge-hoptallus"]=71,
 	["goagil-garalon"]=50,
@@ -4545,6 +4545,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["xirodian-shekzeer"]=11,
 	["xistens-shekzeer"]=41,
 	["xkiller-shekzeer"]=11,
+	["xlader-garalon"]=50,
 	["xladerinø-shekzeer"]=11,
 	["xladerovich-shekzeer"]=10,
 	["xladérz-shekzeer"]=10,
@@ -6574,8 +6575,8 @@ ns.SPECS_BY_REGION["eu"] = {
 	["fofii-shekzeer"]=9,
 	["fookchoo-garalon"]=6,
 	["foreignagent-garalon"]=22,
-	["foreignágent-garalon"]=17,
-	["foreígnagent-garalon"]=32,
+	["foreignágent-garalon"]=23,
+	["foreígnagent-garalon"]=3,
 	["førestgump-garalon"]=14,
 	["formology-auberdine"]=3,
 	["formyself-shekzeer"]=4,
@@ -6609,7 +6610,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["frodin-shekzeer"]=19,
 	["froheostern-shekzeer"]=9,
 	["frøøst-shekzeer"]=2,
-	["frøtzen-auberdine"]=2,
+	["frøtzen-auberdine"]=10,
 	["froxman-norushen"]=18,
 	["frozche-shekzeer"]=6,
 	["frufreia-shekzeer"]=21,
@@ -6745,13 +6746,13 @@ ns.SPECS_BY_REGION["eu"] = {
 	["grönavesslan-shekzeer"]=11,
 	["grondax-norushen"]=5,
 	["grsy-shekzeer"]=6,
-	["grumpydumpy-shekzeer"]=28,
+	["grumpydumpy-shekzeer"]=17,
 	["grumpyolbaby-shekzeer"]=0,
 	["grumshado-hoptallus"]=7,
 	["gsek-shekzeer"]=1,
 	["guangtou-shekzeer"]=1,
 	["guaposensei-shekzeer"]=11,
-	["gucthor-everlook"]=1,
+	["gucthor-everlook"]=25,
 	["guctus-everlook"]=15,
 	["guesspal-shekzeer"]=5,
 	["gugur-auberdine"]=2,
@@ -9881,7 +9882,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["xistens-shekzeer"]=9,
 	["xiù-shekzeer"]=0,
 	["xkiller-shekzeer"]=2,
-	["xlader-garalon"]=0,
+	["xlader-garalon"]=6,
 	["xladerinø-shekzeer"]=9,
 	["xladerovich-shekzeer"]=2,
 	["xladérz-shekzeer"]=1,

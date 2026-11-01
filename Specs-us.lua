@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5202 characters, read 2026-11-01 11:59 AM.
+-- Region us, 5202 characters, read 2026-11-01 12:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6232,7 +6232,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["Ðøøzy-pagle"]=25,
 	["dorayeda-galakras"]=10,
 	["dorris-raden"]=17,
-	["dorrsil-galakras"]=5,
+	["dorrsil-galakras"]=12,
 	["dorsil-galakras"]=1,
 	["dörsil-pagle"]=7,
 	["dorsildk-galakras"]=26,
@@ -6274,7 +6274,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["drellus-pagle"]=15,
 	["Ðressrøsa-immerseus"]=27,
 	["drewdipsy-pagle"]=7,
-	["drewleon-pagle"]=5,
+	["drewleon-pagle"]=17,
 	["drewwd-nazgrim"]=5,
 	["dreyad-pagle"]=5,
 	["dreyas-pagle"]=7,
@@ -8737,7 +8737,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["rekzor-raden"]=7,
 	["rel-nazgrim"]=26,
 	["relapse-lei-shen"]=1,
-	["relaxx-lei-shen"]=9,
+	["relaxx-lei-shen"]=13,
 	["relichh-pagle"]=25,
 	["réligion-raden"]=25,
 	["relikemong-pagle"]=28,
@@ -8942,7 +8942,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["sasafras-pagle"]=5,
 	["sashastorm-pagle"]=24,
 	["sassybooty-galakras"]=10,
-	["satierf-pagle"]=17,
+	["satierf-pagle"]=5,
 	["satrian-pagle"]=3,
 	["satyricon-raden"]=28,
 	["saul-raden"]=22,
@@ -8954,7 +8954,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["savsceo-pagle"]=7,
 	["savvy-immerseus"]=1,
 	["saxagebites-pagle"]=17,
-	["saxagelee-pagle"]=10,
+	["saxagelee-pagle"]=27,
 	["saydar-raden"]=1,
 	["sayuka-raden"]=0,
 	["sazzieu-raden"]=7,
