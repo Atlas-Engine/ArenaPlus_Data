@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5205 characters, read 2026-11-01 07:59 AM.
+-- Region us, 5206 characters, read 2026-11-01 08:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -371,6 +371,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["bandicute-pagle"]=50,
 	["bàng-galakras"]=20,
 	["bangyang-galakras"]=20,
+	["banjokazoie-pagle"]=11,
 	["bannelion-immerseus"]=60,
 	["bárd-pagle"]=10,
 	["barebackkids-raden"]=41,
@@ -998,6 +999,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["dankshots-lei-shen"]=20,
 	["danuhai-pagle"]=31,
 	["danyshadow-raden"]=10,
+	["dárckness-pagle"]=41,
 	["Ðark-nazgrim"]=10,
 	["darkavengerr-pagle"]=10,
 	["darkcurador-nazgrim"]=90,
@@ -2970,7 +2972,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["mozzi-raden"]=10,
 	["mp-raden"]=41,
 	["mslusty-pagle"]=11,
-	["msnurfme-raden"]=220,
 	["msr-galakras"]=80,
 	["msthickmeat-raden"]=31,
 	["mtj-atiesh"]=41,
@@ -5340,6 +5341,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["bane-raden"]=0,
 	["bàng-galakras"]=10,
 	["bangyang-galakras"]=22,
+	["banjokazoie-pagle"]=7,
 	["bannelion-immerseus"]=5,
 	["bárd-pagle"]=3,
 	["barebackkids-raden"]=5,
@@ -6004,6 +6006,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dankshots-lei-shen"]=3,
 	["danuhai-pagle"]=19,
 	["danyshadow-raden"]=21,
+	["dárckness-pagle"]=5,
 	["Ðark-nazgrim"]=6,
 	["darkavengerr-pagle"]=28,
 	["darkcurador-nazgrim"]=13,
@@ -7040,7 +7043,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["holysnîper-grobbulus"]=3,
 	["holythugx-pagle"]=16,
 	["holytick-pagle"]=2,
-	["holyvale-pagle"]=21,
+	["holyvale-pagle"]=13,
 	["hólyy-raden"]=16,
 	["holyywarr-raden"]=7,
 	["homiecuh-nazgrim"]=28,
@@ -7263,7 +7266,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["jadei-grobbulus"]=0,
 	["jadespwn-raden"]=10,
 	["jâdestyles-nazgrim"]=4,
-	["jäeger-raden"]=3,
+	["jäeger-raden"]=20,
 	["jæý-raden"]=6,
 	["jáffáar-pagle"]=24,
 	["jáffáar-raden"]=8,
@@ -7788,7 +7791,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["machetelol-pagle"]=12,
 	["macombo-galakras"]=14,
 	["madam-pagle"]=16,
-	["maddlexie-pagle"]=28,
+	["maddlexie-pagle"]=24,
 	["madlisa-raden"]=7,
 	["madmadman-pagle"]=7,
 	["madmickie-pagle"]=7,
@@ -8073,7 +8076,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["mozzi-raden"]=7,
 	["mp-raden"]=9,
 	["mslusty-pagle"]=10,
-	["msnurfme-raden"]=5,
 	["msr-galakras"]=3,
 	["msthickmeat-raden"]=15,
 	["mtj-atiesh"]=17,

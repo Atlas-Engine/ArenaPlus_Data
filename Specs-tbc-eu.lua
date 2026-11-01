@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9645 characters, read 2026-11-01 07:59 AM.
+-- Region tbc-eu, 9645 characters, read 2026-11-01 08:34 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10619,7 +10619,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["brosî-thunderstrike"]=6,
 	["brotallus-spineshatter"]=9,
 	["brothertyr-spineshatter"]=7,
-	["brouxi-spineshatter"]=1,
+	["brouxi-spineshatter"]=20,
 	["broxdisc-spineshatter"]=2,
 	["bróxxy-thunderstrike"]=11,
 	["brrmss-spineshatter"]=1,
@@ -10884,7 +10884,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["chocobolt-spineshatter"]=14,
 	["chocoshot-spineshatter"]=25,
 	["chocototem-spineshatter"]=23,
-	["choinklol-thunderstrike"]=5,
+	["choinklol-thunderstrike"]=15,
 	["chokz-spineshatter"]=3,
 	["chonklet-thunderstrike"]=2,
 	["chonkyqt-spineshatter"]=23,
@@ -15174,7 +15174,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["nate-spineshatter"]=13,
 	["nathux-spineshatter"]=3,
 	["natron-thunderstrike"]=10,
-	["natsenx-spineshatter"]=18,
+	["natsenx-spineshatter"]=13,
 	["natturall-spineshatter"]=1,
 	["natur-spineshatter"]=3,
 	["naturalplan-spineshatter"]=23,
@@ -17452,7 +17452,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["spxd-spineshatter"]=2,
 	["spxdee-spineshatter"]=2,
 	["spymcfly-spineshatter"]=3,
-	["squalo-thunderstrike"]=5,
+	["squalo-thunderstrike"]=15,
 	["squalokek-thunderstrike"]=15,
 	["sraked-spineshatter"]=19,
 	["sråñjë-spineshatter"]=13,
