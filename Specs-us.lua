@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5202 characters, read 2026-11-01 12:59 PM.
+-- Region us, 5202 characters, read 2026-11-01 01:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6235,7 +6235,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dorrsil-galakras"]=12,
 	["dorsil-galakras"]=1,
 	["dörsil-pagle"]=7,
-	["dorsildk-galakras"]=26,
+	["dorsildk-galakras"]=6,
 	["dorsill-galakras"]=22,
 	["dorzqs-nazgrim"]=7,
 	["dorzqs-raden"]=7,
@@ -7197,7 +7197,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["inconclusive-galakras"]=3,
 	["indurate-raden"]=4,
 	["indyko-nazgrim"]=18,
-	["infecto-raden"]=24,
+	["infecto-raden"]=28,
 	["infectra-galakras"]=6,
 	["inferium-pagle"]=24,
 	["infrared-pagle"]=5,
@@ -7264,7 +7264,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["jäeger-raden"]=20,
 	["jæý-raden"]=6,
 	["jáffáar-pagle"]=24,
-	["jáffáar-raden"]=8,
+	["jáffáar-raden"]=24,
 	["jaganoto-immerseus"]=7,
 	["jagerr-raden"]=3,
 	["jaggon-galakras"]=7,
@@ -8936,7 +8936,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["sapyski-galakras"]=0,
 	["sarces-immerseus"]=21,
 	["saregore-raden"]=26,
-	["sàrëna-pagle"]=5,
+	["sàrëna-pagle"]=17,
 	["sarenity-raden"]=27,
 	["sârolyn-pagle"]=16,
 	["sasafras-pagle"]=5,

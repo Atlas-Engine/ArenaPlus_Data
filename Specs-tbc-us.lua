@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9356 characters, read 2026-11-01 12:58 PM.
+-- Region tbc-us, 9356 characters, read 2026-11-01 01:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9390,7 +9390,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["akalikali-nightslayer"]=8,
 	["akär-dreamscythe"]=14,
 	["akaran-nightslayer"]=3,
-	["akarina-nightslayer"]=25,
+	["akarina-nightslayer"]=11,
 	["akaszo-nightslayer"]=5,
 	["akgrizzly-nightslayer"]=1,
 	["akhy-nightslayer"]=19,
@@ -11309,7 +11309,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["disunity-nightslayer"]=7,
 	["ditzz-nightslayer"]=2,
 	["dïvine-nightslayer"]=12,
-	["divinenips-nightslayer"]=11,
+	["divinenips-nightslayer"]=25,
 	["dixielee-nightslayer"]=7,
 	["dixonuranous-nightslayer"]=6,
 	["dixy-nightslayer"]=2,
@@ -11652,7 +11652,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["Ëh-nightslayer"]=2,
 	["ehk-nightslayer"]=9,
 	["ehtree-nightslayer"]=7,
-	["eigän-dreamscythe"]=18,
+	["eigän-dreamscythe"]=2,
 	["eightbillion-nightslayer"]=1,
 	["eightoeight-nightslayer"]=2,
 	["eigor-nightslayer"]=7,
@@ -13318,7 +13318,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["jihadibomber-nightslayer"]=0,
 	["jiigglypoofs-nightslayer"]=12,
 	["jimbald-nightslayer"]=13,
-	["jimbosalami-nightslayer"]=18,
+	["jimbosalami-nightslayer"]=20,
 	["jimboslicé-nightslayer"]=19,
 	["jimmjimm-nightslayer"]=23,
 	["jimmyp-nightslayer"]=14,
@@ -17192,7 +17192,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["swagmanlogz-nightslayer"]=1,
 	["swagxdudu-nightslayer"]=7,
 	["swagy-nightslayer"]=18,
-	["swanke-nightslayer"]=10,
+	["swanke-nightslayer"]=19,
 	["swdscript-nightslayer"]=1,
 	["sweatshack-nightslayer"]=15,
 	["sweepedx-nightslayer"]=1,

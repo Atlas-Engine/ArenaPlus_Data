@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9644 characters, read 2026-11-01 12:59 PM.
+-- Region tbc-eu, 9644 characters, read 2026-11-01 01:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11433,7 +11433,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["diablè-spineshatter"]=15,
 	["dianenguyen-spineshatter"]=1,
 	["dibolol-spineshatter"]=1,
-	["dibom-spineshatter"]=4,
+	["dibom-spineshatter"]=9,
 	["dicaprio-spineshatter"]=19,
 	["diczyzquad-spineshatter"]=13,
 	["diddlermode-spineshatter"]=3,
@@ -13603,7 +13603,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["kadyrof-spineshatter"]=9,
 	["kæben-spineshatter"]=3,
 	["kaelol-spineshatter"]=15,
-	["kaelolo-spineshatter"]=4,
+	["kaelolo-spineshatter"]=9,
 	["kaely-thunderstrike"]=5,
 	["kaelyqt-thunderstrike"]=9,
 	["kaepernickk-thunderstrike"]=3,
@@ -13887,7 +13887,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["knartsen-thunderstrike"]=12,
 	["knedloslav-spineshatter"]=4,
 	["kneyy-thunderstrike"]=23,
-	["knîksou-spineshatter"]=2,
+	["knîksou-spineshatter"]=17,
 	["knirpzz-thunderstrike"]=5,
 	["knobie-thunderstrike"]=3,
 	["knôcknôck-thunderstrike"]=3,
@@ -17874,7 +17874,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["téné-spineshatter"]=6,
 	["tenebróus-spineshatter"]=8,
 	["tengoldpls-spineshatter"]=17,
-	["tenkaa-thunderstrike"]=19,
+	["tenkaa-thunderstrike"]=3,
 	["tensorflow-spineshatter"]=3,
 	["tentto-spineshatter"]=4,
 	["tepik-thunderstrike"]=3,
@@ -19084,7 +19084,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["zeryshe-thunderstrike"]=17,
 	["zeshy-spineshatter"]=1,
 	["zetchd-thunderstrike"]=1,
-	["zevil-spineshatter"]=2,
+	["zevil-spineshatter"]=17,
 	["zeytenh-spineshatter"]=18,
 	["zezaergx-spineshatter"]=3,
 	["zezimasama-thunderstrike"]=13,
