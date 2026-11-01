@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5200 characters, read 2026-10-31 07:59 PM.
+-- Region us, 5200 characters, read 2026-10-31 08:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -923,7 +923,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["cripton-raden"]=11,
 	["crisole-pagle"]=11,
 	["crispeakok-pagle"]=31,
-	["critaa-pagle"]=11,
+	["critaa-pagle"]=10,
 	["crithub-galakras"]=11,
 	["critypally-immerseus"]=11,
 	["crl-raden"]=11,
@@ -5102,7 +5102,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["akux-pagle"]=17,
 	["alakk-lei-shen"]=7,
 	["alanfury-raden"]=7,
-	["alarayia-raden"]=3,
+	["alarayia-raden"]=18,
 	["alassin-galakras"]=4,
 	["albomane-pagle"]=21,
 	["alchemistmed-galakras"]=17,
@@ -9257,7 +9257,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["solorzz-pagle"]=7,
 	["sølve-pagle"]=5,
 	["sombodee-pagle"]=2,
-	["someidiot-raden"]=5,
+	["someidiot-raden"]=17,
 	["someonè-raden"]=6,
 	["songur-galakras"]=18,
 	["songurudhunt-galakras"]=3,
@@ -10019,7 +10019,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["xaery-pagle"]=17,
 	["xaj-raden"]=5,
 	["xanaxlolz-galakras"]=12,
-	["xander-raden"]=24,
+	["xander-raden"]=28,
 	["xandxr-raden"]=24,
 	["xanybar-raden"]=17,
 	["xaravi-raden"]=9,
