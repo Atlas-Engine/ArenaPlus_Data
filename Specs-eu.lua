@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5358 characters, read 2026-11-01 12:00 AM.
+-- Region eu, 5358 characters, read 2026-11-01 01:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5900,7 +5900,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["chiichii-garalon"]=2,
 	["chillestguy-shekzeer"]=0,
 	["chillywily-shekzeer"]=6,
-	["chimèrebaddy-shekzeer"]=4,
+	["chimèrebaddy-shekzeer"]=14,
 	["chimpchamp-garalon"]=7,
 	["chìpolata-auberdine"]=26,
 	["chirdè-auberdine"]=34,
@@ -7645,7 +7645,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["macuni-shekzeer"]=1,
 	["madaurmada-shekzeer"]=3,
 	["madaurpapa-shekzeer"]=3,
-	["maddiganxo-shekzeer"]=3,
+	["maddiganxo-shekzeer"]=11,
 	["madgurux-shekzeer"]=11,
 	["madlore-shekzeer"]=1,
 	["madmyke-shekzeer"]=1,
@@ -8493,7 +8493,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["pvq-shekzeer"]=4,
 	["pwaff-shekzeer"]=24,
 	["pyökkis-shekzeer"]=4,
-	["pyrognite-shekzeer"]=2,
+	["pyrognite-shekzeer"]=10,
 	["pyrohits-shekzeer"]=10,
 	["pýrømänîäç-mirage-raceway"]=2,
 	["pyropia-everlook"]=10,
