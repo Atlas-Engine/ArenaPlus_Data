@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9645 characters, read 2026-11-01 06:59 AM.
+-- Region tbc-eu, 9645 characters, read 2026-11-01 07:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10769,7 +10769,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["cassïopée-thunderstrike"]=15,
 	["castanuss-spineshatter"]=5,
 	["castbunny-spineshatter"]=7,
-	["castelnuovo-spineshatter"]=3,
+	["castelnuovo-spineshatter"]=19,
 	["casu-spineshatter"]=1,
 	["catflop-spineshatter"]=1,
 	["cathalijne-spineshatter"]=22,
@@ -11072,7 +11072,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["cptncarrot-spineshatter"]=2,
 	["cptnjack-spineshatter"]=2,
 	["cptnpickle-spineshatter"]=3,
-	["craabzx-spineshatter"]=19,
+	["craabzx-spineshatter"]=3,
 	["crabbexx-spineshatter"]=18,
 	["crabride-spineshatter"]=22,
 	["crabzx-spineshatter"]=3,
@@ -12334,7 +12334,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["flexytwø-spineshatter"]=1,
 	["flexyw-spineshatter"]=5,
 	["flexyx-spineshatter"]=12,
-	["flimgirl-spineshatter"]=19,
+	["flimgirl-spineshatter"]=3,
 	["flimman-spineshatter"]=3,
 	["flindy-spineshatter"]=5,
 	["flinganx-spineshatter"]=9,
@@ -12899,7 +12899,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["heisenlock-spineshatter"]=13,
 	["heizzen-spineshatter"]=1,
 	["héji-spineshatter"]=19,
-	["hellagun-spineshatter"]=19,
+	["hellagun-spineshatter"]=3,
 	["hellagunx-thunderstrike"]=5,
 	["hellakingx-spineshatter"]=0,
 	["hellathug-spineshatter"]=19,
@@ -14601,7 +14601,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["mårroc-thunderstrike"]=25,
 	["marrowned-thunderstrike"]=5,
 	["marrymoo-thunderstrike"]=3,
-	["martakiller-spineshatter"]=5,
+	["martakiller-spineshatter"]=15,
 	["marthoz-spineshatter"]=3,
 	["marthozug-spineshatter"]=5,
 	["martimuz-spineshatter"]=5,
@@ -15880,7 +15880,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["pickz-spineshatter"]=3,
 	["piconbear-thunderstrike"]=1,
 	["piddu-spineshatter"]=2,
-	["pidorpan-spineshatter"]=7,
+	["pidorpan-spineshatter"]=26,
 	["piersmorgan-thunderstrike"]=24,
 	["pîg-spineshatter"]=2,
 	["piggyofc-spineshatter"]=5,
