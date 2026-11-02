@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9374 characters, read 2026-11-02 01:58 PM.
+-- Region tbc-us, 9374 characters, read 2026-11-02 02:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12120,7 +12120,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["flubtub-nightslayer"]=11,
 	["fluffyd-dreamscythe"]=3,
 	["flukenash-nightslayer"]=2,
-	["fluxlol-nightslayer"]=16,
+	["fluxlol-nightslayer"]=13,
 	["fluxxyqt-nightslayer"]=10,
 	["flye-nightslayer"]=1,
 	["flynndamere-dreamscythe"]=5,
@@ -14121,7 +14121,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ludessita-nightslayer"]=14,
 	["luduhcris-dreamscythe"]=12,
 	["luhvv-nightslayer"]=13,
-	["luiyiz-nightslayer"]=25,
+	["luiyiz-nightslayer"]=11,
 	["lukë-nightslayer"]=5,
 	["luked-nightslayer"]=22,
 	["lukeps-nightslayer"]=1,
@@ -14858,7 +14858,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["nesq-nightslayer"]=13,
 	["nesqx-dreamscythe"]=13,
 	["nessíe-nightslayer"]=7,
-	["nessonezx-nightslayer"]=18,
+	["nessonezx-nightslayer"]=2,
 	["netha-nightslayer"]=2,
 	["Ñett-nightslayer"]=5,
 	["netwrk-nightslayer"]=5,
@@ -16028,7 +16028,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["riptzilla-nightslayer"]=19,
 	["rirí-nightslayer"]=5,
 	["risingocean-nightslayer"]=10,
-	["riskmaster-nightslayer"]=5,
+	["riskmaster-nightslayer"]=8,
 	["riskybiznes-dreamscythe"]=13,
 	["ritamorgan-nightslayer"]=8,
 	["rittinhouse-nightslayer"]=15,
@@ -16585,7 +16585,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["show-nightslayer"]=2,
 	["showdru-nightslayer"]=7,
 	["showershoos-nightslayer"]=4,
-	["showhan-nightslayer"]=24,
+	["showhan-nightslayer"]=10,
 	["showtime-nightslayer"]=5,
 	["showx-nightslayer"]=1,
 	["shozs-nightslayer"]=10,
@@ -17930,7 +17930,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["vertlol-nightslayer"]=5,
 	["verybadclass-nightslayer"]=1,
 	["verygoodgame-nightslayer"]=1,
-	["veryhardgame-dreamscythe"]=7,
+	["veryhardgame-dreamscythe"]=22,
 	["veryoldlady-dreamscythe"]=14,
 	["verzika-nightslayer"]=18,
 	["vespias-nightslayer"]=18,
