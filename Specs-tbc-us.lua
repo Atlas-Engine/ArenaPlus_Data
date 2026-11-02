@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9359 characters, read 2026-11-01 10:58 PM.
+-- Region tbc-us, 9359 characters, read 2026-11-01 11:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9426,7 +9426,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["alexjonest-dreamscythe"]=22,
 	["alez-nightslayer"]=5,
 	["alienautopsy-nightslayer"]=1,
-	["alienlike-nightslayer"]=13,
+	["alienlike-nightslayer"]=23,
 	["alienmagic-nightslayer"]=1,
 	["alinara-nightslayer"]=1,
 	["alisz-nightslayer"]=5,
@@ -9511,7 +9511,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["animavestra-nightslayer"]=13,
 	["animocity-nightslayer"]=7,
 	["animz-nightslayer"]=7,
-	["anirox-nightslayer"]=8,
+	["anirox-nightslayer"]=5,
 	["anitadrink-nightslayer"]=1,
 	["anjeer-nightslayer"]=5,
 	["anjurus-nightslayer"]=4,
@@ -10058,7 +10058,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["birdfromtree-dreamscythe"]=3,
 	["birdieblue-nightslayer"]=4,
 	["birfu-nightslayer"]=2,
-	["bís-nightslayer"]=9,
+	["bís-nightslayer"]=25,
 	["bisbeef-nightslayer"]=7,
 	["biscuits-nightslayer"]=6,
 	["bisduo-nightslayer"]=7,
@@ -12547,7 +12547,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["grndpabilly-nightslayer"]=6,
 	["grocer-nightslayer"]=18,
 	["gronork-nightslayer"]=2,
-	["gropez-nightslayer"]=1,
+	["gropez-nightslayer"]=14,
 	["groph-nightslayer"]=2,
 	["grossematrak-nightslayer"]=2,
 	["groundingrod-nightslayer"]=19,
@@ -13136,7 +13136,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["iøørð-nightslayer"]=1,
 	["iordfred-nightslayer"]=2,
 	["iosa-nightslayer"]=5,
-	["iovedruid-dreamscythe"]=3,
+	["iovedruid-dreamscythe"]=7,
 	["ioveletter-dreamscythe"]=24,
 	["ipf-nightslayer"]=10,
 	["iplayforfood-nightslayer"]=7,
@@ -16937,7 +16937,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["sprow-nightslayer"]=16,
 	["sprozay-nightslayer"]=16,
 	["spry-nightslayer"]=1,
-	["spyderi-nightslayer"]=9,
+	["spyderi-nightslayer"]=25,
 	["spyderii-nightslayer"]=3,
 	["spyderiv-nightslayer"]=3,
 	["spyderv-nightslayer"]=25,
@@ -18627,7 +18627,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["zúlu-nightslayer"]=5,
 	["zumion-nightslayer"]=12,
 	["zurgs-dreamscythe"]=13,
-	["zurgzz-nightslayer"]=2,
+	["zurgzz-nightslayer"]=18,
 	["zurnr-dreamscythe"]=5,
 	["zurtflay-nightslayer"]=1,
 	["zusul-nightslayer"]=10,
