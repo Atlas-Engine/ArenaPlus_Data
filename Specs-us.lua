@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5212 characters, read 2026-11-02 06:59 AM.
+-- Region us, 5212 characters, read 2026-11-02 07:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5236,7 +5236,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["arkellian-immerseus"]=23,
 	["arloxz-pagle"]=7,
 	["armedknight-pagle"]=7,
-	["armisaél-nazgrim"]=23,
+	["armisaél-nazgrim"]=7,
 	["aronm-pagle"]=2,
 	["aronuti-lei-shen"]=17,
 	["arrowtwist-raden"]=3,
@@ -7332,7 +7332,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["jirensenpai-pagle"]=27,
 	["jïsätg-pagle"]=3,
 	["jivara-pagle"]=2,
-	["jizzyreincar-benediction"]=15,
+	["jizzyreincar-benediction"]=19,
 	["jjaka-pagle"]=16,
 	["jkae-pagle"]=21,
 	["jkaý-pagle"]=20,
@@ -9613,7 +9613,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["thorelam-pagle"]=25,
 	["thosanvn-raden"]=3,
 	["throbbinghog-raden"]=7,
-	["throbbinhood-pagle"]=1,
+	["throbbinhood-pagle"]=11,
 	["throttlebin-galakras"]=20,
 	["thugabear-raden"]=17,
 	["thugfist-pagle"]=10,

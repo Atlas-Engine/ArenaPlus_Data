@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9370 characters, read 2026-11-02 06:58 AM.
+-- Region tbc-us, 9370 characters, read 2026-11-02 07:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10218,7 +10218,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["boltqq-nightslayer"]=24,
 	["boltsmoommy-nightslayer"]=24,
 	["bomano-nightslayer"]=5,
-	["bombalu-nightslayer"]=13,
+	["bombalu-nightslayer"]=23,
 	["bonabtwistn-nightslayer"]=19,
 	["bondstar-nightslayer"]=5,
 	["bonecrank-dreamscythe"]=8,
@@ -11756,7 +11756,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["enshikago-nightslayer"]=2,
 	["ensoe-nightslayer"]=8,
 	["entanglin-nightslayer"]=7,
-	["enthozx-nightslayer"]=5,
+	["enthozx-nightslayer"]=8,
 	["enthozzr-nightslayer"]=5,
 	["entrepid-nightslayer"]=4,
 	["enviz-nightslayer"]=5,
@@ -15372,7 +15372,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["percprot-nightslayer"]=11,
 	["peremi-nightslayer"]=1,
 	["perfecttion-nightslayer"]=14,
-	["perkolate-nightslayer"]=13,
+	["perkolate-nightslayer"]=16,
 	["perl-nightslayer"]=11,
 	["perple-dreamscythe"]=1,
 	["perra-nightslayer"]=5,
@@ -15493,7 +15493,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ploh-nightslayer"]=8,
 	["plokhoy-nightslayer"]=5,
 	["ploopity-nightslayer"]=7,
-	["plopgodx-nightslayer"]=10,
+	["plopgodx-nightslayer"]=19,
 	["plsnobully-nightslayer"]=23,
 	["plumesy-nightslayer"]=5,
 	["plumexx-nightslayer"]=2,

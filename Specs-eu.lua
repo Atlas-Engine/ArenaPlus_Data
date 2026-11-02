@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5351 characters, read 2026-11-02 07:00 AM.
+-- Region eu, 5351 characters, read 2026-11-02 08:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -246,6 +246,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["anvel-shekzeer"]=10,
 	["anxoasa-shekzeer"]=11,
 	["anxoqt-shekzeer"]=11,
+	["anyabaszó-shekzeer"]=10,
 	["anyataylor-shekzeer"]=41,
 	["anyemushi-shekzeer"]=41,
 	["Åøêkrótx-shekzeer"]=11,
@@ -273,7 +274,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["archibald-hoptallus"]=10,
 	["archïchouett-shekzeer"]=10,
 	["archytect-shekzeer"]=41,
-	["ardasmage-mirage-raceway"]=11,
 	["areess-shekzeer"]=10,
 	["arhma-shekzeer"]=10,
 	["arianagrañde-shekzeer"]=11,
@@ -5351,6 +5351,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["anvel-shekzeer"]=23,
 	["anxoasa-shekzeer"]=5,
 	["anxoqt-shekzeer"]=7,
+	["anyabaszó-shekzeer"]=4,
 	["anyataylor-shekzeer"]=3,
 	["anyemushi-shekzeer"]=9,
 	["Åøêkrótx-shekzeer"]=4,
@@ -5382,7 +5383,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["archibald-hoptallus"]=9,
 	["archïchouett-shekzeer"]=2,
 	["archytect-shekzeer"]=3,
-	["ardasmage-mirage-raceway"]=2,
 	["areess-shekzeer"]=1,
 	["arhma-shekzeer"]=1,
 	["arianagrañde-shekzeer"]=2,
@@ -7490,7 +7490,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["leobmhunt-shekzeer"]=14,
 	["leohunta-mirage-raceway"]=20,
 	["leolou-auberdine"]=9,
-	["leonkazan-shekzeer"]=9,
+	["leonkazan-shekzeer"]=12,
 	["leoq-shekzeer"]=2,
 	["leothepala-mirage-raceway"]=15,
 	["lessplays-shekzeer"]=8,
@@ -8728,7 +8728,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["runplz-shekzeer"]=19,
 	["runshisback-shekzeer"]=9,
 	["runshøsløw-shekzeer"]=9,
-	["runshpower-shekzeer"]=16,
+	["runshpower-shekzeer"]=13,
 	["runshtraps-shekzeer"]=4,
 	["rustarch-norushen"]=2,
 	["ruyu-auberdine"]=11,
@@ -9593,7 +9593,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["vanthief-shekzeer"]=26,
 	["varaxx-mirage-raceway"]=13,
 	["varkin-mirage-raceway"]=1,
-	["varkong-mirage-raceway"]=1,
+	["varkong-mirage-raceway"]=25,
 	["varoline-shekzeer"]=4,
 	["vashi-norushen"]=12,
 	["vasyanpro-shekzeer"]=1,
