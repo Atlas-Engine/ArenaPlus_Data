@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5214 characters, read 2026-11-02 12:59 PM.
+-- Region us, 5214 characters, read 2026-11-02 01:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1268,7 +1268,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["drgspit-pagle"]=11,
 	["drhub-galakras"]=11,
 	["driadstorm-raden"]=40,
-	["drimitrix-galakras"]=20,
+	["drimitrix-galakras"]=21,
 	["drinkbeerz-raden"]=40,
 	["drippydrzl-galakras"]=11,
 	["dritann-raden"]=10,
@@ -5708,7 +5708,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["calamity-pagle"]=7,
 	["calave-raden"]=16,
 	["caledonis-pagle"]=9,
-	["cálid-immerseus"]=11,
+	["cálid-immerseus"]=1,
 	["callmelongbo-galakras"]=20,
 	["calltoarms-galakras"]=0,
 	["calltoarms-pagle"]=16,
@@ -6190,7 +6190,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["djabita-nazgrim"]=1,
 	["djadá-pagle"]=4,
 	["djblazyn-raden"]=1,
-	["djinx-raden"]=14,
+	["djinx-raden"]=29,
 	["djnapples-lei-shen"]=12,
 	["djnox-pagle"]=24,
 	["djpopsocket-raden"]=4,
@@ -6242,7 +6242,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["doontsx-pagle"]=7,
 	["doorsil-galakras"]=29,
 	["Ðøøzy-pagle"]=25,
-	["Ðøra-pagle"]=28,
+	["Ðøra-pagle"]=24,
 	["dorayeda-galakras"]=10,
 	["dorris-raden"]=17,
 	["dorrsil-galakras"]=12,
@@ -6254,7 +6254,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dorzqs-raden"]=7,
 	["dosak-pagle"]=10,
 	["dotdotgoose-immerseus"]=28,
-	["dothkar-galakras"]=11,
+	["dothkar-galakras"]=1,
 	["dottenstein-pagle"]=28,
 	["dotwaves-pagle"]=3,
 	["dôtzz-galakras"]=24,
@@ -8147,7 +8147,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["namosca-pagle"]=3,
 	["nananutmuffn-pagle"]=29,
 	["naniaids-lei-shen"]=28,
-	["nanikilla-lei-shen"]=10,
+	["nanikilla-lei-shen"]=4,
 	["nanismasha-lei-shen"]=22,
 	["nanixita-raden"]=24,
 	["nanslayer-raden"]=1,
