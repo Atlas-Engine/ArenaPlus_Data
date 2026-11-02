@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5203 characters, read 2026-11-01 06:59 PM.
+-- Region us, 5203 characters, read 2026-11-01 07:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5044,7 +5044,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["abruaz-raden"]=1,
 	["absofoo-pagle"]=4,
 	["absolutelyx-pagle"]=14,
-	["absolutzero-nazgrim"]=11,
+	["absolutzero-nazgrim"]=1,
 	["absopally-pagle"]=2,
 	["abusivekitty-galakras"]=12,
 	["academics-raden"]=15,
@@ -5114,7 +5114,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["alette-pagle"]=2,
 	["aléxandros-nazgrim"]=7,
 	["alexmateo-pagle"]=7,
-	["alexrrbb-raden"]=7,
+	["alexrrbb-raden"]=23,
 	["alextraxas-pagle"]=7,
 	["alezaar-raden"]=33,
 	["algreen-pagle"]=4,
@@ -5204,7 +5204,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["aqstank-pagle"]=16,
 	["aquandrah-raden"]=5,
 	["ar-pagle"]=1,
-	["araeul-lei-shen"]=20,
+	["araeul-lei-shen"]=3,
 	["arbolita-raden"]=5,
 	["arbuckyl-galakras"]=16,
 	["arcanetrump-pagle"]=1,
@@ -5228,7 +5228,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["arkellian-immerseus"]=23,
 	["arloxz-pagle"]=7,
 	["armedknight-pagle"]=7,
-	["armisaél-nazgrim"]=7,
+	["armisaél-nazgrim"]=23,
 	["aronm-pagle"]=2,
 	["aronuti-lei-shen"]=17,
 	["arrowtwist-raden"]=3,
@@ -8304,7 +8304,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["nyctrius-raden"]=18,
 	["nyloras-pagle"]=7,
 	["nyloras-raden"]=7,
-	["nylorfist-pagle"]=27,
+	["nylorfist-pagle"]=4,
 	["nynaevxe-pagle"]=9,
 	["nynja-raden"]=14,
 	["nyxxi-lei-shen"]=4,
@@ -8349,7 +8349,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["olimpux-pagle"]=20,
 	["olitha-galakras"]=29,
 	["oliverqueenn-galakras"]=20,
-	["Õmegaa-raden"]=18,
+	["Õmegaa-raden"]=20,
 	["omgilovewow-pagle"]=19,
 	["omnd-nazgrim"]=17,
 	["omnd-raden"]=17,
@@ -10028,7 +10028,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["xanybar-raden"]=17,
 	["xaravi-raden"]=9,
 	["xarped-nazgrim"]=17,
-	["xatica-pagle"]=29,
+	["xatica-pagle"]=14,
 	["xatyka-pagle"]=1,
 	["xavilier-pagle"]=29,
 	["xb-galakras"]=4,

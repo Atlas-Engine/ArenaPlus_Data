@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9361 characters, read 2026-11-01 06:58 PM.
+-- Region tbc-us, 9361 characters, read 2026-11-01 07:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -13897,7 +13897,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["lfgbehealin-nightslayer"]=1,
 	["lfghero-nightslayer"]=22,
 	["lfgisraging-nightslayer"]=2,
-	["lftankpst-nightslayer"]=19,
+	["lftankpst-nightslayer"]=10,
 	["lfwftotem-nightslayer"]=10,
 	["lfxd-nightslayer"]=18,
 	["lgdarm-nightslayer"]=10,
@@ -14529,7 +14529,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["mistapell-dreamscythe"]=1,
 	["miszrd-nightslayer"]=22,
 	["mitchellpaul-dreamscythe"]=1,
-	["mithral-nightslayer"]=5,
+	["mithral-nightslayer"]=8,
 	["mithridate-nightslayer"]=17,
 	["mitoh-nightslayer"]=4,
 	["mitprofessor-dreamscythe"]=22,
@@ -14972,7 +14972,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["notajax-nightslayer"]=1,
 	["notbim-nightslayer"]=0,
 	["notblue-nightslayer"]=19,
-	["notcow-nightslayer"]=2,
+	["notcow-nightslayer"]=18,
 	["notdying-nightslayer"]=10,
 	["noteldoon-dreamscythe"]=7,
 	["notfarai-nightslayer"]=15,
@@ -17245,7 +17245,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["szymek-nightslayer"]=2,
 	["taamy-nightslayer"]=12,
 	["tabula-dreamscythe"]=11,
-	["tabzy-nightslayer"]=1,
+	["tabzy-nightslayer"]=14,
 	["tacheese-dreamscythe"]=13,
 	["táckett-dreamscythe"]=3,
 	["tacksap-nightslayer"]=8,
@@ -18230,7 +18230,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["worgytaps-nightslayer"]=0,
 	["workcomp-nightslayer"]=4,
 	["workinggrill-dreamscythe"]=1,
-	["worldléss-nightslayer"]=7,
+	["worldléss-nightslayer"]=22,
 	["worldofming-nightslayer"]=5,
 	["worldthirst-nightslayer"]=6,
 	["worming-nightslayer"]=1,
