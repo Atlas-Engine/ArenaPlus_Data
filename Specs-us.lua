@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5211 characters, read 2026-11-02 03:59 AM.
+-- Region us, 5211 characters, read 2026-11-02 04:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7754,7 +7754,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["losó-raden"]=7,
 	["lothmar-pagle"]=24,
 	["lôukî-pagle"]=7,
-	["lovezone-lei-shen"]=16,
+	["lovezone-lei-shen"]=2,
 	["loxanna-raden"]=20,
 	["lsx-raden"]=9,
 	["lubos-pagle"]=7,
@@ -7763,7 +7763,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["lucítà-raden"]=2,
 	["ludere-pagle"]=2,
 	["luhve-pagle"]=9,
-	["luigy-pagle"]=22,
+	["luigy-pagle"]=15,
 	["lukangaruko-pagle"]=7,
 	["lukehunts-nazgrim"]=3,
 	["lukesmash-raden"]=7,
@@ -7773,13 +7773,13 @@ ns.SPECS_BY_REGION["us"] = {
 	["lumantho-pagle"]=7,
 	["lumanwarx-pagle"]=7,
 	["lumapal-pagle"]=16,
-	["luminarìa-pagle"]=2,
+	["luminarìa-pagle"]=16,
 	["lumineth-pagle"]=9,
 	["lunarlass-pagle"]=0,
 	["lunchmeat-nazgrim"]=0,
 	["lunishamtwo-raden"]=22,
 	["lunita-galakras"]=7,
-	["lunpi-raden"]=27,
+	["lunpi-raden"]=4,
 	["lusts-raden"]=10,
 	["lüz-pagle"]=16,
 	["luzey-raden"]=1,
@@ -7798,7 +7798,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["machetelol-pagle"]=12,
 	["macombo-galakras"]=14,
 	["madam-pagle"]=16,
-	["maddlexie-pagle"]=28,
+	["maddlexie-pagle"]=24,
 	["madlisa-raden"]=7,
 	["madmadman-pagle"]=7,
 	["madmickie-pagle"]=7,
@@ -9843,7 +9843,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["varrè-lei-shen"]=6,
 	["varyags-pagle"]=17,
 	["vathanish-galakras"]=16,
-	["veddr-galakras"]=16,
+	["veddr-galakras"]=2,
 	["veegeettaa-raden"]=2,
 	["veidaz-raden"]=0,
 	["veinydihbbx-raden"]=7,
@@ -9867,7 +9867,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["verstepper-pagle"]=0,
 	["veryuska-pagle"]=13,
 	["vespareia-pagle"]=20,
-	["vettaex-arugal-au"]=9,
+	["vettaex-arugal-au"]=21,
 	["vexe-pagle"]=2,
 	["veygâ-pagle"]=20,
 	["viadin-lei-shen"]=16,
