@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9371 characters, read 2026-11-02 09:58 AM.
+-- Region tbc-us, 9371 characters, read 2026-11-02 10:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9685,7 +9685,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["autopilot-nightslayer"]=11,
 	["autopilotqt-nightslayer"]=11,
 	["auvon-dreamscythe"]=2,
-	["avalos-nightslayer"]=13,
+	["avalos-nightslayer"]=16,
 	["avamend-nightslayer"]=22,
 	["avannah-nightslayer"]=3,
 	["avantoe-nightslayer"]=3,
@@ -11121,7 +11121,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["dature-dreamscythe"]=2,
 	["daub-nightslayer"]=5,
 	["dauntleastx-nightslayer"]=1,
-	["dauntlessx-nightslayer"]=2,
+	["dauntlessx-nightslayer"]=18,
 	["daveedz-nightslayer"]=5,
 	["davelol-nightslayer"]=2,
 	["daviddblaine-nightslayer"]=13,
@@ -13061,7 +13061,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["iliatopuriax-nightslayer"]=5,
 	["ililililiili-nightslayer"]=5,
 	["illapo-nightslayer"]=24,
-	["illbred-nightslayer"]=7,
+	["illbred-nightslayer"]=3,
 	["illness-nightslayer"]=2,
 	["illuminada-dreamscythe"]=23,
 	["iloveguys-nightslayer"]=2,
@@ -13455,7 +13455,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["juliosanchez-nightslayer"]=4,
 	["julski-nightslayer"]=4,
 	["jumpzwarrior-dreamscythe"]=2,
-	["jungandre-nightslayer"]=2,
+	["jungandre-nightslayer"]=18,
 	["juniorsquid-nightslayer"]=13,
 	["junkkí-dreamscythe"]=18,
 	["juntee-nightslayer"]=11,
@@ -15042,7 +15042,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["nutty-nightslayer"]=4,
 	["nuttydeez-nightslayer"]=1,
 	["nuttygg-nightslayer"]=2,
-	["nuubkrunch-nightslayer"]=2,
+	["nuubkrunch-nightslayer"]=18,
 	["nvh-nightslayer"]=0,
 	["nvo-nightslayer"]=12,
 	["nvz-nightslayer"]=0,
@@ -16756,7 +16756,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["slothmoo-nightslayer"]=7,
 	["slowbolt-nightslayer"]=6,
 	["sloweyes-nightslayer"]=7,
-	["slowfast-nightslayer"]=16,
+	["slowfast-nightslayer"]=13,
 	["slugpax-nightslayer"]=5,
 	["slumshocks-dreamscythe"]=19,
 	["slumwar-dreamscythe"]=18,

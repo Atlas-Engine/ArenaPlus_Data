@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9651 characters, read 2026-11-02 09:44 AM.
+-- Region tbc-eu, 9651 characters, read 2026-11-02 10:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11683,7 +11683,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["drcain-spineshatter"]=11,
 	["drcni-spineshatter"]=1,
 	["drcoah-spineshatter"]=3,
-	["drdrey-spineshatter"]=8,
+	["drdrey-spineshatter"]=2,
 	["dreadpirate-spineshatter"]=0,
 	["dreamstáte-spineshatter"]=1,
 	["dreamvendor-spineshatter"]=6,
@@ -13402,7 +13402,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["jawohl-spineshatter"]=5,
 	["jayboy-spineshatter"]=5,
 	["jaycute-spineshatter"]=2,
-	["jaydeen-spineshatter"]=11,
+	["jaydeen-spineshatter"]=12,
 	["jaydeenq-spineshatter"]=11,
 	["jaydeenx-spineshatter"]=23,
 	["jayfk-spineshatter"]=5,
@@ -13805,7 +13805,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["khuzam-spineshatter"]=11,
 	["khx-spineshatter"]=3,
 	["kiaràh-spineshatter"]=11,
-	["kiàrah-spineshatter"]=11,
+	["kiàrah-spineshatter"]=23,
 	["kiatra-spineshatter"]=9,
 	["kidneyspéàrs-thunderstrike"]=19,
 	["kielmeister-spineshatter"]=13,
@@ -14642,7 +14642,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["maxheals-spineshatter"]=2,
 	["maximagain-spineshatter"]=9,
 	["maximgayge-spineshatter"]=4,
-	["maximgg-spineshatter"]=19,
+	["maximgg-spineshatter"]=3,
 	["maxj-spineshatter"]=3,
 	["maxky-spineshatter"]=6,
 	["maxmakker-spineshatter"]=2,
@@ -18390,7 +18390,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["vaneo-spineshatter"]=2,
 	["vangola-spineshatter"]=2,
 	["vanhintern-thunderstrike"]=19,
-	["vanillaninja-spineshatter"]=5,
+	["vanillaninja-spineshatter"]=15,
 	["vanillaz-spineshatter"]=4,
 	["vanïshra-spineshatter"]=19,
 	["vannah-spineshatter"]=4,
