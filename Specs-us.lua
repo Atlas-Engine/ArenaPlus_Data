@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5212 characters, read 2026-11-02 10:54 AM.
+-- Region us, 5214 characters, read 2026-11-02 11:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1009,6 +1009,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["darkferocity-pagle"]=10,
 	["darkjdm-lei-shen"]=20,
 	["darklegendz-raden"]=11,
+	["darknessfury-pagle"]=11,
 	["darknuns-pagle"]=41,
 	["darkphecy-pagle"]=20,
 	["darkshadowx-galakras"]=11,
@@ -1215,6 +1216,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["doontsx-pagle"]=11,
 	["doorsil-galakras"]=11,
 	["Ðøøzy-pagle"]=11,
+	["Ðøra-pagle"]=11,
 	["dorayeda-galakras"]=101,
 	["dorris-raden"]=41,
 	["dorrsil-galakras"]=60,
@@ -2459,6 +2461,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["kokuzin-pagle"]=10,
 	["kolokk-immerseus"]=20,
 	["kongpho-pagle"]=10,
+	["kongqi-pagle"]=11,
 	["konishi-raden"]=11,
 	["konkachilla-raden"]=10,
 	["koreanbdash-pagle"]=11,
@@ -6021,6 +6024,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["darkferocity-pagle"]=21,
 	["darkjdm-lei-shen"]=6,
 	["darklegendz-raden"]=24,
+	["darknessfury-pagle"]=6,
 	["darknuns-pagle"]=9,
 	["darkphecy-pagle"]=22,
 	["darkshadowx-galakras"]=25,
@@ -6238,7 +6242,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["doontsx-pagle"]=7,
 	["doorsil-galakras"]=29,
 	["Ðøøzy-pagle"]=25,
-	["Ðøra-pagle"]=0,
+	["Ðøra-pagle"]=28,
 	["dorayeda-galakras"]=10,
 	["dorris-raden"]=17,
 	["dorrsil-galakras"]=12,
@@ -6540,7 +6544,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["fefedruid-raden"]=12,
 	["fefewarrior-raden"]=7,
 	["fefy-pagle"]=7,
-	["feifei-raden"]=6,
+	["feifei-raden"]=26,
 	["feignjkdeter-raden"]=3,
 	["felicious-raden"]=23,
 	["feliixthecat-lei-shen"]=16,
@@ -7535,6 +7539,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["kokuzin-pagle"]=7,
 	["kolokk-immerseus"]=26,
 	["kongpho-pagle"]=2,
+	["kongqi-pagle"]=10,
 	["konishi-raden"]=27,
 	["konkachilla-raden"]=2,
 	["koreanbdash-pagle"]=1,
@@ -8752,7 +8757,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["rekzor-raden"]=7,
 	["rel-nazgrim"]=26,
 	["relapse-lei-shen"]=1,
-	["relaxx-lei-shen"]=13,
+	["relaxx-lei-shen"]=9,
 	["relichh-pagle"]=25,
 	["réligion-raden"]=25,
 	["relikemong-pagle"]=28,
