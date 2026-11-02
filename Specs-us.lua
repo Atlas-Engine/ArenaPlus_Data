@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5205 characters, read 2026-11-01 11:59 PM.
+-- Region us, 5205 characters, read 2026-11-02 12:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7652,7 +7652,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["lhyn-pagle"]=4,
 	["lichkinng-pagle"]=24,
 	["lichpls-immerseus"]=26,
-	["licia-galakras"]=9,
+	["licia-galakras"]=13,
 	["lifebilder-pagle"]=9,
 	["lifely-raden"]=10,
 	["lifesavérs-pagle"]=21,
@@ -7708,7 +7708,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["liusu-pagle"]=5,
 	["liveforeverr-pagle"]=5,
 	["liverr-galakras"]=14,
-	["livingsteak-galakras"]=25,
+	["livingsteak-galakras"]=6,
 	["livlord-pagle"]=20,
 	["lixzos-nazgrim"]=18,
 	["liyarlena-raden"]=14,
@@ -8431,7 +8431,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["palanix-raden"]=2,
 	["palapala-pagle"]=2,
 	["pallyboss-galakras"]=0,
-	["palodan-arugal-au"]=16,
+	["palodan-arugal-au"]=2,
 	["palpatîne-pagle"]=28,
 	["palyvash-galakras"]=16,
 	["palyy-raden"]=16,
@@ -9496,7 +9496,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["tairné-galakras"]=14,
 	["takyto-nazgrim"]=16,
 	["talksíck-pagle"]=1,
-	["tamerac-raden"]=24,
+	["tamerac-raden"]=28,
 	["tamhee-immerseus"]=4,
 	["tammyjane-pagle"]=16,
 	["tamnar-immerseus"]=20,
