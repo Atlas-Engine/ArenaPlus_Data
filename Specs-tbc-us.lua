@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9372 characters, read 2026-11-02 04:58 AM.
+-- Region tbc-us, 9372 characters, read 2026-11-02 05:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9749,7 +9749,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["badraztas-nightslayer"]=5,
 	["badßünny-nightslayer"]=8,
 	["badtooglad-nightslayer"]=12,
-	["badzor-nightslayer"]=18,
+	["badzor-nightslayer"]=2,
 	["bäe-nightslayer"]=1,
 	["baekek-nightslayer"]=0,
 	["baekgitae-nightslayer"]=13,
@@ -11640,7 +11640,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["earthattack-nightslayer"]=2,
 	["earthd-nightslayer"]=7,
 	["earthly-dreamscythe"]=10,
-	["earthmother-nightslayer"]=22,
+	["earthmother-nightslayer"]=3,
 	["easyasthat-dreamscythe"]=5,
 	["easyhealz-nightslayer"]=7,
 	["easyxd-nightslayer"]=5,
@@ -11844,7 +11844,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["execuutie-nightslayer"]=18,
 	["exgoshgolly-nightslayer"]=5,
 	["exhaustsound-nightslayer"]=1,
-	["exid-nightslayer"]=18,
+	["exid-nightslayer"]=2,
 	["exinferiis-nightslayer"]=13,
 	["exk-nightslayer"]=4,
 	["exotik-nightslayer"]=1,
@@ -17102,7 +17102,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["stormdreamer-nightslayer"]=19,
 	["stormdrive-nightslayer"]=19,
 	["stormheralds-nightslayer"]=2,
-	["stormonks-nightslayer"]=10,
+	["stormonks-nightslayer"]=19,
 	["stormtroopa-nightslayer"]=15,
 	["stormweener-dreamscythe"]=2,
 	["stormxy-nightslayer"]=24,

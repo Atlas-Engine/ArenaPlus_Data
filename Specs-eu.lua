@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5351 characters, read 2026-11-02 05:00 AM.
+-- Region eu, 5351 characters, read 2026-11-02 06:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -435,7 +435,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["barilas-norushen"]=50,
 	["barkwinde-shekzeer"]=10,
 	["batina-shekzeer"]=10,
-	["batix-shekzeer"]=110,
+	["batix-shekzeer"]=111,
 	["batleseek-shekzeer"]=10,
 	["bauzzy-shekzeer"]=10,
 	["bayra-everlook"]=11,
@@ -6372,7 +6372,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Êlestê-shekzeer"]=15,
 	["elf-shekzeer"]=3,
 	["elfie-shekzeer"]=12,
-	["elfiee-shekzeer"]=24,
+	["elfiee-shekzeer"]=26,
 	["elgh-shekzeer"]=20,
 	["elghh-shekzeer"]=13,
 	["elgoogle-everlook"]=5,
@@ -7822,7 +7822,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["miroc-shekzeer"]=1,
 	["misann-hoptallus"]=9,
 	["mishlen-shekzeer"]=13,
-	["misne-shekzeer"]=6,
+	["misne-shekzeer"]=29,
 	["missaicecity-shekzeer"]=3,
 	["missisclone-shekzeer"]=11,
 	["missota-shekzeer"]=11,
@@ -7878,7 +7878,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["monkfresher-hoptallus"]=6,
 	["monkhere-mirage-raceway"]=6,
 	["monkloide-shekzeer"]=6,
-	["monkp-norushen"]=29,
+	["monkp-norushen"]=7,
 	["monkrus-shekzeer"]=6,
 	["monkshadow-shekzeer"]=6,
 	["monktop-shekzeer"]=0,
