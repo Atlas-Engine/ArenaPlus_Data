@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5203 characters, read 2026-11-01 05:59 PM.
+-- Region us, 5203 characters, read 2026-11-01 06:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5404,7 +5404,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["benjifrankz-raden"]=21,
 	["benkei-pagle"]=4,
 	["bennyboltz-nazgrim"]=28,
-	["benso-pagle"]=7,
+	["benso-pagle"]=23,
 	["beots-raden"]=7,
 	["bepshepsis-pagle"]=0,
 	["berell-galakras"]=17,
@@ -5760,7 +5760,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["champmage-raden"]=1,
 	["chaoscrittv-pagle"]=2,
 	["chaoscutie-galakras"]=24,
-	["chaôss-pagle"]=12,
+	["chaôss-pagle"]=5,
 	["chäöss-pagle"]=29,
 	["chaossy-pagle"]=24,
 	["chaotichunts-galakras"]=0,
@@ -6516,7 +6516,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["fatwog-raden"]=16,
 	["faylaxd-raden"]=5,
 	["fctry-raden"]=3,
-	["fcx-raden"]=1,
+	["fcx-raden"]=11,
 	["fearbane-pagle"]=26,
 	["feardaddy-pagle"]=2,
 	["feardot-pagle"]=28,
@@ -9661,7 +9661,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["tøxic-nazgrim"]=14,
 	["tóxica-pagle"]=34,
 	["toxyc-galakras"]=21,
-	["toymonster-raden"]=17,
+	["toymonster-raden"]=5,
 	["toyoill-raden"]=18,
 	["tpjx-raden"]=10,
 	["tpodyo-raden"]=9,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5357 characters, read 2026-11-01 06:00 PM.
+-- Region eu, 5357 characters, read 2026-11-01 07:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1897,7 +1897,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["jakamoto-shekzeer"]=11,
 	["jakamotô-shekzeer"]=11,
 	["jakamstar-shekzeer"]=10,
-	["jakeinator-firemaw"]=11,
+	["jakeinator-firemaw"]=10,
 	["jakele-garalon"]=21,
 	["jakesp-garalon"]=50,
 	["jakónda-garalon"]=260,
@@ -4078,7 +4078,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["tjyo-everlook"]=11,
 	["tlxdx-shekzeer"]=41,
 	["tlxx-garalon"]=61,
-	["toatz-shekzeer"]=10,
+	["toatz-shekzeer"]=11,
 	["tobilock-shekzeer"]=11,
 	["toebee-shekzeer"]=11,
 	["toiletchamx-shekzeer"]=31,
@@ -5448,7 +5448,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["atheistpally-shekzeer"]=15,
 	["athenahz-shekzeer"]=3,
 	["athoran-everlook"]=2,
-	["atlántis-mirage-raceway"]=33,
+	["atlántis-mirage-raceway"]=8,
 	["atlasx-shekzeer"]=5,
 	["atmobile-shekzeer"]=2,
 	["audioslave-shekzeer"]=16,
@@ -5684,7 +5684,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bloodytrace-shekzeer"]=4,
 	["bluetoad-shekzeer"]=15,
 	["bluevoidd-shekzeer"]=23,
-	["blushxoxo-shekzeer"]=26,
+	["blushxoxo-shekzeer"]=24,
 	["blyatmanx-shekzeer"]=14,
 	["bmsk-shekzeer"]=6,
 	["bmskp-shekzeer"]=5,
@@ -5693,7 +5693,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bobbyshmürda-shekzeer"]=3,
 	["bobbysta-auberdine"]=9,
 	["bobjones-norushen"]=12,
-	["bobz-auberdine"]=6,
+	["bobz-auberdine"]=7,
 	["bodyfitness-shekzeer"]=2,
 	["bodytypekek-shekzeer"]=2,
 	["bokolokoo-shekzeer"]=4,
@@ -6184,7 +6184,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["dirtyshifts-shekzeer"]=21,
 	["discography-mirage-raceway"]=22,
 	["disconysus-garalon"]=9,
-	["discoprälle-shekzeer"]=9,
+	["discoprälle-shekzeer"]=22,
 	["discovery-shekzeer"]=7,
 	["diskotrisko-norushen"]=22,
 	["dispelz-shekzeer"]=9,
@@ -9883,7 +9883,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["xkiller-shekzeer"]=2,
 	["xlader-garalon"]=6,
 	["xladerinø-shekzeer"]=9,
-	["xladerovich-shekzeer"]=2,
+	["xladerovich-shekzeer"]=10,
 	["xladérz-shekzeer"]=1,
 	["xladerzf-shekzeer"]=6,
 	["xladerzg-shekzeer"]=1,
