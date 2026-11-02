@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9647 characters, read 2026-11-02 02:59 AM.
+-- Region tbc-eu, 9647 characters, read 2026-11-02 03:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10454,7 +10454,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["bloomr-spineshatter"]=3,
 	["bloomz-thunderstrike"]=6,
 	["blossy-spineshatter"]=1,
-	["bludlust-thunderstrike"]=13,
+	["bludlust-thunderstrike"]=18,
 	["blueape-spineshatter"]=11,
 	["bluebelle-spineshatter"]=2,
 	["blueblaster-spineshatter"]=11,
@@ -11015,7 +11015,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["commscope-spineshatter"]=24,
 	["compleksus-spineshatter"]=12,
 	["comportement-spineshatter"]=4,
-	["comprende-spineshatter"]=2,
+	["comprende-spineshatter"]=17,
 	["concerta-spineshatter"]=5,
 	["concertadisc-spineshatter"]=2,
 	["concertagodx-spineshatter"]=15,
@@ -18743,7 +18743,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["worldemoboss-spineshatter"]=1,
 	["worldpvpsz-spineshatter"]=5,
 	["worldstarx-spineshatter"]=11,
-	["worstbabe-spineshatter"]=2,
+	["worstbabe-spineshatter"]=17,
 	["worstdruidx-spineshatter"]=1,
 	["wørstðwarf-spineshatter"]=5,
 	["wotii-spineshatter"]=3,
