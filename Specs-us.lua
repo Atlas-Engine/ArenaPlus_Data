@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5212 characters, read 2026-11-02 05:59 AM.
+-- Region us, 5212 characters, read 2026-11-02 06:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2424,7 +2424,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["killzo-raden"]=10,
 	["kiluminati-pagle"]=41,
 	["kimiluv-raden"]=11,
-	["kìngrøach-galakras"]=51,
+	["kìngrøach-galakras"]=50,
 	["kinkykirby-raden"]=11,
 	["kinoshyba-pagle"]=10,
 	["kinshiki-galakras"]=50,
@@ -7031,7 +7031,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["hojreplol-raden"]=16,
 	["hojville-pagle"]=16,
 	["holidayhamii-pagle"]=16,
-	["holmz-pagle"]=18,
+	["holmz-pagle"]=3,
 	["holtxd-raden"]=7,
 	["holyangelz-pagle"]=2,
 	["holycanoli-galakras"]=16,
@@ -7555,7 +7555,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["kratoszx-pagle"]=7,
 	["kreirianstus-pagle"]=6,
 	["krelana-pagle"]=0,
-	["krelerunasth-nazgrim"]=28,
+	["krelerunasth-nazgrim"]=24,
 	["krico-raden"]=10,
 	["kromdorr-pagle"]=25,
 	["krooki-pagle"]=27,
@@ -9722,7 +9722,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["trojanbubble-pagle"]=2,
 	["trojanbubble-raden"]=2,
 	["trojanphobia-pagle"]=9,
-	["trolled-pagle"]=13,
+	["trolled-pagle"]=21,
 	["trôth-galakras"]=16,
 	["troyandk-raden"]=6,
 	["troyann-pagle"]=1,
@@ -9743,7 +9743,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["tsukawashime-raden"]=4,
 	["tsunadè-nazgrim"]=9,
 	["ttawdirg-pagle"]=3,
-	["tubalcain-galakras"]=15,
+	["tubalcain-galakras"]=19,
 	["tucosita-pagle"]=14,
 	["turaoferao-raden"]=5,
 	["turbantime-pagle"]=4,
