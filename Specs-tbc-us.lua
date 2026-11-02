@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9370 characters, read 2026-11-02 08:58 AM.
+-- Region tbc-us, 9371 characters, read 2026-11-02 09:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4377,6 +4377,7 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["knazugardarg-nightslayer"]=20,
 	["kneeintonsoh-nightslayer"]=41,
 	["kngfufkmastr-nightslayer"]=11,
+	["knícks-nightslayer"]=50,
 	["knìcks-nightslayer"]=80,
 	["knnz-nightslayer"]=51,
 	["knobgobblar-nightslayer"]=70,
@@ -6157,7 +6158,6 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["ploh-nightslayer"]=11,
 	["plokhoy-nightslayer"]=11,
 	["ploopity-nightslayer"]=41,
-	["plopgodx-nightslayer"]=60,
 	["plsnobully-nightslayer"]=50,
 	["plumesy-nightslayer"]=51,
 	["plumexx-nightslayer"]=20,
@@ -7051,6 +7051,7 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["shaayter-nightslayer"]=111,
 	["shabbaranks-nightslayer"]=30,
 	["shabbus-nightslayer"]=20,
+	["shabibaoxue-dreamscythe"]=80,
 	["shabzmd-nightslayer"]=51,
 	["shackwell-nightslayer"]=50,
 	["shacra-dreamscythe"]=31,
@@ -13687,6 +13688,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["knazugardarg-nightslayer"]=2,
 	["kneeintonsoh-nightslayer"]=7,
 	["kngfufkmastr-nightslayer"]=18,
+	["knícks-nightslayer"]=12,
 	["knìcks-nightslayer"]=12,
 	["knnz-nightslayer"]=1,
 	["knobgobblar-nightslayer"]=2,
@@ -15493,7 +15495,6 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ploh-nightslayer"]=8,
 	["plokhoy-nightslayer"]=5,
 	["ploopity-nightslayer"]=7,
-	["plopgodx-nightslayer"]=19,
 	["plsnobully-nightslayer"]=23,
 	["plumesy-nightslayer"]=5,
 	["plumexx-nightslayer"]=2,
@@ -16399,6 +16400,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["shaayter-nightslayer"]=24,
 	["shabbaranks-nightslayer"]=15,
 	["shabbus-nightslayer"]=2,
+	["shabibaoxue-dreamscythe"]=4,
 	["shabzmd-nightslayer"]=14,
 	["shackwell-nightslayer"]=4,
 	["shacra-dreamscythe"]=1,
@@ -16523,7 +16525,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["shiftytree-nightslayer"]=3,
 	["shigekazu-nightslayer"]=12,
 	["shigzy-nightslayer"]=1,
-	["shikumunss-dreamscythe"]=7,
+	["shikumunss-dreamscythe"]=3,
 	["shilly-nightslayer"]=2,
 	["shimo-nightslayer"]=2,
 	["shinbet-nightslayer"]=4,

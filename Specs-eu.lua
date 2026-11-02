@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5351 characters, read 2026-11-02 08:55 AM.
+-- Region eu, 5351 characters, read 2026-11-02 10:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1749,7 +1749,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["hquëën-firemaw"]=11,
 	["huanita-shekzeer"]=11,
 	["huevo-shekzeer"]=10,
-	["hugauffray-auberdine"]=11,
+	["hugauffray-auberdine"]=10,
 	["hugesac-shekzeer"]=11,
 	["hugsnotdrugs-shekzeer"]=11,
 	["huiying-auberdine"]=11,
@@ -7141,7 +7141,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["jhiraya-mirage-raceway"]=3,
 	["jimihendrix-shekzeer"]=1,
 	["jín-ook-ook"]=7,
-	["jingjang-everlook"]=7,
+	["jingjang-everlook"]=6,
 	["jinnxyo-shekzeer"]=5,
 	["jinzow-auberdine"]=20,
 	["jir-everlook"]=20,
@@ -7196,7 +7196,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["juicypusi-everlook"]=34,
 	["juicyverÿ-shekzeer"]=17,
 	["juicyzugzug-everlook"]=8,
-	["jûlês-everlook"]=7,
+	["jûlês-everlook"]=6,
 	["juliká-shekzeer"]=2,
 	["jullas-hoptallus"]=5,
 	["julliboomzxc-shekzeer"]=23,
@@ -7310,7 +7310,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["kîdneyshot-shekzeer"]=24,
 	["kigamí-shekzeer"]=0,
 	["killedbybyby-shekzeer"]=7,
-	["killedbycops-shekzeer"]=7,
+	["killedbycops-shekzeer"]=29,
 	["killedbypet-shekzeer"]=14,
 	["kíller-shekzeer"]=23,
 	["killershots-shekzeer"]=4,
@@ -9471,7 +9471,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["trustmebro-shekzeer"]=1,
 	["truthspeaker-shekzeer"]=6,
 	["tryinglock-shekzeer"]=17,
-	["trytorun-shekzeer"]=4,
+	["trytorun-shekzeer"]=20,
 	["tsima-shekzeer"]=3,
 	["tslx-shekzeer"]=13,
 	["tsouvirak-garalon"]=1,

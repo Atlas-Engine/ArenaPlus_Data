@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5212 characters, read 2026-11-02 08:59 AM.
+-- Region us, 5212 characters, read 2026-11-02 09:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1287,6 +1287,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["drshultz-nazgrim"]=21,
 	["drtv-raden"]=41,
 	["drugluk-nazgrim"]=20,
+	["drugsarebad-raden"]=11,
 	["druids-galakras"]=41,
 	["druidtankduh-nazgrim"]=61,
 	["druidtrainer-arugal-au"]=41,
@@ -6312,7 +6313,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["drshultz-nazgrim"]=6,
 	["drtv-raden"]=5,
 	["drugluk-nazgrim"]=22,
-	["drugsarebad-raden"]=0,
+	["drugsarebad-raden"]=2,
 	["druids-galakras"]=17,
 	["druidtankduh-nazgrim"]=5,
 	["druidtrainer-arugal-au"]=5,
@@ -6484,7 +6485,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["eyemkr-raden"]=22,
 	["eyep-pagle"]=1,
 	["eyesaa-pagle"]=3,
-	["ezfist-immerseus"]=4,
+	["ezfist-immerseus"]=10,
 	["eziø-raden"]=10,
 	["ezmode-nazgrim"]=0,
 	["ezmunk-galakras"]=27,
@@ -8654,7 +8655,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["qwes-raden"]=3,
 	["qwop-raden"]=0,
 	["qzw-galakras"]=4,
-	["raasclaat-pagle"]=5,
+	["raasclaat-pagle"]=17,
 	["rabager-grobbulus"]=19,
 	["rabblerouse-pagle"]=0,
 	["rabidwolf-pagle"]=19,
@@ -10005,7 +10006,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["wog-raden"]=16,
 	["wogonomics-pagle"]=2,
 	["wogxd-pagle"]=2,
-	["wokelikethis-pagle"]=5,
+	["wokelikethis-pagle"]=12,
 	["woland-raden"]=7,
 	["wolfdeathh-raden"]=6,
 	["wolfhunter-pagle"]=20,
@@ -10186,7 +10187,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["zenewenehoo-pagle"]=20,
 	["zengirl-raden"]=27,
 	["zeniitsu-pagle"]=7,
-	["zenithrax-pagle"]=6,
+	["zenithrax-pagle"]=26,
 	["zenmaxxing-pagle"]=10,
 	["zentore-raden"]=7,
 	["zentorelezen-raden"]=4,
