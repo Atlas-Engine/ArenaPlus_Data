@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5209 characters, read 2026-11-01 08:59 PM.
+-- Region us, 5209 characters, read 2026-11-01 09:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7486,11 +7486,11 @@ ns.SPECS_BY_REGION["us"] = {
 	["killbeer-pagle"]=2,
 	["killcommande-pagle"]=18,
 	["killdaspliff-pagle"]=22,
-	["killemaul-pagle"]=19,
+	["killemaul-pagle"]=15,
 	["killerkaos-galakras"]=12,
 	["killiah-pagle"]=7,
 	["killithe-pagle"]=18,
-	["killou-pagle"]=14,
+	["killou-pagle"]=34,
 	["killshot-immerseus"]=3,
 	["killstrike-immerseus"]=7,
 	["killzo-raden"]=18,
