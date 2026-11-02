@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5214 characters, read 2026-11-02 03:59 PM.
+-- Region us, 5214 characters, read 2026-11-02 04:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1608,7 +1608,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["freddykrueg-pagle"]=220,
 	["freebandzs-pagle"]=41,
 	["freedomspark-raden"]=221,
-	["freeix-pagle"]=21,
+	["freeix-pagle"]=20,
 	["freezenow-raden"]=10,
 	["frenzywinz-raden"]=11,
 	["freskahjr-arugal-au"]=10,
@@ -5687,7 +5687,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["burstinflams-pagle"]=0,
 	["burstzum-nazgrim"]=15,
 	["buryniceqt-raden"]=4,
-	["buster-raden"]=20,
+	["buster-raden"]=3,
 	["bustyshots-raden"]=20,
 	["butcherr-raden"]=18,
 	["buttafingaz-pagle"]=17,
@@ -5807,7 +5807,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["chinotonic-pagle"]=4,
 	["chiokeme-arugal-au"]=10,
 	["chitheline-raden"]=2,
-	["choé-pagle"]=11,
+	["choé-pagle"]=1,
 	["chonkars-raden"]=0,
 	["choosen-pagle"]=10,
 	["chorizero-immerseus"]=16,
@@ -5882,7 +5882,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["conjrexcuses-pagle"]=1,
 	["constantinej-raden"]=13,
 	["coochiemnstr-raden"]=1,
-	["coorsbanq-galakras"]=18,
+	["coorsbanq-galakras"]=20,
 	["cooterflute-raden"]=7,
 	["cornflakes-raden"]=3,
 	["cornßread-pagle"]=10,
@@ -6543,7 +6543,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["fefedruid-raden"]=12,
 	["fefewarrior-raden"]=7,
 	["fefy-pagle"]=7,
-	["feifei-raden"]=26,
+	["feifei-raden"]=6,
 	["feignjkdeter-raden"]=3,
 	["felicious-raden"]=23,
 	["feliixthecat-lei-shen"]=16,
@@ -6949,10 +6949,10 @@ ns.SPECS_BY_REGION["us"] = {
 	["härrick-immerseus"]=20,
 	["harrydotter-raden"]=28,
 	["hartfordct-pagle"]=19,
-	["harthgar-nazgrim"]=20,
+	["harthgar-nazgrim"]=3,
 	["haruchann-pagle"]=10,
 	["hashie-pagle"]=12,
-	["hatehord-pagle"]=18,
+	["hatehord-pagle"]=20,
 	["havitýx-raden"]=14,
 	["hãzel-pagle"]=17,
 	["hazi-galakras"]=3,

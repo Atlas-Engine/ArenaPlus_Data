@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9372 characters, read 2026-11-02 03:58 PM.
+-- Region tbc-us, 9372 characters, read 2026-11-02 04:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11071,7 +11071,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["danerduder-dreamscythe"]=24,
 	["dankhank-dreamscythe"]=10,
 	["danleshaman-nightslayer"]=10,
-	["dannwar-nightslayer"]=2,
+	["dannwar-nightslayer"]=18,
 	["dannybucket-nightslayer"]=18,
 	["dannynoonan-nightslayer"]=1,
 	["dannyp-nightslayer"]=24,
@@ -11464,7 +11464,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["dragonballx-nightslayer"]=5,
 	["dragonik-nightslayer"]=4,
 	["dragonlord-dreamscythe"]=1,
-	["dragoon-nightslayer"]=15,
+	["dragoon-nightslayer"]=17,
 	["dragoonair-nightslayer"]=4,
 	["dragoonii-nightslayer"]=1,
 	["drainmepapi-nightslayer"]=19,
@@ -11998,7 +11998,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["feriss-nightslayer"]=2,
 	["ferlaforyu-nightslayer"]=3,
 	["ferolp-nightslayer"]=1,
-	["ferolpe-nightslayer"]=14,
+	["ferolpe-nightslayer"]=1,
 	["ferrøus-nightslayer"]=7,
 	["fervor-nightslayer"]=18,
 	["festersmash-nightslayer"]=2,
@@ -13488,7 +13488,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["kaidou-nightslayer"]=5,
 	["kaie-nightslayer"]=11,
 	["kaijulol-nightslayer"]=2,
-	["kakao-nightslayer"]=6,
+	["kakao-nightslayer"]=4,
 	["kakikou-nightslayer"]=2,
 	["kalagren-nightslayer"]=24,
 	["kalam-nightslayer"]=4,
@@ -16561,7 +16561,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["shockirâ-nightslayer"]=10,
 	["shockquisha-nightslayer"]=10,
 	["shockrateez-nightslayer"]=11,
-	["shocktickles-nightslayer"]=10,
+	["shocktickles-nightslayer"]=19,
 	["shockwindx-nightslayer"]=1,
 	["shockykamms-dreamscythe"]=10,
 	["shockykamms-nightslayer"]=10,
