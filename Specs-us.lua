@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5214 characters, read 2026-11-02 02:59 PM.
+-- Region us, 5214 characters, read 2026-11-02 03:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -973,7 +973,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["daggertwist-raden"]=10,
 	["dailou-grobbulus"]=10,
 	["dákar-galakras"]=10,
-	["dakini-raden"]=11,
+	["dakini-raden"]=10,
 	["dakleh-pagle"]=11,
 	["dalekpax-raden"]=11,
 	["damacus-raden"]=11,
@@ -4258,7 +4258,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["subzeroiq-raden"]=11,
 	["sucros-pagle"]=10,
 	["sugâr-raden"]=11,
-	["sugarbear-raden"]=10,
+	["sugarbear-raden"]=11,
 	["sugarbeet-raden"]=41,
 	["sugarich-pagle"]=11,
 	["sugarpox-pagle"]=11,
@@ -5988,7 +5988,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dailou-grobbulus"]=7,
 	["daje-pagle"]=0,
 	["dákar-galakras"]=7,
-	["dakini-raden"]=18,
+	["dakini-raden"]=3,
 	["dakleh-pagle"]=10,
 	["dalekpax-raden"]=14,
 	["damacus-raden"]=1,
@@ -7055,7 +7055,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["holysnîper-grobbulus"]=3,
 	["holythugx-pagle"]=16,
 	["holytick-pagle"]=2,
-	["holyvale-pagle"]=13,
+	["holyvale-pagle"]=21,
 	["hólyy-raden"]=16,
 	["holyywarr-raden"]=7,
 	["homiecuh-nazgrim"]=28,
@@ -7183,7 +7183,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["illdra-pagle"]=32,
 	["illidari-pagle"]=3,
 	["illidingus-nazgrim"]=2,
-	["illíli-raden"]=26,
+	["illíli-raden"]=25,
 	["illumna-grobbulus"]=24,
 	["ilnicoll-pagle"]=2,
 	["ilockedyouup-pagle"]=24,
@@ -8772,7 +8772,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["renegade-raden"]=3,
 	["renethan-pagle"]=4,
 	["renewingwinz-raden"]=4,
-	["renn-arugal-au"]=23,
+	["renn-arugal-au"]=7,
 	["renoir-raden"]=4,
 	["rep-galakras"]=21,
 	["repentence-pagle"]=16,
