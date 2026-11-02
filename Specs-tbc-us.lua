@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9369 characters, read 2026-11-02 01:58 AM.
+-- Region tbc-us, 9369 characters, read 2026-11-02 02:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9775,7 +9775,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bakey-dreamscythe"]=6,
 	["bakshotlarry-nightslayer"]=4,
 	["bakstab-nightslayer"]=5,
-	["balalalalu-dreamscythe"]=15,
+	["balalalalu-dreamscythe"]=21,
 	["balalalaluu-dreamscythe"]=9,
 	["baldandthicc-nightslayer"]=1,
 	["baldazario-nightslayer"]=2,
@@ -10582,7 +10582,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["chadzdan-nightslayer"]=11,
 	["chainhealr-nightslayer"]=10,
 	["chainhealxd-dreamscythe"]=19,
-	["chaiñlight-nightslayer"]=10,
+	["chaiñlight-nightslayer"]=24,
 	["chakakhan-nightslayer"]=10,
 	["chalked-nightslayer"]=18,
 	["champb-dreamscythe"]=15,
@@ -10912,7 +10912,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["crazythunder-nightslayer"]=19,
 	["crcrcrcrcrcr-nightslayer"]=12,
 	["cream-nightslayer"]=4,
-	["creamtotes-nightslayer"]=10,
+	["creamtotes-nightslayer"]=24,
 	["creation-nightslayer"]=4,
 	["creationlawl-nightslayer"]=7,
 	["creationw-nightslayer"]=2,
@@ -13020,7 +13020,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["iconspriest-nightslayer"]=1,
 	["icydwuid-nightslayer"]=3,
 	["icyfrésh-nightslayer"]=4,
-	["icypug-nightslayer"]=11,
+	["icypug-nightslayer"]=9,
 	["idaresonyeo-nightslayer"]=1,
 	["iddiot-nightslayer"]=7,
 	["idiotdog-nightslayer"]=7,
