@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9582 characters, read 2026-11-03 02:49 AM.
+-- Region tbc-eu, 9585 characters, read 2026-11-03 03:34 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7492,6 +7492,7 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["skills-spineshatter"]=31,
 	["skillster-spineshatter"]=60,
 	["skimme-thunderstrike"]=50,
+	["skinbark-spineshatter"]=40,
 	["skinnybetch-thunderstrike"]=41,
 	["skipler-spineshatter"]=20,
 	["skìri-spineshatter"]=51,
@@ -8165,6 +8166,7 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["tegasdaddy-spineshatter"]=70,
 	["tegi-thunderstrike"]=11,
 	["tehund-spineshatter"]=41,
+	["tekakwitha-thunderstrike"]=61,
 	["tekkenx-spineshatter"]=70,
 	["tekknotoniyo-spineshatter"]=101,
 	["tekknotony-spineshatter"]=80,
@@ -10580,7 +10582,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["bukiw-spineshatter"]=15,
 	["bulbasaur-spineshatter"]=5,
 	["buldozas-spineshatter"]=15,
-	["bulldozar-spineshatter"]=15,
+	["bulldozar-spineshatter"]=5,
 	["bullminator-thunderstrike"]=5,
 	["bulltap-spineshatter"]=4,
 	["bulobongo-spineshatter"]=2,
@@ -11976,7 +11978,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["eurypides-spineshatter"]=23,
 	["evaberger-spineshatter"]=3,
 	["evai-spineshatter"]=8,
-	["evellynee-thunderstrike"]=13,
+	["evellynee-thunderstrike"]=18,
 	["evellynne-thunderstrike"]=1,
 	["eveningstars-thunderstrike"]=14,
 	["everlost-spineshatter"]=9,
@@ -12158,6 +12160,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["fetidorifice-spineshatter"]=9,
 	["fetterkater-thunderstrike"]=1,
 	["fettmyestyr-spineshatter"]=2,
+	["fettnasty-spineshatter"]=0,
 	["fexn-spineshatter"]=2,
 	["feyld-spineshatter"]=1,
 	["feylxd-spineshatter"]=17,
@@ -12370,7 +12373,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["frozendiva-spineshatter"]=4,
 	["frshprncfblr-spineshatter"]=11,
 	["fruitheal-spineshatter"]=1,
-	["fruitslices-thunderstrike"]=3,
+	["fruitslices-thunderstrike"]=19,
 	["frutytuty-spineshatter"]=2,
 	["fsxsham-spineshatter"]=11,
 	["ftwfab-spineshatter"]=25,
@@ -17050,6 +17053,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["skills-spineshatter"]=2,
 	["skillster-spineshatter"]=20,
 	["skimme-thunderstrike"]=9,
+	["skinbark-spineshatter"]=1,
 	["skinnybetch-thunderstrike"]=1,
 	["skipler-spineshatter"]=25,
 	["skìri-spineshatter"]=8,
@@ -17734,6 +17738,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["tegasdaddy-spineshatter"]=4,
 	["tegi-thunderstrike"]=10,
 	["tehund-spineshatter"]=1,
+	["tekakwitha-thunderstrike"]=1,
 	["tekkenx-spineshatter"]=4,
 	["tekknotoniyo-spineshatter"]=7,
 	["tekknotony-spineshatter"]=11,

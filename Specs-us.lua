@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5214 characters, read 2026-11-03 02:59 AM.
+-- Region us, 5214 characters, read 2026-11-03 03:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2451,7 +2451,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["knuckles-pagle"]=11,
 	["knucklès-pagle"]=11,
 	["knucklës-pagle"]=11,
-	["knûckles-pagle"]=220,
+	["knûckles-pagle"]=41,
 	["kñuckles-pagle"]=11,
 	["kobe-lei-shen"]=10,
 	["kokuzin-pagle"]=10,
@@ -4717,7 +4717,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["vulture-raden"]=11,
 	["vvalaydia-pagle"]=11,
 	["vvarrior-raden"]=10,
-	["vvuvvuuvvuvv-raden"]=11,
+	["vvuvvuuvvuvv-raden"]=10,
 	["vyaphets-immerseus"]=80,
 	["vyndruh-pagle"]=100,
 	["vysifer-pagle"]=101,
@@ -6750,7 +6750,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["geser-raden"]=20,
 	["getaway-nazgrim"]=1,
 	["getclapt-lei-shen"]=6,
-	["getdough-grobbulus"]=16,
+	["getdough-grobbulus"]=2,
 	["getfukdlol-grobbulus"]=14,
 	["getleid-lei-shen"]=7,
 	["getshton-raden"]=5,
@@ -7530,7 +7530,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["knuckles-pagle"]=7,
 	["knucklès-pagle"]=2,
 	["knucklës-pagle"]=8,
-	["knûckles-pagle"]=5,
+	["knûckles-pagle"]=17,
 	["kñuckles-pagle"]=6,
 	["kobe-lei-shen"]=1,
 	["kokuzin-pagle"]=7,
@@ -7967,7 +7967,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["miataz-raden"]=6,
 	["miawci-galakras"]=5,
 	["michaaeell-pagle"]=6,
-	["míchaeldk-pagle"]=26,
+	["míchaeldk-pagle"]=25,
 	["mickr-raden"]=14,
 	["mictlan-raden"]=1,
 	["miercy-galakras"]=16,
@@ -7992,10 +7992,10 @@ ns.SPECS_BY_REGION["us"] = {
 	["mîndless-raden"]=28,
 	["mindlessjack-raden"]=9,
 	["míndléssjáck-raden"]=18,
-	["mindlessjak-raden"]=24,
+	["mindlessjak-raden"]=28,
 	["mindlessjr-nazgrim"]=28,
 	["mindlessjuan-raden"]=28,
-	["mindlless-raden"]=9,
+	["mindlless-raden"]=21,
 	["mindprison-raden"]=0,
 	["minigalof-raden"]=1,
 	["minioutragé-raden"]=24,
@@ -9923,7 +9923,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["vulture-raden"]=9,
 	["vvalaydia-pagle"]=1,
 	["vvarrior-raden"]=6,
-	["vvuvvuuvvuvv-raden"]=1,
+	["vvuvvuuvvuvv-raden"]=11,
 	["vyaphets-immerseus"]=1,
 	["vyndruh-pagle"]=2,
 	["vysifer-pagle"]=24,
@@ -10055,7 +10055,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["xatyka-pagle"]=1,
 	["xavilier-pagle"]=29,
 	["xb-galakras"]=4,
-	["xbushmaster-pagle"]=12,
+	["xbushmaster-pagle"]=5,
 	["xbushweaver-pagle"]=4,
 	["xcen-raden"]=18,
 	["xcnrich-raden"]=10,
