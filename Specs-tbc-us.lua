@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9376 characters, read 2026-11-03 04:58 PM.
+-- Region tbc-us, 9376 characters, read 2026-11-03 05:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10923,7 +10923,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["crazythunder-nightslayer"]=19,
 	["crcrcrcrcrcr-nightslayer"]=12,
 	["cream-nightslayer"]=4,
-	["creamtotes-nightslayer"]=24,
+	["creamtotes-nightslayer"]=10,
 	["creation-nightslayer"]=4,
 	["creationlawl-nightslayer"]=7,
 	["creationw-nightslayer"]=2,
@@ -12406,7 +12406,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["gimlidabest-nightslayer"]=5,
 	["gimlyson-nightslayer"]=11,
 	["gimmiedaloot-dreamscythe"]=5,
-	["gimski-nightslayer"]=6,
+	["gimski-nightslayer"]=4,
 	["gingerless-dreamscythe"]=15,
 	["ginnaginn-nightslayer"]=15,
 	["ginnr-nightslayer"]=11,
@@ -12528,7 +12528,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["goydric-nightslayer"]=9,
 	["gph-nightslayer"]=6,
 	["graar-nightslayer"]=17,
-	["grabar-dreamscythe"]=8,
+	["grabar-dreamscythe"]=5,
 	["grãcexo-dreamscythe"]=1,
 	["grainbin-dreamscythe"]=9,
 	["gralno-nightslayer"]=7,
@@ -14372,7 +14372,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["meda-nightslayer"]=24,
 	["medastorm-nightslayer"]=24,
 	["meddlesome-nightslayer"]=1,
-	["medevaxx-nightslayer"]=7,
+	["medevaxx-nightslayer"]=3,
 	["medi-nightslayer"]=1,
 	["medimark-nightslayer"]=15,
 	["medion-nightslayer"]=12,
@@ -14667,7 +14667,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["moredotzz-nightslayer"]=13,
 	["moreganna-nightslayer"]=6,
 	["moreperfect-dreamscythe"]=7,
-	["morepower-nightslayer"]=7,
+	["morepower-nightslayer"]=22,
 	["morganfredom-nightslayer"]=25,
 	["morgiano-dreamscythe"]=24,
 	["moritwotoe-nightslayer"]=2,
@@ -15849,7 +15849,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["raynemann-dreamscythe"]=6,
 	["raystigger-nightslayer"]=5,
 	["raystigz-dreamscythe"]=6,
-	["raystigz-nightslayer"]=6,
+	["raystigz-nightslayer"]=4,
 	["rayyaflow-nightslayer"]=6,
 	["rayzo-nightslayer"]=5,
 	["razakam-nightslayer"]=6,
@@ -16758,7 +16758,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["slopnastyhot-dreamscythe"]=7,
 	["slothcam-nightslayer"]=6,
 	["slothmoo-nightslayer"]=7,
-	["slowbolt-nightslayer"]=6,
+	["slowbolt-nightslayer"]=4,
 	["sloweyes-nightslayer"]=7,
 	["slowfast-nightslayer"]=13,
 	["slugpax-nightslayer"]=5,
@@ -16785,7 +16785,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["smashnextt-nightslayer"]=2,
 	["smaxor-nightslayer"]=2,
 	["smeal-nightslayer"]=5,
-	["smeld-dreamscythe"]=7,
+	["smeld-dreamscythe"]=3,
 	["smelerad-nightslayer"]=10,
 	["smellnar-nightslayer"]=11,
 	["smellytrash-nightslayer"]=5,

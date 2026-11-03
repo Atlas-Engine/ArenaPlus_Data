@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5215 characters, read 2026-11-03 04:59 PM.
+-- Region us, 5215 characters, read 2026-11-03 05:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -400,7 +400,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["bdm-raden"]=11,
 	["bdx-raden"]=11,
 	["beabo-raden"]=20,
-	["bearflow-nazgrim"]=60,
 	["bearhammer-lei-shen"]=20,
 	["bearìcade-pagle"]=60,
 	["bearlygoat-lei-shen"]=41,
@@ -5382,7 +5381,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["bdm-raden"]=16,
 	["bdx-raden"]=1,
 	["beabo-raden"]=7,
-	["bearflow-nazgrim"]=5,
+	["bearflow-nazgrim"]=0,
 	["bearhammer-lei-shen"]=7,
 	["bearìcade-pagle"]=12,
 	["bearlygoat-lei-shen"]=5,
@@ -5622,7 +5621,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["bramanmanman-grobbulus"]=15,
 	["branco-raden"]=0,
 	["brandoncle-galakras"]=2,
-	["brandopanda-galakras"]=10,
+	["brandopanda-galakras"]=27,
 	["brazzeal-pagle"]=16,
 	["brbcloning-pagle"]=17,
 	["brbsheeping-pagle"]=1,
@@ -5688,7 +5687,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["burstinflams-pagle"]=0,
 	["burstzum-nazgrim"]=15,
 	["buryniceqt-raden"]=4,
-	["buster-raden"]=3,
+	["buster-raden"]=20,
 	["bustyshots-raden"]=20,
 	["butcherr-raden"]=18,
 	["buttafingaz-pagle"]=17,
@@ -5708,13 +5707,13 @@ ns.SPECS_BY_REGION["us"] = {
 	["calamity-pagle"]=7,
 	["calave-raden"]=16,
 	["caledonis-pagle"]=9,
-	["cálid-immerseus"]=1,
+	["cálid-immerseus"]=11,
 	["callmelongbo-galakras"]=20,
 	["calltoarms-galakras"]=7,
 	["calltoarms-pagle"]=16,
 	["calmish-lei-shen"]=10,
 	["camerano-pagle"]=7,
-	["camiloxdja-galakras"]=21,
+	["camiloxdja-galakras"]=13,
 	["candity-arugal-au"]=18,
 	["candykanes-pagle"]=28,
 	["canera-galakras"]=10,
@@ -8449,7 +8448,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["palalazy-pagle"]=16,
 	["palamán-raden"]=32,
 	["palanex-raden"]=2,
-	["palanix-raden"]=16,
+	["palanix-raden"]=2,
 	["palapala-pagle"]=2,
 	["paledeath-immerseus"]=6,
 	["pallyboss-galakras"]=0,

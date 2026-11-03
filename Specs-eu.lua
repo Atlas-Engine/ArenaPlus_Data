@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5357 characters, read 2026-11-03 05:00 PM.
+-- Region eu, 5357 characters, read 2026-11-03 06:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1877,7 +1877,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["jâckywhâcky-shekzeer"]=11,
 	["jacqueline-shekzeer"]=31,
 	["jagerovich-shekzeer"]=41,
-	["jâgerr-shekzeer"]=11,
+	["jâgerr-shekzeer"]=10,
 	["jagge-norushen"]=60,
 	["jaggmir-ook-ook"]=21,
 	["jáguar-shekzeer"]=11,
@@ -6223,7 +6223,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["dogecoinxx-shekzeer"]=12,
 	["dogfight-shekzeer"]=0,
 	["doha-shekzeer"]=2,
-	["dokiúr-mirage-raceway"]=11,
+	["dokiúr-mirage-raceway"]=3,
 	["dokken-shekzeer"]=2,
 	["dolaro-hoptallus"]=0,
 	["doll-shekzeer"]=9,
@@ -7861,7 +7861,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["monduk-auberdine"]=7,
 	["moneylong-shekzeer"]=17,
 	["mongoliamonk-hoptallus"]=13,
-	["mongue-garalon"]=12,
+	["mongue-garalon"]=9,
 	["monkasxd-everlook"]=6,
 	["monkasxd-ook-ook"]=6,
 	["monkaye-mirage-raceway"]=7,
@@ -8543,7 +8543,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["raman-garalon"]=19,
 	["ramsei-auberdine"]=25,
 	["randomboi-shekzeer"]=0,
-	["randomfury-mirage-raceway"]=19,
+	["randomfury-mirage-raceway"]=16,
 	["ranji-shekzeer"]=0,
 	["rankonedemon-shekzeer"]=9,
 	["rankwar-mirage-raceway"]=1,
@@ -9127,7 +9127,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["stampede-mirage-raceway"]=3,
 	["starelement-shekzeer"]=16,
 	["starfairy-mirage-raceway"]=11,
-	["starfallz-norushen"]=11,
+	["starfallz-norushen"]=32,
 	["starless-shekzeer"]=3,
 	["statechamp-shekzeer"]=8,
 	["statícc-shekzeer"]=0,
