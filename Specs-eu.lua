@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5356 characters, read 2026-11-03 12:00 AM.
+-- Region eu, 5356 characters, read 2026-11-03 01:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3726,6 +3726,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["smashbangz-shekzeer"]=11,
 	["smashez-shekzeer"]=11,
 	["smashmonk-shekzeer"]=11,
+	["smashpow-shekzeer"]=10,
 	["smaxygonziz-shekzeer"]=11,
 	["smeaqx-ook-ook"]=100,
 	["smileyslayer-mirage-raceway"]=11,
@@ -8446,7 +8447,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["prachton-mirage-raceway"]=15,
 	["prâitre-mirage-raceway"]=9,
 	["praystation-ook-ook"]=22,
-	["predak-mirage-raceway"]=14,
+	["predak-mirage-raceway"]=4,
 	["premanchan-everlook"]=26,
 	["prénium-auberdine"]=3,
 	["préservateaf-auberdine"]=2,
@@ -9018,7 +9019,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["smashbangz-shekzeer"]=1,
 	["smashez-shekzeer"]=25,
 	["smashmonk-shekzeer"]=6,
-	["smashpow-shekzeer"]=0,
+	["smashpow-shekzeer"]=1,
 	["smaxygonziz-shekzeer"]=1,
 	["smeaqx-ook-ook"]=15,
 	["smileyslayer-mirage-raceway"]=4,
