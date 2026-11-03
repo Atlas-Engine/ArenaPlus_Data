@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9378 characters, read 2026-11-03 09:58 AM.
+-- Region tbc-us, 9377 characters, read 2026-11-03 10:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5588,7 +5588,6 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["nightjdnr-nightslayer"]=11,
 	["nightraith-nightslayer"]=60,
 	["nightroot-dreamscythe"]=41,
-	["nìghtstälker-dreamscythe"]=60,
 	["nightswiper-nightslayer"]=50,
 	["nightts-nightslayer"]=10,
 	["niimrod-nightslayer"]=21,
@@ -14921,7 +14920,6 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["nightjdnr-nightslayer"]=2,
 	["nightraith-nightslayer"]=7,
 	["nightroot-dreamscythe"]=7,
-	["nìghtstälker-dreamscythe"]=7,
 	["nightswiper-nightslayer"]=6,
 	["nightts-nightslayer"]=2,
 	["niimrod-nightslayer"]=2,
@@ -18363,7 +18361,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["xpectdeath-nightslayer"]=13,
 	["xraka-nightslayer"]=18,
 	["xrayvision-nightslayer"]=5,
-	["xsí-nightslayer"]=6,
+	["xsí-nightslayer"]=4,
 	["xsipinkman-nightslayer"]=1,
 	["xsyl-nightslayer"]=18,
 	["xtfoacy-nightslayer"]=4,

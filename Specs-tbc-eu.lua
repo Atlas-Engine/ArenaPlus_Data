@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9589 characters, read 2026-11-03 09:44 AM.
+-- Region tbc-eu, 9589 characters, read 2026-11-03 10:54 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -15215,7 +15215,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["nevermindx-spineshatter"]=19,
 	["névermore-spineshatter"]=3,
 	["nevershearx-spineshatter"]=5,
-	["nevinna-spineshatter"]=12,
+	["nevinna-spineshatter"]=11,
 	["nevinnawar-spineshatter"]=5,
 	["nevinost-spineshatter"]=14,
 	["nevyo-spineshatter"]=11,
@@ -15412,7 +15412,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["nurfzy-spineshatter"]=1,
 	["nurofen-spineshatter"]=1,
 	["nushak-thunderstrike"]=26,
-	["nutcracky-spineshatter"]=4,
+	["nutcracky-spineshatter"]=9,
 	["nutellaskurk-spineshatter"]=3,
 	["nutlust-spineshatter"]=23,
 	["nuttý-spineshatter"]=15,
@@ -17141,7 +17141,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["slipperyderp-spineshatter"]=11,
 	["slipperyjane-spineshatter"]=1,
 	["slippydr-spineshatter"]=1,
-	["slivovitz-spineshatter"]=9,
+	["slivovitz-spineshatter"]=4,
 	["slobs-spineshatter"]=11,
 	["slofia-spineshatter"]=0,
 	["slopbucket-spineshatter"]=0,
