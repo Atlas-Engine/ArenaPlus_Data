@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5215 characters, read 2026-11-03 06:59 AM.
+-- Region us, 5215 characters, read 2026-11-03 07:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6479,7 +6479,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["exizt-raden"]=3,
 	["exiztm-raden"]=1,
 	["exiztww-raden"]=10,
-	["exoticdots-pagle"]=21,
+	["exoticdots-pagle"]=13,
 	["exotichub-galakras"]=20,
 	["explicit-raden"]=14,
 	["exxor-raden"]=7,
@@ -6831,7 +6831,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["gonegirl-pagle"]=21,
 	["goochwhisper-nazgrim"]=29,
 	["goodolgamgam-raden"]=32,
-	["goofygoofer-raden"]=2,
+	["goofygoofer-raden"]=16,
 	["googleorbs-immerseus"]=4,
 	["googlepain-immerseus"]=3,
 	["goonerqt-pagle"]=9,
@@ -6931,7 +6931,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["hardcorelock-pagle"]=24,
 	["hardflip-pagle"]=34,
 	["hardtodie-pagle"]=10,
-	["harìbo-pagle"]=22,
+	["harìbo-pagle"]=15,
 	["hariv-pagle"]=3,
 	["harlêmhêat-lei-shen"]=1,
 	["harleyquinxo-lei-shen"]=4,

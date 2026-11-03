@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5356 characters, read 2026-11-03 07:00 AM.
+-- Region eu, 5358 characters, read 2026-11-03 08:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -776,6 +776,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["chû-everlook"]=11,
 	["chucknofist-ook-ook"]=11,
 	["chucknourísh-ook-ook"]=41,
+	["chuckymw-shekzeer"]=41,
 	["chumahod-shekzeer"]=10,
 	["chunglee-everlook"]=10,
 	["chuppachups-norushen"]=101,
@@ -1487,6 +1488,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["ghst-shekzeer"]=11,
 	["giantzemi-shekzeer"]=11,
 	["giantzlion-shekzeer"]=20,
+	["ginftw-shekzeer"]=11,
 	["ginkin-ook-ook"]=41,
 	["ginkushen-shekzeer"]=10,
 	["ginmonky-ook-ook"]=101,
@@ -2418,7 +2420,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["maedic-shekzeer"]=11,
 	["maedictv-shekzeer"]=31,
 	["maedicww-shekzeer"]=11,
-	["mædøx-shekzeer"]=10,
+	["mædøx-shekzeer"]=11,
 	["maenda-auberdine"]=21,
 	["maervo-shekzeer"]=10,
 	["maestrø-shekzeer"]=10,
@@ -5914,6 +5916,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["chû-everlook"]=2,
 	["chucknofist-ook-ook"]=6,
 	["chucknourísh-ook-ook"]=3,
+	["chuckymw-shekzeer"]=6,
 	["chumahod-shekzeer"]=8,
 	["chunglee-everlook"]=7,
 	["chuppachups-norushen"]=8,
@@ -6659,6 +6662,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["ghst-shekzeer"]=26,
 	["giantzemi-shekzeer"]=1,
 	["giantzlion-shekzeer"]=1,
+	["ginftw-shekzeer"]=1,
 	["ginkin-ook-ook"]=3,
 	["ginkushen-shekzeer"]=15,
 	["ginmonky-ook-ook"]=29,
@@ -7635,7 +7639,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["macuni-shekzeer"]=1,
 	["madaurmada-shekzeer"]=3,
 	["madaurpapa-shekzeer"]=3,
-	["maddiganxo-shekzeer"]=3,
+	["maddiganxo-shekzeer"]=11,
 	["madgurux-shekzeer"]=11,
 	["madlore-shekzeer"]=1,
 	["madmyke-shekzeer"]=1,
@@ -9600,7 +9604,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["vanthief-shekzeer"]=26,
 	["varaxx-mirage-raceway"]=13,
 	["varkin-mirage-raceway"]=1,
-	["varkong-mirage-raceway"]=25,
+	["varkong-mirage-raceway"]=1,
 	["varoline-shekzeer"]=4,
 	["vashi-norushen"]=12,
 	["vasyanpro-shekzeer"]=1,
