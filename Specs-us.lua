@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5215 characters, read 2026-11-03 10:59 AM.
+-- Region us, 5215 characters, read 2026-11-03 11:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6646,7 +6646,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["frawbinbowls-pagle"]=16,
 	["freakshowx-raden"]=17,
 	["freddykrueg-pagle"]=8,
-	["freebandzs-pagle"]=9,
+	["freebandzs-pagle"]=21,
 	["freedomspark-raden"]=11,
 	["freeix-pagle"]=15,
 	["freezenow-raden"]=1,
@@ -7532,7 +7532,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["knuckles-pagle"]=7,
 	["knucklès-pagle"]=2,
 	["knucklës-pagle"]=8,
-	["knûckles-pagle"]=17,
+	["knûckles-pagle"]=5,
 	["kñuckles-pagle"]=6,
 	["kobe-lei-shen"]=1,
 	["kokuzin-pagle"]=7,
@@ -8731,7 +8731,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["realn-pagle"]=16,
 	["realugly-galakras"]=26,
 	["reàperlxl-pagle"]=7,
-	["reasonablë-arugal-au"]=11,
+	["reasonablë-arugal-au"]=1,
 	["rebke-pagle"]=16,
 	["rebki-pagle"]=7,
 	["rebkii-pagle"]=6,

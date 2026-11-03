@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9589 characters, read 2026-11-03 10:54 AM.
+-- Region tbc-eu, 9589 characters, read 2026-11-03 11:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10123,7 +10123,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["banxw-spineshatter"]=15,
 	["baowi-spineshatter"]=12,
 	["baozí-spineshatter"]=18,
-	["bäphomet-spineshatter"]=3,
+	["bäphomet-spineshatter"]=19,
 	["barathon-spineshatter"]=11,
 	["barazanthul-thunderstrike"]=25,
 	["barbeque-spineshatter"]=11,
@@ -11648,7 +11648,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["drprayerlol-spineshatter"]=2,
 	["drrakuz-spineshatter"]=23,
 	["drschultz-spineshatter"]=5,
-	["drsheep-spineshatter"]=4,
+	["drsheep-spineshatter"]=9,
 	["drsus-spineshatter"]=11,
 	["drtcrnx-spineshatter"]=7,
 	["drudaw-thunderstrike"]=6,
@@ -18931,7 +18931,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["zattladoft-spineshatter"]=5,
 	["zauberfrau-spineshatter"]=9,
 	["zauberuwu-spineshatter"]=4,
-	["zauberuwu-thunderstrike"]=4,
+	["zauberuwu-thunderstrike"]=9,
 	["zaxwlock-spineshatter"]=13,
 	["zaxxs-spineshatter"]=1,
 	["zazazazaa-spineshatter"]=3,
