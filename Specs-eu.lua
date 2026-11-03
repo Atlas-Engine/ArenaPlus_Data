@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5354 characters, read 2026-11-02 06:00 PM.
+-- Region eu, 5354 characters, read 2026-11-02 07:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3722,7 +3722,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["smashbangz-shekzeer"]=11,
 	["smashez-shekzeer"]=11,
 	["smashmonk-shekzeer"]=11,
-	["smashpow-firemaw"]=10,
 	["smaxygonziz-shekzeer"]=11,
 	["smeaqx-ook-ook"]=100,
 	["smileyslayer-mirage-raceway"]=11,
@@ -5656,7 +5655,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["blaqchina-shekzeer"]=6,
 	["blawi-mirage-raceway"]=1,
 	["blawii-mirage-raceway"]=2,
-	["blaxxs-everlook"]=21,
+	["blaxxs-everlook"]=32,
 	["blckmatt-shekzeer"]=6,
 	["bleexy-everlook"]=20,
 	["bleqy-shekzeer"]=15,
@@ -5679,7 +5678,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bloodsaber-shekzeer"]=1,
 	["bloodytrace-shekzeer"]=4,
 	["bluetoad-shekzeer"]=15,
-	["bluevoidd-shekzeer"]=23,
+	["bluevoidd-shekzeer"]=28,
 	["blushxoxo-shekzeer"]=24,
 	["blyatmanx-shekzeer"]=14,
 	["bmsk-shekzeer"]=6,
@@ -5689,7 +5688,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bobbyshmürda-shekzeer"]=3,
 	["bobbysta-auberdine"]=9,
 	["bobjones-norushen"]=12,
-	["bobz-auberdine"]=7,
+	["bobz-auberdine"]=6,
 	["bodyfitness-shekzeer"]=2,
 	["bodytypekek-shekzeer"]=2,
 	["bokolokoo-shekzeer"]=4,
@@ -6400,7 +6399,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["enej-shekzeer"]=4,
 	["enjoybro-shekzeer"]=2,
 	["enô-shekzeer"]=16,
-	["Ênragêd-shekzeer"]=31,
+	["Ênragêd-shekzeer"]=8,
 	["enzo-mirage-raceway"]=8,
 	["eoten-mirage-raceway"]=3,
 	["erbapura-shekzeer"]=2,
@@ -8544,7 +8543,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["rakamvp-shekzeer"]=13,
 	["raketenrudy-everlook"]=4,
 	["rakû-auberdine"]=1,
-	["raman-garalon"]=19,
+	["raman-garalon"]=13,
 	["ramsei-auberdine"]=25,
 	["randomboi-shekzeer"]=0,
 	["randomfury-mirage-raceway"]=16,
@@ -9013,7 +9012,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["smashbangz-shekzeer"]=1,
 	["smashez-shekzeer"]=25,
 	["smashmonk-shekzeer"]=6,
-	["smashpow-firemaw"]=1,
+	["smashpow-firemaw"]=0,
 	["smaxygonziz-shekzeer"]=1,
 	["smeaqx-ook-ook"]=15,
 	["smileyslayer-mirage-raceway"]=4,
