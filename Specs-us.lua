@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5215 characters, read 2026-11-03 07:59 AM.
+-- Region us, 5216 characters, read 2026-11-03 08:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2404,6 +2404,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["kickflip-raden"]=20,
 	["kidfrøst-pagle"]=50,
 	["kiggzp-pagle"]=11,
+	["kiggzw-pagle"]=11,
 	["kiggzx-pagle"]=41,
 	["kijø-pagle"]=11,
 	["kilgorë-immerseus"]=80,
@@ -7196,7 +7197,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["immutt-pagle"]=0,
 	["imnorun-raden"]=9,
 	["impaciente-raden"]=26,
-	["impack-raden"]=12,
+	["impack-raden"]=17,
 	["impería-pagle"]=1,
 	["imperïa-pagle"]=1,
 	["imphamous-pagle"]=1,
@@ -7482,6 +7483,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["kickflip-raden"]=10,
 	["kidfrøst-pagle"]=1,
 	["kiggzp-pagle"]=16,
+	["kiggzw-pagle"]=7,
 	["kiggzx-pagle"]=17,
 	["kijø-pagle"]=24,
 	["kilgorë-immerseus"]=19,

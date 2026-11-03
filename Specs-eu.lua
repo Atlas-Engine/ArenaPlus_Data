@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5358 characters, read 2026-11-03 08:00 AM.
+-- Region eu, 5358 characters, read 2026-11-03 09:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7316,7 +7316,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["kîdneyshot-shekzeer"]=24,
 	["kigamí-shekzeer"]=0,
 	["killedbybyby-shekzeer"]=7,
-	["killedbycops-shekzeer"]=29,
+	["killedbycops-shekzeer"]=7,
 	["killedbypet-shekzeer"]=14,
 	["kíller-shekzeer"]=23,
 	["killershots-shekzeer"]=4,
@@ -7497,7 +7497,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["leobmhunt-shekzeer"]=14,
 	["leohunta-mirage-raceway"]=20,
 	["leolou-auberdine"]=9,
-	["leonkazan-shekzeer"]=9,
+	["leonkazan-shekzeer"]=12,
 	["leoq-shekzeer"]=2,
 	["leothepala-mirage-raceway"]=15,
 	["lessplays-shekzeer"]=8,
@@ -9567,7 +9567,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["uploader-mirage-raceway"]=1,
 	["uppermoon-mirage-raceway"]=7,
 	["upskirt-everlook"]=26,
-	["uraltersack-shekzeer"]=1,
+	["uraltersack-shekzeer"]=25,
 	["urnightmare-shekzeer"]=7,
 	["urssaf-shekzeer"]=6,
 	["utherfather-shekzeer"]=30,
