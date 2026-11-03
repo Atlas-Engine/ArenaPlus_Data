@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5207 characters, read 2026-11-02 08:54 PM.
+-- Region us, 5207 characters, read 2026-11-02 09:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5899,7 +5899,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["cptstabbin-pagle"]=14,
 	["crabrangoon-galakras"]=2,
 	["cradlemebro-raden"]=7,
-	["cranberryyl-pagle"]=18,
+	["cranberryyl-pagle"]=3,
 	["craniüm-pagle"]=7,
 	["crapbucket-raden"]=17,
 	["crapes-immerseus"]=12,
@@ -8463,7 +8463,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["pastullio-raden"]=9,
 	["pathtohealth-raden"]=13,
 	["pätïentzërö-pagle"]=6,
-	["paulmanafort-pagle"]=9,
+	["paulmanafort-pagle"]=21,
 	["pausewaitwai-raden"]=34,
 	["pazur-galakras"]=5,
 	["peachchi-raden"]=0,
@@ -8729,13 +8729,13 @@ ns.SPECS_BY_REGION["us"] = {
 	["recklessness-lei-shen"]=7,
 	["recklesswinz-raden"]=7,
 	["reckology-raden"]=5,
-	["reckula-raden"]=3,
+	["reckula-raden"]=20,
 	["recovery-raden"]=0,
 	["rédcorn-raden"]=6,
 	["redeast-galakras"]=6,
 	["redentress-galakras"]=21,
 	["redknight-lei-shen"]=7,
-	["rednax-raden"]=24,
+	["rednax-raden"]=28,
 	["redski-pagle"]=0,
 	["redspawn-raden"]=1,
 	["reel-maladath"]=0,
