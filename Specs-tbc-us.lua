@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9379 characters, read 2026-11-03 04:58 AM.
+-- Region tbc-us, 9379 characters, read 2026-11-03 05:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12321,7 +12321,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["gcd-nightslayer"]=7,
 	["gde-nightslayer"]=0,
 	["geckonator-nightslayer"]=13,
-	["gecksfiend-nightslayer"]=5,
+	["gecksfiend-nightslayer"]=8,
 	["gedoran-nightslayer"]=14,
 	["geenox-nightslayer"]=6,
 	["geenoxx-nightslayer"]=6,
@@ -12892,7 +12892,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["holyshiilol-nightslayer"]=1,
 	["holytears-nightslayer"]=14,
 	["holywalt-nightslayer"]=9,
-	["holyxz-nightslayer"]=12,
+	["holyxz-nightslayer"]=1,
 	["homare-dreamscythe"]=8,
 	["homelands-nightslayer"]=6,
 	["homewardbone-nightslayer"]=2,
@@ -14791,7 +14791,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["narimé-dreamscythe"]=3,
 	["narkaius-nightslayer"]=5,
 	["narkosis-nightslayer"]=5,
-	["narthil-nightslayer"]=3,
+	["narthil-nightslayer"]=7,
 	["nashnah-nightslayer"]=1,
 	["nassan-nightslayer"]=22,
 	["nastyjake-dreamscythe"]=5,
@@ -15093,7 +15093,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["odumz-nightslayer"]=2,
 	["Øg-nightslayer"]=6,
 	["ogclonez-nightslayer"]=7,
-	["oggrok-nightslayer"]=6,
+	["oggrok-nightslayer"]=4,
 	["ogk-nightslayer"]=4,
 	["ogrekill-nightslayer"]=11,
 	["ogresuit-nightslayer"]=2,
@@ -17060,7 +17060,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["stepshaman-nightslayer"]=10,
 	["stepsïs-dreamscythe"]=2,
 	["sterby-nightslayer"]=9,
-	["stevethewar-nightslayer"]=18,
+	["stevethewar-nightslayer"]=2,
 	["stevochains-nightslayer"]=19,
 	["stewball-nightslayer"]=10,
 	["sthador-nightslayer"]=2,

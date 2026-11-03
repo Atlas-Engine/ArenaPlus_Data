@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5214 characters, read 2026-11-03 04:59 AM.
+-- Region us, 5215 characters, read 2026-11-03 05:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1556,7 +1556,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["flatsixx-pagle"]=10,
 	["flává-raden"]=10,
 	["flayzlock-raden"]=11,
-	["flayzr-raden"]=11,
 	["flexi-pagle"]=20,
 	["flexism-pagle"]=50,
 	["flexismx-pagle"]=50,
@@ -2366,6 +2365,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["katrideen-pagle"]=11,
 	["kavarnxx-raden"]=11,
 	["kawika-pagle"]=11,
+	["kazakuz-raden"]=11,
 	["kazamon-pagle"]=20,
 	["kazzaraxia-raden"]=41,
 	["keekster-pagle"]=11,
@@ -5373,6 +5373,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["bazflay-arugal-au"]=21,
 	["bbatta-pagle"]=0,
 	["bbong-pagle"]=16,
+	["bbque-raden"]=0,
 	["bbqwingz-raden"]=2,
 	["bbthot-pagle"]=16,
 	["bbyongbbyong-pagle"]=5,
@@ -6600,7 +6601,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["flatsixx-pagle"]=11,
 	["flává-raden"]=7,
 	["flayzlock-raden"]=24,
-	["flayzr-raden"]=14,
 	["flexi-pagle"]=10,
 	["flexism-pagle"]=11,
 	["flexismx-pagle"]=24,
@@ -7441,6 +7441,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["katrideen-pagle"]=28,
 	["kavarnxx-raden"]=28,
 	["kawika-pagle"]=16,
+	["kazakuz-raden"]=21,
 	["kazamon-pagle"]=24,
 	["kazzaraxia-raden"]=5,
 	["kcidymkcus-arugal-au"]=0,
@@ -7540,7 +7541,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["konishi-raden"]=27,
 	["konkachilla-raden"]=2,
 	["koreanbdash-pagle"]=1,
-	["koreanirl-pagle"]=28,
+	["koreanirl-pagle"]=24,
 	["koree-pagle"]=16,
 	["korgun-galakras"]=32,
 	["korlicww-raden"]=10,
@@ -7705,7 +7706,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["linktrol-pagle"]=18,
 	["linnker-pagle"]=9,
 	["lionner-lei-shen"]=10,
-	["liopleurodon-nazgrim"]=9,
+	["liopleurodon-nazgrim"]=13,
 	["liorindei-raden"]=33,
 	["liquidated-pagle"]=1,
 	["lìt-pagle"]=7,
@@ -7771,7 +7772,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["lucítà-raden"]=2,
 	["ludere-pagle"]=2,
 	["luhve-pagle"]=9,
-	["luigy-pagle"]=15,
+	["luigy-pagle"]=22,
 	["lukangaruko-pagle"]=7,
 	["lukehunts-nazgrim"]=3,
 	["lukesmash-raden"]=7,
@@ -9766,7 +9767,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["twangly-pagle"]=16,
 	["tweak-raden"]=1,
 	["tweebias-pagle"]=5,
-	["tweelie-pagle"]=28,
+	["tweelie-pagle"]=24,
 	["tweely-pagle"]=7,
 	["twiggletree-raden"]=17,
 	["twohänds-pagle"]=7,

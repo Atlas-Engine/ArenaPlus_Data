@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5356 characters, read 2026-11-03 05:00 AM.
+-- Region eu, 5356 characters, read 2026-11-03 06:01 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7804,7 +7804,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["millionze-shekzeer"]=16,
 	["millix-everlook"]=0,
 	["millixwar-everlook"]=0,
-	["milovanovic-norushen"]=5,
+	["milovanovic-norushen"]=15,
 	["miltiades-mirage-raceway"]=4,
 	["mindfreak-shekzeer"]=0,
 	["mindgames-garalon"]=0,
@@ -7882,7 +7882,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["monkfresher-hoptallus"]=6,
 	["monkhere-mirage-raceway"]=6,
 	["monkloide-shekzeer"]=6,
-	["monkp-norushen"]=7,
+	["monkp-norushen"]=29,
 	["monkrus-shekzeer"]=6,
 	["monkshadow-shekzeer"]=6,
 	["monktop-shekzeer"]=0,
@@ -9722,7 +9722,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["wãrrior-shekzeer"]=23,
 	["warriormove-ook-ook"]=1,
 	["warriormove-shekzeer"]=1,
-	["warrlordss-shekzeer"]=25,
+	["warrlordss-shekzeer"]=1,
 	["warrudin-garalon"]=1,
 	["warsonger-auberdine"]=1,
 	["warßam-auberdine"]=1,
@@ -9882,7 +9882,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["xkiller-shekzeer"]=2,
 	["xlader-garalon"]=6,
 	["xladerinø-shekzeer"]=9,
-	["xladerovich-shekzeer"]=10,
+	["xladerovich-shekzeer"]=2,
 	["xladérz-shekzeer"]=1,
 	["xladerzf-shekzeer"]=6,
 	["xladerzg-shekzeer"]=1,
