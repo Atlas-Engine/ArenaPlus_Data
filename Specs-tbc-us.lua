@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9377 characters, read 2026-11-03 12:58 PM.
+-- Region tbc-us, 9376 characters, read 2026-11-03 01:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7512,7 +7512,6 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["solvyr-dreamscythe"]=30,
 	["somalicare-nightslayer"]=31,
 	["somberburn-dreamscythe"]=11,
-	["somebodyone-dreamscythe"]=51,
 	["somegurl-nightslayer"]=50,
 	["someidot-dreamscythe"]=61,
 	["somesorta-dreamscythe"]=51,
@@ -12529,7 +12528,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["goydric-nightslayer"]=9,
 	["gph-nightslayer"]=6,
 	["graar-nightslayer"]=17,
-	["grabar-dreamscythe"]=5,
+	["grabar-dreamscythe"]=8,
 	["grãcexo-dreamscythe"]=1,
 	["grainbin-dreamscythe"]=9,
 	["gralno-nightslayer"]=7,
@@ -12842,7 +12841,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["hitmasterx-nightslayer"]=7,
 	["hitmønchan-dreamscythe"]=2,
 	["hitmonlee-dreamscythe"]=2,
-	["hittenalot-dreamscythe"]=20,
+	["hittenalot-dreamscythe"]=2,
 	["hixxak-nightslayer"]=18,
 	["hiyoo-dreamscythe"]=2,
 	["hizzy-dreamscythe"]=5,
@@ -14026,7 +14025,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["lizzygrey-nightslayer"]=5,
 	["lj-nightslayer"]=2,
 	["lladael-dreamscythe"]=0,
-	["llamallamaa-dreamscythe"]=21,
+	["llamallamaa-dreamscythe"]=15,
 	["lls-nightslayer"]=6,
 	["lluminati-nightslayer"]=25,
 	["lmaoidiot-nightslayer"]=13,
@@ -16870,7 +16869,6 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["solvyr-dreamscythe"]=1,
 	["somalicare-nightslayer"]=1,
 	["somberburn-dreamscythe"]=12,
-	["somebodyone-dreamscythe"]=4,
 	["somegurl-nightslayer"]=4,
 	["someidot-dreamscythe"]=7,
 	["somesorta-dreamscythe"]=1,
@@ -17479,7 +17477,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["thunderwx-nightslayer"]=2,
 	["thunderx-nightslayer"]=6,
 	["thurgood-dreamscythe"]=18,
-	["thuudd-dreamscythe"]=7,
+	["thuudd-dreamscythe"]=3,
 	["thwarfinn-nightslayer"]=18,
 	["thyness-nightslayer"]=11,
 	["thyxx-nightslayer"]=12,
@@ -18408,7 +18406,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["yaruu-nightslayer"]=19,
 	["yasori-dreamscythe"]=8,
 	["yaveh-dreamscythe"]=25,
-	["yawgwin-dreamscythe"]=13,
+	["yawgwin-dreamscythe"]=23,
 	["ydw-nightslayer"]=2,
 	["ydwar-dreamscythe"]=2,
 	["yeahforsure-nightslayer"]=4,
