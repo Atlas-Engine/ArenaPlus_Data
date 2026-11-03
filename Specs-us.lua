@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5202 characters, read 2026-11-02 06:59 PM.
+-- Region us, 5202 characters, read 2026-11-02 07:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5242,13 +5242,13 @@ ns.SPECS_BY_REGION["us"] = {
 	["asamil-pagle"]=5,
 	["asapsap-lei-shen"]=14,
 	["asbull-immerseus"]=12,
-	["ascension-raden"]=4,
+	["ascension-raden"]=10,
 	["ashcarver-galakras"]=0,
 	["ashiroo-pagle"]=6,
 	["ashkaash-raden"]=20,
 	["ashvrael-pagle"]=6,
 	["aspen-raden"]=1,
-	["astave-nazgrim"]=34,
+	["astave-nazgrim"]=29,
 	["asthenoz-pagle"]=6,
 	["astraea-arugal-au"]=9,
 	["astrea-raden"]=7,
@@ -6397,7 +6397,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["eltoromu-nazgrim"]=5,
 	["elusivenes-raden"]=29,
 	["eluulttv-raden"]=10,
-	["eluveth-pagle"]=9,
+	["eluveth-pagle"]=21,
 	["elvius-raden"]=7,
 	["elyä-pagle"]=16,
 	["elyandris-raden"]=4,
@@ -7706,7 +7706,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["litze-raden"]=32,
 	["liusu-pagle"]=5,
 	["liveforeverr-pagle"]=5,
-	["livekirkly-raden"]=15,
+	["livekirkly-raden"]=22,
 	["liverr-galakras"]=14,
 	["livingsteak-galakras"]=6,
 	["livlord-pagle"]=20,
@@ -7798,7 +7798,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["madvillainx-pagle"]=22,
 	["mærshall-raden"]=7,
 	["mag-raden"]=7,
-	["magdalenia-pagle"]=16,
+	["magdalenia-pagle"]=2,
 	["mageblackrat-pagle"]=1,
 	["magegaje-pagle"]=1,
 	["magemagehair-pagle"]=1,
@@ -8540,7 +8540,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["pokemonk-galakras"]=10,
 	["polilla-pagle"]=28,
 	["poliwarx-pagle"]=6,
-	["polutropos-galakras"]=5,
+	["polutropos-galakras"]=17,
 	["pomserenity-raden"]=9,
 	["pongii-pagle"]=20,
 	["pookyzombean-nazgrim"]=6,
