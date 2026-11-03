@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9369 characters, read 2026-11-02 09:58 PM.
+-- Region tbc-us, 9369 characters, read 2026-11-02 10:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9343,7 +9343,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["adamwow-nightslayer"]=16,
 	["adarx-nightslayer"]=2,
 	["adb-nightslayer"]=6,
-	["adequacy-nightslayer"]=22,
+	["adequacy-nightslayer"]=7,
 	["adiajr-dreamscythe"]=6,
 	["adilette-nightslayer"]=4,
 	["adlzxc-nightslayer"]=9,
@@ -12680,7 +12680,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["hamrove-nightslayer"]=1,
 	["hamski-nightslayer"]=5,
 	["handholding-nightslayer"]=10,
-	["handofgodx-nightslayer"]=8,
+	["handofgodx-nightslayer"]=5,
 	["handsumlad-nightslayer"]=5,
 	["hanibal-nightslayer"]=8,
 	["hanicor-nightslayer"]=1,
@@ -14196,7 +14196,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["mãgé-nightslayer"]=5,
 	["magebreak-nightslayer"]=6,
 	["mägèbrø-nightslayer"]=4,
-	["magechamp-nightslayer"]=4,
+	["magechamp-nightslayer"]=6,
 	["magejunk-dreamscythe"]=4,
 	["magekingx-nightslayer"]=4,
 	["mageperson-nightslayer"]=0,
@@ -17257,7 +17257,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["sytherx-nightslayer"]=5,
 	["szymek-nightslayer"]=2,
 	["taamy-nightslayer"]=12,
-	["tabula-dreamscythe"]=25,
+	["tabula-dreamscythe"]=11,
 	["tabzy-nightslayer"]=14,
 	["tacheese-dreamscythe"]=13,
 	["táckett-dreamscythe"]=3,
@@ -17739,7 +17739,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["twowatersthx-nightslayer"]=5,
 	["txpe-nightslayer"]=19,
 	["tybëros-nightslayer"]=15,
-	["tycat-nightslayer"]=3,
+	["tycat-nightslayer"]=7,
 	["tylenolbaby-nightslayer"]=18,
 	["tylenolmom-dreamscythe"]=27,
 	["typerae-nightslayer"]=4,
@@ -18222,7 +18222,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["wolfsurge-dreamscythe"]=19,
 	["wolfz-nightslayer"]=8,
 	["wolk-nightslayer"]=8,
-	["womenrights-dreamscythe"]=15,
+	["womenrights-dreamscythe"]=17,
 	["wompwompuded-nightslayer"]=1,
 	["wompy-nightslayer"]=2,
 	["wonderfulcop-nightslayer"]=2,

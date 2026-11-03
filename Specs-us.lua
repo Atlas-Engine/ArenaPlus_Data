@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5207 characters, read 2026-11-02 09:59 PM.
+-- Region us, 5207 characters, read 2026-11-02 10:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4328,7 +4328,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["tairné-galakras"]=10,
 	["takyto-nazgrim"]=60,
 	["talksíck-pagle"]=11,
-	["tamerac-raden"]=10,
+	["tamerac-raden"]=11,
 	["tamhee-immerseus"]=101,
 	["tammyjane-pagle"]=11,
 	["tamnar-immerseus"]=101,
@@ -7004,7 +7004,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["hideandhunt-galakras"]=20,
 	["hifukface-raden"]=12,
 	["hifvckface-raden"]=10,
-	["highç-galakras"]=27,
+	["highç-galakras"]=10,
 	["hîghc-galakras"]=17,
 	["highchi-raden"]=0,
 	["highcortisol-raden"]=5,
@@ -9100,7 +9100,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["shockleone-pagle"]=15,
 	["shocknfuhboy-pagle"]=22,
 	["shockoné-pagle"]=4,
-	["shocktopus-pagle"]=22,
+	["shocktopus-pagle"]=19,
 	["shòckwâve-galakras"]=22,
 	["shøckz-galakras"]=22,
 	["shõfu-pagle"]=4,
@@ -9151,7 +9151,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["skarv-galakras"]=23,
 	["skate-raden"]=21,
 	["skated-raden"]=5,
-	["skatta-raden"]=3,
+	["skatta-raden"]=18,
 	["skèézix-nazgrim"]=23,
 	["skeletonzx-galakras"]=6,
 	["skeptabeatz-raden"]=0,
@@ -9544,7 +9544,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["tejedor-pagle"]=4,
 	["teluna-galakras"]=3,
 	["témis-nazgrim"]=3,
-	["tempestir-pagle"]=15,
+	["tempestir-pagle"]=19,
 	["tempestnatsu-raden"]=14,
 	["tèn-pagle"]=26,
 	["terentino-raden"]=20,
