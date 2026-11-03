@@ -18,7 +18,7 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region us, season 14, read 2026-11-03 05:59 AM.
+-- Region us, season 14, read 2026-11-03 06:59 AM.
 -- Realm display names, because the ladder only carries slugs and no rule
 -- turns one back into the other: raden is Ra-den, lei-shen is Lei Shen and
 -- arugal-au is Arugal (AU). Read from Blizzard's realm index; a slug with no
@@ -35,8 +35,8 @@ ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["us"] = {
 	region  = "us",
-	checked = "2026-11-03 05:59 AM",
-	checkedEpoch = 1793703570,
+	checked = "2026-11-03 06:59 AM",
+	checkedEpoch = 1793707170,
 	snapshot = "2026-11-03 10:39",
 
 	[1] = {  -- 2v2, 5014 places, down to rating 1135 -- the API stops here, short of the cutoff
@@ -47,7 +47,7 @@ ns.LEADERBOARD_BY_REGION["us"] = {
 		{ rank=5, name="Icarú", realm="raden", rating=2789, won=146, lost=34, faction="ALLIANCE", dr=0, dk=1 },
 		{ rank=6, name="Nhyftwo", realm="raden", rating=2776, won=103, lost=7, faction="ALLIANCE", dr=0, dk=1 },
 		{ rank=7, name="Magician", realm="arugal-au", rating=2769, won=304, lost=31, faction="ALLIANCE", dr=33, dk=-8 },
-		{ rank=8, name="Oxydudu", realm="arugal-au", rating=2760, won=285, lost=35, faction="ALLIANCE", dr=12, dk=-3 },
+		{ rank=8, name="Oxydudu", realm="arugal-au", rating=2761, won=286, lost=35, faction="ALLIANCE", dr=13, dk=-3 },
 		{ rank=9, name="Oxydd", realm="arugal-au", rating=2758, won=228, lost=18, faction="ALLIANCE", dr=0, dk=1 },
 		{ rank=10, name="Ultrahxb", realm="raden", rating=2754, won=205, lost=24, faction="ALLIANCE", dr=14, dk=-3 },
 		{ rank=10, name="Ultrahxo", realm="raden", rating=2754, won=205, lost=37, faction="ALLIANCE", dr=11, dk=-2 },
@@ -818,20 +818,20 @@ ns.LEADERBOARD_BY_REGION["us"] = {
 		{ rank=776, name="Casaamigos", realm="pagle", rating=2168, won=102, lost=110, faction="ALLIANCE", dr=32, dk=-28 },
 		{ rank=776, name="Snipertwo", realm="raden", rating=2168, won=73, lost=61, faction="ALLIANCE", dr=0, dk=50 },
 		{ rank=776, name="Tonieh", realm="pagle", rating=2168, won=80, lost=64, faction="ALLIANCE", dr=160, dk=-549 },
-		{ rank=779, name="Dabddaddy", realm="raden", rating=2166, won=98, lost=95, faction="ALLIANCE", mr=2175, dr=0, dk=50 },
 		{ rank=779, name="Sonical", realm="arugal-au", rating=2166, won=56, lost=54, faction="ALLIANCE", dr=0, dk=50 },
 		{ rank=779, name="Xxfa", realm="pagle", rating=2166, won=554, lost=605, faction="ALLIANCE", mr=2256, dr=0, dk=50 },
-		{ rank=782, name="Artlight", realm="nazgrim", rating=2165, won=130, lost=150, faction="ALLIANCE", dr=115, dk=-328 },
-		{ rank=782, name="Gnarlyknight", realm="pagle", rating=2165, won=229, lost=229, faction="ALLIANCE", mr=2192, dr=0, dk=49 },
-		{ rank=782, name="Kewchii", realm="pagle", rating=2165, won=109, lost=86, faction="ALLIANCE", dr=0, dk=49 },
-		{ rank=782, name="Tyvm", realm="arugal-au", rating=2165, won=109, lost=99, faction="ALLIANCE", mr=2217, dr=0, dk=49 },
-		{ rank=786, name="Jïsätg", realm="pagle", rating=2164, won=211, lost=225, faction="ALLIANCE", dr=0, dk=50 },
-		{ rank=786, name="Vonxx", realm="pagle", rating=2164, won=171, lost=161, faction="ALLIANCE", mr=2165, dr=0, dk=50 },
-		{ rank=788, name="Papabrew", realm="raden", rating=2163, won=57, lost=37, faction="ALLIANCE", dr=35, dk=-37 },
-		{ rank=788, name="Rabager", realm="grobbulus", rating=2163, won=70, lost=52, faction="ALLIANCE", dr=0, dk=47 },
-		{ rank=790, name="Droqtt", realm="raden", rating=2162, won=57, lost=36, faction="ALLIANCE", dr=0, dk=48 },
-		{ rank=790, name="Ganonmauz", realm="raden", rating=2162, won=50, lost=20, faction="ALLIANCE", dr=0, dk=48 },
-		{ rank=790, name="Getclapt", realm="lei-shen", rating=2162, won=321, lost=328, faction="ALLIANCE", mr=2208, dr=-46, dk=209 },
+		{ rank=781, name="Artlight", realm="nazgrim", rating=2165, won=130, lost=150, faction="ALLIANCE", dr=115, dk=-329 },
+		{ rank=781, name="Gnarlyknight", realm="pagle", rating=2165, won=229, lost=229, faction="ALLIANCE", mr=2192, dr=0, dk=48 },
+		{ rank=781, name="Kewchii", realm="pagle", rating=2165, won=109, lost=86, faction="ALLIANCE", dr=0, dk=48 },
+		{ rank=781, name="Tyvm", realm="arugal-au", rating=2165, won=109, lost=99, faction="ALLIANCE", mr=2217, dr=0, dk=48 },
+		{ rank=785, name="Jïsätg", realm="pagle", rating=2164, won=211, lost=225, faction="ALLIANCE", dr=0, dk=49 },
+		{ rank=785, name="Vonxx", realm="pagle", rating=2164, won=171, lost=161, faction="ALLIANCE", mr=2165, dr=0, dk=49 },
+		{ rank=787, name="Papabrew", realm="raden", rating=2163, won=57, lost=37, faction="ALLIANCE", dr=35, dk=-38 },
+		{ rank=787, name="Rabager", realm="grobbulus", rating=2163, won=70, lost=52, faction="ALLIANCE", dr=0, dk=46 },
+		{ rank=789, name="Dabddaddy", realm="raden", rating=2162, won=100, lost=99, faction="ALLIANCE", mr=2175, dr=-4, dk=60 },
+		{ rank=789, name="Droqtt", realm="raden", rating=2162, won=57, lost=36, faction="ALLIANCE", dr=0, dk=47 },
+		{ rank=789, name="Ganonmauz", realm="raden", rating=2162, won=50, lost=20, faction="ALLIANCE", dr=0, dk=47 },
+		{ rank=789, name="Getclapt", realm="lei-shen", rating=2162, won=321, lost=328, faction="ALLIANCE", mr=2208, dr=-46, dk=208 },
 		{ rank=793, name="Jetaa", realm="raden", rating=2161, won=73, lost=44, faction="ALLIANCE", dr=67, dk=-155 },
 		{ rank=793, name="Konkachilla", realm="raden", rating=2161, won=108, lost=87, faction="ALLIANCE", dr=44, dk=-70 },
 		{ rank=795, name="Fxd", realm="arugal-au", rating=2160, won=82, lost=54, faction="ALLIANCE", mr=2206, dr=-7, dk=68 },
