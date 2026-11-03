@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9379 characters, read 2026-11-03 03:58 AM.
+-- Region tbc-us, 9379 characters, read 2026-11-03 04:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11900,7 +11900,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["faegan-nightslayer"]=10,
 	["faelent-dreamscythe"]=13,
 	["faeriefireqt-nightslayer"]=3,
-	["faeriejane-nightslayer"]=14,
+	["faeriejane-nightslayer"]=1,
 	["faeynn-nightslayer"]=5,
 	["faeynnbubble-nightslayer"]=25,
 	["faeynntank-nightslayer"]=2,
@@ -12713,7 +12713,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["harmac-nightslayer"]=1,
 	["harmes-nightslayer"]=5,
 	["harper-nightslayer"]=15,
-	["harq-nightslayer"]=1,
+	["harq-nightslayer"]=14,
 	["harrybeav-nightslayer"]=1,
 	["hashixd-nightslayer"]=18,
 	["hashnaps-dreamscythe"]=19,
@@ -13669,7 +13669,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["kirbylolxd-nightslayer"]=13,
 	["kirbyxqt-nightslayer"]=4,
 	["kirbyxxd-nightslayer"]=24,
-	["kiritoh-nightslayer"]=5,
+	["kiritoh-nightslayer"]=8,
 	["kirralol-dreamscythe"]=4,
 	["kismit-nightslayer"]=25,
 	["kissallisse-nightslayer"]=25,
@@ -15405,7 +15405,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["pgshaman-nightslayer"]=10,
 	["phainmus-nightslayer"]=13,
 	["phalse-nightslayer"]=7,
-	["phanaticc-dreamscythe"]=8,
+	["phanaticc-dreamscythe"]=5,
 	["phanhealz-dreamscythe"]=7,
 	["pharma-nightslayer"]=6,
 	["pharun-nightslayer"]=1,
@@ -15824,7 +15824,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["rankonedad-nightslayer"]=5,
 	["rankr-nightslayer"]=1,
 	["ransomed-nightslayer"]=5,
-	["rapcher-nightslayer"]=5,
+	["rapcher-nightslayer"]=8,
 	["rapidrogue-nightslayer"]=5,
 	["rapidslol-nightslayer"]=6,
 	["rapidtugi-nightslayer"]=15,
@@ -16753,7 +16753,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["slimefeld-nightslayer"]=2,
 	["slimefeldx-nightslayer"]=2,
 	["slimeyz-nightslayer"]=1,
-	["slimreaper-nightslayer"]=8,
+	["slimreaper-nightslayer"]=5,
 	["slïpknøt-nightslayer"]=15,
 	["slipqtz-nightslayer"]=7,
 	["slipstep-nightslayer"]=5,

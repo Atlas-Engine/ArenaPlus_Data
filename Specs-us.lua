@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5214 characters, read 2026-11-03 03:59 AM.
+-- Region us, 5214 characters, read 2026-11-03 04:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7719,12 +7719,12 @@ ns.SPECS_BY_REGION["us"] = {
 	["littletinkle-galakras"]=2,
 	["littman-raden"]=29,
 	["litwhit-lei-shen"]=16,
-	["litze-raden"]=32,
+	["litze-raden"]=16,
 	["liusu-pagle"]=5,
 	["liveforeverr-pagle"]=5,
 	["livekirkly-raden"]=22,
 	["liverr-galakras"]=14,
-	["livingsteak-galakras"]=6,
+	["livingsteak-galakras"]=25,
 	["livlord-pagle"]=20,
 	["lixzos-nazgrim"]=18,
 	["liyarlena-raden"]=14,
@@ -9826,7 +9826,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ursoc-lei-shen"]=17,
 	["urthehunted-pagle"]=18,
 	["uruka-raden"]=0,
-	["urukghâshob-immerseus"]=19,
+	["urukghâshob-immerseus"]=15,
 	["urukgurumob-immerseus"]=7,
 	["usurero-pagle"]=26,
 	["ut-nazgrim"]=0,
@@ -9876,7 +9876,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["verstepper-pagle"]=0,
 	["veryuska-pagle"]=13,
 	["vespareia-pagle"]=20,
-	["vettaex-arugal-au"]=21,
+	["vettaex-arugal-au"]=9,
 	["vexe-pagle"]=2,
 	["veygâ-pagle"]=20,
 	["viadin-lei-shen"]=16,
