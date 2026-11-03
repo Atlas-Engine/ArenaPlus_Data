@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5357 characters, read 2026-11-02 08:00 PM.
+-- Region eu, 5357 characters, read 2026-11-02 09:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3826,7 +3826,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["ßøne-norushen"]=50,
 	["ßonk-norushen"]=50,
 	["ßonnießlue-shekzeer"]=11,
-	["ßoss-everlook"]=10,
+	["ßoss-everlook"]=11,
 	["ßøßép-shekzeer"]=11,
 	["ßráhmálølz-shekzeer"]=11,
 	["ßuckfiddy-shekzeer"]=31,
@@ -5446,7 +5446,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["atheistpally-shekzeer"]=15,
 	["athenahz-shekzeer"]=3,
 	["athoran-everlook"]=2,
-	["atlántis-mirage-raceway"]=8,
+	["atlántis-mirage-raceway"]=33,
 	["atlasx-shekzeer"]=5,
 	["atmobile-shekzeer"]=2,
 	["audioslave-shekzeer"]=16,
@@ -6731,7 +6731,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["greknajt-shekzeer"]=8,
 	["gretabaretta-shekzeer"]=11,
 	["griefson-mirage-raceway"]=15,
-	["grilgrom-shekzeer"]=13,
+	["grilgrom-shekzeer"]=16,
 	["grimeldottir-auberdine"]=2,
 	["grind-garalon"]=6,
 	["grîndelwald-auberdine"]=14,
@@ -9289,7 +9289,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["tarhya-everlook"]=19,
 	["tarkô-shekzeer"]=7,
 	["tarozjebem-garalon"]=1,
-	["tastemydmg-shekzeer"]=20,
+	["tastemydmg-shekzeer"]=4,
 	["tastyd-shekzeer"]=3,
 	["taylôrswiftx-mirage-raceway"]=6,
 	["taylorswitch-garalon"]=1,
