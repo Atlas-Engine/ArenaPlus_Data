@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5208 characters, read 2026-11-03 11:59 PM.
+-- Region us, 5208 characters, read 2026-11-04 12:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5535,7 +5535,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["bmacxvi-raden"]=9,
 	["bobal-galakras"]=4,
 	["bobalx-galakras"]=4,
-	["bobdabull-pagle"]=19,
+	["bobdabull-pagle"]=22,
 	["bobertx-raden"]=0,
 	["bobsapp-pagle"]=14,
 	["bobthebuild-pagle"]=16,
@@ -6320,7 +6320,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dsparxx-pagle"]=29,
 	["Ðßøzxs-raden"]=4,
 	["dtax-pagle"]=34,
-	["dubhub-galakras"]=16,
+	["dubhub-galakras"]=2,
 	["dubwise-raden"]=2,
 	["dubz-raden"]=4,
 	["dubzxx-raden"]=16,
@@ -7421,7 +7421,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["karolinna-raden"]=9,
 	["karrlor-pagle"]=9,
 	["karthea-raden"]=17,
-	["kartika-raden"]=18,
+	["kartika-raden"]=20,
 	["kaskudo-nazgrim"]=23,
 	["kasmein-pagle"]=18,
 	["katacaine-pagle"]=18,
@@ -7694,7 +7694,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["linktrol-pagle"]=18,
 	["linnker-pagle"]=9,
 	["lionner-lei-shen"]=10,
-	["liopleurodon-nazgrim"]=13,
+	["liopleurodon-nazgrim"]=9,
 	["liorindei-raden"]=33,
 	["liquidated-pagle"]=1,
 	["lìt-pagle"]=7,
@@ -8162,7 +8162,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["nattywarrior-raden"]=7,
 	["naturalize-pagle"]=5,
 	["naturalqt-pagle"]=2,
-	["navij-pagle"]=10,
+	["navij-pagle"]=4,
 	["navio-pagle"]=2,
 	["nâx-pagle"]=11,
 	["nâxxrâmâs-arugal-au"]=23,
