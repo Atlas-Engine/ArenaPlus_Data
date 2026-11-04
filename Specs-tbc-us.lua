@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9331 characters, read 2026-11-04 04:58 PM.
+-- Region tbc-us, 9331 characters, read 2026-11-04 05:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9512,7 +9512,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["apmute-nightslayer"]=4,
 	["apocshocker-nightslayer"]=19,
 	["apolló-nightslayer"]=15,
-	["apopcorn-nightslayer"]=10,
+	["apopcorn-nightslayer"]=19,
 	["apothescary-nightslayer"]=16,
 	["Âppie-nightslayer"]=5,
 	["appledust-nightslayer"]=5,
@@ -14465,7 +14465,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["mìny-nightslayer"]=2,
 	["mìrana-nightslayer"]=7,
 	["mirexx-nightslayer"]=1,
-	["mirpugs-nightslayer"]=8,
+	["mirpugs-nightslayer"]=5,
 	["mîrpugs-nightslayer"]=5,
 	["mirry-nightslayer"]=11,
 	["misalsundayy-nightslayer"]=6,
@@ -14797,7 +14797,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["netwrk-nightslayer"]=5,
 	["netxd-nightslayer"]=10,
 	["netxo-nightslayer"]=1,
-	["neucleaus-nightslayer"]=4,
+	["neucleaus-nightslayer"]=6,
 	["neurophysics-nightslayer"]=7,
 	["neverbeen-nightslayer"]=0,
 	["neverbegan-nightslayer"]=1,
@@ -15733,7 +15733,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ramiusx-nightslayer"]=15,
 	["rammedaddy-nightslayer"]=1,
 	["rammershock-dreamscythe"]=19,
-	["ramrodlol-dreamscythe"]=20,
+	["ramrodlol-dreamscythe"]=2,
 	["ran-nightslayer"]=5,
 	["randomanimal-nightslayer"]=3,
 	["randømforest-nightslayer"]=22,
