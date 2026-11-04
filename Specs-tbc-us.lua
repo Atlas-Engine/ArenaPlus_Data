@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9376 characters, read 2026-11-03 05:58 PM.
+-- Region tbc-us, 9376 characters, read 2026-11-03 06:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12335,7 +12335,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["genesister-dreamscythe"]=13,
 	["genevievch-dreamscythe"]=18,
 	["gêngar-nightslayer"]=8,
-	["gengiscon-nightslayer"]=8,
+	["gengiscon-nightslayer"]=5,
 	["geniusbeast-nightslayer"]=7,
 	["gennis-nightslayer"]=4,
 	["gennisp-nightslayer"]=1,
@@ -12852,7 +12852,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["hmm-nightslayer"]=7,
 	["hmmfine-nightslayer"]=5,
 	["hmpx-nightslayer"]=18,
-	["hneto-nightslayer"]=18,
+	["hneto-nightslayer"]=20,
 	["hoated-dreamscythe"]=1,
 	["hobbyropkin-dreamscythe"]=11,
 	["hobertdwnyjr-nightslayer"]=1,
@@ -14747,7 +14747,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["myro-nightslayer"]=2,
 	["mystasyl-nightslayer"]=19,
 	["mysticalpoly-nightslayer"]=6,
-	["mysticalsham-nightslayer"]=10,
+	["mysticalsham-nightslayer"]=24,
 	["mysticpriest-nightslayer"]=1,
 	["mystt-nightslayer"]=6,
 	["mythhunter-nightslayer"]=15,
@@ -15732,7 +15732,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["quadzilluh-nightslayer"]=10,
 	["quakelive-nightslayer"]=10,
 	["quartzorc-nightslayer"]=10,
-	["quasant-dreamscythe"]=18,
+	["quasant-dreamscythe"]=2,
 	["quasar-nightslayer"]=4,
 	["quatang-nightslayer"]=14,
 	["quazic-nightslayer"]=18,
@@ -16325,7 +16325,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["seanlol-nightslayer"]=5,
 	["seastonez-nightslayer"]=5,
 	["seaveezz-nightslayer"]=13,
-	["séaweed-dreamscythe"]=8,
+	["séaweed-dreamscythe"]=5,
 	["sebastian-nightslayer"]=4,
 	["sebbucki-nightslayer"]=4,
 	["sebguito-nightslayer"]=7,
@@ -17410,7 +17410,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["thedoncon-nightslayer"]=12,
 	["thedonkey-nightslayer"]=3,
 	["thedryice-dreamscythe"]=9,
-	["theeoven-nightslayer"]=2,
+	["theeoven-nightslayer"]=18,
 	["thefedz-nightslayer"]=5,
 	["thefrogsrgey-nightslayer"]=10,
 	["thegoblinlab-nightslayer"]=7,
@@ -18051,7 +18051,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["waldo-nightslayer"]=8,
 	["walf-nightslayer"]=5,
 	["walkendead-nightslayer"]=4,
-	["walkindead-nightslayer"]=23,
+	["walkindead-nightslayer"]=13,
 	["walla-nightslayer"]=18,
 	["wallasmol-nightslayer"]=2,
 	["wallsmasher-dreamscythe"]=2,

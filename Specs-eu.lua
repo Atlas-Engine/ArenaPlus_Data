@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5357 characters, read 2026-11-03 06:00 PM.
+-- Region eu, 5357 characters, read 2026-11-03 07:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1846,7 +1846,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["isnotmeyony-shekzeer"]=11,
 	["issamestabby-shekzeer"]=11,
 	["iste-hoptallus"]=111,
-	["itsvint-shekzeer"]=40,
+	["itsvint-shekzeer"]=41,
 	["ivalicexd-hoptallus"]=11,
 	["ivanbalakov-everlook"]=60,
 	["ivonsa-garalon"]=11,
@@ -4584,7 +4584,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["yaykaay-mirage-raceway"]=11,
 	["yaymonk-mirage-raceway"]=11,
 	["yazy-shekzeer"]=11,
-	["ydé-shekzeer"]=11,
+	["ydé-shekzeer"]=10,
 	["Ÿé-shekzeer"]=11,
 	["yeemhh-shekzeer"]=10,
 	["yente-hoptallus"]=11,
@@ -5625,7 +5625,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bign-shekzeer"]=11,
 	["bigname-shekzeer"]=23,
 	["bigorbseeya-shekzeer"]=29,
-	["bigpower-norushen"]=25,
+	["bigpower-norushen"]=1,
 	["bigprøblem-garalon"]=0,
 	["bigpun-shekzeer"]=34,
 	["bigpussyx-shekzeer"]=1,
@@ -5690,7 +5690,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bobbyshmürda-shekzeer"]=3,
 	["bobbysta-auberdine"]=9,
 	["bobjones-norushen"]=12,
-	["bobz-auberdine"]=6,
+	["bobz-auberdine"]=7,
 	["bodyfitness-shekzeer"]=2,
 	["bodytypekek-shekzeer"]=2,
 	["bokolokoo-shekzeer"]=4,
@@ -9631,7 +9631,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["verlyna-shekzeer"]=12,
 	["vérnyúl-shekzeer"]=1,
 	["verrückt-shekzeer"]=16,
-	["verti-norushen"]=31,
+	["verti-norushen"]=33,
 	["verybully-shekzeer"]=2,
 	["verysadboi-shekzeer"]=24,
 	["verywiseman-shekzeer"]=9,

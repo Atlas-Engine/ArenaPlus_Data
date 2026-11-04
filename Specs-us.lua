@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5215 characters, read 2026-11-03 05:59 PM.
+-- Region us, 5215 characters, read 2026-11-03 06:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5163,7 +5163,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["alyndel-pagle"]=16,
 	["alystrixa-pagle"]=34,
 	["amaterasu-raden"]=28,
-	["amazingufo-pagle"]=31,
+	["amazingufo-pagle"]=1,
 	["amberance-pagle"]=5,
 	["ameldiel-pagle"]=20,
 	["amongoth-pagle"]=20,
@@ -5446,7 +5446,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["bigcowa-galakras"]=17,
 	["bigcut-immerseus"]=34,
 	["bigdaddymhem-arugal-au"]=0,
-	["bigdaddyx-nazgrim"]=4,
+	["bigdaddyx-nazgrim"]=10,
 	["bigdkslams-raden"]=7,
 	["bigdmayhem-pagle"]=0,
 	["bigdudú-raden"]=17,
@@ -5497,7 +5497,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["blacksclera-pagle"]=24,
 	["blacksiide-pagle"]=4,
 	["blackspades-pagle"]=26,
-	["bladvalery-nazgrim"]=32,
+	["bladvalery-nazgrim"]=2,
 	["blaggie-galakras"]=16,
 	["blaine-raden"]=1,
 	["blakemøre-raden"]=0,
@@ -5538,7 +5538,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["bluejäy-raden"]=22,
 	["bluespwn-raden"]=22,
 	["bluewhit-lei-shen"]=15,
-	["bluntish-lei-shen"]=14,
+	["bluntish-lei-shen"]=29,
 	["bluntsntits-pagle"]=19,
 	["blunttraumah-immerseus"]=17,
 	["blutrunstig-pagle"]=7,
@@ -6282,7 +6282,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dreckk-nazgrim"]=3,
 	["drekthâr-nazgrim"]=15,
 	["drellus-pagle"]=15,
-	["Ðressrøsa-immerseus"]=27,
+	["Ðressrøsa-immerseus"]=10,
 	["drewdipsy-pagle"]=7,
 	["drewleon-pagle"]=5,
 	["drewwd-nazgrim"]=5,
