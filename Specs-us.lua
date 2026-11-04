@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5206 characters, read 2026-11-04 12:59 PM.
+-- Region us, 5208 characters, read 2026-11-04 01:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3556,6 +3556,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["rambios-pagle"]=10,
 	["ramenfueled-pagle"]=11,
 	["ranadae-lei-shen"]=11,
+	["randa-galakras"]=251,
 	["rándom-pagle"]=11,
 	["randomia-nazgrim"]=11,
 	["randybo-nazgrim"]=80,
@@ -4527,6 +4528,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["troyandk-raden"]=11,
 	["troyann-pagle"]=11,
 	["truchas-pagle"]=70,
+	["trucknutz-pagle"]=10,
 	["truckw-raden"]=10,
 	["truebolt-pagle"]=31,
 	["trueshepard-pagle"]=10,
@@ -6254,7 +6256,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["drãkã-nazgrim"]=15,
 	["draknyel-galakras"]=4,
 	["draùnz-pagle"]=4,
-	["drazzuh-pagle"]=5,
+	["drazzuh-pagle"]=17,
 	["drbojackal-pagle"]=9,
 	["drcosby-pagle"]=12,
 	["drcrusher-galakras"]=9,
@@ -6814,7 +6816,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["gonegirl-pagle"]=21,
 	["goochwhisper-nazgrim"]=29,
 	["goodolgamgam-raden"]=32,
-	["goofygoofer-raden"]=16,
+	["goofygoofer-raden"]=2,
 	["googleorbs-immerseus"]=4,
 	["googlepain-immerseus"]=3,
 	["goonerqt-pagle"]=9,
@@ -8680,6 +8682,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["rambios-pagle"]=10,
 	["ramenfueled-pagle"]=1,
 	["ranadae-lei-shen"]=3,
+	["randa-galakras"]=4,
 	["rándom-pagle"]=16,
 	["randomia-nazgrim"]=7,
 	["randybo-nazgrim"]=17,
@@ -8769,7 +8772,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["rétpáladin-raden"]=2,
 	["retrostance-galakras"]=2,
 	["rettek-raden"]=8,
-	["rettmonk-raden"]=4,
+	["rettmonk-raden"]=27,
 	["revcole-raden"]=9,
 	["revènge-raden"]=7,
 	["reverencex-pagle"]=24,
@@ -9712,6 +9715,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["troyandk-raden"]=6,
 	["troyann-pagle"]=1,
 	["truchas-pagle"]=7,
+	["trucknutz-pagle"]=3,
 	["truckw-raden"]=7,
 	["truebolt-pagle"]=22,
 	["trueshepard-pagle"]=21,
@@ -10089,7 +10093,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["yazor-nazgrim"]=1,
 	["ybats-grobbulus"]=24,
 	["yecnay-galakras"]=7,
-	["yecum-galakras"]=21,
+	["yecum-galakras"]=9,
 	["yeezus-grobbulus"]=13,
 	["yekcoh-pagle"]=29,
 	["yellowspwn-raden"]=21,
