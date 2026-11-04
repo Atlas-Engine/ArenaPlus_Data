@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5206 characters, read 2026-11-04 10:59 AM.
+-- Region us, 5206 characters, read 2026-11-04 12:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1481,7 +1481,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["fattitude-pagle"]=81,
 	["fattitude-raden"]=251,
 	["fattymcgee-lei-shen"]=70,
-	["fatwog-raden"]=10,
 	["faylajr-raden"]=11,
 	["faylaxd-raden"]=41,
 	["fctry-raden"]=11,
@@ -6479,7 +6478,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["fáded-pagle"]=21,
 	["fadingstars-pagle"]=17,
 	["faex-arugal-au"]=1,
-	["faexypriest-arugal-au"]=21,
+	["faexypriest-arugal-au"]=13,
 	["faiderh-nazgrim"]=20,
 	["faiders-raden"]=3,
 	["failaxz-raden"]=3,
@@ -6508,7 +6507,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["fattitude-pagle"]=13,
 	["fattitude-raden"]=13,
 	["fattymcgee-lei-shen"]=1,
-	["fatwog-raden"]=16,
+	["fatwog-raden"]=0,
 	["faylajr-raden"]=2,
 	["faylaxd-raden"]=5,
 	["fctry-raden"]=3,
@@ -6541,7 +6540,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["fenfoo-pagle"]=10,
 	["fenrís-grobbulus"]=0,
 	["fentamonk-pagle"]=10,
-	["feraldruidd-arugal-au"]=5,
+	["feraldruidd-arugal-au"]=12,
 	["feråltyger-pagle"]=0,
 	["fernandes-nazgrim"]=16,
 	["fernandita-galakras"]=21,
@@ -6584,7 +6583,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["flashoflight-raden"]=16,
 	["flato-raden"]=18,
 	["flatsixx-pagle"]=11,
-	["flává-raden"]=7,
+	["flává-raden"]=23,
 	["flayzlock-raden"]=24,
 	["flayzr-raden"]=14,
 	["flexi-pagle"]=10,

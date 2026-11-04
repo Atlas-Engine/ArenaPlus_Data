@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5363 characters, read 2026-11-04 11:00 AM.
+-- Region eu, 5363 characters, read 2026-11-04 12:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -400,6 +400,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["baddemm-norushen"]=101,
 	["bademsekeri-shekzeer"]=11,
 	["badlama-hoptallus"]=10,
+	["badmanchazzo-shekzeer"]=10,
 	["badmannersx-shekzeer"]=11,
 	["badtank-garalon"]=100,
 	["baejs-shekzeer"]=11,
@@ -3273,6 +3274,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["rakû-auberdine"]=60,
 	["raman-garalon"]=60,
 	["ramsei-auberdine"]=10,
+	["randomboi-shekzeer"]=11,
 	["randomfury-mirage-raceway"]=20,
 	["rankonedemon-shekzeer"]=41,
 	["rankwar-mirage-raceway"]=20,
@@ -5525,7 +5527,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["badlama-hoptallus"]=15,
 	["badmanchazo-garalon"]=0,
 	["badmanchazo-shekzeer"]=0,
-	["badmanchazzo-shekzeer"]=0,
+	["badmanchazzo-shekzeer"]=20,
 	["badmannersx-shekzeer"]=6,
 	["badtank-garalon"]=30,
 	["badteam-garalon"]=0,
@@ -6855,7 +6857,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["hellnight-auberdine"]=31,
 	["helløkitty-garalon"]=4,
 	["helmetboy-shekzeer"]=1,
-	["hemsk-shekzeer"]=7,
+	["hemsk-shekzeer"]=6,
 	["hemyz-shekzeer"]=7,
 	["henkista-everlook"]=2,
 	["henrich-shekzeer"]=9,
@@ -8553,7 +8555,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["rakû-auberdine"]=1,
 	["raman-garalon"]=19,
 	["ramsei-auberdine"]=25,
-	["randomboi-shekzeer"]=0,
+	["randomboi-shekzeer"]=23,
 	["randomfury-mirage-raceway"]=16,
 	["ranji-shekzeer"]=0,
 	["rankonedemon-shekzeer"]=9,
@@ -9091,7 +9093,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["søwney-shekzeer"]=26,
 	["sowz-shekzeer"]=14,
 	["sòwz-shekzeer"]=5,
-	["sparâdräp-auberdine"]=12,
+	["sparâdräp-auberdine"]=22,
 	["speedshowing-shekzeer"]=24,
 	["speedy-hoptallus"]=25,
 	["spliffoclock-mirage-raceway"]=8,
