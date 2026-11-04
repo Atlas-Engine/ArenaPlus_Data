@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5360 characters, read 2026-11-03 08:00 PM.
+-- Region eu, 5360 characters, read 2026-11-03 09:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -517,7 +517,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["blåckfërãlx-everlook"]=41,
 	["blackkbeard-shekzeer"]=10,
 	["blacklisted-shekzeer"]=11,
-	["bláckwarrior-shekzeer"]=10,
 	["bladesmonk-hoptallus"]=10,
 	["blahster-shekzeer"]=10,
 	["blakmoon-auberdine"]=41,
@@ -3461,7 +3460,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["rxsebøy-auberdine"]=11,
 	["rýdøthâðwlx-everlook"]=220,
 	["rydothedk-everlook"]=11,
-	["rýdøthègøátx-everlook"]=110,
+	["rýdøthègøátx-everlook"]=111,
 	["rydotheholy-everlook"]=11,
 	["rydothemage-everlook"]=11,
 	["rydothemonk-everlook"]=11,
@@ -5412,7 +5411,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["arxn-shekzeer"]=2,
 	["arÿà-auberdine"]=15,
 	["asapdot-shekzeer"]=17,
-	["asaplucy-shekzeer"]=3,
+	["asaplucy-shekzeer"]=11,
 	["asapmilly-garalon"]=6,
 	["asapskaya-shekzeer"]=1,
 	["ascaredman-shekzeer"]=8,
@@ -5445,7 +5444,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["atheistpally-shekzeer"]=15,
 	["athenahz-shekzeer"]=3,
 	["athoran-everlook"]=2,
-	["atlántis-mirage-raceway"]=33,
+	["atlántis-mirage-raceway"]=8,
 	["atlasx-shekzeer"]=5,
 	["atmobile-shekzeer"]=2,
 	["audioslave-shekzeer"]=16,
@@ -5530,7 +5529,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bafuria-garalon"]=0,
 	["bafurio-shekzeer"]=0,
 	["bafuriousx-shekzeer"]=0,
-	["bågbritta-shekzeer"]=4,
+	["bågbritta-shekzeer"]=20,
 	["baitedzito-shekzeer"]=7,
 	["bajhnite-auberdine"]=1,
 	["bakadots-shekzeer"]=17,
@@ -5649,7 +5648,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["blåckfërãlx-everlook"]=3,
 	["blackkbeard-shekzeer"]=24,
 	["blacklisted-shekzeer"]=2,
-	["bláckwarrior-shekzeer"]=1,
+	["bláckwarrior-shekzeer"]=0,
 	["bladesmonk-hoptallus"]=6,
 	["blahster-shekzeer"]=12,
 	["blakmoon-auberdine"]=11,
@@ -8744,7 +8743,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["rxsebøy-auberdine"]=20,
 	["rýdøthâðwlx-everlook"]=11,
 	["rydothedk-everlook"]=8,
-	["rýdøthègøátx-everlook"]=19,
+	["rýdøthègøátx-everlook"]=16,
 	["rydotheholy-everlook"]=9,
 	["rydothemage-everlook"]=2,
 	["rydothemonk-everlook"]=7,
@@ -9286,7 +9285,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["taopiepie-shekzeer"]=34,
 	["tardhun-shekzeer"]=0,
 	["tarhya-everlook"]=19,
-	["tarkô-shekzeer"]=7,
+	["tarkô-shekzeer"]=6,
 	["tarozjebem-garalon"]=1,
 	["tastemydmg-shekzeer"]=20,
 	["tastyd-shekzeer"]=3,
