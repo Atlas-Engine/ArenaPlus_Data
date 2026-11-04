@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5363 characters, read 2026-11-04 10:00 AM.
+-- Region eu, 5363 characters, read 2026-11-04 11:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1704,6 +1704,8 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["hollyborn-garalon"]=10,
 	["hollyflame-shekzeer"]=11,
 	["holmesx-mirage-raceway"]=11,
+	["holychaz-shekzeer"]=10,
+	["hølychaz-shekzeer"]=101,
 	["hôlydârknéss-everlook"]=11,
 	["holydayhoe-ook-ook"]=11,
 	["holygeneral-shekzeer"]=11,
@@ -6897,8 +6899,8 @@ ns.SPECS_BY_REGION["eu"] = {
 	["hollyborn-garalon"]=5,
 	["hollyflame-shekzeer"]=9,
 	["holmesx-mirage-raceway"]=7,
-	["holychaz-shekzeer"]=0,
-	["hølychaz-shekzeer"]=0,
+	["holychaz-shekzeer"]=15,
+	["hølychaz-shekzeer"]=15,
 	["hôlydârknéss-everlook"]=12,
 	["holydayhoe-ook-ook"]=5,
 	["holygeneral-shekzeer"]=5,
@@ -7413,7 +7415,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["kurtat-shekzeer"]=26,
 	["kurttuqq-shekzeer"]=34,
 	["kuruna-everlook"]=3,
-	["kusy-shekzeer"]=6,
+	["kusy-shekzeer"]=7,
 	["kusya-shekzeer"]=9,
 	["kwaïguøn-auberdine"]=24,
 	["kwaizbrökenx-shekzeer"]=4,

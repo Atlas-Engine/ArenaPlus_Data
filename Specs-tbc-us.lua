@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9377 characters, read 2026-11-04 09:58 AM.
+-- Region tbc-us, 9377 characters, read 2026-11-04 10:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1678,7 +1678,6 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["crokard-nightslayer"]=20,
 	["crono-nightslayer"]=30,
 	["cronut-nightslayer"]=51,
-	["crotchluster-nightslayer"]=11,
 	["crowdcontrol-nightslayer"]=50,
 	["crówned-nightslayer"]=20,
 	["crowslash-nightslayer"]=21,
@@ -3603,6 +3602,7 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["hoofdingo-dreamscythe"]=60,
 	["hoofgiirl-nightslayer"]=61,
 	["hoofjobb-nightslayer"]=111,
+	["hookahz-nightslayer"]=41,
 	["hoonteh-dreamscythe"]=40,
 	["hootini-nightslayer"]=21,
 	["hoou-nightslayer"]=50,
@@ -10961,7 +10961,6 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["crokard-nightslayer"]=10,
 	["crono-nightslayer"]=2,
 	["cronut-nightslayer"]=5,
-	["crotchluster-nightslayer"]=2,
 	["crowdcontrol-nightslayer"]=5,
 	["crøwñchåsér-nightslayer"]=0,
 	["crówned-nightslayer"]=18,
@@ -11429,7 +11428,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["doomtoreto-dreamscythe"]=13,
 	["doomtwist-dreamscythe"]=11,
 	["doomxxz-nightslayer"]=1,
-	["doopdefuq-nightslayer"]=24,
+	["doopdefuq-nightslayer"]=10,
 	["dooster-nightslayer"]=4,
 	["dopamin-nightslayer"]=5,
 	["dorabeil-nightslayer"]=1,
@@ -12530,7 +12529,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["goydric-nightslayer"]=9,
 	["gph-nightslayer"]=6,
 	["graar-nightslayer"]=17,
-	["grabar-dreamscythe"]=5,
+	["grabar-dreamscythe"]=8,
 	["grãcexo-dreamscythe"]=1,
 	["grainbin-dreamscythe"]=9,
 	["gralno-nightslayer"]=7,
@@ -12908,6 +12907,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["hoofdingo-dreamscythe"]=2,
 	["hoofgiirl-nightslayer"]=3,
 	["hoofjobb-nightslayer"]=24,
+	["hookahz-nightslayer"]=3,
 	["hoonteh-dreamscythe"]=15,
 	["hootini-nightslayer"]=27,
 	["hoou-nightslayer"]=6,
@@ -16458,7 +16458,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["shamoonist-dreamscythe"]=10,
 	["shamorkey-nightslayer"]=10,
 	["shampaigne-nightslayer"]=19,
-	["shamrockbald-nightslayer"]=13,
+	["shamrockbald-nightslayer"]=23,
 	["shamrockg-nightslayer"]=22,
 	["shamsen-dreamscythe"]=10,
 	["shamtastics-nightslayer"]=24,
@@ -17837,7 +17837,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["unskulk-nightslayer"]=5,
 	["unw-dreamscythe"]=18,
 	["uooti-dreamscythe"]=9,
-	["upaupa-nightslayer"]=16,
+	["upaupa-nightslayer"]=13,
 	["uppedhawk-dreamscythe"]=2,
 	["ursaprime-nightslayer"]=3,
 	["ursie-dreamscythe"]=3,
@@ -18357,7 +18357,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["xooji-nightslayer"]=4,
 	["xooti-dreamscythe"]=10,
 	["xost-nightslayer"]=5,
-	["xown-nightslayer"]=12,
+	["xown-nightslayer"]=1,
 	["xoxoxoxo-nightslayer"]=4,
 	["xpectdeath-nightslayer"]=13,
 	["xraka-nightslayer"]=18,
