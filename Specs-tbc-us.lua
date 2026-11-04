@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9372 characters, read 2026-11-04 02:58 PM.
+-- Region tbc-us, 9372 characters, read 2026-11-04 03:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10965,7 +10965,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["crsd-nightslayer"]=7,
 	["crumbles-dreamscythe"]=1,
 	["crustygoose-nightslayer"]=1,
-	["cryptbreaker-nightslayer"]=16,
+	["cryptbreaker-nightslayer"]=13,
 	["crypticsense-nightslayer"]=5,
 	["crysiis-nightslayer"]=19,
 	["crysisx-nightslayer"]=19,
@@ -12524,7 +12524,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["goydric-nightslayer"]=9,
 	["gph-nightslayer"]=6,
 	["graar-nightslayer"]=17,
-	["grabar-dreamscythe"]=8,
+	["grabar-dreamscythe"]=5,
 	["grãcexo-dreamscythe"]=1,
 	["grainbin-dreamscythe"]=9,
 	["gralno-nightslayer"]=7,
@@ -16660,7 +16660,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["sixmended-dreamscythe"]=7,
 	["sixthreebix-nightslayer"]=1,
 	["sixthy-dreamscythe"]=19,
-	["sixtree-nightslayer"]=22,
+	["sixtree-nightslayer"]=3,
 	["sixtyx-nightslayer"]=13,
 	["sizarc-nightslayer"]=10,
 	["sizzvon-nightslayer"]=5,

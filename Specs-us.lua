@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5208 characters, read 2026-11-04 02:59 PM.
+-- Region us, 5208 characters, read 2026-11-04 03:54 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5902,7 +5902,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["crazè-pagle"]=34,
 	["crazyjonas-pagle"]=1,
 	["crazykreder-pagle"]=5,
-	["crazywick-pagle"]=32,
+	["crazywick-pagle"]=16,
 	["creamx-raden"]=1,
 	["creamytotem-galakras"]=15,
 	["crearly-galakras"]=6,
@@ -8871,7 +8871,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["royalflush-pagle"]=9,
 	["royalkelly-raden"]=21,
 	["royalpaladin-lei-shen"]=32,
-	["royalqt-pagle"]=2,
+	["royalqt-pagle"]=16,
 	["royalqt-raden"]=2,
 	["rozroz-galakras"]=19,
 	["rsp-raden"]=21,
@@ -8927,7 +8927,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["sanguinärio-pagle"]=12,
 	["sanguinious-lei-shen"]=7,
 	["sàngüinius-pagle"]=2,
-	["saphiiry-galakras"]=33,
+	["saphiiry-galakras"]=12,
 	["saphub-galakras"]=14,
 	["saplight-galakras"]=0,
 	["sapoo-pagle"]=14,
