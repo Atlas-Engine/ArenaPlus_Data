@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9377 characters, read 2026-11-04 11:58 AM.
+-- Region tbc-us, 9377 characters, read 2026-11-04 12:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10540,7 +10540,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["carltonmon-dreamscythe"]=1,
 	["carpainter-nightslayer"]=4,
 	["carpetwalker-nightslayer"]=19,
-	["carrotopp-nightslayer"]=6,
+	["carrotopp-nightslayer"]=26,
 	["carrp-nightslayer"]=1,
 	["carrymebaby-nightslayer"]=7,
 	["carupanito-dreamscythe"]=15,
@@ -12124,7 +12124,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["flowerwar-nightslayer"]=18,
 	["flows-nightslayer"]=4,
 	["flowzz-dreamscythe"]=7,
-	["flubbytub-nightslayer"]=21,
+	["flubbytub-nightslayer"]=17,
 	["flubtub-nightslayer"]=11,
 	["fluffyd-dreamscythe"]=3,
 	["flukenash-nightslayer"]=2,
@@ -12189,7 +12189,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["freegells-nightslayer"]=3,
 	["freegucci-nightslayer"]=10,
 	["freepfdx-nightslayer"]=13,
-	["freestyler-nightslayer"]=6,
+	["freestyler-nightslayer"]=4,
 	["freewin-dreamscythe"]=5,
 	["freezemfer-nightslayer"]=4,
 	["freezér-nightslayer"]=4,
@@ -12665,7 +12665,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["haikd-nightslayer"]=7,
 	["haikmagoo-nightslayer"]=4,
 	["haiktwo-nightslayer"]=8,
-	["haiku-nightslayer"]=5,
+	["haiku-nightslayer"]=8,
 	["hailee-nightslayer"]=6,
 	["hailzuz-dreamscythe"]=15,
 	["hain-nightslayer"]=5,
@@ -13893,7 +13893,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["leezirk-nightslayer"]=6,
 	["leftface-nightslayer"]=1,
 	["lefthandlary-nightslayer"]=12,
-	["lefttenclear-nightslayer"]=15,
+	["lefttenclear-nightslayer"]=17,
 	["leftténclear-nightslayer"]=17,
 	["legalcitizen-nightslayer"]=12,
 	["legday-nightslayer"]=18,
@@ -16167,7 +16167,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["rumesa-nightslayer"]=1,
 	["runawayy-dreamscythe"]=4,
 	["runescaper-nightslayer"]=18,
-	["runitbracks-nightslayer"]=2,
+	["runitbracks-nightslayer"]=18,
 	["rushie-nightslayer"]=18,
 	["rustyspyda-nightslayer"]=1,
 	["rutheal-dreamscythe"]=12,
