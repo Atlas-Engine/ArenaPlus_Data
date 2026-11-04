@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5210 characters, read 2026-11-04 01:59 AM.
+-- Region us, 5210 characters, read 2026-11-04 02:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2966,7 +2966,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["morbera-pagle"]=51,
 	["mordréad-arugal-au"]=50,
 	["mornincardio-pagle"]=41,
-	["morphaz-raden"]=10,
 	["mortalcrimes-nazgrim"]=20,
 	["mortifier-raden"]=11,
 	["mossrt-raden"]=10,
@@ -4739,6 +4738,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["waveman-lei-shen"]=11,
 	["waynekritzky-raden"]=10,
 	["wb-galakras"]=10,
+	["weakerection-raden"]=11,
 	["wealthycat-raden"]=41,
 	["wearefoals-raden"]=41,
 	["webeballin-pagle"]=50,
@@ -7314,7 +7314,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["jetaa-raden"]=4,
 	["jetleelol-pagle"]=10,
 	["jetwing-pagle"]=20,
-	["jhøna-pagle"]=18,
+	["jhøna-pagle"]=3,
 	["jhonparry-raden"]=10,
 	["jhussethy-raden"]=10,
 	["jimcramer-raden"]=0,
@@ -8061,7 +8061,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["moonspellol-galakras"]=14,
 	["møønstár-arugal-au"]=5,
 	["møonxz-raden"]=5,
-	["møønzx-galakras"]=5,
+	["møønzx-galakras"]=17,
 	["mootski-pagle"]=18,
 	["mopdruid-pagle"]=0,
 	["mopples-arugal-au"]=4,
@@ -8071,7 +8071,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["morbera-pagle"]=1,
 	["mordréad-arugal-au"]=24,
 	["mornincardio-pagle"]=4,
-	["morphaz-raden"]=1,
+	["morphaz-raden"]=0,
 	["mortalcrimes-nazgrim"]=7,
 	["mortifier-raden"]=34,
 	["mossrt-raden"]=2,
@@ -9907,7 +9907,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["vulture-raden"]=9,
 	["vvalaydia-pagle"]=1,
 	["vvarrior-raden"]=6,
-	["vvuvvuuvvuvv-raden"]=11,
+	["vvuvvuuvvuvv-raden"]=1,
 	["vyaphets-immerseus"]=1,
 	["vyndruh-pagle"]=2,
 	["vysifer-pagle"]=24,
@@ -9939,7 +9939,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["waveman-lei-shen"]=1,
 	["waynekritzky-raden"]=20,
 	["wb-galakras"]=28,
-	["weakerection-raden"]=0,
+	["weakerection-raden"]=6,
 	["wealthycat-raden"]=5,
 	["wearefoals-raden"]=17,
 	["webeballin-pagle"]=9,

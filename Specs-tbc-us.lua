@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9377 characters, read 2026-11-04 01:58 AM.
+-- Region tbc-us, 9377 characters, read 2026-11-04 02:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9735,7 +9735,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["babyimback-dreamscythe"]=1,
 	["babyjesüs-nightslayer"]=1,
 	["babynovva-nightslayer"]=6,
-	["babyogurt-nightslayer"]=6,
+	["babyogurt-nightslayer"]=4,
 	["babyrazdar-nightslayer"]=13,
 	["babysham-nightslayer"]=10,
 	["babytickle-nightslayer"]=7,
@@ -11236,7 +11236,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["derwynn-dreamscythe"]=11,
 	["désciplé-nightslayer"]=5,
 	["despot-nightslayer"]=1,
-	["destrogodx-nightslayer"]=13,
+	["destrogodx-nightslayer"]=16,
 	["destromg-nightslayer"]=13,
 	["determinist-dreamscythe"]=8,
 	["detract-nightslayer"]=0,
@@ -12751,7 +12751,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["healthz-nightslayer"]=1,
 	["heartwork-nightslayer"]=4,
 	["heaters-dreamscythe"]=2,
-	["heatrash-nightslayer"]=6,
+	["heatrash-nightslayer"]=4,
 	["heatscores-nightslayer"]=5,
 	["heatscorex-nightslayer"]=2,
 	["heavenleiigh-dreamscythe"]=13,
@@ -16319,7 +16319,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["scyless-nightslayer"]=5,
 	["scynd-dreamscythe"]=4,
 	["scythë-nightslayer"]=18,
-	["sdeat-nightslayer"]=8,
+	["sdeat-nightslayer"]=5,
 	["sealenagómez-nightslayer"]=11,
 	["sealofcasino-nightslayer"]=11,
 	["sealtwistys-nightslayer"]=11,

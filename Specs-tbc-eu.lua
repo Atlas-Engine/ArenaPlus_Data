@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9604 characters, read 2026-11-04 01:59 AM.
+-- Region tbc-eu, 9604 characters, read 2026-11-04 02:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12118,7 +12118,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["fatoom-spineshatter"]=5,
 	["fattyjuicer-spineshatter"]=0,
 	["fattypodge-thunderstrike"]=1,
-	["faustcoltain-thunderstrike"]=26,
+	["faustcoltain-thunderstrike"]=10,
 	["faxe-spineshatter"]=26,
 	["faxefax-spineshatter"]=12,
 	["fäyde-spineshatter"]=10,
@@ -12279,7 +12279,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["flixahtwo-spineshatter"]=11,
 	["floopz-spineshatter"]=3,
 	["floopzx-spineshatter"]=17,
-	["floopzy-spineshatter"]=20,
+	["floopzy-spineshatter"]=1,
 	["floozy-spineshatter"]=5,
 	["floverten-spineshatter"]=5,
 	["flowkey-spineshatter"]=3,
@@ -17651,7 +17651,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["swordrage-thunderstrike"]=15,
 	["swørds-thunderstrike"]=5,
 	["swsirideyou-spineshatter"]=23,
-	["sxk-spineshatter"]=2,
+	["sxk-spineshatter"]=17,
 	["sxu-spineshatter"]=23,
 	["sy-spineshatter"]=6,
 	["syetolock-spineshatter"]=13,
