@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5206 characters, read 2026-11-03 08:59 PM.
+-- Region us, 5206 characters, read 2026-11-03 09:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5956,7 +5956,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["cwpas-raden"]=1,
 	["cwpaslock-raden"]=24,
 	["cwpasx-raden"]=7,
-	["cybella-pagle"]=30,
+	["cybella-pagle"]=7,
 	["cybrooke-lei-shen"]=18,
 	["cyclicc-pagle"]=0,
 	["cyclonebot-lei-shen"]=5,
@@ -8483,7 +8483,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["percosett-raden"]=7,
 	["periqueado-pagle"]=2,
 	["peritho-benediction"]=17,
-	["persa-nazgrim"]=18,
+	["persa-nazgrim"]=3,
 	["perseu-lei-shen"]=16,
 	["perturabo-raden"]=0,
 	["perxeo-pagle"]=7,
