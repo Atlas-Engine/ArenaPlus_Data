@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9377 characters, read 2026-11-04 04:58 AM.
+-- Region tbc-us, 9377 characters, read 2026-11-04 05:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11414,9 +11414,9 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["donzilla-nightslayer"]=10,
 	["doobae-nightslayer"]=7,
 	["doobai-nightslayer"]=7,
-	["doobmax-nightslayer"]=5,
+	["doobmax-nightslayer"]=8,
 	["doobmaxduro-nightslayer"]=2,
-	["doobmaxtwo-nightslayer"]=5,
+	["doobmaxtwo-nightslayer"]=8,
 	["doodiez-nightslayer"]=14,
 	["doodlysquat-nightslayer"]=22,
 	["doodwar-dreamscythe"]=18,
@@ -13155,7 +13155,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["inv-nightslayer"]=5,
 	["invisibull-nightslayer"]=7,
 	["invisy-nightslayer"]=6,
-	["inyntz-nightslayer"]=7,
+	["inyntz-nightslayer"]=22,
 	["inyokid-nightslayer"]=1,
 	["inyourgutz-nightslayer"]=8,
 	["iolsmite-nightslayer"]=1,
@@ -16586,7 +16586,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["show-nightslayer"]=2,
 	["showdru-nightslayer"]=7,
 	["showershoos-nightslayer"]=4,
-	["showhan-nightslayer"]=24,
+	["showhan-nightslayer"]=10,
 	["showtime-nightslayer"]=5,
 	["showx-nightslayer"]=1,
 	["shozs-nightslayer"]=10,
@@ -18026,7 +18026,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["vrs-dreamscythe"]=5,
 	["vspades-nightslayer"]=2,
 	["vubae-dreamscythe"]=10,
-	["vugaddi-nightslayer"]=16,
+	["vugaddi-nightslayer"]=13,
 	["vugsy-nightslayer"]=5,
 	["vulchur-dreamscythe"]=5,
 	["vulchur-nightslayer"]=5,

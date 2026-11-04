@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5208 characters, read 2026-11-04 04:59 AM.
+-- Region us, 5208 characters, read 2026-11-04 05:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1713,7 +1713,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["ggholy-galakras"]=101,
 	["ggrenz-pagle"]=10,
 	["ghanic-pagle"]=11,
-	["ghettopallyz-pagle"]=100,
 	["ghizzlane-galakras"]=101,
 	["ghostßlades-pagle"]=20,
 	["ghostz-pagle"]=20,
@@ -5736,7 +5735,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["caylara-raden"]=20,
 	["cazabrujas-raden"]=20,
 	["cbt-raden"]=4,
-	["cbus-pagle"]=16,
+	["cbus-pagle"]=2,
 	["cconsequence-raden"]=2,
 	["cdioxide-raden"]=19,
 	["cdioxidez-pagle"]=19,
@@ -6749,7 +6748,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ggholy-galakras"]=32,
 	["ggrenz-pagle"]=7,
 	["ghanic-pagle"]=10,
-	["ghettopallyz-pagle"]=16,
+	["ghettopallyz-pagle"]=0,
 	["ghizzlane-galakras"]=9,
 	["ghosteyed-pagle"]=0,
 	["ghostßlades-pagle"]=29,
@@ -6997,7 +6996,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["hibashiba-galakras"]=20,
 	["hickery-arugal-au"]=14,
 	["hideandhunt-galakras"]=20,
-	["hifukface-raden"]=12,
+	["hifukface-raden"]=5,
 	["hifvckface-raden"]=10,
 	["highç-galakras"]=10,
 	["hîghc-galakras"]=17,
@@ -9568,7 +9567,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["theægnt-raden"]=4,
 	["theanswer-pagle"]=0,
 	["thebadjuan-pagle"]=7,
-	["thebagelcave-pagle"]=22,
+	["thebagelcave-pagle"]=15,
 	["thebigmack-pagle"]=0,
 	["thebouncer-pagle"]=29,
 	["thebteam-pagle"]=1,
@@ -10037,7 +10036,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["xatyka-pagle"]=1,
 	["xavilier-pagle"]=29,
 	["xb-galakras"]=4,
-	["xbushmaster-pagle"]=12,
+	["xbushmaster-pagle"]=5,
 	["xbushweaver-pagle"]=4,
 	["xcen-raden"]=18,
 	["xcnrich-raden"]=10,
