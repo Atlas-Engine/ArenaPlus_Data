@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9374 characters, read 2026-11-03 10:58 PM.
+-- Region tbc-us, 9374 characters, read 2026-11-03 11:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9474,7 +9474,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["altronix-nightslayer"]=1,
 	["altur-nightslayer"]=2,
 	["aluciepriest-dreamscythe"]=1,
-	["alvanz-dreamscythe"]=5,
+	["alvanz-dreamscythe"]=8,
 	["alwaysgankin-nightslayer"]=5,
 	["alwaystotems-nightslayer"]=10,
 	["alwayzlust-nightslayer"]=10,
@@ -12343,7 +12343,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["gennys-nightslayer"]=10,
 	["gensai-nightslayer"]=5,
 	["gensaix-nightslayer"]=5,
-	["gentlehealer-dreamscythe"]=3,
+	["gentlehealer-dreamscythe"]=7,
 	["genyuwine-dreamscythe"]=16,
 	["geoffbear-nightslayer"]=3,
 	["geoffepsteen-nightslayer"]=1,
@@ -12809,7 +12809,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["hidetatsu-nightslayer"]=6,
 	["hidrogênio-nightslayer"]=4,
 	["hielo-nightslayer"]=0,
-	["higher-nightslayer"]=5,
+	["higher-nightslayer"]=8,
 	["highfade-nightslayer"]=10,
 	["highqts-nightslayer"]=4,
 	["highx-nightslayer"]=19,
@@ -16582,7 +16582,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["show-nightslayer"]=2,
 	["showdru-nightslayer"]=7,
 	["showershoos-nightslayer"]=4,
-	["showhan-nightslayer"]=10,
+	["showhan-nightslayer"]=19,
 	["showtime-nightslayer"]=5,
 	["showx-nightslayer"]=1,
 	["shozs-nightslayer"]=10,
@@ -18350,7 +18350,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["xomgasm-nightslayer"]=27,
 	["xonodra-nightslayer"]=21,
 	["xooji-nightslayer"]=4,
-	["xooti-dreamscythe"]=24,
+	["xooti-dreamscythe"]=10,
 	["xost-nightslayer"]=5,
 	["xown-nightslayer"]=12,
 	["xoxoxoxo-nightslayer"]=4,
