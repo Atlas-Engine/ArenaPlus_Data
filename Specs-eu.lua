@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5362 characters, read 2026-11-04 06:00 AM.
+-- Region eu, 5364 characters, read 2026-11-04 07:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1143,6 +1143,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["duhovochka-garalon"]=111,
 	["dukawoppaxd-shekzeer"]=31,
 	["dumbmorron-shekzeer"]=41,
+	["duncán-shekzeer"]=10,
 	["dunia-everlook"]=11,
 	["dunkelheit-shekzeer"]=10,
 	["dúpond-auberdine"]=60,
@@ -2396,6 +2397,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["machtû-shekzeer"]=11,
 	["macid-mirage-raceway"]=11,
 	["mackansdad-garalon"]=20,
+	["madapasaax-shekzeer"]=41,
 	["madaurmada-shekzeer"]=41,
 	["madaurpapa-shekzeer"]=41,
 	["maddiganxo-shekzeer"]=41,
@@ -6304,6 +6306,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["dukawoppaxd-shekzeer"]=13,
 	["dukhdan-garalon"]=0,
 	["dumbmorron-shekzeer"]=3,
+	["duncán-shekzeer"]=1,
 	["dunia-everlook"]=22,
 	["dunkelheit-shekzeer"]=9,
 	["dúpond-auberdine"]=3,
@@ -7626,6 +7629,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["machtû-shekzeer"]=4,
 	["macid-mirage-raceway"]=6,
 	["mackansdad-garalon"]=4,
+	["madapasaax-shekzeer"]=11,
 	["madaurmada-shekzeer"]=3,
 	["madaurpapa-shekzeer"]=3,
 	["maddiganxo-shekzeer"]=3,
@@ -7702,7 +7706,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["marwena-shekzeer"]=1,
 	["maryjk-everlook"]=15,
 	["mascaraxoxo-shekzeer"]=4,
-	["masdaza-everlook"]=19,
+	["masdaza-everlook"]=16,
 	["mashi-shekzeer"]=9,
 	["mashiro-shekzeer"]=1,
 	["mashleman-shekzeer"]=6,
@@ -8799,7 +8803,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["sãra-shekzeer"]=5,
 	["sarãh-everlook"]=4,
 	["sarah-shekzeer"]=9,
-	["saralyssa-auberdine"]=10,
+	["saralyssa-auberdine"]=2,
 	["saraphiana-everlook"]=2,
 	["saripihkur-garalon"]=7,
 	["sarotas-shekzeer"]=9,
@@ -9723,7 +9727,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["warning-shekzeer"]=1,
 	["warox-shekzeer"]=1,
 	["warrdooms-firemaw"]=1,
-	["wãrrior-shekzeer"]=23,
+	["wãrrior-shekzeer"]=17,
 	["warriormove-ook-ook"]=1,
 	["warriormove-shekzeer"]=1,
 	["warrlordss-shekzeer"]=1,

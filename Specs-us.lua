@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5208 characters, read 2026-11-04 05:59 AM.
+-- Region us, 5208 characters, read 2026-11-04 06:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6634,7 +6634,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["frawbinbowls-pagle"]=16,
 	["freakshowx-raden"]=17,
 	["freddykrueg-pagle"]=8,
-	["freebandzs-pagle"]=21,
+	["freebandzs-pagle"]=9,
 	["freedomspark-raden"]=11,
 	["freeix-pagle"]=15,
 	["freezenow-raden"]=1,
@@ -7434,7 +7434,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["kazamon-pagle"]=24,
 	["kazzaraxia-raden"]=5,
 	["kcidymkcus-arugal-au"]=0,
-	["keekster-pagle"]=9,
+	["keekster-pagle"]=13,
 	["keepithood-pagle"]=14,
 	["kegsmashed-raden"]=4,
 	["keishabrown-pagle"]=10,
@@ -9601,7 +9601,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["thorelam-pagle"]=25,
 	["thosanvn-raden"]=3,
 	["throbbinghog-raden"]=7,
-	["throbbinhood-pagle"]=11,
+	["throbbinhood-pagle"]=1,
 	["throttlebin-galakras"]=20,
 	["thugabear-raden"]=17,
 	["thugfist-pagle"]=10,
