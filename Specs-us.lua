@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5208 characters, read 2026-11-04 01:59 PM.
+-- Region us, 5208 characters, read 2026-11-04 02:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1065,7 +1065,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["defecal-raden"]=11,
 	["defnotanj-pagle"]=41,
 	["degaüss-raden"]=11,
-	["dekk-raden"]=11,
 	["delané-raden"]=11,
 	["delaway-lei-shen"]=11,
 	["delgars-galakras"]=10,
@@ -3855,7 +3854,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["sekyriu-pagle"]=80,
 	["selania-pagle"]=11,
 	["seleste-raden"]=111,
-	["selfplay-raden"]=11,
 	["selina-lei-shen"]=221,
 	["semingg-pagle"]=11,
 	["senddudesqt-pagle"]=20,
@@ -5979,7 +5977,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["damacus-raden"]=1,
 	["Ðamaia-pagle"]=7,
 	["damanî-pagle"]=34,
-	["damg-nazgrim"]=29,
+	["damg-nazgrim"]=34,
 	["damimdialed-raden"]=3,
 	["dammyy-pagle"]=7,
 	["dampeners-raden"]=28,
@@ -6041,7 +6039,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["deadlifta-pagle"]=6,
 	["deadlylifts-pagle"]=7,
 	["deadmoon-galakras"]=24,
-	["deadnutz-nazgrim"]=14,
+	["deadnutz-nazgrim"]=34,
 	["deadpal-galakras"]=16,
 	["deadpoolwins-pagle"]=6,
 	["deadshottz-galakras"]=3,
@@ -6072,7 +6070,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["defecal-raden"]=1,
 	["defnotanj-pagle"]=3,
 	["degaüss-raden"]=16,
-	["dekk-raden"]=6,
+	["dekk-raden"]=0,
 	["delané-raden"]=18,
 	["delaway-lei-shen"]=24,
 	["delgars-galakras"]=3,
@@ -9000,7 +8998,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["sekyriu-pagle"]=5,
 	["selania-pagle"]=7,
 	["seleste-raden"]=9,
-	["selfplay-raden"]=7,
+	["selfplay-raden"]=0,
 	["selina-lei-shen"]=12,
 	["semingg-pagle"]=4,
 	["senddudesqt-pagle"]=7,

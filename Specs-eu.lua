@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5364 characters, read 2026-11-04 02:00 PM.
+-- Region eu, 5364 characters, read 2026-11-04 03:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -8881,7 +8881,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["sëvën-shekzeer"]=9,
 	["severins-norushen"]=11,
 	["shaâl-auberdine"]=11,
-	["shabbagankz-shekzeer"]=24,
+	["shabbagankz-shekzeer"]=26,
 	["shaddo-ook-ook"]=26,
 	["shaddor-ook-ook"]=1,
 	["shadotix-everlook"]=23,
@@ -9009,7 +9009,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["skullchachi-mirage-raceway"]=26,
 	["skylexia-auberdine"]=15,
 	["skynerd-shekzeer"]=17,
-	["skyráw-shekzeer"]=21,
+	["skyráw-shekzeer"]=11,
 	["skyrine-auberdine"]=8,
 	["slagteren-shekzeer"]=1,
 	["slamftw-shekzeer"]=1,
@@ -9415,7 +9415,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["tonysopranoz-shekzeer"]=0,
 	["tøøgøød-shekzeer"]=3,
 	["toolatebro-auberdine"]=26,
-	["tophizzle-everlook"]=10,
+	["tophizzle-everlook"]=2,
 	["topkeck-mirage-raceway"]=7,
 	["topshotta-everlook"]=3,
 	["topspal-shekzeer"]=5,
