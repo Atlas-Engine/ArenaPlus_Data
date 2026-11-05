@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5363 characters, read 2026-11-05 08:00 AM.
+-- Region eu, 5363 characters, read 2026-11-05 09:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4216,6 +4216,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["ubik-shekzeer"]=11,
 	["Ùçhîhåxz-shekzeer"]=11,
 	["udk-shekzeer"]=60,
+	["ufø-shekzeer"]=11,
 	["uglenator-mirage-raceway"]=220,
 	["ugotbanornot-shekzeer"]=11,
 	["uhpewpew-shekzeer"]=10,
@@ -9545,7 +9546,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["ubik-shekzeer"]=6,
 	["Ùçhîhåxz-shekzeer"]=8,
 	["udk-shekzeer"]=33,
-	["ufø-shekzeer"]=0,
+	["ufø-shekzeer"]=15,
 	["uglenator-mirage-raceway"]=11,
 	["ugotbanornot-shekzeer"]=8,
 	["uhpewpew-shekzeer"]=8,
@@ -9576,7 +9577,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["uploader-mirage-raceway"]=1,
 	["uppermoon-mirage-raceway"]=7,
 	["upskirt-everlook"]=26,
-	["uraltersack-shekzeer"]=25,
+	["uraltersack-shekzeer"]=1,
 	["urnightmare-shekzeer"]=7,
 	["urssaf-shekzeer"]=6,
 	["usualsuspect-shekzeer"]=4,

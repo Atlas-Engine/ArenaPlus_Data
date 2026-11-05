@@ -18,7 +18,7 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region tbc-us, season 3, read 2026-11-05 07:58 AM.
+-- Region tbc-us, season 3, read 2026-11-05 08:58 AM.
 -- Realm display names, because the ladder only carries slugs and no rule
 -- turns one back into the other: raden is Ra-den, lei-shen is Lei Shen and
 -- arugal-au is Arugal (AU). Read from Blizzard's realm index; a slug with no
@@ -32,8 +32,8 @@ ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["tbc-us"] = {
 	region  = "tbc-us",
-	checked = "2026-11-05 07:58 AM",
-	checkedEpoch = 1793883496,
+	checked = "2026-11-05 08:58 AM",
+	checkedEpoch = 1793887096,
 	snapshot = "2026-11-05 12:18",
 
 	[1] = {  -- 2v2, 5003 places, down to rating 1486 -- the API stops here, short of the cutoff
@@ -784,17 +784,17 @@ ns.LEADERBOARD_BY_REGION["tbc-us"] = {
 		{ rank=744, name="Reconus", realm="nightslayer", rating=2067, won=109, lost=91, faction="ALLIANCE", mr=2150, dr=0, dk=37 },
 		{ rank=746, name="Johnn", realm="nightslayer", rating=2066, won=82, lost=58, faction="ALLIANCE", dr=0, dk=37 },
 		{ rank=746, name="Rmbrain", realm="nightslayer", rating=2066, won=56, lost=38, faction="HORDE", mr=2147, dr=0, dk=37 },
-		{ rank=748, name="Dadscythe", realm="dreamscythe", rating=2065, won=79, lost=65, faction="ALLIANCE", mr=2131, dr=-44, dk=177 },
-		{ rank=748, name="European", realm="nightslayer", rating=2065, won=36, lost=20, faction="ALLIANCE", dr=0, dk=32 },
-		{ rank=748, name="Joevicer", realm="dreamscythe", rating=2065, won=68, lost=55, faction="ALLIANCE", mr=2131, dr=-44, dk=177 },
-		{ rank=748, name="Splapper", realm="nightslayer", rating=2065, won=86, lost=62, faction="ALLIANCE", mr=2112, dr=0, dk=32 },
-		{ rank=752, name="Moisterd", realm="nightslayer", rating=2064, won=176, lost=153, faction="ALLIANCE", dr=0, dk=34 },
-		{ rank=752, name="Safeduelist", realm="nightslayer", rating=2064, won=67, lost=50, faction="ALLIANCE", dr=0, dk=34 },
-		{ rank=752, name="Seenar", realm="dreamscythe", rating=2064, won=188, lost=157, faction="ALLIANCE", dr=22, dk=-79 },
-		{ rank=755, name="Gennisw", realm="nightslayer", rating=2063, won=122, lost=91, faction="HORDE", dr=50, dk=-237 },
-		{ rank=755, name="Methben", realm="nightslayer", rating=2063, won=152, lost=121, faction="HORDE", mr=2076, dr=0, dk=35 },
-		{ rank=755, name="Sinxd", realm="nightslayer", rating=2063, won=36, lost=17, faction="ALLIANCE", mr=2073, dr=0, dk=35 },
-		{ rank=755, name="Sunnyslow", realm="nightslayer", rating=2063, won=247, lost=205, faction="ALLIANCE", dr=42, dk=-186 },
+		{ rank=746, name="Sunnyslow", realm="nightslayer", rating=2066, won=248, lost=205, faction="ALLIANCE", dr=45, dk=-195 },
+		{ rank=749, name="Dadscythe", realm="dreamscythe", rating=2065, won=79, lost=65, faction="ALLIANCE", mr=2131, dr=-44, dk=178 },
+		{ rank=749, name="European", realm="nightslayer", rating=2065, won=36, lost=20, faction="ALLIANCE", dr=0, dk=33 },
+		{ rank=749, name="Joevicer", realm="dreamscythe", rating=2065, won=68, lost=55, faction="ALLIANCE", mr=2131, dr=-44, dk=178 },
+		{ rank=749, name="Splapper", realm="nightslayer", rating=2065, won=86, lost=62, faction="ALLIANCE", mr=2112, dr=0, dk=33 },
+		{ rank=753, name="Moisterd", realm="nightslayer", rating=2064, won=176, lost=153, faction="ALLIANCE", dr=0, dk=35 },
+		{ rank=753, name="Safeduelist", realm="nightslayer", rating=2064, won=67, lost=50, faction="ALLIANCE", dr=0, dk=35 },
+		{ rank=753, name="Seenar", realm="dreamscythe", rating=2064, won=188, lost=157, faction="ALLIANCE", dr=22, dk=-78 },
+		{ rank=756, name="Gennisw", realm="nightslayer", rating=2063, won=122, lost=91, faction="HORDE", dr=50, dk=-236 },
+		{ rank=756, name="Methben", realm="nightslayer", rating=2063, won=152, lost=121, faction="HORDE", mr=2076, dr=0, dk=36 },
+		{ rank=756, name="Sinxd", realm="nightslayer", rating=2063, won=36, lost=17, faction="ALLIANCE", mr=2073, dr=0, dk=36 },
 		{ rank=759, name="Alabamamañ", realm="nightslayer", rating=2062, won=270, lost=252, faction="ALLIANCE", mr=2099, dr=48, dk=-225 },
 		{ rank=759, name="Dhorik", realm="nightslayer", rating=2062, won=65, lost=44, faction="HORDE", dr=0, dk=35 },
 		{ rank=759, name="Ensoe", realm="nightslayer", rating=2062, won=310, lost=304, faction="ALLIANCE", dr=0, dk=35 },
