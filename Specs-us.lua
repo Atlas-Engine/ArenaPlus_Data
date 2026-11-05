@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5206 characters, read 2026-11-04 05:59 PM.
+-- Region us, 5206 characters, read 2026-11-04 06:54 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1584,7 +1584,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["førmality-raden"]=11,
 	["førtress-pagle"]=100,
 	["fossy-pagle"]=41,
-	["fotmwarrs-raden"]=11,
+	["fotmwarrs-raden"]=10,
 	["fotosyntetic-raden"]=41,
 	["foureyepottr-pagle"]=50,
 	["fourfiveow-raden"]=11,
@@ -4118,7 +4118,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["sovice-raden"]=11,
 	["soyinfelíz-raden"]=21,
 	["soytupapi-pagle"]=50,
-	["spaak-raden"]=11,
 	["space-raden"]=111,
 	["sparas-raden"]=71,
 	["sparqxx-pagle"]=11,
@@ -5346,7 +5345,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["basedproc-pagle"]=15,
 	["basedprocity-pagle"]=15,
 	["basherr-raden"]=6,
-	["bashlee-lei-shen"]=23,
+	["bashlee-lei-shen"]=7,
 	["battleground-pagle"]=17,
 	["battleground-raden"]=4,
 	["battlehealz-galakras"]=21,
@@ -5480,7 +5479,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["blacksclera-pagle"]=24,
 	["blacksiide-pagle"]=4,
 	["blackspades-pagle"]=26,
-	["bladvalery-nazgrim"]=2,
+	["bladvalery-nazgrim"]=32,
 	["blaggie-galakras"]=16,
 	["blaine-raden"]=1,
 	["blakemøre-raden"]=0,
@@ -9284,7 +9283,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["sovice-raden"]=2,
 	["soyinfelíz-raden"]=6,
 	["soytupapi-pagle"]=9,
-	["spaak-raden"]=34,
+	["spaak-raden"]=0,
 	["space-raden"]=1,
 	["spala-pagle"]=0,
 	["sparas-raden"]=11,
