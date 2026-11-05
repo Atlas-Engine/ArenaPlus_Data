@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5363 characters, read 2026-11-04 09:00 PM.
+-- Region eu, 5363 characters, read 2026-11-04 10:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3935,6 +3935,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["swiftygolas-everlook"]=41,
 	["swinnyqt-garalon"]=10,
 	["swoorlz-everlook"]=11,
+	["swpdez-shekzeer"]=50,
 	["swpdwxc-shekzeer"]=11,
 	["swpdxl-shekzeer"]=41,
 	["swpx-shekzeer"]=10,
@@ -5219,7 +5220,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["acquapal-shekzeer"]=5,
 	["adamsecurity-shekzeer"]=9,
 	["adarä-shekzeer"]=15,
-	["aderallmeta-shekzeer"]=3,
+	["aderallmeta-shekzeer"]=11,
 	["adesanya-shekzeer"]=7,
 	["adonix-auberdine"]=8,
 	["adrianmandos-garalon"]=15,
@@ -5282,7 +5283,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["alalia-mirage-raceway"]=3,
 	["alavasca-mirage-raceway"]=9,
 	["albaner-ook-ook"]=2,
-	["albatrowss-shekzeer"]=9,
+	["albatrowss-shekzeer"]=12,
 	["alekcs-auberdine"]=25,
 	["alenkovich-shekzeer"]=17,
 	["alepoudiaris-garalon"]=15,
@@ -9243,7 +9244,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["swiftygolas-everlook"]=4,
 	["swinnyqt-garalon"]=5,
 	["swoorlz-everlook"]=9,
-	["swpdez-shekzeer"]=0,
+	["swpdez-shekzeer"]=6,
 	["swpdwxc-shekzeer"]=6,
 	["swpdxl-shekzeer"]=6,
 	["swpx-shekzeer"]=1,

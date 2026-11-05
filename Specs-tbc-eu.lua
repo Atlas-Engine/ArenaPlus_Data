@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9607 characters, read 2026-11-04 08:59 PM.
+-- Region tbc-eu, 9608 characters, read 2026-11-04 09:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2483,7 +2483,6 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["euprx-spineshatter"]=110,
 	["europa-spineshatter"]=101,
 	["eurypides-spineshatter"]=20,
-	["evaberger-spineshatter"]=51,
 	["evai-spineshatter"]=50,
 	["evellynee-thunderstrike"]=11,
 	["evellynne-thunderstrike"]=41,
@@ -8447,6 +8446,7 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["toymàchine-thunderstrike"]=30,
 	["tozzo-spineshatter"]=21,
 	["tpaxayou-spineshatter"]=10,
+	["tpugogblpku-spineshatter"]=101,
 	["tqove-spineshatter"]=21,
 	["trafnovic-spineshatter"]=21,
 	["trafs-spineshatter"]=61,
@@ -8872,6 +8872,7 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["vorons-spineshatter"]=50,
 	["vortox-spineshatter"]=20,
 	["voteforpedro-thunderstrike"]=50,
+	["votrex-spineshatter"]=41,
 	["vøz-thunderstrike"]=51,
 	["vrotic-spineshatter"]=11,
 	["vrwatsón-thunderstrike"]=30,
@@ -11998,7 +11999,6 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["euprx-spineshatter"]=23,
 	["europa-spineshatter"]=26,
 	["eurypides-spineshatter"]=23,
-	["evaberger-spineshatter"]=3,
 	["evai-spineshatter"]=8,
 	["evellynee-thunderstrike"]=13,
 	["evellynne-thunderstrike"]=1,
@@ -14694,7 +14694,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["mezzes-spineshatter"]=9,
 	["mfkaxx-spineshatter"]=11,
 	["mgrn-spineshatter"]=9,
-	["mhh-spineshatter"]=3,
+	["mhh-spineshatter"]=19,
 	["mhudini-spineshatter"]=9,
 	["mhugoku-spineshatter"]=3,
 	["miagi-spineshatter"]=5,
@@ -18044,6 +18044,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["toymàchine-thunderstrike"]=5,
 	["tozzo-spineshatter"]=5,
 	["tpaxayou-spineshatter"]=3,
+	["tpugogblpku-spineshatter"]=10,
 	["tqove-spineshatter"]=25,
 	["trafnovic-spineshatter"]=5,
 	["trafs-spineshatter"]=1,
@@ -18472,6 +18473,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["vorons-spineshatter"]=9,
 	["vortox-spineshatter"]=12,
 	["voteforpedro-thunderstrike"]=2,
+	["votrex-spineshatter"]=1,
 	["vøz-thunderstrike"]=19,
 	["vrotic-spineshatter"]=4,
 	["vrwatsón-thunderstrike"]=2,
