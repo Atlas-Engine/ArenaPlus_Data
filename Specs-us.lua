@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5206 characters, read 2026-11-04 06:54 PM.
+-- Region us, 5207 characters, read 2026-11-04 07:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1082,6 +1082,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["déprivedsoul-pagle"]=11,
 	["deputyd-lei-shen"]=40,
 	["derion-galakras"]=10,
+	["deriosx-pagle"]=11,
 	["derklek-pagle"]=80,
 	["desdrix-pagle"]=11,
 	["desecration-raden"]=10,
@@ -5226,7 +5227,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["armedknight-pagle"]=7,
 	["armisaél-nazgrim"]=23,
 	["aronm-pagle"]=2,
-	["aronuti-lei-shen"]=5,
+	["aronuti-lei-shen"]=17,
 	["arrowtwist-raden"]=3,
 	["artanissed-pagle"]=6,
 	["arteniss-raden"]=9,
@@ -6086,6 +6087,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["déprivedsoul-pagle"]=2,
 	["deputyd-lei-shen"]=5,
 	["derion-galakras"]=16,
+	["deriosx-pagle"]=2,
 	["derklek-pagle"]=18,
 	["desdrix-pagle"]=7,
 	["desecration-raden"]=6,
@@ -9127,7 +9129,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["sîq-raden"]=24,
 	["sírchargé-lei-shen"]=7,
 	["sisterfista-raden"]=10,
-	["sithtyshades-galakras"]=21,
+	["sithtyshades-galakras"]=9,
 	["síx-nazgrim"]=26,
 	["sixgodx-raden"]=7,
 	["sixmonth-raden"]=4,

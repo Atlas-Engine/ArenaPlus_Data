@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5363 characters, read 2026-11-04 07:00 PM.
+-- Region eu, 5363 characters, read 2026-11-04 08:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -401,6 +401,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["baddemm-norushen"]=101,
 	["bademsekeri-shekzeer"]=11,
 	["badlama-hoptallus"]=10,
+	["badmanchazo-shekzeer"]=10,
 	["badmanchazzo-shekzeer"]=10,
 	["badmannersx-shekzeer"]=11,
 	["badtank-garalon"]=100,
@@ -429,6 +430,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["bankaimeh-shekzeer"]=10,
 	["bankofabank-shekzeer"]=41,
 	["baphömet-auberdine"]=50,
+	["barackokarma-shekzeer"]=10,
 	["barbarianx-shekzeer"]=10,
 	["barilas-norushen"]=50,
 	["barkwinde-shekzeer"]=10,
@@ -1462,7 +1464,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["garanas-shekzeer"]=11,
 	["garbula-shekzeer"]=11,
 	["gatz-garalon"]=21,
-	["gavno-shekzeer"]=11,
+	["gavno-shekzeer"]=10,
 	["gcmte-shekzeer"]=11,
 	["geezus-hoptallus"]=30,
 	["gelexica-everlook"]=11,
@@ -5527,7 +5529,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bademsekeri-shekzeer"]=1,
 	["badlama-hoptallus"]=15,
 	["badmanchazo-garalon"]=0,
-	["badmanchazo-shekzeer"]=0,
+	["badmanchazo-shekzeer"]=1,
 	["badmanchazzo-shekzeer"]=20,
 	["badmannersx-shekzeer"]=6,
 	["badtank-garalon"]=30,
@@ -5562,7 +5564,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bankaimeh-shekzeer"]=9,
 	["bankofabank-shekzeer"]=3,
 	["baphömet-auberdine"]=23,
-	["barackokarma-shekzeer"]=0,
+	["barackokarma-shekzeer"]=7,
 	["barbarianx-shekzeer"]=1,
 	["barilas-norushen"]=17,
 	["barkwinde-shekzeer"]=24,
@@ -5749,7 +5751,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["brimmy-auberdine"]=2,
 	["brixx-everlook"]=15,
 	["brokeasalwys-shekzeer"]=4,
-	["brokimbo-shekzeer"]=7,
+	["brokimbo-shekzeer"]=6,
 	["brooklynzoo-mirage-raceway"]=11,
 	["brozzki-shekzeer"]=15,
 	["brr-norushen"]=11,
@@ -8800,7 +8802,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["sandzakpowaa-shekzeer"]=1,
 	["saowa-shekzeer"]=3,
 	["sapsapkill-mirage-raceway"]=26,
-	["sapurnan-shekzeer"]=26,
+	["sapurnan-shekzeer"]=24,
 	["sarå-norushen"]=2,
 	["sãra-shekzeer"]=5,
 	["sarãh-everlook"]=4,

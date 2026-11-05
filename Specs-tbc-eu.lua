@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9607 characters, read 2026-11-04 06:59 PM.
+-- Region tbc-eu, 9607 characters, read 2026-11-04 07:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12346,7 +12346,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["fränni-spineshatter"]=4,
 	["fratzz-spineshatter"]=11,
 	["fraumerkel-spineshatter"]=20,
-	["frda-spineshatter"]=19,
+	["frda-spineshatter"]=3,
 	["frdc-spineshatter"]=4,
 	["freakalzoid-thunderstrike"]=19,
 	["freakedw-spineshatter"]=3,
@@ -12547,7 +12547,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["gizmorc-spineshatter"]=11,
 	["gizmourn-spineshatter"]=2,
 	["gladiatorete-spineshatter"]=6,
-	["glädius-spineshatter"]=1,
+	["glädius-spineshatter"]=6,
 	["glatzenjoe-spineshatter"]=9,
 	["glatzl-spineshatter"]=0,
 	["glazzxa-spineshatter"]=25,
@@ -15848,7 +15848,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["pixled-spineshatter"]=11,
 	["pixxienormus-thunderstrike"]=19,
 	["pkr-spineshatter"]=4,
-	["plaguekoksx-spineshatter"]=14,
+	["plaguekoksx-spineshatter"]=13,
 	["planetwash-spineshatter"]=20,
 	["plasbuis-spineshatter"]=13,
 	["plastelen-thunderstrike"]=5,
