@@ -18,7 +18,7 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region tbc-eu, season 3, read 2026-11-04 11:59 PM.
+-- Region tbc-eu, season 3, read 2026-11-05 12:59 AM.
 -- Realm display names, because the ladder only carries slugs and no rule
 -- turns one back into the other: raden is Ra-den, lei-shen is Lei Shen and
 -- arugal-au is Arugal (AU). Read from Blizzard's realm index; a slug with no
@@ -32,11 +32,11 @@ ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["tbc-eu"] = {
 	region  = "tbc-eu",
-	checked = "2026-11-04 11:59 PM",
-	checkedEpoch = 1793854741,
-	snapshot = "2026-11-05 02:15",
+	checked = "2026-11-05 12:59 AM",
+	checkedEpoch = 1793858349,
+	snapshot = "2026-11-05 05:15",
 
-	[1] = {  -- 2v2, 5021 places, down to rating 1474 -- the API stops here, short of the cutoff
+	[1] = {  -- 2v2, 5020 places, down to rating 1474 -- the API stops here, short of the cutoff
 		{ rank=1, name="Beryboss", realm="spineshatter", rating=2741, won=113, lost=39, faction="HORDE", mr=2744, dr=95, dk=-11 },
 		{ rank=2, name="Dikzysquad", realm="spineshatter", rating=2732, won=141, lost=62, faction="HORDE", dr=137, dk=-29 },
 		{ rank=2, name="Neepzdruid", realm="spineshatter", rating=2732, won=167, lost=82, faction="HORDE", dr=137, dk=-29 },
@@ -5057,7 +5057,6 @@ ns.LEADERBOARD_BY_REGION["tbc-eu"] = {
 		{ rank=4996, name="Znopeh", realm="spineshatter", rating=1775, won=34, lost=26, faction="HORDE", mr=1798, dr=0, dk=78 },
 		{ rank=4996, name="Маз", realm="anniversary", rating=1775, won=153, lost=151, faction="ALLIANCE", mr=1926, dr=0, dk=78 },
 		{ rank=4996, name="Шмез", realm="anniversary", rating=1775, won=198, lost=177, faction="ALLIANCE", mr=1926, dr=0, dk=78 },
-		{ rank=5021, name="Sustanøn", realm="spineshatter", rating=1771, won=581, lost=552, faction="HORDE", mr=1857, dr=-86, dk=1506 },
 	},
 	[2] = {  -- 3v3, 5044 places, down to rating 1495 -- the API stops here, short of the cutoff
 		{ rank=1, name="Yermeezylr", realm="spineshatter", rating=2540, won=148, lost=53, faction="HORDE", dr=0, dk=0 },

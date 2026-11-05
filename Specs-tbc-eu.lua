@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9608 characters, read 2026-11-04 11:59 PM.
+-- Region tbc-eu, 9607 characters, read 2026-11-05 12:34 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -8019,7 +8019,6 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["suspendbeun-spineshatter"]=50,
 	["suspendéd-spineshatter"]=31,
 	["sussyclass-spineshatter"]=41,
-	["sustanøn-spineshatter"]=20,
 	["sutlucco-spineshatter"]=111,
 	["suwuel-spineshatter"]=41,
 	["suxpext-thunderstrike"]=50,
@@ -16143,7 +16142,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["qúnz-spineshatter"]=11,
 	["qusy-spineshatter"]=9,
 	["quync-spineshatter"]=6,
-	["quyncywl-spineshatter"]=14,
+	["quyncywl-spineshatter"]=13,
 	["quzy-spineshatter"]=3,
 	["quzyxd-spineshatter"]=3,
 	["qvaska-spineshatter"]=2,
@@ -17614,7 +17613,6 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["suspendbeun-spineshatter"]=2,
 	["suspendéd-spineshatter"]=2,
 	["sussyclass-spineshatter"]=1,
-	["sustanøn-spineshatter"]=5,
 	["sutlucco-spineshatter"]=11,
 	["suwuel-spineshatter"]=1,
 	["suxpext-thunderstrike"]=18,

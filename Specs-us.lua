@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5208 characters, read 2026-11-04 11:59 PM.
+-- Region us, 5208 characters, read 2026-11-05 12:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5990,7 +5990,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dankendwarf-pagle"]=22,
 	["dankenelf-pagle"]=5,
 	["dankenshroom-lei-shen"]=12,
-	["dankenstein-lei-shen"]=22,
+	["dankenstein-lei-shen"]=19,
 	["dankorbs-pagle"]=4,
 	["dankshots-lei-shen"]=3,
 	["danuhai-pagle"]=19,
@@ -6072,7 +6072,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["degaüss-raden"]=16,
 	["dekk-raden"]=0,
 	["delané-raden"]=18,
-	["delaway-lei-shen"]=24,
+	["delaway-lei-shen"]=8,
 	["delgars-galakras"]=3,
 	["delonso-pagle"]=7,
 	["deloriss-pagle"]=34,
@@ -9035,7 +9035,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["shahku-pagle"]=22,
 	["shalax-lei-shen"]=12,
 	["shàmân-raden"]=8,
-	["shamhertz-nazgrim"]=22,
+	["shamhertz-nazgrim"]=15,
 	["shamiee-raden"]=15,
 	["shammans-pagle"]=22,
 	["shamshocksz-pagle"]=15,
