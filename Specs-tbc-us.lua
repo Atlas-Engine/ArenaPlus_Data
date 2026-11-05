@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9348 characters, read 2026-11-04 10:58 PM.
+-- Region tbc-us, 9348 characters, read 2026-11-04 11:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11033,7 +11033,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["damagecat-nightslayer"]=3,
 	["damawntren-dreamscythe"]=15,
 	["damimclean-nightslayer"]=4,
-	["damny-nightslayer"]=2,
+	["damny-nightslayer"]=18,
 	["dampening-nightslayer"]=24,
 	["danapink-nightslayer"]=2,
 	["dancerxo-nightslayer"]=8,
@@ -11309,7 +11309,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["dizad-nightslayer"]=7,
 	["dizapear-nightslayer"]=5,
 	["dizenuts-dreamscythe"]=5,
-	["dizlol-dreamscythe"]=1,
+	["dizlol-dreamscythe"]=14,
 	["dizpel-nightslayer"]=1,
 	["dizzlerz-nightslayer"]=18,
 	["djbuttercupx-nightslayer"]=0,
@@ -13157,7 +13157,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["itsatrap-nightslayer"]=17,
 	["itsintuitive-dreamscythe"]=2,
 	["itsnotkappa-nightslayer"]=5,
-	["itsok-nightslayer"]=18,
+	["itsok-nightslayer"]=20,
 	["itwasluckk-nightslayer"]=10,
 	["itzawipe-dreamscythe"]=2,
 	["itzeazy-dreamscythe"]=1,
@@ -13942,7 +13942,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["lilreaps-nightslayer"]=4,
 	["lilsack-nightslayer"]=11,
 	["lilsamo-nightslayer"]=1,
-	["lilshades-nightslayer"]=13,
+	["lilshades-nightslayer"]=23,
 	["lilshet-nightslayer"]=19,
 	["lilsole-dreamscythe"]=2,
 	["lilstompzz-nightslayer"]=2,
@@ -14558,7 +14558,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["moistjohnson-nightslayer"]=4,
 	["moistured-nightslayer"]=2,
 	["mojabighost-nightslayer"]=13,
-	["mojando-nightslayer"]=16,
+	["mojando-nightslayer"]=13,
 	["mõjando-nightslayer"]=3,
 	["mojing-dreamscythe"]=1,
 	["mojitosz-dreamscythe"]=2,
@@ -15412,7 +15412,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["pinkierr-nightslayer"]=10,
 	["pinkrangerz-nightslayer"]=7,
 	["pinkypal-nightslayer"]=9,
-	["pinkzz-nightslayer"]=23,
+	["pinkzz-nightslayer"]=13,
 	["pinoh-nightslayer"]=21,
 	["pipestrange-nightslayer"]=7,
 	["pipidd-dreamscythe"]=7,
