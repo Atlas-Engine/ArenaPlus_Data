@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9348 characters, read 2026-11-05 12:58 PM.
+-- Region tbc-us, 9348 characters, read 2026-11-05 01:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10611,7 +10611,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["chego-nightslayer"]=7,
 	["chegoh-nightslayer"]=5,
 	["chegorina-nightslayer"]=1,
-	["chegorita-nightslayer"]=12,
+	["chegorita-nightslayer"]=1,
 	["cherbz-dreamscythe"]=1,
 	["cheryxx-nightslayer"]=4,
 	["cheshirez-nightslayer"]=0,
@@ -14571,7 +14571,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["molang-nightslayer"]=5,
 	["molanjiao-nightslayer"]=24,
 	["molanpa-nightslayer"]=5,
-	["molasses-nightslayer"]=4,
+	["molasses-nightslayer"]=6,
 	["mollylou-nightslayer"]=4,
 	["molten-nightslayer"]=6,
 	["moltisantie-nightslayer"]=5,
@@ -14969,7 +14969,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["notpants-nightslayer"]=2,
 	["notphenom-dreamscythe"]=13,
 	["notphenom-nightslayer"]=13,
-	["notreezy-nightslayer"]=1,
+	["notreezy-nightslayer"]=14,
 	["notswimming-nightslayer"]=19,
 	["nottabott-nightslayer"]=4,
 	["nottrap-nightslayer"]=17,
@@ -16577,7 +16577,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["silkyo-nightslayer"]=5,
 	["silkyô-nightslayer"]=5,
 	["sillord-nightslayer"]=19,
-	["sillyfemboyy-dreamscythe"]=14,
+	["sillyfemboyy-dreamscythe"]=12,
 	["sillyhots-nightslayer"]=7,
 	["silväzoldyck-nightslayer"]=5,
 	["silverkîtty-nightslayer"]=10,
