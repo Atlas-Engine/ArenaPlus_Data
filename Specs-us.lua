@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5207 characters, read 2026-11-05 01:59 AM.
+-- Region us, 5207 characters, read 2026-11-05 02:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3017,7 +3017,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["mythle-pagle"]=11,
 	["mythologic-nazgrim"]=10,
 	["mythrunn-pagle"]=40,
-	["næl-pagle"]=11,
+	["næl-pagle"]=10,
 	["naghgrip-pagle"]=10,
 	["naghvoid-pagle"]=10,
 	["nahfr-pagle"]=11,
@@ -8133,7 +8133,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["nananutmuffn-pagle"]=29,
 	["naniaids-lei-shen"]=28,
 	["nanikilla-lei-shen"]=4,
-	["nanismasha-lei-shen"]=22,
+	["nanismasha-lei-shen"]=15,
 	["nanixita-raden"]=24,
 	["nanslayer-raden"]=1,
 	["naoki-bloodsail-buccaneers"]=16,

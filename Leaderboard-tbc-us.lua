@@ -18,7 +18,7 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region tbc-us, season 3, read 2026-11-05 01:58 AM.
+-- Region tbc-us, season 3, read 2026-11-05 02:58 AM.
 -- Realm display names, because the ladder only carries slugs and no rule
 -- turns one back into the other: raden is Ra-den, lei-shen is Lei Shen and
 -- arugal-au is Arugal (AU). Read from Blizzard's realm index; a slug with no
@@ -32,8 +32,8 @@ ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["tbc-us"] = {
 	region  = "tbc-us",
-	checked = "2026-11-05 01:58 AM",
-	checkedEpoch = 1793861896,
+	checked = "2026-11-05 02:58 AM",
+	checkedEpoch = 1793865495,
 	snapshot = "2026-11-05 06:18",
 
 	[1] = {  -- 2v2, 5003 places, down to rating 1486 -- the API stops here, short of the cutoff
@@ -610,7 +610,7 @@ ns.LEADERBOARD_BY_REGION["tbc-us"] = {
 		{ rank=571, name="Dendríc", realm="nightslayer", rating=2115, won=234, lost=213, faction="ALLIANCE", dr=0, dk=20 },
 		{ rank=571, name="Lilbabymiata", realm="dreamscythe", rating=2115, won=152, lost=136, faction="HORDE", mr=2281, dr=13, dk=-26 },
 		{ rank=571, name="Oznem", realm="dreamscythe", rating=2115, won=251, lost=213, faction="HORDE", mr=2281, dr=13, dk=-26 },
-		{ rank=571, name="Peacemanlol", realm="nightslayer", rating=2115, won=429, lost=370, faction="ALLIANCE", mr=2177, dr=5, dk=4 },
+		{ rank=571, name="Peacemanlol", realm="nightslayer", rating=2115, won=431, lost=370, faction="ALLIANCE", mr=2177, dr=5, dk=4 },
 		{ rank=571, name="Scarlettjane", realm="nightslayer", rating=2115, won=57, lost=42, faction="ALLIANCE", dr=0, dk=20 },
 		{ rank=571, name="Tímmi", realm="nightslayer", rating=2115, won=44, lost=15, faction="ALLIANCE", dr=0, dk=20 },
 		{ rank=577, name="Diinen", realm="dreamscythe", rating=2114, won=108, lost=38, faction="ALLIANCE", dr=0, dk=22 },
