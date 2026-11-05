@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9607 characters, read 2026-11-05 02:54 PM.
+-- Region tbc-eu, 9607 characters, read 2026-11-05 03:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5113,6 +5113,7 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["meramoon-spineshatter"]=21,
 	["merbenägen-spineshatter"]=81,
 	["mercaoe-spineshatter"]=50,
+	["mercatore-spineshatter"]=50,
 	["merciless-spineshatter"]=11,
 	["mériáh-spineshatter"]=81,
 	["merpheus-spineshatter"]=20,
@@ -8905,7 +8906,6 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["wagyumommy-spineshatter"]=51,
 	["wagyuyu-spineshatter"]=61,
 	["wahchii-thunderstrike"]=80,
-	["wahum-spineshatter"]=50,
 	["wairen-spineshatter"]=21,
 	["waitpowerman-spineshatter"]=60,
 	["waizi-spineshatter"]=31,
@@ -14430,7 +14430,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["magícbeer-thunderstrike"]=4,
 	["magicién-spineshatter"]=0,
 	["magiqman-spineshatter"]=9,
-	["magiu-spineshatter"]=13,
+	["magiu-spineshatter"]=18,
 	["magixsmith-spineshatter"]=10,
 	["magmag-spineshatter"]=23,
 	["magoloco-spineshatter"]=4,
@@ -14663,6 +14663,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["meramoon-spineshatter"]=11,
 	["merbenägen-spineshatter"]=12,
 	["mercaoe-spineshatter"]=4,
+	["mercatore-spineshatter"]=3,
 	["merciless-spineshatter"]=3,
 	["mériáh-spineshatter"]=2,
 	["merizio-spineshatter"]=0,
@@ -18505,7 +18506,6 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["wagyumommy-spineshatter"]=9,
 	["wagyuyu-spineshatter"]=1,
 	["wahchii-thunderstrike"]=8,
-	["wahum-spineshatter"]=8,
 	["waikru-spineshatter"]=0,
 	["wairen-spineshatter"]=11,
 	["waitpowerman-spineshatter"]=5,

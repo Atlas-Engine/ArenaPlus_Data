@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5364 characters, read 2026-11-05 03:00 PM.
+-- Region eu, 5364 characters, read 2026-11-05 04:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4098,7 +4098,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["tøøgøød-shekzeer"]=41,
 	["tophizzle-everlook"]=11,
 	["topkeck-mirage-raceway"]=10,
-	["topshotta-everlook"]=40,
+	["topshotta-everlook"]=41,
 	["topspal-shekzeer"]=11,
 	["topspalz-shekzeer"]=10,
 	["topyas-mirage-raceway"]=10,
@@ -5995,7 +5995,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["crazydruid-shekzeer"]=21,
 	["crazyskiill-shekzeer"]=19,
 	["crazyskill-shekzeer"]=26,
-	["creagender-shekzeer"]=18,
+	["creagender-shekzeer"]=1,
 	["creativeless-everlook"]=5,
 	["creon-garalon"]=23,
 	["críìss-auberdine"]=6,
@@ -6235,7 +6235,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["dogecoinxx-shekzeer"]=12,
 	["dogfight-shekzeer"]=0,
 	["doha-shekzeer"]=2,
-	["dokiúr-mirage-raceway"]=3,
+	["dokiúr-mirage-raceway"]=11,
 	["dokken-shekzeer"]=2,
 	["dolaro-hoptallus"]=0,
 	["doll-shekzeer"]=9,
@@ -8856,11 +8856,11 @@ ns.SPECS_BY_REGION["eu"] = {
 	["sealswap-shekzeer"]=15,
 	["seaudpurin-shekzeer"]=3,
 	["seaudurine-shekzeer"]=13,
-	["sebcapy-auberdine"]=2,
+	["sebcapy-auberdine"]=10,
 	["secodia-hoptallus"]=5,
 	["sectumsemprá-auberdine"]=1,
 	["seeany-everlook"]=21,
-	["seera-shekzeer"]=7,
+	["seera-shekzeer"]=29,
 	["sehrot-everlook"]=1,
 	["seishironagî-shekzeer"]=9,
 	["sêîsmîç-shekzeer"]=16,
