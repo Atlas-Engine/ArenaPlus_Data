@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9348 characters, read 2026-11-05 09:58 AM.
+-- Region tbc-us, 9348 characters, read 2026-11-05 10:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7967,6 +7967,7 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["tedswife-nightslayer"]=21,
 	["tedxd-nightslayer"]=60,
 	["tehexd-nightslayer"]=20,
+	["tehgosu-nightslayer"]=81,
 	["tekbro-nightslayer"]=50,
 	["tekbruh-nightslayer"]=80,
 	["tekz-nightslayer"]=20,
@@ -13091,7 +13092,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["inhalers-nightslayer"]=10,
 	["injureginger-dreamscythe"]=12,
 	["inkymess-nightslayer"]=10,
-	["inlor-nightslayer"]=3,
+	["inlor-nightslayer"]=7,
 	["inmates-nightslayer"]=2,
 	["innate-nightslayer"]=23,
 	["innated-nightslayer"]=7,
@@ -17278,7 +17279,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["taylrswftmnd-dreamscythe"]=7,
 	["tayswíft-nightslayer"]=1,
 	["tazërface-nightslayer"]=18,
-	["tbalc-nightslayer"]=12,
+	["tbalc-nightslayer"]=1,
 	["tbcisawful-nightslayer"]=15,
 	["tbcisdeadcya-nightslayer"]=21,
 	["tbcpally-nightslayer"]=11,
@@ -17297,7 +17298,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["tedswife-nightslayer"]=2,
 	["tedxd-nightslayer"]=3,
 	["tehexd-nightslayer"]=17,
-	["tehgosu-nightslayer"]=0,
+	["tehgosu-nightslayer"]=1,
 	["tekbro-nightslayer"]=4,
 	["tekbruh-nightslayer"]=19,
 	["tekz-nightslayer"]=19,
