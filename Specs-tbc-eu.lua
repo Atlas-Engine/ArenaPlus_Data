@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9607 characters, read 2026-11-04 07:59 PM.
+-- Region tbc-eu, 9607 characters, read 2026-11-04 08:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10860,7 +10860,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["chyrok-spineshatter"]=13,
 	["chz-spineshatter"]=10,
 	["cialt-thunderstrike"]=15,
-	["ciaociao-spineshatter"]=19,
+	["ciaociao-spineshatter"]=3,
 	["cicá-thunderstrike"]=5,
 	["cicasaurus-thunderstrike"]=7,
 	["cicilol-spineshatter"]=8,
@@ -12072,7 +12072,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["facecontrol-spineshatter"]=2,
 	["facee-spineshatter"]=5,
 	["fachkraftqt-spineshatter"]=23,
-	["fàde-thunderstrike"]=3,
+	["fàde-thunderstrike"]=19,
 	["fairvalue-spineshatter"]=5,
 	["fairydal-spineshatter"]=1,
 	["fakboyvinny-spineshatter"]=1,
@@ -13161,7 +13161,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["infestedx-spineshatter"]=3,
 	["inffimage-spineshatter"]=9,
 	["inflamed-spineshatter"]=13,
-	["inflèx-spineshatter"]=14,
+	["inflèx-spineshatter"]=18,
 	["influensseri-thunderstrike"]=1,
 	["ingler-spineshatter"]=3,
 	["initialdoge-spineshatter"]=3,
@@ -13755,7 +13755,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["kikkihiirì-spineshatter"]=2,
 	["kikoho-spineshatter"]=1,
 	["kikoobandit-spineshatter"]=3,
-	["kikoobibtoo-spineshatter"]=2,
+	["kikoobibtoo-spineshatter"]=17,
 	["kilata-thunderstrike"]=11,
 	["kilipäärambo-spineshatter"]=9,
 	["killerbeebop-spineshatter"]=18,
@@ -18510,7 +18510,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["wairen-spineshatter"]=11,
 	["waitpowerman-spineshatter"]=5,
 	["waizi-spineshatter"]=17,
-	["waldhafen-thunderstrike"]=6,
+	["waldhafen-thunderstrike"]=1,
 	["walida-spineshatter"]=5,
 	["walphrett-spineshatter"]=3,
 	["wandenjoyerx-spineshatter"]=9,
