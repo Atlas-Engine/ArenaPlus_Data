@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5207 characters, read 2026-11-05 03:59 AM.
+-- Region us, 5207 characters, read 2026-11-05 04:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2586,7 +2586,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["lightspoon-benediction"]=11,
 	["lìghtsy-raden"]=11,
 	["lightvenge-pagle"]=10,
-	["ligmatron-raden"]=11,
 	["lijienator-pagle"]=100,
 	["likez-pagle"]=50,
 	["likmypsy-raden"]=11,
@@ -3508,6 +3507,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["qtips-lei-shen"]=20,
 	["qtmonkbb-pagle"]=11,
 	["qtpiè-pagle"]=11,
+	["qtx-raden"]=21,
 	["qtzero-pagle"]=11,
 	["quadriceps-pagle"]=111,
 	["quandell-raden"]=21,
@@ -7664,7 +7664,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["lìghtsy-raden"]=10,
 	["lightvenge-pagle"]=16,
 	["lightwellbis-galakras"]=0,
-	["ligmatron-raden"]=7,
 	["lijienator-pagle"]=11,
 	["likez-pagle"]=21,
 	["likmypsy-raden"]=34,
@@ -8628,6 +8627,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["qtips-lei-shen"]=34,
 	["qtmonkbb-pagle"]=4,
 	["qtpiè-pagle"]=4,
+	["qtx-raden"]=7,
 	["qtzero-pagle"]=4,
 	["quadriceps-pagle"]=22,
 	["quandell-raden"]=3,
