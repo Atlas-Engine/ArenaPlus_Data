@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9607 characters, read 2026-11-05 04:59 PM.
+-- Region tbc-eu, 9607 characters, read 2026-11-05 05:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -15876,7 +15876,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["pökyli-spineshatter"]=9,
 	["polaky-spineshatter"]=15,
 	["polardina-spineshatter"]=11,
-	["polechydes-spineshatter"]=7,
+	["polechydes-spineshatter"]=26,
 	["polemasterxx-spineshatter"]=23,
 	["pollenta-spineshatter"]=1,
 	["pölo-spineshatter"]=3,
@@ -17284,7 +17284,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["soqui-spineshatter"]=2,
 	["sorí-thunderstrike"]=3,
 	["sóronia-spineshatter"]=5,
-	["sorrowhill-spineshatter"]=9,
+	["sorrowhill-spineshatter"]=21,
 	["sorrowlol-spineshatter"]=9,
 	["sorrownekzlx-spineshatter"]=5,
 	["sorrway-thunderstrike"]=4,
@@ -18163,7 +18163,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["twistko-spineshatter"]=11,
 	["twistmachine-thunderstrike"]=12,
 	["twistycent-thunderstrike"]=11,
-	["twizt-thunderstrike"]=7,
+	["twizt-thunderstrike"]=26,
 	["twogcds-spineshatter"]=7,
 	["twohornandy-spineshatter"]=1,
 	["twohotforyou-spineshatter"]=20,
