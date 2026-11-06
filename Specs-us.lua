@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5207 characters, read 2026-11-06 03:59 AM.
+-- Region us, 5209 characters, read 2026-11-06 04:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -758,7 +758,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["chadwack-galakras"]=80,
 	["chakrabolt-pagle"]=11,
 	["chambeazley-pagle"]=11,
-	["chamboyswag-nazgrim"]=21,
+	["chamboyswag-nazgrim"]=31,
 	["champlock-raden"]=11,
 	["champmage-raden"]=11,
 	["chaoscrittv-pagle"]=11,
@@ -3819,6 +3819,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["saydar-raden"]=11,
 	["sazzieu-raden"]=11,
 	["scarlen-pagle"]=11,
+	["scarleth-nazgrim"]=101,
 	["scarybarnowl-grobbulus"]=80,
 	["scarykitty-raden"]=41,
 	["scattershotz-raden"]=11,
@@ -4083,6 +4084,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["snÿx-raden"]=11,
 	["soaar-raden"]=41,
 	["soapstorm-raden"]=51,
+	["soapy-raden"]=11,
 	["søapy-raden"]=11,
 	["soapykitty-pagle"]=41,
 	["soapyx-raden"]=11,
@@ -7952,7 +7954,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["mickr-raden"]=14,
 	["mictlan-raden"]=1,
 	["miercy-galakras"]=16,
-	["mightybeast-raden"]=5,
+	["mightybeast-raden"]=17,
 	["mightymagus-raden"]=1,
 	["migué-pagle"]=16,
 	["miichael-pagle"]=2,
@@ -8958,6 +8960,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["sayuka-raden"]=0,
 	["sazzieu-raden"]=7,
 	["scarlen-pagle"]=1,
+	["scarleth-nazgrim"]=24,
 	["scarybarnowl-grobbulus"]=17,
 	["scarykitty-raden"]=5,
 	["scattershotz-raden"]=3,
@@ -9243,6 +9246,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["snÿx-raden"]=9,
 	["soaar-raden"]=9,
 	["soapstorm-raden"]=4,
+	["soapy-raden"]=4,
 	["søapy-raden"]=6,
 	["soapykitty-pagle"]=12,
 	["soapyx-raden"]=8,
