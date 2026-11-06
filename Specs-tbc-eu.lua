@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9607 characters, read 2026-11-06 02:54 PM.
+-- Region tbc-eu, 9604 characters, read 2026-11-06 03:54 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1806,7 +1806,6 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["deltablades-spineshatter"]=50,
 	["dembelé-spineshatter"]=50,
 	["demensramt-spineshatter"]=101,
-	["demetsky-spineshatter"]=10,
 	["demonalgy-spineshatter"]=70,
 	["demoniica-spineshatter"]=71,
 	["demonikal-spineshatter"]=50,
@@ -3726,7 +3725,6 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["Íxv-spineshatter"]=50,
 	["iysergamide-spineshatter"]=60,
 	["iyumy-thunderstrike"]=81,
-	["izabelyrg-spineshatter"]=11,
 	["izcall-spineshatter"]=11,
 	["izendria-thunderstrike"]=11,
 	["izlul-spineshatter"]=11,
@@ -3969,7 +3967,6 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["juicypriest-spineshatter"]=50,
 	["juicytwo-spineshatter"]=111,
 	["juicyxd-spineshatter"]=11,
-	["jukishi-spineshatter"]=31,
 	["jukz-spineshatter"]=50,
 	["julbertos-spineshatter"]=51,
 	["jumpz-spineshatter"]=11,
@@ -11311,7 +11308,6 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["deltablades-spineshatter"]=3,
 	["dembelé-spineshatter"]=13,
 	["demensramt-spineshatter"]=7,
-	["demetsky-spineshatter"]=7,
 	["demonalgy-spineshatter"]=18,
 	["demoniica-spineshatter"]=13,
 	["demonikal-spineshatter"]=13,
@@ -13257,7 +13253,6 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["Íxv-spineshatter"]=9,
 	["iysergamide-spineshatter"]=1,
 	["iyumy-thunderstrike"]=4,
-	["izabelyrg-spineshatter"]=3,
 	["izcall-spineshatter"]=13,
 	["izdajica-spineshatter"]=0,
 	["izendria-thunderstrike"]=3,
@@ -13503,7 +13498,6 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["juicypriest-spineshatter"]=2,
 	["juicytwo-spineshatter"]=12,
 	["juicyxd-spineshatter"]=5,
-	["jukishi-spineshatter"]=2,
 	["jukz-spineshatter"]=19,
 	["julbertos-spineshatter"]=2,
 	["jumpz-spineshatter"]=9,
@@ -13999,7 +13993,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["lafaro-thunderstrike"]=5,
 	["láflamezy-spineshatter"]=19,
 	["laflemmeqt-spineshatter"]=11,
-	["lafleurs-spineshatter"]=23,
+	["lafleurs-spineshatter"]=11,
 	["lagorda-spineshatter"]=12,
 	["lagýna-spineshatter"]=13,
 	["lainmind-spineshatter"]=3,
@@ -15855,7 +15849,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["playlistone-spineshatter"]=2,
 	["plazaboss-spineshatter"]=2,
 	["plekz-thunderstrike"]=5,
-	["plisskeroni-spineshatter"]=19,
+	["plisskeroni-spineshatter"]=3,
 	["plottwist-spineshatter"]=12,
 	["plsdontkite-spineshatter"]=12,
 	["plsineedthis-spineshatter"]=3,
