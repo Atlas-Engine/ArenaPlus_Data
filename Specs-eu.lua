@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5365 characters, read 2026-11-06 05:00 AM.
+-- Region eu, 5365 characters, read 2026-11-06 06:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6636,7 +6636,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["galadrial-ook-ook"]=22,
 	["galaxyrise-shekzeer"]=0,
 	["galazme-mirage-raceway"]=29,
-	["galthrom-norushen"]=8,
+	["galthrom-norushen"]=33,
 	["gameisgamex-norushen"]=2,
 	["gamingchair-shekzeer"]=10,
 	["gàndàlf-auberdine"]=22,
@@ -8759,7 +8759,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["rx-shekzeer"]=24,
 	["rxsebøy-auberdine"]=20,
 	["rýdøthâðwlx-everlook"]=11,
-	["rydothedk-everlook"]=33,
+	["rydothedk-everlook"]=8,
 	["rýdøthègøátx-everlook"]=16,
 	["rydotheholy-everlook"]=9,
 	["rydothemage-everlook"]=2,
@@ -9939,7 +9939,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["yambol-garalon"]=3,
 	["yangka-shekzeer"]=0,
 	["yantra-shekzeer"]=16,
-	["yapful-shekzeer"]=5,
+	["yapful-shekzeer"]=15,
 	["yåpful-shekzeer"]=17,
 	["yaraki-mirage-raceway"]=2,
 	["yaruna-mirage-raceway"]=2,

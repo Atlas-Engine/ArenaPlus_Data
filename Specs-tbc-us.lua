@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9348 characters, read 2026-11-06 04:58 AM.
+-- Region tbc-us, 9348 characters, read 2026-11-06 05:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -15083,7 +15083,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["olchungus-nightslayer"]=6,
 	["oldbc-nightslayer"]=19,
 	["oldbheezer-nightslayer"]=16,
-	["oldcats-nightslayer"]=5,
+	["oldcats-nightslayer"]=8,
 	["oldernewb-nightslayer"]=1,
 	["oldfitzz-dreamscythe"]=7,
 	["oldlee-nightslayer"]=5,
@@ -15204,7 +15204,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ozsake-nightslayer"]=11,
 	["paataww-nightslayer"]=5,
 	["pacarogue-nightslayer"]=8,
-	["packmule-nightslayer"]=1,
+	["packmule-nightslayer"]=14,
 	["padetti-nightslayer"]=8,
 	["padoö-nightslayer"]=24,
 	["pady-nightslayer"]=7,
@@ -17523,7 +17523,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["tookin-nightslayer"]=1,
 	["tooley-nightslayer"]=16,
 	["toonsrogue-dreamscythe"]=5,
-	["toosha-dreamscythe"]=11,
+	["toosha-dreamscythe"]=25,
 	["tooshfury-dreamscythe"]=10,
 	["tootlez-nightslayer"]=7,
 	["tootsee-nightslayer"]=14,
