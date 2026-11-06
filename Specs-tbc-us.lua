@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9348 characters, read 2026-11-05 09:58 PM.
+-- Region tbc-us, 9348 characters, read 2026-11-05 10:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10588,7 +10588,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["chasecheddar-nightslayer"]=4,
 	["cheads-nightslayer"]=14,
 	["cheapshot-nightslayer"]=5,
-	["checkmater-nightslayer"]=5,
+	["checkmater-nightslayer"]=8,
 	["cheddarheal-nightslayer"]=1,
 	["cheddarman-nightslayer"]=0,
 	["chedwart-dreamscythe"]=18,
@@ -13788,7 +13788,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["lammymage-nightslayer"]=4,
 	["lanaw-nightslayer"]=2,
 	["landrix-nightslayer"]=10,
-	["langie-nightslayer"]=14,
+	["langie-nightslayer"]=1,
 	["lanni-nightslayer"]=1,
 	["lano-nightslayer"]=6,
 	["lanstar-nightslayer"]=11,
@@ -15126,7 +15126,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["onfarm-nightslayer"]=2,
 	["onimpulse-nightslayer"]=10,
 	["onionrangs-nightslayer"]=1,
-	["onit-nightslayer"]=7,
+	["onit-nightslayer"]=3,
 	["oniyo-nightslayer"]=16,
 	["onlybakshotz-nightslayer"]=5,
 	["Ønlyfears-nightslayer"]=1,
@@ -16241,7 +16241,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["schwarzanaga-dreamscythe"]=19,
 	["schwist-nightslayer"]=11,
 	["sconcexd-nightslayer"]=1,
-	["scoobywarr-dreamscythe"]=18,
+	["scoobywarr-dreamscythe"]=2,
 	["scoope-nightslayer"]=5,
 	["scooßy-nightslayer"]=11,
 	["scora-nightslayer"]=5,
@@ -16556,7 +16556,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["shuupin-nightslayer"]=19,
 	["shuzzilay-nightslayer"]=10,
 	["shwrs-nightslayer"]=12,
-	["shx-nightslayer"]=1,
+	["shx-nightslayer"]=12,
 	["shyagra-nightslayer"]=19,
 	["shynkø-nightslayer"]=8,
 	["shynkuu-nightslayer"]=1,
