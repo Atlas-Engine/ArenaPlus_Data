@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9348 characters, read 2026-11-06 04:58 PM.
+-- Region tbc-us, 9348 characters, read 2026-11-06 05:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -13571,7 +13571,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["kerso-nightslayer"]=2,
 	["kesua-nightslayer"]=7,
 	["keter-nightslayer"]=7,
-	["ketheriya-nightslayer"]=1,
+	["ketheriya-nightslayer"]=14,
 	["ketusmacopin-dreamscythe"]=9,
 	["keumer-dreamscythe"]=2,
 	["kevbigpp-nightslayer"]=12,
@@ -14897,7 +14897,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["nitazenes-nightslayer"]=1,
 	["niton-nightslayer"]=14,
 	["Ñíx-nightslayer"]=8,
-	["nixxter-nightslayer"]=8,
+	["nixxter-nightslayer"]=5,
 	["nizoah-nightslayer"]=14,
 	["nlory-nightslayer"]=11,
 	["nmw-nightslayer"]=11,
@@ -15891,7 +15891,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["repita-nightslayer"]=22,
 	["replecon-dreamscythe"]=2,
 	["repurge-nightslayer"]=10,
-	["reroçk-nightslayer"]=18,
+	["reroçk-nightslayer"]=2,
 	["res-nightslayer"]=24,
 	["resam-nightslayer"]=7,
 	["rescue-nightslayer"]=14,
@@ -16200,7 +16200,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["saplinq-nightslayer"]=5,
 	["sapphrebleu-nightslayer"]=9,
 	["saptical-nightslayer"]=5,
-	["saradominin-nightslayer"]=7,
+	["saradominin-nightslayer"]=22,
 	["saraebel-dreamscythe"]=1,
 	["saridan-dreamscythe"]=15,
 	["sashimì-nightslayer"]=6,
