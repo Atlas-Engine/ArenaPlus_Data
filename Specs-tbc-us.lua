@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9350 characters, read 2026-11-06 12:58 PM.
+-- Region tbc-us, 9348 characters, read 2026-11-06 01:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2657,7 +2657,6 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["fatherzug-nightslayer"]=30,
 	["fathrmcfeely-nightslayer"]=50,
 	["fatoldfat-nightslayer"]=110,
-	["fatreason-nightslayer"]=60,
 	["fatrik-nightslayer"]=50,
 	["fatsw-nightslayer"]=71,
 	["fattauren-dreamscythe"]=60,
@@ -2775,7 +2774,6 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["flaako-nightslayer"]=41,
 	["flabbergast-nightslayer"]=31,
 	["flaberz-nightslayer"]=50,
-	["flacciddady-nightslayer"]=20,
 	["flaggednames-dreamscythe"]=20,
 	["flahka-dreamscythe"]=111,
 	["flako-nightslayer"]=30,
@@ -9671,7 +9669,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["avantoe-nightslayer"]=3,
 	["avarixx-nightslayer"]=4,
 	["avatarbrushi-nightslayer"]=19,
-	["avcbrutality-dreamscythe"]=2,
+	["avcbrutality-dreamscythe"]=18,
 	["aversor-nightslayer"]=4,
 	["aviå-nightslayer"]=1,
 	["Ávid-nightslayer"]=22,
@@ -10110,7 +10108,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bler-nightslayer"]=2,
 	["blessedbean-dreamscythe"]=25,
 	["blewchewz-nightslayer"]=10,
-	["blickytucked-nightslayer"]=4,
+	["blickytucked-nightslayer"]=6,
 	["blindfold-nightslayer"]=8,
 	["blindhots-nightslayer"]=7,
 	["blìnker-dreamscythe"]=14,
@@ -11925,7 +11923,6 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["fatherzug-nightslayer"]=1,
 	["fathrmcfeely-nightslayer"]=5,
 	["fatoldfat-nightslayer"]=10,
-	["fatreason-nightslayer"]=2,
 	["fatrik-nightslayer"]=4,
 	["fatsw-nightslayer"]=2,
 	["fattauren-dreamscythe"]=7,
@@ -12043,7 +12040,6 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["flaako-nightslayer"]=7,
 	["flabbergast-nightslayer"]=1,
 	["flaberz-nightslayer"]=8,
-	["flacciddady-nightslayer"]=10,
 	["flaggednames-dreamscythe"]=19,
 	["flahka-dreamscythe"]=12,
 	["flako-nightslayer"]=1,
@@ -14592,7 +14588,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["moneygoat-nightslayer"]=10,
 	["mongologist-nightslayer"]=15,
 	["moniix-nightslayer"]=24,
-	["monkichi-nightslayer"]=2,
+	["monkichi-nightslayer"]=18,
 	["monkmindset-nightslayer"]=7,
 	["monsieurcaca-nightslayer"]=17,
 	["monstamage-nightslayer"]=4,
@@ -15566,7 +15562,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["prettysnéaky-dreamscythe"]=27,
 	["previe-nightslayer"]=1,
 	["priaa-nightslayer"]=1,
-	["pridicelol-nightslayer"]=1,
+	["pridicelol-nightslayer"]=14,
 	["pridiceqt-nightslayer"]=14,
 	["priestak-nightslayer"]=12,
 	["priestão-nightslayer"]=12,

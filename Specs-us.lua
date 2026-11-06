@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5209 characters, read 2026-11-06 12:59 PM.
+-- Region us, 5209 characters, read 2026-11-06 01:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -106,7 +106,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["acxblue-raden"]=31,
 	["adalen-nazgrim"]=101,
 	["adamandsteve-immerseus"]=51,
-	["adardrana-pagle"]=41,
 	["adeaanael-pagle"]=111,
 	["adeathians-lei-shen"]=10,
 	["adepto-pagle"]=20,
@@ -1384,6 +1383,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["emanuely-pagle"]=51,
 	["emelhorquevc-pagle"]=21,
 	["emeraiie-lei-shen"]=41,
+	["emielaina-pagle"]=11,
 	["emmavictoria-pagle"]=81,
 	["emobear-raden"]=41,
 	["encantadorah-raden"]=11,
@@ -5056,7 +5056,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["acxblue-raden"]=19,
 	["adalen-nazgrim"]=10,
 	["adamandsteve-immerseus"]=9,
-	["adardrana-pagle"]=34,
 	["adeaanael-pagle"]=2,
 	["adeathians-lei-shen"]=6,
 	["adepto-pagle"]=7,
@@ -6406,6 +6405,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["emanuely-pagle"]=24,
 	["emelhorquevc-pagle"]=15,
 	["emeraiie-lei-shen"]=4,
+	["emielaina-pagle"]=34,
 	["emmavictoria-pagle"]=20,
 	["emobear-raden"]=12,
 	["encantadorah-raden"]=31,
