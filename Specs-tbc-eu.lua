@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9606 characters, read 2026-11-06 05:59 AM.
+-- Region tbc-eu, 9607 characters, read 2026-11-06 06:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -8904,6 +8904,7 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["wagyumommy-spineshatter"]=51,
 	["wagyuyu-spineshatter"]=61,
 	["wahchii-thunderstrike"]=80,
+	["wahum-spineshatter"]=50,
 	["wairen-spineshatter"]=21,
 	["waitpowerman-spineshatter"]=60,
 	["waizi-spineshatter"]=31,
@@ -9870,7 +9871,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["aroki-spineshatter"]=17,
 	["arqsmol-spineshatter"]=15,
 	["arrieta-thunderstrike"]=18,
-	["arrïmadas-spineshatter"]=3,
+	["arrïmadas-spineshatter"]=19,
 	["arrivedercix-spineshatter"]=11,
 	["arrowstâck-spineshatter"]=24,
 	["artexz-spineshatter"]=13,
@@ -13661,7 +13662,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["kebabludret-spineshatter"]=6,
 	["kebabnekaise-spineshatter"]=12,
 	["kebban-spineshatter"]=11,
-	["kebbster-spineshatter"]=19,
+	["kebbster-spineshatter"]=3,
 	["keccs-spineshatter"]=2,
 	["kedaros-spineshatter"]=11,
 	["keembli-spineshatter"]=1,
@@ -16623,7 +16624,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["samasuke-spineshatter"]=12,
 	["samenub-spineshatter"]=1,
 	["samfury-spineshatter"]=23,
-	["samlaga-spineshatter"]=2,
+	["samlaga-spineshatter"]=8,
 	["samlight-spineshatter"]=2,
 	["samozrejme-spineshatter"]=1,
 	["samspeed-spineshatter"]=8,
@@ -18503,6 +18504,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["wagyumommy-spineshatter"]=9,
 	["wagyuyu-spineshatter"]=1,
 	["wahchii-thunderstrike"]=8,
+	["wahum-spineshatter"]=8,
 	["waikru-spineshatter"]=0,
 	["wairen-spineshatter"]=11,
 	["waitpowerman-spineshatter"]=5,
