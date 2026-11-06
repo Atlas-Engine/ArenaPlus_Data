@@ -18,7 +18,7 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region tbc-us, season 3, read 2026-11-06 01:58 AM.
+-- Region tbc-us, season 3, read 2026-11-06 02:58 AM.
 -- Realm display names, because the ladder only carries slugs and no rule
 -- turns one back into the other: raden is Ra-den, lei-shen is Lei Shen and
 -- arugal-au is Arugal (AU). Read from Blizzard's realm index; a slug with no
@@ -32,8 +32,8 @@ ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["tbc-us"] = {
 	region  = "tbc-us",
-	checked = "2026-11-06 01:58 AM",
-	checkedEpoch = 1793948295,
+	checked = "2026-11-06 02:58 AM",
+	checkedEpoch = 1793951896,
 	snapshot = "2026-11-06 06:18",
 
 	[1] = {  -- 2v2, 5003 places, down to rating 1486 -- the API stops here, short of the cutoff
@@ -365,21 +365,21 @@ ns.LEADERBOARD_BY_REGION["tbc-us"] = {
 		{ rank=326, name="Jajaidiota", realm="nightslayer", rating=2203, won=153, lost=134, faction="HORDE", dr=0, dk=39 },
 		{ rank=326, name="Maws", realm="nightslayer", rating=2203, won=170, lost=132, faction="ALLIANCE", mr=2251, dr=-48, dk=130 },
 		{ rank=326, name="Skibidirizzw", realm="nightslayer", rating=2203, won=154, lost=138, faction="HORDE", dr=0, dk=39 },
-		{ rank=329, name="Biggrief", realm="nightslayer", rating=2202, won=68, lost=44, faction="ALLIANCE", dr=0, dk=40 },
-		{ rank=329, name="Defuh", realm="nightslayer", rating=2202, won=67, lost=45, faction="ALLIANCE", dr=0, dk=40 },
-		{ rank=329, name="Elostehe", realm="nightslayer", rating=2202, won=51, lost=29, faction="ALLIANCE", mr=2211, dr=0, dk=40 },
-		{ rank=329, name="Luked", realm="nightslayer", rating=2202, won=144, lost=112, faction="ALLIANCE", dr=0, dk=40 },
-		{ rank=329, name="Noteldoon", realm="dreamscythe", rating=2202, won=219, lost=197, faction="ALLIANCE", mr=2341, dr=-134, dk=231 },
-		{ rank=329, name="Pmotion", realm="nightslayer", rating=2202, won=101, lost=76, faction="HORDE", dr=0, dk=40 },
-		{ rank=329, name="Vcufratlead", realm="nightslayer", rating=2202, won=100, lost=69, faction="ALLIANCE", mr=2204, dr=0, dk=40 },
-		{ rank=336, name="Neverbeen", realm="nightslayer", rating=2201, won=360, lost=309, faction="HORDE", dr=0, dk=41 },
-		{ rank=337, name="Bubballoz", realm="nightslayer", rating=2199, won=77, lost=33, faction="ALLIANCE", dr=0, dk=39 },
-		{ rank=337, name="Cultxo", realm="nightslayer", rating=2199, won=63, lost=43, faction="ALLIANCE", dr=29, dk=-25 },
-		{ rank=337, name="Sebguito", realm="nightslayer", rating=2199, won=318, lost=270, faction="ALLIANCE", mr=2313, dr=0, dk=39 },
-		{ rank=337, name="Snoozin", realm="nightslayer", rating=2199, won=63, lost=43, faction="ALLIANCE", dr=29, dk=-25 },
-		{ rank=341, name="Grannygamer", realm="nightslayer", rating=2197, won=631, lost=558, faction="ALLIANCE" },
-		{ rank=341, name="Loafprime", realm="nightslayer", rating=2197, won=42, lost=17, faction="ALLIANCE", dr=0, dk=41 },
-		{ rank=341, name="Swky", realm="nightslayer", rating=2197, won=644, lost=506, faction="ALLIANCE", mr=2334, dr=57, dk=-119 },
+		{ rank=326, name="Swky", realm="nightslayer", rating=2203, won=647, lost=506, faction="ALLIANCE", mr=2334, dr=63, dk=-134 },
+		{ rank=330, name="Biggrief", realm="nightslayer", rating=2202, won=68, lost=44, faction="ALLIANCE", dr=0, dk=41 },
+		{ rank=330, name="Defuh", realm="nightslayer", rating=2202, won=67, lost=45, faction="ALLIANCE", dr=0, dk=41 },
+		{ rank=330, name="Elostehe", realm="nightslayer", rating=2202, won=51, lost=29, faction="ALLIANCE", mr=2211, dr=0, dk=41 },
+		{ rank=330, name="Luked", realm="nightslayer", rating=2202, won=144, lost=112, faction="ALLIANCE", dr=0, dk=41 },
+		{ rank=330, name="Noteldoon", realm="dreamscythe", rating=2202, won=219, lost=197, faction="ALLIANCE", mr=2341, dr=-134, dk=232 },
+		{ rank=330, name="Pmotion", realm="nightslayer", rating=2202, won=101, lost=76, faction="HORDE", dr=0, dk=41 },
+		{ rank=330, name="Vcufratlead", realm="nightslayer", rating=2202, won=100, lost=69, faction="ALLIANCE", mr=2204, dr=0, dk=41 },
+		{ rank=337, name="Neverbeen", realm="nightslayer", rating=2201, won=360, lost=309, faction="HORDE", dr=0, dk=42 },
+		{ rank=338, name="Bubballoz", realm="nightslayer", rating=2199, won=77, lost=33, faction="ALLIANCE", dr=0, dk=40 },
+		{ rank=338, name="Cultxo", realm="nightslayer", rating=2199, won=63, lost=43, faction="ALLIANCE", dr=29, dk=-24 },
+		{ rank=338, name="Sebguito", realm="nightslayer", rating=2199, won=318, lost=270, faction="ALLIANCE", mr=2313, dr=0, dk=40 },
+		{ rank=338, name="Snoozin", realm="nightslayer", rating=2199, won=63, lost=43, faction="ALLIANCE", dr=29, dk=-24 },
+		{ rank=342, name="Grannygamer", realm="nightslayer", rating=2197, won=631, lost=558, faction="ALLIANCE" },
+		{ rank=342, name="Loafprime", realm="nightslayer", rating=2197, won=42, lost=17, faction="ALLIANCE", dr=0, dk=42 },
 		{ rank=344, name="Ÿømï", realm="nightslayer", rating=2196, won=58, lost=32, faction="ALLIANCE", dr=0, dk=43 },
 		{ rank=344, name="Yumbojumbo", realm="nightslayer", rating=2196, won=50, lost=40, faction="HORDE", dr=38, dk=-58 },
 		{ rank=346, name="Djbuttercupx", realm="nightslayer", rating=2195, won=47, lost=17, faction="ALLIANCE", dr=28, dk=-29 },
