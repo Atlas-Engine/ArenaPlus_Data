@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5207 characters, read 2026-11-05 10:59 PM.
+-- Region us, 5207 characters, read 2026-11-05 11:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1090,7 +1090,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["dessicate-lei-shen"]=10,
 	["destrious-nazgrim"]=81,
 	["destructorr-lei-shen"]=21,
-	["detrasdeti-nazgrim"]=80,
 	["devey-lei-shen"]=11,
 	["deviancegodx-raden"]=11,
 	["devour-pagle"]=11,
@@ -6098,7 +6097,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["destructorr-lei-shen"]=23,
 	["dethbysnusñu-lei-shen"]=0,
 	["dethbysñusnu-lei-shen"]=0,
-	["detrasdeti-nazgrim"]=29,
+	["detrasdeti-nazgrim"]=0,
 	["devey-lei-shen"]=8,
 	["deviancegodx-raden"]=9,
 	["devour-pagle"]=21,
