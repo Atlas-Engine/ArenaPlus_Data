@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9350 characters, read 2026-11-06 11:58 AM.
+-- Region tbc-us, 9350 characters, read 2026-11-06 12:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10334,7 +10334,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["brussw-nightslayer"]=18,
 	["brustifield-nightslayer"]=24,
 	["brutain-nightslayer"]=8,
-	["brûtàl-nightslayer"]=18,
+	["brûtàl-nightslayer"]=2,
 	["brutalgladi-nightslayer"]=10,
 	["brutesavage-nightslayer"]=19,
 	["brutussx-nightslayer"]=19,
@@ -11528,7 +11528,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["drunkdracula-nightslayer"]=8,
 	["druudix-nightslayer"]=7,
 	["druwidynn-nightslayer"]=19,
-	["drwareheim-nightslayer"]=10,
+	["drwareheim-nightslayer"]=19,
 	["dry-nightslayer"]=7,
 	["dskyhigh-nightslayer"]=2,
 	["dsoh-nightslayer"]=10,
@@ -13469,7 +13469,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["kalam-nightslayer"]=4,
 	["kalbe-dreamscythe"]=4,
 	["kallypsa-nightslayer"]=10,
-	["kaloi-dreamscythe"]=1,
+	["kaloi-dreamscythe"]=14,
 	["kalsiyum-nightslayer"]=13,
 	["kalthruangas-nightslayer"]=2,
 	["kalystol-dreamscythe"]=11,
