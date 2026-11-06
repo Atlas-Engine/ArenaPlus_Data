@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5364 characters, read 2026-11-05 06:00 PM.
+-- Region eu, 5365 characters, read 2026-11-05 07:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1059,6 +1059,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["Ðjsvrxzy-shekzeer"]=11,
 	["djwashedup-shekzeer"]=11,
 	["dksecouille-auberdine"]=20,
+	["dkv-garalon"]=21,
 	["dméndez-mirage-raceway"]=101,
 	["dnglo-mirage-raceway"]=11,
 	["dobanda-hoptallus"]=220,
@@ -5490,7 +5491,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["aydan-shekzeer"]=2,
 	["aydedee-garalon"]=20,
 	["ayleena-mirage-raceway"]=6,
-	["ayleenaah-ook-ook"]=31,
+	["ayleenaah-ook-ook"]=8,
 	["ayleenah-mirage-raceway"]=3,
 	["ayloupipi-shekzeer"]=2,
 	["ayus-shekzeer"]=15,
@@ -6220,7 +6221,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Ðjsvrxzy-shekzeer"]=2,
 	["djwashedup-shekzeer"]=29,
 	["dksecouille-auberdine"]=31,
-	["dkv-garalon"]=0,
+	["dkv-garalon"]=8,
 	["dméndez-mirage-raceway"]=15,
 	["dnglo-mirage-raceway"]=1,
 	["dobanda-hoptallus"]=4,
@@ -8389,6 +8390,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["pgcarry-shekzeer"]=5,
 	["pharagon-mirage-raceway"]=3,
 	["pharaoh-shekzeer"]=21,
+	["phaser-shekzeer"]=0,
 	["phellian-shekzeer"]=2,
 	["pheya-shekzeer"]=0,
 	["phicon-shekzeer"]=17,
@@ -9071,7 +9073,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["soixanteuros-auberdine"]=13,
 	["sokorean-mirage-raceway"]=11,
 	["solá-shekzeer"]=17,
-	["solleillette-auberdine"]=22,
+	["solleillette-auberdine"]=12,
 	["sololvling-shekzeer"]=9,
 	["soloway-shekzeer"]=26,
 	["someonem-shekzeer"]=0,
@@ -9089,7 +9091,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["sorothefat-norushen"]=8,
 	["sosoczka-shekzeer"]=25,
 	["sosoo-shekzeer"]=3,
-	["sossos-hoptallus"]=34,
+	["sossos-hoptallus"]=24,
 	["sottolano-shekzeer"]=1,
 	["sotu-shekzeer"]=2,
 	["soulcry-norushen"]=1,
