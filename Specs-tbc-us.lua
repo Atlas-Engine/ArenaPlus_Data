@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9348 characters, read 2026-11-06 03:58 PM.
+-- Region tbc-us, 9348 characters, read 2026-11-06 04:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2883,7 +2883,6 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["freecast-nightslayer"]=11,
 	["freegardy-nightslayer"]=51,
 	["freegells-nightslayer"]=60,
-	["freegucci-nightslayer"]=111,
 	["freepfdx-nightslayer"]=11,
 	["freestyler-nightslayer"]=50,
 	["freewin-dreamscythe"]=50,
@@ -10496,7 +10495,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["captjackinit-nightslayer"]=13,
 	["captrawr-dreamscythe"]=3,
 	["captzdru-nightslayer"]=7,
-	["capybaron-nightslayer"]=18,
+	["capybaron-nightslayer"]=2,
 	["cará-nightslayer"]=6,
 	["caravan-nightslayer"]=2,
 	["cardiackcc-nightslayer"]=5,
@@ -12150,7 +12149,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["freecast-nightslayer"]=4,
 	["freegardy-nightslayer"]=1,
 	["freegells-nightslayer"]=3,
-	["freegucci-nightslayer"]=10,
+	["freegucci-nightslayer"]=0,
 	["freepfdx-nightslayer"]=13,
 	["freestyler-nightslayer"]=4,
 	["freewin-dreamscythe"]=5,
@@ -13520,7 +13519,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["kaysar-nightslayer"]=15,
 	["kayvinh-nightslayer"]=8,
 	["kaywii-nightslayer"]=1,
-	["kazelol-nightslayer"]=8,
+	["kazelol-nightslayer"]=5,
 	["kazif-nightslayer"]=23,
 	["kazoopriest-nightslayer"]=14,
 	["kazugrim-dreamscythe"]=2,
@@ -15589,7 +15588,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["procborne-nightslayer"]=2,
 	["process-nightslayer"]=1,
 	["procuzimazn-nightslayer"]=5,
-	["prodo-nightslayer"]=2,
+	["prodo-nightslayer"]=18,
 	["profesrcloak-dreamscythe"]=5,
 	["progdorf-dreamscythe"]=25,
 	["projex-nightslayer"]=5,
@@ -16501,7 +16500,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["shmexy-nightslayer"]=19,
 	["shmichael-nightslayer"]=11,
 	["shmidty-nightslayer"]=3,
-	["shmorpheus-nightslayer"]=10,
+	["shmorpheus-nightslayer"]=24,
 	["shmurke-nightslayer"]=5,
 	["shob-nightslayer"]=5,
 	["shobshe-nightslayer"]=5,
