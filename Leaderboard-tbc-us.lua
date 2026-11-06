@@ -18,7 +18,7 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region tbc-us, season 3, read 2026-11-05 08:58 PM.
+-- Region tbc-us, season 3, read 2026-11-05 09:58 PM.
 -- Realm display names, because the ladder only carries slugs and no rule
 -- turns one back into the other: raden is Ra-den, lei-shen is Lei Shen and
 -- arugal-au is Arugal (AU). Read from Blizzard's realm index; a slug with no
@@ -32,8 +32,8 @@ ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["tbc-us"] = {
 	region  = "tbc-us",
-	checked = "2026-11-05 08:58 PM",
-	checkedEpoch = 1793930296,
+	checked = "2026-11-05 09:58 PM",
+	checkedEpoch = 1793933895,
 	snapshot = "2026-11-06 00:18",
 
 	[1] = {  -- 2v2, 5004 places, down to rating 1486 -- the API stops here, short of the cutoff
@@ -168,25 +168,25 @@ ns.LEADERBOARD_BY_REGION["tbc-us"] = {
 		{ rank=129, name="Blakecallow", realm="nightslayer", rating=2309, won=84, lost=39, faction="ALLIANCE", dr=0, dk=5 },
 		{ rank=129, name="Kdawgr", realm="nightslayer", rating=2309, won=130, lost=86, faction="ALLIANCE", dr=37, dk=-45 },
 		{ rank=129, name="Lxr", realm="nightslayer", rating=2309, won=131, lost=79, faction="HORDE", dr=58, dk=-67 },
+		{ rank=132, name="Lefttenclear", realm="nightslayer", rating=2308, won=118, lost=72, faction="ALLIANCE", dr=8, dk=-9 },
 		{ rank=132, name="Shaky", realm="nightslayer", rating=2308, won=193, lost=150, faction="ALLIANCE", dr=37, dk=-44 },
-		{ rank=133, name="Pennywies", realm="nightslayer", rating=2307, won=175, lost=140, faction="HORDE", dr=0, dk=6 },
-		{ rank=134, name="Dadbodqt", realm="nightslayer", rating=2306, won=85, lost=64, faction="ALLIANCE", dr=0, dk=6 },
-		{ rank=134, name="Gensaix", realm="nightslayer", rating=2306, won=177, lost=141, faction="HORDE", dr=0, dk=6 },
-		{ rank=134, name="Yokó", realm="nightslayer", rating=2306, won=85, lost=64, faction="ALLIANCE", dr=0, dk=6 },
-		{ rank=137, name="Cto", realm="nightslayer", rating=2305, won=131, lost=102, faction="HORDE", dr=175, dk=-352 },
-		{ rank=137, name="Rîvs", realm="nightslayer", rating=2305, won=770, lost=737, faction="ALLIANCE", dr=0, dk=6 },
-		{ rank=137, name="Shb", realm="nightslayer", rating=2305, won=131, lost=102, faction="HORDE", dr=175, dk=-352 },
-		{ rank=137, name="Swordful", realm="nightslayer", rating=2305, won=770, lost=737, faction="ALLIANCE", dr=0, dk=6 },
-		{ rank=141, name="Jamora", realm="nightslayer", rating=2303, won=139, lost=109, faction="ALLIANCE", dr=3, dk=0 },
-		{ rank=141, name="Knoxvill", realm="nightslayer", rating=2303, won=139, lost=109, faction="ALLIANCE", dr=3, dk=0 },
-		{ rank=143, name="Fahr", realm="nightslayer", rating=2302, won=760, lost=750, faction="HORDE", dr=125, dk=-202 },
-		{ rank=143, name="Volarx", realm="nightslayer", rating=2302, won=760, lost=748, faction="HORDE", dr=125, dk=-202 },
-		{ rank=145, name="Letsgetnasty", realm="nightslayer", rating=2301, won=348, lost=287, faction="ALLIANCE", dr=118, dk=-183 },
-		{ rank=145, name="Macbookpro", realm="nightslayer", rating=2301, won=149, lost=72, faction="ALLIANCE", mr=2393, dr=0, dk=7 },
-		{ rank=145, name="Popeshðw", realm="nightslayer", rating=2301, won=181, lost=89, faction="ALLIANCE", mr=2403, dr=0, dk=7 },
-		{ rank=148, name="Chrispratt", realm="nightslayer", rating=2300, won=116, lost=72, faction="ALLIANCE", dr=0, dk=7 },
-		{ rank=148, name="Fandyenjøyer", realm="nightslayer", rating=2300, won=332, lost=249, faction="ALLIANCE", dr=82, dk=-107 },
-		{ rank=148, name="Lefttenclear", realm="nightslayer", rating=2300, won=116, lost=72, faction="ALLIANCE", dr=0, dk=7 },
+		{ rank=134, name="Pennywies", realm="nightslayer", rating=2307, won=175, lost=140, faction="HORDE", dr=0, dk=7 },
+		{ rank=135, name="Dadbodqt", realm="nightslayer", rating=2306, won=85, lost=64, faction="ALLIANCE", dr=0, dk=7 },
+		{ rank=135, name="Gensaix", realm="nightslayer", rating=2306, won=177, lost=141, faction="HORDE", dr=0, dk=7 },
+		{ rank=135, name="Yokó", realm="nightslayer", rating=2306, won=85, lost=64, faction="ALLIANCE", dr=0, dk=7 },
+		{ rank=138, name="Cto", realm="nightslayer", rating=2305, won=131, lost=102, faction="HORDE", dr=175, dk=-351 },
+		{ rank=138, name="Rîvs", realm="nightslayer", rating=2305, won=770, lost=737, faction="ALLIANCE", dr=0, dk=7 },
+		{ rank=138, name="Shb", realm="nightslayer", rating=2305, won=131, lost=102, faction="HORDE", dr=175, dk=-351 },
+		{ rank=138, name="Swordful", realm="nightslayer", rating=2305, won=770, lost=737, faction="ALLIANCE", dr=0, dk=7 },
+		{ rank=142, name="Jamora", realm="nightslayer", rating=2303, won=139, lost=109, faction="ALLIANCE", dr=3, dk=1 },
+		{ rank=142, name="Knoxvill", realm="nightslayer", rating=2303, won=139, lost=109, faction="ALLIANCE", dr=3, dk=1 },
+		{ rank=144, name="Fahr", realm="nightslayer", rating=2302, won=760, lost=750, faction="HORDE", dr=125, dk=-201 },
+		{ rank=144, name="Volarx", realm="nightslayer", rating=2302, won=760, lost=748, faction="HORDE", dr=125, dk=-201 },
+		{ rank=146, name="Letsgetnasty", realm="nightslayer", rating=2301, won=348, lost=287, faction="ALLIANCE", dr=118, dk=-182 },
+		{ rank=146, name="Macbookpro", realm="nightslayer", rating=2301, won=149, lost=72, faction="ALLIANCE", mr=2393, dr=0, dk=8 },
+		{ rank=146, name="Popeshðw", realm="nightslayer", rating=2301, won=181, lost=89, faction="ALLIANCE", mr=2403, dr=0, dk=8 },
+		{ rank=149, name="Chrispratt", realm="nightslayer", rating=2300, won=116, lost=72, faction="ALLIANCE", dr=0, dk=8 },
+		{ rank=149, name="Fandyenjøyer", realm="nightslayer", rating=2300, won=332, lost=249, faction="ALLIANCE", dr=82, dk=-106 },
 		{ rank=151, name="Lockmainxd", realm="nightslayer", rating=2299, won=700, lost=506, faction="ALLIANCE", mr=2383, dr=-19, dk=37 },
 		{ rank=152, name="Ogrtdlol", realm="nightslayer", rating=2297, won=242, lost=208, faction="HORDE", dr=0, dk=6 },
 		{ rank=152, name="Smaxor", realm="nightslayer", rating=2297, won=279, lost=211, faction="ALLIANCE", dr=0, dk=6 },

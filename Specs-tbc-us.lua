@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9348 characters, read 2026-11-05 08:58 PM.
+-- Region tbc-us, 9348 characters, read 2026-11-05 09:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9419,7 +9419,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["alienlike-nightslayer"]=23,
 	["alienmagic-nightslayer"]=1,
 	["alinara-nightslayer"]=1,
-	["alisz-nightslayer"]=5,
+	["alisz-nightslayer"]=8,
 	["alkalind-dreamscythe"]=7,
 	["alkalins-dreamscythe"]=19,
 	["alkaraz-dreamscythe"]=2,
@@ -12050,7 +12050,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["flanfreezes-dreamscythe"]=6,
 	["flapnuts-nightslayer"]=13,
 	["flapnutz-nightslayer"]=7,
-	["flarden-nightslayer"]=7,
+	["flarden-nightslayer"]=3,
 	["flavatown-nightslayer"]=7,
 	["flavian-nightslayer"]=7,
 	["flayplay-nightslayer"]=12,
@@ -16317,7 +16317,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["sérgo-nightslayer"]=12,
 	["sergolock-nightslayer"]=23,
 	["seriala-nightslayer"]=5,
-	["serinas-nightslayer"]=2,
+	["serinas-nightslayer"]=20,
 	["serinaz-nightslayer"]=7,
 	["seriyon-nightslayer"]=10,
 	["seroqt-nightslayer"]=1,
