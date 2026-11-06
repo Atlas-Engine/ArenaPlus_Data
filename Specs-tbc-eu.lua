@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9607 characters, read 2026-11-06 01:59 PM.
+-- Region tbc-eu, 9607 characters, read 2026-11-06 02:54 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10450,7 +10450,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["bomel-spineshatter"]=13,
 	["bomje-spineshatter"]=12,
 	["bompijr-spineshatter"]=5,
-	["bomydemon-spineshatter"]=1,
+	["bomydemon-spineshatter"]=6,
 	["bonanzaa-spineshatter"]=9,
 	["bonda-spineshatter"]=3,
 	["bonebeast-spineshatter"]=1,
@@ -11656,7 +11656,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["drmehico-spineshatter"]=8,
 	["drmongrel-spineshatter"]=5,
 	["drmonstret-spineshatter"]=23,
-	["drnîx-thunderstrike"]=23,
+	["drnîx-thunderstrike"]=11,
 	["drøgó-thunderstrike"]=1,
 	["drogtan-spineshatter"]=5,
 	["drogûs-spineshatter"]=5,
@@ -12995,7 +12995,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["husgrov-spineshatter"]=3,
 	["huszascsuka-spineshatter"]=18,
 	["hutsimbel-thunderstrike"]=25,
-	["huugepenance-spineshatter"]=2,
+	["huugepenance-spineshatter"]=17,
 	["huzitsia-spineshatter"]=2,
 	["hvnx-spineshatter"]=17,
 	["hxck-spineshatter"]=3,
@@ -16642,7 +16642,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["sane-spineshatter"]=5,
 	["sanêk-spineshatter"]=8,
 	["sanëk-spineshatter"]=11,
-	["sanitatemx-spineshatter"]=2,
+	["sanitatemx-spineshatter"]=17,
 	["sanityx-spineshatter"]=5,
 	["sankool-spineshatter"]=19,
 	["sänsho-spineshatter"]=1,
@@ -16687,7 +16687,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["saylar-spineshatter"]=3,
 	["saynzz-spineshatter"]=23,
 	["sayonaraz-spineshatter"]=3,
-	["sayonora-thunderstrike"]=3,
+	["sayonora-thunderstrike"]=19,
 	["sbøb-spineshatter"]=11,
 	["sbq-spineshatter"]=12,
 	["scaarz-spineshatter"]=9,
@@ -17976,7 +17976,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["tolonen-thunderstrike"]=12,
 	["tolú-spineshatter"]=5,
 	["tolúbolt-spineshatter"]=14,
-	["tolúclone-spineshatter"]=1,
+	["tolúclone-spineshatter"]=6,
 	["tolúzug-spineshatter"]=5,
 	["tõm-spineshatter"]=1,
 	["tomatohead-spineshatter"]=5,
