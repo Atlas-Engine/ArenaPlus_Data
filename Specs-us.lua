@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5207 characters, read 2026-11-05 11:59 PM.
+-- Region us, 5207 characters, read 2026-11-06 12:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6469,7 +6469,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["eyemkr-raden"]=22,
 	["eyep-pagle"]=1,
 	["eyesaa-pagle"]=3,
-	["ezfist-immerseus"]=10,
+	["ezfist-immerseus"]=4,
 	["eziø-raden"]=10,
 	["ezmode-nazgrim"]=0,
 	["ezmunk-galakras"]=27,
@@ -7415,7 +7415,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["karolinna-raden"]=9,
 	["karrlor-pagle"]=9,
 	["karthea-raden"]=17,
-	["kartika-raden"]=20,
+	["kartika-raden"]=18,
 	["kaskudo-nazgrim"]=23,
 	["kasmein-pagle"]=18,
 	["katacaine-pagle"]=18,
@@ -9562,7 +9562,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["theægnt-raden"]=4,
 	["theanswer-pagle"]=0,
 	["thebadjuan-pagle"]=7,
-	["thebagelcave-pagle"]=15,
+	["thebagelcave-pagle"]=22,
 	["thebigmack-pagle"]=0,
 	["thebouncer-pagle"]=29,
 	["thebteam-pagle"]=1,
@@ -10177,7 +10177,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["zephry-pagle"]=22,
 	["zephyr-raden"]=10,
 	["zephyran-raden"]=17,
-	["zerfecto-galakras"]=1,
+	["zerfecto-galakras"]=11,
 	["zerkingoff-raden"]=7,
 	["zerkmonkqt-pagle"]=4,
 	["zerôace-pagle"]=7,
