@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5209 characters, read 2026-11-06 09:59 AM.
+-- Region us, 5209 characters, read 2026-11-06 10:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -106,6 +106,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["acxblue-raden"]=31,
 	["adalen-nazgrim"]=101,
 	["adamandsteve-immerseus"]=51,
+	["adardrana-pagle"]=41,
 	["adeaanael-pagle"]=111,
 	["adeathians-lei-shen"]=10,
 	["adepto-pagle"]=20,
@@ -3717,7 +3718,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["rokh-pagle"]=20,
 	["role-galakras"]=21,
 	["rollwon-raden"]=10,
-	["romanticide-raden"]=10,
 	["romdruid-pagle"]=61,
 	["röninraged-galakras"]=21,
 	["ronsenwinkel-pagle"]=111,
@@ -5056,6 +5056,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["acxblue-raden"]=19,
 	["adalen-nazgrim"]=10,
 	["adamandsteve-immerseus"]=9,
+	["adardrana-pagle"]=34,
 	["adeaanael-pagle"]=2,
 	["adeathians-lei-shen"]=6,
 	["adepto-pagle"]=7,
@@ -7021,7 +7022,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["holmz-pagle"]=3,
 	["holtxd-raden"]=7,
 	["holyangelz-pagle"]=2,
-	["holycanoli-galakras"]=2,
+	["holycanoli-galakras"]=16,
 	["holycaps-raden"]=16,
 	["holycøcktail-raden"]=2,
 	["holyfender-pagle"]=2,
@@ -7693,7 +7694,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["liquidated-pagle"]=1,
 	["lìt-pagle"]=7,
 	["lithim-pagle"]=18,
-	["litknight-galakras"]=6,
+	["litknight-galakras"]=26,
 	["litoutz-pagle"]=11,
 	["littheri-pagle"]=17,
 	["littielight-pagle"]=21,
@@ -8851,7 +8852,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["rokh-pagle"]=3,
 	["role-galakras"]=20,
 	["rollwon-raden"]=10,
-	["romanticide-raden"]=1,
 	["romdruid-pagle"]=5,
 	["rompah-raden"]=0,
 	["röninraged-galakras"]=7,
