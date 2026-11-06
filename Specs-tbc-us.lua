@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9348 characters, read 2026-11-06 12:58 AM.
+-- Region tbc-us, 9347 characters, read 2026-11-06 01:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12933,7 +12933,6 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["huskkar-nightslayer"]=2,
 	["hutcham-nightslayer"]=10,
 	["hutudz-nightslayer"]=0,
-	["hutuzs-nightslayer"]=0,
 	["huybéo-nightslayer"]=10,
 	["huzzpatrol-dreamscythe"]=11,
 	["hvx-dreamscythe"]=19,
@@ -13532,7 +13531,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["keap-dreamscythe"]=24,
 	["keddz-nightslayer"]=5,
 	["kedern-nightslayer"]=7,
-	["keefer-nightslayer"]=19,
+	["keefer-nightslayer"]=10,
 	["keefuwu-nightslayer"]=5,
 	["keegers-nightslayer"]=18,
 	["keegle-nightslayer"]=1,
@@ -15583,7 +15582,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["prizzen-dreamscythe"]=11,
 	["prks-nightslayer"]=7,
 	["prky-nightslayer"]=5,
-	["probear-nightslayer"]=16,
+	["probear-nightslayer"]=13,
 	["prøc-nightslayer"]=19,
 	["procborne-nightslayer"]=2,
 	["process-nightslayer"]=1,
@@ -17273,7 +17272,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["taxí-nightslayer"]=10,
 	["taxidermyz-dreamscythe"]=1,
 	["taxilol-dreamscythe"]=9,
-	["taxiqt-dreamscythe"]=2,
+	["taxiqt-dreamscythe"]=20,
 	["taybay-nightslayer"]=6,
 	["tayhoots-nightslayer"]=6,
 	["taylrswftmnd-dreamscythe"]=7,
@@ -17865,7 +17864,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["verelock-nightslayer"]=16,
 	["verinen-nightslayer"]=8,
 	["verlay-nightslayer"]=1,
-	["vermillion-dreamscythe"]=7,
+	["vermillion-dreamscythe"]=22,
 	["verrenger-nightslayer"]=5,
 	["verrousx-nightslayer"]=1,
 	["versik-nightslayer"]=5,
