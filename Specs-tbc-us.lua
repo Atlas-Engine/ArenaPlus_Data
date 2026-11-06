@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9348 characters, read 2026-11-06 06:58 AM.
+-- Region tbc-us, 9350 characters, read 2026-11-06 07:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2804,6 +2804,7 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["flexecutetv-nightslayer"]=20,
 	["flexecutexo-nightslayer"]=21,
 	["flexhance-nightslayer"]=21,
+	["flexrage-nightslayer"]=60,
 	["fling-nightslayer"]=21,
 	["flipabird-nightslayer"]=41,
 	["flippysack-nightslayer"]=10,
@@ -3676,6 +3677,7 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["hynix-nightslayer"]=11,
 	["hyperiion-nightslayer"]=40,
 	["hypertreephy-dreamscythe"]=60,
+	["hyperxewl-nightslayer"]=60,
 	["hypnòs-nightslayer"]=70,
 	["hypnüs-nightslayer"]=11,
 	["hyppoo-nightslayer"]=70,
@@ -12069,6 +12071,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["flexecutetv-nightslayer"]=18,
 	["flexecutexo-nightslayer"]=2,
 	["flexhance-nightslayer"]=19,
+	["flexrage-nightslayer"]=2,
 	["fling-nightslayer"]=2,
 	["flipabird-nightslayer"]=7,
 	["flippysack-nightslayer"]=6,
@@ -12953,6 +12956,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["hynix-nightslayer"]=5,
 	["hyperiion-nightslayer"]=17,
 	["hypertreephy-dreamscythe"]=3,
+	["hyperxewl-nightslayer"]=7,
 	["hypnòs-nightslayer"]=4,
 	["hypnüs-nightslayer"]=12,
 	["hyppoo-nightslayer"]=6,
@@ -14486,7 +14490,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["minimartha-nightslayer"]=1,
 	["minískirt-nightslayer"]=7,
 	["minitelanna-nightslayer"]=2,
-	["minixboy-nightslayer"]=21,
+	["minixboy-nightslayer"]=17,
 	["minmi-nightslayer"]=21,
 	["mintchocoice-nightslayer"]=5,
 	["minutz-nightslayer"]=1,
@@ -15590,7 +15594,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["procuzimazn-nightslayer"]=5,
 	["prodo-nightslayer"]=2,
 	["profesrcloak-dreamscythe"]=5,
-	["progdorf-dreamscythe"]=11,
+	["progdorf-dreamscythe"]=25,
 	["projex-nightslayer"]=5,
 	["pròmise-nightslayer"]=1,
 	["prómises-nightslayer"]=7,
@@ -17171,7 +17175,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["swagxdudu-nightslayer"]=7,
 	["swagy-nightslayer"]=18,
 	["swanke-nightslayer"]=19,
-	["swdscript-nightslayer"]=1,
+	["swdscript-nightslayer"]=12,
 	["sweatshack-nightslayer"]=15,
 	["sweepedx-nightslayer"]=1,
 	["sweétbólt-nightslayer"]=10,

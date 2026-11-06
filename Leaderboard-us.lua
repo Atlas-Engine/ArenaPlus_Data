@@ -18,7 +18,7 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region us, season 14, read 2026-11-06 06:59 AM.
+-- Region us, season 14, read 2026-11-06 07:59 AM.
 -- Realm display names, because the ladder only carries slugs and no rule
 -- turns one back into the other: raden is Ra-den, lei-shen is Lei Shen and
 -- arugal-au is Arugal (AU). Read from Blizzard's realm index; a slug with no
@@ -35,9 +35,9 @@ ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["us"] = {
 	region  = "us",
-	checked = "2026-11-06 06:59 AM",
-	checkedEpoch = 1793966369,
-	snapshot = "2026-11-06 09:16",
+	checked = "2026-11-06 07:59 AM",
+	checkedEpoch = 1793969970,
+	snapshot = "2026-11-06 12:16",
 
 	[1] = {  -- 2v2, 5004 places, down to rating 1135 -- the API stops here, short of the cutoff
 		{ rank=1, name="Reckington", realm="raden", rating=2811, won=491, lost=170, faction="ALLIANCE", dr=21, dk=0 },
@@ -895,11 +895,11 @@ ns.LEADERBOARD_BY_REGION["us"] = {
 		{ rank=853, name="Boena", realm="pagle", rating=2143, won=271, lost=295, faction="ALLIANCE", dr=53, dk=-116 },
 		{ rank=853, name="Highwaymanx", realm="pagle", rating=2143, won=89, lost=94, faction="ALLIANCE", dr=0, dk=67 },
 		{ rank=853, name="Murakami", realm="raden", rating=2143, won=189, lost=186, faction="ALLIANCE", dr=0, dk=67 },
-		{ rank=856, name="Scorchtt", realm="pagle", rating=2142, won=385, lost=402, faction="HORDE", mr=2232, dr=61, dk=-153 },
-		{ rank=857, name="Jeffatality", realm="nazgrim", rating=2141, won=279, lost=288, faction="HORDE", mr=2216, dr=-11, dk=96 },
-		{ rank=857, name="Ravagerzz", realm="grobbulus", rating=2141, won=161, lost=154, faction="ALLIANCE", dr=0, dk=68 },
-		{ rank=857, name="Torco", realm="immerseus", rating=2141, won=96, lost=59, faction="ALLIANCE", dr=37, dk=-55 },
-		{ rank=860, name="Glitcho", realm="immerseus", rating=2140, won=205, lost=188, faction="HORDE", mr=2220, dr=-1, dk=71 },
+		{ rank=856, name="Jeffatality", realm="nazgrim", rating=2141, won=279, lost=288, faction="HORDE", mr=2216, dr=-11, dk=95 },
+		{ rank=856, name="Ravagerzz", realm="grobbulus", rating=2141, won=161, lost=154, faction="ALLIANCE", dr=0, dk=67 },
+		{ rank=856, name="Torco", realm="immerseus", rating=2141, won=96, lost=59, faction="ALLIANCE", dr=37, dk=-56 },
+		{ rank=859, name="Glitcho", realm="immerseus", rating=2140, won=205, lost=188, faction="HORDE", mr=2220, dr=-1, dk=70 },
+		{ rank=859, name="Scorchtt", realm="pagle", rating=2140, won=385, lost=403, faction="HORDE", mr=2232, dr=59, dk=-150 },
 		{ rank=861, name="Havitýx", realm="raden", rating=2139, won=49, lost=24, faction="ALLIANCE", dr=0, dk=65 },
 		{ rank=861, name="Pumpz", realm="raden", rating=2139, won=79, lost=83, faction="ALLIANCE", dr=16, dk=18 },
 		{ rank=861, name="Xhangtu", realm="raden", rating=2139, won=84, lost=86, faction="ALLIANCE", dr=16, dk=18 },
@@ -1415,16 +1415,16 @@ ns.LEADERBOARD_BY_REGION["us"] = {
 		{ rank=1367, name="Shmelly", realm="pagle", rating=2014, won=83, lost=70, faction="ALLIANCE", mr=2051 },
 		{ rank=1367, name="Snÿx", realm="raden", rating=2014, won=59, lost=61, faction="ALLIANCE", dr=0, dk=81 },
 		{ rank=1375, name="Arianagrànde", realm="raden", rating=2013, won=60, lost=45, faction="ALLIANCE", dr=0, dk=83 },
-		{ rank=1375, name="Møønzx", realm="galakras", rating=2013, won=84, lost=92, faction="ALLIANCE", dr=108, dk=-516 },
 		{ rank=1375, name="Mysticzaza", realm="benediction", rating=2013, won=86, lost=76, faction="ALLIANCE", dr=0, dk=83 },
 		{ rank=1375, name="Revcole", realm="raden", rating=2013, won=48, lost=47, faction="ALLIANCE", dr=0, dk=83 },
 		{ rank=1375, name="Trolled", realm="pagle", rating=2013, won=84, lost=89, faction="HORDE", dr=68, dk=-303 },
-		{ rank=1380, name="Cobrä", realm="pagle", rating=2012, won=208, lost=210, faction="HORDE", mr=2045, dr=10, dk=6 },
-		{ rank=1380, name="Dohrow", realm="pagle", rating=2012, won=242, lost=259, faction="HORDE", dr=87, dk=-399 },
-		{ rank=1380, name="Integrityqt", realm="pagle", rating=2012, won=468, lost=437, faction="ALLIANCE", mr=2072, dr=-14, dk=164 },
-		{ rank=1380, name="Kungfulah", realm="nazgrim", rating=2012, won=71, lost=45, faction="HORDE", dr=0, dk=84 },
-		{ rank=1380, name="Skrylur", realm="pagle", rating=2012, won=294, lost=295, faction="HORDE", mr=2045, dr=10, dk=6 },
-		{ rank=1380, name="Thugxx", realm="pagle", rating=2012, won=135, lost=117, faction="HORDE", dr=0, dk=84 },
+		{ rank=1379, name="Cobrä", realm="pagle", rating=2012, won=208, lost=210, faction="HORDE", mr=2045, dr=10, dk=5 },
+		{ rank=1379, name="Dohrow", realm="pagle", rating=2012, won=242, lost=259, faction="HORDE", dr=87, dk=-400 },
+		{ rank=1379, name="Integrityqt", realm="pagle", rating=2012, won=468, lost=437, faction="ALLIANCE", mr=2072, dr=-14, dk=163 },
+		{ rank=1379, name="Kungfulah", realm="nazgrim", rating=2012, won=71, lost=45, faction="HORDE", dr=0, dk=83 },
+		{ rank=1379, name="Møønzx", realm="galakras", rating=2012, won=84, lost=93, faction="ALLIANCE", mr=2013, dr=107, dk=-512 },
+		{ rank=1379, name="Skrylur", realm="pagle", rating=2012, won=294, lost=295, faction="HORDE", mr=2045, dr=10, dk=5 },
+		{ rank=1379, name="Thugxx", realm="pagle", rating=2012, won=135, lost=117, faction="HORDE", dr=0, dk=83 },
 		{ rank=1386, name="Dorris", realm="raden", rating=2011, won=78, lost=67, faction="ALLIANCE", mr=2031, dr=0, dk=86 },
 		{ rank=1386, name="Frasno", realm="nazgrim", rating=2011, won=451, lost=438, faction="ALLIANCE", mr=2015, dr=0, dk=86 },
 		{ rank=1386, name="Hitmydm", realm="raden", rating=2011, won=64, lost=52, faction="ALLIANCE", dr=0, dk=86 },
