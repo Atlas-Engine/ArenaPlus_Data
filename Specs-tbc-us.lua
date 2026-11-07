@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9349 characters, read 2026-11-07 06:58 AM.
+-- Region tbc-us, 9350 characters, read 2026-11-07 07:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5210,6 +5210,7 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["missmoo-nightslayer"]=61,
 	["missrobin-nightslayer"]=111,
 	["misswexler-nightslayer"]=11,
+	["missxo-nightslayer"]=11,
 	["missypriest-nightslayer"]=31,
 	["mistapell-dreamscythe"]=30,
 	["miszrd-nightslayer"]=61,
@@ -9740,7 +9741,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bagototems-nightslayer"]=19,
 	["bagpacks-nightslayer"]=10,
 	["bailerz-dreamscythe"]=4,
-	["bainal-dreamscythe"]=14,
+	["bainal-dreamscythe"]=1,
 	["baitosenshi-nightslayer"]=18,
 	["baiwuya-nightslayer"]=6,
 	["bajalol-nightslayer"]=10,
@@ -9760,7 +9761,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["balalalaluu-dreamscythe"]=9,
 	["baldandthicc-nightslayer"]=1,
 	["baldazario-nightslayer"]=2,
-	["baldbulla-nightslayer"]=16,
+	["baldbulla-nightslayer"]=23,
 	["baldhealer-nightslayer"]=1,
 	["baldudruid-nightslayer"]=3,
 	["ballakballak-nightslayer"]=7,
@@ -10078,7 +10079,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bla-nightslayer"]=4,
 	["blackadam-nightslayer"]=24,
 	["blackberrys-nightslayer"]=7,
-	["blackchedda-nightslayer"]=13,
+	["blackchedda-nightslayer"]=16,
 	["blackcircle-nightslayer"]=4,
 	["blackcocoa-dreamscythe"]=11,
 	["blackcrows-nightslayer"]=12,
@@ -14511,6 +14512,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["missmoo-nightslayer"]=22,
 	["missrobin-nightslayer"]=10,
 	["misswexler-nightslayer"]=4,
+	["missxo-nightslayer"]=5,
 	["missypriest-nightslayer"]=1,
 	["mistapell-dreamscythe"]=1,
 	["miszrd-nightslayer"]=22,
@@ -16553,7 +16555,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["shujanko-nightslayer"]=5,
 	["shukmakok-nightslayer"]=20,
 	["shunning-nightslayer"]=5,
-	["shunsui-nightslayer"]=18,
+	["shunsui-nightslayer"]=2,
 	["shuolezaijia-nightslayer"]=13,
 	["shutrmcgnome-nightslayer"]=2,
 	["shuupin-nightslayer"]=19,

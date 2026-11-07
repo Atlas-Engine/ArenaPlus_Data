@@ -18,7 +18,7 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region us, season 14, read 2026-11-07 06:59 AM.
+-- Region us, season 14, read 2026-11-07 07:59 AM.
 -- Realm display names, because the ladder only carries slugs and no rule
 -- turns one back into the other: raden is Ra-den, lei-shen is Lei Shen and
 -- arugal-au is Arugal (AU). Read from Blizzard's realm index; a slug with no
@@ -35,9 +35,9 @@ ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["us"] = {
 	region  = "us",
-	checked = "2026-11-07 06:59 AM",
-	checkedEpoch = 1794052768,
-	snapshot = "2026-11-07 09:16",
+	checked = "2026-11-07 07:59 AM",
+	checkedEpoch = 1794056370,
+	snapshot = "2026-11-07 12:16",
 
 	[1] = {  -- 2v2, 5000 places, down to rating 1135 -- the API stops here, short of the cutoff
 		{ rank=1, name="Reckington", realm="raden", rating=2811, won=491, lost=170, faction="ALLIANCE", dr=0, dk=0 },
@@ -390,13 +390,13 @@ ns.LEADERBOARD_BY_REGION["us"] = {
 		{ rank=347, name="Jellybeans", realm="raden", rating=2332, won=74, lost=43, faction="ALLIANCE", dr=0, dk=0 },
 		{ rank=347, name="Longbeef", realm="raden", rating=2332, won=99, lost=94, faction="ALLIANCE", dr=0, dk=0 },
 		{ rank=347, name="Slumplord", realm="raden", rating=2332, won=146, lost=115, faction="ALLIANCE", mr=2346, dr=-8, dk=20 },
-		{ rank=351, name="Hifvckface", realm="raden", rating=2328, won=200, lost=146, faction="ALLIANCE", mr=2359, dr=0, dk=1 },
-		{ rank=352, name="Ròach", realm="galakras", rating=2327, won=106, lost=92, faction="HORDE", dr=0, dk=1 },
-		{ rank=353, name="Ui", realm="pagle", rating=2325, won=173, lost=134, faction="HORDE", dr=0, dk=1 },
-		{ rank=354, name="Dritann", realm="raden", rating=2324, won=364, lost=142, faction="ALLIANCE", mr=2486, dr=0, dk=1 },
-		{ rank=354, name="Metroboomkin", realm="raden", rating=2324, won=76, lost=61, faction="ALLIANCE", dr=0, dk=1 },
-		{ rank=354, name="Thebagelcave", realm="pagle", rating=2324, won=177, lost=141, faction="ALLIANCE", mr=2329, dr=0, dk=1 },
-		{ rank=354, name="Verdex", realm="raden", rating=2324, won=226, lost=167, faction="ALLIANCE", mr=2362, dr=0, dk=1 },
+		{ rank=351, name="Verdex", realm="raden", rating=2330, won=228, lost=168, faction="ALLIANCE", mr=2362, dr=6, dk=-2 },
+		{ rank=352, name="Hifvckface", realm="raden", rating=2328, won=200, lost=146, faction="ALLIANCE", mr=2359, dr=0, dk=2 },
+		{ rank=353, name="Ròach", realm="galakras", rating=2327, won=106, lost=92, faction="HORDE", dr=0, dk=2 },
+		{ rank=354, name="Ui", realm="pagle", rating=2325, won=173, lost=134, faction="HORDE", dr=0, dk=2 },
+		{ rank=355, name="Dritann", realm="raden", rating=2324, won=364, lost=142, faction="ALLIANCE", mr=2486, dr=0, dk=2 },
+		{ rank=355, name="Metroboomkin", realm="raden", rating=2324, won=76, lost=61, faction="ALLIANCE", dr=0, dk=2 },
+		{ rank=355, name="Thebagelcave", realm="pagle", rating=2324, won=177, lost=141, faction="ALLIANCE", mr=2329, dr=0, dk=2 },
 		{ rank=358, name="Faiders", realm="raden", rating=2323, won=81, lost=51, faction="ALLIANCE", dr=0, dk=1 },
 		{ rank=358, name="Kìngrøach", realm="galakras", rating=2323, won=89, lost=82, faction="HORDE", dr=0, dk=1 },
 		{ rank=360, name="Ihatemetoo", realm="raden", rating=2322, won=78, lost=58, faction="ALLIANCE", mr=2363, dr=0, dk=1 },
