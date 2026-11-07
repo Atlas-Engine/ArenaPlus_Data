@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9349 characters, read 2026-11-07 02:58 AM.
+-- Region tbc-us, 9349 characters, read 2026-11-07 03:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11075,7 +11075,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["darkguanyin-dreamscythe"]=1,
 	["darkhealzin-dreamscythe"]=14,
 	["darkjane-nightslayer"]=13,
-	["darknos-nightslayer"]=13,
+	["darknos-nightslayer"]=16,
 	["darkridah-dreamscythe"]=2,
 	["darkshawn-nightslayer"]=6,
 	["darksideluke-dreamscythe"]=1,
@@ -15056,7 +15056,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ogrtdlol-nightslayer"]=5,
 	["ogstubbz-nightslayer"]=4,
 	["ogstubbzxo-nightslayer"]=5,
-	["Øgx-nightslayer"]=8,
+	["Øgx-nightslayer"]=5,
 	["ohana-nightslayer"]=10,
 	["ohanaftw-nightslayer"]=10,
 	["ohdeng-nightslayer"]=3,
@@ -16961,7 +16961,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ßursting-nightslayer"]=0,
 	["ßutter-nightslayer"]=17,
 	["ßxß-nightslayer"]=10,
-	["stabbyfist-dreamscythe"]=10,
+	["stabbyfist-dreamscythe"]=24,
 	["stabbykamms-nightslayer"]=5,
 	["stabkill-nightslayer"]=8,
 	["stabse-dreamscythe"]=5,
