@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9349 characters, read 2026-11-07 03:58 AM.
+-- Region tbc-us, 9349 characters, read 2026-11-07 04:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9313,7 +9313,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["acidhands-nightslayer"]=10,
 	["acidremix-nightslayer"]=5,
 	["acmilan-nightslayer"]=5,
-	["acmílan-nightslayer"]=8,
+	["acmílan-nightslayer"]=5,
 	["acrodad-nightslayer"]=1,
 	["acrodingo-nightslayer"]=1,
 	["activity-nightslayer"]=10,
@@ -10054,7 +10054,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["birdfrd-nightslayer"]=6,
 	["birdfromtree-dreamscythe"]=3,
 	["birdieblue-nightslayer"]=4,
-	["birfu-nightslayer"]=2,
+	["birfu-nightslayer"]=18,
 	["bisbeef-nightslayer"]=7,
 	["biscuits-nightslayer"]=6,
 	["bisduo-nightslayer"]=7,
@@ -13993,7 +13993,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["lmnc-nightslayer"]=1,
 	["lmnllam-nightslayer"]=15,
 	["ln-nightslayer"]=0,
-	["lnln-nightslayer"]=1,
+	["lnln-nightslayer"]=14,
 	["loafprime-nightslayer"]=9,
 	["lochadin-dreamscythe"]=25,
 	["lockajewbaca-nightslayer"]=23,
