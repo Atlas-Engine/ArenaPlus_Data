@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9348 characters, read 2026-11-07 12:58 AM.
+-- Region tbc-us, 9349 characters, read 2026-11-07 01:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -409,6 +409,7 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["assisyumi-nightslayer"]=71,
 	["astå-nightslayer"]=41,
 	["astias-nightslayer"]=70,
+	["astiax-nightslayer"]=31,
 	["astonishu-nightslayer"]=20,
 	["astorathi-nightslayer"]=111,
 	["astormage-nightslayer"]=70,
@@ -2943,6 +2944,7 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["furgotten-nightslayer"]=11,
 	["furgtv-nightslayer"]=40,
 	["furiah-nightslayer"]=41,
+	["furioustrike-dreamscythe"]=20,
 	["furiousxz-nightslayer"]=11,
 	["furrypov-dreamscythe"]=60,
 	["furynips-nightslayer"]=11,
@@ -9623,6 +9625,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["assisyumi-nightslayer"]=2,
 	["astå-nightslayer"]=7,
 	["astias-nightslayer"]=2,
+	["astiax-nightslayer"]=1,
 	["astonishu-nightslayer"]=2,
 	["astorathi-nightslayer"]=15,
 	["astormage-nightslayer"]=6,
@@ -12209,6 +12212,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["furgotten-nightslayer"]=4,
 	["furgtv-nightslayer"]=7,
 	["furiah-nightslayer"]=22,
+	["furioustrike-dreamscythe"]=10,
 	["furiousxz-nightslayer"]=8,
 	["furrypov-dreamscythe"]=3,
 	["furynips-nightslayer"]=2,
@@ -15441,7 +15445,6 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["plasticsurgn-nightslayer"]=9,
 	["platelets-nightslayer"]=2,
 	["platinumamex-nightslayer"]=7,
-	["playervqdgjt-nightslayer"]=0,
 	["playgrounds-nightslayer"]=18,
 	["playhardx-nightslayer"]=2,
 	["playtimex-dreamscythe"]=5,
@@ -16019,7 +16022,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["rockx-nightslayer"]=25,
 	["rocmarciano-nightslayer"]=14,
 	["rocuroníum-nightslayer"]=5,
-	["rocyo-nightslayer"]=5,
+	["rocyo-nightslayer"]=8,
 	["rodmaster-dreamscythe"]=17,
 	["rodshox-dreamscythe"]=24,
 	["rodstewart-nightslayer"]=10,

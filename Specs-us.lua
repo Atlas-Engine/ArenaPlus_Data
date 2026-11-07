@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5212 characters, read 2026-11-07 12:59 AM.
+-- Region us, 5213 characters, read 2026-11-07 01:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3889,6 +3889,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["shadowkenja-benediction"]=11,
 	["shädowqt-pagle"]=11,
 	["shadowstorm-immerseus"]=50,
+	["shadowstormx-immerseus"]=50,
 	["shadowxg-pagle"]=40,
 	["shaea-galakras"]=111,
 	["shahku-pagle"]=30,
@@ -5311,7 +5312,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["baedan-raden"]=4,
 	["baedon-raden"]=6,
 	["baelmis-pagle"]=1,
-	["bagahbonesx-pagle"]=9,
+	["bagahbonesx-pagle"]=21,
 	["bagelcave-nazgrim"]=22,
 	["bagelcave-pagle"]=22,
 	["bagelcavee-immerseus"]=22,
@@ -6550,7 +6551,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["feråltyger-pagle"]=0,
 	["fernandes-nazgrim"]=16,
 	["fernandita-galakras"]=21,
-	["fhisiod-raden"]=17,
+	["fhisiod-raden"]=5,
 	["fhiziod-raden"]=5,
 	["fhiziom-raden"]=4,
 	["fhizios-raden"]=15,
@@ -8226,7 +8227,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["nihcnims-pagle"]=29,
 	["nik-galakras"]=0,
 	["nikkah-lei-shen"]=13,
-	["nikotina-galakras"]=29,
+	["nikotina-galakras"]=14,
 	["nili-pagle"]=28,
 	["nilio-raden"]=1,
 	["nimíx-pagle"]=6,
@@ -9038,6 +9039,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["shädowqt-pagle"]=21,
 	["shadowsige-pagle"]=0,
 	["shadowstorm-immerseus"]=8,
+	["shadowstormx-immerseus"]=21,
 	["shadowxg-pagle"]=20,
 	["shaea-galakras"]=22,
 	["shahku-pagle"]=22,
@@ -9682,7 +9684,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["trapaholic-raden"]=3,
 	["trapandcrit-pagle"]=3,
 	["trapbot-raden"]=3,
-	["trapfiendx-raden"]=20,
+	["trapfiendx-raden"]=3,
 	["traplauncher-pagle"]=3,
 	["trapreckly-raden"]=3,
 	["träps-pagle"]=3,
