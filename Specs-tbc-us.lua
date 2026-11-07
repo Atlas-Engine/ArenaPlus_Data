@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9348 characters, read 2026-11-06 09:58 PM.
+-- Region tbc-us, 9348 characters, read 2026-11-06 10:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4603,7 +4603,6 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["libtardmaxer-nightslayer"]=81,
 	["licharm-dreamscythe"]=50,
 	["lichiest-dreamscythe"]=50,
-	["lickmenip-nightslayer"]=31,
 	["lido-nightslayer"]=20,
 	["lidruzybussy-nightslayer"]=100,
 	["lifeordef-nightslayer"]=41,
@@ -9882,7 +9881,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bearlysrs-nightslayer"]=7,
 	["bearlyviable-nightslayer"]=7,
 	["bearness-nightslayer"]=7,
-	["bearx-dreamscythe"]=14,
+	["bearx-dreamscythe"]=1,
 	["beastafx-nightslayer"]=0,
 	["beauchode-nightslayer"]=4,
 	["beauhemian-nightslayer"]=2,
@@ -13895,7 +13894,6 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["libtardmaxer-nightslayer"]=12,
 	["licharm-dreamscythe"]=6,
 	["lichiest-dreamscythe"]=1,
-	["lickmenip-nightslayer"]=1,
 	["lido-nightslayer"]=15,
 	["lidruzybussy-nightslayer"]=11,
 	["lifeordef-nightslayer"]=7,
@@ -15443,6 +15441,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["plasticsurgn-nightslayer"]=9,
 	["platelets-nightslayer"]=2,
 	["platinumamex-nightslayer"]=7,
+	["playervqdgjt-nightslayer"]=0,
 	["playgrounds-nightslayer"]=18,
 	["playhardx-nightslayer"]=2,
 	["playtimex-dreamscythe"]=5,
