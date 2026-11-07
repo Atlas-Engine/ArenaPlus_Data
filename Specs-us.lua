@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5205 characters, read 2026-11-07 09:59 AM.
+-- Region us, 5206 characters, read 2026-11-07 10:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1935,6 +1935,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["henriettexo-raden"]=41,
 	["heralin-lei-shen"]=11,
 	["herbminerals-immerseus"]=60,
+	["hereicum-pagle"]=41,
 	["heriberto-pagle"]=260,
 	["herroo-galakras"]=10,
 	["hesaproblem-pagle"]=41,
@@ -5725,7 +5726,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["cathw-raden"]=7,
 	["catmasterx-raden"]=7,
 	["catpack-raden"]=12,
-	["cavalaum-galakras"]=19,
+	["cavalaum-galakras"]=15,
 	["cavallier-pagle"]=2,
 	["caylara-raden"]=20,
 	["cazabrujas-raden"]=20,
@@ -6978,6 +6979,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["henriettexo-raden"]=5,
 	["heralin-lei-shen"]=16,
 	["herbminerals-immerseus"]=5,
+	["hereicum-pagle"]=5,
 	["heriberto-pagle"]=10,
 	["hernis-pagle"]=0,
 	["herroo-galakras"]=16,
@@ -8498,7 +8500,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["pimen-pagle"]=1,
 	["pinchivato-immerseus"]=17,
 	["pinguen-pagle"]=0,
-	["pinguisulina-galakras"]=29,
+	["pinguisulina-galakras"]=14,
 	["pinkdreads-pagle"]=12,
 	["pinkfinder-pagle"]=21,
 	["pinkfiregg-pagle"]=10,
