@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9608 characters, read 2026-11-07 12:59 PM.
+-- Region tbc-eu, 9608 characters, read 2026-11-07 01:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -13779,7 +13779,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["kipishnoi-spineshatter"]=11,
 	["kïra-spineshatter"]=5,
 	["kirajaeger-spineshatter"]=25,
-	["kirederfy-thunderstrike"]=2,
+	["kirederfy-thunderstrike"]=17,
 	["kirin-spineshatter"]=12,
 	["kirkebøssen-spineshatter"]=17,
 	["kirkoss-spineshatter"]=6,
@@ -14374,7 +14374,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["lysdexia-spineshatter"]=6,
 	["lysebrun-spineshatter"]=5,
 	["lysel-spineshatter"]=11,
-	["lyseria-spineshatter"]=3,
+	["lyseria-spineshatter"]=19,
 	["lyssera-spineshatter"]=1,
 	["lyxos-spineshatter"]=3,
 	["maastaveto-spineshatter"]=1,
@@ -15915,7 +15915,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["postarinkeqt-spineshatter"]=2,
 	["postmaclone-spineshatter"]=1,
 	["postmalone-spineshatter"]=17,
-	["posty-spineshatter"]=9,
+	["posty-spineshatter"]=4,
 	["potaru-thunderstrike"]=4,
 	["potshot-spineshatter"]=24,
 	["potso-thunderstrike"]=1,
@@ -16953,7 +16953,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["shinsplitter-spineshatter"]=5,
 	["shînxx-spineshatter"]=5,
 	["shioko-spineshatter"]=19,
-	["shiskabob-spineshatter"]=2,
+	["shiskabob-spineshatter"]=17,
 	["shiun-spineshatter"]=19,
 	["shivcc-spineshatter"]=11,
 	["shiverqt-spineshatter"]=3,
@@ -18611,7 +18611,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["wikous-spineshatter"]=9,
 	["wildmom-spineshatter"]=6,
 	["wildrooster-spineshatter"]=1,
-	["wildwater-spineshatter"]=15,
+	["wildwater-spineshatter"]=5,
 	["wildwishes-spineshatter"]=25,
 	["willa-spineshatter"]=5,
 	["willofshadow-thunderstrike"]=8,
@@ -18744,7 +18744,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["xblxblxbll-spineshatter"]=7,
 	["xbruja-spineshatter"]=2,
 	["xcupshaman-spineshatter"]=11,
-	["xdonik-thunderstrike"]=11,
+	["xdonik-thunderstrike"]=12,
 	["xdperhaps-spineshatter"]=8,
 	["xdshera-spineshatter"]=13,
 	["xdskullzz-spineshatter"]=24,
