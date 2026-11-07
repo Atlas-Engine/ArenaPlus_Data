@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9607 characters, read 2026-11-06 08:44 PM.
+-- Region tbc-eu, 9608 characters, read 2026-11-06 09:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5030,6 +5030,7 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["maximagain-spineshatter"]=50,
 	["maximgayge-spineshatter"]=100,
 	["maximgg-spineshatter"]=50,
+	["maxj-spineshatter"]=51,
 	["maxky-spineshatter"]=60,
 	["maxmakker-spineshatter"]=30,
 	["maxóu-thunderstrike"]=11,
@@ -9859,7 +9860,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["arhabi-spineshatter"]=5,
 	["ariezs-spineshatter"]=5,
 	["arimash-spineshatter"]=25,
-	["arísé-spineshatter"]=5,
+	["arísé-spineshatter"]=15,
 	["Ârise-thunderstrike"]=2,
 	["arlondiaz-spineshatter"]=3,
 	["armadá-thunderstrike"]=5,
@@ -14576,6 +14577,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["maximagain-spineshatter"]=9,
 	["maximgayge-spineshatter"]=9,
 	["maximgg-spineshatter"]=3,
+	["maxj-spineshatter"]=3,
 	["maxky-spineshatter"]=6,
 	["maxmakker-spineshatter"]=2,
 	["maxóu-thunderstrike"]=3,
@@ -14978,7 +14980,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["mullettyan-spineshatter"]=5,
 	["mullis-spineshatter"]=5,
 	["mülltonnê-spineshatter"]=0,
-	["multipurpose-thunderstrike"]=1,
+	["multipurpose-thunderstrike"]=20,
 	["mumpiitz-spineshatter"]=3,
 	["munamutteri-spineshatter"]=4,
 	["muncheez-spineshatter"]=3,
