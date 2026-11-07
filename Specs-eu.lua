@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5358 characters, read 2026-11-07 02:00 PM.
+-- Region eu, 5358 characters, read 2026-11-07 03:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1151,6 +1151,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["dusoleil-shekzeer"]=40,
 	["dvarlin-mirage-raceway"]=30,
 	["dwarfs-shekzeer"]=40,
+	["dwarfspirit-shekzeer"]=11,
 	["dwg-shekzeer"]=41,
 	["dwgz-shekzeer"]=41,
 	["dxab-shekzeer"]=41,
@@ -1819,7 +1820,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["infection-shekzeer"]=10,
 	["infectiøns-auberdine"]=11,
 	["infergrimm-everlook"]=30,
-	["injurieux-shekzeer"]=10,
+	["injurieux-shekzeer"]=11,
 	["inkvis-hoptallus"]=110,
 	["innà-auberdine"]=11,
 	["innâ-auberdine"]=11,
@@ -2091,6 +2092,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["khaliope-everlook"]=51,
 	["khazooq-mirage-raceway"]=220,
 	["khex-shekzeer"]=11,
+	["khobkhunkrap-shekzeer"]=41,
 	["khofo-shekzeer"]=11,
 	["kickbot-shekzeer"]=11,
 	["kicktank-norushen"]=11,
@@ -6313,7 +6315,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["dusoleil-shekzeer"]=24,
 	["dvarlin-mirage-raceway"]=15,
 	["dwarfs-shekzeer"]=21,
-	["dwarfspirit-shekzeer"]=0,
+	["dwarfspirit-shekzeer"]=2,
 	["dwg-shekzeer"]=3,
 	["dwgz-shekzeer"]=9,
 	["dxab-shekzeer"]=22,
@@ -7300,7 +7302,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["khaliope-everlook"]=9,
 	["khazooq-mirage-raceway"]=25,
 	["khex-shekzeer"]=2,
-	["khobkhunkrap-shekzeer"]=0,
+	["khobkhunkrap-shekzeer"]=3,
 	["khofo-shekzeer"]=17,
 	["kickbot-shekzeer"]=26,
 	["kicktank-norushen"]=15,
@@ -7594,7 +7596,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["lucilfer-garalon"]=0,
 	["lucilisa-garalon"]=7,
 	["lucyshen-everlook"]=6,
-	["ludiwig-shekzeer"]=11,
+	["ludiwig-shekzeer"]=3,
 	["lügenbeutler-everlook"]=15,
 	["lugubrious-shekzeer"]=9,
 	["luicya-everlook"]=9,
