@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9607 characters, read 2026-11-06 06:54 PM.
+-- Region tbc-eu, 9607 characters, read 2026-11-06 07:54 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10140,7 +10140,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["baowi-spineshatter"]=12,
 	["baozí-spineshatter"]=18,
 	["bäphomet-spineshatter"]=19,
-	["baqera-thunderstrike"]=0,
+	["baqera-thunderstrike"]=19,
 	["barathon-spineshatter"]=11,
 	["barazanthul-thunderstrike"]=25,
 	["barbeque-spineshatter"]=11,
@@ -13943,7 +13943,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["kukuricudus-thunderstrike"]=9,
 	["kulshady-spineshatter"]=1,
 	["kulukalle-spineshatter"]=10,
-	["kunamoota-thunderstrike"]=15,
+	["kunamoota-thunderstrike"]=5,
 	["kungenenzii-spineshatter"]=2,
 	["kungfupadla-spineshatter"]=1,
 	["kungfuryxoxo-spineshatter"]=5,
@@ -17978,7 +17978,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["tolúbolt-spineshatter"]=14,
 	["tolúclone-spineshatter"]=6,
 	["tolúzug-spineshatter"]=5,
-	["tõm-spineshatter"]=1,
+	["tõm-spineshatter"]=6,
 	["tomatohead-spineshatter"]=5,
 	["tomiokax-spineshatter"]=9,
 	["tommimessi-spineshatter"]=25,
