@@ -42,7 +42,7 @@ local ns = ArenaPlusData
 -- source_item, so gems are stored as real item ids the client can draw and only
 -- the enchant text has to ship.
 --
--- Region tbc-eu, 366 characters, 0 glyph names, read 2026-11-07 03:21 AM.
+-- Region tbc-eu, 366 characters, 0 glyph names, read 2026-11-07 06:20 AM.
 ns.GLYPH_NAMES = ns.GLYPH_NAMES or {}
 
 for id, name in pairs({
@@ -71,32 +71,11 @@ for id, name in pairs({
 	[12975]="Last Stand",
 	[16466]="Deflection",
 	[16542]="One-Handed Weapon Specialization",
-	[17782]="Cataclysm",
-	[17792]="Bane",
-	[17803]="Improved Shadow Bolt",
-	[17877]="Shadowburn",
-	[17918]="Destructive Reach",
-	[17958]="Emberstorm",
-	[17959]="Ruin",
-	[18134]="Devastation",
-	[18136]="Intensity",
-	[18693]="Improved Healthstone",
-	[18701]="Demonic Embrace",
-	[18705]="Improved Voidwalker",
-	[18708]="Fel Domination",
-	[18710]="Master Summoner",
-	[18744]="Fel Intellect",
-	[18750]="Fel Stamina",
-	[18788]="Demonic Sacrifice",
 	[20243]="Devastate",
 	[23922]="Shield Slam",
 	[29146]="Vitality",
 	[29600]="Shield Mastery",
 	[29792]="Focused Rage",
-	[30145]="Demonic Aegis",
-	[30292]="Shadow and Flame",
-	[30299]="Nether Protection",
-	[34939]="Backlash",
 }) do ns.TALENT_NAMES[id] = name end
 
 -- Which talent a rank-spell belongs to, and how many ranks that talent has.
@@ -121,32 +100,11 @@ for spell, talent in pairs({
 	[12975]=153,
 	[16466]=130,
 	[16542]=702,
-	[17782]=941,
-	[17792]=943,
-	[17803]=944,
-	[17877]=963,
-	[17918]=964,
-	[17958]=966,
-	[17959]=967,
-	[18134]=981,
-	[18136]=985,
-	[18693]=1221,
-	[18701]=1223,
-	[18705]=1225,
-	[18708]=1226,
-	[18710]=1227,
-	[18744]=1242,
-	[18750]=1241,
-	[18788]=1281,
 	[20243]=1666,
 	[23922]=148,
 	[29146]=1653,
 	[29600]=1654,
 	[29792]=1660,
-	[30145]=1671,
-	[30292]=1677,
-	[30299]=1679,
-	[34939]=1817,
 }) do ns.TALENT_OF_SPELL[spell] = talent end
 
 ns.TALENT_MAX_RANK = ns.TALENT_MAX_RANK or {}
@@ -168,32 +126,11 @@ for talent, rank in pairs({
 	[153]=1,
 	[157]=5,
 	[702]=5,
-	[941]=5,
-	[943]=5,
-	[944]=5,
-	[963]=1,
-	[964]=2,
-	[966]=5,
-	[967]=1,
-	[981]=5,
-	[985]=2,
-	[1221]=2,
-	[1223]=5,
-	[1225]=1,
-	[1226]=1,
-	[1227]=2,
-	[1241]=3,
-	[1242]=3,
-	[1281]=1,
 	[1601]=5,
 	[1653]=5,
 	[1654]=3,
 	[1660]=3,
 	[1666]=1,
-	[1671]=3,
-	[1677]=5,
-	[1679]=1,
-	[1817]=3,
 }) do ns.TALENT_MAX_RANK[talent] = rank end
 
 ns.ENCHANT_TEXT = ns.ENCHANT_TEXT or {}
