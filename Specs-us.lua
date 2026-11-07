@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5206 characters, read 2026-11-07 03:54 PM.
+-- Region us, 5206 characters, read 2026-11-07 04:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2362,7 +2362,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["katrideen-pagle"]=11,
 	["kavarnxx-raden"]=11,
 	["kawika-pagle"]=11,
-	["kazakuz-raden"]=11,
+	["kazakuz-raden"]=10,
 	["kazamon-pagle"]=20,
 	["kazzaraxia-raden"]=41,
 	["keekster-pagle"]=11,
@@ -5877,7 +5877,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["coughmed-arugal-au"]=24,
 	["covidcase-immerseus"]=34,
 	["cóvidqt-pagle"]=6,
-	["coxãoduro-pagle"]=5,
+	["coxãoduro-pagle"]=17,
 	["coyson-immerseus"]=29,
 	["cozeno-pagle"]=17,
 	["cpc-raden"]=14,
@@ -7415,7 +7415,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["karolinna-raden"]=9,
 	["karrlor-pagle"]=9,
 	["karthea-raden"]=17,
-	["kartika-raden"]=20,
+	["kartika-raden"]=18,
 	["kaskudo-nazgrim"]=23,
 	["kasmein-pagle"]=18,
 	["katacaine-pagle"]=18,
@@ -8477,7 +8477,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["percosett-raden"]=7,
 	["periqueado-pagle"]=2,
 	["peritho-benediction"]=17,
-	["persa-nazgrim"]=18,
+	["persa-nazgrim"]=3,
 	["perseu-lei-shen"]=16,
 	["perturabo-raden"]=0,
 	["perxeo-pagle"]=7,
