@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5205 characters, read 2026-11-07 08:59 AM.
+-- Region us, 5205 characters, read 2026-11-07 09:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1971,7 +1971,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["holmz-pagle"]=40,
 	["holtxd-raden"]=11,
 	["holyangelz-pagle"]=10,
-	["holycanoli-galakras"]=10,
+	["holycanoli-galakras"]=100,
 	["holycaps-raden"]=10,
 	["holycøcktail-raden"]=11,
 	["holyfender-pagle"]=11,
@@ -5725,7 +5725,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["cathw-raden"]=7,
 	["catmasterx-raden"]=7,
 	["catpack-raden"]=12,
-	["cavalaum-galakras"]=15,
+	["cavalaum-galakras"]=19,
 	["cavallier-pagle"]=2,
 	["caylara-raden"]=20,
 	["cazabrujas-raden"]=20,
@@ -9511,7 +9511,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["tastyshotz-raden"]=3,
 	["tatís-pagle"]=21,
 	["taulastria-nazgrim"]=24,
-	["taurenmen-immerseus"]=33,
+	["taurenmen-immerseus"]=17,
 	["taybird-raden"]=7,
 	["tbk-raden"]=16,
 	["tcuro-raden"]=4,
