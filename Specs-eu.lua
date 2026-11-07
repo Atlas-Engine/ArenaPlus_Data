@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5367 characters, read 2026-11-06 08:00 PM.
+-- Region eu, 5367 characters, read 2026-11-06 09:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5510,7 +5510,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["azraiil-garalon"]=8,
 	["azrailon-shekzeer"]=13,
 	["azrd-shekzeer"]=3,
-	["azrin-shekzeer"]=12,
+	["azrin-shekzeer"]=9,
 	["azuret-shekzeer"]=3,
 	["azzalon-auberdine"]=23,
 	["azzârd-garalon"]=10,
@@ -5557,7 +5557,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bakasurge-shekzeer"]=11,
 	["bakatrap-shekzeer"]=4,
 	["bakomba-shekzeer"]=4,
-	["bakurau-mirage-raceway"]=14,
+	["bakurau-mirage-raceway"]=20,
 	["balanced-shekzeer"]=3,
 	["ballawatsch-shekzeer"]=6,
 	["ballbusting-shekzeer"]=24,
@@ -9702,7 +9702,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["voljiz-shekzeer"]=1,
 	["volkris-shekzeer"]=15,
 	["volkrz-shekzeer"]=19,
-	["vølstagg-auberdine"]=5,
+	["vølstagg-auberdine"]=30,
 	["vonweissnix-everlook"]=4,
 	["voodomann-mirage-raceway"]=3,
 	["voorh-shekzeer"]=15,
