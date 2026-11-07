@@ -18,7 +18,7 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region tbc-us, season 3, read 2026-11-06 10:58 PM.
+-- Region tbc-us, season 3, read 2026-11-06 11:58 PM.
 -- Realm display names, because the ladder only carries slugs and no rule
 -- turns one back into the other: raden is Ra-den, lei-shen is Lei Shen and
 -- arugal-au is Arugal (AU). Read from Blizzard's realm index; a slug with no
@@ -32,8 +32,8 @@ ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["tbc-us"] = {
 	region  = "tbc-us",
-	checked = "2026-11-06 10:58 PM",
-	checkedEpoch = 1794023895,
+	checked = "2026-11-06 11:58 PM",
+	checkedEpoch = 1794027496,
 	snapshot = "2026-11-07 03:01",
 
 	[1] = {  -- 2v2, 5004 places, down to rating 1486 -- the API stops here, short of the cutoff
@@ -334,14 +334,14 @@ ns.LEADERBOARD_BY_REGION["tbc-us"] = {
 		{ rank=295, name="Anirox", realm="nightslayer", rating=2218, won=83, lost=63, faction="HORDE", mr=2225, dr=0, dk=0 },
 		{ rank=295, name="Doomtoreto", realm="dreamscythe", rating=2218, won=392, lost=350, faction="ALLIANCE", mr=2342, dr=0, dk=0 },
 		{ rank=295, name="Swackedx", realm="dreamscythe", rating=2218, won=92, lost=69, faction="HORDE", dr=0, dk=0 },
-		{ rank=298, name="Ariiana", realm="nightslayer", rating=2217, won=109, lost=81, faction="ALLIANCE", dr=0, dk=0 },
 		{ rank=298, name="Dinnoo", realm="nightslayer", rating=2217, won=597, lost=546, faction="HORDE", mr=2257, dr=0, dk=0 },
 		{ rank=298, name="Plasticsurgn", realm="nightslayer", rating=2217, won=643, lost=631, faction="HORDE", mr=2259, dr=0, dk=0 },
 		{ rank=298, name="Ynphil", realm="nightslayer", rating=2217, won=269, lost=204, faction="ALLIANCE", dr=0, dk=0 },
-		{ rank=302, name="Ghidal", realm="nightslayer", rating=2216, won=116, lost=91, faction="ALLIANCE", dr=0, dk=0 },
-		{ rank=303, name="Mprst", realm="dreamscythe", rating=2215, won=78, lost=49, faction="ALLIANCE", dr=0, dk=0 },
-		{ rank=304, name="Boxing", realm="nightslayer", rating=2213, won=223, lost=185, faction="HORDE", dr=0, dk=0 },
-		{ rank=304, name="Donbeck", realm="nightslayer", rating=2213, won=146, lost=122, faction="ALLIANCE", dr=0, dk=0 },
+		{ rank=301, name="Ghidal", realm="nightslayer", rating=2216, won=116, lost=91, faction="ALLIANCE", dr=0, dk=-1 },
+		{ rank=302, name="Mprst", realm="dreamscythe", rating=2215, won=78, lost=49, faction="ALLIANCE", dr=0, dk=-1 },
+		{ rank=303, name="Ariiana", realm="nightslayer", rating=2213, won=109, lost=82, faction="ALLIANCE", mr=2217, dr=-4, dk=5 },
+		{ rank=303, name="Boxing", realm="nightslayer", rating=2213, won=223, lost=185, faction="HORDE", dr=0, dk=-1 },
+		{ rank=303, name="Donbeck", realm="nightslayer", rating=2213, won=146, lost=122, faction="ALLIANCE", dr=0, dk=-1 },
 		{ rank=306, name="Amazý", realm="nightslayer", rating=2212, won=96, lost=70, faction="HORDE", mr=2265, dr=0, dk=0 },
 		{ rank=306, name="Stunluck", realm="nightslayer", rating=2212, won=189, lost=162, faction="ALLIANCE", dr=0, dk=0 },
 		{ rank=308, name="Conya", realm="nightslayer", rating=2211, won=98, lost=78, faction="ALLIANCE", mr=2217, dr=0, dk=0 },
