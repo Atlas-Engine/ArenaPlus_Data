@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5213 characters, read 2026-11-07 01:59 AM.
+-- Region us, 5213 characters, read 2026-11-07 02:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6361,7 +6361,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ebaylol-raden"]=1,
 	["ebolarama-galakras"]=2,
 	["ebtsniper-raden"]=3,
-	["ecafkcufhi-raden"]=10,
+	["ecafkcufhi-raden"]=4,
 	["echodotx-raden"]=9,
 	["eci-raden"]=9,
 	["ecmoo-pagle"]=4,
@@ -7362,7 +7362,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["joyeux-lei-shen"]=5,
 	["joyjistsu-galakras"]=10,
 	["jozifßadmon-raden"]=22,
-	["jroç-pagle"]=20,
+	["jroç-pagle"]=3,
 	["jrvsmcpewstr-pagle"]=3,
 	["jstabaddream-raden"]=14,
 	["juantomas-pagle"]=14,
@@ -8643,7 +8643,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["quartêrmain-pagle"]=3,
 	["quelss-pagle"]=2,
 	["quesø-pagle"]=29,
-	["questopresto-nazgrim"]=4,
+	["questopresto-nazgrim"]=10,
 	["quickscopex-pagle"]=3,
 	["quickvanish-pagle"]=34,
 	["quinton-lei-shen"]=1,
