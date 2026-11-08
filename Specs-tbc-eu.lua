@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9594 characters, read 2026-11-08 02:59 AM.
+-- Region tbc-eu, 9594 characters, read 2026-11-08 03:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7066,6 +7066,7 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["säntoryu-spineshatter"]=21,
 	["santtuhehe-spineshatter"]=50,
 	["sanuk-spineshatter"]=50,
+	["saowa-spineshatter"]=61,
 	["sap-spineshatter"]=11,
 	["sapjk-spineshatter"]=11,
 	["sapnkill-spineshatter"]=50,
@@ -16628,7 +16629,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["säntoryu-spineshatter"]=5,
 	["santtuhehe-spineshatter"]=4,
 	["sanuk-spineshatter"]=2,
-	["saowa-spineshatter"]=0,
+	["saowa-spineshatter"]=1,
 	["sap-spineshatter"]=19,
 	["sapjk-spineshatter"]=3,
 	["sapnkill-spineshatter"]=3,
@@ -18586,7 +18587,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["wildrooster-spineshatter"]=1,
 	["wildwater-spineshatter"]=5,
 	["wildwishes-spineshatter"]=25,
-	["willa-spineshatter"]=5,
+	["willa-spineshatter"]=15,
 	["willofshadow-thunderstrike"]=8,
 	["willxd-thunderstrike"]=3,
 	["willygee-thunderstrike"]=3,
