@@ -42,7 +42,7 @@ local ns = ArenaPlusData
 -- source_item, so gems are stored as real item ids the client can draw and only
 -- the enchant text has to ship.
 --
--- Region tbc-eu, 367 characters, 0 glyph names, read 2026-11-07 07:20 PM.
+-- Region tbc-eu, 367 characters, 0 glyph names, read 2026-11-07 08:20 PM.
 ns.GLYPH_NAMES = ns.GLYPH_NAMES or {}
 
 for id, name in pairs({
@@ -55,7 +55,6 @@ for id, name in pairs({
 ns.TALENT_NAMES = ns.TALENT_NAMES or {}
 
 for id, name in pairs({
-	[12295]="Tactical Mastery",
 	[12296]="Anger Management",
 	[12312]="Improved Shield Wall",
 	[12664]="Improved Heroic Strike",
@@ -67,20 +66,15 @@ for id, name in pairs({
 	[12809]="Concussion Blow",
 	[12811]="Improved Sunder Armor",
 	[12834]="Deep Wounds",
-	[12853]="Cruelty",
 	[12856]="Cruelty",
-	[12867]="Deep Wounds",
 	[12945]="Improved Shield Block",
 	[12975]="Last Stand",
 	[16466]="Deflection",
-	[16494]="Impale",
 	[16542]="One-Handed Weapon Specialization",
 	[20243]="Devastate",
 	[23922]="Shield Slam",
 	[29146]="Vitality",
-	[29595]="Improved Defensive Stance",
 	[29600]="Shield Mastery",
-	[29787]="Focused Rage",
 	[29792]="Focused Rage",
 }) do ns.TALENT_NAMES[id] = name end
 
@@ -90,7 +84,6 @@ for id, name in pairs({
 ns.TALENT_OF_SPELL = ns.TALENT_OF_SPELL or {}
 
 for spell, talent in pairs({
-	[12295]=141,
 	[12296]=137,
 	[12312]=150,
 	[12664]=124,
@@ -102,34 +95,28 @@ for spell, talent in pairs({
 	[12809]=152,
 	[12811]=146,
 	[12834]=121,
-	[12853]=157,
 	[12856]=157,
-	[12867]=121,
 	[12945]=145,
 	[12975]=153,
 	[16466]=130,
-	[16494]=662,
 	[16542]=702,
 	[20243]=1666,
 	[23922]=148,
 	[29146]=1653,
-	[29595]=1652,
 	[29600]=1654,
-	[29787]=1660,
 	[29792]=1660,
 }) do ns.TALENT_OF_SPELL[spell] = talent end
 
 ns.TALENT_MAX_RANK = ns.TALENT_MAX_RANK or {}
 
 for talent, rank in pairs({
-	[121]=3,
+	[121]=1,
 	[124]=3,
 	[128]=3,
 	[130]=5,
 	[137]=1,
 	[138]=5,
 	[140]=5,
-	[141]=1,
 	[144]=3,
 	[145]=1,
 	[146]=3,
@@ -138,10 +125,8 @@ for talent, rank in pairs({
 	[152]=1,
 	[153]=1,
 	[157]=5,
-	[662]=2,
 	[702]=5,
 	[1601]=5,
-	[1652]=3,
 	[1653]=5,
 	[1654]=3,
 	[1660]=3,
