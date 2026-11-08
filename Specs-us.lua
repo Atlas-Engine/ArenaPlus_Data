@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5213 characters, read 2026-11-08 06:59 AM.
+-- Region us, 5212 characters, read 2026-11-08 07:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2974,7 +2974,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["mozzi-raden"]=10,
 	["mp-raden"]=41,
 	["mslusty-pagle"]=11,
-	["msnurfme-raden"]=220,
 	["msthickmeat-raden"]=31,
 	["mtj-atiesh"]=41,
 	["mtnbrews-raden"]=10,
@@ -3866,6 +3865,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["selina-lei-shen"]=221,
 	["semingg-pagle"]=11,
 	["senddudesqt-pagle"]=20,
+	["senju-raden"]=11,
 	["senseii-galakras"]=11,
 	["senseiiqtx-galakras"]=11,
 	["senseiirl-galakras"]=11,
@@ -3932,7 +3932,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["shikamarie-pagle"]=11,
 	["shínígamíí-pagle"]=50,
 	["shinjî-galakras"]=60,
-	["shinoasada-raden"]=11,
 	["shinzy-galakras"]=91,
 	["shionxd-pagle"]=10,
 	["shirosha-immerseus"]=250,
@@ -8082,7 +8081,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["mozzi-raden"]=7,
 	["mp-raden"]=9,
 	["mslusty-pagle"]=10,
-	["msnurfme-raden"]=5,
 	["msthickmeat-raden"]=15,
 	["mtj-atiesh"]=17,
 	["mtnbrews-raden"]=10,
@@ -9015,6 +9013,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["selina-lei-shen"]=12,
 	["semingg-pagle"]=4,
 	["senddudesqt-pagle"]=7,
+	["senju-raden"]=3,
 	["senseii-galakras"]=14,
 	["senseiiqtx-galakras"]=7,
 	["senseiirl-galakras"]=11,
@@ -9083,7 +9082,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["shikamarie-pagle"]=21,
 	["shínígamíí-pagle"]=29,
 	["shinjî-galakras"]=30,
-	["shinoasada-raden"]=3,
 	["shinzy-galakras"]=6,
 	["shionxd-pagle"]=7,
 	["shirosha-immerseus"]=15,
@@ -9624,7 +9622,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["thundasack-galakras"]=28,
 	["thunderchum-nazgrim"]=22,
 	["thunders-raden"]=2,
-	["thuugom-pagle"]=26,
+	["thuugom-pagle"]=25,
 	["thyraelz-pagle"]=15,
 	["thyrìm-pagle"]=7,
 	["thysalia-raden"]=3,
