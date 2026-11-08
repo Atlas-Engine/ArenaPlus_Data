@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9349 characters, read 2026-11-08 03:58 PM.
+-- Region tbc-us, 9349 characters, read 2026-11-08 04:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10833,7 +10833,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["coqueta-nightslayer"]=25,
 	["coquina-nightslayer"]=3,
 	["corabug-nightslayer"]=5,
-	["coralsagan-dreamscythe"]=4,
+	["coralsagan-dreamscythe"]=6,
 	["coranita-nightslayer"]=16,
 	["corbn-nightslayer"]=5,
 	["coredial-dreamscythe"]=8,
@@ -10966,7 +10966,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["cursiver-nightslayer"]=1,
 	["cutae-nightslayer"]=13,
 	["cutay-nightslayer"]=24,
-	["cutdown-nightslayer"]=8,
+	["cutdown-nightslayer"]=5,
 	["cuteboyirl-nightslayer"]=1,
 	["cutelilgirl-dreamscythe"]=1,
 	["cutelock-nightslayer"]=13,
@@ -15302,7 +15302,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["peadiddy-nightslayer"]=4,
 	["pecancrúnch-dreamscythe"]=14,
 	["pecks-nightslayer"]=13,
-	["pecowaka-nightslayer"]=2,
+	["pecowaka-nightslayer"]=18,
 	["peeballsnuts-nightslayer"]=7,
 	["peejay-nightslayer"]=4,
 	["peesha-nightslayer"]=5,

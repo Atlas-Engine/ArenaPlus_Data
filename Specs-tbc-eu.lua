@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9595 characters, read 2026-11-08 03:49 PM.
+-- Region tbc-eu, 9595 characters, read 2026-11-08 04:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9858,7 +9858,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["arqsmol-spineshatter"]=15,
 	["arrieta-thunderstrike"]=18,
 	["arrïmadas-spineshatter"]=19,
-	["arrivedercix-spineshatter"]=11,
+	["arrivedercix-spineshatter"]=12,
 	["arrowstâck-spineshatter"]=24,
 	["artexz-spineshatter"]=13,
 	["arthamir-spineshatter"]=10,
@@ -11870,7 +11870,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["elunnesfat-thunderstrike"]=2,
 	["eluu-spineshatter"]=3,
 	["elvarthegray-spineshatter"]=12,
-	["elwarroo-spineshatter"]=5,
+	["elwarroo-spineshatter"]=22,
 	["elyian-spineshatter"]=11,
 	["elz-spineshatter"]=2,
 	["embland-spineshatter"]=11,
@@ -14489,7 +14489,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["manneen-spineshatter"]=3,
 	["månni-thunderstrike"]=18,
 	["manßearcat-spineshatter"]=6,
-	["mantirovka-spineshatter"]=3,
+	["mantirovka-spineshatter"]=19,
 	["mapoko-spineshatter"]=1,
 	["mapuku-spineshatter"]=16,
 	["maqbugatti-thunderstrike"]=1,
@@ -16754,7 +16754,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["selesrender-spineshatter"]=23,
 	["sellupinja-spineshatter"]=2,
 	["seltiver-spineshatter"]=8,
-	["selvä-spineshatter"]=5,
+	["selvä-spineshatter"]=22,
 	["semplol-spineshatter"]=19,
 	["sendaí-spineshatter"]=19,
 	["sendaren-spineshatter"]=2,
@@ -17237,7 +17237,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["solaireshiv-spineshatter"]=3,
 	["solamé-spineshatter"]=24,
 	["solarity-thunderstrike"]=2,
-	["solennel-thunderstrike"]=3,
+	["solennel-thunderstrike"]=19,
 	["solerk-spineshatter"]=17,
 	["solithey-thunderstrike"]=9,
 	["solling-spineshatter"]=7,
@@ -18418,7 +18418,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["visader-thunderstrike"]=6,
 	["viscen-thunderstrike"]=19,
 	["vise-spineshatter"]=1,
-	["visender-spineshatter"]=9,
+	["visender-spineshatter"]=4,
 	["vishez-spineshatter"]=2,
 	["vishyate-spineshatter"]=1,
 	["vitalyazloy-spineshatter"]=1,
