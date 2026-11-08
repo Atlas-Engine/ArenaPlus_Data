@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9349 characters, read 2026-11-08 12:58 AM.
+-- Region tbc-us, 9350 characters, read 2026-11-08 01:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5210,6 +5210,7 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["missmoo-nightslayer"]=61,
 	["missrobin-nightslayer"]=111,
 	["misswexler-nightslayer"]=11,
+	["missxo-nightslayer"]=11,
 	["missypriest-nightslayer"]=31,
 	["mistapell-dreamscythe"]=30,
 	["miszrd-nightslayer"]=61,
@@ -12195,7 +12196,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["fugative-nightslayer"]=5,
 	["fuhngai-nightslayer"]=5,
 	["fuhou-nightslayer"]=5,
-	["fullbook-nightslayer"]=8,
+	["fullbook-nightslayer"]=5,
 	["fullclone-nightslayer"]=3,
 	["fullcode-nightslayer"]=7,
 	["fullmelts-nightslayer"]=5,
@@ -14511,6 +14512,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["missmoo-nightslayer"]=22,
 	["missrobin-nightslayer"]=10,
 	["misswexler-nightslayer"]=4,
+	["missxo-nightslayer"]=5,
 	["missypriest-nightslayer"]=1,
 	["mistapell-dreamscythe"]=1,
 	["miszrd-nightslayer"]=22,
@@ -16461,7 +16463,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["shgain-nightslayer"]=19,
 	["shhammoo-dreamscythe"]=19,
 	["shhimcasting-nightslayer"]=19,
-	["shialâbeouf-nightslayer"]=5,
+	["shialâbeouf-nightslayer"]=8,
 	["shibax-nightslayer"]=5,
 	["shieldabuser-nightslayer"]=12,
 	["shieldtron-nightslayer"]=25,
