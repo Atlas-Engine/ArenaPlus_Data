@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9349 characters, read 2026-11-07 11:58 PM.
+-- Region tbc-us, 9349 characters, read 2026-11-08 12:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9741,7 +9741,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bagpacks-nightslayer"]=10,
 	["bailerz-dreamscythe"]=4,
 	["bainal-dreamscythe"]=1,
-	["baitosenshi-nightslayer"]=18,
+	["baitosenshi-nightslayer"]=20,
 	["baiwuya-nightslayer"]=6,
 	["bajalol-nightslayer"]=10,
 	["bajamode-nightslayer"]=7,
@@ -12014,7 +12014,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["firehide-nightslayer"]=7,
 	["firenuggets-nightslayer"]=6,
 	["firian-nightslayer"]=25,
-	["firstglobalz-dreamscythe"]=19,
+	["firstglobalz-dreamscythe"]=10,
 	["firsttimetbc-nightslayer"]=14,
 	["firsure-nightslayer"]=3,
 	["fishagain-nightslayer"]=23,
@@ -14297,7 +14297,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["maxpowers-nightslayer"]=10,
 	["maxwang-nightslayer"]=8,
 	["mayanwarr-nightslayer"]=18,
-	["maybedyin-dreamscythe"]=14,
+	["maybedyin-dreamscythe"]=12,
 	["maycry-nightslayer"]=5,
 	["mayhemx-nightslayer"]=4,
 	["mayhim-nightslayer"]=5,
