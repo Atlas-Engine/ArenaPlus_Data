@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9594 characters, read 2026-11-08 07:54 AM.
+-- Region tbc-eu, 9594 characters, read 2026-11-08 08:29 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10769,7 +10769,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["cheatcode-spineshatter"]=1,
 	["checkslow-spineshatter"]=25,
 	["cheekbuster-spineshatter"]=1,
-	["cheeseballz-spineshatter"]=9,
+	["cheeseballz-spineshatter"]=4,
 	["cheezr-spineshatter"]=3,
 	["cheezzi-thunderstrike"]=1,
 	["cheginka-spineshatter"]=1,
@@ -14964,7 +14964,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["munamutteri-spineshatter"]=4,
 	["muncheez-spineshatter"]=3,
 	["mûnix-thunderstrike"]=1,
-	["muradrim-spineshatter"]=8,
+	["muradrim-spineshatter"]=17,
 	["murchy-spineshatter"]=11,
 	["murmels-spineshatter"]=1,
 	["mùrph-spineshatter"]=1,
@@ -16889,7 +16889,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["sheepwithme-spineshatter"]=9,
 	["sheevy-spineshatter"]=12,
 	["sheezlong-spineshatter"]=2,
-	["sheikhabdul-spineshatter"]=8,
+	["sheikhabdul-spineshatter"]=2,
 	["sheja-spineshatter"]=23,
 	["shejl-spineshatter"]=5,
 	["shéjl-spineshatter"]=7,

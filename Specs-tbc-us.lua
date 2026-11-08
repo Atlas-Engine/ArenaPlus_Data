@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9349 characters, read 2026-11-08 07:58 AM.
+-- Region tbc-us, 9349 characters, read 2026-11-08 08:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12114,7 +12114,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["footballheâd-nightslayer"]=2,
 	["footlongfred-nightslayer"]=5,
 	["foovey-nightslayer"]=5,
-	["fora-nightslayer"]=2,
+	["fora-nightslayer"]=18,
 	["fordchevy-dreamscythe"]=1,
 	["forést-nightslayer"]=10,
 	["forestcleave-nightslayer"]=24,
@@ -17405,7 +17405,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["threefeather-nightslayer"]=22,
 	["throbbingx-nightslayer"]=19,
 	["throbbingxd-nightslayer"]=24,
-	["throwpaws-nightslayer"]=3,
+	["throwpaws-nightslayer"]=7,
 	["thrustina-dreamscythe"]=2,
 	["thudflare-dreamscythe"]=6,
 	["thugbaby-nightslayer"]=5,
@@ -17760,7 +17760,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["uncletri-nightslayer"]=1,
 	["uncletyce-nightslayer"]=10,
 	["uncô-nightslayer"]=10,
-	["unconvinced-nightslayer"]=5,
+	["unconvinced-nightslayer"]=8,
 	["uncskisses-nightslayer"]=11,
 	["undeadebbie-nightslayer"]=20,
 	["undeadheals-nightslayer"]=14,
