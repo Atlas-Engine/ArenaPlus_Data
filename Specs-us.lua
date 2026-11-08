@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5213 characters, read 2026-11-08 04:59 AM.
+-- Region us, 5213 characters, read 2026-11-08 05:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5247,7 +5247,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["asamil-pagle"]=5,
 	["asapsap-lei-shen"]=14,
 	["asbull-immerseus"]=12,
-	["ascension-raden"]=10,
+	["ascension-raden"]=4,
 	["ashcarver-galakras"]=0,
 	["ashiroo-pagle"]=26,
 	["ashkaash-raden"]=3,
@@ -6710,7 +6710,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["gangalee-raden"]=22,
 	["ganggangg-immerseus"]=1,
 	["gangstir-pagle"]=6,
-	["gänjiegoblin-immerseus"]=26,
+	["gänjiegoblin-immerseus"]=6,
 	["gankem-immerseus"]=3,
 	["gankgangg-nazgrim"]=34,
 	["ganksta-pagle"]=25,
@@ -8055,7 +8055,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["monuei-raden"]=10,
 	["moobookaiyah-galakras"]=7,
 	["mooleone-pagle"]=5,
-	["mòónfirebeam-raden"]=12,
+	["mòónfirebeam-raden"]=5,
 	["moonloon-pagle"]=17,
 	["moonpieelite-immerseus"]=1,
 	["moonrip-raden"]=12,
