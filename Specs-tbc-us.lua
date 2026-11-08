@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9349 characters, read 2026-11-07 09:58 PM.
+-- Region tbc-us, 9349 characters, read 2026-11-07 10:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11378,9 +11378,9 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["donzilla-nightslayer"]=10,
 	["doobae-nightslayer"]=7,
 	["doobai-nightslayer"]=7,
-	["doobmax-nightslayer"]=8,
+	["doobmax-nightslayer"]=5,
 	["doobmaxduro-nightslayer"]=2,
-	["doobmaxtwo-nightslayer"]=8,
+	["doobmaxtwo-nightslayer"]=5,
 	["doodiez-nightslayer"]=14,
 	["doodlysquat-nightslayer"]=22,
 	["doodwar-dreamscythe"]=18,
@@ -12956,7 +12956,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["hyperiion-nightslayer"]=17,
 	["hypertreephy-dreamscythe"]=3,
 	["hyperxewl-nightslayer"]=7,
-	["hypnòs-nightslayer"]=4,
+	["hypnòs-nightslayer"]=6,
 	["hypnüs-nightslayer"]=12,
 	["hyppoo-nightslayer"]=6,
 	["iagdog-nightslayer"]=1,
@@ -13120,7 +13120,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["inv-nightslayer"]=5,
 	["invisibull-nightslayer"]=7,
 	["invisy-nightslayer"]=6,
-	["inyntz-nightslayer"]=22,
+	["inyntz-nightslayer"]=7,
 	["inyokid-nightslayer"]=1,
 	["inyourgutz-nightslayer"]=8,
 	["iolsmite-nightslayer"]=1,
