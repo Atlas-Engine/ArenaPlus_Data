@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5369 characters, read 2026-11-08 03:00 PM.
+-- Region eu, 5371 characters, read 2026-11-08 04:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3154,6 +3154,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["plåýbót-shekzeer"]=11,
 	["plåýböt-shekzeer"]=11,
 	["plåýbøt-shekzeer"]=11,
+	["plâybøybûnny-shekzeer"]=11,
 	["playmop-shekzeer"]=11,
 	["plåýßøt-shekzeer"]=21,
 	["plmbeachpete-shekzeer"]=11,
@@ -4106,7 +4107,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["tøøgøød-shekzeer"]=41,
 	["tophizzle-everlook"]=11,
 	["topkeck-mirage-raceway"]=10,
-	["topshotta-everlook"]=41,
+	["topshotta-everlook"]=40,
 	["topspal-shekzeer"]=11,
 	["topspalz-shekzeer"]=10,
 	["topyas-mirage-raceway"]=10,
@@ -5906,6 +5907,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["chenanzhy-shekzeer"]=2,
 	["cherokeemist-auberdine"]=0,
 	["cherryard-garalon"]=9,
+	["cherryontop-shekzeer"]=0,
 	["cheruz-mirage-raceway"]=22,
 	["chibiarda-auberdine"]=20,
 	["chicktock-everlook"]=25,
@@ -7866,7 +7868,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["mitwiva-garalon"]=6,
 	["mivic-shekzeer"]=7,
 	["mix-shekzeer"]=3,
-	["mizthx-shekzeer"]=12,
+	["mizthx-shekzeer"]=9,
 	["mjx-shekzeer"]=12,
 	["mlejnek-mirage-raceway"]=0,
 	["mmarkan-shekzeer"]=0,
@@ -8001,7 +8003,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["namaju-shekzeer"]=16,
 	["namasti-mirage-raceway"]=6,
 	["nameitdrood-shekzeer"]=3,
-	["names-hoptallus"]=3,
+	["names-hoptallus"]=11,
 	["naomia-shekzeer"]=9,
 	["naomiya-shekzeer"]=24,
 	["naoyà-shekzeer"]=15,
@@ -8437,6 +8439,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["plåýbót-shekzeer"]=7,
 	["plåýböt-shekzeer"]=2,
 	["plåýbøt-shekzeer"]=7,
+	["plâybøybûnny-shekzeer"]=20,
 	["playmop-shekzeer"]=17,
 	["plåýßøt-shekzeer"]=7,
 	["plmbeachpete-shekzeer"]=7,
@@ -8987,7 +8990,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["sigmaboyx-auberdine"]=1,
 	["signae-shekzeer"]=15,
 	["siid-mirage-raceway"]=34,
-	["siktirbar-shekzeer"]=20,
+	["siktirbar-shekzeer"]=14,
 	["sileya-shekzeer"]=2,
 	["silhöuétté-garalon"]=0,
 	["silibrion-shekzeer"]=21,

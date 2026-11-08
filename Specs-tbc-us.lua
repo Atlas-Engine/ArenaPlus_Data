@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9349 characters, read 2026-11-08 02:58 PM.
+-- Region tbc-us, 9349 characters, read 2026-11-08 03:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12395,7 +12395,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["glendaray-nightslayer"]=24,
 	["glexannick-nightslayer"]=4,
 	["gliich-nightslayer"]=16,
-	["glimps-nightslayer"]=1,
+	["glimps-nightslayer"]=14,
 	["glmfourseven-nightslayer"]=6,
 	["glockforty-nightslayer"]=19,
 	["glooe-nightslayer"]=1,
@@ -14212,7 +14212,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["maltomilk-nightslayer"]=11,
 	["malvinfresh-nightslayer"]=15,
 	["malzira-nightslayer"]=14,
-	["mámácitá-nightslayer"]=9,
+	["mámácitá-nightslayer"]=11,
 	["manamanager-nightslayer"]=1,
 	["manaproblemz-dreamscythe"]=10,
 	["manashiner-nightslayer"]=10,
@@ -17998,7 +17998,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["wakom-nightslayer"]=2,
 	["walalace-dreamscythe"]=7,
 	["waldo-nightslayer"]=8,
-	["walf-nightslayer"]=5,
+	["walf-nightslayer"]=8,
 	["walkendead-nightslayer"]=4,
 	["walkindead-nightslayer"]=13,
 	["walla-nightslayer"]=18,
