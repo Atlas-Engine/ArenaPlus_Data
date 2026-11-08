@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9594 characters, read 2026-11-08 01:44 PM.
+-- Region tbc-eu, 9594 characters, read 2026-11-08 02:34 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12608,7 +12608,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["granimafia-spineshatter"]=16,
 	["grashokk-thunderstrike"]=13,
 	["gratitu-spineshatter"]=2,
-	["grausig-spineshatter"]=9,
+	["grausig-spineshatter"]=4,
 	["gravicius-thunderstrike"]=11,
 	["gravitypro-spineshatter"]=11,
 	["greåzy-spineshatter"]=5,
@@ -14733,7 +14733,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["mimieux-spineshatter"]=10,
 	["mina-spineshatter"]=23,
 	["mincepiex-spineshatter"]=2,
-	["minð-thunderstrike"]=19,
+	["minð-thunderstrike"]=3,
 	["mindbloom-spineshatter"]=8,
 	["mindbunny-spineshatter"]=2,
 	["mïndcontrol-spineshatter"]=2,
@@ -18693,7 +18693,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["xaisty-spineshatter"]=9,
 	["xaistypriest-spineshatter"]=2,
 	["xaistyr-spineshatter"]=3,
-	["xaistyw-spineshatter"]=5,
+	["xaistyw-spineshatter"]=15,
 	["xála-thunderstrike"]=23,
 	["xalde-spineshatter"]=2,
 	["xálena-thunderstrike"]=11,
