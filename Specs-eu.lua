@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5360 characters, read 2026-11-07 09:00 PM.
+-- Region eu, 5361 characters, read 2026-11-07 10:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -262,6 +262,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["aptukxexe-shekzeer"]=11,
 	["apxangel-shekzeer"]=11,
 	["arabarb-ook-ook"]=20,
+	["arabicano-shekzeer"]=11,
 	["aram-everlook"]=10,
 	["aramorth-mirage-raceway"]=20,
 	["aramze-mirage-raceway"]=11,
@@ -3554,6 +3555,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["scryèr-garalon"]=100,
 	["scvrecrow-shekzeer"]=11,
 	["scychsietta-mirage-raceway"]=41,
+	["sddmhuss-shekzeer"]=11,
 	["sealedtome-shekzeer"]=11,
 	["sealswap-shekzeer"]=10,
 	["seaudpurin-shekzeer"]=41,
@@ -5386,7 +5388,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["aptukxexe-shekzeer"]=4,
 	["apxangel-shekzeer"]=5,
 	["arabarb-ook-ook"]=25,
-	["arabicano-shekzeer"]=0,
+	["arabicano-shekzeer"]=17,
 	["aram-everlook"]=26,
 	["aramorth-mirage-raceway"]=1,
 	["aramze-mirage-raceway"]=9,
@@ -8845,6 +8847,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["scryèr-garalon"]=24,
 	["scvrecrow-shekzeer"]=10,
 	["scychsietta-mirage-raceway"]=21,
+	["sddmhuss-shekzeer"]=5,
 	["sealedtome-shekzeer"]=23,
 	["sealswap-shekzeer"]=15,
 	["seaudpurin-shekzeer"]=3,

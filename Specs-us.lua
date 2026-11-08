@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5206 characters, read 2026-11-07 08:59 PM.
+-- Region us, 5206 characters, read 2026-11-07 09:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2143,7 +2143,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["infrared-pagle"]=41,
 	["infurryator-raden"]=40,
 	["injury-pagle"]=10,
-	["inkárri-arugal-au"]=10,
+	["inkárri-arugal-au"]=11,
 	["inmortalwar-raden"]=11,
 	["innoofirgize-raden"]=40,
 	["inorie-raden"]=41,
@@ -2247,6 +2247,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["jhøna-pagle"]=10,
 	["jhonparry-raden"]=11,
 	["jhussethy-raden"]=250,
+	["jimcramer-raden"]=41,
 	["jimin-raden"]=31,
 	["jimmyjunya-raden"]=10,
 	["jimmyklo-nazgrim"]=11,
@@ -5171,7 +5172,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["anikdote-raden"]=16,
 	["animalzx-lei-shen"]=17,
 	["anjurus-pagle"]=3,
-	["annatorius-pagle"]=16,
+	["annatorius-pagle"]=32,
 	["annecrawford-pagle"]=19,
 	["annikà-nazgrim"]=2,
 	["annoyinghunt-immerseus"]=20,
@@ -7309,7 +7310,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["jhøna-pagle"]=3,
 	["jhonparry-raden"]=10,
 	["jhussethy-raden"]=10,
-	["jimcramer-raden"]=0,
+	["jimcramer-raden"]=5,
 	["jimin-raden"]=19,
 	["jimmyjunya-raden"]=3,
 	["jimmyklo-nazgrim"]=11,

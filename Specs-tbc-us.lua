@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9349 characters, read 2026-11-07 08:58 PM.
+-- Region tbc-us, 9349 characters, read 2026-11-07 09:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12832,7 +12832,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["hogcaller-nightslayer"]=10,
 	["hogpom-nightslayer"]=1,
 	["hogseason-nightslayer"]=19,
-	["hoi-nightslayer"]=5,
+	["hoi-nightslayer"]=8,
 	["hoip-nightslayer"]=1,
 	["hokiep-nightslayer"]=1,
 	["holamigo-nightslayer"]=5,
@@ -17053,7 +17053,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["stormheralds-nightslayer"]=2,
 	["stormonks-nightslayer"]=19,
 	["stormtroopa-nightslayer"]=15,
-	["stormweener-dreamscythe"]=2,
+	["stormweener-dreamscythe"]=18,
 	["stormxy-nightslayer"]=10,
 	["stormydanels-nightslayer"]=24,
 	["stormytbc-nightslayer"]=22,
@@ -17171,7 +17171,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["swagjustice-nightslayer"]=7,
 	["swagmanlogz-nightslayer"]=14,
 	["swagxdudu-nightslayer"]=7,
-	["swagy-nightslayer"]=18,
+	["swagy-nightslayer"]=2,
 	["swanke-nightslayer"]=19,
 	["swdscript-nightslayer"]=12,
 	["sweatshack-nightslayer"]=15,
