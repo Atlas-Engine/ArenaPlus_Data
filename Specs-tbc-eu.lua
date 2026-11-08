@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9594 characters, read 2026-11-08 03:59 AM.
+-- Region tbc-eu, 9594 characters, read 2026-11-08 04:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10804,7 +10804,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["chlejtus-spineshatter"]=2,
 	["chloésterol-spineshatter"]=2,
 	["chocobolt-spineshatter"]=14,
-	["chocoshot-spineshatter"]=25,
+	["chocoshot-spineshatter"]=24,
 	["chocototem-spineshatter"]=23,
 	["choinklol-thunderstrike"]=15,
 	["chokz-spineshatter"]=3,
@@ -11924,7 +11924,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["ensmutsigren-spineshatter"]=17,
 	["ensore-spineshatter"]=2,
 	["entropi-spineshatter"]=13,
-	["envu-spineshatter"]=22,
+	["envu-spineshatter"]=5,
 	["envuu-spineshatter"]=11,
 	["envyo-spineshatter"]=2,
 	["envyspirit-spineshatter"]=17,
@@ -13636,7 +13636,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["keann-thunderstrike"]=8,
 	["keanucleaves-spineshatter"]=5,
 	["kebabbender-spineshatter"]=9,
-	["kebabguden-spineshatter"]=15,
+	["kebabguden-spineshatter"]=5,
 	["kebabkrampus-spineshatter"]=9,
 	["kebabludret-spineshatter"]=6,
 	["kebabnekaise-spineshatter"]=12,
