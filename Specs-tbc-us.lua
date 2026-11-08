@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9349 characters, read 2026-11-08 11:58 AM.
+-- Region tbc-us, 9349 characters, read 2026-11-08 12:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9739,7 +9739,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["baggdmilk-dreamscythe"]=7,
 	["bagototems-nightslayer"]=19,
 	["bagpacks-nightslayer"]=10,
-	["bailerz-dreamscythe"]=4,
+	["bailerz-dreamscythe"]=6,
 	["bainal-dreamscythe"]=1,
 	["baitosenshi-nightslayer"]=20,
 	["baiwuya-nightslayer"]=6,
@@ -9790,7 +9790,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bananapie-nightslayer"]=0,
 	["bananapwn-nightslayer"]=6,
 	["bananaseed-nightslayer"]=1,
-	["bananaslyp-nightslayer"]=2,
+	["bananaslyp-nightslayer"]=18,
 	["bananasorbet-nightslayer"]=0,
 	["bandageftw-nightslayer"]=1,
 	["bandai-dreamscythe"]=25,
@@ -13605,7 +13605,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["kiaree-nightslayer"]=5,
 	["kickerm-nightslayer"]=4,
 	["kigame-nightslayer"]=2,
-	["kiggzm-nightslayer"]=4,
+	["kiggzm-nightslayer"]=6,
 	["kiggzp-nightslayer"]=11,
 	["kiggzr-nightslayer"]=27,
 	["kiggzs-nightslayer"]=24,
@@ -18279,7 +18279,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["xiaoyuyu-nightslayer"]=2,
 	["xidi-nightslayer"]=5,
 	["xijingtwist-nightslayer"]=11,
-	["xingyunhu-nightslayer"]=1,
+	["xingyunhu-nightslayer"]=14,
 	["xinok-nightslayer"]=2,
 	["xitraxo-nightslayer"]=6,
 	["xixor-nightslayer"]=20,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9594 characters, read 2026-11-08 11:59 AM.
+-- Region tbc-eu, 9594 characters, read 2026-11-08 12:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11547,7 +11547,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["dosenbîer-spineshatter"]=1,
 	["dotahontas-spineshatter"]=18,
 	["dotdotdown-thunderstrike"]=18,
-	["dotgyneco-thunderstrike"]=14,
+	["dotgyneco-thunderstrike"]=18,
 	["dotinska-thunderstrike"]=13,
 	["dotlulzi-spineshatter"]=13,
 	["dotnèt-spineshatter"]=13,
@@ -13808,7 +13808,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["kneyy-thunderstrike"]=23,
 	["knîksou-spineshatter"]=17,
 	["knirpzz-thunderstrike"]=5,
-	["knôcknôck-thunderstrike"]=3,
+	["knôcknôck-thunderstrike"]=19,
 	["knokzville-spineshatter"]=23,
 	["knownfeeder-spineshatter"]=25,
 	["knoxlol-spineshatter"]=3,
@@ -14733,7 +14733,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["mimieux-spineshatter"]=10,
 	["mina-spineshatter"]=23,
 	["mincepiex-spineshatter"]=2,
-	["minð-thunderstrike"]=3,
+	["minð-thunderstrike"]=19,
 	["mindbloom-spineshatter"]=8,
 	["mindbunny-spineshatter"]=2,
 	["mïndcontrol-spineshatter"]=2,

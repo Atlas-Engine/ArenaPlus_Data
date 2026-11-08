@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5367 characters, read 2026-11-08 12:00 PM.
+-- Region eu, 5369 characters, read 2026-11-08 01:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4656,7 +4656,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["ywee-shekzeer"]=111,
 	["yxan-norushen"]=21,
 	["yzagûy-auberdine"]=10,
-	["zabir-everlook"]=11,
+	["zabir-everlook"]=10,
 	["zabrinkov-shekzeer"]=11,
 	["zaelita-shekzeer"]=41,
 	["zaelitwo-shekzeer"]=41,
@@ -5407,6 +5407,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["archibald-hoptallus"]=9,
 	["archïchouett-shekzeer"]=2,
 	["archytect-shekzeer"]=3,
+	["ardasmage-mirage-raceway"]=0,
 	["areess-shekzeer"]=1,
 	["arhma-shekzeer"]=1,
 	["arianagrañde-shekzeer"]=2,
@@ -7648,6 +7649,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["machtû-shekzeer"]=4,
 	["macid-mirage-raceway"]=6,
 	["mackansdad-garalon"]=4,
+	["madapasaax-shekzeer"]=0,
 	["madaurmada-shekzeer"]=3,
 	["madaurpapa-shekzeer"]=3,
 	["maddiganxo-shekzeer"]=11,
@@ -10006,7 +10008,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["yxan-norushen"]=25,
 	["yzagûy-auberdine"]=15,
 	["zabava-shekzeer"]=0,
-	["zabir-everlook"]=14,
+	["zabir-everlook"]=4,
 	["zabrinkov-shekzeer"]=4,
 	["zaelita-shekzeer"]=3,
 	["zaelitwo-shekzeer"]=11,
