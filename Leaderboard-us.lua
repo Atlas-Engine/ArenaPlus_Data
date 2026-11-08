@@ -18,7 +18,7 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region us, season 14, read 2026-11-08 04:59 PM.
+-- Region us, season 14, read 2026-11-08 05:59 PM.
 -- Realm display names, because the ladder only carries slugs and no rule
 -- turns one back into the other: raden is Ra-den, lei-shen is Lei Shen and
 -- arugal-au is Arugal (AU). Read from Blizzard's realm index; a slug with no
@@ -35,8 +35,8 @@ ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["us"] = {
 	region  = "us",
-	checked = "2026-11-08 04:59 PM",
-	checkedEpoch = 1794175169,
+	checked = "2026-11-08 05:59 PM",
+	checkedEpoch = 1794178770,
 	snapshot = "2026-11-08 21:16",
 
 	[1] = {  -- 2v2, 5007 places, down to rating 1135 -- the API stops here, short of the cutoff
@@ -310,11 +310,11 @@ ns.LEADERBOARD_BY_REGION["us"] = {
 		{ rank=267, name="Richard", realm="raden", rating=2385, won=72, lost=59, faction="ALLIANCE", dr=0, dk=6 },
 		{ rank=269, name="Babycool", realm="raden", rating=2383, won=119, lost=83, faction="ALLIANCE", dr=0, dk=6 },
 		{ rank=270, name="Evilchicken", realm="raden", rating=2379, won=175, lost=141, faction="ALLIANCE", dr=0, dk=6 },
+		{ rank=270, name="Kartika", realm="raden", rating=2379, won=565, lost=502, faction="ALLIANCE", mr=2463, dr=1, dk=1 },
 		{ rank=270, name="Mòónfirebeam", realm="raden", rating=2379, won=172, lost=149, faction="ALLIANCE", dr=0, dk=6 },
 		{ rank=270, name="Unphasedx", realm="raden", rating=2379, won=97, lost=88, faction="ALLIANCE", dr=0, dk=6 },
-		{ rank=273, name="Bistwo", realm="pagle", rating=2378, won=110, lost=81, faction="ALLIANCE", dr=0, dk=4 },
-		{ rank=274, name="Nanslayer", realm="raden", rating=2377, won=75, lost=59, faction="ALLIANCE", dr=0, dk=3 },
-		{ rank=275, name="Kartika", realm="raden", rating=2375, won=564, lost=502, faction="ALLIANCE", mr=2463, dr=-3, dk=6 },
+		{ rank=274, name="Bistwo", realm="pagle", rating=2378, won=110, lost=81, faction="ALLIANCE", dr=0, dk=5 },
+		{ rank=275, name="Nanslayer", realm="raden", rating=2377, won=75, lost=59, faction="ALLIANCE", dr=0, dk=4 },
 		{ rank=276, name="Damacus", realm="raden", rating=2374, won=150, lost=122, faction="ALLIANCE", dr=0, dk=2 },
 		{ rank=277, name="Ashkaash", realm="raden", rating=2373, won=160, lost=129, faction="ALLIANCE", mr=2380, dr=0, dk=2 },
 		{ rank=277, name="Fellixthecat", realm="pagle", rating=2373, won=202, lost=169, faction="ALLIANCE", dr=0, dk=2 },

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9349 characters, read 2026-11-08 04:58 PM.
+-- Region tbc-us, 9349 characters, read 2026-11-08 05:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11027,7 +11027,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["dagermrana-nightslayer"]=15,
 	["daggerino-nightslayer"]=8,
 	["daggerpants-nightslayer"]=0,
-	["dagmedic-nightslayer"]=1,
+	["dagmedic-nightslayer"]=14,
 	["dahab-nightslayer"]=8,
 	["daiga-nightslayer"]=5,
 	["daisydeadly-dreamscythe"]=5,
@@ -11942,7 +11942,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["fdps-nightslayer"]=3,
 	["feardumægua-nightslayer"]=16,
 	["fearhand-nightslayer"]=12,
-	["fearkíll-nightslayer"]=1,
+	["fearkíll-nightslayer"]=14,
 	["fearnoob-nightslayer"]=1,
 	["fearpugs-dreamscythe"]=16,
 	["fearwardgg-nightslayer"]=1,
@@ -17637,7 +17637,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["tuckyoursack-nightslayer"]=5,
 	["tuffbunny-nightslayer"]=1,
 	["tuggyman-dreamscythe"]=11,
-	["tuggys-nightslayer"]=2,
+	["tuggys-nightslayer"]=18,
 	["tuht-nightslayer"]=2,
 	["tuhty-nightslayer"]=22,
 	["tukx-nightslayer"]=2,
