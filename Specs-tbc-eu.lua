@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9594 characters, read 2026-11-07 05:24 PM.
+-- Region tbc-eu, 9596 characters, read 2026-11-07 06:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5545,6 +5545,7 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["nást-thunderstrike"]=101,
 	["nasteale-spineshatter"]=50,
 	["nastrid-spineshatter"]=11,
+	["nastycarrote-spineshatter"]=51,
 	["nataliemars-spineshatter"]=21,
 	["nate-spineshatter"]=11,
 	["nathux-spineshatter"]=50,
@@ -8115,6 +8116,7 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["tariic-spineshatter"]=70,
 	["tartiflettes-spineshatter"]=111,
 	["tasdmerd-spineshatter"]=50,
+	["tastyapples-spineshatter"]=60,
 	["tastykrousty-spineshatter"]=70,
 	["tatabrox-spineshatter"]=61,
 	["tatlos-spineshatter"]=50,
@@ -10899,7 +10901,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["clones-spineshatter"]=6,
 	["clörox-spineshatter"]=1,
 	["clownhair-spineshatter"]=13,
-	["clozapine-spineshatter"]=19,
+	["clozapine-spineshatter"]=3,
 	["clozè-thunderstrike"]=3,
 	["cnidr-spineshatter"]=1,
 	["cñsr-spineshatter"]=8,
@@ -13305,7 +13307,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["jasse-spineshatter"]=9,
 	["jastemma-spineshatter"]=8,
 	["jauhojutku-thunderstrike"]=2,
-	["jausie-spineshatter"]=2,
+	["jausie-spineshatter"]=17,
 	["jausiebis-spineshatter"]=2,
 	["java-spineshatter"]=6,
 	["javlafyfan-spineshatter"]=1,
@@ -15085,6 +15087,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["nást-thunderstrike"]=10,
 	["nasteale-spineshatter"]=3,
 	["nastrid-spineshatter"]=13,
+	["nastycarrote-spineshatter"]=3,
 	["nataliemars-spineshatter"]=5,
 	["nate-spineshatter"]=13,
 	["nathux-spineshatter"]=3,
@@ -17695,6 +17698,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["tariic-spineshatter"]=9,
 	["tartiflettes-spineshatter"]=12,
 	["tasdmerd-spineshatter"]=3,
+	["tastyapples-spineshatter"]=20,
 	["tastykrousty-spineshatter"]=5,
 	["tatabrox-spineshatter"]=6,
 	["tatlos-spineshatter"]=9,
@@ -18082,7 +18086,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["tsirbula-spineshatter"]=15,
 	["tsmanrammer-thunderstrike"]=23,
 	["tsr-spineshatter"]=5,
-	["tsukiyou-thunderstrike"]=2,
+	["tsukiyou-thunderstrike"]=8,
 	["tsukopriest-spineshatter"]=8,
 	["tsunarih-spineshatter"]=5,
 	["tszz-spineshatter"]=2,

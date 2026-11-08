@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5358 characters, read 2026-11-07 06:00 PM.
+-- Region eu, 5360 characters, read 2026-11-07 07:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1290,6 +1290,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["facemaskxoxo-shekzeer"]=11,
 	["faelivryn-ook-ook"]=41,
 	["fær-shekzeer"]=41,
+	["fair-mirage-raceway"]=11,
 	["faithful-everlook"]=11,
 	["fakekickqt-everlook"]=11,
 	["fakenurse-shekzeer"]=41,
@@ -3506,7 +3507,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["sandzakpowaa-shekzeer"]=10,
 	["sangore-auberdine"]=21,
 	["saowa-shekzeer"]=41,
-	["sapmere-auberdine"]=10,
+	["sapmere-auberdine"]=11,
 	["sapsapkill-mirage-raceway"]=10,
 	["sapurnan-shekzeer"]=50,
 	["sarå-norushen"]=51,
@@ -4863,6 +4864,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["Вэйдэм-flamegor"]=220,
 	["Вэрш-flamegor"]=21,
 	["Вялыйжрец-flamegor"]=11,
+	["Вялыйкот-flamegor"]=40,
 	["Вялыйпал-flamegor"]=10,
 	["Вялыйпаладин-flamegor"]=10,
 	["Вялыйхант-flamegor"]=11,
@@ -6457,6 +6459,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["facemaskxoxo-shekzeer"]=6,
 	["faelivryn-ook-ook"]=9,
 	["fær-shekzeer"]=9,
+	["fair-mirage-raceway"]=24,
 	["faithful-everlook"]=17,
 	["fakekickqt-everlook"]=5,
 	["fakenurse-shekzeer"]=9,
@@ -10209,6 +10212,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Вэйдэм-flamegor"]=11,
 	["Вэрш-flamegor"]=4,
 	["Вялыйжрец-flamegor"]=9,
+	["Вялыйкот-flamegor"]=11,
 	["Вялыйпал-flamegor"]=15,
 	["Вялыйпаладин-flamegor"]=15,
 	["Вялыйхант-flamegor"]=20,
