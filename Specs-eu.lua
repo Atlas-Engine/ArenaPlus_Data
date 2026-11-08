@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5367 characters, read 2026-11-08 10:00 AM.
+-- Region eu, 5367 characters, read 2026-11-08 11:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2742,7 +2742,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["nakalidøg-shekzeer"]=41,
 	["nalâa-everlook"]=41,
 	["nalix-shekzeer"]=41,
-	["namaju-shekzeer"]=31,
+	["namaju-shekzeer"]=30,
 	["namasti-mirage-raceway"]=261,
 	["nameitdrood-shekzeer"]=41,
 	["names-hoptallus"]=221,
@@ -6979,7 +6979,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["ibiza-mirage-raceway"]=1,
 	["icanfly-everlook"]=1,
 	["icantplay-shekzeer"]=1,
-	["icantrap-shekzeer"]=4,
+	["icantrap-shekzeer"]=20,
 	["ice-hoptallus"]=5,
 	["iceagentx-shekzeer"]=26,
 	["iceclown-shekzeer"]=8,
@@ -7995,7 +7995,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["nakalidøg-shekzeer"]=9,
 	["nalâa-everlook"]=3,
 	["nalix-shekzeer"]=3,
-	["namaju-shekzeer"]=13,
+	["namaju-shekzeer"]=16,
 	["namasti-mirage-raceway"]=6,
 	["nameitdrood-shekzeer"]=3,
 	["names-hoptallus"]=3,

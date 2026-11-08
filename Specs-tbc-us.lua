@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9349 characters, read 2026-11-08 09:58 AM.
+-- Region tbc-us, 9349 characters, read 2026-11-08 10:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -14346,7 +14346,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["meganfrostx-nightslayer"]=6,
 	["megaphone-nightslayer"]=4,
 	["megasaur-nightslayer"]=2,
-	["mêgumîn-nightslayer"]=6,
+	["mêgumîn-nightslayer"]=4,
 	["meilleur-nightslayer"]=1,
 	["meineschatz-dreamscythe"]=15,
 	["mekimeij-nightslayer"]=4,
@@ -14633,7 +14633,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["moritwotoe-nightslayer"]=2,
 	["mork-nightslayer"]=18,
 	["moroto-nightslayer"]=19,
-	["morralla-nightslayer"]=17,
+	["morralla-nightslayer"]=15,
 	["morrey-nightslayer"]=4,
 	["morreymagus-nightslayer"]=6,
 	["mortsubite-nightslayer"]=8,
@@ -14710,7 +14710,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["mysticalpoly-nightslayer"]=6,
 	["mysticalsham-nightslayer"]=24,
 	["mysticpriest-nightslayer"]=14,
-	["mystt-nightslayer"]=6,
+	["mystt-nightslayer"]=4,
 	["mythhunter-nightslayer"]=15,
 	["mywifeisaguy-nightslayer"]=18,
 	["mzw-dreamscythe"]=18,
