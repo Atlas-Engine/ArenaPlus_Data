@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5212 characters, read 2026-11-08 10:54 AM.
+-- Region us, 5212 characters, read 2026-11-08 11:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5851,7 +5851,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["cochonhalal-pagle"]=16,
 	["codiplay-pagle"]=11,
 	["codywithak-raden"]=7,
-	["codyxd-pagle"]=16,
+	["codyxd-pagle"]=2,
 	["coffinrot-pagle"]=1,
 	["cohenx-pagle"]=16,
 	["cohenxx-pagle"]=16,
@@ -6401,7 +6401,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["eltoromu-nazgrim"]=5,
 	["elusivenes-raden"]=29,
 	["eluulttv-raden"]=10,
-	["eluveth-pagle"]=21,
+	["eluveth-pagle"]=9,
 	["elvius-raden"]=7,
 	["elyä-pagle"]=16,
 	["elyandris-raden"]=4,
@@ -6646,7 +6646,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["frenzywinz-raden"]=6,
 	["freskahjr-arugal-au"]=7,
 	["freskahx-arugal-au"]=7,
-	["frickedup-galakras"]=23,
+	["frickedup-galakras"]=7,
 	["friesx-pagle"]=21,
 	["friskees-immerseus"]=4,
 	["frobebryant-raden"]=31,
@@ -8512,7 +8512,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["pimen-pagle"]=1,
 	["pinchivato-immerseus"]=17,
 	["pinguen-pagle"]=0,
-	["pinguisulina-galakras"]=14,
+	["pinguisulina-galakras"]=29,
 	["pinkdreads-pagle"]=12,
 	["pinkfinder-pagle"]=21,
 	["pinkfiregg-pagle"]=10,
