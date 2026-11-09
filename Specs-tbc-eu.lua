@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9596 characters, read 2026-11-09 01:54 AM.
+-- Region tbc-eu, 9596 characters, read 2026-11-09 02:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10995,7 +10995,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["cozypanda-spineshatter"]=1,
 	["cps-spineshatter"]=5,
 	["cptncarrot-spineshatter"]=2,
-	["cptnjack-spineshatter"]=2,
+	["cptnjack-spineshatter"]=17,
 	["cptnpickle-spineshatter"]=3,
 	["craabzx-spineshatter"]=3,
 	["crabride-spineshatter"]=22,
@@ -11598,7 +11598,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["drangx-spineshatter"]=11,
 	["drasting-spineshatter"]=18,
 	["drätx-spineshatter"]=5,
-	["dratzer-spineshatter"]=3,
+	["dratzer-spineshatter"]=19,
 	["draxshh-spineshatter"]=12,
 	["drazzerio-spineshatter"]=9,
 	["drbartfratzé-spineshatter"]=5,
@@ -12794,7 +12794,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["healdyf-spineshatter"]=0,
 	["hèáler-spineshatter"]=1,
 	["healingdogg-spineshatter"]=2,
-	["healmørtel-spineshatter"]=20,
+	["healmørtel-spineshatter"]=1,
 	["healofnie-spineshatter"]=10,
 	["healonmuskx-thunderstrike"]=1,
 	["healthcheck-spineshatter"]=0,
@@ -15470,7 +15470,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["ohw-spineshatter"]=11,
 	["oînk-spineshatter"]=12,
 	["ojakhuri-spineshatter"]=14,
-	["okaja-spineshatter"]=5,
+	["okaja-spineshatter"]=15,
 	["okizeme-spineshatter"]=2,
 	["okratæsk-spineshatter"]=5,
 	["oksekraft-spineshatter"]=0,
