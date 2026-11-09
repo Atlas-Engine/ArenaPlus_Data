@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9350 characters, read 2026-11-08 09:58 PM.
+-- Region tbc-us, 9350 characters, read 2026-11-08 10:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -8345,6 +8345,7 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["twisttax-nightslayer"]=100,
 	["twistybussin-nightslayer"]=10,
 	["twistypete-nightslayer"]=111,
+	["twitchbabztv-nightslayer"]=11,
 	["twjinsun-nightslayer"]=20,
 	["twochomps-nightslayer"]=41,
 	["twodeep-nightslayer"]=80,
@@ -13870,7 +13871,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["lemarky-nightslayer"]=1,
 	["lemonaid-nightslayer"]=22,
 	["lemoncherrý-nightslayer"]=5,
-	["lemonjack-nightslayer"]=9,
+	["lemonjack-nightslayer"]=11,
 	["lemonn-nightslayer"]=10,
 	["leozap-dreamscythe"]=5,
 	["leshdru-nightslayer"]=7,
@@ -14852,7 +14853,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["neytïrï-dreamscythe"]=7,
 	["nezhra-dreamscythe"]=2,
 	["nezn-nightslayer"]=6,
-	["nezrul-dreamscythe"]=10,
+	["nezrul-dreamscythe"]=19,
 	["nezyra-dreamscythe"]=1,
 	["nezzy-nightslayer"]=10,
 	["nfmarksman-nightslayer"]=15,
@@ -15130,7 +15131,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["onfarm-nightslayer"]=2,
 	["onimpulse-nightslayer"]=10,
 	["onionrangs-nightslayer"]=1,
-	["onit-nightslayer"]=7,
+	["onit-nightslayer"]=3,
 	["oniyo-nightslayer"]=16,
 	["onlybakshotz-nightslayer"]=5,
 	["Ønlyfears-nightslayer"]=1,
@@ -17683,7 +17684,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["twisttax-nightslayer"]=25,
 	["twistybussin-nightslayer"]=25,
 	["twistypete-nightslayer"]=19,
-	["twitchbabztv-nightslayer"]=0,
+	["twitchbabztv-nightslayer"]=5,
 	["twjinsun-nightslayer"]=17,
 	["twobans-nightslayer"]=0,
 	["twochomps-nightslayer"]=7,
