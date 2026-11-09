@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5208 characters, read 2026-11-09 04:59 PM.
+-- Region us, 5208 characters, read 2026-11-09 05:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2447,7 +2447,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["klept-raden"]=10,
 	["knockoutdt-pagle"]=11,
 	["knottypawz-pagle"]=41,
-	["knuckles-pagle"]=11,
+	["knuckles-pagle"]=10,
 	["knucklès-pagle"]=11,
 	["knucklës-pagle"]=11,
 	["knûckles-pagle"]=41,
@@ -5752,7 +5752,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["chambeazley-pagle"]=2,
 	["chamboyswag-nazgrim"]=19,
 	["champlock-raden"]=28,
-	["champmage-raden"]=31,
+	["champmage-raden"]=1,
 	["chaoscrittv-pagle"]=2,
 	["chaoscutie-galakras"]=24,
 	["chaôss-pagle"]=5,
@@ -5760,7 +5760,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["chaossy-pagle"]=24,
 	["chaotichunts-galakras"]=0,
 	["chaoticrush-lei-shen"]=24,
-	["charleez-nazgrim"]=21,
+	["charleez-nazgrim"]=9,
 	["charruesal-raden"]=3,
 	["chathdria-nazgrim"]=9,
 	["chaturbater-pagle"]=14,
@@ -9993,7 +9993,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["wog-raden"]=16,
 	["wogonomics-pagle"]=2,
 	["wogxd-pagle"]=2,
-	["wokelikethis-pagle"]=5,
+	["wokelikethis-pagle"]=12,
 	["woland-raden"]=7,
 	["wolfdeathh-raden"]=6,
 	["wolfhunter-pagle"]=20,
