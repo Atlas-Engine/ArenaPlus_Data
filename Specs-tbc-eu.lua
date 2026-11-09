@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9595 characters, read 2026-11-09 02:59 PM.
+-- Region tbc-eu, 9594 characters, read 2026-11-09 03:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3122,7 +3122,6 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["grimmorc-spineshatter"]=21,
 	["grimmwut-spineshatter"]=10,
 	["grimpanzer-spineshatter"]=60,
-	["grimroll-thunderstrike"]=20,
 	["grimsheepér-spineshatter"]=50,
 	["grimzugg-spineshatter"]=20,
 	["gripen-spineshatter"]=21,
@@ -7242,7 +7241,6 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["shadeshifter-spineshatter"]=61,
 	["shadeunc-spineshatter"]=50,
 	["shadixx-spineshatter"]=70,
-	["shadjinn-thunderstrike"]=81,
 	["shadowchel-spineshatter"]=81,
 	["shadowdanz-spineshatter"]=71,
 	["shadowfox-spineshatter"]=51,
@@ -7671,6 +7669,7 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["solomoonz-spineshatter"]=81,
 	["sølvøx-spineshatter"]=51,
 	["somme-spineshatter"]=60,
+	["sonickon-thunderstrike"]=10,
 	["sønnyx-spineshatter"]=21,
 	["sonnyxx-spineshatter"]=41,
 	["sonofkatik-spineshatter"]=71,
@@ -12632,7 +12631,6 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["grimmorc-spineshatter"]=15,
 	["grimmwut-spineshatter"]=14,
 	["grimpanzer-spineshatter"]=6,
-	["grimroll-thunderstrike"]=5,
 	["grimsheepér-spineshatter"]=4,
 	["grimzugg-spineshatter"]=12,
 	["gripen-spineshatter"]=13,
@@ -16760,7 +16758,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["sendaren-spineshatter"]=2,
 	["sendbruv-spineshatter"]=18,
 	["sendìng-spineshatter"]=9,
-	["seniks-thunderstrike"]=25,
+	["seniks-thunderstrike"]=24,
 	["senikss-thunderstrike"]=5,
 	["senilion-thunderstrike"]=7,
 	["senja-spineshatter"]=1,
@@ -16808,7 +16806,6 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["shadeshifter-spineshatter"]=1,
 	["shadeunc-spineshatter"]=9,
 	["shadixx-spineshatter"]=9,
-	["shadjinn-thunderstrike"]=2,
 	["shadowchel-spineshatter"]=8,
 	["shadowdanz-spineshatter"]=13,
 	["shadowfox-spineshatter"]=8,
@@ -17246,6 +17243,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["solomoonz-spineshatter"]=9,
 	["sølvøx-spineshatter"]=13,
 	["somme-spineshatter"]=1,
+	["sonickon-thunderstrike"]=3,
 	["sønnyx-spineshatter"]=13,
 	["sonnyxx-spineshatter"]=1,
 	["sonofkatik-spineshatter"]=9,
@@ -17508,7 +17506,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["stungød-spineshatter"]=19,
 	["stungødx-spineshatter"]=3,
 	["stunmeme-thunderstrike"]=3,
-	["stupidänimal-spineshatter"]=3,
+	["stupidänimal-spineshatter"]=19,
 	["stupidcow-spineshatter"]=1,
 	["stupidfool-spineshatter"]=3,
 	["stupidoz-spineshatter"]=15,
@@ -19126,7 +19124,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["Сережкабулат-anniversary"]=1,
 	["Сквейл-anniversary"]=25,
 	["Сократ-anniversary"]=5,
-	["Тамплиер-anniversary"]=3,
+	["Тамплиер-anniversary"]=19,
 	["Фалстад-anniversary"]=25,
 	["Юсинк-anniversary"]=3,
 }
