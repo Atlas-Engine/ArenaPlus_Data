@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9349 characters, read 2026-11-09 03:58 AM.
+-- Region tbc-us, 9349 characters, read 2026-11-09 04:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12377,7 +12377,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["gingerless-dreamscythe"]=15,
 	["ginnaginn-nightslayer"]=15,
 	["ginnr-nightslayer"]=11,
-	["ginoh-nightslayer"]=4,
+	["ginoh-nightslayer"]=6,
 	["giovo-nightslayer"]=19,
 	["gip-nightslayer"]=7,
 	["gipples-nightslayer"]=1,
@@ -14605,7 +14605,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["mookoocowboy-nightslayer"]=3,
 	["moolu-nightslayer"]=3,
 	["moonbadger-nightslayer"]=7,
-	["moonbeamm-nightslayer"]=7,
+	["moonbeamm-nightslayer"]=3,
 	["moondragoon-nightslayer"]=19,
 	["moonfirelawl-nightslayer"]=7,
 	["moonliggthh-nightslayer"]=24,
@@ -15032,7 +15032,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["oaktotems-nightslayer"]=19,
 	["oasli-nightslayer"]=6,
 	["oaty-nightslayer"]=1,
-	["obamaa-dreamscythe"]=9,
+	["obamaa-dreamscythe"]=25,
 	["obesemoron-nightslayer"]=2,
 	["oblivionwing-dreamscythe"]=12,
 	["obnoxiuzz-nightslayer"]=15,
@@ -16705,7 +16705,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["sllan-nightslayer"]=13,
 	["sloanz-nightslayer"]=6,
 	["slooshys-dreamscythe"]=6,
-	["slooter-dreamscythe"]=2,
+	["slooter-dreamscythe"]=18,
 	["slopnastyhot-dreamscythe"]=7,
 	["slothcam-nightslayer"]=6,
 	["slothmoo-nightslayer"]=7,
@@ -17551,7 +17551,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["tøst-nightslayer"]=7,
 	["totalanimal-nightslayer"]=4,
 	["tøte-nightslayer"]=10,
-	["totemchubby-nightslayer"]=10,
+	["totemchubby-nightslayer"]=19,
 	["totemjuju-nightslayer"]=19,
 	["totemluvr-nightslayer"]=10,
 	["totemskoro-nightslayer"]=19,
@@ -17815,7 +17815,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["vanderden-nightslayer"]=2,
 	["vandriel-nightslayer"]=2,
 	["vanhoutte-nightslayer"]=2,
-	["vanillajuice-dreamscythe"]=18,
+	["vanillajuice-dreamscythe"]=2,
 	["vanishbrb-nightslayer"]=5,
 	["vanishh-nightslayer"]=8,
 	["vanishxoxo-nightslayer"]=14,
