@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5368 characters, read 2026-11-09 09:00 AM.
+-- Region eu, 5368 characters, read 2026-11-09 10:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2049,7 +2049,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["kásúxøxø-shekzeer"]=11,
 	["kasuxoxomayw-garalon"]=21,
 	["katatafisch-shekzeer"]=10,
-	["katkota-shekzeer"]=11,
 	["kâto-shekzeer"]=10,
 	["katoshi-garalon"]=50,
 	["katoyui-garalon"]=21,
@@ -7263,7 +7262,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["kásúxøxø-shekzeer"]=4,
 	["kasuxoxomayw-garalon"]=4,
 	["katatafisch-shekzeer"]=7,
-	["katkota-shekzeer"]=2,
+	["katkota-shekzeer"]=0,
 	["kâto-shekzeer"]=1,
 	["katoshi-garalon"]=23,
 	["katoyui-garalon"]=26,
@@ -9449,7 +9448,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["totrëkk-shekzeer"]=5,
 	["touchofnick-mirage-raceway"]=6,
 	["toxicboy-mirage-raceway"]=26,
-	["toxicelitist-shekzeer"]=22,
+	["toxicelitist-shekzeer"]=9,
 	["toxicfuz-garalon"]=6,
 	["toxiqkid-shekzeer"]=1,
 	["tpriestlx-shekzeer"]=12,

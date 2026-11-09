@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9596 characters, read 2026-11-09 08:59 AM.
+-- Region tbc-eu, 9595 characters, read 2026-11-09 09:44 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6041,7 +6041,6 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["oxeh-spineshatter"]=20,
 	["Øxel-spineshatter"]=31,
 	["oxidizer-spineshatter"]=50,
-	["oxij-spineshatter"]=21,
 	["oxxyguen-spineshatter"]=20,
 	["oxyh-spineshatter"]=30,
 	["ozael-spineshatter"]=50,
@@ -9607,7 +9606,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["afhn-spineshatter"]=5,
 	["afjea-spineshatter"]=9,
 	["afrøløck-spineshatter"]=13,
-	["agaj-thunderstrike"]=3,
+	["agaj-thunderstrike"]=19,
 	["aggaa-spineshatter"]=20,
 	["aggaali-spineshatter"]=5,
 	["aggrobaatti-spineshatter"]=9,
@@ -9849,8 +9848,8 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["arísé-spineshatter"]=15,
 	["Ârise-thunderstrike"]=2,
 	["arlondiaz-spineshatter"]=3,
-	["armadá-thunderstrike"]=5,
-	["armandi-spineshatter"]=7,
+	["armadá-thunderstrike"]=15,
+	["armandi-spineshatter"]=26,
 	["armønie-spineshatter"]=8,
 	["armonix-spineshatter"]=5,
 	["arnah-spineshatter"]=2,
@@ -15592,7 +15591,6 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["oxeh-spineshatter"]=12,
 	["Øxel-spineshatter"]=2,
 	["oxidizer-spineshatter"]=8,
-	["oxij-spineshatter"]=5,
 	["oxxyguen-spineshatter"]=18,
 	["oxyh-spineshatter"]=8,
 	["ozael-spineshatter"]=2,

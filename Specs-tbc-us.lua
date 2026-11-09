@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9349 characters, read 2026-11-09 08:58 AM.
+-- Region tbc-us, 9349 characters, read 2026-11-09 09:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9337,7 +9337,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["adrenalines-nightslayer"]=6,
 	["adrianoce-nightslayer"]=11,
 	["adrraa-nightslayer"]=12,
-	["adsy-nightslayer"]=1,
+	["adsy-nightslayer"]=12,
 	["adubzs-nightslayer"]=6,
 	["advo-dreamscythe"]=3,
 	["aedor-dreamscythe"]=2,
@@ -9849,7 +9849,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bazook-nightslayer"]=13,
 	["bazooko-nightslayer"]=1,
 	["bazrael-nightslayer"]=13,
-	["bbangzz-dreamscythe"]=15,
+	["bbangzz-dreamscythe"]=17,
 	["bbqbulgogi-nightslayer"]=2,
 	["bbqsawz-dreamscythe"]=2,
 	["bbubbleboi-nightslayer"]=11,
@@ -14772,7 +14772,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["navyrobot-nightslayer"]=19,
 	["nawandorder-nightslayer"]=15,
 	["nayate-nightslayer"]=5,
-	["nazgara-dreamscythe"]=1,
+	["nazgara-dreamscythe"]=14,
 	["nazgarr-nightslayer"]=10,
 	["nazgrath-nightslayer"]=18,
 	["nazguard-nightslayer"]=9,
