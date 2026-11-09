@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9596 characters, read 2026-11-09 06:59 AM.
+-- Region tbc-eu, 9596 characters, read 2026-11-09 07:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -14139,7 +14139,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["lifebro-spineshatter"]=1,
 	["lifeburst-spineshatter"]=1,
 	["lifou-spineshatter"]=23,
-	["liftkingz-spineshatter"]=5,
+	["liftkingz-spineshatter"]=15,
 	["lightcringe-thunderstrike"]=2,
 	["lighttaker-spineshatter"]=26,
 	["lihvan-spineshatter"]=19,
@@ -16225,7 +16225,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["ratapai-spineshatter"]=2,
 	["ratherlie-spineshatter"]=2,
 	["ratmän-spineshatter"]=7,
-	["rattenhals-thunderstrike"]=2,
+	["rattenhals-thunderstrike"]=8,
 	["rattigeoide-spineshatter"]=11,
 	["raugaj-spineshatter"]=9,
 	["rauul-spineshatter"]=9,
@@ -16718,7 +16718,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["screepér-thunderstrike"]=13,
 	["screpy-spineshatter"]=5,
 	["scríptkìd-spineshatter"]=3,
-	["scriptx-thunderstrike"]=11,
+	["scriptx-thunderstrike"]=12,
 	["scubadee-spineshatter"]=3,
 	["scullylalala-spineshatter"]=10,
 	["seabrookd-spineshatter"]=20,
@@ -18389,7 +18389,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["viganon-spineshatter"]=15,
 	["vihunt-spineshatter"]=25,
 	["viiksikeijo-spineshatter"]=13,
-	["viissataa-spineshatter"]=4,
+	["viissataa-spineshatter"]=9,
 	["vikaan-thunderstrike"]=7,
 	["vikan-thunderstrike"]=3,
 	["vildx-thunderstrike"]=9,

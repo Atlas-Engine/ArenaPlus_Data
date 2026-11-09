@@ -18,7 +18,7 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region eu, season 14, read 2026-11-09 07:00 AM.
+-- Region eu, season 14, read 2026-11-09 08:00 AM.
 -- Realm display names, because the ladder only carries slugs and no rule
 -- turns one back into the other: raden is Ra-den, lei-shen is Lei Shen and
 -- arugal-au is Arugal (AU). Read from Blizzard's realm index; a slug with no
@@ -34,8 +34,8 @@ ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["eu"] = {
 	region  = "eu",
-	checked = "2026-11-09 07:00 AM",
-	checkedEpoch = 1794225606,
+	checked = "2026-11-09 08:00 AM",
+	checkedEpoch = 1794229207,
 	snapshot = "2026-11-09 11:13",
 
 	[1] = {  -- 2v2, 5009 places, down to rating 1049 -- the API stops here, short of the cutoff
@@ -102,8 +102,8 @@ ns.LEADERBOARD_BY_REGION["eu"] = {
 		{ rank=60, name="Unknowx", realm="shekzeer", rating=2653, won=81, lost=33, faction="ALLIANCE", dr=0, dk=0 },
 		{ rank=62, name="Væh", realm="shekzeer", rating=2648, won=235, lost=171, faction="ALLIANCE", dr=0, dk=0 },
 		{ rank=63, name="Osx", realm="shekzeer", rating=2647, won=207, lost=97, faction="ALLIANCE", mr=2671, dr=0, dk=-1 },
-		{ rank=64, name="Plushy", realm="shekzeer", rating=2644, won=131, lost=55, faction="ALLIANCE", dr=8, dk=-6 },
-		{ rank=64, name="Wheelkick", realm="shekzeer", rating=2644, won=223, lost=136, faction="ALLIANCE", mr=2658, dr=6, dk=-5 },
+		{ rank=64, name="Wheelkick", realm="shekzeer", rating=2645, won=224, lost=136, faction="ALLIANCE", mr=2658, dr=7, dk=-5 },
+		{ rank=65, name="Plushy", realm="shekzeer", rating=2644, won=131, lost=55, faction="ALLIANCE", dr=8, dk=-5 },
 		{ rank=66, name="Norskugle", realm="shekzeer", rating=2643, won=107, lost=63, faction="ALLIANCE", mr=2700, dr=0, dk=1 },
 		{ rank=66, name="Skinnywintrd", realm="shekzeer", rating=2643, won=208, lost=100, faction="ALLIANCE", mr=2653, dr=0, dk=1 },
 		{ rank=68, name="Derxibro", realm="shekzeer", rating=2639, won=386, lost=141, faction="ALLIANCE", dr=0, dk=1 },
@@ -141,9 +141,9 @@ ns.LEADERBOARD_BY_REGION["eu"] = {
 		{ rank=100, name="Caerys", realm="auberdine", rating=2601, won=110, lost=62, faction="ALLIANCE", dr=0, dk=3 },
 		{ rank=101, name="Golîathx", realm="auberdine", rating=2600, won=92, lost=63, faction="ALLIANCE", dr=0, dk=3 },
 		{ rank=101, name="Melba", realm="shekzeer", rating=2600, won=315, lost=221, faction="ALLIANCE", mr=2632, dr=0, dk=3 },
+		{ rank=103, name="Madaurmada", realm="shekzeer", rating=2598, won=271, lost=155, faction="ALLIANCE", mr=2615, dr=48, dk=-32 },
 		{ rank=103, name="Threethumbs", realm="shekzeer", rating=2598, won=67, lost=10, faction="ALLIANCE", dr=0, dk=3 },
-		{ rank=104, name="Madaurmada", realm="shekzeer", rating=2597, won=270, lost=155, faction="ALLIANCE", mr=2615, dr=47, dk=-31 },
-		{ rank=104, name="Salvxx", realm="shekzeer", rating=2597, won=165, lost=84, faction="ALLIANCE", dr=0, dk=3 },
+		{ rank=105, name="Salvxx", realm="shekzeer", rating=2597, won=165, lost=84, faction="ALLIANCE", dr=0, dk=4 },
 		{ rank=106, name="Akerbz", realm="shekzeer", rating=2596, won=306, lost=151, faction="ALLIANCE", dr=0, dk=4 },
 		{ rank=107, name="Coulozx", realm="shekzeer", rating=2595, won=110, lost=50, faction="ALLIANCE", dr=0, dk=4 },
 		{ rank=108, name="Määxxdrood", realm="shekzeer", rating=2594, won=136, lost=47, faction="ALLIANCE", mr=2620, dr=0, dk=3 },
