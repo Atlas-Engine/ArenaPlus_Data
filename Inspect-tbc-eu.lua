@@ -42,7 +42,7 @@ local ns = ArenaPlusData
 -- source_item, so gems are stored as real item ids the client can draw and only
 -- the enchant text has to ship.
 --
--- Region tbc-eu, 365 characters, 0 glyph names, read 2026-11-08 05:20 PM.
+-- Region tbc-eu, 365 characters, 0 glyph names, read 2026-11-08 06:20 PM.
 ns.GLYPH_NAMES = ns.GLYPH_NAMES or {}
 
 for id, name in pairs({
@@ -65,18 +65,17 @@ for id, name in pairs({
 	[12789]="Defiance",
 	[12809]="Concussion Blow",
 	[12811]="Improved Sunder Armor",
-	[12853]="Cruelty",
-	[12867]="Deep Wounds",
+	[12834]="Deep Wounds",
+	[12856]="Cruelty",
 	[12945]="Improved Shield Block",
 	[12975]="Last Stand",
 	[16466]="Deflection",
-	[16494]="Impale",
 	[16542]="One-Handed Weapon Specialization",
 	[20243]="Devastate",
 	[23922]="Shield Slam",
 	[29146]="Vitality",
 	[29600]="Shield Mastery",
-	[29787]="Focused Rage",
+	[29792]="Focused Rage",
 }) do ns.TALENT_NAMES[id] = name end
 
 -- Which talent a rank-spell belongs to, and how many ranks that talent has.
@@ -95,24 +94,23 @@ for spell, talent in pairs({
 	[12789]=144,
 	[12809]=152,
 	[12811]=146,
-	[12853]=157,
-	[12867]=121,
+	[12834]=121,
+	[12856]=157,
 	[12945]=145,
 	[12975]=153,
 	[16466]=130,
-	[16494]=662,
 	[16542]=702,
 	[20243]=1666,
 	[23922]=148,
 	[29146]=1653,
 	[29600]=1654,
-	[29787]=1660,
+	[29792]=1660,
 }) do ns.TALENT_OF_SPELL[spell] = talent end
 
 ns.TALENT_MAX_RANK = ns.TALENT_MAX_RANK or {}
 
 for talent, rank in pairs({
-	[121]=3,
+	[121]=1,
 	[124]=3,
 	[128]=3,
 	[130]=5,
@@ -126,13 +124,12 @@ for talent, rank in pairs({
 	[150]=1,
 	[152]=1,
 	[153]=1,
-	[157]=3,
-	[662]=2,
+	[157]=5,
 	[702]=5,
 	[1601]=5,
 	[1653]=5,
 	[1654]=3,
-	[1660]=1,
+	[1660]=3,
 	[1666]=1,
 }) do ns.TALENT_MAX_RANK[talent] = rank end
 

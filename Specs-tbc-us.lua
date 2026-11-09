@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9349 characters, read 2026-11-08 05:58 PM.
+-- Region tbc-us, 9349 characters, read 2026-11-08 06:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12500,7 +12500,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["gralno-nightslayer"]=7,
 	["grandview-nightslayer"]=7,
 	["grannygamer-nightslayer"]=0,
-	["grapes-dreamscythe"]=9,
+	["grapes-dreamscythe"]=25,
 	["grapesøda-nightslayer"]=1,
 	["grapesodr-nightslayer"]=1,
 	["grapesodur-nightslayer"]=7,
@@ -13318,7 +13318,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["jimbald-nightslayer"]=13,
 	["jimbosalami-nightslayer"]=20,
 	["jimboslicé-nightslayer"]=19,
-	["jimmjimm-nightslayer"]=23,
+	["jimmjimm-nightslayer"]=13,
 	["jimmyp-nightslayer"]=14,
 	["jimmyrichter-dreamscythe"]=5,
 	["jimmythedog-nightslayer"]=7,
@@ -15463,7 +15463,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["plv-nightslayer"]=5,
 	["plzbite-nightslayer"]=17,
 	["pmotion-nightslayer"]=5,
-	["pmpin-nightslayer"]=2,
+	["pmpin-nightslayer"]=18,
 	["pmunny-nightslayer"]=1,
 	["pnau-nightslayer"]=7,
 	["pnispumper-nightslayer"]=1,
@@ -15988,7 +15988,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["rittinhouse-nightslayer"]=15,
 	["rivalxz-nightslayer"]=14,
 	["rivenw-nightslayer"]=18,
-	["rîvs-nightslayer"]=5,
+	["rîvs-nightslayer"]=8,
 	["rixakk-dreamscythe"]=18,
 	["rixxak-dreamscythe"]=2,
 	["rizka-nightslayer"]=18,
