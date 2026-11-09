@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9595 characters, read 2026-11-09 09:44 AM.
+-- Region tbc-eu, 9595 characters, read 2026-11-09 10:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12641,7 +12641,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["grizellda-thunderstrike"]=5,
 	["grizzlysture-spineshatter"]=6,
 	["groblin-spineshatter"]=11,
-	["gromble-thunderstrike"]=5,
+	["gromble-thunderstrike"]=15,
 	["grømmf-spineshatter"]=3,
 	["grommoron-thunderstrike"]=5,
 	["grosbouc-spineshatter"]=19,
@@ -17076,7 +17076,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["skìri-spineshatter"]=8,
 	["skizowizzard-spineshatter"]=5,
 	["skizzoskills-spineshatter"]=8,
-	["skjelten-spineshatter"]=5,
+	["skjelten-spineshatter"]=15,
 	["skolott-spineshatter"]=24,
 	["skrepp-spineshatter"]=23,
 	["skrillêx-spineshatter"]=13,
@@ -18384,7 +18384,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["vieonic-spineshatter"]=12,
 	["viesorsan-spineshatter"]=3,
 	["vifluux-spineshatter"]=9,
-	["viganon-spineshatter"]=15,
+	["viganon-spineshatter"]=5,
 	["vihunt-spineshatter"]=25,
 	["viiksikeijo-spineshatter"]=13,
 	["viissataa-spineshatter"]=9,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9349 characters, read 2026-11-09 09:58 AM.
+-- Region tbc-us, 9347 characters, read 2026-11-09 10:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4353,7 +4353,6 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["kittycat-nightslayer"]=41,
 	["kittymilk-nightslayer"]=41,
 	["kïttymittens-dreamscythe"]=60,
-	["kittysweeney-dreamscythe"]=41,
 	["kjo-dreamscythe"]=60,
 	["kkojimo-nightslayer"]=41,
 	["klankw-dreamscythe"]=20,
@@ -7374,7 +7373,6 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["sllan-nightslayer"]=11,
 	["sloanz-nightslayer"]=10,
 	["slooshys-dreamscythe"]=50,
-	["slooter-dreamscythe"]=11,
 	["slopnastyhot-dreamscythe"]=41,
 	["slothcam-nightslayer"]=50,
 	["slothmoo-nightslayer"]=61,
@@ -10712,7 +10710,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["citsalt-dreamscythe"]=1,
 	["ciy-dreamscythe"]=10,
 	["cjays-nightslayer"]=25,
-	["cjbreeze-dreamscythe"]=25,
+	["cjbreeze-dreamscythe"]=11,
 	["cjgg-nightslayer"]=10,
 	["cjglol-nightslayer"]=10,
 	["cjtwisty-dreamscythe"]=19,
@@ -12608,7 +12606,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["gyth-dreamscythe"]=7,
 	["gzk-nightslayer"]=4,
 	["gzlol-dreamscythe"]=0,
-	["haadrian-dreamscythe"]=13,
+	["haadrian-dreamscythe"]=16,
 	["haahahahahaa-nightslayer"]=5,
 	["haao-nightslayer"]=10,
 	["haard-nightslayer"]=24,
@@ -13644,7 +13642,6 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["kittycat-nightslayer"]=3,
 	["kittymilk-nightslayer"]=7,
 	["kïttymittens-dreamscythe"]=7,
-	["kittysweeney-dreamscythe"]=3,
 	["kjo-dreamscythe"]=19,
 	["kkojimo-nightslayer"]=7,
 	["klankw-dreamscythe"]=18,
@@ -16479,7 +16476,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["shiftytree-nightslayer"]=3,
 	["shigekazu-nightslayer"]=12,
 	["shigzy-nightslayer"]=1,
-	["shikumunss-dreamscythe"]=3,
+	["shikumunss-dreamscythe"]=7,
 	["shilly-nightslayer"]=2,
 	["shimo-nightslayer"]=2,
 	["shinbet-nightslayer"]=4,
@@ -16705,7 +16702,6 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["sllan-nightslayer"]=13,
 	["sloanz-nightslayer"]=6,
 	["slooshys-dreamscythe"]=6,
-	["slooter-dreamscythe"]=18,
 	["slopnastyhot-dreamscythe"]=7,
 	["slothcam-nightslayer"]=6,
 	["slothmoo-nightslayer"]=7,
