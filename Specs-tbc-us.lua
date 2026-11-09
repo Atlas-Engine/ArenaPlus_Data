@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9349 characters, read 2026-11-08 06:58 PM.
+-- Region tbc-us, 9350 characters, read 2026-11-08 07:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5520,6 +5520,7 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["nerpx-nightslayer"]=21,
 	["nesq-nightslayer"]=11,
 	["nesqx-dreamscythe"]=11,
+	["nesqx-nightslayer"]=70,
 	["nessíe-nightslayer"]=41,
 	["nessonezx-nightslayer"]=20,
 	["netha-nightslayer"]=10,
@@ -9711,7 +9712,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["babysham-nightslayer"]=10,
 	["babytickle-nightslayer"]=7,
 	["babyybillyy-nightslayer"]=1,
-	["backblowerx-nightslayer"]=16,
+	["backblowerx-nightslayer"]=13,
 	["backfliplord-nightslayer"]=10,
 	["bácon-dreamscythe"]=16,
 	["badchad-dreamscythe"]=24,
@@ -12341,7 +12342,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ghail-nightslayer"]=11,
 	["gharak-nightslayer"]=2,
 	["ghazra-nightslayer"]=18,
-	["ghengiskaan-dreamscythe"]=10,
+	["ghengiskaan-dreamscythe"]=19,
 	["ghenn-nightslayer"]=2,
 	["ghettotastic-nightslayer"]=1,
 	["ghidal-nightslayer"]=10,
@@ -14822,6 +14823,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["nerpx-nightslayer"]=2,
 	["nesq-nightslayer"]=13,
 	["nesqx-dreamscythe"]=13,
+	["nesqx-nightslayer"]=13,
 	["nessíe-nightslayer"]=7,
 	["nessonezx-nightslayer"]=2,
 	["netha-nightslayer"]=2,
