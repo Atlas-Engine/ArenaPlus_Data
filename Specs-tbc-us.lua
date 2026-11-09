@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9350 characters, read 2026-11-08 10:58 PM.
+-- Region tbc-us, 9350 characters, read 2026-11-08 11:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9510,8 +9510,8 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["anjeer-nightslayer"]=5,
 	["anjurus-nightslayer"]=4,
 	["anklejohn-nightslayer"]=13,
-	["anmj-nightslayer"]=20,
-	["anmjd-nightslayer"]=7,
+	["anmj-nightslayer"]=18,
+	["anmjd-nightslayer"]=3,
 	["annieæursa-nightslayer"]=3,
 	["annieoakleyy-nightslayer"]=15,
 	["annoyingnoob-nightslayer"]=7,
@@ -15131,7 +15131,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["onfarm-nightslayer"]=2,
 	["onimpulse-nightslayer"]=10,
 	["onionrangs-nightslayer"]=1,
-	["onit-nightslayer"]=3,
+	["onit-nightslayer"]=7,
 	["oniyo-nightslayer"]=16,
 	["onlybakshotz-nightslayer"]=5,
 	["Ønlyfears-nightslayer"]=1,
@@ -16212,7 +16212,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["sath-nightslayer"]=18,
 	["satisfyx-nightslayer"]=6,
 	["saucelordd-nightslayer"]=14,
-	["saucerman-nightslayer"]=8,
+	["saucerman-nightslayer"]=5,
 	["saucý-nightslayer"]=5,
 	["saunajerkx-nightslayer"]=5,
 	["savagegodx-nightslayer"]=5,
