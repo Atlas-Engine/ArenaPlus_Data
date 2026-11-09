@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9347 characters, read 2026-11-09 10:58 AM.
+-- Region tbc-us, 9347 characters, read 2026-11-09 11:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9298,7 +9298,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["Âbra-nightslayer"]=5,
 	["abreez-nightslayer"]=2,
 	["Àbub-nightslayer"]=1,
-	["abuelitas-dreamscythe"]=22,
+	["abuelitas-dreamscythe"]=7,
 	["abuzed-dreamscythe"]=10,
 	["abyssals-dreamscythe"]=2,
 	["academi-nightslayer"]=2,
@@ -10882,7 +10882,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["cranksham-nightslayer"]=19,
 	["craps-dreamscythe"]=1,
 	["crapso-nightslayer"]=5,
-	["crásh-dreamscythe"]=2,
+	["crásh-dreamscythe"]=20,
 	["crashingöut-nightslayer"]=10,
 	["crayjay-nightslayer"]=8,
 	["crazé-nightslayer"]=9,
@@ -14606,7 +14606,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["moondragoon-nightslayer"]=19,
 	["moonfirelawl-nightslayer"]=7,
 	["moonliggthh-nightslayer"]=24,
-	["moonlove-nightslayer"]=14,
+	["moonlove-nightslayer"]=1,
 	["moonraine-nightslayer"]=22,
 	["moonsblood-nightslayer"]=15,
 	["moontotems-nightslayer"]=19,
