@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5369 characters, read 2026-11-09 01:00 PM.
+-- Region eu, 5369 characters, read 2026-11-09 02:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5254,7 +5254,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["afrai-norushen"]=34,
 	["afrodiñ-shekzeer"]=5,
 	["afterchi-shekzeer"]=7,
-	["afûkûshîmâ-ook-ook"]=8,
+	["afûkûshîmâ-ook-ook"]=33,
 	["agamemnon-garalon"]=1,
 	["aggaa-shekzeer"]=21,
 	["agnesx-shekzeer"]=23,
@@ -6408,7 +6408,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["enej-shekzeer"]=4,
 	["enjoybro-shekzeer"]=2,
 	["enô-shekzeer"]=16,
-	["Ênragêd-shekzeer"]=8,
+	["Ênragêd-shekzeer"]=31,
 	["enzo-mirage-raceway"]=8,
 	["eoten-mirage-raceway"]=3,
 	["erbapura-shekzeer"]=2,
@@ -6823,7 +6823,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["havnis-garalon"]=3,
 	["hawken-shekzeer"]=4,
 	["hawktuahgirl-shekzeer"]=0,
-	["hayatø-everlook"]=8,
+	["hayatø-everlook"]=33,
 	["hayiuna-everlook"]=19,
 	["haywoods-shekzeer"]=4,
 	["hazewrld-shekzeer"]=10,
@@ -8655,7 +8655,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["retxgodx-shekzeer"]=5,
 	["rével-garalon"]=5,
 	["rëven-shekzeer"]=21,
-	["revenânt-shekzeer"]=8,
+	["revenânt-shekzeer"]=33,
 	["revenwtf-auberdine"]=34,
 	["rexababyxoxo-shekzeer"]=21,
 	["rexas-shekzeer"]=12,
@@ -8759,7 +8759,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["rx-shekzeer"]=24,
 	["rxsebøy-auberdine"]=20,
 	["rýdøthâðwlx-everlook"]=11,
-	["rydothedk-everlook"]=8,
+	["rydothedk-everlook"]=33,
 	["rýdøthègøátx-everlook"]=16,
 	["rydotheholy-everlook"]=9,
 	["rydothemage-everlook"]=2,
@@ -10173,7 +10173,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Бигал-flamegor"]=13,
 	["Биггдэди-flamegor"]=8,
 	["Бигл-flamegor"]=19,
-	["Биткантригем-flamegor"]=8,
+	["Биткантригем-flamegor"]=31,
 	["Близзняшка-flamegor"]=32,
 	["Близнец-flamegor"]=24,
 	["Блэйди-flamegor"]=7,
