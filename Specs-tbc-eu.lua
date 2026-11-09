@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9595 characters, read 2026-11-09 11:59 AM.
+-- Region tbc-eu, 9595 characters, read 2026-11-09 12:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10801,7 +10801,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["chiri-spineshatter"]=19,
 	["chizm-spineshatter"]=4,
 	["chjri-spineshatter"]=19,
-	["chlamydria-thunderstrike"]=17,
+	["chlamydria-thunderstrike"]=2,
 	["chlejtus-spineshatter"]=2,
 	["chloésterol-spineshatter"]=2,
 	["chocobolt-spineshatter"]=14,
@@ -16317,7 +16317,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["renatadin-spineshatter"]=10,
 	["rendi-thunderstrike"]=15,
 	["reneredogig-spineshatter"]=1,
-	["renntech-spineshatter"]=9,
+	["renntech-spineshatter"]=21,
 	["reno-spineshatter"]=8,
 	["renovario-thunderstrike"]=11,
 	["rens-spineshatter"]=13,
@@ -16699,7 +16699,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["schtonkad-spineshatter"]=19,
 	["schurke-spineshatter"]=3,
 	["schurkelade-spineshatter"]=3,
-	["schwabadaba-spineshatter"]=11,
+	["schwabadaba-spineshatter"]=12,
 	["schwanso-spineshatter"]=2,
 	["schyzza-spineshatter"]=9,
 	["sciddlidoo-spineshatter"]=13,
