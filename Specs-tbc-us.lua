@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9350 characters, read 2026-11-08 08:58 PM.
+-- Region tbc-us, 9350 characters, read 2026-11-08 09:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12532,7 +12532,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["grîm-nightslayer"]=5,
 	["grimba-nightslayer"]=18,
 	["grimmajöw-nightslayer"]=7,
-	["grimmhorn-nightslayer"]=2,
+	["grimmhorn-nightslayer"]=18,
 	["grimy-nightslayer"]=16,
 	["grinchy-nightslayer"]=7,
 	["grishnakha-nightslayer"]=10,
@@ -12968,7 +12968,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["iamcrazzy-nightslayer"]=5,
 	["iamdanger-nightslayer"]=27,
 	["iamdaniel-nightslayer"]=2,
-	["iamorcshaman-nightslayer"]=10,
+	["iamorcshaman-nightslayer"]=19,
 	["iamthetranq-dreamscythe"]=15,
 	["ibala-nightslayer"]=7,
 	["iblunts-nightslayer"]=2,
@@ -13078,7 +13078,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["imstiff-nightslayer"]=10,
 	["imtrans-nightslayer"]=11,
 	["imustfart-dreamscythe"]=12,
-	["inabubble-nightslayer"]=25,
+	["inabubble-nightslayer"]=11,
 	["inbadterms-nightslayer"]=2,
 	["inbobwebust-nightslayer"]=7,
 	["inbodx-nightslayer"]=3,
@@ -13115,7 +13115,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["intangibled-nightslayer"]=3,
 	["interestingg-nightslayer"]=4,
 	["interpret-dreamscythe"]=1,
-	["intheend-dreamscythe"]=7,
+	["intheend-dreamscythe"]=3,
 	["inthelight-nightslayer"]=1,
 	["intis-nightslayer"]=9,
 	["inv-nightslayer"]=5,
@@ -14047,7 +14047,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["losticus-nightslayer"]=5,
 	["lostlol-dreamscythe"]=14,
 	["lotuspocus-nightslayer"]=3,
-	["loudaddy-nightslayer"]=2,
+	["loudaddy-nightslayer"]=18,
 	["loudpuf-nightslayer"]=1,
 	["louislol-nightslayer"]=1,
 	["loupal-nightslayer"]=11,
@@ -17377,7 +17377,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["thesenate-nightslayer"]=19,
 	["theslime-nightslayer"]=13,
 	["thesquil-nightslayer"]=11,
-	["thestaloss-dreamscythe"]=5,
+	["thestaloss-dreamscythe"]=8,
 	["thestevesman-nightslayer"]=19,
 	["theuglystick-nightslayer"]=7,
 	["theungodly-nightslayer"]=14,
