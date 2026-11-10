@@ -18,7 +18,7 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region eu, season 14, read 2026-11-10 09:00 AM.
+-- Region eu, season 14, read 2026-11-10 10:00 AM.
 -- Realm display names, because the ladder only carries slugs and no rule
 -- turns one back into the other: raden is Ra-den, lei-shen is Lei Shen and
 -- arugal-au is Arugal (AU). Read from Blizzard's realm index; a slug with no
@@ -34,9 +34,9 @@ ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["eu"] = {
 	region  = "eu",
-	checked = "2026-11-10 09:00 AM",
-	checkedEpoch = 1794319225,
-	snapshot = "2026-11-10 11:13",
+	checked = "2026-11-10 10:00 AM",
+	checkedEpoch = 1794322810,
+	snapshot = "2026-11-10 14:13",
 
 	[1] = {  -- 2v2, 5000 places, down to rating 1049 -- the API stops here, short of the cutoff
 		{ rank=1, name="Satåntrapbot", realm="shekzeer", rating=2917, won=323, lost=86, faction="ALLIANCE", dr=0, dk=0 },
@@ -4842,7 +4842,7 @@ ns.LEADERBOARD_BY_REGION["eu"] = {
 		{ rank=4794, name="Miralen", realm="mirage-raceway", rating=1598, won=72, lost=80, faction="ALLIANCE", dr=0, dk=13 },
 		{ rank=4794, name="Patronas", realm="shekzeer", rating=1598, won=34, lost=45, faction="ALLIANCE", dr=0, dk=13 },
 		{ rank=4794, name="Rotnasty", realm="garalon", rating=1598, won=29, lost=161, faction="HORDE", dr=0, dk=13 },
-		{ rank=4794, name="Sangore", realm="auberdine", rating=1598, won=186, lost=382, faction="HORDE" },
+		{ rank=4794, name="Sangore", realm="auberdine", rating=1598, won=186, lost=384, faction="HORDE" },
 		{ rank=4794, name="Shaedie", realm="shekzeer", rating=1598, won=29, lost=161, faction="HORDE", dr=0, dk=13 },
 		{ rank=4794, name="Wolfus", realm="mirage-raceway", rating=1598, won=78, lost=127, faction="ALLIANCE", dr=0, dk=13 },
 		{ rank=4794, name="Yuravski", realm="mirage-raceway", rating=1598, won=20, lost=16, faction="ALLIANCE", dr=0, dk=13 },
