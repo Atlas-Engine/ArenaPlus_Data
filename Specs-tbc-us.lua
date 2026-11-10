@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9346 characters, read 2026-11-09 11:58 PM.
+-- Region tbc-us, 9346 characters, read 2026-11-10 12:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10175,7 +10175,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bobrick-nightslayer"]=13,
 	["bobrock-nightslayer"]=16,
 	["bobrok-dreamscythe"]=2,
-	["bobsunder-nightslayer"]=20,
+	["bobsunder-nightslayer"]=2,
 	["bobthunder-nightslayer"]=19,
 	["bobu-nightslayer"]=1,
 	["bobylawl-dreamscythe"]=4,
@@ -13898,7 +13898,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["lifeordef-nightslayer"]=7,
 	["liferox-nightslayer"]=1,
 	["liftheavyroc-nightslayer"]=10,
-	["liggem-nightslayer"]=1,
+	["liggem-nightslayer"]=14,
 	["lightênergy-nightslayer"]=1,
 	["lighterr-dreamscythe"]=9,
 	["lightofgay-nightslayer"]=11,
@@ -14156,7 +14156,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["madnessxx-nightslayer"]=5,
 	["madnomad-dreamscythe"]=2,
 	["madredelamor-dreamscythe"]=1,
-	["madrote-dreamscythe"]=12,
+	["madrote-dreamscythe"]=1,
 	["madx-nightslayer"]=24,
 	["madxi-nightslayer"]=6,
 	["maellol-dreamscythe"]=5,
