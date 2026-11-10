@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9331 characters, read 2026-11-10 11:58 AM.
+-- Region tbc-us, 9331 characters, read 2026-11-10 12:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -14046,7 +14046,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["lucifeor-nightslayer"]=8,
 	["lucillexoxo-nightslayer"]=1,
 	["lucistwo-nightslayer"]=23,
-	["luciun-nightslayer"]=4,
+	["luciun-nightslayer"]=6,
 	["luckëy-nightslayer"]=2,
 	["luckkx-nightslayer"]=22,
 	["luckyfarms-nightslayer"]=6,
@@ -16088,7 +16088,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["rushie-nightslayer"]=18,
 	["rustyspyda-nightslayer"]=1,
 	["rutheal-dreamscythe"]=12,
-	["ruthieree-dreamscythe"]=1,
+	["ruthieree-dreamscythe"]=14,
 	["ruusk-nightslayer"]=10,
 	["ruxl-nightslayer"]=18,
 	["ruzok-nightslayer"]=2,
@@ -16852,7 +16852,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["spicycarp-nightslayer"]=3,
 	["spicyeliza-nightslayer"]=4,
 	["spicypasta-dreamscythe"]=3,
-	["spiffaru-nightslayer"]=7,
+	["spiffaru-nightslayer"]=3,
 	["spikeyshadow-nightslayer"]=15,
 	["spiorc-dreamscythe"]=2,
 	["spiralon-nightslayer"]=10,
