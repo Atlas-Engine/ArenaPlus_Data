@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5208 characters, read 2026-11-09 07:59 PM.
+-- Region us, 5208 characters, read 2026-11-09 08:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5272,7 +5272,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["autotrap-raden"]=0,
 	["avelorn-pagle"]=3,
 	["aven-raden"]=0,
-	["averthery-pagle"]=24,
+	["averthery-pagle"]=28,
 	["averÿwarrïor-galakras"]=7,
 	["avilove-raden"]=9,
 	["avium-pagle"]=3,
@@ -7398,7 +7398,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["kaick-pagle"]=9,
 	["kaijoû-raden"]=4,
 	["kaijoü-raden"]=3,
-	["kairixo-benediction"]=5,
+	["kairixo-benediction"]=17,
 	["kalaikras-galakras"]=6,
 	["kalakor-raden"]=15,
 	["kalikondor-raden"]=5,
@@ -9269,7 +9269,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["solorzz-pagle"]=7,
 	["sølve-pagle"]=5,
 	["sombodee-pagle"]=2,
-	["someidiot-raden"]=17,
+	["someidiot-raden"]=5,
 	["someonè-raden"]=6,
 	["songur-galakras"]=18,
 	["sônic-pagle"]=5,
@@ -9296,7 +9296,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["spala-pagle"]=0,
 	["sparas-raden"]=11,
 	["sparqxx-pagle"]=14,
-	["speakington-raden"]=16,
+	["speakington-raden"]=2,
 	["speedfiree-pagle"]=3,
 	["speedypee-pagle"]=14,
 	["spéllcaster-raden"]=25,
