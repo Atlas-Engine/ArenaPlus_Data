@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5210 characters, read 2026-11-10 01:59 PM.
+-- Region us, 5210 characters, read 2026-11-10 02:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6373,7 +6373,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["eezz-nazgrim"]=13,
 	["efekz-immerseus"]=14,
 	["eggfooyoung-immerseus"]=4,
-	["eidottnawi-pagle"]=3,
+	["eidottnawi-pagle"]=18,
 	["eikou-pagle"]=2,
 	["eka-raden"]=18,
 	["eladriel-pagle"]=0,
@@ -6407,7 +6407,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["emanuely-pagle"]=24,
 	["emelhorquevc-pagle"]=15,
 	["emeraiie-lei-shen"]=4,
-	["emielaina-pagle"]=14,
+	["emielaina-pagle"]=34,
 	["emmavictoria-pagle"]=20,
 	["emobear-raden"]=12,
 	["encantadorah-raden"]=31,
@@ -8775,7 +8775,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["rethealadin-immerseus"]=16,
 	["reticence-pagle"]=10,
 	["retmainxd-raden"]=18,
-	["rétpáladin-raden"]=2,
+	["rétpáladin-raden"]=16,
 	["retrostance-galakras"]=2,
 	["rettek-raden"]=8,
 	["rettmonk-raden"]=27,
