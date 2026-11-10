@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9592 characters, read 2026-11-09 08:59 PM.
+-- Region tbc-eu, 9591 characters, read 2026-11-09 09:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3121,7 +3121,6 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["grimmorc-spineshatter"]=21,
 	["grimmwut-spineshatter"]=10,
 	["grimpanzer-spineshatter"]=60,
-	["grimroll-thunderstrike"]=20,
 	["grimsheepér-spineshatter"]=50,
 	["grimzugg-spineshatter"]=20,
 	["gripen-spineshatter"]=21,
@@ -11157,7 +11156,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["dancone-thunderstrike"]=6,
 	["dangerdoug-spineshatter"]=3,
 	["dängi-spineshatter"]=5,
-	["danidevito-spineshatter"]=2,
+	["danidevito-spineshatter"]=17,
 	["dannés-spineshatter"]=16,
 	["dannymcbride-spineshatter"]=5,
 	["dantelol-spineshatter"]=9,
@@ -12628,7 +12627,6 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["grimmorc-spineshatter"]=15,
 	["grimmwut-spineshatter"]=14,
 	["grimpanzer-spineshatter"]=6,
-	["grimroll-thunderstrike"]=5,
 	["grimsheepér-spineshatter"]=4,
 	["grimzugg-spineshatter"]=12,
 	["gripen-spineshatter"]=13,
@@ -18047,7 +18045,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["trigni-spineshatter"]=2,
 	["trignii-spineshatter"]=2,
 	["trigz-spineshatter"]=9,
-	["trigzy-thunderstrike"]=19,
+	["trigzy-thunderstrike"]=3,
 	["trillou-thunderstrike"]=3,
 	["trippytwinaz-spineshatter"]=3,
 	["triskilelion-spineshatter"]=1,
