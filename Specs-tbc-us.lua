@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9329 characters, read 2026-11-10 04:58 AM.
+-- Region tbc-us, 9329 characters, read 2026-11-10 05:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12324,7 +12324,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ghsty-nightslayer"]=1,
 	["ghulp-dreamscythe"]=5,
 	["giagoldfury-nightslayer"]=1,
-	["gîanna-dreamscythe"]=4,
+	["gîanna-dreamscythe"]=6,
 	["giantjeff-nightslayer"]=2,
 	["gielhsa-nightslayer"]=1,
 	["gigabonk-nightslayer"]=18,
@@ -16136,7 +16136,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["saexgg-nightslayer"]=2,
 	["saexx-nightslayer"]=2,
 	["safeduelist-nightslayer"]=7,
-	["saffye-dreamscythe"]=7,
+	["saffye-dreamscythe"]=3,
 	["sage-nightslayer"]=6,
 	["sahbaz-nightslayer"]=5,
 	["saintmick-nightslayer"]=1,
@@ -16706,7 +16706,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["smibbers-nightslayer"]=7,
 	["smibs-nightslayer"]=2,
 	["smiggieballs-nightslayer"]=7,
-	["smileneil-nightslayer"]=1,
+	["smileneil-nightslayer"]=12,
 	["smitepowers-nightslayer"]=1,
 	["smiteth-nightslayer"]=12,
 	["smokedog-nightslayer"]=4,
