@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5208 characters, read 2026-11-09 05:59 PM.
+-- Region us, 5208 characters, read 2026-11-09 06:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5708,7 +5708,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["carbontaxes-pagle"]=1,
 	["cardlock-galakras"]=8,
 	["cardmage-galakras"]=1,
-	["cardoni-galakras"]=3,
+	["cardoni-galakras"]=18,
 	["cardpally-galakras"]=16,
 	["càrnaxx-pagle"]=11,
 	["carnilumen-pagle"]=0,
@@ -5730,7 +5730,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["cathw-raden"]=7,
 	["catmasterx-raden"]=7,
 	["catpack-raden"]=12,
-	["cavalaum-galakras"]=15,
+	["cavalaum-galakras"]=19,
 	["cavallier-pagle"]=2,
 	["caylara-raden"]=20,
 	["cazabrujas-raden"]=20,
