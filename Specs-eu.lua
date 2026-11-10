@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5359 characters, read 2026-11-09 11:00 PM.
+-- Region eu, 5359 characters, read 2026-11-10 12:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9854,7 +9854,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["xælthiar-everlook"]=9,
 	["xæthra-everlook"]=11,
 	["xakerone-mirage-raceway"]=4,
-	["xály-shekzeer"]=21,
+	["xály-shekzeer"]=32,
 	["xanæi-everlook"]=6,
 	["xanará-everlook"]=5,
 	["xánara-everlook"]=9,
@@ -10186,7 +10186,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Варсонгер-flamegor"]=1,
 	["Варсонгердкт-flamegor"]=8,
 	["Варсонгермс-flamegor"]=1,
-	["Варсонгуч-flamegor"]=21,
+	["Варсонгуч-flamegor"]=32,
 	["Варсонгыч-flamegor"]=1,
 	["Венсвей-flamegor"]=5,
 	["Вермишелька-flamegor"]=2,
@@ -10308,7 +10308,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Круглыйветер-flamegor"]=6,
 	["Ксурка-flamegor"]=5,
 	["Куникум-flamegor"]=2,
-	["Кусямба-flamegor"]=21,
+	["Кусямба-flamegor"]=32,
 	["Кхили-flamegor"]=13,
 	["Кэндифлос-flamegor"]=34,
 	["Кяото-flamegor"]=7,
@@ -10544,7 +10544,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Эрло-flamegor"]=17,
 	["Эрмантраутх-flamegor"]=13,
 	["Эрнис-flamegor"]=5,
-	["Эссина-flamegor"]=21,
+	["Эссина-flamegor"]=11,
 	["Этоонеточно-flamegor"]=15,
 	["Ябо-flamegor"]=8,
 	["Ягаа-flamegor"]=0,

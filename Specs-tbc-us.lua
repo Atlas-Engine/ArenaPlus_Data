@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9346 characters, read 2026-11-09 10:58 PM.
+-- Region tbc-us, 9346 characters, read 2026-11-09 11:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9589,7 +9589,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["arpsama-nightslayer"]=2,
 	["arpx-nightslayer"]=2,
 	["arragorn-nightslayer"]=2,
-	["arrichion-nightslayer"]=20,
+	["arrichion-nightslayer"]=2,
 	["arrid-dreamscythe"]=1,
 	["arriia-nightslayer"]=10,
 	["arterian-nightslayer"]=1,
@@ -11091,7 +11091,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["dasishocks-dreamscythe"]=10,
 	["datgalbig-nightslayer"]=1,
 	["dature-dreamscythe"]=2,
-	["daub-nightslayer"]=5,
+	["daub-nightslayer"]=8,
 	["dauntleastx-nightslayer"]=14,
 	["dauntlessx-nightslayer"]=18,
 	["daveedz-nightslayer"]=5,
@@ -11811,7 +11811,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["execuiite-nightslayer"]=2,
 	["execuite-nightslayer"]=18,
 	["execuutie-nightslayer"]=18,
-	["exgoshgolly-nightslayer"]=5,
+	["exgoshgolly-nightslayer"]=8,
 	["exhaustsound-nightslayer"]=1,
 	["exid-nightslayer"]=2,
 	["exinferiis-nightslayer"]=13,
@@ -12114,7 +12114,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["fordchevy-dreamscythe"]=1,
 	["forést-nightslayer"]=10,
 	["forestcleave-nightslayer"]=24,
-	["forevermorez-dreamscythe"]=11,
+	["forevermorez-dreamscythe"]=25,
 	["förstelnad-nightslayer"]=3,
 	["forsy-nightslayer"]=2,
 	["fortnitegodx-nightslayer"]=7,

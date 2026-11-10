@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9591 characters, read 2026-11-09 10:59 PM.
+-- Region tbc-eu, 9591 characters, read 2026-11-09 11:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9905,7 +9905,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["astrozug-spineshatter"]=5,
 	["aswyn-spineshatter"]=1,
 	["athenëwins-spineshatter"]=10,
-	["athexyo-spineshatter"]=9,
+	["athexyo-spineshatter"]=4,
 	["athleet-spineshatter"]=15,
 	["athlyn-spineshatter"]=6,
 	["atiy-spineshatter"]=2,
@@ -10293,7 +10293,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["bigtoybecky-spineshatter"]=15,
 	["bilbabo-spineshatter"]=2,
 	["bilbopippins-spineshatter"]=10,
-	["billybacon-spineshatter"]=4,
+	["billybacon-spineshatter"]=9,
 	["billyblast-spineshatter"]=12,
 	["billybuu-thunderstrike"]=11,
 	["billythewar-spineshatter"]=0,
@@ -15586,7 +15586,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["oxxyguen-spineshatter"]=18,
 	["oxyh-spineshatter"]=8,
 	["ozael-spineshatter"]=2,
-	["Øzempic-spineshatter"]=2,
+	["Øzempic-spineshatter"]=8,
 	["ozey-spineshatter"]=3,
 	["ozèy-spineshatter"]=12,
 	["ozëy-spineshatter"]=5,
