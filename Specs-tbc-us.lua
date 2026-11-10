@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9346 characters, read 2026-11-10 12:58 AM.
+-- Region tbc-us, 9346 characters, read 2026-11-10 01:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1649,6 +1649,7 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["creeded-nightslayer"]=21,
 	["crepps-nightslayer"]=10,
 	["cresy-nightslayer"]=31,
+	["cresyda-dreamscythe"]=51,
 	["cresyda-nightslayer"]=31,
 	["crimpy-nightslayer"]=50,
 	["crimsonbunny-nightslayer"]=21,
@@ -8480,7 +8481,6 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["väns-dreamscythe"]=100,
 	["vantagex-nightslayer"]=50,
 	["vapelordgord-nightslayer"]=41,
-	["varedin-dreamscythe"]=11,
 	["varedis-dreamscythe"]=11,
 	["varnigan-nightslayer"]=30,
 	["varradan-dreamscythe"]=100,
@@ -10900,6 +10900,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["creeded-nightslayer"]=2,
 	["crepps-nightslayer"]=9,
 	["cresy-nightslayer"]=12,
+	["cresyda-dreamscythe"]=1,
 	["cresyda-nightslayer"]=12,
 	["crilton-dreamscythe"]=0,
 	["crimpy-nightslayer"]=5,
@@ -11576,7 +11577,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["dustedx-nightslayer"]=5,
 	["dustfriggenw-nightslayer"]=13,
 	["dusti-nightslayer"]=25,
-	["dutonga-nightslayer"]=2,
+	["dutonga-nightslayer"]=20,
 	["duudah-nightslayer"]=9,
 	["duxlol-nightslayer"]=13,
 	["duxxar-nightslayer"]=15,
@@ -12709,7 +12710,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["healteamsix-nightslayer"]=1,
 	["healthls-nightslayer"]=11,
 	["healthz-nightslayer"]=1,
-	["heartwork-nightslayer"]=4,
+	["heartwork-nightslayer"]=6,
 	["heaters-dreamscythe"]=2,
 	["heatrash-nightslayer"]=4,
 	["heatscores-nightslayer"]=5,
@@ -14841,7 +14842,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["nexd-dreamscythe"]=3,
 	["nexecute-dreamscythe"]=18,
 	["nexshot-dreamscythe"]=15,
-	["neytïrï-dreamscythe"]=7,
+	["neytïrï-dreamscythe"]=3,
 	["nezhra-dreamscythe"]=2,
 	["nezn-nightslayer"]=6,
 	["nezrul-dreamscythe"]=19,
@@ -17816,7 +17817,6 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["väns-dreamscythe"]=25,
 	["vantagex-nightslayer"]=4,
 	["vapelordgord-nightslayer"]=3,
-	["varedin-dreamscythe"]=9,
 	["varedis-dreamscythe"]=5,
 	["varnigan-nightslayer"]=14,
 	["varradan-dreamscythe"]=25,
@@ -18444,7 +18444,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["yungmfkgoat-nightslayer"]=2,
 	["yungmfngoat-nightslayer"]=9,
 	["yungpumper-nightslayer"]=18,
-	["yuumim-dreamscythe"]=6,
+	["yuumim-dreamscythe"]=4,
 	["yuumior-dreamscythe"]=2,
 	["yuzx-nightslayer"]=6,
 	["za-nightslayer"]=12,

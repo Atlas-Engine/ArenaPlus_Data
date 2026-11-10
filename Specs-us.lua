@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5210 characters, read 2026-11-10 12:59 AM.
+-- Region us, 5210 characters, read 2026-11-10 01:54 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5754,7 +5754,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["chambeazley-pagle"]=2,
 	["chamboyswag-nazgrim"]=19,
 	["champlock-raden"]=28,
-	["champmage-raden"]=1,
+	["champmage-raden"]=31,
 	["chaoscrittv-pagle"]=2,
 	["chaoscutie-galakras"]=24,
 	["chaôss-pagle"]=5,
@@ -6327,7 +6327,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dumbpoptart-benediction"]=7,
 	["dumbwhre-raden"]=14,
 	["dumdum-nazgrim"]=20,
-	["dunardel-raden"]=7,
+	["dunardel-raden"]=30,
 	["dunkindotnut-raden"]=0,
 	["dunkyb-raden"]=1,
 	["durck-pagle"]=5,
@@ -7801,7 +7801,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["madvillainx-pagle"]=22,
 	["mærshall-raden"]=7,
 	["mag-raden"]=7,
-	["magdalenia-pagle"]=2,
+	["magdalenia-pagle"]=16,
 	["mageblackrat-pagle"]=1,
 	["magegaje-pagle"]=1,
 	["magemagehair-pagle"]=1,
@@ -8195,7 +8195,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["nerdrage-raden"]=7,
 	["nerdslayer-raden"]=4,
 	["nergal-lei-shen"]=24,
-	["nerull-pagle"]=30,
+	["nerull-pagle"]=7,
 	["nerxxiz-raden"]=16,
 	["neshard-galakras"]=7,
 	["neterô-raden"]=4,
@@ -8641,7 +8641,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["quartêrmain-pagle"]=3,
 	["quelss-pagle"]=2,
 	["quesø-pagle"]=29,
-	["questopresto-nazgrim"]=10,
+	["questopresto-nazgrim"]=4,
 	["quickscopex-pagle"]=3,
 	["quickvanish-pagle"]=34,
 	["quinton-lei-shen"]=1,
