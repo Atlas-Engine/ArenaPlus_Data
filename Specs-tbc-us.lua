@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9329 characters, read 2026-11-10 06:58 AM.
+-- Region tbc-us, 9331 characters, read 2026-11-10 07:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5700,6 +5700,7 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["nyloboost-dreamscythe"]=60,
 	["nynnx-nightslayer"]=50,
 	["nyon-nightslayer"]=50,
+	["nytyny-nightslayer"]=50,
 	["nyxchrono-dreamscythe"]=70,
 	["nyxnobi-nightslayer"]=11,
 	["nyzør-nightslayer"]=11,
@@ -7812,6 +7813,7 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["suwhoo-nightslayer"]=50,
 	["svarta-nightslayer"]=21,
 	["svetodwarf-nightslayer"]=30,
+	["swaang-nightslayer"]=30,
 	["swácked-nightslayer"]=50,
 	["swackedx-dreamscythe"]=50,
 	["swaer-nightslayer"]=70,
@@ -12878,7 +12880,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["hozitow-nightslayer"]=1,
 	["hsuanlol-nightslayer"]=16,
 	["hsuanolz-nightslayer"]=11,
-	["hsuanuau-nightslayer"]=13,
+	["hsuanuau-nightslayer"]=16,
 	["httr-nightslayer"]=3,
 	["huangchen-nightslayer"]=9,
 	["huangyu-nightslayer"]=8,
@@ -14546,7 +14548,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["momenamum-nightslayer"]=5,
 	["mommyshome-dreamscythe"]=11,
 	["momskisses-dreamscythe"]=10,
-	["momskisses-nightslayer"]=13,
+	["momskisses-nightslayer"]=16,
 	["monaker-nightslayer"]=0,
 	["monalot-dreamscythe"]=8,
 	["monchah-nightslayer"]=2,
@@ -14989,6 +14991,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["nyloboost-dreamscythe"]=18,
 	["nynnx-nightslayer"]=13,
 	["nyon-nightslayer"]=6,
+	["nytyny-nightslayer"]=1,
 	["nyxchrono-dreamscythe"]=4,
 	["nyxnobi-nightslayer"]=5,
 	["nyzør-nightslayer"]=13,
@@ -17124,6 +17127,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["suwhoo-nightslayer"]=1,
 	["svarta-nightslayer"]=18,
 	["svetodwarf-nightslayer"]=1,
+	["swaang-nightslayer"]=2,
 	["swácked-nightslayer"]=5,
 	["swackedx-dreamscythe"]=5,
 	["swaer-nightslayer"]=13,
@@ -17700,7 +17704,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ulf-nightslayer"]=5,
 	["ullaron-nightslayer"]=2,
 	["ulrick-dreamscythe"]=24,
-	["ulríck-dreamscythe"]=22,
+	["ulríck-dreamscythe"]=7,
 	["ultiva-dreamscythe"]=18,
 	["ultrah-nightslayer"]=3,
 	["ultrainstnct-dreamscythe"]=2,

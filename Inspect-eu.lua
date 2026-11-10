@@ -42,7 +42,7 @@ local ns = ArenaPlusData
 -- source_item, so gems are stored as real item ids the client can draw and only
 -- the enchant text has to ship.
 --
--- Region eu, 448 characters, 390 glyph names, read 2026-11-09 11:20 PM.
+-- Region eu, 448 characters, 390 glyph names, read 2026-11-10 07:20 AM.
 ns.GLYPH_NAMES = ns.GLYPH_NAMES or {}
 
 for id, name in pairs({
@@ -444,47 +444,13 @@ for id, name in pairs({
 ns.TALENT_NAMES = ns.TALENT_NAMES or {}
 
 for id, name in pairs({
-	[605]="Dominate Mind",
-	[5211]="Mighty Bash",
-	[74001]="Combat Readiness",
 	[79008]="Elusiveness",
-	[85499]="Speed of Light",
-	[86172]="Divine Purpose",
-	[102351]="Cenarion Ward",
-	[102401]="Wild Charge",
-	[102793]="Ursol's Vortex",
-	[105593]="Fist of Justice",
-	[105622]="Clemency",
-	[106707]="Faerie Swarm",
-	[106737]="Force of Nature",
 	[108208]="Subterfuge",
 	[108210]="Nerve Strike",
 	[108212]="Burst of Speed",
 	[108215]="Paralytic Poison",
 	[108216]="Dirty Tricks",
-	[108288]="Heart of the Wild",
-	[108373]="Dream of Cenarius",
-	[108920]="Void Tendrils",
-	[108945]="Angelic Bulwark",
-	[109142]="Twist of Fate",
-	[109186]="From Darkness, Comes Light",
-	[110744]="Divine Star",
-	[112833]="Spectral Guise",
-	[114107]="Soul of the Forest",
-	[114163]="Eternal Flame",
-	[114165]="Holy Prism",
-	[115098]="Chi Wave",
-	[115399]="Chi Brew",
-	[116841]="Tiger's Lust",
-	[116847]="Rushing Jade Wind",
-	[119381]="Leg Sweep",
-	[121536]="Angelic Feather",
-	[122280]="Healing Elixirs",
-	[131511]="Prey on the Weak",
-	[131768]="Feline Swiftness",
-	[132469]="Typhoon",
 	[137619]="Marked for Death",
-	[145108]="Ysera's Gift",
 }) do ns.TALENT_NAMES[id] = name end
 
 -- Which talent a rank-spell belongs to, and how many ranks that talent has.
