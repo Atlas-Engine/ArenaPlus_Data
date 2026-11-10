@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5208 characters, read 2026-11-09 09:59 PM.
+-- Region us, 5210 characters, read 2026-11-09 10:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3373,6 +3373,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["peteslimjim-galakras"]=20,
 	["pewpilpopper-pagle"]=20,
 	["péz-pagle"]=11,
+	["pglapuñalada-raden"]=70,
 	["phílip-raden"]=11,
 	["phöoba-pagle"]=60,
 	["phugoid-pagle"]=81,
@@ -4324,6 +4325,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["takyto-nazgrim"]=60,
 	["talksíck-pagle"]=11,
 	["tamerac-raden"]=11,
+	["tamerak-raden"]=11,
 	["tamhee-immerseus"]=101,
 	["tammyjane-pagle"]=11,
 	["tamnar-immerseus"]=101,
@@ -4674,7 +4676,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["vilhelms-nazgrim"]=20,
 	["violet-raden"]=71,
 	["vipyrs-pagle"]=10,
-	["virtuoso-raden"]=41,
+	["virtuoso-raden"]=11,
 	["virtuus-galakras"]=20,
 	["vîs-lei-shen"]=10,
 	["visenyxa-pagle"]=11,
@@ -5162,7 +5164,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["anakkrakatoa-nazgrim"]=11,
 	["anaksol-pagle"]=11,
 	["analayla-lei-shen"]=0,
-	["anariita-nazgrim"]=20,
+	["anariita-nazgrim"]=3,
 	["anastari-pagle"]=1,
 	["anastasiah-raden"]=24,
 	["anastasiahh-raden"]=21,
@@ -5940,7 +5942,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["csini-nazgrim"]=12,
 	["csiniwarr-nazgrim"]=7,
 	["cuchulaind-raden"]=0,
-	["cucuteña-raden"]=27,
+	["cucuteña-raden"]=10,
 	["cultxo-raden"]=9,
 	["cumbustions-nazgrim"]=1,
 	["cumfypillow-benediction"]=7,
@@ -8482,7 +8484,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["percosett-raden"]=7,
 	["periqueado-pagle"]=2,
 	["peritho-benediction"]=17,
-	["persa-nazgrim"]=3,
+	["persa-nazgrim"]=18,
 	["perseu-lei-shen"]=16,
 	["perturabo-raden"]=0,
 	["perxeo-pagle"]=7,
@@ -8491,6 +8493,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["pewpilpopper-pagle"]=3,
 	["péz-pagle"]=27,
 	["pezdispencer-raden"]=0,
+	["pglapuñalada-raden"]=14,
 	["phílip-raden"]=4,
 	["phöoba-pagle"]=5,
 	["phugoid-pagle"]=29,
@@ -9501,6 +9504,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["takyto-nazgrim"]=16,
 	["talksíck-pagle"]=1,
 	["tamerac-raden"]=28,
+	["tamerak-raden"]=28,
 	["tamhee-immerseus"]=4,
 	["tammyjane-pagle"]=16,
 	["tamnar-immerseus"]=20,

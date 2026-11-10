@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9591 characters, read 2026-11-09 09:59 PM.
+-- Region tbc-eu, 9591 characters, read 2026-11-09 10:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11643,7 +11643,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["drokkh-spineshatter"]=2,
 	["drokkhh-spineshatter"]=5,
 	["drøøl-spineshatter"]=3,
-	["dropwfdmg-spineshatter"]=11,
+	["dropwfdmg-spineshatter"]=12,
 	["dròw-spineshatter"]=3,
 	["drpassi-spineshatter"]=10,
 	["drplutt-spineshatter"]=13,
@@ -12222,7 +12222,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["flameothers-spineshatter"]=11,
 	["flameya-thunderstrike"]=2,
 	["flankwf-spineshatter"]=12,
-	["flaplips-spineshatter"]=4,
+	["flaplips-spineshatter"]=21,
 	["flappers-spineshatter"]=13,
 	["flarin-spineshatter"]=2,
 	["flasheal-spineshatter"]=11,
@@ -14569,7 +14569,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["mcingo-spineshatter"]=9,
 	["mckenley-spineshatter"]=19,
 	["mckenzii-thunderstrike"]=3,
-	["mcpb-spineshatter"]=3,
+	["mcpb-spineshatter"]=19,
 	["mcsalata-spineshatter"]=11,
 	["mcscoozy-spineshatter"]=13,
 	["mcser-spineshatter"]=9,
@@ -18968,7 +18968,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["zeola-spineshatter"]=7,
 	["zeostorm-spineshatter"]=23,
 	["zephyrastorm-spineshatter"]=11,
-	["zerfin-spineshatter"]=9,
+	["zerfin-spineshatter"]=4,
 	["zerg-spineshatter"]=15,
 	["zerht-spineshatter"]=5,
 	["zerkhunt-spineshatter"]=24,

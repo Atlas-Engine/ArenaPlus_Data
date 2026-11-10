@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9346 characters, read 2026-11-09 09:58 PM.
+-- Region tbc-us, 9346 characters, read 2026-11-09 10:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6786,6 +6786,7 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["rulik-nightslayer"]=70,
 	["rumesa-nightslayer"]=11,
 	["runawayy-dreamscythe"]=81,
+	["runbtc-nightslayer"]=101,
 	["runescaper-nightslayer"]=21,
 	["runitbracks-nightslayer"]=20,
 	["rushie-nightslayer"]=11,
@@ -9208,7 +9209,6 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["zns-nightslayer"]=70,
 	["znug-nightslayer"]=111,
 	["zocho-nightslayer"]=20,
-	["zofì-nightslayer"]=41,
 	["zoghunter-nightslayer"]=11,
 	["zoinksx-nightslayer"]=31,
 	["zoltun-nightslayer"]=50,
@@ -12975,7 +12975,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["iceblockx-nightslayer"]=6,
 	["icebreakers-nightslayer"]=4,
 	["icebutler-nightslayer"]=13,
-	["iceckle-nightslayer"]=13,
+	["iceckle-nightslayer"]=23,
 	["icecoffeh-nightslayer"]=16,
 	["icecreamgoat-nightslayer"]=24,
 	["icedancee-nightslayer"]=5,
@@ -15693,7 +15693,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["quesorita-nightslayer"]=13,
 	["queueitup-nightslayer"]=1,
 	["qui-nightslayer"]=2,
-	["quicklynow-nightslayer"]=5,
+	["quicklynow-nightslayer"]=8,
 	["quicktoes-dreamscythe"]=9,
 	["quicx-nightslayer"]=7,
 	["quii-nightslayer"]=11,
@@ -16109,6 +16109,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["rulik-nightslayer"]=4,
 	["rumesa-nightslayer"]=1,
 	["runawayy-dreamscythe"]=4,
+	["runbtc-nightslayer"]=17,
 	["runescaper-nightslayer"]=18,
 	["runitbracks-nightslayer"]=18,
 	["rushie-nightslayer"]=18,
@@ -16623,7 +16624,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["skeptxo-nightslayer"]=5,
 	["skg-nightslayer"]=7,
 	["skibidirizzw-nightslayer"]=5,
-	["skillherald-nightslayer"]=18,
+	["skillherald-nightslayer"]=2,
 	["skilltercept-nightslayer"]=2,
 	["skilltrap-nightslayer"]=21,
 	["skinnay-nightslayer"]=21,
@@ -18559,7 +18560,6 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["zns-nightslayer"]=2,
 	["znug-nightslayer"]=19,
 	["zocho-nightslayer"]=18,
-	["zofì-nightslayer"]=3,
 	["zoghunter-nightslayer"]=6,
 	["zoinksx-nightslayer"]=9,
 	["zoltun-nightslayer"]=1,
