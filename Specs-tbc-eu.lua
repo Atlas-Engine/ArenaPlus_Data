@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9592 characters, read 2026-11-09 06:59 PM.
+-- Region tbc-eu, 9592 characters, read 2026-11-09 07:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9904,7 +9904,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["astraél-spineshatter"]=1,
 	["astriella-spineshatter"]=2,
 	["astrozug-spineshatter"]=5,
-	["aswyn-spineshatter"]=6,
+	["aswyn-spineshatter"]=1,
 	["athenëwins-spineshatter"]=10,
 	["athexyo-spineshatter"]=9,
 	["athleet-spineshatter"]=15,
@@ -15880,7 +15880,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["pornello-spineshatter"]=2,
 	["poroseenok-spineshatter"]=5,
 	["pørtoss-thunderstrike"]=5,
-	["pøsipaka-spineshatter"]=19,
+	["pøsipaka-spineshatter"]=3,
 	["posledniÿraz-spineshatter"]=3,
 	["poslédniyraz-spineshatter"]=3,
 	["postarinke-spineshatter"]=14,
@@ -18602,7 +18602,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["witó-spineshatter"]=3,
 	["wittr-thunderstrike"]=4,
 	["wittrr-thunderstrike"]=4,
-	["wiwka-thunderstrike"]=9,
+	["wiwka-thunderstrike"]=4,
 	["wizbis-spineshatter"]=9,
 	["wizikk-spineshatter"]=3,
 	["wizikx-spineshatter"]=9,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5360 characters, read 2026-11-09 07:00 PM.
+-- Region eu, 5360 characters, read 2026-11-09 08:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5568,7 +5568,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["barilas-norushen"]=17,
 	["barkwinde-shekzeer"]=24,
 	["bastion-gehennas"]=0,
-	["batina-shekzeer"]=24,
+	["batina-shekzeer"]=26,
 	["batix-shekzeer"]=16,
 	["batleseek-shekzeer"]=1,
 	["bauzzy-shekzeer"]=2,
@@ -5664,7 +5664,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["blaqchina-shekzeer"]=6,
 	["blawi-mirage-raceway"]=1,
 	["blawii-mirage-raceway"]=2,
-	["blaxxs-everlook"]=21,
+	["blaxxs-everlook"]=32,
 	["blckmatt-shekzeer"]=6,
 	["bleexy-everlook"]=20,
 	["bleqy-shekzeer"]=15,
@@ -9062,7 +9062,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["soixanteuros-auberdine"]=13,
 	["sokorean-mirage-raceway"]=11,
 	["solá-shekzeer"]=17,
-	["solleillette-auberdine"]=12,
+	["solleillette-auberdine"]=22,
 	["sololvling-shekzeer"]=9,
 	["soloway-shekzeer"]=26,
 	["someonem-shekzeer"]=0,
