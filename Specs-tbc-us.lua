@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9331 characters, read 2026-11-10 03:58 PM.
+-- Region tbc-us, 9331 characters, read 2026-11-10 04:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9020,6 +9020,7 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["ynshax-nightslayer"]=111,
 	["ynslime-nightslayer"]=20,
 	["yntruck-nightslayer"]=70,
+	["ynvmebu-dreamscythe"]=101,
 	["ynwithcredit-nightslayer"]=50,
 	["yodead-nightslayer"]=70,
 	["yogibera-nightslayer"]=40,
@@ -10733,7 +10734,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["cloudtbc-nightslayer"]=15,
 	["cløvs-nightslayer"]=1,
 	["clownroom-nightslayer"]=10,
-	["clubsoda-nightslayer"]=5,
+	["clubsoda-nightslayer"]=8,
 	["clutchinup-nightslayer"]=5,
 	["clutters-nightslayer"]=6,
 	["cmc-nightslayer"]=10,
@@ -11452,7 +11453,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["driggity-nightslayer"]=7,
 	["dringet-nightslayer"]=2,
 	["drinktodrown-dreamscythe"]=19,
-	["drippyjönes-nightslayer"]=1,
+	["drippyjönes-nightslayer"]=12,
 	["dripyy-dreamscythe"]=5,
 	["drisv-nightslayer"]=5,
 	["drisyk-nightslayer"]=5,
@@ -18307,7 +18308,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["yahaha-nightslayer"]=5,
 	["yakmilk-nightslayer"]=11,
 	["yakü-dreamscythe"]=18,
-	["yakuzahw-nightslayer"]=13,
+	["yakuzahw-nightslayer"]=16,
 	["yalawl-nightslayer"]=18,
 	["yamî-nightslayer"]=18,
 	["yanald-dreamscythe"]=12,
@@ -18353,7 +18354,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ynshax-nightslayer"]=19,
 	["ynslime-nightslayer"]=2,
 	["yntruck-nightslayer"]=2,
-	["ynvmebu-dreamscythe"]=0,
+	["ynvmebu-dreamscythe"]=13,
 	["ynwithcredit-nightslayer"]=6,
 	["yodead-nightslayer"]=2,
 	["yogibera-nightslayer"]=7,
