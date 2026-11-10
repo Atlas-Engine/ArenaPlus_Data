@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5359 characters, read 2026-11-10 03:00 PM.
+-- Region eu, 5360 characters, read 2026-11-10 04:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2073,6 +2073,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["kennyk-garalon"]=21,
 	["kennyk-shekzeer"]=10,
 	["kennykk-garalon"]=21,
+	["kennyykofot-garalon"]=81,
 	["kenoh-shekzeer"]=10,
 	["kenrize-shekzeer"]=11,
 	["kenshìk-shekzeer"]=11,
@@ -3623,7 +3624,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["sheepwnz-shekzeer"]=11,
 	["sheepxgodx-shekzeer"]=11,
 	["sheezus-everlook"]=41,
-	["sheidheda-shekzeer"]=11,
 	["shendzyøt-auberdine"]=11,
 	["shentow-shekzeer"]=11,
 	["shepp-shekzeer"]=10,
@@ -6186,7 +6186,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["disconysus-garalon"]=9,
 	["discoprälle-shekzeer"]=22,
 	["discovery-shekzeer"]=7,
-	["diskotrisko-norushen"]=22,
+	["diskotrisko-norushen"]=9,
 	["dispelz-shekzeer"]=9,
 	["disperse-mirage-raceway"]=9,
 	["dispersio-mirage-raceway"]=3,
@@ -7281,6 +7281,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["kennyk-garalon"]=18,
 	["kennyk-shekzeer"]=1,
 	["kennykk-garalon"]=18,
+	["kennyykofot-garalon"]=24,
 	["kenoh-shekzeer"]=18,
 	["kenrize-shekzeer"]=2,
 	["kenshìk-shekzeer"]=1,
@@ -8913,7 +8914,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["sheepwnz-shekzeer"]=2,
 	["sheepxgodx-shekzeer"]=27,
 	["sheezus-everlook"]=9,
-	["sheidheda-shekzeer"]=5,
+	["sheidheda-shekzeer"]=0,
 	["shendzyøt-auberdine"]=6,
 	["shentow-shekzeer"]=1,
 	["shepp-shekzeer"]=15,
