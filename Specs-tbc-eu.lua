@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9590 characters, read 2026-11-10 10:59 AM.
+-- Region tbc-eu, 9590 characters, read 2026-11-10 11:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -15556,7 +15556,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["ossuary-spineshatter"]=14,
 	["ostronie-spineshatter"]=19,
 	["osz-spineshatter"]=13,
-	["Öt-spineshatter"]=3,
+	["Öt-spineshatter"]=19,
 	["otäck-spineshatter"]=5,
 	["otherone-spineshatter"]=9,
 	["otrex-spineshatter"]=1,
@@ -15730,7 +15730,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["peppyni-spineshatter"]=13,
 	["pepshot-spineshatter"]=25,
 	["peptideplug-spineshatter"]=11,
-	["pepxoxo-spineshatter"]=18,
+	["pepxoxo-spineshatter"]=14,
 	["perditions-spineshatter"]=3,
 	["pèrefrancois-spineshatter"]=7,
 	["peregrinex-spineshatter"]=9,
@@ -15881,7 +15881,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["poslédniyraz-spineshatter"]=3,
 	["postarinke-spineshatter"]=14,
 	["postarinké-spineshatter"]=13,
-	["postarinkeqt-spineshatter"]=2,
+	["postarinkeqt-spineshatter"]=17,
 	["postmaclone-spineshatter"]=1,
 	["postmalone-spineshatter"]=17,
 	["posty-spineshatter"]=4,
