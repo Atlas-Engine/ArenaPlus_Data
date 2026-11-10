@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9329 characters, read 2026-11-10 05:58 AM.
+-- Region tbc-us, 9329 characters, read 2026-11-10 06:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7262,7 +7262,6 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["sisenor-nightslayer"]=11,
 	["sisisonson-nightslayer"]=71,
 	["sisyphoss-nightslayer"]=11,
-	["sitdownsir-dreamscythe"]=31,
 	["siusi-nightslayer"]=10,
 	["sivyis-nightslayer"]=20,
 	["sixadin-nightslayer"]=100,
@@ -11395,7 +11394,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["dougothy-nightslayer"]=5,
 	["dougthar-nightslayer"]=19,
 	["dougx-nightslayer"]=2,
-	["doujaberry-nightslayer"]=1,
+	["doujaberry-nightslayer"]=14,
 	["douzrey-dreamscythe"]=18,
 	["downyz-nightslayer"]=24,
 	["doxmage-nightslayer"]=6,
@@ -16570,7 +16569,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["sisenor-nightslayer"]=5,
 	["sisisonson-nightslayer"]=13,
 	["sisyphoss-nightslayer"]=5,
-	["sitdownsir-dreamscythe"]=12,
+	["sitdownsir-dreamscythe"]=0,
 	["siusi-nightslayer"]=2,
 	["sivyis-nightslayer"]=10,
 	["sixadin-nightslayer"]=11,
@@ -18216,7 +18215,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["xandxr-nightslayer"]=13,
 	["xanniepakiow-nightslayer"]=5,
 	["xannyp-dreamscythe"]=11,
-	["xanplug-dreamscythe"]=2,
+	["xanplug-dreamscythe"]=18,
 	["xanplugd-dreamscythe"]=3,
 	["xantotem-nightslayer"]=24,
 	["xargos-dreamscythe"]=13,
