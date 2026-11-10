@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5360 characters, read 2026-11-10 05:00 PM.
+-- Region eu, 5360 characters, read 2026-11-10 06:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6022,7 +6022,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["crystalfrost-norushen"]=8,
 	["crystall-ook-ook"]=24,
 	["crystalsteal-shekzeer"]=1,
-	["cubbï-shekzeer"]=5,
+	["cubbï-shekzeer"]=15,
 	["cuccó-garalon"]=4,
 	["cuckmycoocon-shekzeer"]=6,
 	["cuckquatre-shekzeer"]=17,
@@ -7092,7 +7092,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["jaguarro-shekzeer"]=1,
 	["jaiky-mirage-raceway"]=4,
 	["jakam-shekzeer"]=21,
-	["jakamoto-shekzeer"]=17,
+	["jakamoto-shekzeer"]=23,
 	["jakamotô-shekzeer"]=17,
 	["jakamstar-shekzeer"]=26,
 	["jakeinator-shekzeer"]=1,
@@ -8808,7 +8808,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["sâsha-shekzeer"]=2,
 	["sashavolkova-garalon"]=24,
 	["satåna-garalon"]=4,
-	["satåna-shekzeer"]=14,
+	["satåna-shekzeer"]=4,
 	["såtanå-shekzeer"]=4,
 	["satånaz-shekzeer"]=4,
 	["satåntrapbot-shekzeer"]=4,
