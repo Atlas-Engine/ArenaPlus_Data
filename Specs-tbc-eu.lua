@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9601 characters, read 2026-11-11 11:54 AM.
+-- Region tbc-eu, 9601 characters, read 2026-11-11 12:54 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12710,7 +12710,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["håftbefehl-spineshatter"]=5,
 	["haftijr-spineshatter"]=5,
 	["hahahahalol-spineshatter"]=17,
-	["haileyroses-spineshatter"]=11,
+	["haileyroses-spineshatter"]=12,
 	["haipstar-thunderstrike"]=17,
 	["hajteck-spineshatter"]=2,
 	["hâko-spineshatter"]=8,
@@ -13315,7 +13315,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["jastemma-spineshatter"]=8,
 	["jauhojutku-thunderstrike"]=2,
 	["jausie-spineshatter"]=17,
-	["jausiebis-spineshatter"]=2,
+	["jausiebis-spineshatter"]=17,
 	["java-spineshatter"]=6,
 	["javlafyfan-spineshatter"]=1,
 	["jawohl-spineshatter"]=5,
@@ -14920,7 +14920,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["mosu-spineshatter"]=2,
 	["môtu-spineshatter"]=5,
 	["moufasa-spineshatter"]=1,
-	["moukarijeppe-spineshatter"]=11,
+	["moukarijeppe-spineshatter"]=23,
 	["moumouche-spineshatter"]=9,
 	["mouninjap-spineshatter"]=10,
 	["mouss-spineshatter"]=5,
