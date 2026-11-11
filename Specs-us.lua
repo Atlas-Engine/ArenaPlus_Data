@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5211 characters, read 2026-11-11 03:59 AM.
+-- Region us, 5213 characters, read 2026-11-11 04:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2972,6 +2972,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["mozzi-raden"]=10,
 	["mp-raden"]=41,
 	["mslusty-pagle"]=11,
+	["msnurfme-raden"]=220,
 	["msthickmeat-raden"]=31,
 	["mtj-atiesh"]=41,
 	["mtnbrews-raden"]=10,
@@ -2992,6 +2993,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["muridin-galakras"]=30,
 	["muriel-pagle"]=110,
 	["muroran-pagle"]=30,
+	["musa-raden"]=11,
 	["muschrooms-nazgrim"]=41,
 	["mused-lei-shen"]=11,
 	["mush-raden"]=41,
@@ -6279,7 +6281,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dreyad-pagle"]=5,
 	["dreyas-pagle"]=7,
 	["drfault-immerseus"]=5,
-	["drgewch-raden"]=10,
+	["drgewch-raden"]=4,
 	["drgspit-pagle"]=28,
 	["drhub-galakras"]=13,
 	["driadstorm-raden"]=12,
@@ -8079,6 +8081,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["mozzi-raden"]=7,
 	["mp-raden"]=9,
 	["mslusty-pagle"]=10,
+	["msnurfme-raden"]=5,
 	["msthickmeat-raden"]=15,
 	["mtj-atiesh"]=17,
 	["mtnbrews-raden"]=10,
@@ -8099,6 +8102,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["muridin-galakras"]=20,
 	["muriel-pagle"]=16,
 	["muroran-pagle"]=9,
+	["musa-raden"]=28,
 	["muschrooms-nazgrim"]=17,
 	["mused-lei-shen"]=10,
 	["mush-raden"]=9,
