@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5359 characters, read 2026-11-11 07:00 AM.
+-- Region eu, 5359 characters, read 2026-11-11 08:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2248,7 +2248,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["lazani-shekzeer"]=11,
 	["lazerchîcken-shekzeer"]=41,
 	["lazertease-shekzeer"]=110,
-	["lazinka-norushen"]=51,
 	["le-hoptallus"]=41,
 	["leafblowerx-shekzeer"]=41,
 	["leaftw-auberdine"]=11,
@@ -2401,7 +2400,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["machtû-shekzeer"]=11,
 	["macid-mirage-raceway"]=11,
 	["mackansdad-garalon"]=20,
-	["madaurmada-shekzeer"]=41,
 	["maddiganxo-shekzeer"]=41,
 	["madgurux-shekzeer"]=41,
 	["madlore-shekzeer"]=10,
@@ -7466,7 +7464,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["lazani-shekzeer"]=14,
 	["lazerchîcken-shekzeer"]=11,
 	["lazertease-shekzeer"]=13,
-	["lazinka-norushen"]=22,
+	["lazinka-norushen"]=0,
 	["lðu-shekzeer"]=0,
 	["le-hoptallus"]=9,
 	["leafblowerx-shekzeer"]=3,
@@ -7628,7 +7626,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["macid-mirage-raceway"]=6,
 	["mackansdad-garalon"]=4,
 	["madapasaax-shekzeer"]=0,
-	["madaurmada-shekzeer"]=3,
+	["madaurmada-shekzeer"]=0,
 	["madaurpapa-shekzeer"]=0,
 	["maddiganxo-shekzeer"]=3,
 	["madgurux-shekzeer"]=11,
@@ -7653,7 +7651,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["magicsnap-shekzeer"]=20,
 	["magicstar-shekzeer"]=10,
 	["magnificènt-shekzeer"]=2,
-	["magnolean-shekzeer"]=24,
+	["magnolean-shekzeer"]=26,
 	["maîja-shekzeer"]=2,
 	["maje-shekzeer"]=17,
 	["majinbbx-shekzeer"]=24,
