@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9601 characters, read 2026-11-11 01:54 PM.
+-- Region tbc-eu, 9601 characters, read 2026-11-11 02:49 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9993,7 +9993,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["ayol-spineshatter"]=15,
 	["ayoling-spineshatter"]=13,
 	["ayytsu-spineshatter"]=6,
-	["ayz-thunderstrike"]=7,
+	["ayz-thunderstrike"]=26,
 	["ayzea-thunderstrike"]=1,
 	["ayzonwarri-thunderstrike"]=5,
 	["azapmage-thunderstrike"]=9,
@@ -13995,7 +13995,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["lalalalalax-spineshatter"]=9,
 	["lamashow-spineshatter"]=2,
 	["lamatrion-thunderstrike"]=1,
-	["lamaxd-spineshatter"]=19,
+	["lamaxd-spineshatter"]=3,
 	["lambi-spineshatter"]=3,
 	["lambibear-spineshatter"]=1,
 	["lamecoil-spineshatter"]=3,
@@ -14372,7 +14372,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["mackeqts-spineshatter"]=12,
 	["macmiller-spineshatter"]=3,
 	["mâdàrá-spineshatter"]=5,
-	["madasfk-spineshatter"]=12,
+	["madasfk-spineshatter"]=11,
 	["madbrew-spineshatter"]=12,
 	["madbullen-spineshatter"]=5,
 	["maddnegodx-spineshatter"]=3,
@@ -18594,7 +18594,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["wickeddiana-spineshatter"]=14,
 	["wickman-spineshatter"]=13,
 	["wifesmasher-spineshatter"]=11,
-	["wikick-thunderstrike"]=15,
+	["wikick-thunderstrike"]=5,
 	["wikous-spineshatter"]=9,
 	["wildmom-spineshatter"]=6,
 	["wildrooster-spineshatter"]=1,
@@ -18845,7 +18845,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["yêklik-spineshatter"]=5,
 	["yel-spineshatter"]=17,
 	["yellowloser-spineshatter"]=19,
-	["yellowtmzdog-spineshatter"]=3,
+	["yellowtmzdog-spineshatter"]=19,
 	["yendispriest-thunderstrike"]=17,
 	["yenek-spineshatter"]=8,
 	["yennez-thunderstrike"]=1,

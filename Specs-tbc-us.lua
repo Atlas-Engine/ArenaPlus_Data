@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9330 characters, read 2026-11-11 01:58 PM.
+-- Region tbc-us, 9330 characters, read 2026-11-11 02:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9727,7 +9727,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["baka-nightslayer"]=14,
 	["bakalmao-nightslayer"]=25,
 	["bakazurog-nightslayer"]=16,
-	["bakeitblast-dreamscythe"]=4,
+	["bakeitblast-dreamscythe"]=6,
 	["bakenx-nightslayer"]=5,
 	["bakeshaman-nightslayer"]=10,
 	["bakey-dreamscythe"]=6,
@@ -10088,7 +10088,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["blickytucked-nightslayer"]=6,
 	["blindfold-nightslayer"]=8,
 	["blindhots-nightslayer"]=7,
-	["blìnker-dreamscythe"]=14,
+	["blìnker-dreamscythe"]=1,
 	["blinkur-nightslayer"]=4,
 	["blitzzkìn-nightslayer"]=7,
 	["blixxus-dreamscythe"]=2,
@@ -11387,7 +11387,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["dotsndrains-nightslayer"]=13,
 	["dottaholic-dreamscythe"]=13,
 	["dotteddeath-nightslayer"]=16,
-	["dotterx-nightslayer"]=13,
+	["dotterx-nightslayer"]=16,
 	["double-nightslayer"]=18,
 	["doublehealer-nightslayer"]=7,
 	["dougdimidome-nightslayer"]=11,
@@ -18509,7 +18509,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ziggý-nightslayer"]=4,
 	["ziggyzigs-nightslayer"]=4,
 	["zihk-nightslayer"]=1,
-	["zilong-dreamscythe"]=2,
+	["zilong-dreamscythe"]=18,
 	["zimo-nightslayer"]=13,
 	["zinadel-dreamscythe"]=0,
 	["zingwar-nightslayer"]=18,

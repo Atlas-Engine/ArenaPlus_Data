@@ -18,7 +18,7 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region us, season 14, read 2026-11-11 01:59 PM.
+-- Region us, season 14, read 2026-11-11 02:59 PM.
 -- Realm display names, because the ladder only carries slugs and no rule
 -- turns one back into the other: raden is Ra-den, lei-shen is Lei Shen and
 -- arugal-au is Arugal (AU). Read from Blizzard's realm index; a slug with no
@@ -35,8 +35,8 @@ ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["us"] = {
 	region  = "us",
-	checked = "2026-11-11 01:59 PM",
-	checkedEpoch = 1794423570,
+	checked = "2026-11-11 02:59 PM",
+	checkedEpoch = 1794427171,
 	snapshot = "2026-11-11 18:17",
 
 	[1] = {  -- 2v2, 5008 places, down to rating 1135 -- the API stops here, short of the cutoff
@@ -1876,7 +1876,6 @@ ns.LEADERBOARD_BY_REGION["us"] = {
 		{ rank=1833, name="Kavarnxx", realm="raden", rating=1936, won=138, lost=119, faction="ALLIANCE", dr=0, dk=16 },
 		{ rank=1833, name="Merckup", realm="pagle", rating=1936, won=74, lost=73, faction="ALLIANCE", mr=2000, dr=0, dk=16 },
 		{ rank=1836, name="Coxãoduro", realm="pagle", rating=1935, won=74, lost=78, faction="HORDE", dr=0, dk=15 },
-		{ rank=1836, name="Darkdeamon", realm="pagle", rating=1935, won=309, lost=342, faction="HORDE", dr=77, dk=-478 },
 		{ rank=1836, name="Emanuely", realm="pagle", rating=1935, won=185, lost=203, faction="HORDE", dr=0, dk=15 },
 		{ rank=1836, name="Ifaceroll", realm="galakras", rating=1935, won=247, lost=249, faction="ALLIANCE", mr=1958, dr=0, dk=15 },
 		{ rank=1836, name="Marøon", realm="raden", rating=1935, won=90, lost=72, faction="HORDE", mr=2006, dr=0, dk=15 },
@@ -1884,11 +1883,12 @@ ns.LEADERBOARD_BY_REGION["us"] = {
 		{ rank=1836, name="Seraphym", realm="pagle", rating=1935, won=137, lost=150, faction="HORDE", dr=0, dk=15 },
 		{ rank=1836, name="Vivabo", realm="galakras", rating=1935, won=186, lost=207, faction="HORDE", mr=1973, dr=0, dk=15 },
 		{ rank=1836, name="Whreabuser", realm="raden", rating=1935, won=57, lost=128, faction="ALLIANCE", dr=0, dk=15 },
-		{ rank=1845, name="Bowflexy", realm="raden", rating=1934, won=119, lost=98, faction="ALLIANCE", dr=0, dk=15 },
-		{ rank=1845, name="Geebroni", realm="pagle", rating=1934, won=920, lost=1120, faction="ALLIANCE", mr=2040, dr=-2, dk=28 },
-		{ rank=1845, name="Greaf", realm="grobbulus", rating=1934, won=73, lost=63, faction="ALLIANCE", dr=0, dk=15 },
-		{ rank=1845, name="Hungridm", realm="nazgrim", rating=1934, won=92, lost=99, faction="HORDE", mr=1990, dr=0, dk=15 },
-		{ rank=1845, name="Pumpermcgee", realm="arugal-au", rating=1934, won=151, lost=154, faction="HORDE", dr=0, dk=15 },
+		{ rank=1844, name="Bowflexy", realm="raden", rating=1934, won=119, lost=98, faction="ALLIANCE", dr=0, dk=14 },
+		{ rank=1844, name="Darkdeamon", realm="pagle", rating=1934, won=309, lost=343, faction="HORDE", mr=1935, dr=76, dk=-470 },
+		{ rank=1844, name="Geebroni", realm="pagle", rating=1934, won=920, lost=1120, faction="ALLIANCE", mr=2040, dr=-2, dk=27 },
+		{ rank=1844, name="Greaf", realm="grobbulus", rating=1934, won=73, lost=63, faction="ALLIANCE", dr=0, dk=14 },
+		{ rank=1844, name="Hungridm", realm="nazgrim", rating=1934, won=92, lost=99, faction="HORDE", mr=1990, dr=0, dk=14 },
+		{ rank=1844, name="Pumpermcgee", realm="arugal-au", rating=1934, won=151, lost=154, faction="HORDE", dr=0, dk=14 },
 		{ rank=1850, name="Allofthebeer", realm="pagle", rating=1933, won=67, lost=62, faction="ALLIANCE", dr=0, dk=15 },
 		{ rank=1850, name="Aronuti", realm="lei-shen", rating=1933, won=211, lost=285, faction="HORDE", dr=50, dk=-293 },
 		{ rank=1850, name="Brotherbob", realm="raden", rating=1933, won=72, lost=60, faction="ALLIANCE", dr=0, dk=15 },
