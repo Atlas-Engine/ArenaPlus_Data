@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5211 characters, read 2026-11-11 01:59 AM.
+-- Region us, 5211 characters, read 2026-11-11 02:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6683,7 +6683,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["fuzyywuzyy-nazgrim"]=13,
 	["fuzzywaifu-lei-shen"]=10,
 	["fxd-arugal-au"]=5,
-	["fyruss-pagle"]=20,
+	["fyruss-pagle"]=3,
 	["gaarah-pagle"]=1,
 	["gabimaru-raden"]=4,
 	["gaejustin-pagle"]=33,
@@ -8131,7 +8131,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["naghvoid-pagle"]=21,
 	["nahfr-pagle"]=6,
 	["naigerle-pagle"]=24,
-	["nairtas-nazgrim"]=18,
+	["nairtas-nazgrim"]=3,
 	["nalix-nazgrim"]=5,
 	["nalx-raden"]=5,
 	["namosca-pagle"]=3,
@@ -8154,7 +8154,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["nastyhealz-pagle"]=9,
 	["nastynate-galakras"]=3,
 	["nastytaint-galakras"]=8,
-	["natalia-raden"]=14,
+	["natalia-raden"]=34,
 	["natasteps-galakras"]=29,
 	["nathaniel-lei-shen"]=5,
 	["nattypriest-pagle"]=9,
@@ -8178,7 +8178,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["nebugrape-raden"]=8,
 	["nebupeach-nazgrim"]=8,
 	["nebuplum-raden"]=8,
-	["necris-galakras"]=6,
+	["necris-galakras"]=26,
 	["necrodo-pagle"]=6,
 	["necrolife-nazgrim"]=24,
 	["neftyo-raden"]=9,
