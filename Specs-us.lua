@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5211 characters, read 2026-11-10 09:59 PM.
+-- Region us, 5210 characters, read 2026-11-10 10:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4326,7 +4326,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["takyto-nazgrim"]=60,
 	["talksíck-pagle"]=11,
 	["tamerac-raden"]=11,
-	["tamerak-raden"]=11,
 	["tamhee-immerseus"]=101,
 	["tammyjane-pagle"]=11,
 	["tamnar-immerseus"]=101,
@@ -6360,7 +6359,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ebaylol-raden"]=1,
 	["ebolarama-galakras"]=2,
 	["ebtsniper-raden"]=3,
-	["ecafkcufhi-raden"]=10,
+	["ecafkcufhi-raden"]=4,
 	["echodotx-raden"]=9,
 	["eci-raden"]=9,
 	["ecmoo-pagle"]=4,
@@ -8471,7 +8470,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["peasalou-raden"]=2,
 	["pebblefist-pagle"]=7,
 	["peckrwood-immerseus"]=5,
-	["pedreirø-nazgrim"]=18,
+	["pedreirø-nazgrim"]=3,
 	["peekñheal-arugal-au"]=19,
 	["peelyocapbak-benediction"]=7,
 	["peligrozx-pagle"]=14,
@@ -8562,7 +8561,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["poppcorn-raden"]=5,
 	["popsmokè-pagle"]=29,
 	["pörch-pagle"]=14,
-	["porkchopx-nazgrim"]=10,
+	["porkchopx-nazgrim"]=4,
 	["porkfriedrai-immerseus"]=4,
 	["portholio-pagle"]=4,
 	["potatoes-arugal-au"]=18,
@@ -9506,7 +9505,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["takyto-nazgrim"]=16,
 	["talksíck-pagle"]=1,
 	["tamerac-raden"]=28,
-	["tamerak-raden"]=28,
 	["tamhee-immerseus"]=4,
 	["tammyjane-pagle"]=16,
 	["tamnar-immerseus"]=20,

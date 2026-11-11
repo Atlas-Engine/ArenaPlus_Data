@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9331 characters, read 2026-11-10 09:58 PM.
+-- Region tbc-us, 9330 characters, read 2026-11-10 10:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5386,7 +5386,6 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["mýnd-nightslayer"]=11,
 	["myndful-nightslayer"]=30,
 	["myo-nightslayer"]=20,
-	["myos-nightslayer"]=50,
 	["myoshift-nightslayer"]=60,
 	["myro-nightslayer"]=20,
 	["mystasyl-nightslayer"]=111,
@@ -8335,7 +8334,6 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["twofeetjimmy-nightslayer"]=50,
 	["twoheads-nightslayer"]=21,
 	["twopoundturd-nightslayer"]=20,
-	["twosa-nightslayer"]=50,
 	["twosecdelay-dreamscythe"]=11,
 	["twosenjoyer-nightslayer"]=31,
 	["twowatersthx-nightslayer"]=50,
@@ -9194,6 +9192,7 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["zns-nightslayer"]=70,
 	["znug-nightslayer"]=111,
 	["zocho-nightslayer"]=20,
+	["zofì-nightslayer"]=41,
 	["zoghunter-nightslayer"]=11,
 	["zoinksx-nightslayer"]=31,
 	["zoltun-nightslayer"]=50,
@@ -9409,7 +9408,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["allbirds-nightslayer"]=4,
 	["allegheny-nightslayer"]=2,
 	["allemin-nightslayer"]=5,
-	["allenstout-nightslayer"]=21,
+	["allenstout-nightslayer"]=15,
 	["allstarsocal-nightslayer"]=17,
 	["allstarxx-nightslayer"]=15,
 	["allupinsideu-nightslayer"]=9,
@@ -14133,7 +14132,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["madredelamor-dreamscythe"]=1,
 	["madrote-dreamscythe"]=1,
 	["madx-nightslayer"]=24,
-	["madxi-nightslayer"]=6,
+	["madxi-nightslayer"]=4,
 	["maellol-dreamscythe"]=5,
 	["mafuyusato-nightslayer"]=4,
 	["mãgé-nightslayer"]=5,
@@ -14670,7 +14669,6 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["mýnd-nightslayer"]=4,
 	["myndful-nightslayer"]=1,
 	["myo-nightslayer"]=2,
-	["myos-nightslayer"]=5,
 	["myoshift-nightslayer"]=7,
 	["myro-nightslayer"]=2,
 	["mystasyl-nightslayer"]=19,
@@ -17656,7 +17654,6 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["twofeetjimmy-nightslayer"]=1,
 	["twoheads-nightslayer"]=18,
 	["twopoundturd-nightslayer"]=2,
-	["twosa-nightslayer"]=4,
 	["twosecdelay-dreamscythe"]=2,
 	["twosenjoyer-nightslayer"]=1,
 	["twowatersthx-nightslayer"]=5,
@@ -18530,6 +18527,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["zns-nightslayer"]=2,
 	["znug-nightslayer"]=19,
 	["zocho-nightslayer"]=18,
+	["zofì-nightslayer"]=7,
 	["zoghunter-nightslayer"]=6,
 	["zoinksx-nightslayer"]=9,
 	["zoltun-nightslayer"]=1,
