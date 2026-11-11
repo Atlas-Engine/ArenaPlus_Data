@@ -18,7 +18,7 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region eu, season 14, read 2026-11-11 09:00 AM.
+-- Region eu, season 14, read 2026-11-11 10:00 AM.
 -- Realm display names, because the ladder only carries slugs and no rule
 -- turns one back into the other: raden is Ra-den, lei-shen is Lei Shen and
 -- arugal-au is Arugal (AU). Read from Blizzard's realm index; a slug with no
@@ -34,9 +34,9 @@ ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["eu"] = {
 	region  = "eu",
-	checked = "2026-11-11 09:00 AM",
-	checkedEpoch = 1794405613,
-	snapshot = "2026-11-11 11:13",
+	checked = "2026-11-11 10:00 AM",
+	checkedEpoch = 1794409211,
+	snapshot = "2026-11-11 14:13",
 
 	[1] = {  -- 2v2, 5000 places, down to rating 1049 -- the API stops here, short of the cutoff
 		{ rank=1, name="Satåntrapbot", realm="shekzeer", rating=2917, won=323, lost=86, faction="ALLIANCE", dr=0, dk=0 },
@@ -652,17 +652,17 @@ ns.LEADERBOARD_BY_REGION["eu"] = {
 		{ rank=609, name="Sumtinrother", realm="shekzeer", rating=2272, won=169, lost=176, faction="ALLIANCE", mr=2308, dr=14, dk=-36 },
 		{ rank=609, name="Zengø", realm="shekzeer", rating=2272, won=107, lost=97, faction="ALLIANCE", dr=0, dk=13 },
 		{ rank=609, name="Будрыкк", realm="flamegor", rating=2272, won=385, lost=374, faction="HORDE", dr=0, dk=13 },
+		{ rank=614, name="Crazyskill", realm="shekzeer", rating=2271, won=336, lost=355, faction="ALLIANCE", dr=2, dk=9 },
 		{ rank=614, name="Topspalz", realm="shekzeer", rating=2271, won=145, lost=109, faction="ALLIANCE", dr=0, dk=14 },
-		{ rank=615, name="Airfunk", realm="shekzeer", rating=2270, won=120, lost=83, faction="ALLIANCE", mr=2292, dr=0, dk=13 },
-		{ rank=615, name="Bsød", realm="mirage-raceway", rating=2270, won=179, lost=173, faction="ALLIANCE", dr=0, dk=13 },
-		{ rank=615, name="Tealsbrew", realm="shekzeer", rating=2270, won=108, lost=96, faction="ALLIANCE", mr=2279, dr=0, dk=13 },
-		{ rank=618, name="Anyataylor", realm="shekzeer", rating=2269, won=94, lost=82, faction="ALLIANCE", dr=0, dk=13 },
-		{ rank=618, name="Chucknofist", realm="ook-ook", rating=2269, won=82, lost=52, faction="ALLIANCE", dr=0, dk=13 },
-		{ rank=618, name="Crazyskill", realm="shekzeer", rating=2269, won=335, lost=355, faction="ALLIANCE", dr=0, dk=13 },
-		{ rank=618, name="Førestgump", realm="garalon", rating=2269, won=57, lost=46, faction="ALLIANCE", dr=0, dk=13 },
-		{ rank=618, name="Makû", realm="auberdine", rating=2269, won=85, lost=80, faction="HORDE", dr=2, dk=5 },
-		{ rank=618, name="Saralyssa", realm="auberdine", rating=2269, won=101, lost=99, faction="HORDE", dr=2, dk=5 },
-		{ rank=618, name="Ugotbanornot", realm="shekzeer", rating=2269, won=57, lost=17, faction="ALLIANCE", dr=0, dk=13 },
+		{ rank=616, name="Airfunk", realm="shekzeer", rating=2270, won=120, lost=83, faction="ALLIANCE", mr=2292, dr=0, dk=14 },
+		{ rank=616, name="Bsød", realm="mirage-raceway", rating=2270, won=179, lost=173, faction="ALLIANCE", dr=0, dk=14 },
+		{ rank=616, name="Tealsbrew", realm="shekzeer", rating=2270, won=108, lost=96, faction="ALLIANCE", mr=2279, dr=0, dk=14 },
+		{ rank=619, name="Anyataylor", realm="shekzeer", rating=2269, won=94, lost=82, faction="ALLIANCE", dr=0, dk=14 },
+		{ rank=619, name="Chucknofist", realm="ook-ook", rating=2269, won=82, lost=52, faction="ALLIANCE", dr=0, dk=14 },
+		{ rank=619, name="Førestgump", realm="garalon", rating=2269, won=57, lost=46, faction="ALLIANCE", dr=0, dk=14 },
+		{ rank=619, name="Makû", realm="auberdine", rating=2269, won=85, lost=80, faction="HORDE", dr=2, dk=6 },
+		{ rank=619, name="Saralyssa", realm="auberdine", rating=2269, won=101, lost=99, faction="HORDE", dr=2, dk=6 },
+		{ rank=619, name="Ugotbanornot", realm="shekzeer", rating=2269, won=57, lost=17, faction="ALLIANCE", dr=0, dk=14 },
 		{ rank=625, name="Asmrglow", realm="shekzeer", rating=2268, won=68, lost=60, faction="ALLIANCE", mr=2311, dr=0, dk=15 },
 		{ rank=625, name="Bubblebêé", realm="everlook", rating=2268, won=178, lost=157, faction="ALLIANCE", mr=2315, dr=-32, dk=97 },
 		{ rank=625, name="Demomain", realm="shekzeer", rating=2268, won=101, lost=83, faction="ALLIANCE", dr=0, dk=15 },
@@ -1007,10 +1007,10 @@ ns.LEADERBOARD_BY_REGION["eu"] = {
 		{ rank=965, name="Flx", realm="shekzeer", rating=2194, won=105, lost=108, faction="ALLIANCE", mr=2222, dr=0, dk=14 },
 		{ rank=965, name="Вялыйпал", realm="flamegor", rating=2194, won=139, lost=156, faction="ALLIANCE", mr=2254, dr=0, dk=14 },
 		{ rank=968, name="Drainhunter", realm="shekzeer", rating=2193, won=86, lost=76, faction="ALLIANCE", dr=0, dk=14 },
+		{ rank=968, name="Metabis", realm="shekzeer", rating=2193, won=149, lost=131, faction="ALLIANCE", mr=2210, dr=2, dk=12 },
 		{ rank=968, name="Ysomade", realm="everlook", rating=2193, won=90, lost=85, faction="ALLIANCE", mr=2197, dr=82, dk=-275 },
-		{ rank=970, name="Drumandbassx", realm="shekzeer", rating=2191, won=143, lost=164, faction="ALLIANCE", mr=2297, dr=0, dk=14 },
-		{ rank=970, name="Metabis", realm="shekzeer", rating=2191, won=148, lost=131, faction="ALLIANCE", mr=2210, dr=0, dk=14 },
-		{ rank=970, name="Pipioe", realm="shekzeer", rating=2191, won=174, lost=136, faction="ALLIANCE", mr=2201, dr=0, dk=14 },
+		{ rank=971, name="Drumandbassx", realm="shekzeer", rating=2191, won=143, lost=164, faction="ALLIANCE", mr=2297, dr=0, dk=15 },
+		{ rank=971, name="Pipioe", realm="shekzeer", rating=2191, won=174, lost=136, faction="ALLIANCE", mr=2201, dr=0, dk=15 },
 		{ rank=973, name="Gødzilla", realm="shekzeer", rating=2190, won=50, lost=24, faction="ALLIANCE", dr=0, dk=14 },
 		{ rank=973, name="Nøxylol", realm="everlook", rating=2190, won=62, lost=53, faction="ALLIANCE", dr=0, dk=14 },
 		{ rank=973, name="Seaudpurin", realm="shekzeer", rating=2190, won=143, lost=133, faction="ALLIANCE", mr=2201, dr=0, dk=14 },
@@ -4173,7 +4173,7 @@ ns.LEADERBOARD_BY_REGION["eu"] = {
 		{ rank=4127, name="Lostpinky", realm="shekzeer", rating=1675, won=23, lost=12, faction="ALLIANCE", mr=2005, dr=0, dk=18 },
 		{ rank=4127, name="Mco", realm="mirage-raceway", rating=1675, won=43, lost=50, faction="ALLIANCE", dr=0, dk=18 },
 		{ rank=4127, name="Nukuportlol", realm="hoptallus", rating=1675, won=71, lost=77, faction="ALLIANCE", dr=0, dk=18 },
-		{ rank=4127, name="Soulburnerx", realm="auberdine", rating=1675, won=23, lost=30, faction="ALLIANCE", dr=0, dk=18 },
+		{ rank=4127, name="Soulburnerx", realm="auberdine", rating=1675, won=23, lost=31, faction="ALLIANCE", dr=0, dk=18 },
 		{ rank=4127, name="Svårtva", realm="shekzeer", rating=1675, won=23, lost=10, faction="ALLIANCE", dr=0, dk=18 },
 		{ rank=4127, name="Xdkale", realm="shekzeer", rating=1675, won=65, lost=70, faction="ALLIANCE", dr=0, dk=18 },
 		{ rank=4127, name="Zsivy", realm="mirage-raceway", rating=1675, won=25, lost=22, faction="ALLIANCE", dr=0, dk=18 },

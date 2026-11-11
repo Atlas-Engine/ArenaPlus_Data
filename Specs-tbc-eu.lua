@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9600 characters, read 2026-11-11 08:59 AM.
+-- Region tbc-eu, 9601 characters, read 2026-11-11 09:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6042,6 +6042,7 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["oxeh-spineshatter"]=20,
 	["Øxel-spineshatter"]=31,
 	["oxidizer-spineshatter"]=50,
+	["oxij-spineshatter"]=21,
 	["oxxyguen-spineshatter"]=20,
 	["oxyh-spineshatter"]=30,
 	["ozael-spineshatter"]=50,
@@ -15333,7 +15334,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["nograta-spineshatter"]=5,
 	["nohandstand-spineshatter"]=25,
 	["noiße-spineshatter"]=1,
-	["noitsbecky-spineshatter"]=9,
+	["noitsbecky-spineshatter"]=4,
 	["nolifenòóne-spineshatter"]=1,
 	["nolifeqt-spineshatter"]=3,
 	["nølífer-spineshatter"]=2,
@@ -15597,6 +15598,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["oxeh-spineshatter"]=12,
 	["Øxel-spineshatter"]=2,
 	["oxidizer-spineshatter"]=8,
+	["oxij-spineshatter"]=5,
 	["oxxyguen-spineshatter"]=18,
 	["oxyh-spineshatter"]=8,
 	["ozael-spineshatter"]=2,
