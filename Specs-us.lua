@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5210 characters, read 2026-11-11 12:59 AM.
+-- Region us, 5211 characters, read 2026-11-11 01:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4326,6 +4326,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["takyto-nazgrim"]=60,
 	["talksíck-pagle"]=11,
 	["tamerac-raden"]=11,
+	["tamerak-raden"]=11,
 	["tamhee-immerseus"]=101,
 	["tammyjane-pagle"]=11,
 	["tamnar-immerseus"]=101,
@@ -5754,7 +5755,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["chambeazley-pagle"]=2,
 	["chamboyswag-nazgrim"]=19,
 	["champlock-raden"]=28,
-	["champmage-raden"]=31,
+	["champmage-raden"]=1,
 	["chaoscrittv-pagle"]=2,
 	["chaoscutie-galakras"]=24,
 	["chaôss-pagle"]=5,
@@ -7555,7 +7556,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["kroun-raden"]=14,
 	["krpriest-nazgrim"]=13,
 	["ksoldier-pagle"]=16,
-	["kthall-pagle"]=23,
+	["kthall-pagle"]=30,
 	["ktm-lei-shen"]=5,
 	["kunfuki-raden"]=10,
 	["kungfugrip-arugal-au"]=10,
@@ -8252,7 +8253,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["nodisponíble-raden"]=1,
 	["noescape-raden"]=6,
 	["nøether-raden"]=7,
-	["nofæar-nazgrim"]=1,
+	["nofæar-nazgrim"]=31,
 	["nogame-pagle"]=14,
 	["noizzy-raden"]=1,
 	["nøktërîä-nazgrim"]=21,
@@ -9505,6 +9506,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["takyto-nazgrim"]=16,
 	["talksíck-pagle"]=1,
 	["tamerac-raden"]=28,
+	["tamerak-raden"]=28,
 	["tamhee-immerseus"]=4,
 	["tammyjane-pagle"]=16,
 	["tamnar-immerseus"]=20,
