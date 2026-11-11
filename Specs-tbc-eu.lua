@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9598 characters, read 2026-11-10 07:59 PM.
+-- Region tbc-eu, 9598 characters, read 2026-11-10 08:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12914,7 +12914,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["holysaxyböw-spineshatter"]=25,
 	["holysaxyböy-spineshatter"]=7,
 	["holyschlong-spineshatter"]=26,
-	["hólysense-spineshatter"]=2,
+	["hólysense-spineshatter"]=8,
 	["holysunshine-spineshatter"]=10,
 	["homelanderx-spineshatter"]=3,
 	["homerjayx-spineshatter"]=24,
@@ -14697,7 +14697,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["mieryn-spineshatter"]=1,
 	["mifo-spineshatter"]=3,
 	["mightykizza-spineshatter"]=1,
-	["mightylol-thunderstrike"]=9,
+	["mightylol-thunderstrike"]=4,
 	["migrosh-spineshatter"]=11,
 	["mihx-thunderstrike"]=17,
 	["miilakunis-spineshatter"]=5,
@@ -16338,7 +16338,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["requiemit-spineshatter"]=3,
 	["requinze-thunderstrike"]=18,
 	["resisthis-spineshatter"]=21,
-	["resistinnit-spineshatter"]=14,
+	["resistinnit-spineshatter"]=13,
 	["resistog-thunderstrike"]=5,
 	["resistplz-spineshatter"]=5,
 	["resistshade-spineshatter"]=1,
