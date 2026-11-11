@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9598 characters, read 2026-11-10 06:59 PM.
+-- Region tbc-eu, 9598 characters, read 2026-11-10 07:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12495,7 +12495,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["ghillìe-spineshatter"]=3,
 	["ghingis-spineshatter"]=13,
 	["ghingisx-spineshatter"]=13,
-	["ghoss-spineshatter"]=5,
+	["ghoss-spineshatter"]=15,
 	["ghossupipper-spineshatter"]=5,
 	["ghostgeo-spineshatter"]=3,
 	["ghostloll-spineshatter"]=7,
@@ -12706,7 +12706,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["haffa-spineshatter"]=12,
 	["håftbefehl-spineshatter"]=5,
 	["haftijr-spineshatter"]=5,
-	["hahahahalol-spineshatter"]=2,
+	["hahahahalol-spineshatter"]=17,
 	["haileyroses-spineshatter"]=11,
 	["haipstar-thunderstrike"]=17,
 	["hajteck-spineshatter"]=2,
@@ -13459,7 +13459,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["jostar-thunderstrike"]=9,
 	["jostix-spineshatter"]=10,
 	["jouh-spineshatter"]=2,
-	["jouho-spineshatter"]=2,
+	["jouho-spineshatter"]=17,
 	["joxepavepipe-spineshatter"]=4,
 	["joyner-thunderstrike"]=9,
 	["jpws-spineshatter"]=23,
@@ -14362,7 +14362,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["lyssera-spineshatter"]=1,
 	["lyxos-spineshatter"]=3,
 	["maastaveto-spineshatter"]=1,
-	["macancheese-spineshatter"]=15,
+	["macancheese-spineshatter"]=22,
 	["macecarries-thunderstrike"]=5,
 	["macestunx-spineshatter"]=5,
 	["macgayge-spineshatter"]=9,
@@ -15807,7 +15807,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["pikkukamu-spineshatter"]=2,
 	["pikkuliha-spineshatter"]=5,
 	["pikkulusti-spineshatter"]=11,
-	["pikkup-spineshatter"]=8,
+	["pikkup-spineshatter"]=2,
 	["pikkusuili-spineshatter"]=2,
 	["piljak-spineshatter"]=8,
 	["pillarhug-spineshatter"]=2,
