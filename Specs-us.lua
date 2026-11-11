@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5210 characters, read 2026-11-10 11:59 PM.
+-- Region us, 5210 characters, read 2026-11-11 12:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -8388,7 +8388,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["orcz-pagle"]=7,
 	["ordanary-pagle"]=4,
 	["ordinary-galakras"]=5,
-	["orgian-pagle"]=5,
+	["orgian-pagle"]=17,
 	["orgimmar-raden"]=31,
 	["oricalco-galakras"]=0,
 	["originalgank-pagle"]=0,
@@ -9820,7 +9820,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["vacalola-galakras"]=19,
 	["vadeera-raden"]=14,
 	["vaity-pagle"]=9,
-	["vajra-raden"]=29,
+	["vajra-raden"]=14,
 	["valagarth-raden"]=9,
 	["valdo-raden"]=7,
 	["validation-galakras"]=2,

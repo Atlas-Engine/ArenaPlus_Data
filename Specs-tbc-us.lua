@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9330 characters, read 2026-11-10 11:58 PM.
+-- Region tbc-us, 9330 characters, read 2026-11-11 12:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -13801,7 +13801,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["lazygruf-nightslayer"]=5,
 	["lbn-nightslayer"]=4,
 	["lbw-nightslayer"]=13,
-	["lbzs-nightslayer"]=14,
+	["lbzs-nightslayer"]=1,
 	["lcr-dreamscythe"]=13,
 	["leafless-nightslayer"]=1,
 	["leakybanana-nightslayer"]=1,
@@ -14790,7 +14790,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["nesqx-nightslayer"]=13,
 	["nessíe-nightslayer"]=7,
 	["nessonezx-nightslayer"]=2,
-	["netha-nightslayer"]=2,
+	["netha-nightslayer"]=20,
 	["Ñett-nightslayer"]=5,
 	["netwrk-nightslayer"]=5,
 	["netxd-nightslayer"]=10,
@@ -15287,7 +15287,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["pelusa-nightslayer"]=5,
 	["penancé-nightslayer"]=1,
 	["pénance-nightslayer"]=1,
-	["pendulam-dreamscythe"]=10,
+	["pendulam-dreamscythe"]=19,
 	["penix-nightslayer"]=2,
 	["pennywies-nightslayer"]=4,
 	["pentradora-nightslayer"]=10,
@@ -15664,7 +15664,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["quendas-nightslayer"]=16,
 	["quesorita-nightslayer"]=13,
 	["queueitup-nightslayer"]=1,
-	["qui-nightslayer"]=2,
+	["qui-nightslayer"]=18,
 	["quicklynow-nightslayer"]=8,
 	["quicktoes-dreamscythe"]=9,
 	["quicx-nightslayer"]=7,
