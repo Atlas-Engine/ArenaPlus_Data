@@ -18,7 +18,7 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region eu, season 14, read 2026-11-11 08:00 AM.
+-- Region eu, season 14, read 2026-11-11 09:00 AM.
 -- Realm display names, because the ladder only carries slugs and no rule
 -- turns one back into the other: raden is Ra-den, lei-shen is Lei Shen and
 -- arugal-au is Arugal (AU). Read from Blizzard's realm index; a slug with no
@@ -34,8 +34,8 @@ ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["eu"] = {
 	region  = "eu",
-	checked = "2026-11-11 08:00 AM",
-	checkedEpoch = 1794402015,
+	checked = "2026-11-11 09:00 AM",
+	checkedEpoch = 1794405613,
 	snapshot = "2026-11-11 11:13",
 
 	[1] = {  -- 2v2, 5000 places, down to rating 1049 -- the API stops here, short of the cutoff
@@ -4360,7 +4360,7 @@ ns.LEADERBOARD_BY_REGION["eu"] = {
 		{ rank=4314, name="Milovanovic", realm="norushen", rating=1653, won=49, lost=47, faction="HORDE", dr=0, dk=17 },
 		{ rank=4314, name="Naxgul", realm="shekzeer", rating=1653, won=34, lost=102, faction="ALLIANCE", dr=0, dk=17 },
 		{ rank=4314, name="Nëverstorm", realm="auberdine", rating=1653, won=25, lost=31, faction="ALLIANCE", dr=0, dk=17 },
-		{ rank=4314, name="Paladîon", realm="auberdine", rating=1653, won=23, lost=27, faction="ALLIANCE", dr=0, dk=17 },
+		{ rank=4314, name="Paladîon", realm="auberdine", rating=1653, won=23, lost=28, faction="ALLIANCE", dr=0, dk=17 },
 		{ rank=4314, name="Твариночка", realm="flamegor", rating=1653, won=60, lost=70, faction="ALLIANCE", dr=0, dk=17 },
 		{ rank=4324, name="Badlama", realm="hoptallus", rating=1652, won=57, lost=54, faction="ALLIANCE", dr=0, dk=17 },
 		{ rank=4324, name="Boundless", realm="norushen", rating=1652, won=196, lost=281, faction="HORDE", dr=0, dk=17 },
