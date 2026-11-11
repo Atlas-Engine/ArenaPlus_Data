@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5213 characters, read 2026-11-11 04:59 AM.
+-- Region us, 5213 characters, read 2026-11-11 05:49 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7773,7 +7773,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["lumanwarx-pagle"]=7,
 	["lumapal-pagle"]=16,
 	["luminarìa-pagle"]=16,
-	["lumineth-pagle"]=9,
+	["lumineth-pagle"]=13,
 	["lunarlass-pagle"]=0,
 	["lunchmeat-nazgrim"]=0,
 	["lunishamtwo-raden"]=22,

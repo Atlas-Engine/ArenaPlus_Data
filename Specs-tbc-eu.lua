@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9600 characters, read 2026-11-11 04:59 AM.
+-- Region tbc-eu, 9600 characters, read 2026-11-11 05:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10139,7 +10139,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["barelyrunnin-spineshatter"]=8,
 	["baren-spineshatter"]=11,
 	["bareshox-spineshatter"]=17,
-	["baressojr-spineshatter"]=2,
+	["baressojr-spineshatter"]=17,
 	["barinade-spineshatter"]=3,
 	["barkbloom-thunderstrike"]=1,
 	["barkbosse-spineshatter"]=6,
@@ -12330,7 +12330,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["foxyry-spineshatter"]=19,
 	["fraerok-spineshatter"]=5,
 	["frailis-spineshatter"]=1,
-	["fralleep-spineshatter"]=2,
+	["fralleep-spineshatter"]=17,
 	["francuzik-spineshatter"]=13,
 	["frandiks-thunderstrike"]=19,
 	["frankensteln-spineshatter"]=19,
@@ -18645,7 +18645,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["woodski-spineshatter"]=5,
 	["woosa-spineshatter"]=4,
 	["wooshwoosh-thunderstrike"]=22,
-	["woozzy-spineshatter"]=2,
+	["woozzy-spineshatter"]=17,
 	["wopza-spineshatter"]=13,
 	["worldemoboss-spineshatter"]=1,
 	["worldpvpsz-spineshatter"]=15,
