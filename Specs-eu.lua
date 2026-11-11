@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5361 characters, read 2026-11-11 03:00 PM.
+-- Region eu, 5361 characters, read 2026-11-11 04:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -170,7 +170,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["alekcs-auberdine"]=220,
 	["alenkovich-shekzeer"]=11,
 	["alepoudiaris-garalon"]=100,
-	["alesant-shekzeer"]=10,
 	["alexandereu-shekzeer"]=11,
 	["alfajer-shekzeer"]=11,
 	["algerian-shekzeer"]=10,
@@ -3542,7 +3541,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["scousee-shekzeer"]=11,
 	["scratzy-shekzeer"]=10,
 	["screez-shekzeer"]=40,
-	["screwedup-norushen"]=11,
 	["scryèr-garalon"]=100,
 	["scvrecrow-shekzeer"]=11,
 	["scychsietta-mirage-raceway"]=41,
@@ -5281,7 +5279,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["alekcs-auberdine"]=25,
 	["alenkovich-shekzeer"]=17,
 	["alepoudiaris-garalon"]=15,
-	["alesant-shekzeer"]=1,
 	["alexandereu-shekzeer"]=10,
 	["alfajer-shekzeer"]=4,
 	["algerian-shekzeer"]=4,
@@ -6016,7 +6013,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["crystalfrost-norushen"]=8,
 	["crystall-ook-ook"]=24,
 	["crystalsteal-shekzeer"]=1,
-	["cubbï-shekzeer"]=15,
+	["cubbï-shekzeer"]=5,
 	["cuccó-garalon"]=4,
 	["cuckmycoocon-shekzeer"]=6,
 	["cuckquatre-shekzeer"]=17,
@@ -6209,7 +6206,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Ðjsvrxzy-shekzeer"]=2,
 	["djwashedup-shekzeer"]=29,
 	["dksecouille-auberdine"]=31,
-	["dkv-garalon"]=8,
+	["dkv-garalon"]=31,
 	["dméndez-mirage-raceway"]=15,
 	["dnglo-mirage-raceway"]=1,
 	["dobanda-hoptallus"]=4,
@@ -6509,6 +6506,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["figment-garalon"]=11,
 	["fiksiuss-mirage-raceway"]=15,
 	["fillez-shekzeer"]=12,
+	["filmar-shekzeer"]=0,
 	["filmarisa-shekzeer"]=0,
 	["filthyfresh-shekzeer"]=12,
 	["finbekluz-shekzeer"]=2,
@@ -8833,7 +8831,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["scousee-shekzeer"]=5,
 	["scratzy-shekzeer"]=1,
 	["screez-shekzeer"]=20,
-	["screwedup-norushen"]=4,
+	["screwedup-norushen"]=0,
 	["scryèr-garalon"]=24,
 	["scvrecrow-shekzeer"]=10,
 	["scychsietta-mirage-raceway"]=21,
