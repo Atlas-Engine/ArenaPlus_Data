@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5359 characters, read 2026-11-11 10:00 AM.
+-- Region eu, 5359 characters, read 2026-11-11 11:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1076,7 +1076,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["dominant-garalon"]=20,
 	["dominant-shekzeer"]=11,
 	["dominoo-shekzeer"]=41,
-	["domnox-auberdine"]=41,
+	["domnox-auberdine"]=40,
 	["dondrippiano-shekzeer"]=11,
 	["donjacky-shekzeer"]=51,
 	["donpromillo-shekzeer"]=10,
@@ -2158,7 +2158,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["kôrsäkôff-auberdine"]=10,
 	["körsäkôff-auberdine"]=11,
 	["korucu-mirage-raceway"]=41,
-	["kospi-auberdine"]=11,
+	["kospi-auberdine"]=10,
 	["kostez-shekzeer"]=20,
 	["kot-garalon"]=10,
 	["kotàlos-auberdine"]=41,
@@ -6901,7 +6901,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["holygeneral-shekzeer"]=5,
 	["holygodx-auberdine"]=30,
 	["holyknightlx-shekzeer"]=5,
-	["holylax-garalon"]=22,
+	["holylax-garalon"]=12,
 	["holylightx-shekzeer"]=15,
 	["holymarry-shekzeer"]=5,
 	["holyneff-shekzeer"]=15,
