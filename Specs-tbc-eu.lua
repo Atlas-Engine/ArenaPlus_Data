@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9598 characters, read 2026-11-10 08:59 PM.
+-- Region tbc-eu, 9600 characters, read 2026-11-10 09:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6129,6 +6129,7 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["parrotx-spineshatter"]=50,
 	["partysvenne-spineshatter"]=11,
 	["partyzant-spineshatter"]=50,
+	["partzan-thunderstrike"]=11,
 	["pashakuvalda-thunderstrike"]=70,
 	["pashatopor-spineshatter"]=21,
 	["pashu-spineshatter"]=80,
@@ -8753,6 +8754,7 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["velvkek-spineshatter"]=20,
 	["velvlol-spineshatter"]=71,
 	["velzu-spineshatter"]=70,
+	["vemma-spineshatter"]=40,
 	["venceky-thunderstrike"]=50,
 	["venceký-thunderstrike"]=20,
 	["vendorpriest-spineshatter"]=31,
@@ -15683,6 +15685,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["parrotx-spineshatter"]=3,
 	["partysvenne-spineshatter"]=2,
 	["partyzant-spineshatter"]=19,
+	["partzan-thunderstrike"]=5,
 	["pashakuvalda-thunderstrike"]=9,
 	["pashatopor-spineshatter"]=13,
 	["pashu-spineshatter"]=11,
@@ -18343,6 +18346,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["velvkek-spineshatter"]=13,
 	["velvlol-spineshatter"]=13,
 	["velzu-spineshatter"]=9,
+	["vemma-spineshatter"]=1,
 	["venceky-thunderstrike"]=13,
 	["venceký-thunderstrike"]=23,
 	["vendorpriest-spineshatter"]=17,

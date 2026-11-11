@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5211 characters, read 2026-11-10 08:59 PM.
+-- Region us, 5211 characters, read 2026-11-10 09:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2354,7 +2354,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["karolinna-raden"]=41,
 	["karrlor-pagle"]=31,
 	["karthea-raden"]=40,
-	["kartika-raden"]=40,
+	["kartika-raden"]=41,
 	["kaskudo-nazgrim"]=20,
 	["kasmein-pagle"]=90,
 	["katacaine-pagle"]=100,
@@ -5763,7 +5763,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["chaossy-pagle"]=24,
 	["chaotichunts-galakras"]=0,
 	["chaoticrush-lei-shen"]=24,
-	["charleez-nazgrim"]=21,
+	["charleez-nazgrim"]=9,
 	["charruesal-raden"]=3,
 	["chathdria-nazgrim"]=9,
 	["chaturbater-pagle"]=14,
@@ -7423,7 +7423,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["karolinna-raden"]=9,
 	["karrlor-pagle"]=9,
 	["karthea-raden"]=17,
-	["kartika-raden"]=20,
+	["kartika-raden"]=18,
 	["kaskudo-nazgrim"]=23,
 	["kasmein-pagle"]=18,
 	["katacaine-pagle"]=18,
@@ -8777,7 +8777,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["rethealadin-immerseus"]=16,
 	["reticence-pagle"]=10,
 	["retmainxd-raden"]=18,
-	["rétpáladin-raden"]=16,
+	["rétpáladin-raden"]=2,
 	["retrostance-galakras"]=2,
 	["rettek-raden"]=8,
 	["rettmonk-raden"]=27,
@@ -9407,7 +9407,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["stooter-nazgrim"]=5,
 	["stootns-nazgrim"]=15,
 	["stooty-nazgrim"]=7,
-	["stoptalkme-raden"]=4,
+	["stoptalkme-raden"]=27,
 	["størmie-raden"]=15,
 	["stormieskye-galakras"]=17,
 	["strange-raden"]=24,
