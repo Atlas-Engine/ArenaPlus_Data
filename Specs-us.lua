@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5212 characters, read 2026-11-11 06:54 PM.
+-- Region us, 5212 characters, read 2026-11-11 07:54 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5734,7 +5734,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["cathw-raden"]=7,
 	["catmasterx-raden"]=7,
 	["catpack-raden"]=12,
-	["cavalaum-galakras"]=19,
+	["cavalaum-galakras"]=15,
 	["cavallier-pagle"]=2,
 	["caylara-raden"]=20,
 	["cazabrujas-raden"]=20,
@@ -6276,7 +6276,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["Ðressrøsa-immerseus"]=10,
 	["drewdipsy-pagle"]=7,
 	["drewleon-pagle"]=5,
-	["drewwd-nazgrim"]=5,
+	["drewwd-nazgrim"]=17,
 	["dreyad-pagle"]=5,
 	["dreyas-pagle"]=7,
 	["drfault-immerseus"]=5,
@@ -8444,7 +8444,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["palapala-pagle"]=2,
 	["paledeath-immerseus"]=6,
 	["pallyboss-galakras"]=0,
-	["palodan-arugal-au"]=2,
+	["palodan-arugal-au"]=16,
 	["palpatîne-pagle"]=28,
 	["palyvash-galakras"]=16,
 	["palyy-raden"]=16,
