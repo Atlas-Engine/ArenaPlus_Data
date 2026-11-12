@@ -18,7 +18,7 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region us, season 14, read 2026-11-12 04:59 PM.
+-- Region us, season 14, read 2026-11-12 05:59 PM.
 -- Realm display names, because the ladder only carries slugs and no rule
 -- turns one back into the other: raden is Ra-den, lei-shen is Lei Shen and
 -- arugal-au is Arugal (AU). Read from Blizzard's realm index; a slug with no
@@ -35,8 +35,8 @@ ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["us"] = {
 	region  = "us",
-	checked = "2026-11-12 04:59 PM",
-	checkedEpoch = 1794520769,
+	checked = "2026-11-12 05:59 PM",
+	checkedEpoch = 1794524370,
 	snapshot = "2026-11-12 21:17",
 
 	[1] = {  -- 2v2, 5009 places, down to rating 1135 -- the API stops here, short of the cutoff
@@ -197,10 +197,10 @@ ns.LEADERBOARD_BY_REGION["us"] = {
 		{ rank=154, name="Lsx", realm="raden", rating=2473, won=85, lost=65, faction="ALLIANCE", dr=0, dk=3 },
 		{ rank=156, name="Dakini", realm="raden", rating=2472, won=330, lost=255, faction="ALLIANCE", dr=0, dk=3 },
 		{ rank=156, name="Nyloras", realm="pagle", rating=2472, won=95, lost=70, faction="ALLIANCE", mr=2497, dr=0, dk=3 },
+		{ rank=158, name="Boofed", realm="raden", rating=2468, won=133, lost=67, faction="ALLIANCE", dr=93, dk=-115 },
 		{ rank=158, name="Nebuplum", realm="raden", rating=2468, won=266, lost=210, faction="HORDE", mr=2498, dr=0, dk=3 },
 		{ rank=158, name="Spicyhotmoon", realm="raden", rating=2468, won=266, lost=210, faction="HORDE", mr=2498, dr=0, dk=3 },
-		{ rank=160, name="Boofed", realm="raden", rating=2467, won=132, lost=67, faction="ALLIANCE", dr=92, dk=-113 },
-		{ rank=160, name="Ginastel", realm="raden", rating=2467, won=211, lost=215, faction="ALLIANCE", dr=0, dk=3 },
+		{ rank=161, name="Ginastel", realm="raden", rating=2467, won=211, lost=215, faction="ALLIANCE", dr=0, dk=4 },
 		{ rank=162, name="Edshearin", realm="pagle", rating=2465, won=235, lost=224, faction="ALLIANCE", mr=2499, dr=5, dk=-6 },
 		{ rank=162, name="Eustaquio", realm="raden", rating=2465, won=116, lost=74, faction="ALLIANCE", mr=2482, dr=0, dk=4 },
 		{ rank=162, name="Jonnysinna", realm="raden", rating=2465, won=106, lost=70, faction="ALLIANCE", mr=2579, dr=0, dk=4 },
@@ -1950,7 +1950,6 @@ ns.LEADERBOARD_BY_REGION["us"] = {
 		{ rank=1904, name="Lønyzz", realm="raden", rating=1925, won=33, lost=9, faction="ALLIANCE", mr=2289, dr=0, dk=20 },
 		{ rank=1904, name="Magikarrwz", realm="nazgrim", rating=1925, won=61, lost=59, faction="HORDE", dr=0, dk=20 },
 		{ rank=1904, name="Psicoloca", realm="pagle", rating=1925, won=54, lost=55, faction="ALLIANCE", dr=0, dk=20 },
-		{ rank=1904, name="Putinga", realm="pagle", rating=1925, won=208, lost=241, faction="HORDE", dr=36, dk=-206 },
 		{ rank=1904, name="Rockwalla", realm="lei-shen", rating=1925, won=385, lost=410, faction="ALLIANCE", mr=2057, dr=0, dk=20 },
 		{ rank=1904, name="Shadowkenja", realm="benediction", rating=1925, won=404, lost=440, faction="ALLIANCE", mr=1947, dr=0, dk=20 },
 		{ rank=1904, name="Stormieskye", realm="galakras", rating=1925, won=262, lost=296, faction="HORDE", dr=0, dk=20 },
@@ -1958,13 +1957,14 @@ ns.LEADERBOARD_BY_REGION["us"] = {
 		{ rank=1904, name="Veygâ", realm="pagle", rating=1925, won=78, lost=92, faction="HORDE", dr=0, dk=20 },
 		{ rank=1904, name="Yeezus", realm="grobbulus", rating=1925, won=81, lost=79, faction="ALLIANCE", mr=1957, dr=0, dk=20 },
 		{ rank=1904, name="Zaddykinz", realm="pagle", rating=1925, won=90, lost=69, faction="ALLIANCE", dr=0, dk=20 },
-		{ rank=1919, name="Eoeoeoeoeoe", realm="raden", rating=1924, won=53, lost=42, faction="ALLIANCE", dr=0, dk=21 },
-		{ rank=1919, name="Erektionrage", realm="galakras", rating=1924, won=37, lost=32, faction="ALLIANCE", dr=0, dk=21 },
-		{ rank=1919, name="Joefro", realm="raden", rating=1924, won=69, lost=56, faction="ALLIANCE", dr=0, dk=21 },
-		{ rank=1919, name="Shammans", realm="pagle", rating=1924, won=188, lost=238, faction="HORDE", mr=1963, dr=0, dk=21 },
-		{ rank=1919, name="Sixgodx", realm="raden", rating=1924, won=36, lost=36, faction="ALLIANCE", dr=0, dk=21 },
-		{ rank=1919, name="Thümpër", realm="pagle", rating=1924, won=45, lost=42, faction="HORDE", dr=0, dk=21 },
-		{ rank=1919, name="Zoodom", realm="raden", rating=1924, won=45, lost=48, faction="ALLIANCE", dr=0, dk=21 },
+		{ rank=1918, name="Eoeoeoeoeoe", realm="raden", rating=1924, won=53, lost=42, faction="ALLIANCE", dr=0, dk=20 },
+		{ rank=1918, name="Erektionrage", realm="galakras", rating=1924, won=37, lost=32, faction="ALLIANCE", dr=0, dk=20 },
+		{ rank=1918, name="Joefro", realm="raden", rating=1924, won=69, lost=56, faction="ALLIANCE", dr=0, dk=20 },
+		{ rank=1918, name="Putinga", realm="pagle", rating=1924, won=208, lost=242, faction="HORDE", mr=1925, dr=35, dk=-192 },
+		{ rank=1918, name="Shammans", realm="pagle", rating=1924, won=188, lost=238, faction="HORDE", mr=1963, dr=0, dk=20 },
+		{ rank=1918, name="Sixgodx", realm="raden", rating=1924, won=36, lost=36, faction="ALLIANCE", dr=0, dk=20 },
+		{ rank=1918, name="Thümpër", realm="pagle", rating=1924, won=45, lost=42, faction="HORDE", dr=0, dk=20 },
+		{ rank=1918, name="Zoodom", realm="raden", rating=1924, won=45, lost=48, faction="ALLIANCE", dr=0, dk=20 },
 		{ rank=1926, name="Comeherepapi", realm="raden", rating=1923, won=69, lost=62, faction="HORDE", dr=0, dk=21 },
 		{ rank=1926, name="Discuits", realm="raden", rating=1923, won=86, lost=97, faction="ALLIANCE", mr=1928, dr=0, dk=21 },
 		{ rank=1926, name="Freeix", realm="pagle", rating=1923, won=158, lost=166, faction="HORDE", mr=1953, dr=0, dk=21 },
@@ -2213,7 +2213,7 @@ ns.LEADERBOARD_BY_REGION["us"] = {
 		{ rank=2168, name="Huntgodx", realm="raden", rating=1882, won=96, lost=77, faction="ALLIANCE", dr=0, dk=20 },
 		{ rank=2172, name="Chonkars", realm="raden", rating=1881, won=33, lost=25, faction="ALLIANCE", mr=2401, dr=0, dk=21 },
 		{ rank=2172, name="Frostweezy", realm="raden", rating=1881, won=106, lost=104, faction="ALLIANCE", dr=0, dk=21 },
-		{ rank=2172, name="Heriberto", realm="pagle", rating=1881, won=122, lost=189, faction="HORDE", mr=1883, dr=162, dk=-1270 },
+		{ rank=2172, name="Heriberto", realm="pagle", rating=1881, won=122, lost=190, faction="HORDE", mr=1883, dr=162, dk=-1270 },
 		{ rank=2172, name="Nynja", realm="raden", rating=1881, won=391, lost=412, faction="ALLIANCE", dr=0, dk=21 },
 		{ rank=2172, name="Ronsenwinkel", realm="pagle", rating=1881, won=149, lost=149, faction="ALLIANCE", mr=1911, dr=0, dk=21 },
 		{ rank=2172, name="ßùlmá", realm="raden", rating=1881, won=81, lost=100, faction="ALLIANCE", mr=1947, dr=0, dk=21 },

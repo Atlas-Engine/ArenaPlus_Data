@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5213 characters, read 2026-11-12 04:59 PM.
+-- Region us, 5213 characters, read 2026-11-12 05:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6007,7 +6007,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["darkavengerr-pagle"]=28,
 	["darkcurador-nazgrim"]=13,
 	["darkdankdope-raden"]=10,
-	["darkdeamon-pagle"]=1,
+	["darkdeamon-pagle"]=11,
 	["darkdknight-pagle"]=6,
 	["darkestcyn-galakras"]=28,
 	["darkferocity-pagle"]=21,
@@ -6555,7 +6555,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["fernandita-galakras"]=21,
 	["fhisiod-raden"]=17,
 	["fhiziod-raden"]=5,
-	["fhiziom-raden"]=4,
+	["fhiziom-raden"]=10,
 	["fhizios-raden"]=15,
 	["fibbing-raden"]=22,
 	["fibermaxxerx-pagle"]=22,
@@ -7394,7 +7394,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["jzx-lei-shen"]=28,
 	["ka-nazgrim"]=0,
 	["kabukka-immerseus"]=25,
-	["kadabra-galakras"]=9,
+	["kadabra-galakras"]=21,
 	["kaela-pagle"]=1,
 	["kaelay-pagle"]=16,
 	["kaelee-pagle"]=5,
