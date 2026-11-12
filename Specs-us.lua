@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5212 characters, read 2026-11-12 02:59 AM.
+-- Region us, 5212 characters, read 2026-11-12 03:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3102,6 +3102,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["nevergiveupx-raden"]=20,
 	["nevreth-pagle"]=11,
 	["nevye-raden"]=11,
+	["nf-raden"]=41,
 	["ngmi-pagle"]=11,
 	["nguyen-raden"]=41,
 	["nhaerk-raden"]=11,
@@ -5950,7 +5951,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["cupidxp-raden"]=16,
 	["cursedblood-pagle"]=26,
 	["cutter-raden"]=3,
-	["cvex-raden"]=23,
+	["cvex-raden"]=7,
 	["cvs-raden"]=21,
 	["cwpas-raden"]=31,
 	["cwpaslock-raden"]=24,
@@ -8058,7 +8059,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["moonspellol-galakras"]=14,
 	["møønstár-arugal-au"]=5,
 	["møonxz-raden"]=5,
-	["møønzx-galakras"]=17,
+	["møønzx-galakras"]=5,
 	["mootski-pagle"]=18,
 	["mopdruid-pagle"]=0,
 	["mopples-arugal-au"]=4,
@@ -8211,7 +8212,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["nevergiveupx-raden"]=22,
 	["nevreth-pagle"]=3,
 	["nevye-raden"]=1,
-	["nf-raden"]=0,
+	["nf-raden"]=17,
 	["ngmi-pagle"]=1,
 	["nguyen-raden"]=17,
 	["nhaerk-raden"]=9,
