@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9330 characters, read 2026-11-12 12:58 AM.
+-- Region tbc-us, 9331 characters, read 2026-11-12 01:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -8277,6 +8277,7 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["tscrubdru-nightslayer"]=41,
 	["tsdfq-nightslayer"]=11,
 	["tsgg-nightslayer"]=11,
+	["tsoding-dreamscythe"]=50,
 	["tsylix-nightslayer"]=61,
 	["ttoz-nightslayer"]=41,
 	["tuchonker-dreamscythe"]=60,
@@ -13518,7 +13519,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["kefira-nightslayer"]=1,
 	["kefphalwhack-nightslayer"]=19,
 	["kehanureave-nightslayer"]=7,
-	["keiberr-nightslayer"]=13,
+	["keiberr-nightslayer"]=23,
 	["keiign-nightslayer"]=24,
 	["keiria-nightslayer"]=1,
 	["kekdubya-nightslayer"]=2,
@@ -17596,6 +17597,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["tscrubdru-nightslayer"]=3,
 	["tsdfq-nightslayer"]=13,
 	["tsgg-nightslayer"]=2,
+	["tsoding-dreamscythe"]=1,
 	["tsylix-nightslayer"]=7,
 	["ttoz-nightslayer"]=7,
 	["tuchonker-dreamscythe"]=2,

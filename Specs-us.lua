@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5212 characters, read 2026-11-12 12:59 AM.
+-- Region us, 5212 characters, read 2026-11-12 01:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2332,7 +2332,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["kaick-pagle"]=41,
 	["kaijoû-raden"]=11,
 	["kaijoü-raden"]=11,
-	["kairixo-benediction"]=41,
 	["kalaikras-galakras"]=41,
 	["kalakor-raden"]=110,
 	["kalikondor-raden"]=41,
@@ -7402,7 +7401,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["kaick-pagle"]=9,
 	["kaijoû-raden"]=4,
 	["kaijoü-raden"]=3,
-	["kairixo-benediction"]=17,
 	["kalaikras-galakras"]=6,
 	["kalakor-raden"]=15,
 	["kalikondor-raden"]=5,
@@ -8181,7 +8179,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["nebugrape-raden"]=8,
 	["nebupeach-nazgrim"]=8,
 	["nebuplum-raden"]=8,
-	["necris-galakras"]=26,
+	["necris-galakras"]=6,
 	["necrodo-pagle"]=6,
 	["necrolife-nazgrim"]=24,
 	["neftyo-raden"]=9,
@@ -8213,6 +8211,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["nevergiveupx-raden"]=22,
 	["nevreth-pagle"]=3,
 	["nevye-raden"]=1,
+	["nf-raden"]=0,
 	["ngmi-pagle"]=1,
 	["nguyen-raden"]=17,
 	["nhaerk-raden"]=9,
@@ -8256,7 +8255,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["nodisponíble-raden"]=1,
 	["noescape-raden"]=6,
 	["nøether-raden"]=7,
-	["nofæar-nazgrim"]=31,
+	["nofæar-nazgrim"]=11,
 	["nogame-pagle"]=14,
 	["noizzy-raden"]=1,
 	["nøktërîä-nazgrim"]=21,
