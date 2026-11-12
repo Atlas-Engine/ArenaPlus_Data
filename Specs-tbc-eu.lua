@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9602 characters, read 2026-11-11 07:59 PM.
+-- Region tbc-eu, 9602 characters, read 2026-11-11 08:44 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10967,7 +10967,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["còókielol-spineshatter"]=2,
 	["coolbean-spineshatter"]=1,
 	["coolcat-spineshatter"]=6,
-	["coolee-spineshatter"]=9,
+	["coolee-spineshatter"]=4,
 	["coomerboomer-spineshatter"]=2,
 	["copse-spineshatter"]=3,
 	["cordane-spineshatter"]=6,
@@ -15387,7 +15387,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["nothief-spineshatter"]=3,
 	["notindanger-spineshatter"]=17,
 	["notmageek-thunderstrike"]=12,
-	["notnotyou-spineshatter"]=13,
+	["notnotyou-spineshatter"]=14,
 	["notoríous-spineshatter"]=5,
 	["notoríousx-spineshatter"]=3,
 	["notpompyro-spineshatter"]=4,
@@ -18159,7 +18159,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["twohornandy-spineshatter"]=1,
 	["twohotforyou-spineshatter"]=20,
 	["twoshotbaby-spineshatter"]=4,
-	["twoslayz-spineshatter"]=5,
+	["twoslayz-spineshatter"]=15,
 	["twtvlolsly-spineshatter"]=13,
 	["txó-spineshatter"]=1,
 	["tyan-spineshatter"]=22,
