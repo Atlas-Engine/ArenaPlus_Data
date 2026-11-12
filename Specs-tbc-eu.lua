@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9602 characters, read 2026-11-12 12:59 PM.
+-- Region tbc-eu, 9602 characters, read 2026-11-12 01:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11422,7 +11422,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["dispeldog-spineshatter"]=2,
 	["dispelgodxx-spineshatter"]=2,
 	["dispellagå-spineshatter"]=2,
-	["Ðisplayed-spineshatter"]=3,
+	["Ðisplayed-spineshatter"]=19,
 	["displayflex-spineshatter"]=7,
 	["disprälled-spineshatter"]=2,
 	["dispressive-spineshatter"]=8,
@@ -13531,7 +13531,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["kabanhero-spineshatter"]=16,
 	["kabelp-spineshatter"]=17,
 	["kadavchik-spineshatter"]=11,
-	["kadyrof-spineshatter"]=9,
+	["kadyrof-spineshatter"]=21,
 	["kæben-spineshatter"]=3,
 	["kaelol-spineshatter"]=15,
 	["kaelolo-spineshatter"]=9,
@@ -14524,7 +14524,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["marqese-spineshatter"]=13,
 	["marredl-spineshatter"]=22,
 	["mårroc-thunderstrike"]=25,
-	["marrowned-thunderstrike"]=5,
+	["marrowned-thunderstrike"]=22,
 	["marrymø-thunderstrike"]=1,
 	["marrymoo-thunderstrike"]=3,
 	["martakiller-spineshatter"]=15,

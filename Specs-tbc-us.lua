@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9331 characters, read 2026-11-12 12:58 PM.
+-- Region tbc-us, 9331 characters, read 2026-11-12 01:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12921,7 +12921,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["hycee-dreamscythe"]=18,
 	["hyderon-nightslayer"]=12,
 	["hydralisks-dreamscythe"]=15,
-	["hydraschool-nightslayer"]=1,
+	["hydraschool-nightslayer"]=14,
 	["hydroflux-dreamscythe"]=10,
 	["hydroform-dreamscythe"]=7,
 	["hydrowarrior-nightslayer"]=2,
@@ -16369,7 +16369,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["shamewoww-dreamscythe"]=10,
 	["shamfuku-dreamscythe"]=10,
 	["shamilli-nightslayer"]=19,
-	["shamisham-nightslayer"]=19,
+	["shamisham-nightslayer"]=10,
 	["shammix-nightslayer"]=19,
 	["shamoonist-dreamscythe"]=10,
 	["shamorkey-nightslayer"]=10,
@@ -16993,7 +16993,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["stoggimeistm-nightslayer"]=4,
 	["stoggimeistr-nightslayer"]=5,
 	["stoichy-nightslayer"]=7,
-	["stokades-dreamscythe"]=11,
+	["stokades-dreamscythe"]=25,
 	["stokes-nightslayer"]=2,
 	["stokespp-nightslayer"]=9,
 	["stokeswf-nightslayer"]=10,
