@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9331 characters, read 2026-11-12 03:58 AM.
+-- Region tbc-us, 9331 characters, read 2026-11-12 04:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -14020,7 +14020,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["loudpuf-nightslayer"]=1,
 	["louislol-nightslayer"]=1,
 	["loupal-nightslayer"]=11,
-	["loveandwater-dreamscythe"]=22,
+	["loveandwater-dreamscythe"]=7,
 	["lovebugs-nightslayer"]=1,
 	["lovelly-dreamscythe"]=2,
 	["lovestospoon-nightslayer"]=25,
@@ -16913,7 +16913,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ßeers-nightslayer"]=2,
 	["ßëstmågèocë-nightslayer"]=4,
 	["ßfl-nightslayer"]=1,
-	["sshamjang-dreamscythe"]=24,
+	["sshamjang-dreamscythe"]=19,
 	["ssk-dreamscythe"]=5,
 	["ssk-nightslayer"]=8,
 	["ßlinker-nightslayer"]=6,
@@ -17830,7 +17830,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["verbilx-nightslayer"]=7,
 	["verdancy-dreamscythe"]=7,
 	["verelock-nightslayer"]=16,
-	["verinen-nightslayer"]=8,
+	["verinen-nightslayer"]=5,
 	["verlay-nightslayer"]=1,
 	["vermillion-dreamscythe"]=22,
 	["verrenger-nightslayer"]=5,
@@ -18421,7 +18421,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["zaajaa-nightslayer"]=14,
 	["zåch-nightslayer"]=4,
 	["zachm-nightslayer"]=1,
-	["zaghawa-dreamscythe"]=2,
+	["zaghawa-dreamscythe"]=18,
 	["zagonic-nightslayer"]=13,
 	["zaguru-nightslayer"]=10,
 	["zaika-nightslayer"]=18,
