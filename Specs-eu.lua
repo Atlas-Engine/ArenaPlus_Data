@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5365 characters, read 2026-11-12 06:00 AM.
+-- Region eu, 5365 characters, read 2026-11-12 07:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4342,7 +4342,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["voireg-shekzeer"]=10,
 	["voldreth-everlook"]=100,
 	["voldrex-everlook"]=20,
-	["voljix-shekzeer"]=20,
 	["volkris-shekzeer"]=10,
 	["volkrz-shekzeer"]=30,
 	["vølstagg-auberdine"]=30,
@@ -8340,7 +8339,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["pb-shekzeer"]=6,
 	["pdai-shekzeer"]=0,
 	["pðiddy-shekzeer"]=1,
-	["pðiððy-shekzeer"]=13,
+	["pðiððy-shekzeer"]=16,
 	["peacefùl-shekzeer"]=15,
 	["peacher-gehennas"]=0,
 	["peakone-everlook"]=19,
@@ -9433,7 +9432,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["toxicelitist-shekzeer"]=9,
 	["toxicfuz-garalon"]=6,
 	["toxiqkid-shekzeer"]=1,
-	["tpriestlx-shekzeer"]=12,
+	["tpriestlx-shekzeer"]=9,
 	["tquël-shekzeer"]=17,
 	["trachea-shekzeer"]=6,
 	["tracye-shekzeer"]=9,
@@ -9677,7 +9676,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["voireg-shekzeer"]=15,
 	["voldreth-everlook"]=15,
 	["voldrex-everlook"]=16,
-	["voljix-shekzeer"]=14,
+	["voljix-shekzeer"]=0,
 	["voljiz-shekzeer"]=0,
 	["volkris-shekzeer"]=15,
 	["volkrz-shekzeer"]=19,
