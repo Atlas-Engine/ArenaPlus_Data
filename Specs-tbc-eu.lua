@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9602 characters, read 2026-11-12 09:29 AM.
+-- Region tbc-eu, 9602 characters, read 2026-11-12 11:34 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -16995,7 +16995,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["shy-spineshatter"]=26,
 	["shyari-thunderstrike"]=4,
 	["shyláh-thunderstrike"]=11,
-	["shylin-spineshatter"]=9,
+	["shylin-spineshatter"]=4,
 	["shÿnz-spineshatter"]=5,
 	["shyrox-spineshatter"]=11,
 	["shytek-spineshatter"]=25,
@@ -17046,7 +17046,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["sisäfile-spineshatter"]=12,
 	["siuer-thunderstrike"]=7,
 	["sixsevên-spineshatter"]=11,
-	["sixsevennine-spineshatter"]=23,
+	["sixsevennine-spineshatter"]=11,
 	["sixtenlol-spineshatter"]=17,
 	["sixthdemon-thunderstrike"]=13,
 	["sizã-spineshatter"]=2,
@@ -18379,7 +18379,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["vexaction-spineshatter"]=9,
 	["vexontop-spineshatter"]=14,
 	["veylorth-spineshatter"]=3,
-	["veyny-spineshatter"]=1,
+	["veyny-spineshatter"]=6,
 	["vezz-spineshatter"]=14,
 	["vgone-spineshatter"]=5,
 	["vhalnyr-thunderstrike"]=7,
