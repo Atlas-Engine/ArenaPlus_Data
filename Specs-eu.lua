@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5365 characters, read 2026-11-12 03:00 PM.
+-- Region eu, 5364 characters, read 2026-11-12 04:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2727,7 +2727,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["nakalidøg-shekzeer"]=41,
 	["nalâa-everlook"]=41,
 	["nalix-shekzeer"]=41,
-	["namaju-shekzeer"]=30,
 	["namasti-mirage-raceway"]=261,
 	["nameitdrood-shekzeer"]=41,
 	["names-hoptallus"]=221,
@@ -7971,7 +7970,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["nakalidøg-shekzeer"]=9,
 	["nalâa-everlook"]=3,
 	["nalix-shekzeer"]=3,
-	["namaju-shekzeer"]=16,
 	["namasti-mirage-raceway"]=6,
 	["nameitdrood-shekzeer"]=3,
 	["names-hoptallus"]=11,
@@ -9020,7 +9018,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["smileyslayer-mirage-raceway"]=4,
 	["smille-shekzeer"]=5,
 	["smirnoffice-shekzeer"]=3,
-	["smîte-shekzeer"]=12,
+	["smîte-shekzeer"]=22,
 	["smo-shekzeer"]=11,
 	["smokerz-mirage-raceway"]=24,
 	["smøkes-mirage-raceway"]=8,

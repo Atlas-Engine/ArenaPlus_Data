@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9331 characters, read 2026-11-12 02:58 PM.
+-- Region tbc-us, 9331 characters, read 2026-11-12 03:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10530,7 +10530,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["cendfeetpics-nightslayer"]=10,
 	["ceraxià-nightslayer"]=11,
 	["ceredwyn-dreamscythe"]=7,
-	["cerise-nightslayer"]=5,
+	["cerise-nightslayer"]=8,
 	["cerren-nightslayer"]=19,
 	["cfm-nightslayer"]=1,
 	["chachamaru-nightslayer"]=10,
@@ -13579,7 +13579,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["kigame-nightslayer"]=2,
 	["kiggzm-nightslayer"]=6,
 	["kiggzp-nightslayer"]=11,
-	["kiggzr-nightslayer"]=27,
+	["kiggzr-nightslayer"]=5,
 	["kiggzs-nightslayer"]=24,
 	["killi-nightslayer"]=0,
 	["killkrazed-nightslayer"]=2,
@@ -15891,7 +15891,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["reverencèx-nightslayer"]=23,
 	["revért-nightslayer"]=23,
 	["revilxx-nightslayer"]=1,
-	["revivé-nightslayer"]=1,
+	["revivé-nightslayer"]=12,
 	["reviveblack-nightslayer"]=12,
 	["revivexoxo-nightslayer"]=12,
 	["rewfio-nightslayer"]=13,
