@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9602 characters, read 2026-11-12 01:54 AM.
+-- Region tbc-eu, 9602 characters, read 2026-11-12 02:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12477,7 +12477,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["gekkepietje-spineshatter"]=5,
 	["gempi-spineshatter"]=6,
 	["gêngar-thunderstrike"]=8,
-	["gentlewar-spineshatter"]=15,
+	["gentlewar-spineshatter"]=22,
 	["georgewpries-thunderstrike"]=8,
 	["gepardi-spineshatter"]=6,
 	["gepezet-spineshatter"]=9,
@@ -13997,7 +13997,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["laitock-spineshatter"]=3,
 	["lalalalalax-spineshatter"]=9,
 	["lamashow-spineshatter"]=2,
-	["lamatrion-thunderstrike"]=1,
+	["lamatrion-thunderstrike"]=6,
 	["lamaxd-spineshatter"]=3,
 	["lambi-spineshatter"]=3,
 	["lambibear-spineshatter"]=1,

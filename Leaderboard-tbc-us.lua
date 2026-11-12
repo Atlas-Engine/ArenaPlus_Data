@@ -18,7 +18,7 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region tbc-us, season 3, read 2026-11-12 01:58 AM.
+-- Region tbc-us, season 3, read 2026-11-12 02:58 AM.
 -- Realm display names, because the ladder only carries slugs and no rule
 -- turns one back into the other: raden is Ra-den, lei-shen is Lei Shen and
 -- arugal-au is Arugal (AU). Read from Blizzard's realm index; a slug with no
@@ -32,8 +32,8 @@ ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["tbc-us"] = {
 	region  = "tbc-us",
-	checked = "2026-11-12 01:58 AM",
-	checkedEpoch = 1794466696,
+	checked = "2026-11-12 02:58 AM",
+	checkedEpoch = 1794470296,
 	snapshot = "2026-11-12 06:18",
 
 	[1] = {  -- 2v2, 5007 places, down to rating 1486 -- the API stops here, short of the cutoff
@@ -240,27 +240,27 @@ ns.LEADERBOARD_BY_REGION["tbc-us"] = {
 		{ rank=200, name="Cazzi", realm="nightslayer", rating=2266, won=52, lost=22, faction="ALLIANCE", dr=0, dk=-1 },
 		{ rank=200, name="Dizad", realm="nightslayer", rating=2266, won=189, lost=141, faction="ALLIANCE", mr=2309, dr=0, dk=-1 },
 		{ rank=200, name="Jetxox", realm="nightslayer", rating=2266, won=52, lost=22, faction="ALLIANCE", dr=0, dk=-1 },
-		{ rank=204, name="Zeedogg", realm="nightslayer", rating=2265, won=55, lost=36, faction="ALLIANCE", dr=0, dk=-1 },
-		{ rank=205, name="Dinnoo", realm="nightslayer", rating=2264, won=618, lost=555, faction="HORDE", dr=47, dk=-93 },
-		{ rank=205, name="Plasticsurgn", realm="nightslayer", rating=2264, won=664, lost=640, faction="HORDE", dr=47, dk=-93 },
-		{ rank=207, name="Colinnx", realm="nightslayer", rating=2262, won=56, lost=35, faction="ALLIANCE", dr=0, dk=1 },
-		{ rank=207, name="Hotqt", realm="nightslayer", rating=2262, won=56, lost=35, faction="ALLIANCE", dr=0, dk=1 },
-		{ rank=207, name="Nailyh", realm="nightslayer", rating=2262, won=157, lost=98, faction="HORDE", mr=2345, dr=0, dk=1 },
-		{ rank=210, name="Healdyf", realm="nightslayer", rating=2261, won=155, lost=130, faction="ALLIANCE", mr=2266, dr=0, dk=1 },
-		{ rank=211, name="Arenajunkie", realm="nightslayer", rating=2260, won=40, lost=18, faction="ALLIANCE", dr=0, dk=1 },
-		{ rank=211, name="Rowdyoneud", realm="nightslayer", rating=2260, won=137, lost=112, faction="HORDE", dr=0, dk=1 },
-		{ rank=213, name="Gentlehealer", realm="dreamscythe", rating=2259, won=273, lost=202, faction="HORDE", dr=0, dk=1 },
-		{ rank=213, name="Ptp", realm="nightslayer", rating=2259, won=256, lost=190, faction="ALLIANCE", mr=2360, dr=0, dk=1 },
-		{ rank=215, name="Aramilly", realm="dreamscythe", rating=2258, won=185, lost=149, faction="HORDE", dr=0, dk=1 },
-		{ rank=215, name="Rdudru", realm="nightslayer", rating=2258, won=428, lost=302, faction="ALLIANCE", mr=2330, dr=0, dk=1 },
-		{ rank=217, name="Palapapa", realm="nightslayer", rating=2257, won=279, lost=258, faction="ALLIANCE", mr=2333, dr=12, dk=-16 },
-		{ rank=217, name="Spry", realm="nightslayer", rating=2257, won=243, lost=199, faction="ALLIANCE", mr=2286, dr=0, dk=1 },
-		{ rank=219, name="Pjv", realm="nightslayer", rating=2255, won=195, lost=155, faction="HORDE", mr=2371, dr=0, dk=2 },
-		{ rank=220, name="Allstarsocal", realm="nightslayer", rating=2254, won=97, lost=76, faction="ALLIANCE", mr=2318, dr=0, dk=2 },
-		{ rank=220, name="Boxedkazzy", realm="nightslayer", rating=2254, won=264, lost=160, faction="ALLIANCE", mr=2320, dr=0, dk=2 },
-		{ rank=220, name="Chromattic", realm="nightslayer", rating=2254, won=472, lost=410, faction="ALLIANCE", mr=2315, dr=0, dk=2 },
-		{ rank=223, name="Arpx", realm="nightslayer", rating=2252, won=328, lost=285, faction="ALLIANCE", mr=2316, dr=8, dk=-14 },
-		{ rank=223, name="Indoorcow", realm="nightslayer", rating=2252, won=247, lost=153, faction="HORDE", mr=2412, dr=0, dk=2 },
+		{ rank=200, name="Palapapa", realm="nightslayer", rating=2266, won=284, lost=259, faction="ALLIANCE", mr=2333, dr=21, dk=-33 },
+		{ rank=205, name="Zeedogg", realm="nightslayer", rating=2265, won=55, lost=36, faction="ALLIANCE", dr=0, dk=0 },
+		{ rank=206, name="Dinnoo", realm="nightslayer", rating=2264, won=618, lost=555, faction="HORDE", dr=47, dk=-92 },
+		{ rank=206, name="Plasticsurgn", realm="nightslayer", rating=2264, won=664, lost=640, faction="HORDE", dr=47, dk=-92 },
+		{ rank=208, name="Arpx", realm="nightslayer", rating=2262, won=333, lost=286, faction="ALLIANCE", mr=2316, dr=18, dk=-29 },
+		{ rank=208, name="Colinnx", realm="nightslayer", rating=2262, won=56, lost=35, faction="ALLIANCE", dr=0, dk=2 },
+		{ rank=208, name="Hotqt", realm="nightslayer", rating=2262, won=56, lost=35, faction="ALLIANCE", dr=0, dk=2 },
+		{ rank=208, name="Nailyh", realm="nightslayer", rating=2262, won=157, lost=98, faction="HORDE", mr=2345, dr=0, dk=2 },
+		{ rank=212, name="Healdyf", realm="nightslayer", rating=2261, won=155, lost=130, faction="ALLIANCE", mr=2266, dr=0, dk=3 },
+		{ rank=213, name="Arenajunkie", realm="nightslayer", rating=2260, won=40, lost=18, faction="ALLIANCE", dr=0, dk=3 },
+		{ rank=213, name="Rowdyoneud", realm="nightslayer", rating=2260, won=137, lost=112, faction="HORDE", dr=0, dk=3 },
+		{ rank=215, name="Gentlehealer", realm="dreamscythe", rating=2259, won=273, lost=202, faction="HORDE", dr=0, dk=3 },
+		{ rank=215, name="Ptp", realm="nightslayer", rating=2259, won=256, lost=190, faction="ALLIANCE", mr=2360, dr=0, dk=3 },
+		{ rank=217, name="Aramilly", realm="dreamscythe", rating=2258, won=185, lost=149, faction="HORDE", dr=0, dk=3 },
+		{ rank=217, name="Rdudru", realm="nightslayer", rating=2258, won=428, lost=302, faction="ALLIANCE", mr=2330, dr=0, dk=3 },
+		{ rank=219, name="Spry", realm="nightslayer", rating=2257, won=243, lost=199, faction="ALLIANCE", mr=2286, dr=0, dk=3 },
+		{ rank=220, name="Pjv", realm="nightslayer", rating=2255, won=195, lost=155, faction="HORDE", mr=2371, dr=0, dk=3 },
+		{ rank=221, name="Allstarsocal", realm="nightslayer", rating=2254, won=97, lost=76, faction="ALLIANCE", mr=2318, dr=0, dk=3 },
+		{ rank=221, name="Boxedkazzy", realm="nightslayer", rating=2254, won=264, lost=160, faction="ALLIANCE", mr=2320, dr=0, dk=3 },
+		{ rank=221, name="Chromattic", realm="nightslayer", rating=2254, won=472, lost=410, faction="ALLIANCE", mr=2315, dr=0, dk=3 },
+		{ rank=224, name="Indoorcow", realm="nightslayer", rating=2252, won=247, lost=153, faction="HORDE", mr=2412, dr=0, dk=3 },
 		{ rank=225, name="Naviorc", realm="nightslayer", rating=2251, won=329, lost=241, faction="HORDE", mr=2392, dr=0, dk=3 },
 		{ rank=225, name="Slimefeld", realm="nightslayer", rating=2251, won=124, lost=80, faction="HORDE", dr=0, dk=3 },
 		{ rank=227, name="Ariiana", realm="dreamscythe", rating=2250, won=146, lost=109, faction="HORDE", dr=13, dk=-29 },
