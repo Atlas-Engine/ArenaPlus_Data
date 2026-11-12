@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5212 characters, read 2026-11-11 09:59 PM.
+-- Region us, 5212 characters, read 2026-11-11 10:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5154,7 +5154,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["alystrixa-pagle"]=34,
 	["amaterasu-raden"]=28,
 	["amazingufo-pagle"]=1,
-	["amberance-pagle"]=5,
+	["amberance-pagle"]=17,
 	["ameldiel-pagle"]=20,
 	["amongoth-pagle"]=20,
 	["amöra-galakras"]=13,
@@ -5764,7 +5764,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["chaossy-pagle"]=24,
 	["chaotichunts-galakras"]=0,
 	["chaoticrush-lei-shen"]=24,
-	["charleez-nazgrim"]=21,
+	["charleez-nazgrim"]=9,
 	["charruesal-raden"]=3,
 	["chathdria-nazgrim"]=9,
 	["chaturbater-pagle"]=14,
@@ -6276,7 +6276,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["Ðressrøsa-immerseus"]=10,
 	["drewdipsy-pagle"]=7,
 	["drewleon-pagle"]=5,
-	["drewwd-nazgrim"]=17,
+	["drewwd-nazgrim"]=5,
 	["dreyad-pagle"]=5,
 	["dreyas-pagle"]=7,
 	["drfault-immerseus"]=5,
@@ -8179,7 +8179,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["nebubanana-raden"]=8,
 	["nebuboom-nazgrim"]=17,
 	["nebugrape-raden"]=8,
-	["nebupeach-nazgrim"]=28,
+	["nebupeach-nazgrim"]=8,
 	["nebuplum-raden"]=8,
 	["necris-galakras"]=26,
 	["necrodo-pagle"]=6,
@@ -8298,7 +8298,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["nupper-pagle"]=23,
 	["nurfme-raden"]=0,
 	["nurfmedk-raden"]=6,
-	["nurfthemonk-pagle"]=4,
+	["nurfthemonk-pagle"]=10,
 	["nurfwarr-raden"]=7,
 	["nusubito-pagle"]=29,
 	["nutgrabber-pagle"]=34,
