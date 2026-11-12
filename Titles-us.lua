@@ -5452,7 +5452,6 @@ ns.ALTS_BY_REGION["us"] = {
 	"Chepin-raden,Encantadorah-raden,Espantavièja-raden,Fistenjoyer-raden,Gizmatik-raden,Gizmho-raden,Gizzeh-raden,Junkoh-raden,Sandore-raden,Someonè-raden,Soplona-raden",
 	"Chibae-raden,Twiggletree-raden",
 	"Chickanuggs-pagle,Chikkanugs-pagle,Deadlylifts-pagle,killallmages-pagle,Quadriceps-pagle,Snackadashi-pagle",
-	"Chickenx-pagle,Keishabrown-pagle",
 	"Chinaski-nazgrim,femininja-nazgrim,Mäpuche-nazgrim,Overzero-nazgrim,Rodriclaws-nazgrim",
 	"Chinkchi-raden,Nasdaq-raden",
 	"Choosen-pagle,Sllorg-pagle",
