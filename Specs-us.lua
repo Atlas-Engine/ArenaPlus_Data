@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5212 characters, read 2026-11-12 06:59 AM.
+-- Region us, 5213 characters, read 2026-11-12 07:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1422,6 +1422,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["eternalslave-pagle"]=10,
 	["etherr-pagle"]=11,
 	["eucerin-raden"]=20,
+	["euspy-raden"]=10,
 	["eustaquio-raden"]=10,
 	["evasif-arugal-au"]=11,
 	["everlast-raden"]=10,
@@ -6449,6 +6450,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["eternalslave-pagle"]=7,
 	["etherr-pagle"]=14,
 	["eucerin-raden"]=6,
+	["euspy-raden"]=1,
 	["eustaquio-raden"]=7,
 	["evasif-arugal-au"]=3,
 	["everelle-pagle"]=0,
@@ -6782,7 +6784,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["glace-pagle"]=1,
 	["gläcer-raden"]=1,
 	["glacior-pagle"]=1,
-	["glafira-raden"]=23,
+	["glafira-raden"]=7,
 	["glaggy-galakras"]=3,
 	["glas-raden"]=21,
 	["glasstoker-pagle"]=17,
@@ -7569,7 +7571,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["kusamgie-galakras"]=2,
 	["kusheatsleep-raden"]=18,
 	["kushgodx-raden"]=1,
-	["kushh-nazgrim"]=4,
+	["kushh-nazgrim"]=10,
 	["kutless-raden"]=16,
 	["kutty-nazgrim"]=11,
 	["kvalsvøll-pagle"]=6,
