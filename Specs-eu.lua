@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5364 characters, read 2026-11-12 12:00 AM.
+-- Region eu, 5365 characters, read 2026-11-12 01:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4345,7 +4345,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["voldreth-everlook"]=100,
 	["voldrex-everlook"]=20,
 	["voljix-shekzeer"]=20,
-	["voljiz-shekzeer"]=21,
 	["volkris-shekzeer"]=10,
 	["volkrz-shekzeer"]=30,
 	["vølstagg-auberdine"]=30,
@@ -6740,6 +6739,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["gsek-shekzeer"]=1,
 	["guangtou-shekzeer"]=1,
 	["guaposensei-shekzeer"]=11,
+	["guccidaggers-shekzeer"]=0,
 	["gucthor-everlook"]=1,
 	["guctus-everlook"]=15,
 	["guesspal-shekzeer"]=5,
@@ -9680,7 +9680,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["voldreth-everlook"]=15,
 	["voldrex-everlook"]=16,
 	["voljix-shekzeer"]=14,
-	["voljiz-shekzeer"]=1,
+	["voljiz-shekzeer"]=0,
 	["volkris-shekzeer"]=15,
 	["volkrz-shekzeer"]=19,
 	["vølstagg-auberdine"]=30,
