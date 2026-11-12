@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5365 characters, read 2026-11-12 09:00 AM.
+-- Region eu, 5365 characters, read 2026-11-12 10:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1887,7 +1887,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["jaguarro-shekzeer"]=10,
 	["jaiky-mirage-raceway"]=20,
 	["jakam-shekzeer"]=41,
-	["jakamoto-shekzeer"]=11,
+	["jakamoto-shekzeer"]=10,
 	["jakamotô-shekzeer"]=10,
 	["jakamstar-shekzeer"]=10,
 	["jakeinator-shekzeer"]=10,
@@ -4100,7 +4100,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["torpeza-mirage-raceway"]=21,
 	["torryz-shekzeer"]=10,
 	["tosfandes-shekzeer"]=11,
-	["totemgodx-shekzeer"]=21,
 	["totemkhamun-garalon"]=111,
 	["totemmvp-shekzeer"]=30,
 	["totemoff-shekzeer"]=30,
@@ -7084,7 +7083,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["jaguarro-shekzeer"]=1,
 	["jaiky-mirage-raceway"]=4,
 	["jakam-shekzeer"]=21,
-	["jakamoto-shekzeer"]=23,
+	["jakamoto-shekzeer"]=17,
 	["jakamotô-shekzeer"]=17,
 	["jakamstar-shekzeer"]=26,
 	["jakeinator-shekzeer"]=1,
@@ -9422,7 +9421,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["torpeza-mirage-raceway"]=20,
 	["torryz-shekzeer"]=1,
 	["tosfandes-shekzeer"]=9,
-	["totemgodx-shekzeer"]=16,
+	["totemgodx-shekzeer"]=0,
 	["totemkhamun-garalon"]=19,
 	["totemmvp-shekzeer"]=13,
 	["totemoff-shekzeer"]=13,
