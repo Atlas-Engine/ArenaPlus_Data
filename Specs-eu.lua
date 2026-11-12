@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5365 characters, read 2026-11-12 02:00 PM.
+-- Region eu, 5365 characters, read 2026-11-12 03:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6922,7 +6922,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["hotfart-shekzeer"]=23,
 	["hotpoint-shekzeer"]=5,
 	["hottedeu-shekzeer"]=11,
-	["hotzalotz-hoptallus"]=3,
+	["hotzalotz-hoptallus"]=21,
 	["houndshow-shekzeer"]=5,
 	["houta-auberdine"]=26,
 	["howyoudied-shekzeer"]=9,
@@ -8996,7 +8996,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["skullchachi-mirage-raceway"]=26,
 	["skylexia-auberdine"]=15,
 	["skynerd-shekzeer"]=17,
-	["skyráw-shekzeer"]=21,
+	["skyráw-shekzeer"]=11,
 	["skyrine-auberdine"]=8,
 	["slagteren-shekzeer"]=1,
 	["slamftw-shekzeer"]=1,

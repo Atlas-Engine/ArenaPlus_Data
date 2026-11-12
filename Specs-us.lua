@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5213 characters, read 2026-11-12 01:59 PM.
+-- Region us, 5213 characters, read 2026-11-12 02:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -578,7 +578,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["bonkyoass-pagle"]=21,
 	["bonnìerotten-lei-shen"]=21,
 	["bonnith-pagle"]=11,
-	["bonwick-arugal-au"]=81,
+	["bonwick-arugal-au"]=80,
 	["boofed-raden"]=11,
 	["booku-pagle"]=10,
 	["boomantics-pagle"]=41,
@@ -5563,7 +5563,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["bonkyoass-pagle"]=7,
 	["bonnìerotten-lei-shen"]=6,
 	["bonnith-pagle"]=7,
-	["bonwick-arugal-au"]=21,
+	["bonwick-arugal-au"]=9,
 	["boofed-raden"]=1,
 	["booku-pagle"]=25,
 	["boomantics-pagle"]=17,
@@ -6281,7 +6281,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dreyad-pagle"]=5,
 	["dreyas-pagle"]=7,
 	["drfault-immerseus"]=5,
-	["drgewch-raden"]=4,
+	["drgewch-raden"]=10,
 	["drgspit-pagle"]=28,
 	["drhub-galakras"]=13,
 	["driadstorm-raden"]=12,

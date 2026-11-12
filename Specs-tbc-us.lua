@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9331 characters, read 2026-11-12 01:58 PM.
+-- Region tbc-us, 9331 characters, read 2026-11-12 02:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10656,7 +10656,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["chuckyz-nightslayer"]=0,
 	["chudlite-nightslayer"]=3,
 	["chudmaxxerx-nightslayer"]=5,
-	["chudsando-nightslayer"]=4,
+	["chudsando-nightslayer"]=6,
 	["chügz-nightslayer"]=10,
 	["chugzila-nightslayer"]=7,
 	["chules-dreamscythe"]=5,
@@ -12706,7 +12706,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["helbie-nightslayer"]=2,
 	["helicopters-nightslayer"]=24,
 	["hellabald-nightslayer"]=18,
-	["hellbug-nightslayer"]=2,
+	["hellbug-nightslayer"]=20,
 	["hellguyy-nightslayer"]=5,
 	["hellów-nightslayer"]=5,
 	["hellpower-dreamscythe"]=1,
@@ -15003,7 +15003,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["obesemoron-nightslayer"]=2,
 	["oblivionwing-dreamscythe"]=12,
 	["obnoxiuzz-nightslayer"]=15,
-	["obsx-nightslayer"]=10,
+	["obsx-nightslayer"]=24,
 	["Øbzen-nightslayer"]=5,
 	["ocar-dreamscythe"]=1,
 	["oceand-nightslayer"]=10,
