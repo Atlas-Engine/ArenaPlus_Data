@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5361 characters, read 2026-11-11 06:00 PM.
+-- Region eu, 5360 characters, read 2026-11-11 07:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -541,7 +541,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["bloodchi-mirage-raceway"]=41,
 	["bloodchi-shekzeer"]=101,
 	["bloodlust-hoptallus"]=10,
-	["bloodmoney-shekzeer"]=21,
 	["bloodsaber-shekzeer"]=11,
 	["bloodytrace-shekzeer"]=11,
 	["bluetoad-shekzeer"]=10,
@@ -1471,7 +1470,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["gentlepawss-norushen"]=21,
 	["getbajs-shekzeer"]=111,
 	["gethorned-garalon"]=60,
-	["gétòst-shekzeer"]=11,
 	["ggiggiggiggi-shekzeer"]=11,
 	["gharajü-auberdine"]=11,
 	["ghst-shekzeer"]=11,
@@ -4256,7 +4254,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["vahx-shekzeer"]=11,
 	["valehillx-shekzeer"]=31,
 	["valinór-garalon"]=101,
-	["valla-shekzeer"]=11,
 	["vallaríel-everlook"]=41,
 	["vallendei-shekzeer"]=11,
 	["vâlyria-shekzeer"]=40,
@@ -5674,7 +5671,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bloodchi-mirage-raceway"]=6,
 	["bloodchi-shekzeer"]=6,
 	["bloodlust-hoptallus"]=25,
-	["bloodmoney-shekzeer"]=8,
+	["bloodmoney-shekzeer"]=0,
 	["bloodsaber-shekzeer"]=1,
 	["bloodytrace-shekzeer"]=4,
 	["bluetoad-shekzeer"]=15,
@@ -5688,7 +5685,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bobbyshmürda-shekzeer"]=3,
 	["bobbysta-auberdine"]=9,
 	["bobjones-norushen"]=12,
-	["bobz-auberdine"]=6,
+	["bobz-auberdine"]=7,
 	["bodyfitness-shekzeer"]=2,
 	["bodytypekek-shekzeer"]=2,
 	["bokolokoo-shekzeer"]=4,
@@ -6642,7 +6639,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["gentlepawss-norushen"]=7,
 	["getbajs-shekzeer"]=16,
 	["gethorned-garalon"]=3,
-	["gétòst-shekzeer"]=2,
 	["ggiggiggiggi-shekzeer"]=25,
 	["gharajü-auberdine"]=9,
 	["ghst-shekzeer"]=26,
@@ -9585,7 +9581,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["vahx-shekzeer"]=1,
 	["valehillx-shekzeer"]=5,
 	["valinór-garalon"]=5,
-	["valla-shekzeer"]=4,
+	["valla-shekzeer"]=0,
 	["vallaríel-everlook"]=3,
 	["vallendei-shekzeer"]=24,
 	["vâlyria-shekzeer"]=20,
