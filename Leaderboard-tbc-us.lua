@@ -18,7 +18,7 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region tbc-us, season 3, read 2026-11-13 12:58 PM.
+-- Region tbc-us, season 3, read 2026-11-13 01:58 PM.
 -- Realm display names, because the ladder only carries slugs and no rule
 -- turns one back into the other: raden is Ra-den, lei-shen is Lei Shen and
 -- arugal-au is Arugal (AU). Read from Blizzard's realm index; a slug with no
@@ -32,9 +32,9 @@ ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["tbc-us"] = {
 	region  = "tbc-us",
-	checked = "2026-11-13 12:58 PM",
-	checkedEpoch = 1794592697,
-	snapshot = "2026-11-13 15:18",
+	checked = "2026-11-13 01:58 PM",
+	checkedEpoch = 1794596296,
+	snapshot = "2026-11-13 18:18",
 
 	[1] = {  -- 2v2, 5007 places, down to rating 1486 -- the API stops here, short of the cutoff
 		{ rank=1, name="Mosquietos", realm="nightslayer", rating=2700, won=381, lost=115, faction="HORDE", dr=0, dk=0 },
@@ -1362,26 +1362,26 @@ ns.LEADERBOARD_BY_REGION["tbc-us"] = {
 		{ rank=1320, name="Quitter", realm="nightslayer", rating=1962, won=194, lost=156, faction="ALLIANCE", mr=2139, dr=0, dk=-6 },
 		{ rank=1320, name="Seeyoutmrw", realm="nightslayer", rating=1962, won=84, lost=78, faction="ALLIANCE", mr=2010, dr=-5, dk=19 },
 		{ rank=1320, name="Wwqiopqwiopi", realm="nightslayer", rating=1962, won=39, lost=27, faction="HORDE", dr=0, dk=-6 },
-		{ rank=1326, name="Asapxd", realm="nightslayer", rating=1961, won=63, lost=54, faction="HORDE", mr=2009, dr=0, dk=-5 },
-		{ rank=1326, name="Codeforfood", realm="nightslayer", rating=1961, won=423, lost=365, faction="HORDE", mr=2043, dr=0, dk=-5 },
-		{ rank=1326, name="Imsocooked", realm="nightslayer", rating=1961, won=37, lost=18, faction="ALLIANCE", mr=1974, dr=0, dk=-5 },
-		{ rank=1326, name="Minutz", realm="nightslayer", rating=1961, won=45, lost=21, faction="HORDE", dr=0, dk=-5 },
-		{ rank=1326, name="Proudgoy", realm="nightslayer", rating=1961, won=329, lost=284, faction="ALLIANCE", mr=2037, dr=0, dk=-5 },
-		{ rank=1326, name="Royx", realm="nightslayer", rating=1961, won=48, lost=38, faction="ALLIANCE", mr=2009, dr=0, dk=-5 },
-		{ rank=1326, name="Scarecrow", realm="nightslayer", rating=1961, won=86, lost=66, faction="ALLIANCE", mr=2019, dr=0, dk=-5 },
-		{ rank=1333, name="Boysouls", realm="nightslayer", rating=1960, won=131, lost=134, faction="HORDE", mr=1997, dr=0, dk=-5 },
-		{ rank=1333, name="Creationw", realm="nightslayer", rating=1960, won=655, lost=653, faction="HORDE", mr=2139, dr=-7, dk=32 },
-		{ rank=1333, name="Dadskisses", realm="dreamscythe", rating=1960, won=155, lost=156, faction="HORDE", mr=2011, dr=0, dk=-5 },
-		{ rank=1333, name="Fatherdreams", realm="nightslayer", rating=1960, won=149, lost=123, faction="ALLIANCE", mr=2119, dr=0, dk=-5 },
-		{ rank=1333, name="Shinyz", realm="nightslayer", rating=1960, won=34, lost=26, faction="HORDE", dr=0, dk=-5 },
-		{ rank=1338, name="Beeku", realm="nightslayer", rating=1959, won=28, lost=17, faction="ALLIANCE", dr=0, dk=-4 },
-		{ rank=1338, name="Dontbesneaky", realm="nightslayer", rating=1959, won=80, lost=56, faction="ALLIANCE", dr=0, dk=-4 },
-		{ rank=1338, name="Monsieurcaca", realm="nightslayer", rating=1959, won=96, lost=70, faction="ALLIANCE", mr=2022, dr=0, dk=-4 },
-		{ rank=1338, name="Roleplaying", realm="nightslayer", rating=1959, won=122, lost=101, faction="ALLIANCE", dr=0, dk=-4 },
-		{ rank=1338, name="Sheltzor", realm="nightslayer", rating=1959, won=23, lost=14, faction="ALLIANCE", dr=0, dk=-4 },
-		{ rank=1338, name="Wholigan", realm="nightslayer", rating=1959, won=131, lost=103, faction="HORDE", mr=2005, dr=0, dk=-4 },
-		{ rank=1338, name="Yagoona", realm="nightslayer", rating=1959, won=652, lost=546, faction="ALLIANCE", dr=0, dk=-4 },
-		{ rank=1338, name="Yizzy", realm="nightslayer", rating=1959, won=55, lost=39, faction="ALLIANCE", mr=2007, dr=0, dk=-4 },
+		{ rank=1320, name="Yagoona", realm="nightslayer", rating=1962, won=660, lost=547, faction="ALLIANCE", dr=3, dk=-22 },
+		{ rank=1327, name="Asapxd", realm="nightslayer", rating=1961, won=63, lost=54, faction="HORDE", mr=2009, dr=0, dk=-4 },
+		{ rank=1327, name="Codeforfood", realm="nightslayer", rating=1961, won=423, lost=365, faction="HORDE", mr=2043, dr=0, dk=-4 },
+		{ rank=1327, name="Imsocooked", realm="nightslayer", rating=1961, won=37, lost=18, faction="ALLIANCE", mr=1974, dr=0, dk=-4 },
+		{ rank=1327, name="Minutz", realm="nightslayer", rating=1961, won=45, lost=21, faction="HORDE", dr=0, dk=-4 },
+		{ rank=1327, name="Proudgoy", realm="nightslayer", rating=1961, won=329, lost=284, faction="ALLIANCE", mr=2037, dr=0, dk=-4 },
+		{ rank=1327, name="Royx", realm="nightslayer", rating=1961, won=48, lost=38, faction="ALLIANCE", mr=2009, dr=0, dk=-4 },
+		{ rank=1327, name="Scarecrow", realm="nightslayer", rating=1961, won=86, lost=66, faction="ALLIANCE", mr=2019, dr=0, dk=-4 },
+		{ rank=1334, name="Boysouls", realm="nightslayer", rating=1960, won=131, lost=134, faction="HORDE", mr=1997, dr=0, dk=-4 },
+		{ rank=1334, name="Creationw", realm="nightslayer", rating=1960, won=655, lost=653, faction="HORDE", mr=2139, dr=-7, dk=33 },
+		{ rank=1334, name="Dadskisses", realm="dreamscythe", rating=1960, won=155, lost=156, faction="HORDE", mr=2011, dr=0, dk=-4 },
+		{ rank=1334, name="Fatherdreams", realm="nightslayer", rating=1960, won=149, lost=123, faction="ALLIANCE", mr=2119, dr=0, dk=-4 },
+		{ rank=1334, name="Shinyz", realm="nightslayer", rating=1960, won=34, lost=26, faction="HORDE", dr=0, dk=-4 },
+		{ rank=1339, name="Beeku", realm="nightslayer", rating=1959, won=28, lost=17, faction="ALLIANCE", dr=0, dk=-3 },
+		{ rank=1339, name="Dontbesneaky", realm="nightslayer", rating=1959, won=80, lost=56, faction="ALLIANCE", dr=0, dk=-3 },
+		{ rank=1339, name="Monsieurcaca", realm="nightslayer", rating=1959, won=96, lost=70, faction="ALLIANCE", mr=2022, dr=0, dk=-3 },
+		{ rank=1339, name="Roleplaying", realm="nightslayer", rating=1959, won=122, lost=101, faction="ALLIANCE", dr=0, dk=-3 },
+		{ rank=1339, name="Sheltzor", realm="nightslayer", rating=1959, won=23, lost=14, faction="ALLIANCE", dr=0, dk=-3 },
+		{ rank=1339, name="Wholigan", realm="nightslayer", rating=1959, won=131, lost=103, faction="HORDE", mr=2005, dr=0, dk=-3 },
+		{ rank=1339, name="Yizzy", realm="nightslayer", rating=1959, won=55, lost=39, faction="ALLIANCE", mr=2007, dr=0, dk=-3 },
 		{ rank=1346, name="Byeah", realm="nightslayer", rating=1958, won=477, lost=470, faction="HORDE", mr=2014, dr=0, dk=-4 },
 		{ rank=1346, name="Corrosionn", realm="nightslayer", rating=1958, won=26, lost=14, faction="ALLIANCE", dr=0, dk=-4 },
 		{ rank=1346, name="Dispelsr", realm="nightslayer", rating=1958, won=85, lost=66, faction="ALLIANCE", mr=1976, dr=0, dk=-4 },

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9331 characters, read 2026-11-13 12:58 PM.
+-- Region tbc-us, 9331 characters, read 2026-11-13 01:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3214,7 +3214,6 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["gph-nightslayer"]=11,
 	["graar-nightslayer"]=30,
 	["grabar-dreamscythe"]=50,
-	["grãcexo-dreamscythe"]=51,
 	["grainbin-dreamscythe"]=100,
 	["gralno-nightslayer"]=41,
 	["grandview-nightslayer"]=61,
@@ -12468,7 +12467,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["gph-nightslayer"]=6,
 	["graar-nightslayer"]=17,
 	["grabar-dreamscythe"]=5,
-	["grãcexo-dreamscythe"]=1,
+	["grãcexo-dreamscythe"]=0,
 	["grainbin-dreamscythe"]=9,
 	["gralno-nightslayer"]=7,
 	["grandview-nightslayer"]=7,
@@ -18371,7 +18370,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["yooti-dreamscythe"]=2,
 	["yopoheal-nightslayer"]=10,
 	["yopomage-nightslayer"]=4,
-	["yorha-nightslayer"]=1,
+	["yorha-nightslayer"]=14,
 	["yorkjr-nightslayer"]=6,
 	["yotasuke-nightslayer"]=18,
 	["yottu-nightslayer"]=10,

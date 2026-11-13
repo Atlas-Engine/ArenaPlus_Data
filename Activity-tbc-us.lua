@@ -20,46 +20,49 @@ local ns = ArenaPlusData
 ns.ACTIVITY_BY_REGION = ns.ACTIVITY_BY_REGION or {}
 
 ns.ACTIVITY_BY_REGION["tbc-us"] = {
-	built = 1794592716,
-	builtText = "2026-11-13 12:58 PM",
+	built = 1794596315,
+	builtText = "2026-11-13 01:58 PM",
 	windows = { 1, 3, 6, 12, 24 },
 	[1] = {  -- the last 1 hour(s)
+		[1] = {
+			["Yagoona|nightslayer"] = { 8, 1, 3, 41 },
+		},
 	},
 	[3] = {  -- the last 3 hour(s)
+		[1] = {
+			["Yagoona|nightslayer"] = { 8, 1, 3, 41 },
+		},
 	},
 	[6] = {  -- the last 6 hour(s)
+		[1] = {
+			["Yagoona|nightslayer"] = { 8, 1, 3, 41 },
+		},
 	},
 	[12] = {  -- the last 12 hour(s)
 		[1] = {
-			["Shigekazu|nightslayer"] = { 7, 11, -26, 687 },
-			["Wílleh|nightslayer"] = { 7, 11, -26, 687 },
-			["Chrispratt|nightslayer"] = { 13, 3, 40, 715 },
-			["Lefttenclear|nightslayer"] = { 13, 3, 40, 716 },
-			["Clothfate|nightslayer"] = { 4, 6, -23, 673 },
-			["Qantas|nightslayer"] = { 4, 6, -23, 674 },
-			["Largemoot|nightslayer"] = { 0, 3, -7, 521 },
-			["Arpx|nightslayer"] = { 2, 0, 14, 691 },
-			["Palapapa|nightslayer"] = { 2, 0, 14, 691 },
+			["Yagoona|nightslayer"] = { 8, 1, 3, 41 },
+			["Largemoot|nightslayer"] = { 0, 3, -7, 581 },
 		},
 	},
 	[24] = {  -- the last 24 hour(s)
 		[1] = {
-			["Shigekazu|nightslayer"] = { 7, 11, -26, 687 },
-			["Wílleh|nightslayer"] = { 7, 11, -26, 687 },
-			["Chrispratt|nightslayer"] = { 13, 3, 40, 715 },
-			["Lefttenclear|nightslayer"] = { 13, 3, 40, 716 },
-			["Bohagons|nightslayer"] = { 6, 4, 21, 781 },
-			["Chugzila|nightslayer"] = { 6, 4, 21, 782 },
-			["Clothfate|nightslayer"] = { 4, 6, -23, 673 },
-			["Duudah|nightslayer"] = { 9, 1, 23, 881 },
-			["Qantas|nightslayer"] = { 4, 6, -23, 674 },
-			["Vanderden|nightslayer"] = { 9, 1, 21, 881 },
-			["Hillarybankz|nightslayer"] = { 4, 5, -19, 791 },
-			["Woodbugs|nightslayer"] = { 4, 5, -46, 792 },
-			["Creationw|nightslayer"] = { 2, 2, -32, 1241 },
-			["Largemoot|nightslayer"] = { 0, 3, -7, 521 },
-			["Arpx|nightslayer"] = { 2, 0, 14, 691 },
-			["Palapapa|nightslayer"] = { 2, 0, 14, 691 },
+			["Shigekazu|nightslayer"] = { 7, 11, -26, 747 },
+			["Wílleh|nightslayer"] = { 7, 11, -26, 747 },
+			["Chrispratt|nightslayer"] = { 13, 3, 40, 775 },
+			["Lefttenclear|nightslayer"] = { 13, 3, 40, 776 },
+			["Bohagons|nightslayer"] = { 6, 4, 21, 841 },
+			["Chugzila|nightslayer"] = { 6, 4, 21, 842 },
+			["Clothfate|nightslayer"] = { 4, 6, -23, 733 },
+			["Duudah|nightslayer"] = { 9, 1, 23, 941 },
+			["Qantas|nightslayer"] = { 4, 6, -23, 734 },
+			["Vanderden|nightslayer"] = { 9, 1, 21, 941 },
+			["Hillarybankz|nightslayer"] = { 4, 5, -19, 851 },
+			["Woodbugs|nightslayer"] = { 4, 5, -46, 852 },
+			["Yagoona|nightslayer"] = { 8, 1, 3, 41 },
+			["Creationw|nightslayer"] = { 2, 2, -32, 1301 },
+			["Largemoot|nightslayer"] = { 0, 3, -7, 581 },
+			["Arpx|nightslayer"] = { 2, 0, 14, 751 },
+			["Palapapa|nightslayer"] = { 2, 0, 14, 751 },
 		},
 	},
 }
