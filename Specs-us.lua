@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5203 characters, read 2026-11-13 10:59 AM.
+-- Region us, 5203 characters, read 2026-11-13 12:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2160,6 +2160,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["irascible-raden"]=20,
 	["ironheart-lei-shen"]=10,
 	["ironhorse-galakras"]=10,
+	["ironoak-raden"]=41,
 	["ironpride-pagle"]=60,
 	["irulian-raden"]=11,
 	["irys-pagle"]=11,
@@ -2222,7 +2223,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["jayhughunks-galakras"]=20,
 	["jaymayn-raden"]=40,
 	["jayzon-galakras"]=100,
-	["jazzpuss-pagle"]=41,
 	["jcdk-raden"]=11,
 	["jedicowie-pagle"]=11,
 	["jedimindtriq-pagle"]=220,
@@ -7211,7 +7211,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["irascible-raden"]=7,
 	["ironheart-lei-shen"]=7,
 	["ironhorse-galakras"]=24,
-	["ironoak-raden"]=0,
+	["ironoak-raden"]=5,
 	["ironpride-pagle"]=7,
 	["irulian-raden"]=1,
 	["irys-pagle"]=4,
@@ -7277,7 +7277,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["jayhughunks-galakras"]=28,
 	["jaymayn-raden"]=7,
 	["jayzon-galakras"]=1,
-	["jazzpuss-pagle"]=17,
+	["jazzpuss-pagle"]=0,
 	["jazzwar-pagle"]=0,
 	["jcdk-raden"]=6,
 	["jedicowie-pagle"]=13,
