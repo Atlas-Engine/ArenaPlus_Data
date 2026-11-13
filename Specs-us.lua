@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5213 characters, read 2026-11-12 08:59 PM.
+-- Region us, 5213 characters, read 2026-11-12 09:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5286,7 +5286,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["awetysm-raden"]=6,
 	["axity-pagle"]=7,
 	["axler-raden"]=6,
-	["axlock-raden"]=28,
+	["axlock-raden"]=24,
 	["axlrose-pagle"]=0,
 	["ayeflux-raden"]=17,
 	["aysa-pagle"]=10,
@@ -6790,7 +6790,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["glasstoker-pagle"]=17,
 	["glayzed-raden"]=19,
 	["gleef-pagle"]=0,
-	["glinna-raden"]=21,
+	["glinna-raden"]=9,
 	["glitcho-immerseus"]=2,
 	["glitercheeks-pagle"]=17,
 	["glizzyjizzy-nazgrim"]=2,
@@ -9220,7 +9220,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["slumpbucks-raden"]=22,
 	["slumpfoo-raden"]=4,
 	["slumpirlpov-raden"]=1,
-	["slumplord-raden"]=14,
+	["slumplord-raden"]=29,
 	["slumplordx-raden"]=14,
 	["smallrass-pagle"]=7,
 	["smalltrain-pagle"]=15,
@@ -9333,7 +9333,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["spongeboby-pagle"]=1,
 	["spongethroby-pagle"]=1,
 	["sponsor-raden"]=4,
-	["sponsorx-pagle"]=8,
+	["sponsorx-pagle"]=24,
 	["sponsorx-raden"]=2,
 	["sponsorz-raden"]=19,
 	["spooke-pagle"]=21,

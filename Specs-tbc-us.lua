@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9331 characters, read 2026-11-12 08:58 PM.
+-- Region tbc-us, 9331 characters, read 2026-11-12 09:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10036,7 +10036,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["biscuits-nightslayer"]=6,
 	["bisduo-nightslayer"]=7,
 	["bisfuku-dreamscythe"]=10,
-	["bishoped-nightslayer"]=1,
+	["bishoped-nightslayer"]=14,
 	["bisqt-nightslayer"]=19,
 	["bisquake-dreamscythe"]=14,
 	["bisshaq-nightslayer"]=3,
@@ -16999,7 +16999,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["stokeswf-nightslayer"]=10,
 	["stokeszerk-nightslayer"]=18,
 	["stokex-nightslayer"]=3,
-	["stokez-nightslayer"]=2,
+	["stokez-nightslayer"]=18,
 	["stompzz-nightslayer"]=2,
 	["stonedcop-nightslayer"]=1,
 	["stonédform-nightslayer"]=15,
@@ -17743,7 +17743,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["unkowntarget-nightslayer"]=5,
 	["unmasker-dreamscythe"]=19,
 	["unpeumort-dreamscythe"]=1,
-	["unrealistic-nightslayer"]=4,
+	["unrealistic-nightslayer"]=6,
 	["unrívaled-nightslayer"]=15,
 	["unskulk-nightslayer"]=5,
 	["unw-dreamscythe"]=18,

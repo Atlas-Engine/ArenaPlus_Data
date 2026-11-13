@@ -18,7 +18,7 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region tbc-eu, season 3, read 2026-11-12 08:58 PM.
+-- Region tbc-eu, season 3, read 2026-11-12 09:58 PM.
 -- Realm display names, because the ladder only carries slugs and no rule
 -- turns one back into the other: raden is Ra-den, lei-shen is Lei Shen and
 -- arugal-au is Arugal (AU). Read from Blizzard's realm index; a slug with no
@@ -32,11 +32,11 @@ ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["tbc-eu"] = {
 	region  = "tbc-eu",
-	checked = "2026-11-12 08:58 PM",
-	checkedEpoch = 1794535139,
-	snapshot = "2026-11-12 23:14",
+	checked = "2026-11-12 09:58 PM",
+	checkedEpoch = 1794538739,
+	snapshot = "2026-11-13 02:14",
 
-	[1] = {  -- 2v2, 5013 places, down to rating 1474 -- the API stops here, short of the cutoff
+	[1] = {  -- 2v2, 5012 places, down to rating 1474 -- the API stops here, short of the cutoff
 		{ rank=1, name="Beryboss", realm="spineshatter", rating=2741, won=113, lost=39, faction="HORDE", mr=2744, dr=0, dk=0 },
 		{ rank=2, name="Dikzysquad", realm="spineshatter", rating=2732, won=141, lost=62, faction="HORDE", dr=0, dk=0 },
 		{ rank=2, name="Neepzdruid", realm="spineshatter", rating=2732, won=167, lost=82, faction="HORDE", dr=0, dk=0 },
@@ -5049,7 +5049,6 @@ ns.LEADERBOARD_BY_REGION["tbc-eu"] = {
 		{ rank=4989, name="Snuskjonna", realm="spineshatter", rating=1776, won=130, lost=119, faction="ALLIANCE" },
 		{ rank=4989, name="Sonyblue", realm="spineshatter", rating=1776, won=256, lost=266, faction="HORDE", mr=1844, dr=0, dk=11 },
 		{ rank=4989, name="Stelconplaat", realm="spineshatter", rating=1776, won=36, lost=28, faction="ALLIANCE", mr=1781, dr=0, dk=11 },
-		{ rank=5013, name="Pinkwidow", realm="spineshatter", rating=1768, won=180, lost=149, faction="ALLIANCE", mr=1836, dr=-33, dk=445 },
 	},
 	[2] = {  -- 3v3, 5046 places, down to rating 1495 -- the API stops here, short of the cutoff
 		{ rank=1, name="Yermeezylr", realm="spineshatter", rating=2540, won=148, lost=53, faction="HORDE", dr=0, dk=0 },
