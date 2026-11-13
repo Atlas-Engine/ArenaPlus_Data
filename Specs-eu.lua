@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5366 characters, read 2026-11-13 09:00 AM.
+-- Region eu, 5366 characters, read 2026-11-13 10:01 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -564,6 +564,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["bombshock-shekzeer"]=11,
 	["bonciukaz-garalon"]=10,
 	["bonefire-garalon"]=50,
+	["bonesjones-shekzeer"]=50,
 	["bonjour-auberdine"]=10,
 	["bony-shekzeer"]=41,
 	["boogboogboog-shekzeer"]=11,
@@ -5695,7 +5696,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["bombshock-shekzeer"]=23,
 	["bonciukaz-garalon"]=5,
 	["bonefire-garalon"]=2,
-	["bonesjones-shekzeer"]=0,
+	["bonesjones-shekzeer"]=4,
 	["bonjour-auberdine"]=4,
 	["bony-shekzeer"]=1,
 	["boogboogboog-shekzeer"]=7,
@@ -8987,7 +8988,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["skatokolos-shekzeer"]=0,
 	["skepnad-mirage-raceway"]=12,
 	["skinnypsycho-shekzeer"]=3,
-	["skinnywintrd-shekzeer"]=11,
+	["skinnywintrd-shekzeer"]=3,
 	["skinwalker-garalon"]=11,
 	["skinwalker-shekzeer"]=11,
 	["skonark-auberdine"]=1,
