@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5203 characters, read 2026-11-13 02:59 AM.
+-- Region us, 5203 characters, read 2026-11-13 03:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2623,7 +2623,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["liveforeverr-pagle"]=40,
 	["livekirkly-raden"]=31,
 	["liverr-galakras"]=50,
-	["livingsteak-galakras"]=60,
+	["livingsteak-galakras"]=61,
 	["livlord-pagle"]=30,
 	["lixzos-nazgrim"]=21,
 	["liyarlena-raden"]=11,
@@ -5983,7 +5983,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dankenbrew-lei-shen"]=4,
 	["dankendwarf-pagle"]=22,
 	["dankenelf-pagle"]=5,
-	["dankenshroom-lei-shen"]=33,
+	["dankenshroom-lei-shen"]=12,
 	["dankenstein-lei-shen"]=19,
 	["dankorbs-pagle"]=4,
 	["dankshots-lei-shen"]=3,
@@ -8732,7 +8732,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["rejuvemoo-pagle"]=5,
 	["rekkingball-galakras"]=7,
 	["rekkzz-raden"]=20,
-	["rekstorm-nazgrim"]=7,
+	["rekstorm-nazgrim"]=30,
 	["rektalrager-galakras"]=22,
 	["rekzor-raden"]=7,
 	["relapse-lei-shen"]=1,
@@ -9787,7 +9787,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["unphasedx-raden"]=9,
 	["unrule-grobbulus"]=16,
 	["unslayer-pagle"]=6,
-	["untaked-pagle"]=32,
+	["untaked-pagle"]=16,
 	["uppercut-raden"]=10,
 	["upsetskdmark-raden"]=1,
 	["Ùpthewahs-immerseus"]=30,
@@ -9973,7 +9973,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["winstonwolfe-pagle"]=5,
 	["wïntërwîtch-pagle"]=26,
 	["winterzface-nazgrim"]=25,
-	["wiseoleman-pagle"]=15,
+	["wiseoleman-pagle"]=22,
 	["wìz-raden"]=21,
 	["wîzärdøføzz-raden"]=15,
 	["wkndxo-raden"]=1,
