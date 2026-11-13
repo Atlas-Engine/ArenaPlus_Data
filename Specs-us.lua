@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5213 characters, read 2026-11-12 09:59 PM.
+-- Region us, 5213 characters, read 2026-11-12 10:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -942,7 +942,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["cultxo-raden"]=41,
 	["cumbustions-nazgrim"]=81,
 	["cumfypillow-benediction"]=10,
-	["cupidxp-raden"]=10,
+	["cupidxp-raden"]=11,
 	["cursedblood-pagle"]=21,
 	["cutter-raden"]=80,
 	["cvex-raden"]=11,
@@ -8300,7 +8300,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["nupper-pagle"]=23,
 	["nurfme-raden"]=0,
 	["nurfmedk-raden"]=6,
-	["nurfthemonk-pagle"]=10,
+	["nurfthemonk-pagle"]=4,
 	["nurfwarr-raden"]=7,
 	["nusubito-pagle"]=29,
 	["nutgrabber-pagle"]=34,
