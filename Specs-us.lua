@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5203 characters, read 2026-11-13 01:59 AM.
+-- Region us, 5203 characters, read 2026-11-13 02:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2993,7 +2993,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["mused-lei-shen"]=11,
 	["mush-raden"]=41,
 	["musician-raden"]=11,
-	["mutuu-pagle"]=220,
 	["mutwo-pagle"]=70,
 	["mwgødx-raden"]=51,
 	["mwm-pagle"]=100,
@@ -8092,7 +8091,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["mused-lei-shen"]=10,
 	["mush-raden"]=9,
 	["musician-raden"]=9,
-	["mutuu-pagle"]=26,
+	["mutuu-pagle"]=0,
 	["mutwo-pagle"]=1,
 	["mw-raden"]=0,
 	["mwgødx-raden"]=4,
@@ -8143,7 +8142,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["nastyhealz-pagle"]=9,
 	["nastynate-galakras"]=3,
 	["nastytaint-galakras"]=8,
-	["natalia-raden"]=34,
+	["natalia-raden"]=14,
 	["natasteps-galakras"]=29,
 	["nathaniel-lei-shen"]=5,
 	["nattypriest-pagle"]=9,
@@ -10025,7 +10024,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["xaravi-raden"]=9,
 	["xarped-nazgrim"]=17,
 	["xatica-pagle"]=29,
-	["xatyka-pagle"]=1,
+	["xatyka-pagle"]=11,
 	["xavilier-pagle"]=29,
 	["xb-galakras"]=4,
 	["xbushmaster-pagle"]=5,
