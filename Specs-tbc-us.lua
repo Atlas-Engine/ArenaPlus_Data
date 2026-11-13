@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9331 characters, read 2026-11-13 02:58 PM.
+-- Region tbc-us, 9331 characters, read 2026-11-13 03:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -13387,7 +13387,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["juggilyszx-nightslayer"]=10,
 	["juggilyz-nightslayer"]=10,
 	["juggilyzx-nightslayer"]=10,
-	["juicejuice-dreamscythe"]=22,
+	["juicejuice-dreamscythe"]=7,
 	["juicetime-nightslayer"]=19,
 	["juiceydots-nightslayer"]=16,
 	["juicyjer-dreamscythe"]=7,
@@ -14812,7 +14812,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["nexd-dreamscythe"]=3,
 	["nexecute-dreamscythe"]=18,
 	["nexshot-dreamscythe"]=15,
-	["neytïrï-dreamscythe"]=3,
+	["neytïrï-dreamscythe"]=7,
 	["nezhra-dreamscythe"]=2,
 	["nezn-nightslayer"]=6,
 	["nezrul-dreamscythe"]=19,
@@ -15479,7 +15479,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["popovich-nightslayer"]=12,
 	["poppitylock-nightslayer"]=16,
 	["popr-nightslayer"]=8,
-	["poprocksx-nightslayer"]=8,
+	["poprocksx-nightslayer"]=5,
 	["popsecret-dreamscythe"]=18,
 	["popspalla-nightslayer"]=11,
 	["popstarbill-nightslayer"]=5,
