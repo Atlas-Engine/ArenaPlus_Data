@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5364 characters, read 2026-11-12 06:00 PM.
+-- Region eu, 5366 characters, read 2026-11-12 07:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -170,6 +170,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["alekcs-auberdine"]=220,
 	["alenkovich-shekzeer"]=11,
 	["alepoudiaris-garalon"]=100,
+	["alesant-shekzeer"]=10,
 	["alexandereu-shekzeer"]=11,
 	["alfajer-shekzeer"]=11,
 	["algerian-shekzeer"]=10,
@@ -3135,7 +3136,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["plåýbøt-shekzeer"]=11,
 	["plâybøybûnny-shekzeer"]=11,
 	["playmop-shekzeer"]=11,
-	["plåýßøt-shekzeer"]=21,
+	["plåýßøt-shekzeer"]=20,
 	["plmbeachpete-shekzeer"]=11,
 	["pløgzy-shekzeer"]=11,
 	["pløgzyx-shekzeer"]=11,
@@ -4148,6 +4149,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["trm-shekzeer"]=11,
 	["trmtow-shekzeer"]=10,
 	["trmz-shekzeer"]=41,
+	["tropycal-mirage-raceway"]=80,
 	["trpldrdgsht-mirage-raceway"]=50,
 	["trustmebro-shekzeer"]=10,
 	["truthspeaker-shekzeer"]=11,
@@ -5274,6 +5276,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["alekcs-auberdine"]=25,
 	["alenkovich-shekzeer"]=17,
 	["alepoudiaris-garalon"]=15,
+	["alesant-shekzeer"]=1,
 	["alexandereu-shekzeer"]=10,
 	["alfajer-shekzeer"]=4,
 	["algerian-shekzeer"]=4,
@@ -6226,7 +6229,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["dominant-garalon"]=28,
 	["dominant-shekzeer"]=2,
 	["dominoo-shekzeer"]=21,
-	["domnox-auberdine"]=20,
+	["domnox-auberdine"]=14,
 	["dondrippiano-shekzeer"]=6,
 	["donjacky-shekzeer"]=6,
 	["donpromillo-shekzeer"]=17,
@@ -9471,6 +9474,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["trmtow-shekzeer"]=5,
 	["trmz-shekzeer"]=3,
 	["trolly-shekzeer"]=0,
+	["tropycal-mirage-raceway"]=4,
 	["trpldrdgsht-mirage-raceway"]=6,
 	["trustmebro-shekzeer"]=1,
 	["truthspeaker-shekzeer"]=6,
@@ -9758,7 +9762,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["wheelygood-shekzeer"]=4,
 	["whereâreyûat-everlook"]=23,
 	["wheyx-shekzeer"]=12,
-	["wheyxw-shekzeer"]=25,
+	["wheyxw-shekzeer"]=1,
 	["whipmepls-shekzeer"]=8,
 	["whisp-garalon"]=11,
 	["whodid-shekzeer"]=3,
