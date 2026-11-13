@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9605 characters, read 2026-11-13 03:59 PM.
+-- Region tbc-eu, 9605 characters, read 2026-11-13 04:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -13263,7 +13263,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["izooisback-spineshatter"]=3,
 	["izzabeelloo-spineshatter"]=3,
 	["jäädotx-spineshatter"]=13,
-	["jääkuubik-spineshatter"]=4,
+	["jääkuubik-spineshatter"]=9,
 	["jaanks-spineshatter"]=7,
 	["jääslamx-spineshatter"]=5,
 	["jäävittu-spineshatter"]=9,
@@ -13836,7 +13836,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["kobli-spineshatter"]=15,
 	["koerean-spineshatter"]=17,
 	["koeter-spineshatter"]=3,
-	["koffiekopjes-thunderstrike"]=9,
+	["koffiekopjes-thunderstrike"]=4,
 	["kohli-spineshatter"]=5,
 	["kojz-spineshatter"]=15,
 	["kokojambik-spineshatter"]=18,
@@ -18421,7 +18421,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["vincentxd-spineshatter"]=3,
 	["vindieselx-spineshatter"]=5,
 	["vindmax-spineshatter"]=12,
-	["vindzxd-thunderstrike"]=15,
+	["vindzxd-thunderstrike"]=5,
 	["vinijnr-spineshatter"]=15,
 	["vinningshafi-spineshatter"]=3,
 	["vinyoda-spineshatter"]=11,
