@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9331 characters, read 2026-11-14 11:58 AM.
+-- Region tbc-us, 9331 characters, read 2026-11-14 12:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12706,7 +12706,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["hellbug-nightslayer"]=20,
 	["hellguyy-nightslayer"]=5,
 	["hellów-nightslayer"]=5,
-	["hellpower-dreamscythe"]=1,
+	["hellpower-dreamscythe"]=14,
 	["hellsbear-nightslayer"]=3,
 	["hellu-nightslayer"]=18,
 	["helluu-nightslayer"]=25,
@@ -13545,7 +13545,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["keter-nightslayer"]=7,
 	["ketheriya-nightslayer"]=14,
 	["ketusmacopin-dreamscythe"]=9,
-	["keumer-dreamscythe"]=2,
+	["keumer-dreamscythe"]=18,
 	["kevbigpp-nightslayer"]=12,
 	["kevinboomy-nightslayer"]=7,
 	["kevindeacon-nightslayer"]=1,
@@ -17777,7 +17777,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["vandriel-nightslayer"]=2,
 	["vanhoutte-nightslayer"]=2,
 	["vanillajuice-dreamscythe"]=2,
-	["vanishbrb-nightslayer"]=5,
+	["vanishbrb-nightslayer"]=8,
 	["vanishh-nightslayer"]=8,
 	["vanishxoxo-nightslayer"]=14,
 	["vankara-dreamscythe"]=5,

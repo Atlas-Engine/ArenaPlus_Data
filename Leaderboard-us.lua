@@ -18,7 +18,7 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region us, season 14, read 2026-11-14 11:59 AM.
+-- Region us, season 14, read 2026-11-14 12:59 PM.
 -- Realm display names, because the ladder only carries slugs and no rule
 -- turns one back into the other: raden is Ra-den, lei-shen is Lei Shen and
 -- arugal-au is Arugal (AU). Read from Blizzard's realm index; a slug with no
@@ -35,8 +35,8 @@ ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["us"] = {
 	region  = "us",
-	checked = "2026-11-14 11:59 AM",
-	checkedEpoch = 1794675570,
+	checked = "2026-11-14 12:59 PM",
+	checkedEpoch = 1794679169,
 	snapshot = "2026-11-14 16:04",
 
 	[1] = {  -- 2v2, 5000 places, down to rating 1134 -- the API stops here, short of the cutoff
@@ -1897,7 +1897,7 @@ ns.LEADERBOARD_BY_REGION["us"] = {
 		{ rank=1851, name="Palalazy", realm="pagle", rating=1933, won=92, lost=115, faction="HORDE", mr=1934, dr=0, dk=-1 },
 		{ rank=1851, name="Taikwanchung", realm="pagle", rating=1933, won=52, lost=32, faction="ALLIANCE", dr=0, dk=-1 },
 		{ rank=1857, name="Biglørd", realm="pagle", rating=1932, won=50, lost=54, faction="ALLIANCE", dr=0, dk=-2 },
-		{ rank=1857, name="Próxan", realm="pagle", rating=1932, won=42, lost=37, faction="HORDE", dr=122, dk=-822 },
+		{ rank=1857, name="Próxan", realm="pagle", rating=1932, won=42, lost=38, faction="HORDE", dr=122, dk=-822 },
 		{ rank=1859, name="Joerøguen", realm="lei-shen", rating=1931, won=80, lost=88, faction="ALLIANCE", mr=1941, dr=0, dk=-1 },
 		{ rank=1859, name="Sârolyn", realm="pagle", rating=1931, won=47, lost=57, faction="ALLIANCE", mr=1969, dr=0, dk=-1 },
 		{ rank=1861, name="Blakemøre", realm="raden", rating=1930, won=34, lost=19, faction="ALLIANCE", dr=0, dk=-1 },
@@ -2730,25 +2730,25 @@ ns.LEADERBOARD_BY_REGION["us"] = {
 		{ rank=2683, name="Serethi", realm="pagle", rating=1809, won=60, lost=61, faction="HORDE", dr=0, dk=-1 },
 		{ rank=2683, name="Spéllcaster", realm="raden", rating=1809, won=105, lost=93, faction="ALLIANCE", mr=1832, dr=0, dk=-1 },
 		{ rank=2683, name="Thyrìm", realm="pagle", rating=1809, won=81, lost=86, faction="HORDE", dr=0, dk=-1 },
-		{ rank=2683, name="Undeadgød", realm="immerseus", rating=1809, won=1358, lost=2259, faction="HORDE", mr=1973, dr=-40, dk=274 },
 		{ rank=2683, name="Zethht", realm="raden", rating=1809, won=32, lost=25, faction="ALLIANCE", dr=0, dk=-1 },
-		{ rank=2693, name="Blazingchi", realm="arugal-au", rating=1808, won=36, lost=28, faction="HORDE", dr=0, dk=0 },
-		{ rank=2693, name="Cheesepizza", realm="raden", rating=1808, won=40, lost=38, faction="ALLIANCE", dr=0, dk=0 },
-		{ rank=2693, name="Dccb", realm="nazgrim", rating=1808, won=31, lost=24, faction="HORDE", dr=0, dk=0 },
-		{ rank=2693, name="Glizzyjizzy", realm="nazgrim", rating=1808, won=31, lost=29, faction="HORDE", dr=0, dk=0 },
-		{ rank=2693, name="Sovice", realm="raden", rating=1808, won=31, lost=25, faction="ALLIANCE", dr=0, dk=0 },
-		{ rank=2693, name="Zerkingoff", realm="raden", rating=1808, won=47, lost=37, faction="ALLIANCE", dr=0, dk=0 },
-		{ rank=2699, name="Ayeflux", realm="raden", rating=1807, won=52, lost=64, faction="ALLIANCE", mr=1832, dr=0, dk=0 },
-		{ rank=2699, name="Bubbleßöò", realm="pagle", rating=1807, won=37, lost=35, faction="ALLIANCE", dr=0, dk=0 },
-		{ rank=2699, name="Buffdeets", realm="pagle", rating=1807, won=49, lost=50, faction="ALLIANCE", dr=0, dk=0 },
-		{ rank=2699, name="Cazabrujas", realm="raden", rating=1807, won=97, lost=110, faction="ALLIANCE", dr=0, dk=0 },
-		{ rank=2699, name="Garnarin", realm="galakras", rating=1807, won=141, lost=256, faction="HORDE", mr=1968, dr=0, dk=0 },
-		{ rank=2699, name="Lëgendz", realm="pagle", rating=1807, won=31, lost=21, faction="ALLIANCE", dr=0, dk=0 },
-		{ rank=2699, name="Lightglare", realm="pagle", rating=1807, won=62, lost=56, faction="ALLIANCE", dr=0, dk=0 },
-		{ rank=2699, name="Matahordax", realm="pagle", rating=1807, won=66, lost=73, faction="HORDE", mr=1819, dr=0, dk=0 },
-		{ rank=2699, name="Mistnme", realm="pagle", rating=1807, won=35, lost=30, faction="HORDE", dr=0, dk=0 },
-		{ rank=2699, name="Mysthiccmunq", realm="pagle", rating=1807, won=123, lost=147, faction="ALLIANCE", dr=0, dk=0 },
-		{ rank=2699, name="Størmie", realm="raden", rating=1807, won=96, lost=90, faction="ALLIANCE", dr=0, dk=0 },
+		{ rank=2692, name="Blazingchi", realm="arugal-au", rating=1808, won=36, lost=28, faction="HORDE", dr=0, dk=-1 },
+		{ rank=2692, name="Cheesepizza", realm="raden", rating=1808, won=40, lost=38, faction="ALLIANCE", dr=0, dk=-1 },
+		{ rank=2692, name="Dccb", realm="nazgrim", rating=1808, won=31, lost=24, faction="HORDE", dr=0, dk=-1 },
+		{ rank=2692, name="Glizzyjizzy", realm="nazgrim", rating=1808, won=31, lost=29, faction="HORDE", dr=0, dk=-1 },
+		{ rank=2692, name="Sovice", realm="raden", rating=1808, won=31, lost=25, faction="ALLIANCE", dr=0, dk=-1 },
+		{ rank=2692, name="Zerkingoff", realm="raden", rating=1808, won=47, lost=37, faction="ALLIANCE", dr=0, dk=-1 },
+		{ rank=2698, name="Ayeflux", realm="raden", rating=1807, won=52, lost=64, faction="ALLIANCE", mr=1832, dr=0, dk=-1 },
+		{ rank=2698, name="Bubbleßöò", realm="pagle", rating=1807, won=37, lost=35, faction="ALLIANCE", dr=0, dk=-1 },
+		{ rank=2698, name="Buffdeets", realm="pagle", rating=1807, won=49, lost=50, faction="ALLIANCE", dr=0, dk=-1 },
+		{ rank=2698, name="Cazabrujas", realm="raden", rating=1807, won=97, lost=110, faction="ALLIANCE", dr=0, dk=-1 },
+		{ rank=2698, name="Garnarin", realm="galakras", rating=1807, won=141, lost=256, faction="HORDE", mr=1968, dr=0, dk=-1 },
+		{ rank=2698, name="Lëgendz", realm="pagle", rating=1807, won=31, lost=21, faction="ALLIANCE", dr=0, dk=-1 },
+		{ rank=2698, name="Lightglare", realm="pagle", rating=1807, won=62, lost=56, faction="ALLIANCE", dr=0, dk=-1 },
+		{ rank=2698, name="Matahordax", realm="pagle", rating=1807, won=66, lost=73, faction="HORDE", mr=1819, dr=0, dk=-1 },
+		{ rank=2698, name="Mistnme", realm="pagle", rating=1807, won=35, lost=30, faction="HORDE", dr=0, dk=-1 },
+		{ rank=2698, name="Mysthiccmunq", realm="pagle", rating=1807, won=123, lost=147, faction="ALLIANCE", dr=0, dk=-1 },
+		{ rank=2698, name="Størmie", realm="raden", rating=1807, won=96, lost=90, faction="ALLIANCE", dr=0, dk=-1 },
+		{ rank=2698, name="Undeadgød", realm="immerseus", rating=1807, won=1358, lost=2260, faction="HORDE", mr=1973, dr=-42, dk=289 },
 		{ rank=2710, name="Carbontaxes", realm="pagle", rating=1806, won=92, lost=77, faction="ALLIANCE", dr=0, dk=0 },
 		{ rank=2710, name="Deloriss", realm="pagle", rating=1806, won=65, lost=90, faction="HORDE", mr=1825, dr=0, dk=0 },
 		{ rank=2710, name="Glasstoker", realm="pagle", rating=1806, won=74, lost=66, faction="ALLIANCE", dr=0, dk=0 },

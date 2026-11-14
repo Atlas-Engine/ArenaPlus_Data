@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9609 characters, read 2026-11-14 11:59 AM.
+-- Region tbc-eu, 9607 characters, read 2026-11-14 12:49 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3126,7 +3126,6 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["grimmorc-spineshatter"]=21,
 	["grimmwut-spineshatter"]=10,
 	["grimpanzer-spineshatter"]=60,
-	["grimroll-thunderstrike"]=20,
 	["grimsheepér-spineshatter"]=50,
 	["grimzugg-spineshatter"]=20,
 	["gripen-spineshatter"]=21,
@@ -8908,7 +8907,6 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["wagyumommy-spineshatter"]=51,
 	["wagyuyu-spineshatter"]=61,
 	["wahchii-thunderstrike"]=80,
-	["wahum-spineshatter"]=50,
 	["wairen-spineshatter"]=21,
 	["waitpowerman-spineshatter"]=60,
 	["waizi-spineshatter"]=31,
@@ -12651,7 +12649,6 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["grimmorc-spineshatter"]=15,
 	["grimmwut-spineshatter"]=14,
 	["grimpanzer-spineshatter"]=6,
-	["grimroll-thunderstrike"]=5,
 	["grimsheepér-spineshatter"]=4,
 	["grimzugg-spineshatter"]=12,
 	["gripen-spineshatter"]=13,
@@ -14066,7 +14063,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["lebabs-spineshatter"]=23,
 	["leberkás-spineshatter"]=14,
 	["lebof-spineshatter"]=0,
-	["lebofeton-spineshatter"]=7,
+	["lebofeton-spineshatter"]=26,
 	["lebofetón-spineshatter"]=7,
 	["lebronjamesx-thunderstrike"]=9,
 	["lebsterr-spineshatter"]=1,
@@ -15340,7 +15337,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["nocihp-spineshatter"]=13,
 	["noctaly-spineshatter"]=10,
 	["noctalz-spineshatter"]=11,
-	["nocthornal-spineshatter"]=1,
+	["nocthornal-spineshatter"]=6,
 	["noemah-spineshatter"]=14,
 	["noemi-spineshatter"]=11,
 	["noemiownzyou-spineshatter"]=5,
@@ -17778,7 +17775,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["tegalus-spineshatter"]=2,
 	["tegaluz-spineshatter"]=2,
 	["tegasdaddy-spineshatter"]=4,
-	["tegi-thunderstrike"]=10,
+	["tegi-thunderstrike"]=26,
 	["tehund-spineshatter"]=1,
 	["tekakwitha-thunderstrike"]=1,
 	["tekkenx-spineshatter"]=4,
@@ -18510,7 +18507,6 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["wagyumommy-spineshatter"]=4,
 	["wagyuyu-spineshatter"]=1,
 	["wahchii-thunderstrike"]=8,
-	["wahum-spineshatter"]=8,
 	["waikru-spineshatter"]=0,
 	["wairen-spineshatter"]=11,
 	["waitpowerman-spineshatter"]=5,
