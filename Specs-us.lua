@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5213 characters, read 2026-11-14 04:59 AM.
+-- Region us, 5213 characters, read 2026-11-14 05:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3311,7 +3311,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["paegar-raden"]=10,
 	["paeszera-nazgrim"]=21,
 	["pagbstabbin-galakras"]=81,
-	["pagledznuts-pagle"]=11,
 	["pahlava-immerseus"]=251,
 	["painbarrier-lei-shen"]=11,
 	["paladiums-pagle"]=10,
@@ -5071,7 +5070,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["Æggrophobia-pagle"]=13,
 	["aeliline-pagle"]=0,
 	["aellane-pagle"]=6,
-	["aem-pagle"]=9,
+	["aem-pagle"]=21,
 	["Ærîthøs-pagle"]=16,
 	["aeroes-pagle"]=3,
 	["Ærtheater-immerseus"]=11,
@@ -8428,7 +8427,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["paegar-raden"]=16,
 	["paeszera-nazgrim"]=7,
 	["pagbstabbin-galakras"]=34,
-	["pagledznuts-pagle"]=28,
 	["pahlava-immerseus"]=21,
 	["painbarrier-lei-shen"]=13,
 	["painnkillerr-galakras"]=0,
@@ -8529,6 +8527,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["plaguesqt-raden"]=28,
 	["plañetfonexi-pagle"]=13,
 	["playerdktkdl-pagle"]=7,
+	["playerwndsnv-pagle"]=0,
 	["playziyam-raden"]=1,
 	["plinkoitup-galakras"]=4,
 	["pllsx-raden"]=10,

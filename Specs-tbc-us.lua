@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9331 characters, read 2026-11-14 04:58 AM.
+-- Region tbc-us, 9331 characters, read 2026-11-14 05:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10021,7 +10021,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bineyjr-nightslayer"]=9,
 	["bingbingling-nightslayer"]=7,
 	["bingjuu-nightslayer"]=1,
-	["bìngsu-nightslayer"]=13,
+	["bìngsu-nightslayer"]=16,
 	["binjo-nightslayer"]=24,
 	["binkston-nightslayer"]=14,
 	["binzness-dreamscythe"]=6,
@@ -15678,7 +15678,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["qwertyd-nightslayer"]=7,
 	["qwertywar-nightslayer"]=2,
 	["qwestrø-nightslayer"]=4,
-	["qwuak-nightslayer"]=15,
+	["qwuak-nightslayer"]=21,
 	["qwwd-nightslayer"]=2,
 	["qziz-nightslayer"]=1,
 	["raasclaa-nightslayer"]=12,
@@ -18528,7 +18528,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["znug-nightslayer"]=19,
 	["zocho-nightslayer"]=18,
 	["zofì-nightslayer"]=7,
-	["zoghunter-nightslayer"]=6,
+	["zoghunter-nightslayer"]=4,
 	["zoinksx-nightslayer"]=9,
 	["zoltun-nightslayer"]=1,
 	["zombireckful-nightslayer"]=5,
@@ -18574,7 +18574,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["zurgzz-nightslayer"]=18,
 	["zurnr-dreamscythe"]=5,
 	["zurtflay-nightslayer"]=1,
-	["zusul-nightslayer"]=10,
+	["zusul-nightslayer"]=24,
 	["zuut-nightslayer"]=10,
 	["zvn-dreamscythe"]=5,
 	["zvnr-dreamscythe"]=5,
