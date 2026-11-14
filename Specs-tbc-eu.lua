@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9608 characters, read 2026-11-14 08:59 AM.
+-- Region tbc-eu, 9609 characters, read 2026-11-14 09:54 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3126,6 +3126,7 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["grimmorc-spineshatter"]=21,
 	["grimmwut-spineshatter"]=10,
 	["grimpanzer-spineshatter"]=60,
+	["grimroll-thunderstrike"]=20,
 	["grimsheepér-spineshatter"]=50,
 	["grimzugg-spineshatter"]=20,
 	["gripen-spineshatter"]=21,
@@ -11345,7 +11346,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["despoo-spineshatter"]=2,
 	["dessenaria-spineshatter"]=18,
 	["dessverre-spineshatter"]=13,
-	["déstrah-spineshatter"]=13,
+	["déstrah-spineshatter"]=18,
 	["destruxd-spineshatter"]=2,
 	["detoxox-spineshatter"]=3,
 	["deuscrusader-spineshatter"]=7,
@@ -12210,7 +12211,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["finalmakerr-spineshatter"]=3,
 	["finalview-spineshatter"]=9,
 	["finchalina-spineshatter"]=2,
-	["finerqt-spineshatter"]=9,
+	["finerqt-spineshatter"]=4,
 	["finerx-spineshatter"]=23,
 	["fingerirøv-spineshatter"]=4,
 	["finndfury-spineshatter"]=11,
@@ -12650,6 +12651,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["grimmorc-spineshatter"]=15,
 	["grimmwut-spineshatter"]=14,
 	["grimpanzer-spineshatter"]=6,
+	["grimroll-thunderstrike"]=5,
 	["grimsheepér-spineshatter"]=4,
 	["grimzugg-spineshatter"]=12,
 	["gripen-spineshatter"]=13,

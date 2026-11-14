@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5368 characters, read 2026-11-14 09:00 AM.
+-- Region eu, 5369 characters, read 2026-11-14 10:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -698,6 +698,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["cbsboss-norushen"]=80,
 	["ccreticsback-mirage-raceway"]=10,
 	["cdewig-shekzeer"]=31,
+	["ceendare-auberdine"]=100,
 	["Çeiçei-auberdine"]=110,
 	["Çeims-auberdine"]=41,
 	["cejar-everlook"]=10,
@@ -5833,6 +5834,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["cbsboss-norushen"]=4,
 	["ccreticsback-mirage-raceway"]=1,
 	["cdewig-shekzeer"]=16,
+	["ceendare-auberdine"]=31,
 	["Çeiçei-auberdine"]=16,
 	["Çeims-auberdine"]=11,
 	["cejar-everlook"]=6,
@@ -9458,7 +9460,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["tren-shekzeer"]=9,
 	["trend-shekzeer"]=7,
 	["trendsetter-shekzeer"]=1,
-	["trera-norushen"]=7,
+	["trera-norushen"]=6,
 	["tresiba-garalon"]=2,
 	["trettonrätt-shekzeer"]=9,
 	["trgtacquired-mirage-raceway"]=16,
@@ -9519,7 +9521,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["twentyøne-shekzeer"]=15,
 	["twentythirty-shekzeer"]=4,
 	["twistêr-shekzeer"]=26,
-	["twodeeps-shekzeer"]=2,
+	["twodeeps-shekzeer"]=10,
 	["twovtwoonly-shekzeer"]=6,
 	["tyââ-shekzeer"]=16,
 	["tygerx-everlook"]=21,
