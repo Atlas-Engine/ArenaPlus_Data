@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9331 characters, read 2026-11-13 05:58 PM.
+-- Region tbc-us, 9331 characters, read 2026-11-13 06:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -13457,7 +13457,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["kaobeecee-nightslayer"]=10,
 	["kapítál-nightslayer"]=5,
 	["kapowz-nightslayer"]=2,
-	["kappakingp-nightslayer"]=5,
+	["kappakingp-nightslayer"]=8,
 	["kappalan-dreamscythe"]=2,
 	["kappo-nightslayer"]=1,
 	["karä-dreamscythe"]=13,
@@ -14480,7 +14480,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["misswexler-nightslayer"]=4,
 	["missypriest-nightslayer"]=1,
 	["mistapell-dreamscythe"]=1,
-	["miszrd-nightslayer"]=22,
+	["miszrd-nightslayer"]=7,
 	["mitchellpaul-dreamscythe"]=1,
 	["mithral-nightslayer"]=8,
 	["mithridate-nightslayer"]=17,
@@ -16683,7 +16683,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["slutorious-dreamscythe"]=16,
 	["slw-nightslayer"]=5,
 	["slybow-nightslayer"]=15,
-	["slyptuah-nightslayer"]=8,
+	["slyptuah-nightslayer"]=5,
 	["slythr-nightslayer"]=5,
 	["slyz-nightslayer"]=1,
 	["slyzx-nightslayer"]=7,
@@ -16870,7 +16870,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["sporadically-nightslayer"]=11,
 	["sporke-nightslayer"]=5,
 	["spottem-dreamscythe"]=1,
-	["spragaa-nightslayer"]=23,
+	["spragaa-nightslayer"]=16,
 	["sprankled-nightslayer"]=2,
 	["spreadembois-dreamscythe"]=10,
 	["spreez-nightslayer"]=1,

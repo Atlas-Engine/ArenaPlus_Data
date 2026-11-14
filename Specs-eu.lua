@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5366 characters, read 2026-11-13 06:00 PM.
+-- Region eu, 5368 characters, read 2026-11-13 07:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1627,6 +1627,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["hawken-shekzeer"]=10,
 	["hayatø-everlook"]=11,
 	["hayiuna-everlook"]=111,
+	["hayvanqt-shekzeer"]=11,
 	["haywoods-shekzeer"]=10,
 	["hazewrld-shekzeer"]=11,
 	["hc-shekzeer"]=11,
@@ -2087,6 +2088,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["keydan-ook-ook"]=41,
 	["kéydan-ook-ook"]=10,
 	["keydanus-ook-ook"]=10,
+	["keyoo-shekzeer"]=41,
 	["keytar-shekzeer"]=40,
 	["khaddafear-shekzeer"]=10,
 	["khaliope-everlook"]=51,
@@ -6230,7 +6232,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["dominant-garalon"]=28,
 	["dominant-shekzeer"]=2,
 	["dominoo-shekzeer"]=21,
-	["domnox-auberdine"]=14,
+	["domnox-auberdine"]=20,
 	["dondrippiano-shekzeer"]=6,
 	["donjacky-shekzeer"]=6,
 	["donpromillo-shekzeer"]=17,
@@ -6809,6 +6811,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["hawktuahgirl-shekzeer"]=0,
 	["hayatø-everlook"]=8,
 	["hayiuna-everlook"]=19,
+	["hayvanqt-shekzeer"]=1,
 	["haywoods-shekzeer"]=4,
 	["hazewrld-shekzeer"]=10,
 	["hc-shekzeer"]=1,
@@ -7292,6 +7295,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["keydan-ook-ook"]=9,
 	["kéydan-ook-ook"]=7,
 	["keydanus-ook-ook"]=2,
+	["keyoo-shekzeer"]=3,
 	["keytar-shekzeer"]=11,
 	["khaddafear-shekzeer"]=23,
 	["khaliope-everlook"]=9,
@@ -9983,7 +9987,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["yxan-norushen"]=25,
 	["yzagûy-auberdine"]=15,
 	["zabava-shekzeer"]=0,
-	["zabir-everlook"]=20,
+	["zabir-everlook"]=4,
 	["zabrinkov-shekzeer"]=4,
 	["zaelita-shekzeer"]=3,
 	["zaelitwo-shekzeer"]=11,
