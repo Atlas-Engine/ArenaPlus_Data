@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9607 characters, read 2026-11-14 02:59 PM.
+-- Region tbc-eu, 9609 characters, read 2026-11-14 03:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2292,6 +2292,7 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["eïn-spineshatter"]=21,
 	["eisenkruste-spineshatter"]=20,
 	["ej-spineshatter"]=50,
+	["ejevichka-spineshatter"]=71,
 	["ejj-spineshatter"]=71,
 	["ejpe-spineshatter"]=101,
 	["eju-thunderstrike"]=81,
@@ -5552,7 +5553,6 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["nást-thunderstrike"]=101,
 	["nasteale-spineshatter"]=50,
 	["nastrid-spineshatter"]=11,
-	["nastycarrote-spineshatter"]=51,
 	["nataliemars-spineshatter"]=21,
 	["nate-spineshatter"]=11,
 	["nathux-spineshatter"]=50,
@@ -5662,6 +5662,7 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["nerval-spineshatter"]=10,
 	["nervéxshotx-spineshatter"]=21,
 	["nervyo-spineshatter"]=61,
+	["neryk-thunderstrike"]=10,
 	["nerzog-spineshatter"]=20,
 	["nesayalôl-spineshatter"]=31,
 	["neshgi-thunderstrike"]=81,
@@ -5940,6 +5941,7 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["oldp-spineshatter"]=50,
 	["oldtobye-spineshatter"]=20,
 	["oldzorc-spineshatter"]=21,
+	["olity-spineshatter"]=30,
 	["ollifans-thunderstrike"]=30,
 	["ollise-spineshatter"]=111,
 	["ollye-spineshatter"]=50,
@@ -11113,7 +11115,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["cy-spineshatter"]=6,
 	["cý-spineshatter"]=6,
 	["cyää-thunderstrike"]=3,
-	["cyanerdx-spineshatter"]=1,
+	["cyanerdx-spineshatter"]=20,
 	["cyanidx-spineshatter"]=13,
 	["cybaform-spineshatter"]=6,
 	["cybatron-spineshatter"]=25,
@@ -11801,6 +11803,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["eïn-spineshatter"]=15,
 	["eisenkruste-spineshatter"]=11,
 	["ej-spineshatter"]=4,
+	["ejevichka-spineshatter"]=13,
 	["ejj-spineshatter"]=13,
 	["ejpe-spineshatter"]=7,
 	["eju-thunderstrike"]=4,
@@ -15107,7 +15110,6 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["nást-thunderstrike"]=10,
 	["nasteale-spineshatter"]=3,
 	["nastrid-spineshatter"]=13,
-	["nastycarrote-spineshatter"]=3,
 	["nataliemars-spineshatter"]=5,
 	["nate-spineshatter"]=13,
 	["nathux-spineshatter"]=3,
@@ -15220,6 +15222,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["nerval-spineshatter"]=19,
 	["nervéxshotx-spineshatter"]=25,
 	["nervyo-spineshatter"]=1,
+	["neryk-thunderstrike"]=15,
 	["nerzog-spineshatter"]=19,
 	["nesayalôl-spineshatter"]=2,
 	["neshgi-thunderstrike"]=17,
@@ -15503,6 +15506,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["oldp-spineshatter"]=9,
 	["oldtobye-spineshatter"]=5,
 	["oldzorc-spineshatter"]=11,
+	["olity-spineshatter"]=2,
 	["ollifans-thunderstrike"]=5,
 	["ollise-spineshatter"]=23,
 	["ollye-spineshatter"]=13,
