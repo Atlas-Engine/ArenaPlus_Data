@@ -18,7 +18,7 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region tbc-eu, season 3, read 2026-11-14 04:59 PM.
+-- Region tbc-eu, season 3, read 2026-11-14 05:59 PM.
 -- Realm display names, because the ladder only carries slugs and no rule
 -- turns one back into the other: raden is Ra-den, lei-shen is Lei Shen and
 -- arugal-au is Arugal (AU). Read from Blizzard's realm index; a slug with no
@@ -32,8 +32,8 @@ ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["tbc-eu"] = {
 	region  = "tbc-eu",
-	checked = "2026-11-14 04:59 PM",
-	checkedEpoch = 1794693540,
+	checked = "2026-11-14 05:59 PM",
+	checkedEpoch = 1794697140,
 	snapshot = "2026-11-14 20:14",
 
 	[1] = {  -- 2v2, 5017 places, down to rating 1474 -- the API stops here, short of the cutoff
@@ -368,32 +368,32 @@ ns.LEADERBOARD_BY_REGION["tbc-eu"] = {
 		{ rank=328, name="Bansuri", realm="spineshatter", rating=2365, won=207, lost=182, faction="HORDE", mr=2378, dr=0, dk=0 },
 		{ rank=328, name="Wando", realm="spineshatter", rating=2365, won=95, lost=77, faction="ALLIANCE", dr=0, dk=0 },
 		{ rank=331, name="Matum", realm="spineshatter", rating=2364, won=91, lost=54, faction="HORDE", dr=0, dk=0 },
-		{ rank=332, name="Lexingtón", realm="spineshatter", rating=2362, won=272, lost=204, faction="ALLIANCE", dr=0, dk=0 },
-		{ rank=332, name="Nupnupzer", realm="spineshatter", rating=2362, won=60, lost=39, faction="ALLIANCE", dr=0, dk=0 },
-		{ rank=334, name="Boxxiye", realm="spineshatter", rating=2360, won=1479, lost=1338, faction="ALLIANCE", dr=0, dk=0 },
-		{ rank=334, name="Elmatadör", realm="spineshatter", rating=2360, won=151, lost=137, faction="ALLIANCE", dr=0, dk=0 },
-		{ rank=334, name="Soulfacter", realm="spineshatter", rating=2360, won=79, lost=46, faction="HORDE", dr=0, dk=0 },
-		{ rank=337, name="Màlte", realm="spineshatter", rating=2359, won=192, lost=112, faction="ALLIANCE", mr=2368, dr=0, dk=0 },
-		{ rank=338, name="Carapìls", realm="spineshatter", rating=2358, won=89, lost=58, faction="ALLIANCE", mr=2366, dr=0, dk=0 },
-		{ rank=338, name="Jiaoshanbs", realm="spineshatter", rating=2358, won=644, lost=635, faction="ALLIANCE", dr=0, dk=0 },
-		{ rank=338, name="Kissbear", realm="spineshatter", rating=2358, won=644, lost=635, faction="ALLIANCE", dr=0, dk=0 },
-		{ rank=338, name="Qwèh", realm="spineshatter", rating=2358, won=353, lost=230, faction="ALLIANCE", dr=0, dk=0 },
-		{ rank=342, name="Tiffins", realm="spineshatter", rating=2357, won=318, lost=284, faction="ALLIANCE", dr=0, dk=0 },
-		{ rank=343, name="Randleman", realm="spineshatter", rating=2356, won=65, lost=25, faction="HORDE", dr=0, dk=0 },
-		{ rank=344, name="Fedow", realm="spineshatter", rating=2355, won=234, lost=160, faction="ALLIANCE", mr=2385, dr=0, dk=0 },
-		{ rank=345, name="Slèepy", realm="spineshatter", rating=2354, won=99, lost=68, faction="HORDE", dr=0, dk=0 },
-		{ rank=346, name="Jinzpri", realm="spineshatter", rating=2351, won=111, lost=64, faction="ALLIANCE", mr=2428, dr=0, dk=0 },
-		{ rank=346, name="Kajex", realm="spineshatter", rating=2351, won=180, lost=155, faction="HORDE", mr=2400, dr=0, dk=0 },
-		{ rank=348, name="Proeliatorxx", realm="spineshatter", rating=2350, won=152, lost=123, faction="HORDE", dr=0, dk=0 },
-		{ rank=348, name="Zdxd", realm="spineshatter", rating=2350, won=139, lost=94, faction="HORDE", dr=0, dk=0 },
-		{ rank=350, name="Blazinx", realm="spineshatter", rating=2348, won=178, lost=142, faction="HORDE", mr=2359, dr=0, dk=0 },
-		{ rank=351, name="Brufi", realm="spineshatter", rating=2347, won=211, lost=112, faction="ALLIANCE", mr=2421, dr=0, dk=0 },
-		{ rank=352, name="Albedowaifu", realm="spineshatter", rating=2346, won=107, lost=56, faction="ALLIANCE", dr=0, dk=0 },
-		{ rank=352, name="Íspøvéð", realm="spineshatter", rating=2346, won=284, lost=206, faction="ALLIANCE", mr=2483, dr=0, dk=0 },
-		{ rank=354, name="Elbardovich", realm="spineshatter", rating=2345, won=113, lost=64, faction="HORDE", dr=0, dk=0 },
-		{ rank=354, name="Ilovejade", realm="spineshatter", rating=2345, won=611, lost=532, faction="ALLIANCE", mr=2516, dr=3, dk=-3 },
-		{ rank=354, name="Invinciblexx", realm="spineshatter", rating=2345, won=452, lost=408, faction="ALLIANCE", mr=2516, dr=3, dk=-3 },
-		{ rank=354, name="Skylìmìtxd", realm="spineshatter", rating=2345, won=480, lost=387, faction="ALLIANCE", mr=2367, dr=0, dk=0 },
+		{ rank=332, name="Ilovejade", realm="spineshatter", rating=2363, won=616, lost=533, faction="ALLIANCE", mr=2516, dr=21, dk=-25 },
+		{ rank=332, name="Invinciblexx", realm="spineshatter", rating=2363, won=457, lost=409, faction="ALLIANCE", mr=2516, dr=21, dk=-25 },
+		{ rank=334, name="Lexingtón", realm="spineshatter", rating=2362, won=272, lost=204, faction="ALLIANCE", dr=0, dk=2 },
+		{ rank=334, name="Nupnupzer", realm="spineshatter", rating=2362, won=60, lost=39, faction="ALLIANCE", dr=0, dk=2 },
+		{ rank=336, name="Boxxiye", realm="spineshatter", rating=2360, won=1479, lost=1338, faction="ALLIANCE", dr=0, dk=2 },
+		{ rank=336, name="Elmatadör", realm="spineshatter", rating=2360, won=151, lost=137, faction="ALLIANCE", dr=0, dk=2 },
+		{ rank=336, name="Soulfacter", realm="spineshatter", rating=2360, won=79, lost=46, faction="HORDE", dr=0, dk=2 },
+		{ rank=339, name="Màlte", realm="spineshatter", rating=2359, won=192, lost=112, faction="ALLIANCE", mr=2368, dr=0, dk=2 },
+		{ rank=340, name="Carapìls", realm="spineshatter", rating=2358, won=89, lost=58, faction="ALLIANCE", mr=2366, dr=0, dk=2 },
+		{ rank=340, name="Jiaoshanbs", realm="spineshatter", rating=2358, won=644, lost=635, faction="ALLIANCE", dr=0, dk=2 },
+		{ rank=340, name="Kissbear", realm="spineshatter", rating=2358, won=644, lost=635, faction="ALLIANCE", dr=0, dk=2 },
+		{ rank=340, name="Qwèh", realm="spineshatter", rating=2358, won=353, lost=230, faction="ALLIANCE", dr=0, dk=2 },
+		{ rank=344, name="Tiffins", realm="spineshatter", rating=2357, won=318, lost=284, faction="ALLIANCE", dr=0, dk=2 },
+		{ rank=345, name="Randleman", realm="spineshatter", rating=2356, won=65, lost=25, faction="HORDE", dr=0, dk=2 },
+		{ rank=346, name="Fedow", realm="spineshatter", rating=2355, won=234, lost=160, faction="ALLIANCE", mr=2385, dr=0, dk=2 },
+		{ rank=347, name="Slèepy", realm="spineshatter", rating=2354, won=99, lost=68, faction="HORDE", dr=0, dk=2 },
+		{ rank=348, name="Jinzpri", realm="spineshatter", rating=2351, won=111, lost=64, faction="ALLIANCE", mr=2428, dr=0, dk=2 },
+		{ rank=348, name="Kajex", realm="spineshatter", rating=2351, won=180, lost=155, faction="HORDE", mr=2400, dr=0, dk=2 },
+		{ rank=350, name="Proeliatorxx", realm="spineshatter", rating=2350, won=152, lost=123, faction="HORDE", dr=0, dk=2 },
+		{ rank=350, name="Zdxd", realm="spineshatter", rating=2350, won=139, lost=94, faction="HORDE", dr=0, dk=2 },
+		{ rank=352, name="Blazinx", realm="spineshatter", rating=2348, won=178, lost=142, faction="HORDE", mr=2359, dr=0, dk=2 },
+		{ rank=353, name="Brufi", realm="spineshatter", rating=2347, won=211, lost=112, faction="ALLIANCE", mr=2421, dr=0, dk=2 },
+		{ rank=354, name="Albedowaifu", realm="spineshatter", rating=2346, won=107, lost=56, faction="ALLIANCE", dr=0, dk=2 },
+		{ rank=354, name="Íspøvéð", realm="spineshatter", rating=2346, won=284, lost=206, faction="ALLIANCE", mr=2483, dr=0, dk=2 },
+		{ rank=356, name="Elbardovich", realm="spineshatter", rating=2345, won=113, lost=64, faction="HORDE", dr=0, dk=2 },
+		{ rank=356, name="Skylìmìtxd", realm="spineshatter", rating=2345, won=480, lost=387, faction="ALLIANCE", mr=2367, dr=0, dk=2 },
 		{ rank=358, name="Ambroisie", realm="spineshatter", rating=2343, won=444, lost=400, faction="HORDE", dr=0, dk=2 },
 		{ rank=359, name="Manaintèrnx", realm="spineshatter", rating=2342, won=240, lost=194, faction="HORDE", mr=2381, dr=0, dk=2 },
 		{ rank=359, name="Nerly", realm="spineshatter", rating=2342, won=207, lost=173, faction="HORDE", mr=2353, dr=0, dk=2 },
