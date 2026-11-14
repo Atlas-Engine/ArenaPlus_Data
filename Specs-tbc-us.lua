@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9331 characters, read 2026-11-14 01:58 PM.
+-- Region tbc-us, 9331 characters, read 2026-11-14 02:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -14253,7 +14253,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["mattysmash-nightslayer"]=2,
 	["maulit-nightslayer"]=1,
 	["mavarok-nightslayer"]=4,
-	["maverikc-nightslayer"]=2,
+	["maverikc-nightslayer"]=18,
 	["mavriquio-nightslayer"]=2,
 	["maws-nightslayer"]=7,
 	["maxas-dreamscythe"]=2,
@@ -15336,7 +15336,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["phaya-dreamscythe"]=19,
 	["phde-nightslayer"]=13,
 	["phdphil-nightslayer"]=8,
-	["phebz-nightslayer"]=5,
+	["phebz-nightslayer"]=8,
 	["phemtoss-nightslayer"]=13,
 	["phenovoid-nightslayer"]=13,
 	["phentanyll-nightslayer"]=14,
@@ -15935,7 +15935,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["riffer-nightslayer"]=6,
 	["riggity-nightslayer"]=1,
 	["righteousx-nightslayer"]=16,
-	["righteousxd-nightslayer"]=1,
+	["righteousxd-nightslayer"]=12,
 	["rightknut-nightslayer"]=12,
 	["rigothamus-nightslayer"]=19,
 	["rikiki-dreamscythe"]=10,
@@ -16168,7 +16168,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["sapphrebleu-nightslayer"]=9,
 	["saptical-nightslayer"]=5,
 	["saradominin-nightslayer"]=22,
-	["saraebel-dreamscythe"]=1,
+	["saraebel-dreamscythe"]=14,
 	["saridan-dreamscythe"]=15,
 	["sashimì-nightslayer"]=6,
 	["sath-nightslayer"]=18,
