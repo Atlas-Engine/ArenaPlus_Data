@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9332 characters, read 2026-11-14 12:58 AM.
+-- Region tbc-us, 9331 characters, read 2026-11-14 01:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3247,7 +3247,6 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["grily-nightslayer"]=111,
 	["grîm-nightslayer"]=11,
 	["grimba-nightslayer"]=11,
-	["grimmajöw-nightslayer"]=41,
 	["grimmhorn-nightslayer"]=60,
 	["grimy-nightslayer"]=21,
 	["grinchy-nightslayer"]=41,
@@ -4342,6 +4341,7 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["kittycat-nightslayer"]=41,
 	["kittymilk-nightslayer"]=41,
 	["kïttymittens-dreamscythe"]=60,
+	["kiyt-dreamscythe"]=11,
 	["kjo-dreamscythe"]=60,
 	["kkojimo-nightslayer"]=41,
 	["klankw-dreamscythe"]=20,
@@ -6641,7 +6641,6 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["rippybobby-nightslayer"]=60,
 	["ripross-nightslayer"]=10,
 	["riptzilla-nightslayer"]=111,
-	["rirí-nightslayer"]=11,
 	["risingocean-nightslayer"]=20,
 	["riskmaster-nightslayer"]=10,
 	["riskybiznes-dreamscythe"]=10,
@@ -10057,7 +10056,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["blackchedda-nightslayer"]=16,
 	["blackcircle-nightslayer"]=4,
 	["blackcocoa-dreamscythe"]=11,
-	["blackcrows-nightslayer"]=12,
+	["blackcrows-nightslayer"]=1,
 	["blackdahila-nightslayer"]=2,
 	["blackmenace-nightslayer"]=5,
 	["blackrangea-nightslayer"]=15,
@@ -12503,7 +12502,6 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["grily-nightslayer"]=10,
 	["grîm-nightslayer"]=5,
 	["grimba-nightslayer"]=18,
-	["grimmajöw-nightslayer"]=7,
 	["grimmhorn-nightslayer"]=18,
 	["grimy-nightslayer"]=16,
 	["grinchy-nightslayer"]=7,
@@ -13614,6 +13612,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["kittycat-nightslayer"]=3,
 	["kittymilk-nightslayer"]=7,
 	["kïttymittens-dreamscythe"]=7,
+	["kiyt-dreamscythe"]=5,
 	["kjo-dreamscythe"]=19,
 	["kkojimo-nightslayer"]=7,
 	["klankw-dreamscythe"]=18,
@@ -15946,7 +15945,6 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["rippybobby-nightslayer"]=7,
 	["ripross-nightslayer"]=1,
 	["riptzilla-nightslayer"]=19,
-	["rirí-nightslayer"]=5,
 	["risingocean-nightslayer"]=10,
 	["riskmaster-nightslayer"]=8,
 	["riskybiznes-dreamscythe"]=13,

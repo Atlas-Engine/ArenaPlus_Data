@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9606 characters, read 2026-11-14 12:59 AM.
+-- Region tbc-eu, 9606 characters, read 2026-11-14 01:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12755,7 +12755,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["hansoons-spineshatter"]=8,
 	["hantzy-spineshatter"]=17,
 	["hanunik-spineshatter"]=5,
-	["hanzõ-spineshatter"]=3,
+	["hanzõ-spineshatter"]=27,
 	["happybeast-spineshatter"]=25,
 	["happykite-spineshatter"]=1,
 	["happytotems-spineshatter"]=0,
@@ -13367,7 +13367,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["jellyxøxø-spineshatter"]=10,
 	["jelzcrabexzq-spineshatter"]=23,
 	["jem-spineshatter"]=12,
-	["jemx-spineshatter"]=17,
+	["jemx-spineshatter"]=2,
 	["jemzy-spineshatter"]=19,
 	["jenii-spineshatter"]=19,
 	["jenmaclure-spineshatter"]=9,
@@ -17301,7 +17301,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["søumî-spineshatter"]=0,
 	["soundzk-thunderstrike"]=9,
 	["soxy-spineshatter"]=2,
-	["sozyy-spineshatter"]=3,
+	["sozyy-spineshatter"]=19,
 	["spacebutt-spineshatter"]=4,
 	["spacecreated-spineshatter"]=10,
 	["spaceflow-spineshatter"]=11,

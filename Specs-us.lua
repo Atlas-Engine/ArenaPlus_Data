@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5212 characters, read 2026-11-14 12:59 AM.
+-- Region us, 5213 characters, read 2026-11-14 01:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4917,6 +4917,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["yoiboosted-galakras"]=81,
 	["yokozuna-raden"]=11,
 	["youcooked-pagle"]=20,
+	["youcutebb-raden"]=11,
 	["youngvërcesx-raden"]=10,
 	["youngx-pagle"]=11,
 	["youppl-pagle"]=11,
@@ -10039,7 +10040,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["xanybar-raden"]=17,
 	["xaravi-raden"]=9,
 	["xarped-nazgrim"]=17,
-	["xatica-pagle"]=29,
+	["xatica-pagle"]=14,
 	["xatyka-pagle"]=1,
 	["xavilier-pagle"]=29,
 	["xb-galakras"]=4,
@@ -10125,6 +10126,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["yoiboosted-galakras"]=15,
 	["yokozuna-raden"]=16,
 	["youcooked-pagle"]=22,
+	["youcutebb-raden"]=1,
 	["youngvërcesx-raden"]=27,
 	["youngx-pagle"]=4,
 	["youppl-pagle"]=7,
