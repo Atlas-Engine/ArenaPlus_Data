@@ -5079,6 +5079,7 @@ ns.TITLES_BY_REGION["us"] = {
 	["strange-raden"] = "407,1174",
 	["stevebox-myzrael"] = "400,1161,1174,2090,2091,2092,2093,61359",
 	["benisäto-pagle"] = "404,1174",
+	["dracolnn-raden"] = "406,1174",
 	["strangebrews-raden"] = "407,1174",
 	["miwakasumi-pagle"] = "406,1174",
 	["huntermaina-galakras"] = "406,1174",
