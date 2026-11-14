@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9332 characters, read 2026-11-13 07:58 PM.
+-- Region tbc-us, 9332 characters, read 2026-11-13 08:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -13622,7 +13622,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["klindas-nightslayer"]=18,
 	["klio-nightslayer"]=1,
 	["kmikazee-nightslayer"]=19,
-	["kmuc-nightslayer"]=23,
+	["kmuc-nightslayer"]=16,
 	["kmw-nightslayer"]=2,
 	["kmya-nightslayer"]=3,
 	["kna-nightslayer"]=2,
@@ -14045,7 +14045,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["luciemvp-nightslayer"]=1,
 	["lucifeor-nightslayer"]=8,
 	["lucillexoxo-nightslayer"]=1,
-	["lucistwo-nightslayer"]=23,
+	["lucistwo-nightslayer"]=16,
 	["luciun-nightslayer"]=6,
 	["luckëy-nightslayer"]=2,
 	["luckkx-nightslayer"]=22,
@@ -14206,7 +14206,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["mantanshamy-nightslayer"]=19,
 	["manthony-dreamscythe"]=5,
 	["manuel-nightslayer"]=13,
-	["mânuel-nightslayer"]=13,
+	["mânuel-nightslayer"]=16,
 	["mapa-nightslayer"]=18,
 	["maradeth-nightslayer"]=11,
 	["marcohp-nightslayer"]=20,
