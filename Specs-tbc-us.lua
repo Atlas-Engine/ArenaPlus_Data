@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9332 characters, read 2026-11-13 09:58 PM.
+-- Region tbc-us, 9332 characters, read 2026-11-13 10:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11326,7 +11326,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["domenek-nightslayer"]=13,
 	["domice-nightslayer"]=4,
 	["domicetoo-nightslayer"]=6,
-	["domoz-nightslayer"]=18,
+	["domoz-nightslayer"]=20,
 	["donaldp-nightslayer"]=18,
 	["donavanmcnab-nightslayer"]=4,
 	["donbeck-nightslayer"]=4,
@@ -12761,7 +12761,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["hillstoo-nightslayer"]=10,
 	["himeko-nightslayer"]=1,
 	["himjamin-nightslayer"]=0,
-	["himo-nightslayer"]=4,
+	["himo-nightslayer"]=6,
 	["himora-nightslayer"]=5,
 	["himothyleary-nightslayer"]=1,
 	["hinaki-nightslayer"]=8,
@@ -15250,7 +15250,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["pawestruck-nightslayer"]=3,
 	["paxar-dreamscythe"]=10,
 	["paxgfw-nightslayer"]=2,
-	["paxii-nightslayer"]=7,
+	["paxii-nightslayer"]=3,
 	["paxqt-nightslayer"]=7,
 	["paxz-nightslayer"]=7,
 	["payglock-nightslayer"]=13,
@@ -18403,7 +18403,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["yueyx-nightslayer"]=2,
 	["yugedbunny-nightslayer"]=2,
 	["yugetotems-nightslayer"]=19,
-	["yuiihots-nightslayer"]=3,
+	["yuiihots-nightslayer"]=7,
 	["yukei-nightslayer"]=1,
 	["yulong-dreamscythe"]=8,
 	["yumbojumbo-nightslayer"]=1,
