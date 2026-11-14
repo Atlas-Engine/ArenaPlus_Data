@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9331 characters, read 2026-11-14 02:58 AM.
+-- Region tbc-us, 9331 characters, read 2026-11-14 03:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -14262,7 +14262,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["maximu-nightslayer"]=2,
 	["maximusx-nightslayer"]=2,
 	["maxozy-nightslayer"]=2,
-	["maxpowers-nightslayer"]=10,
+	["maxpowers-nightslayer"]=19,
 	["maxwang-nightslayer"]=8,
 	["mayanwarr-nightslayer"]=2,
 	["maybedyin-dreamscythe"]=12,
@@ -17476,7 +17476,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["tomtöm-nightslayer"]=15,
 	["tomtomz-nightslayer"]=2,
 	["tomtwocox-nightslayer"]=1,
-	["tomy-nightslayer"]=2,
+	["tomy-nightslayer"]=18,
 	["tondeuse-nightslayer"]=10,
 	["tongass-nightslayer"]=2,
 	["tõnk-nightslayer"]=18,
@@ -18550,7 +18550,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["zr-nightslayer"]=5,
 	["zraka-nightslayer"]=2,
 	["zshamy-nightslayer"]=24,
-	["zugaccino-nightslayer"]=2,
+	["zugaccino-nightslayer"]=18,
 	["zugdonor-nightslayer"]=10,
 	["zuggantugg-nightslayer"]=18,
 	["zuggintbc-nightslayer"]=5,
