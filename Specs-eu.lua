@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5373 characters, read 2026-11-15 01:00 PM.
+-- Region eu, 5373 characters, read 2026-11-15 02:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3272,7 +3272,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["rakû-auberdine"]=60,
 	["raman-garalon"]=60,
 	["ramsei-auberdine"]=10,
-	["randomboi-shekzeer"]=11,
 	["randomfury-mirage-raceway"]=20,
 	["rankonedemon-shekzeer"]=41,
 	["rankwar-mirage-raceway"]=20,
@@ -8560,7 +8559,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["rakû-auberdine"]=1,
 	["raman-garalon"]=13,
 	["ramsei-auberdine"]=25,
-	["randomboi-shekzeer"]=23,
+	["randomboi-shekzeer"]=0,
 	["randomfury-mirage-raceway"]=19,
 	["ranji-shekzeer"]=0,
 	["rankonedemon-shekzeer"]=9,
@@ -8624,7 +8623,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["renue-shekzeer"]=9,
 	["replicusele-garalon"]=16,
 	["replicusowl-garalon"]=11,
-	["repuls-mirage-raceway"]=1,
+	["repuls-mirage-raceway"]=25,
 	["requíém-shekzeer"]=1,
 	["resaladin-shekzeer"]=15,
 	["resen-shekzeer"]=24,
