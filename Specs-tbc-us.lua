@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9331 characters, read 2026-11-15 05:58 AM.
+-- Region tbc-us, 9331 characters, read 2026-11-15 06:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11549,7 +11549,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["durogonlol-nightslayer"]=15,
 	["dushpanda-nightslayer"]=10,
 	["duskybrah-dreamscythe"]=18,
-	["dustbanned-nightslayer"]=23,
+	["dustbanned-nightslayer"]=16,
 	["dustedx-nightslayer"]=5,
 	["dustfriggenw-nightslayer"]=13,
 	["dusti-nightslayer"]=25,
@@ -14044,7 +14044,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["luciemvp-nightslayer"]=1,
 	["lucifeor-nightslayer"]=8,
 	["lucillexoxo-nightslayer"]=1,
-	["lucistwo-nightslayer"]=23,
+	["lucistwo-nightslayer"]=16,
 	["luciun-nightslayer"]=6,
 	["luckëy-nightslayer"]=2,
 	["luckkx-nightslayer"]=22,
@@ -15177,7 +15177,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["padoö-nightslayer"]=24,
 	["pady-nightslayer"]=7,
 	["padyy-nightslayer"]=16,
-	["pae-nightslayer"]=2,
+	["pae-nightslayer"]=18,
 	["pagess-nightslayer"]=7,
 	["pahasapa-dreamscythe"]=7,
 	["pahlaundoh-nightslayer"]=11,
@@ -15350,7 +15350,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["photongeyser-dreamscythe"]=2,
 	["phreshasfuq-nightslayer"]=16,
 	["phrostatute-nightslayer"]=8,
-	["phtuart-nightslayer"]=1,
+	["phtuart-nightslayer"]=12,
 	["phunkmastax-nightslayer"]=5,
 	["phurken-dreamscythe"]=7,
 	["piakpiak-nightslayer"]=4,
@@ -17802,7 +17802,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["vectorsum-nightslayer"]=17,
 	["veddr-nightslayer"]=14,
 	["veedor-nightslayer"]=7,
-	["vêgàñghøül-nightslayer"]=1,
+	["vêgàñghøül-nightslayer"]=14,
 	["veganstomper-nightslayer"]=25,
 	["vegasdave-dreamscythe"]=18,
 	["veidaz-nightslayer"]=0,
