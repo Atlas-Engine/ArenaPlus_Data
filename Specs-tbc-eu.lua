@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9607 characters, read 2026-11-14 08:59 PM.
+-- Region tbc-eu, 9607 characters, read 2026-11-14 09:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -16814,7 +16814,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["setoo-spineshatter"]=11,
 	["settea-thunderstrike"]=10,
 	["setups-spineshatter"]=5,
-	["setupxd-spineshatter"]=2,
+	["setupxd-spineshatter"]=17,
 	["seventeen-spineshatter"]=9,
 	["severalx-spineshatter"]=2,
 	["sewerperson-spineshatter"]=3,
@@ -17731,7 +17731,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["taurenglory-spineshatter"]=5,
 	["taurenlugge-spineshatter"]=1,
 	["taurenmaleye-spineshatter"]=6,
-	["tavopapa-thunderstrike"]=3,
+	["tavopapa-thunderstrike"]=19,
 	["taylormadè-spineshatter"]=12,
 	["taylorswiftq-spineshatter"]=4,
 	["taylorxd-spineshatter"]=18,
@@ -19150,7 +19150,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["Пиноккио-anniversary"]=1,
 	["Сережкабулат-anniversary"]=1,
 	["Сквейл-anniversary"]=25,
-	["Сократ-anniversary"]=5,
+	["Сократ-anniversary"]=22,
 	["Тамплиер-anniversary"]=19,
 	["Фалстад-anniversary"]=25,
 	["Юсинк-anniversary"]=3,
