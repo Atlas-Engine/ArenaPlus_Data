@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5212 characters, read 2026-11-15 01:59 PM.
+-- Region us, 5213 characters, read 2026-11-15 02:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2188,6 +2188,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["iùkàðóñçíç-nazgrim"]=21,
 	["ivana-galakras"]=11,
 	["ivonte-pagle"]=11,
+	["ivoxygen-pagle"]=11,
 	["iwillmistu-pagle"]=11,
 	["jaayson-pagle"]=11,
 	["jablinksi-immerseus"]=261,
@@ -6325,7 +6326,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dumbcrumb-nazgrim"]=18,
 	["dumbpoptart-benediction"]=7,
 	["dumbwhre-raden"]=14,
-	["dumdum-nazgrim"]=20,
+	["dumdum-nazgrim"]=18,
 	["dunardel-raden"]=30,
 	["dunkindotnut-raden"]=0,
 	["dunkyb-raden"]=1,
@@ -7073,7 +7074,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["hperoxide-pagle"]=28,
 	["htw-pagle"]=1,
 	["huanuqueño-pagle"]=2,
-	["hueland-raden"]=1,
+	["hueland-raden"]=31,
 	["hugehammr-lei-shen"]=16,
 	["humanpvpisez-pagle"]=4,
 	["hummuss-raden"]=7,
@@ -7248,6 +7249,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["iùkàðóñçíç-nazgrim"]=22,
 	["ivana-galakras"]=7,
 	["ivonte-pagle"]=13,
+	["ivoxygen-pagle"]=25,
 	["iwillmistu-pagle"]=4,
 	["izimonnaie-pagle"]=0,
 	["jaayson-pagle"]=26,
@@ -9503,7 +9505,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["takyto-nazgrim"]=16,
 	["talksíck-pagle"]=1,
 	["tamerac-raden"]=24,
-	["tamerak-raden"]=28,
+	["tamerak-raden"]=24,
 	["tamhee-immerseus"]=4,
 	["tammyjane-pagle"]=16,
 	["tamnar-immerseus"]=20,
@@ -10143,7 +10145,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["yuthinasia-galakras"]=16,
 	["yuvish-lei-shen"]=26,
 	["yves-pagle"]=1,
-	["yvlxd-pagle"]=28,
+	["yvlxd-pagle"]=8,
 	["yxyxyxyxyxyx-pagle"]=16,
 	["yyz-raden"]=1,
 	["yzr-pagle"]=17,
