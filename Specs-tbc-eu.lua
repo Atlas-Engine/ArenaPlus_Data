@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9607 characters, read 2026-11-15 04:59 AM.
+-- Region tbc-eu, 9607 characters, read 2026-11-15 05:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -13037,7 +13037,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["icat-spineshatter"]=6,
 	["icba-spineshatter"]=2,
 	["iceboxx-thunderstrike"]=4,
-	["iceclimber-spineshatter"]=5,
+	["iceclimber-spineshatter"]=15,
 	["icehazex-spineshatter"]=9,
 	["icehell-spineshatter"]=9,
 	["iceicebabyy-spineshatter"]=4,
@@ -15128,7 +15128,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["naxmenthuz-spineshatter"]=5,
 	["naxyy-spineshatter"]=5,
 	["naydral-spineshatter"]=2,
-	["nayed-thunderstrike"]=3,
+	["nayed-thunderstrike"]=19,
 	["nayhz-spineshatter"]=9,
 	["nâyibbukele-spineshatter"]=1,
 	["nayruu-spineshatter"]=25,
@@ -17108,7 +17108,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["skruffy-thunderstrike"]=22,
 	["skrüven-spineshatter"]=3,
 	["skrüwen-spineshatter"]=3,
-	["skruwenp-spineshatter"]=2,
+	["skruwenp-spineshatter"]=17,
 	["skrylax-spineshatter"]=5,
 	["skufessa-spineshatter"]=2,
 	["skuggnäbben-spineshatter"]=3,
