@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9331 characters, read 2026-11-15 04:58 PM.
+-- Region tbc-us, 9331 characters, read 2026-11-15 05:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10071,7 +10071,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["blaquetrans-nightslayer"]=1,
 	["blargan-nightslayer"]=4,
 	["blargyn-nightslayer"]=4,
-	["blarne-dreamscythe"]=24,
+	["blarne-dreamscythe"]=19,
 	["blasterboy-nightslayer"]=15,
 	["blasthisass-nightslayer"]=4,
 	["blaxmagix-nightslayer"]=1,
@@ -11337,7 +11337,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["donkeyz-nightslayer"]=4,
 	["donnolan-nightslayer"]=1,
 	["donnybars-dreamscythe"]=2,
-	["donpablos-nightslayer"]=18,
+	["donpablos-nightslayer"]=2,
 	["donperry-nightslayer"]=4,
 	["donquixotez-nightslayer"]=14,
 	["donrotti-nightslayer"]=13,
@@ -15922,7 +15922,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["richardlolz-nightslayer"]=2,
 	["richardpig-nightslayer"]=10,
 	["richardrogue-dreamscythe"]=8,
-	["richcaine-nightslayer"]=4,
+	["richcaine-nightslayer"]=6,
 	["richiecaine-nightslayer"]=2,
 	["richiepz-nightslayer"]=1,
 	["richoffbtc-nightslayer"]=10,
@@ -17504,7 +17504,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["torotora-nightslayer"]=22,
 	["törperös-dreamscythe"]=18,
 	["torsito-nightslayer"]=12,
-	["törste-nightslayer"]=9,
+	["törste-nightslayer"]=11,
 	["tortapwndr-nightslayer"]=15,
 	["tortaslayr-nightslayer"]=2,
 	["tortasmashr-nightslayer"]=19,

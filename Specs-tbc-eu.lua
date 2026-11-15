@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9609 characters, read 2026-11-15 04:59 PM.
+-- Region tbc-eu, 9609 characters, read 2026-11-15 05:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9706,7 +9706,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["almosta-spineshatter"]=23,
 	["almosteq-spineshatter"]=20,
 	["almut-spineshatter"]=21,
-	["aloraz-spineshatter"]=7,
+	["aloraz-spineshatter"]=26,
 	["alovesupreme-spineshatter"]=0,
 	["alowine-spineshatter"]=9,
 	["alpacinó-spineshatter"]=0,
@@ -12763,7 +12763,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["happybeast-spineshatter"]=25,
 	["happykite-spineshatter"]=1,
 	["happytotems-spineshatter"]=0,
-	["hapu-spineshatter"]=2,
+	["hapu-spineshatter"]=17,
 	["häränsilmä-spineshatter"]=25,
 	["harawly-spineshatter"]=10,
 	["harawx-spineshatter"]=5,
@@ -13962,7 +13962,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["kuzushi-spineshatter"]=2,
 	["kvapik-spineshatter"]=1,
 	["kventiax-spineshatter"]=2,
-	["kvs-spineshatter"]=2,
+	["kvs-spineshatter"]=17,
 	["kwinn-spineshatter"]=5,
 	["kwonz-spineshatter"]=8,
 	["kxlol-spineshatter"]=13,
