@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5369 characters, read 2026-11-14 06:00 PM.
+-- Region eu, 5371 characters, read 2026-11-14 07:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2638,6 +2638,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["monkedruid-shekzeer"]=220,
 	["monkerino-garalon"]=11,
 	["monkeyah-shekzeer"]=10,
+	["monkfresher-hoptallus"]=10,
 	["monkhere-mirage-raceway"]=11,
 	["monkloide-shekzeer"]=11,
 	["monkp-norushen"]=20,
@@ -4642,7 +4643,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["zaelita-shekzeer"]=41,
 	["zaelitwo-shekzeer"]=41,
 	["zaelori-shekzeer"]=41,
-	["zâh-shekzeer"]=11,
 	["zahe-garalon"]=11,
 	["zahide-shekzeer"]=11,
 	["zaînà-auberdine"]=41,
@@ -6361,7 +6361,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Èlcapitan-mirage-raceway"]=24,
 	["eldorado-shekzeer"]=16,
 	["eleabuser-everlook"]=0,
-	["electricity-shekzeer"]=19,
+	["electricity-shekzeer"]=16,
 	["elemanth-shekzeer"]=16,
 	["elendîl-shekzeer"]=15,
 	["elesham-shekzeer"]=16,
@@ -6975,6 +6975,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["idcaboutyou-shekzeer"]=1,
 	["ideegass-norushen"]=34,
 	["idkmân-shekzeer"]=1,
+	["idontflinch-garalon"]=0,
 	["idrasael-shekzeer"]=1,
 	["idrian-auberdine"]=5,
 	["Îdro-auberdine"]=9,
@@ -7091,6 +7092,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["jaguarro-shekzeer"]=1,
 	["jaiky-mirage-raceway"]=4,
 	["jakam-shekzeer"]=21,
+	["jakamaestro-shekzeer"]=0,
 	["jakamoto-shekzeer"]=23,
 	["jakamotô-shekzeer"]=17,
 	["jakamstar-shekzeer"]=26,
@@ -7848,7 +7850,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["mitwiva-garalon"]=6,
 	["mivic-shekzeer"]=7,
 	["mix-shekzeer"]=3,
-	["mizthx-shekzeer"]=9,
+	["mizthx-shekzeer"]=12,
 	["mjx-shekzeer"]=12,
 	["mlejnek-mirage-raceway"]=0,
 	["mmarkan-shekzeer"]=0,
@@ -7882,6 +7884,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["monkerino-garalon"]=6,
 	["monkeyah-shekzeer"]=6,
 	["monkeys-shekzeer"]=0,
+	["monkfresher-hoptallus"]=6,
 	["monkhere-mirage-raceway"]=6,
 	["monkloide-shekzeer"]=6,
 	["monkp-norushen"]=7,
@@ -9448,7 +9451,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["trallia-shekzeer"]=5,
 	["trammad-shekzeer"]=6,
 	["tranethelast-shekzeer"]=14,
-	["trapjkitsme-shekzeer"]=20,
+	["trapjkitsme-shekzeer"]=14,
 	["trapshotx-shekzeer"]=4,
 	["tråpx-shekzeer"]=4,
 	["trashgamexd-shekzeer"]=1,
@@ -9994,7 +9997,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["zaelita-shekzeer"]=3,
 	["zaelitwo-shekzeer"]=11,
 	["zaelori-shekzeer"]=26,
-	["zâh-shekzeer"]=2,
 	["zahe-garalon"]=2,
 	["zahide-shekzeer"]=24,
 	["zaînà-auberdine"]=12,
