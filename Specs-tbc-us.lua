@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9331 characters, read 2026-11-15 02:58 AM.
+-- Region tbc-us, 9331 characters, read 2026-11-15 03:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9427,7 +9427,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["altur-nightslayer"]=2,
 	["aluciepriest-dreamscythe"]=1,
 	["alvanz-dreamscythe"]=8,
-	["alwaysgankin-nightslayer"]=5,
+	["alwaysgankin-nightslayer"]=8,
 	["alwaystotems-nightslayer"]=10,
 	["alwayzlust-nightslayer"]=10,
 	["alyisham-dreamscythe"]=24,
@@ -10621,7 +10621,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["chloekitty-nightslayer"]=7,
 	["choboski-nightslayer"]=10,
 	["chocolate-nightslayer"]=3,
-	["chocomilkkid-dreamscythe"]=10,
+	["chocomilkkid-dreamscythe"]=19,
 	["choconilla-nightslayer"]=19,
 	["chocooholic-nightslayer"]=15,
 	["chongerxd-nightslayer"]=5,
@@ -13997,7 +13997,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["longfive-nightslayer"]=1,
 	["longgege-nightslayer"]=10,
 	["longstalker-nightslayer"]=1,
-	["looks-nightslayer"]=5,
+	["looks-nightslayer"]=8,
 	["looksmaxxing-nightslayer"]=18,
 	["loonii-nightslayer"]=10,
 	["loopbloom-nightslayer"]=7,
@@ -14204,7 +14204,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["manouski-nightslayer"]=7,
 	["mantanshamy-nightslayer"]=19,
 	["manthony-dreamscythe"]=5,
-	["manuel-nightslayer"]=13,
+	["manuel-nightslayer"]=23,
 	["mânuel-nightslayer"]=16,
 	["mapa-nightslayer"]=18,
 	["maradeth-nightslayer"]=11,
