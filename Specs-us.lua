@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5203 characters, read 2026-11-15 10:59 PM.
+-- Region us, 5204 characters, read 2026-11-15 11:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4858,6 +4858,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["xtormk-pagle"]=10,
 	["xtratosphera-nazgrim"]=101,
 	["xttz-raden"]=41,
+	["xunamated-raden"]=20,
 	["xuper-pagle"]=11,
 	["xura-lei-shen"]=10,
 	["xuvia-pagle"]=11,
@@ -8532,7 +8533,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["pokemonk-galakras"]=10,
 	["polilla-pagle"]=28,
 	["poliwarx-pagle"]=6,
-	["polutropos-galakras"]=5,
+	["polutropos-galakras"]=17,
 	["pomserenity-raden"]=9,
 	["pongii-pagle"]=20,
 	["pookyzombean-nazgrim"]=6,
@@ -10056,6 +10057,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["xtormk-pagle"]=20,
 	["xtratosphera-nazgrim"]=28,
 	["xttz-raden"]=9,
+	["xunamated-raden"]=3,
 	["xunwinxo-raden"]=0,
 	["xuper-pagle"]=6,
 	["xura-lei-shen"]=3,
