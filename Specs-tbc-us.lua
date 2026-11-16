@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9332 characters, read 2026-11-16 02:58 PM.
+-- Region tbc-us, 9332 characters, read 2026-11-16 03:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10659,7 +10659,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["chudsando-nightslayer"]=6,
 	["chügz-nightslayer"]=10,
 	["chugzila-nightslayer"]=7,
-	["chules-dreamscythe"]=5,
+	["chules-dreamscythe"]=8,
 	["chumpjohn-nightslayer"]=7,
 	["chumpz-nightslayer"]=5,
 	["chunkgae-nightslayer"]=10,
@@ -14988,7 +14988,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["nycsharialaw-nightslayer"]=7,
 	["nydee-nightslayer"]=3,
 	["nydig-nightslayer"]=19,
-	["nyips-nightslayer"]=11,
+	["nyips-nightslayer"]=25,
 	["nyloboost-dreamscythe"]=18,
 	["nynnx-nightslayer"]=13,
 	["nyon-nightslayer"]=6,
@@ -16591,7 +16591,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["skampo-nightslayer"]=7,
 	["skampz-nightslayer"]=2,
 	["skeetermann-nightslayer"]=10,
-	["skeetpump-dreamscythe"]=2,
+	["skeetpump-dreamscythe"]=18,
 	["skeight-nightslayer"]=6,
 	["skeptxo-nightslayer"]=5,
 	["skg-nightslayer"]=7,

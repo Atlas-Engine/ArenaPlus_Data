@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9612 characters, read 2026-11-16 02:59 PM.
+-- Region tbc-eu, 9613 characters, read 2026-11-16 03:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6294,6 +6294,7 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["plazaboss-spineshatter"]=31,
 	["plekz-thunderstrike"]=10,
 	["plisskeroni-spineshatter"]=11,
+	["plmfgbt-spineshatter"]=50,
 	["plottwist-spineshatter"]=21,
 	["plsdontkite-spineshatter"]=111,
 	["plsineedthis-spineshatter"]=50,
@@ -9705,7 +9706,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["allyoubro-spineshatter"]=13,
 	["allypvpdead-spineshatter"]=15,
 	["almenka-spineshatter"]=10,
-	["almeri-spineshatter"]=8,
+	["almeri-spineshatter"]=2,
 	["almosta-spineshatter"]=23,
 	["almosteq-spineshatter"]=20,
 	["almut-spineshatter"]=21,
@@ -12009,7 +12010,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["europa-spineshatter"]=7,
 	["eurypides-spineshatter"]=23,
 	["evaberger-spineshatter"]=3,
-	["evai-spineshatter"]=8,
+	["evai-spineshatter"]=2,
 	["evellynee-thunderstrike"]=13,
 	["evellynne-thunderstrike"]=1,
 	["eveningstars-thunderstrike"]=14,
@@ -14341,7 +14342,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["lumapriest-thunderstrike"]=8,
 	["luminarra-spineshatter"]=2,
 	["lumskebuksen-thunderstrike"]=1,
-	["lunarion-spineshatter"]=15,
+	["lunarion-spineshatter"]=5,
 	["lunatik-spineshatter"]=3,
 	["lunchkox-spineshatter"]=12,
 	["lûndhis-spineshatter"]=17,
@@ -15866,6 +15867,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["plazaboss-spineshatter"]=2,
 	["plekz-thunderstrike"]=5,
 	["plisskeroni-spineshatter"]=3,
+	["plmfgbt-spineshatter"]=2,
 	["plottwist-spineshatter"]=12,
 	["plsdontkite-spineshatter"]=12,
 	["plsineedthis-spineshatter"]=3,
@@ -17390,7 +17392,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["srebroword-thunderstrike"]=2,
 	["srelane-thunderstrike"]=5,
 	["srenix-spineshatter"]=4,
-	["srox-spineshatter"]=5,
+	["srox-spineshatter"]=15,
 	["srpack-spineshatter"]=12,
 	["srpy-spineshatter"]=15,
 	["srsturbo-spineshatter"]=1,
