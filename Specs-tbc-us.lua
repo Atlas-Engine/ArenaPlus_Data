@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9332 characters, read 2026-11-16 04:58 AM.
+-- Region tbc-us, 9332 characters, read 2026-11-16 05:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9708,7 +9708,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["badzor-nightslayer"]=2,
 	["bäe-nightslayer"]=1,
 	["baekek-nightslayer"]=0,
-	["baekgitae-nightslayer"]=13,
+	["baekgitae-nightslayer"]=23,
 	["baekma-nightslayer"]=12,
 	["baerform-nightslayer"]=7,
 	["bàethoven-nightslayer"]=5,
@@ -11299,7 +11299,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["dmach-nightslayer"]=5,
 	["dmacx-nightslayer"]=13,
 	["dmacxl-nightslayer"]=13,
-	["dmags-nightslayer"]=5,
+	["dmags-nightslayer"]=8,
 	["dmar-nightslayer"]=2,
 	["dmforcøach-dreamscythe"]=1,
 	["dmgcontrol-dreamscythe"]=16,
@@ -14862,7 +14862,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ninjatoe-nightslayer"]=5,
 	["nips-nightslayer"]=1,
 	["nipz-nightslayer"]=0,
-	["nirawr-nightslayer"]=7,
+	["nirawr-nightslayer"]=3,
 	["nitazenes-nightslayer"]=1,
 	["niton-nightslayer"]=14,
 	["Ñíx-nightslayer"]=8,
@@ -15463,7 +15463,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["pomrad-nightslayer"]=6,
 	["pomslave-nightslayer"]=1,
 	["pomswideopen-nightslayer"]=8,
-	["ponderøsa-dreamscythe"]=7,
+	["ponderøsa-dreamscythe"]=3,
 	["ponens-nightslayer"]=6,
 	["pongkix-nightslayer"]=7,
 	["pongkixo-nightslayer"]=7,
