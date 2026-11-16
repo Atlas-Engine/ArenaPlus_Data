@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9332 characters, read 2026-11-16 08:58 AM.
+-- Region tbc-us, 9332 characters, read 2026-11-16 09:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -13836,7 +13836,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["legros-dreamscythe"]=17,
 	["leien-nightslayer"]=7,
 	["lekiz-dreamscythe"]=4,
-	["lelzi-nightslayer"]=1,
+	["lelzi-nightslayer"]=14,
 	["lemarky-nightslayer"]=1,
 	["lemonaid-nightslayer"]=22,
 	["lemoncherrý-nightslayer"]=5,
@@ -14838,7 +14838,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["nickybigdawg-nightslayer"]=6,
 	["nickys-nightslayer"]=19,
 	["nickyü-nightslayer"]=22,
-	["nidallee-dreamscythe"]=7,
+	["nidallee-dreamscythe"]=3,
 	["nierko-nightslayer"]=8,
 	["niero-dreamscythe"]=19,
 	["nifly-nightslayer"]=2,
@@ -15594,7 +15594,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["pumpermcgee-nightslayer"]=18,
 	["pumperpete-nightslayer"]=2,
 	["pumpfake-nightslayer"]=24,
-	["pumpocalypse-dreamscythe"]=2,
+	["pumpocalypse-dreamscythe"]=18,
 	["pumpz-nightslayer"]=2,
 	["pumpzzp-dreamscythe"]=25,
 	["pune-nightslayer"]=5,
