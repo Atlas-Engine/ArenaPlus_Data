@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9332 characters, read 2026-11-16 07:58 AM.
+-- Region tbc-us, 9332 characters, read 2026-11-16 08:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9506,7 +9506,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["aopal-nightslayer"]=11,
 	["aopriest-nightslayer"]=1,
 	["apetamer-nightslayer"]=24,
-	["apewizard-nightslayer"]=4,
+	["apewizard-nightslayer"]=6,
 	["apëx-nightslayer"]=0,
 	["apmooz-nightslayer"]=7,
 	["apmute-nightslayer"]=4,
@@ -9884,7 +9884,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["beetlehots-nightslayer"]=7,
 	["beetlesham-nightslayer"]=10,
 	["beetlewarr-nightslayer"]=2,
-	["behance-nightslayer"]=2,
+	["behance-nightslayer"]=18,
 	["behindbehind-nightslayer"]=2,
 	["bekol-dreamscythe"]=5,
 	["belgas-nightslayer"]=1,
@@ -9909,7 +9909,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["béon-nightslayer"]=17,
 	["berlinwings-nightslayer"]=11,
 	["berrio-nightslayer"]=6,
-	["berrybijou-nightslayer"]=13,
+	["berrybijou-nightslayer"]=16,
 	["berryss-nightslayer"]=1,
 	["berserkx-nightslayer"]=2,
 	["berzerkbolt-nightslayer"]=10,

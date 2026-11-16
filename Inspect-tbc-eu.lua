@@ -42,7 +42,7 @@ local ns = ArenaPlusData
 -- source_item, so gems are stored as real item ids the client can draw and only
 -- the enchant text has to ship.
 --
--- Region tbc-eu, 367 characters, 0 glyph names, read 2026-11-16 07:21 AM.
+-- Region tbc-eu, 367 characters, 0 glyph names, read 2026-11-16 08:20 AM.
 ns.GLYPH_NAMES = ns.GLYPH_NAMES or {}
 
 for id, name in pairs({
@@ -55,10 +55,8 @@ for id, name in pairs({
 ns.TALENT_NAMES = ns.TALENT_NAMES or {}
 
 for id, name in pairs({
-	[12292]="Death Wish",
 	[12296]="Anger Management",
 	[12312]="Improved Shield Wall",
-	[12328]="Sweeping Strikes",
 	[12664]="Improved Heroic Strike",
 	[12666]="Improved Thunder Clap",
 	[12727]="Shield Specialization",
@@ -68,30 +66,16 @@ for id, name in pairs({
 	[12809]="Concussion Blow",
 	[12811]="Improved Sunder Armor",
 	[12853]="Cruelty",
-	[12856]="Cruelty",
-	[12857]="Commanding Presence",
 	[12867]="Deep Wounds",
 	[12945]="Improved Shield Block",
-	[12962]="Iron Will",
-	[12963]="Improved Overpower",
-	[12974]="Flurry",
 	[12975]="Last Stand",
-	[13002]="Unbridled Wrath",
-	[13048]="Enrage",
-	[16465]="Deflection",
 	[16466]="Deflection",
 	[16494]="Impale",
 	[16542]="One-Handed Weapon Specialization",
 	[20243]="Devastate",
-	[20496]="Improved Cleave",
-	[20505]="Weapon Mastery",
-	[23588]="Dual Wield Specialization",
-	[23881]="Bloodthirst",
 	[23922]="Shield Slam",
 	[29146]="Vitality",
 	[29598]="Shield Mastery",
-	[29721]="Improved Whirlwind",
-	[29763]="Improved Berserker Stance",
 	[29792]="Focused Rage",
 }) do ns.TALENT_NAMES[id] = name end
 
@@ -101,10 +85,8 @@ for id, name in pairs({
 ns.TALENT_OF_SPELL = ns.TALENT_OF_SPELL or {}
 
 for spell, talent in pairs({
-	[12292]=133,
 	[12296]=137,
 	[12312]=150,
-	[12328]=165,
 	[12664]=124,
 	[12666]=128,
 	[12727]=1601,
@@ -114,30 +96,16 @@ for spell, talent in pairs({
 	[12809]=152,
 	[12811]=146,
 	[12853]=157,
-	[12856]=157,
-	[12857]=154,
 	[12867]=121,
 	[12945]=145,
-	[12962]=641,
-	[12963]=131,
-	[12974]=156,
 	[12975]=153,
-	[13002]=159,
-	[13048]=155,
-	[16465]=130,
 	[16466]=130,
 	[16494]=662,
 	[16542]=702,
 	[20243]=1666,
-	[20496]=166,
-	[20505]=1543,
-	[23588]=1581,
-	[23881]=167,
 	[23922]=148,
 	[29146]=1653,
 	[29598]=1654,
-	[29721]=1655,
-	[29763]=1658,
 	[29792]=1660,
 }) do ns.TALENT_OF_SPELL[spell] = talent end
 
@@ -148,8 +116,6 @@ for talent, rank in pairs({
 	[124]=3,
 	[128]=3,
 	[130]=5,
-	[131]=2,
-	[133]=1,
 	[137]=1,
 	[138]=5,
 	[140]=5,
@@ -160,24 +126,12 @@ for talent, rank in pairs({
 	[150]=1,
 	[152]=1,
 	[153]=1,
-	[154]=2,
-	[155]=5,
-	[156]=5,
-	[157]=5,
-	[159]=5,
-	[165]=1,
-	[166]=3,
-	[167]=1,
-	[641]=5,
+	[157]=3,
 	[662]=2,
 	[702]=5,
-	[1543]=2,
-	[1581]=5,
 	[1601]=5,
 	[1653]=5,
 	[1654]=1,
-	[1655]=1,
-	[1658]=5,
 	[1660]=3,
 	[1666]=1,
 }) do ns.TALENT_MAX_RANK[talent] = rank end
