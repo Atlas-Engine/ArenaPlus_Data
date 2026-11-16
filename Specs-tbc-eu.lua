@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9613 characters, read 2026-11-16 03:59 PM.
+-- Region tbc-eu, 9613 characters, read 2026-11-16 04:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6809,7 +6809,6 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["rewide-spineshatter"]=61,
 	["rewidé-spineshatter"]=51,
 	["rewíde-spineshatter"]=61,
-	["rewídé-spineshatter"]=40,
 	["rewìde-spineshatter"]=101,
 	["reykar-spineshatter"]=60,
 	["reyleen-spineshatter"]=41,
@@ -11326,7 +11325,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["demonsox-spineshatter"]=13,
 	["demote-thunderstrike"]=5,
 	["dendeka-spineshatter"]=12,
-	["dengii-spineshatter"]=2,
+	["dengii-spineshatter"]=17,
 	["denislenain-spineshatter"]=23,
 	["dennor-spineshatter"]=13,
 	["Ðennor-spineshatter"]=13,
@@ -16391,7 +16390,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["rewide-spineshatter"]=1,
 	["rewidé-spineshatter"]=3,
 	["rewíde-spineshatter"]=1,
-	["rewídé-spineshatter"]=20,
+	["rewídé-spineshatter"]=0,
 	["rewìde-spineshatter"]=7,
 	["reykar-spineshatter"]=6,
 	["reyleen-spineshatter"]=15,
