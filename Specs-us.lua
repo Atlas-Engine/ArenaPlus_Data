@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5203 characters, read 2026-11-15 05:59 PM.
+-- Region us, 5203 characters, read 2026-11-15 06:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5722,7 +5722,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["cathw-raden"]=7,
 	["catmasterx-raden"]=7,
 	["catpack-raden"]=12,
-	["cavalaum-galakras"]=19,
+	["cavalaum-galakras"]=15,
 	["cavallier-pagle"]=2,
 	["caylara-raden"]=20,
 	["cazabrujas-raden"]=20,
@@ -5752,7 +5752,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["chaossy-pagle"]=24,
 	["chaotichunts-galakras"]=0,
 	["chaoticrush-lei-shen"]=24,
-	["charleez-nazgrim"]=9,
+	["charleez-nazgrim"]=21,
 	["charruesal-raden"]=3,
 	["chathdria-nazgrim"]=9,
 	["chaturbater-pagle"]=14,
@@ -6671,7 +6671,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["fuzyywuzyy-nazgrim"]=13,
 	["fuzzywaifu-lei-shen"]=10,
 	["fxd-arugal-au"]=5,
-	["fyruss-pagle"]=20,
+	["fyruss-pagle"]=3,
 	["gaarah-pagle"]=1,
 	["gabimaru-raden"]=4,
 	["gaejustin-pagle"]=33,

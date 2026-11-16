@@ -20,41 +20,52 @@ local ns = ArenaPlusData
 ns.ACTIVITY_BY_REGION = ns.ACTIVITY_BY_REGION or {}
 
 ns.ACTIVITY_BY_REGION["tbc-us"] = {
-	built = 1794783514,
-	builtText = "2026-11-15 05:58 PM",
+	built = 1794787114,
+	builtText = "2026-11-15 06:58 PM",
 	windows = { 1, 3, 6, 12, 24 },
 	[1] = {  -- the last 1 hour(s)
+		[1] = {
+			["Lekiz|dreamscythe"] = { 11, 1, 30, 49 },
+		},
 	},
 	[3] = {  -- the last 3 hour(s)
+		[1] = {
+			["Lekiz|dreamscythe"] = { 11, 1, 30, 49 },
+		},
 	},
 	[6] = {  -- the last 6 hour(s)
+		[1] = {
+			["Lekiz|dreamscythe"] = { 11, 1, 30, 49 },
+		},
 	},
 	[12] = {  -- the last 12 hour(s)
+		[1] = {
+			["Lekiz|dreamscythe"] = { 11, 1, 30, 49 },
+		},
 	},
 	[24] = {  -- the last 24 hour(s)
 		[1] = {
-			["Gzlol|dreamscythe"] = { 19, 15, -16, 821 },
-			["Ryanin|dreamscythe"] = { 16, 7, 25, 929 },
-			["Shigekazu|nightslayer"] = { 13, 4, 44, 981 },
-			["Wílleh|nightslayer"] = { 13, 4, 44, 981 },
-			["Jodaldal|nightslayer"] = { 4, 10, -38, 961 },
-			["Sunnyslow|nightslayer"] = { 4, 10, -59, 997 },
-			["Morepower|nightslayer"] = { 6, 5, -31, 950 },
-			["Yodead|nightslayer"] = { 6, 5, -22, 945 },
-			["Amazý|nightslayer"] = { 8, 2, 39, 1001 },
-			["Gengiscon|nightslayer"] = { 6, 4, 2, 1361 },
-			["Pallypwr|dreamscythe"] = { 10, 0, 49, 1361 },
-			["Undrcvr|nightslayer"] = { 8, 2, 61, 1004 },
-			["Getpopped|dreamscythe"] = { 6, 0, 45, 1361 },
-			["Neytïrï|dreamscythe"] = { 2, 3, -20, 1110 },
-			["Xczv|dreamscythe"] = { 2, 3, -19, 1001 },
-			["Béon|nightslayer"] = { 3, 1, 0, 1104 },
-			["Negzor|nightslayer"] = { 4, 0, 23, 1109 },
-			["Tøppìñgÿøú|nightslayer"] = { 4, 0, 15, 1109 },
-			["Cogitatos|nightslayer"] = { 2, 0, 0, 821 },
-			["Reverencèx|nightslayer"] = { 2, 0, 0, 821 },
-			["Creationw|nightslayer"] = { 1, 0, 5, 1386 },
-			["Indoorcow|nightslayer"] = { 1, 0, 1, 1386 },
+			["Gzlol|dreamscythe"] = { 19, 15, -16, 881 },
+			["Ryanin|dreamscythe"] = { 16, 7, 25, 989 },
+			["Shigekazu|nightslayer"] = { 13, 4, 44, 1041 },
+			["Wílleh|nightslayer"] = { 13, 4, 44, 1041 },
+			["Jodaldal|nightslayer"] = { 4, 10, -38, 1021 },
+			["Sunnyslow|nightslayer"] = { 4, 10, -59, 1057 },
+			["Lekiz|dreamscythe"] = { 11, 1, 30, 49 },
+			["Morepower|nightslayer"] = { 6, 5, -31, 1010 },
+			["Yodead|nightslayer"] = { 6, 5, -22, 1005 },
+			["Amazý|nightslayer"] = { 8, 2, 39, 1061 },
+			["Gengiscon|nightslayer"] = { 6, 4, 2, 1421 },
+			["Pallypwr|dreamscythe"] = { 10, 0, 49, 1421 },
+			["Undrcvr|nightslayer"] = { 8, 2, 61, 1064 },
+			["Getpopped|dreamscythe"] = { 6, 0, 45, 1421 },
+			["Neytïrï|dreamscythe"] = { 2, 3, -20, 1170 },
+			["Xczv|dreamscythe"] = { 2, 3, -19, 1061 },
+			["Béon|nightslayer"] = { 3, 1, 0, 1164 },
+			["Negzor|nightslayer"] = { 4, 0, 23, 1169 },
+			["Tøppìñgÿøú|nightslayer"] = { 4, 0, 15, 1169 },
+			["Cogitatos|nightslayer"] = { 2, 0, 0, 881 },
+			["Reverencèx|nightslayer"] = { 2, 0, 0, 881 },
 		},
 	},
 }

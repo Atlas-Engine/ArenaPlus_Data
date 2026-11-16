@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9609 characters, read 2026-11-15 05:59 PM.
+-- Region tbc-eu, 9609 characters, read 2026-11-15 06:54 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2761,6 +2761,7 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["flixahpal-spineshatter"]=101,
 	["flixahpri-spineshatter"]=50,
 	["flixahtwo-spineshatter"]=20,
+	["flobby-spineshatter"]=60,
 	["floopz-spineshatter"]=11,
 	["floopzx-spineshatter"]=30,
 	["floopzy-spineshatter"]=41,
@@ -3389,7 +3390,6 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["holyassx-thunderstrike"]=101,
 	["holybaca-spineshatter"]=30,
 	["holybeefz-thunderstrike"]=101,
-	["hølychad-spineshatter"]=100,
 	["holyerror-spineshatter"]=101,
 	["holyjimmyy-spineshatter"]=50,
 	["holykensen-spineshatter"]=11,
@@ -12281,6 +12281,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["flixahpal-spineshatter"]=7,
 	["flixahpri-spineshatter"]=17,
 	["flixahtwo-spineshatter"]=11,
+	["flobby-spineshatter"]=1,
 	["floopz-spineshatter"]=3,
 	["floopzx-spineshatter"]=17,
 	["floopzy-spineshatter"]=1,
@@ -12752,7 +12753,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["hangaa-spineshatter"]=5,
 	["hankytank-spineshatter"]=5,
 	["hanmeimei-spineshatter"]=1,
-	["hánn-spineshatter"]=19,
+	["hánn-spineshatter"]=3,
 	["hanniko-spineshatter"]=19,
 	["hansal-spineshatter"]=11,
 	["hansiboss-spineshatter"]=11,
@@ -12920,7 +12921,6 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["holyassx-thunderstrike"]=7,
 	["holybaca-spineshatter"]=7,
 	["holybeefz-thunderstrike"]=7,
-	["hølychad-spineshatter"]=7,
 	["holyerror-spineshatter"]=2,
 	["holyjimmyy-spineshatter"]=17,
 	["holykensen-spineshatter"]=10,
@@ -15717,7 +15717,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["pasxthree-spineshatter"]=12,
 	["patirl-spineshatter"]=5,
 	["patrickstarx-spineshatter"]=5,
-	["patrickwoo-spineshatter"]=2,
+	["patrickwoo-spineshatter"]=17,
 	["pattflynnx-spineshatter"]=1,
 	["patzw-spineshatter"]=5,
 	["pauadin-spineshatter"]=7,
