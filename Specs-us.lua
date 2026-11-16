@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5203 characters, read 2026-11-15 08:59 PM.
+-- Region us, 5203 characters, read 2026-11-15 09:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2708,7 +2708,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["madvillainx-pagle"]=60,
 	["mærshall-raden"]=11,
 	["mag-raden"]=10,
-	["magdalenia-pagle"]=10,
+	["magdalenia-pagle"]=11,
 	["mageblackrat-pagle"]=10,
 	["magegaje-pagle"]=11,
 	["magemagehair-pagle"]=51,
@@ -5173,11 +5173,11 @@ ns.SPECS_BY_REGION["us"] = {
 	["annoyinghunt-immerseus"]=20,
 	["anobi-pagle"]=13,
 	["ansou-raden"]=15,
-	["antartik-lei-shen"]=1,
+	["antartik-lei-shen"]=11,
 	["anthiel-pagle"]=12,
 	["anthrex-nazgrim"]=0,
 	["antics-pagle"]=10,
-	["anticxltxre-pagle"]=5,
+	["anticxltxre-pagle"]=17,
 	["antisnowcial-galakras"]=11,
 	["Äñtòñçhígûrh-raden"]=29,
 	["anytips-pagle"]=28,
@@ -7788,7 +7788,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["madvillainx-pagle"]=22,
 	["mærshall-raden"]=7,
 	["mag-raden"]=7,
-	["magdalenia-pagle"]=2,
+	["magdalenia-pagle"]=16,
 	["mageblackrat-pagle"]=1,
 	["magegaje-pagle"]=1,
 	["magemagehair-pagle"]=1,
