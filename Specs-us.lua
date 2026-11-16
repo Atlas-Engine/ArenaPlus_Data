@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5205 characters, read 2026-11-16 10:54 AM.
+-- Region us, 5205 characters, read 2026-11-16 11:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6777,7 +6777,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["glasstoker-pagle"]=17,
 	["glayzed-raden"]=19,
 	["gleef-pagle"]=0,
-	["glinna-raden"]=9,
+	["glinna-raden"]=21,
 	["glitcho-immerseus"]=2,
 	["glitercheeks-pagle"]=5,
 	["glizzyjizzy-nazgrim"]=2,

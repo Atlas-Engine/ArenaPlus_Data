@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9332 characters, read 2026-11-16 10:58 AM.
+-- Region tbc-us, 9332 characters, read 2026-11-16 11:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10483,7 +10483,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["carltonmon-dreamscythe"]=1,
 	["carpainter-nightslayer"]=4,
 	["carpetwalker-nightslayer"]=19,
-	["carrotopp-nightslayer"]=26,
+	["carrotopp-nightslayer"]=6,
 	["carrp-nightslayer"]=1,
 	["carrymebaby-nightslayer"]=7,
 	["carupanito-dreamscythe"]=15,
@@ -11514,7 +11514,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["dtachxd-nightslayer"]=7,
 	["dtn-nightslayer"]=1,
 	["dtrn-nightslayer"]=5,
-	["duaa-nightslayer"]=26,
+	["duaa-nightslayer"]=6,
 	["dubplate-dreamscythe"]=18,
 	["duckduckdots-dreamscythe"]=13,
 	["duckhead-nightslayer"]=1,
@@ -12126,7 +12126,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["freegells-nightslayer"]=3,
 	["freegucci-nightslayer"]=0,
 	["freepfdx-nightslayer"]=13,
-	["freestyler-nightslayer"]=4,
+	["freestyler-nightslayer"]=6,
 	["freewin-dreamscythe"]=5,
 	["freezemfer-nightslayer"]=4,
 	["freezér-nightslayer"]=4,
