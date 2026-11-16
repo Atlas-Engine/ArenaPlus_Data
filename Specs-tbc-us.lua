@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9331 characters, read 2026-11-15 06:58 PM.
+-- Region tbc-us, 9332 characters, read 2026-11-15 07:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3247,6 +3247,7 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["grily-nightslayer"]=111,
 	["grîm-nightslayer"]=11,
 	["grimba-nightslayer"]=11,
+	["grimmajoow-nightslayer"]=71,
 	["grimmhorn-nightslayer"]=60,
 	["grimy-nightslayer"]=21,
 	["grinchy-nightslayer"]=41,
@@ -12502,6 +12503,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["grily-nightslayer"]=10,
 	["grîm-nightslayer"]=5,
 	["grimba-nightslayer"]=18,
+	["grimmajoow-nightslayer"]=6,
 	["grimmhorn-nightslayer"]=18,
 	["grimy-nightslayer"]=16,
 	["grinchy-nightslayer"]=7,
@@ -13846,7 +13848,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["letmecrack-dreamscythe"]=19,
 	["letsgetnasty-nightslayer"]=2,
 	["leuut-nightslayer"]=6,
-	["levimis-nightslayer"]=2,
+	["levimis-nightslayer"]=18,
 	["levimisu-nightslayer"]=18,
 	["lexik-nightslayer"]=18,
 	["lexiwilliams-dreamscythe"]=1,
