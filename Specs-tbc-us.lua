@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9332 characters, read 2026-11-16 12:58 PM.
+-- Region tbc-us, 9332 characters, read 2026-11-16 01:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3850,6 +3850,7 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["ironsîde-nightslayer"]=60,
 	["ironthornx-nightslayer"]=60,
 	["irontough-dreamscythe"]=60,
+	["irscollector-nightslayer"]=31,
 	["irvinstone-nightslayer"]=70,
 	["iseeyounow-dreamscythe"]=11,
 	["ishogall-dreamscythe"]=20,
@@ -11141,7 +11142,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["deligion-nightslayer"]=24,
 	["delinyouteha-nightslayer"]=5,
 	["delisperin-dreamscythe"]=7,
-	["dellios-nightslayer"]=21,
+	["dellios-nightslayer"]=15,
 	["deltywl-nightslayer"]=16,
 	["delusiønal-dreamscythe"]=9,
 	["dembootys-nightslayer"]=5,
@@ -11156,7 +11157,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["demonedge-nightslayer"]=18,
 	["demonsoup-dreamscythe"]=13,
 	["demønwrath-nightslayer"]=2,
-	["denagul-dreamscythe"]=13,
+	["denagul-dreamscythe"]=16,
 	["dendríc-nightslayer"]=7,
 	["denïal-nightslayer"]=14,
 	["denpolo-nightslayer"]=4,
@@ -13113,7 +13114,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ironsîde-nightslayer"]=18,
 	["ironthornx-nightslayer"]=22,
 	["irontough-dreamscythe"]=3,
-	["irscollector-nightslayer"]=0,
+	["irscollector-nightslayer"]=14,
 	["irvinstone-nightslayer"]=2,
 	["iseeyounow-dreamscythe"]=5,
 	["ishogall-dreamscythe"]=2,
