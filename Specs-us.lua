@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5204 characters, read 2026-11-16 01:59 AM.
+-- Region us, 5205 characters, read 2026-11-16 02:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1088,6 +1088,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["despair-raden"]=41,
 	["dessicate-lei-shen"]=10,
 	["destrious-nazgrim"]=81,
+	["destrotensei-pagle"]=20,
 	["destructorr-lei-shen"]=21,
 	["devey-lei-shen"]=11,
 	["deviancegodx-raden"]=11,
@@ -6089,6 +6090,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["despair-raden"]=5,
 	["dessicate-lei-shen"]=16,
 	["destrious-nazgrim"]=8,
+	["destrotensei-pagle"]=25,
 	["destructorr-lei-shen"]=23,
 	["dethbysnusñu-lei-shen"]=0,
 	["dethbysñusnu-lei-shen"]=0,
@@ -7009,7 +7011,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["hojosatoru-raden"]=16,
 	["hojreplol-raden"]=16,
 	["hojville-pagle"]=16,
-	["holidayhamii-pagle"]=2,
+	["holidayhamii-pagle"]=16,
 	["holmz-pagle"]=3,
 	["holtxd-raden"]=7,
 	["holyangelz-pagle"]=2,
@@ -9322,7 +9324,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["spóöòky-pagle"]=14,
 	["spóöòkyqûeen-pagle"]=4,
 	["spq-pagle"]=0,
-	["spreadpres-pagle"]=17,
+	["spreadpres-pagle"]=5,
 	["spuntville-pagle"]=22,
 	["sqntzi-pagle"]=17,
 	["squanched-pagle"]=7,
