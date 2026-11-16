@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9609 characters, read 2026-11-16 02:59 AM.
+-- Region tbc-eu, 9609 characters, read 2026-11-16 03:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9999,7 +9999,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["ayéßcemßópam-spineshatter"]=3,
 	["ayienne-thunderstrike"]=1,
 	["aylix-spineshatter"]=1,
-	["ayodsmallzx-spineshatter"]=5,
+	["ayodsmallzx-spineshatter"]=15,
 	["ayol-spineshatter"]=15,
 	["ayoling-spineshatter"]=13,
 	["ayytsu-spineshatter"]=6,
@@ -14931,7 +14931,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["mossadagent-spineshatter"]=3,
 	["mossadwarf-spineshatter"]=2,
 	["mosse-thunderstrike"]=1,
-	["mosu-spineshatter"]=2,
+	["mosu-spineshatter"]=8,
 	["môtu-spineshatter"]=5,
 	["moufasa-spineshatter"]=1,
 	["moukarijeppe-spineshatter"]=23,
@@ -15694,7 +15694,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["papes-thunderstrike"]=12,
 	["pappapewpew-spineshatter"]=8,
 	["paqe-spineshatter"]=3,
-	["paralenik-thunderstrike"]=8,
+	["paralenik-thunderstrike"]=2,
 	["paranna-spineshatter"]=6,
 	["parapoia-thunderstrike"]=5,
 	["paray-thunderstrike"]=26,
