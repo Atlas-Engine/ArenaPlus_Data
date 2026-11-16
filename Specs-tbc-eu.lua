@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9609 characters, read 2026-11-16 06:59 AM.
+-- Region tbc-eu, 9609 characters, read 2026-11-16 07:49 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -13958,7 +13958,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["kussekilling-spineshatter"]=6,
 	["kusysmack-spineshatter"]=8,
 	["kutak-spineshatter"]=6,
-	["kuumatyttö-spineshatter"]=19,
+	["kuumatyttö-spineshatter"]=3,
 	["kuzushi-spineshatter"]=2,
 	["kvapik-spineshatter"]=1,
 	["kventiax-spineshatter"]=2,
@@ -15621,7 +15621,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["ozael-spineshatter"]=2,
 	["Øzempic-spineshatter"]=8,
 	["ozey-spineshatter"]=3,
-	["ozèy-spineshatter"]=12,
+	["ozèy-spineshatter"]=23,
 	["ozëy-spineshatter"]=5,
 	["oziach-spineshatter"]=15,
 	["Özlemx-spineshatter"]=3,
@@ -15828,7 +15828,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["pikkuhimo-spineshatter"]=11,
 	["pikkukamu-spineshatter"]=2,
 	["pikkuliha-spineshatter"]=5,
-	["pikkulusti-spineshatter"]=11,
+	["pikkulusti-spineshatter"]=23,
 	["pikkup-spineshatter"]=2,
 	["pikkusuili-spineshatter"]=2,
 	["piljak-spineshatter"]=8,
@@ -17125,7 +17125,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["skvrafsk-spineshatter"]=4,
 	["skwi-spineshatter"]=8,
 	["skyclub-spineshatter"]=3,
-	["skyfog-spineshatter"]=3,
+	["skyfog-spineshatter"]=19,
 	["skylìmìtxd-spineshatter"]=9,
 	["skylol-spineshatter"]=26,
 	["skyløl-thunderstrike"]=1,
