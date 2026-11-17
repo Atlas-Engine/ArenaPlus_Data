@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9329 characters, read 2026-11-17 03:58 AM.
+-- Region tbc-us, 9329 characters, read 2026-11-17 04:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1593,7 +1593,6 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["corrosioon-nightslayer"]=111,
 	["corvish-nightslayer"]=50,
 	["cossera-dreamscythe"]=101,
-	["couchman-dreamscythe"]=10,
 	["cousineddiy-dreamscythe"]=40,
 	["covenant-nightslayer"]=11,
 	["cowasaurus-nightslayer"]=60,
@@ -4571,6 +4570,7 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["leozap-dreamscythe"]=11,
 	["leshdru-nightslayer"]=61,
 	["lestát-nightslayer"]=11,
+	["letmecrack-dreamscythe"]=111,
 	["letsgetnasty-nightslayer"]=71,
 	["leuut-nightslayer"]=80,
 	["levimis-nightslayer"]=10,
@@ -10824,7 +10824,6 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["corsa-nightslayer"]=0,
 	["corvish-nightslayer"]=13,
 	["cossera-dreamscythe"]=11,
-	["couchman-dreamscythe"]=5,
 	["cøurage-nightslayer"]=0,
 	["cousineddiy-dreamscythe"]=7,
 	["covenant-nightslayer"]=8,
@@ -13842,6 +13841,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["leozap-dreamscythe"]=5,
 	["leshdru-nightslayer"]=7,
 	["lestát-nightslayer"]=4,
+	["letmecrack-dreamscythe"]=19,
 	["letsgetnasty-nightslayer"]=2,
 	["leuut-nightslayer"]=6,
 	["levimis-nightslayer"]=18,
