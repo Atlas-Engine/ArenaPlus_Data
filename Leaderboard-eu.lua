@@ -18,7 +18,7 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region eu, season 14, read 2026-11-16 08:00 PM.
+-- Region eu, season 14, read 2026-11-16 09:00 PM.
 -- Realm display names, because the ladder only carries slugs and no rule
 -- turns one back into the other: raden is Ra-den, lei-shen is Lei Shen and
 -- arugal-au is Arugal (AU). Read from Blizzard's realm index; a slug with no
@@ -34,8 +34,8 @@ ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["eu"] = {
 	region  = "eu",
-	checked = "2026-11-16 08:00 PM",
-	checkedEpoch = 1794877207,
+	checked = "2026-11-16 09:00 PM",
+	checkedEpoch = 1794880811,
 	snapshot = "2026-11-16 23:13",
 
 	[1] = {  -- 2v2, 5010 places, down to rating 1048 -- the API stops here, short of the cutoff
@@ -331,10 +331,10 @@ ns.LEADERBOARD_BY_REGION["eu"] = {
 		{ rank=290, name="Lilbroke", realm="shekzeer", rating=2425, won=193, lost=143, faction="ALLIANCE", dr=0, dk=-2 },
 		{ rank=290, name="Razor", realm="everlook", rating=2425, won=232, lost=68, faction="ALLIANCE", dr=0, dk=-2 },
 		{ rank=290, name="Rockyx", realm="shekzeer", rating=2425, won=138, lost=70, faction="ALLIANCE", dr=0, dk=-2 },
-		{ rank=293, name="Doublecheese", realm="shekzeer", rating=2424, won=149, lost=128, faction="ALLIANCE", mr=2427, dr=0, dk=-2 },
-		{ rank=293, name="Kodeinlover", realm="mirage-raceway", rating=2424, won=142, lost=115, faction="ALLIANCE", mr=2496, dr=0, dk=-2 },
-		{ rank=293, name="Medvedbzxc", realm="shekzeer", rating=2424, won=60, lost=17, faction="ALLIANCE", dr=0, dk=-2 },
-		{ rank=293, name="Savexx", realm="shekzeer", rating=2424, won=387, lost=393, faction="ALLIANCE", mr=2549, dr=28, dk=-57 },
+		{ rank=290, name="Savexx", realm="shekzeer", rating=2425, won=389, lost=398, faction="ALLIANCE", mr=2549, dr=29, dk=-60 },
+		{ rank=294, name="Doublecheese", realm="shekzeer", rating=2424, won=149, lost=128, faction="ALLIANCE", mr=2427, dr=0, dk=-1 },
+		{ rank=294, name="Kodeinlover", realm="mirage-raceway", rating=2424, won=142, lost=115, faction="ALLIANCE", mr=2496, dr=0, dk=-1 },
+		{ rank=294, name="Medvedbzxc", realm="shekzeer", rating=2424, won=60, lost=17, faction="ALLIANCE", dr=0, dk=-1 },
 		{ rank=297, name="Zok", realm="shekzeer", rating=2423, won=154, lost=117, faction="ALLIANCE", mr=2479, dr=-13, dk=21 },
 		{ rank=297, name="Ушастыйлол", realm="flamegor", rating=2423, won=99, lost=64, faction="ALLIANCE", dr=0, dk=-3 },
 		{ rank=299, name="Trashwwmop", realm="garalon", rating=2422, won=84, lost=53, faction="ALLIANCE", dr=0, dk=-2 },
