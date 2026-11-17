@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9600 characters, read 2026-11-17 09:17 AM.
+-- Region tbc-eu, 9600 characters, read 2026-11-17 10:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10186,7 +10186,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["beastirl-spineshatter"]=24,
 	["beastji-spineshatter"]=25,
 	["beastwøød-spineshatter"]=12,
-	["beatang-spineshatter"]=23,
+	["beatang-spineshatter"]=11,
 	["beb-spineshatter"]=7,
 	["bebép-spineshatter"]=9,
 	["beberg-spineshatter"]=1,
@@ -10707,7 +10707,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["catice-spineshatter"]=6,
 	["catmän-spineshatter"]=6,
 	["cattalo-spineshatter"]=1,
-	["catwifhat-spineshatter"]=15,
+	["catwifhat-spineshatter"]=5,
 	["cavitonne-spineshatter"]=13,
 	["cãw-spineshatter"]=1,
 	["cazzette-thunderstrike"]=2,
@@ -14982,7 +14982,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["muruprenerf-spineshatter"]=19,
 	["musclebob-spineshatter"]=12,
 	["musicbobzug-spineshatter"]=5,
-	["mustabäret-spineshatter"]=7,
+	["mustabäret-spineshatter"]=26,
 	["mustardglas-spineshatter"]=11,
 	["mustigast-spineshatter"]=23,
 	["muthëz-spineshatter"]=13,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9329 characters, read 2026-11-17 09:58 AM.
+-- Region tbc-us, 9328 characters, read 2026-11-17 10:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1816,7 +1816,6 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["darksideyoda-dreamscythe"]=20,
 	["darkslappy-nightslayer"]=50,
 	["darksyde-nightslayer"]=21,
-	["darkwarden-nightslayer"]=50,
 	["darmora-nightslayer"]=51,
 	["Ðarrow-nightslayer"]=100,
 	["darthkirbzz-nightslayer"]=10,
@@ -9688,7 +9687,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["backblowerx-nightslayer"]=13,
 	["backfliplord-nightslayer"]=10,
 	["bácon-dreamscythe"]=16,
-	["badchad-dreamscythe"]=24,
+	["badchad-dreamscythe"]=19,
 	["badguysp-nightslayer"]=12,
 	["badlarryx-dreamscythe"]=19,
 	["badle-nightslayer"]=3,
@@ -10316,7 +10315,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bsl-nightslayer"]=18,
 	["bsmoke-nightslayer"]=12,
 	["btain-nightslayer"]=3,
-	["btcpaid-nightslayer"]=1,
+	["btcpaid-nightslayer"]=12,
 	["btñ-nightslayer"]=7,
 	["bubbalicious-nightslayer"]=0,
 	["bubballos-nightslayer"]=1,
@@ -11051,7 +11050,6 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["darksideyoda-dreamscythe"]=24,
 	["darkslappy-nightslayer"]=1,
 	["darksyde-nightslayer"]=8,
-	["darkwarden-nightslayer"]=13,
 	["darmora-nightslayer"]=6,
 	["Ðarrow-nightslayer"]=11,
 	["darthkirbzz-nightslayer"]=13,
@@ -16827,7 +16825,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["spaghettiie-dreamscythe"]=18,
 	["spaghettoh-dreamscythe"]=14,
 	["spammingpom-nightslayer"]=1,
-	["spanishtranq-dreamscythe"]=22,
+	["spanishtranq-dreamscythe"]=7,
 	["spankntank-nightslayer"]=20,
 	["sparkleworks-nightslayer"]=7,
 	["sparklystars-nightslayer"]=1,
@@ -17250,7 +17248,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["tbcshiesty-nightslayer"]=1,
 	["tbcsimp-nightslayer"]=7,
 	["tbczero-nightslayer"]=15,
-	["tbt-nightslayer"]=5,
+	["tbt-nightslayer"]=8,
 	["tbtlol-nightslayer"]=5,
 	["tchaptank-dreamscythe"]=18,
 	["tdales-nightslayer"]=1,
