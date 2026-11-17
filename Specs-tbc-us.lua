@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9332 characters, read 2026-11-16 09:58 PM.
+-- Region tbc-us, 9331 characters, read 2026-11-16 10:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9192,7 +9192,6 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["zns-nightslayer"]=70,
 	["znug-nightslayer"]=111,
 	["zocho-nightslayer"]=20,
-	["zofì-nightslayer"]=41,
 	["zoghunter-nightslayer"]=11,
 	["zoinksx-nightslayer"]=31,
 	["zoltun-nightslayer"]=50,
@@ -11735,7 +11734,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["erinthos-nightslayer"]=1,
 	["erinthoss-nightslayer"]=11,
 	["erioz-nightslayer"]=5,
-	["erixee-nightslayer"]=2,
+	["erixee-nightslayer"]=18,
 	["erixieqt-nightslayer"]=4,
 	["erm-nightslayer"]=10,
 	["erpaderpxx-nightslayer"]=2,
@@ -18503,7 +18502,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["zi-dreamscythe"]=2,
 	["ziaj-nightslayer"]=24,
 	["ziatt-nightslayer"]=2,
-	["zibra-dreamscythe"]=1,
+	["zibra-dreamscythe"]=14,
 	["zidal-nightslayer"]=16,
 	["zido-nightslayer"]=4,
 	["zidotv-nightslayer"]=4,
@@ -18529,7 +18528,6 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["zns-nightslayer"]=2,
 	["znug-nightslayer"]=19,
 	["zocho-nightslayer"]=18,
-	["zofì-nightslayer"]=7,
 	["zoghunter-nightslayer"]=4,
 	["zoinksx-nightslayer"]=9,
 	["zoltun-nightslayer"]=1,

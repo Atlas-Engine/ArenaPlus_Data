@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5205 characters, read 2026-11-16 09:59 PM.
+-- Region us, 5205 characters, read 2026-11-16 10:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1335,7 +1335,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["ebaylol-raden"]=11,
 	["ebolarama-galakras"]=100,
 	["ebtsniper-raden"]=11,
-	["ecafkcufhi-raden"]=41,
+	["ecafkcufhi-raden"]=40,
 	["echodotx-raden"]=11,
 	["eci-raden"]=11,
 	["ecmoo-pagle"]=50,
@@ -5063,7 +5063,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["Æggrophobia-pagle"]=13,
 	["aeliline-pagle"]=0,
 	["aellane-pagle"]=6,
-	["aem-pagle"]=9,
+	["aem-pagle"]=21,
 	["Ærîthøs-pagle"]=16,
 	["aeroes-pagle"]=3,
 	["Ærtheater-immerseus"]=11,
@@ -5072,7 +5072,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["affliktt-arugal-au"]=9,
 	["afp-raden"]=10,
 	["Àfterlifeqt-pagle"]=5,
-	["agame-pagle"]=13,
+	["agame-pagle"]=9,
 	["aggron-galakras"]=0,
 	["agility-raden"]=3,
 	["agrosniper-pagle"]=3,
@@ -6626,7 +6626,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["frankieboy-galakras"]=0,
 	["frankinator-raden"]=4,
 	["frasno-nazgrim"]=34,
-	["frawbinbowls-pagle"]=16,
+	["frawbinbowls-pagle"]=32,
 	["freakshowx-raden"]=17,
 	["freddykrueg-pagle"]=8,
 	["freebandzs-pagle"]=9,
