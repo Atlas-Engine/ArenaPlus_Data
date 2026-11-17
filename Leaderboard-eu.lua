@@ -18,7 +18,7 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region eu, season 14, read 2026-11-16 07:00 PM.
+-- Region eu, season 14, read 2026-11-16 08:00 PM.
 -- Realm display names, because the ladder only carries slugs and no rule
 -- turns one back into the other: raden is Ra-den, lei-shen is Lei Shen and
 -- arugal-au is Arugal (AU). Read from Blizzard's realm index; a slug with no
@@ -34,8 +34,8 @@ ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["eu"] = {
 	region  = "eu",
-	checked = "2026-11-16 07:00 PM",
-	checkedEpoch = 1794873612,
+	checked = "2026-11-16 08:00 PM",
+	checkedEpoch = 1794877207,
 	snapshot = "2026-11-16 23:13",
 
 	[1] = {  -- 2v2, 5010 places, down to rating 1048 -- the API stops here, short of the cutoff
@@ -79,8 +79,8 @@ ns.LEADERBOARD_BY_REGION["eu"] = {
 		{ rank=38, name="Scvrecrow", realm="shekzeer", rating=2718, won=100, lost=34, faction="ALLIANCE", dr=0, dk=1 },
 		{ rank=39, name="Maxiwho", realm="shekzeer", rating=2717, won=79, lost=33, faction="ALLIANCE", dr=0, dk=0 },
 		{ rank=40, name="Fiftyzen", realm="everlook", rating=2711, won=118, lost=52, faction="ALLIANCE", mr=2716, dr=0, dk=0 },
-		{ rank=41, name="ßonnießlue", realm="shekzeer", rating=2709, won=357, lost=190, faction="ALLIANCE", mr=2816, dr=5, dk=-2 },
-		{ rank=42, name="Critlølxy", realm="everlook", rating=2706, won=90, lost=38, faction="ALLIANCE", dr=0, dk=1 },
+		{ rank=41, name="Critlølxy", realm="everlook", rating=2706, won=90, lost=38, faction="ALLIANCE", dr=0, dk=0 },
+		{ rank=41, name="ßonnießlue", realm="shekzeer", rating=2706, won=363, lost=191, faction="ALLIANCE", mr=2816, dr=2, dk=-2 },
 		{ rank=43, name="Cavitonnee", realm="everlook", rating=2705, won=129, lost=73, faction="ALLIANCE", dr=0, dk=1 },
 		{ rank=44, name="Yhwatch", realm="shekzeer", rating=2704, won=215, lost=93, faction="ALLIANCE", mr=2739, dr=-21, dk=12 },
 		{ rank=45, name="Wheelkick", realm="shekzeer", rating=2701, won=250, lost=142, faction="ALLIANCE", dr=32, dk=-7 },
@@ -346,10 +346,10 @@ ns.LEADERBOARD_BY_REGION["eu"] = {
 		{ rank=304, name="Normanqt", realm="shekzeer", rating=2417, won=146, lost=106, faction="ALLIANCE", dr=0, dk=-3 },
 		{ rank=304, name="Theånswer", realm="shekzeer", rating=2417, won=69, lost=42, faction="ALLIANCE", dr=0, dk=-3 },
 		{ rank=304, name="Uhpewpew", realm="shekzeer", rating=2417, won=101, lost=78, faction="ALLIANCE", dr=0, dk=-3 },
-		{ rank=304, name="Xpa", realm="everlook", rating=2417, won=146, lost=96, faction="ALLIANCE", mr=2439, dr=158, dk=-350 },
-		{ rank=309, name="Thaixx", realm="shekzeer", rating=2415, won=127, lost=78, faction="ALLIANCE", mr=2461, dr=0, dk=-3 },
-		{ rank=309, name="Thepríest", realm="mirage-raceway", rating=2415, won=87, lost=47, faction="ALLIANCE", mr=2418, dr=0, dk=-3 },
-		{ rank=311, name="Flugsvampén", realm="shekzeer", rating=2414, won=152, lost=137, faction="ALLIANCE", dr=0, dk=-4 },
+		{ rank=308, name="Thaixx", realm="shekzeer", rating=2415, won=127, lost=78, faction="ALLIANCE", mr=2461, dr=0, dk=-4 },
+		{ rank=308, name="Thepríest", realm="mirage-raceway", rating=2415, won=87, lost=47, faction="ALLIANCE", mr=2418, dr=0, dk=-4 },
+		{ rank=310, name="Flugsvampén", realm="shekzeer", rating=2414, won=152, lost=137, faction="ALLIANCE", dr=0, dk=-5 },
+		{ rank=310, name="Xpa", realm="everlook", rating=2414, won=148, lost=102, faction="ALLIANCE", mr=2439, dr=155, dk=-344 },
 		{ rank=312, name="Nifflarn", realm="shekzeer", rating=2413, won=196, lost=215, faction="ALLIANCE", dr=0, dk=-4 },
 		{ rank=312, name="Reauna", realm="shekzeer", rating=2413, won=128, lost=123, faction="ALLIANCE", mr=2428, dr=0, dk=-4 },
 		{ rank=312, name="Topshotta", realm="everlook", rating=2413, won=121, lost=109, faction="ALLIANCE", mr=2461, dr=0, dk=-4 },

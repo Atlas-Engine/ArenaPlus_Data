@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5205 characters, read 2026-11-16 06:54 PM.
+-- Region us, 5205 characters, read 2026-11-16 07:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3506,7 +3506,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["qtips-lei-shen"]=20,
 	["qtmonkbb-pagle"]=11,
 	["qtpiè-pagle"]=11,
-	["qtx-raden"]=20,
+	["qtx-raden"]=21,
 	["qtzero-pagle"]=11,
 	["quadriceps-pagle"]=111,
 	["quandell-raden"]=21,
@@ -5476,7 +5476,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["blacksclera-pagle"]=24,
 	["blacksiide-pagle"]=4,
 	["blackspades-pagle"]=26,
-	["bladvalery-nazgrim"]=32,
+	["bladvalery-nazgrim"]=2,
 	["blaggie-galakras"]=16,
 	["blaine-raden"]=1,
 	["blakemøre-raden"]=0,
@@ -9202,7 +9202,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["slumpbucks-raden"]=22,
 	["slumpfoo-raden"]=4,
 	["slumpirlpov-raden"]=1,
-	["slumplord-raden"]=29,
+	["slumplord-raden"]=14,
 	["slumplordx-raden"]=14,
 	["smallrass-pagle"]=7,
 	["smalltrain-pagle"]=15,

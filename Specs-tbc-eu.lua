@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9600 characters, read 2026-11-16 06:59 PM.
+-- Region tbc-eu, 9600 characters, read 2026-11-16 07:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9786,7 +9786,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["anoréxica-spineshatter"]=9,
 	["anotherheal-spineshatter"]=0,
 	["anothertry-spineshatter"]=0,
-	["anoukix-thunderstrike"]=23,
+	["anoukix-thunderstrike"]=12,
 	["añt-spineshatter"]=1,
 	["antarticx-spineshatter"]=9,
 	["Ánticide-spineshatter"]=5,
@@ -9837,7 +9837,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["arcaily-spineshatter"]=11,
 	["arcanebrasto-thunderstrike"]=4,
 	["archpriestes-spineshatter"]=8,
-	["arcueid-spineshatter"]=2,
+	["arcueid-spineshatter"]=17,
 	["arden-thunderstrike"]=6,
 	["arenaheal-spineshatter"]=10,
 	["arenajunkies-spineshatter"]=1,
@@ -15372,7 +15372,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["norwoodfive-spineshatter"]=9,
 	["norwoodseven-spineshatter"]=0,
 	["noskillclass-spineshatter"]=4,
-	["nostrõ-spineshatter"]=20,
+	["nostrõ-spineshatter"]=1,
 	["nøstun-spineshatter"]=3,
 	["notagainqt-spineshatter"]=2,
 	["notagodx-spineshatter"]=3,

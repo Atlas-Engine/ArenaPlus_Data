@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9332 characters, read 2026-11-16 06:58 PM.
+-- Region tbc-us, 9332 characters, read 2026-11-16 07:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -8875,7 +8875,6 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["wylds-dreamscythe"]=40,
 	["wyllerton-nightslayer"]=111,
 	["wyllertons-nightslayer"]=111,
-	["wzbx-dreamscythe"]=50,
 	["wzrdmightyx-nightslayer"]=31,
 	["xaedus-nightslayer"]=40,
 	["xaind-nightslayer"]=11,
@@ -9404,7 +9403,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["alisz-nightslayer"]=8,
 	["alkalind-dreamscythe"]=7,
 	["alkalins-dreamscythe"]=19,
-	["alkaraz-dreamscythe"]=2,
+	["alkaraz-dreamscythe"]=18,
 	["allapattah-nightslayer"]=7,
 	["allbirds-nightslayer"]=4,
 	["allegheny-nightslayer"]=2,
@@ -11508,7 +11507,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["dsoh-nightslayer"]=10,
 	["dspt-nightslayer"]=1,
 	["dsquarias-nightslayer"]=5,
-	["dsquizzle-nightslayer"]=8,
+	["dsquizzle-nightslayer"]=5,
 	["dstglaives-nightslayer"]=18,
 	["dtach-nightslayer"]=15,
 	["dtachlol-nightslayer"]=4,
@@ -18207,7 +18206,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["wyllerton-nightslayer"]=10,
 	["wyllertons-nightslayer"]=10,
 	["wzb-dreamscythe"]=0,
-	["wzbx-dreamscythe"]=5,
+	["wzbx-dreamscythe"]=0,
 	["wzrdmightyx-nightslayer"]=1,
 	["xaedus-nightslayer"]=3,
 	["xaind-nightslayer"]=5,

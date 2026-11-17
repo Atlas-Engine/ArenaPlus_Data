@@ -20,40 +20,55 @@ local ns = ArenaPlusData
 ns.ACTIVITY_BY_REGION = ns.ACTIVITY_BY_REGION or {}
 
 ns.ACTIVITY_BY_REGION["tbc-us"] = {
-	built = 1794873513,
-	builtText = "2026-11-16 06:58 PM",
+	built = 1794877113,
+	builtText = "2026-11-16 07:58 PM",
 	windows = { 1, 3, 6, 12, 24 },
 	[1] = {  -- the last 1 hour(s)
+		[1] = {
+			["Faeriejane|nightslayer"] = { 9, 2, 31, 41 },
+			["Bananapwn|nightslayer"] = { 2, 2, -30, 41 },
+		},
 	},
 	[3] = {  -- the last 3 hour(s)
+		[1] = {
+			["Faeriejane|nightslayer"] = { 9, 2, 31, 41 },
+			["Bananapwn|nightslayer"] = { 2, 2, -30, 41 },
+		},
 	},
 	[6] = {  -- the last 6 hour(s)
+		[1] = {
+			["Faeriejane|nightslayer"] = { 9, 2, 31, 41 },
+			["Bananapwn|nightslayer"] = { 2, 2, -30, 41 },
+		},
 	},
 	[12] = {  -- the last 12 hour(s)
+		[1] = {
+			["Faeriejane|nightslayer"] = { 9, 2, 31, 41 },
+			["Bananapwn|nightslayer"] = { 2, 2, -30, 41 },
+		},
 	},
 	[24] = {  -- the last 24 hour(s)
 		[1] = {
-			["Gaekpoong|nightslayer"] = { 23, 9, -49, 1026 },
-			["Gwedysseus|nightslayer"] = { 22, 8, -43, 1027 },
-			["Bazook|nightslayer"] = { 9, 1, 76, 1186 },
-			["Truccz|nightslayer"] = { 9, 1, 76, 1185 },
-			["Grimmajoow|nightslayer"] = { 7, 1, 29, 1416 },
-			["Faeriejane|nightslayer"] = { 1, 6, -31, 1032 },
-			["Bazooko|nightslayer"] = { 4, 2, 5, 1273 },
-			["Béon|nightslayer"] = { 4, 2, 4, 1273 },
-			["Getpopped|dreamscythe"] = { 2, 3, -8, 1143 },
-			["Pallypwr|dreamscythe"] = { 2, 3, -16, 1143 },
-			["Ryanin|dreamscythe"] = { 3, 2, -11, 1108 },
-			["Gzlol|dreamscythe"] = { 1, 3, -28, 1061 },
-			["Bohagons|nightslayer"] = { 1, 2, -20, 1237 },
-			["Chugzila|nightslayer"] = { 1, 2, -20, 1236 },
-			["Levimis|nightslayer"] = { 1, 2, -26, 1421 },
-			["Shigekazu|nightslayer"] = { 3, 0, 18, 1168 },
-			["Wílleh|nightslayer"] = { 3, 0, 18, 1168 },
-			["Neytïrï|dreamscythe"] = { 2, 0, 8, 1318 },
-			["Sunnyslow|nightslayer"] = { 1, 1, -4, 1175 },
-			["Feldargon|nightslayer"] = { 1, 0, 13, 1018 },
-			["Leien|nightslayer"] = { 1, 0, 12, 1018 },
+			["Gaekpoong|nightslayer"] = { 23, 9, -49, 1086 },
+			["Gwedysseus|nightslayer"] = { 22, 8, -43, 1087 },
+			["Faeriejane|nightslayer"] = { 10, 8, 0, 41 },
+			["Bazook|nightslayer"] = { 9, 1, 76, 1246 },
+			["Truccz|nightslayer"] = { 9, 1, 76, 1245 },
+			["Bazooko|nightslayer"] = { 4, 2, 5, 1333 },
+			["Béon|nightslayer"] = { 4, 2, 4, 1333 },
+			["Getpopped|dreamscythe"] = { 2, 3, -8, 1203 },
+			["Pallypwr|dreamscythe"] = { 2, 3, -16, 1203 },
+			["Ryanin|dreamscythe"] = { 3, 2, -11, 1168 },
+			["Bananapwn|nightslayer"] = { 2, 2, -30, 41 },
+			["Gzlol|dreamscythe"] = { 1, 3, -28, 1121 },
+			["Bohagons|nightslayer"] = { 1, 2, -20, 1297 },
+			["Chugzila|nightslayer"] = { 1, 2, -20, 1296 },
+			["Shigekazu|nightslayer"] = { 3, 0, 18, 1228 },
+			["Wílleh|nightslayer"] = { 3, 0, 18, 1228 },
+			["Neytïrï|dreamscythe"] = { 2, 0, 8, 1378 },
+			["Sunnyslow|nightslayer"] = { 1, 1, -4, 1235 },
+			["Feldargon|nightslayer"] = { 1, 0, 13, 1078 },
+			["Leien|nightslayer"] = { 1, 0, 12, 1078 },
 		},
 	},
 }
