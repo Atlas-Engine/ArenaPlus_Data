@@ -18,7 +18,7 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region us, season 14, read 2026-11-17 05:59 AM.
+-- Region us, season 14, read 2026-11-17 06:59 AM.
 -- Realm display names, because the ladder only carries slugs and no rule
 -- turns one back into the other: raden is Ra-den, lei-shen is Lei Shen and
 -- arugal-au is Arugal (AU). Read from Blizzard's realm index; a slug with no
@@ -35,8 +35,8 @@ ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["us"] = {
 	region  = "us",
-	checked = "2026-11-17 05:59 AM",
-	checkedEpoch = 1794913168,
+	checked = "2026-11-17 06:59 AM",
+	checkedEpoch = 1794916770,
 	snapshot = "2026-11-17 10:04",
 
 	[1] = {  -- 2v2, 5002 places, down to rating 1135 -- the API stops here, short of the cutoff
@@ -517,16 +517,16 @@ ns.LEADERBOARD_BY_REGION["us"] = {
 		{ rank=475, name="Dkingg", realm="pagle", rating=2276, won=364, lost=314, faction="ALLIANCE", mr=2363, dr=0, dk=7 },
 		{ rank=475, name="Gymsharkbadi", realm="arugal-au", rating=2276, won=110, lost=82, faction="ALLIANCE", mr=2280, dr=-4, dk=16 },
 		{ rank=475, name="Troyandk", realm="raden", rating=2276, won=439, lost=462, faction="ALLIANCE", mr=2314, dr=0, dk=7 },
-		{ rank=478, name="Affliktt", realm="arugal-au", rating=2274, won=101, lost=76, faction="ALLIANCE", dr=0, dk=8 },
-		{ rank=478, name="Brbsheeping", realm="pagle", rating=2274, won=165, lost=173, faction="ALLIANCE", mr=2275, dr=0, dk=8 },
-		{ rank=480, name="Flexism", realm="pagle", rating=2273, won=176, lost=187, faction="HORDE", dr=0, dk=8 },
-		{ rank=480, name="Meatbolt", realm="raden", rating=2273, won=127, lost=109, faction="ALLIANCE", mr=2311, dr=0, dk=8 },
-		{ rank=480, name="Peekñheal", realm="arugal-au", rating=2273, won=269, lost=244, faction="ALLIANCE", mr=2316, dr=0, dk=8 },
-		{ rank=480, name="Sàngüinius", realm="pagle", rating=2273, won=270, lost=246, faction="ALLIANCE", dr=0, dk=8 },
-		{ rank=484, name="Magnusz", realm="nazgrim", rating=2272, won=73, lost=6, faction="ALLIANCE", dr=0, dk=8 },
-		{ rank=485, name="Jimin", realm="raden", rating=2271, won=50, lost=30, faction="ALLIANCE", dr=0, dk=7 },
-		{ rank=486, name="Chiokeme", realm="arugal-au", rating=2270, won=90, lost=46, faction="ALLIANCE", dr=0, dk=7 },
-		{ rank=486, name="Forbes", realm="pagle", rating=2270, won=159, lost=155, faction="HORDE", mr=2303, dr=0, dk=7 },
+		{ rank=478, name="Chiokeme", realm="arugal-au", rating=2275, won=91, lost=46, faction="ALLIANCE", dr=5, dk=-1 },
+		{ rank=479, name="Affliktt", realm="arugal-au", rating=2274, won=101, lost=76, faction="ALLIANCE", dr=0, dk=9 },
+		{ rank=479, name="Brbsheeping", realm="pagle", rating=2274, won=165, lost=173, faction="ALLIANCE", mr=2275, dr=0, dk=9 },
+		{ rank=481, name="Flexism", realm="pagle", rating=2273, won=176, lost=187, faction="HORDE", dr=0, dk=9 },
+		{ rank=481, name="Meatbolt", realm="raden", rating=2273, won=127, lost=109, faction="ALLIANCE", mr=2311, dr=0, dk=9 },
+		{ rank=481, name="Peekñheal", realm="arugal-au", rating=2273, won=269, lost=244, faction="ALLIANCE", mr=2316, dr=0, dk=9 },
+		{ rank=481, name="Sàngüinius", realm="pagle", rating=2273, won=270, lost=246, faction="ALLIANCE", dr=0, dk=9 },
+		{ rank=485, name="Magnusz", realm="nazgrim", rating=2272, won=73, lost=6, faction="ALLIANCE", dr=0, dk=9 },
+		{ rank=486, name="Jimin", realm="raden", rating=2271, won=50, lost=30, faction="ALLIANCE", dr=0, dk=8 },
+		{ rank=487, name="Forbes", realm="pagle", rating=2270, won=159, lost=155, faction="HORDE", mr=2303, dr=0, dk=8 },
 		{ rank=488, name="Bigdkslams", realm="raden", rating=2268, won=195, lost=200, faction="ALLIANCE", mr=2292, dr=0, dk=7 },
 		{ rank=488, name="Xeyo", realm="raden", rating=2268, won=193, lost=169, faction="ALLIANCE", mr=2312, dr=0, dk=7 },
 		{ rank=490, name="Ultrahx", realm="raden", rating=2267, won=60, lost=9, faction="ALLIANCE", dr=0, dk=7 },

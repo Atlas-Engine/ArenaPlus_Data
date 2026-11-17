@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9329 characters, read 2026-11-17 05:58 AM.
+-- Region tbc-us, 9329 characters, read 2026-11-17 06:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2669,7 +2669,6 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["fearhand-nightslayer"]=50,
 	["fearkíll-nightslayer"]=50,
 	["fearnoob-nightslayer"]=51,
-	["fearpugs-dreamscythe"]=10,
 	["fearwardgg-nightslayer"]=31,
 	["featherfeet-nightslayer"]=20,
 	["fecklyy-dreamscythe"]=10,
@@ -11868,7 +11867,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["fantiq-nightslayer"]=1,
 	["fapanese-nightslayer"]=6,
 	["fappest-nightslayer"]=4,
-	["faramar-dreamscythe"]=7,
+	["faramar-dreamscythe"]=3,
 	["fardão-nightslayer"]=16,
 	["farger-dreamscythe"]=18,
 	["farkmer-nightslayer"]=8,
@@ -11913,7 +11912,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["fearhand-nightslayer"]=12,
 	["fearkíll-nightslayer"]=14,
 	["fearnoob-nightslayer"]=1,
-	["fearpugs-dreamscythe"]=16,
+	["fearpugs-dreamscythe"]=0,
 	["fearwardgg-nightslayer"]=1,
 	["featherfeet-nightslayer"]=16,
 	["fecklyy-dreamscythe"]=13,
@@ -13764,7 +13763,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["lanstar-nightslayer"]=11,
 	["lantt-nightslayer"]=19,
 	["lantwar-nightslayer"]=2,
-	["lanwarfan-dreamscythe"]=2,
+	["lanwarfan-dreamscythe"]=20,
 	["largefish-nightslayer"]=7,
 	["largemoot-nightslayer"]=2,
 	["larocheposay-nightslayer"]=24,
@@ -13780,7 +13779,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["latepak-dreamscythe"]=10,
 	["lateralas-nightslayer"]=17,
 	["latinop-nightslayer"]=3,
-	["latinos-nightslayer"]=2,
+	["latinos-nightslayer"]=18,
 	["lattehealz-nightslayer"]=1,
 	["launched-nightslayer"]=9,
 	["làuren-nightslayer"]=1,
@@ -15332,7 +15331,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["phathomxd-nightslayer"]=18,
 	["phatpoohcee-nightslayer"]=2,
 	["phaya-dreamscythe"]=19,
-	["phde-nightslayer"]=13,
+	["phde-nightslayer"]=16,
 	["phdphil-nightslayer"]=8,
 	["phebz-nightslayer"]=8,
 	["phemtoss-nightslayer"]=13,
@@ -17878,7 +17877,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["viñkz-nightslayer"]=9,
 	["vînkz-nightslayer"]=1,
 	["vinn-nightslayer"]=19,
-	["vìnny-dreamscythe"]=21,
+	["vìnny-dreamscythe"]=17,
 	["vinnyboy-nightslayer"]=2,
 	["vinnypushka-dreamscythe"]=11,
 	["vinnywiggles-nightslayer"]=5,
