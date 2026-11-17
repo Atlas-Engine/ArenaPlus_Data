@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9331 characters, read 2026-11-17 12:58 AM.
+-- Region tbc-us, 9329 characters, read 2026-11-17 01:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4571,7 +4571,6 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["leozap-dreamscythe"]=11,
 	["leshdru-nightslayer"]=61,
 	["lestát-nightslayer"]=11,
-	["letmecrack-dreamscythe"]=111,
 	["letsgetnasty-nightslayer"]=71,
 	["leuut-nightslayer"]=80,
 	["levimis-nightslayer"]=10,
@@ -6773,7 +6772,6 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["rulik-nightslayer"]=70,
 	["rumesa-nightslayer"]=11,
 	["runawayy-dreamscythe"]=81,
-	["runbtc-nightslayer"]=101,
 	["runescaper-nightslayer"]=21,
 	["runitbracks-nightslayer"]=20,
 	["rushie-nightslayer"]=11,
@@ -12490,7 +12488,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["greenrangër-nightslayer"]=5,
 	["greenrobot-nightslayer"]=17,
 	["greensaw-nightslayer"]=1,
-	["greenworrier-dreamscythe"]=20,
+	["greenworrier-dreamscythe"]=18,
 	["gregoryhouse-nightslayer"]=14,
 	["gregsdead-nightslayer"]=1,
 	["grekt-nightslayer"]=2,
@@ -13844,7 +13842,6 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["leozap-dreamscythe"]=5,
 	["leshdru-nightslayer"]=7,
 	["lestát-nightslayer"]=4,
-	["letmecrack-dreamscythe"]=19,
 	["letsgetnasty-nightslayer"]=2,
 	["leuut-nightslayer"]=6,
 	["levimis-nightslayer"]=18,
@@ -16080,7 +16077,6 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["rulik-nightslayer"]=4,
 	["rumesa-nightslayer"]=1,
 	["runawayy-dreamscythe"]=4,
-	["runbtc-nightslayer"]=17,
 	["runescaper-nightslayer"]=2,
 	["runitbracks-nightslayer"]=18,
 	["rushie-nightslayer"]=18,
