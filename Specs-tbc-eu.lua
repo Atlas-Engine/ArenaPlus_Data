@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9601 characters, read 2026-11-17 01:59 PM.
+-- Region tbc-eu, 9601 characters, read 2026-11-17 02:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10351,7 +10351,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["blarrytotem-spineshatter"]=12,
 	["blasfem-spineshatter"]=7,
 	["blastman-spineshatter"]=9,
-	["blasttortle-spineshatter"]=18,
+	["blasttortle-spineshatter"]=14,
 	["blazebleed-thunderstrike"]=15,
 	["blazedberry-spineshatter"]=7,
 	["blazedx-spineshatter"]=3,
@@ -10669,8 +10669,8 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["Çapic-thunderstrike"]=25,
 	["capmay-spineshatter"]=5,
 	["cåpø-spineshatter"]=8,
-	["cappadonna-spineshatter"]=17,
-	["cappuccino-spineshatter"]=15,
+	["cappadonna-spineshatter"]=2,
+	["cappuccino-spineshatter"]=5,
 	["captnx-spineshatter"]=7,
 	["carakal-spineshatter"]=18,
 	["carapaz-spineshatter"]=12,
@@ -15398,7 +15398,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["nottomwro-spineshatter"]=12,
 	["notvannah-spineshatter"]=23,
 	["novahontas-spineshatter"]=9,
-	["novalecs-spineshatter"]=5,
+	["novalecs-spineshatter"]=15,
 	["novamix-spineshatter"]=12,
 	["novanahkis-spineshatter"]=4,
 	["novap-spineshatter"]=7,
