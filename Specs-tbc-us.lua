@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9329 characters, read 2026-11-17 06:58 AM.
+-- Region tbc-us, 9329 characters, read 2026-11-17 07:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9949,7 +9949,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["bigbrent-nightslayer"]=19,
 	["bigbron-dreamscythe"]=8,
 	["bigbumbumbob-dreamscythe"]=18,
-	["bigcheesey-nightslayer"]=1,
+	["bigcheesey-nightslayer"]=12,
 	["bigchet-nightslayer"]=2,
 	["bigcitylife-nightslayer"]=19,
 	["bigcrip-nightslayer"]=19,
@@ -14629,7 +14629,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["mudpt-nightslayer"]=13,
 	["muffbags-nightslayer"]=10,
 	["muffelz-nightslayer"]=11,
-	["muffinmanx-nightslayer"]=5,
+	["muffinmanx-nightslayer"]=8,
 	["muga-nightslayer"]=19,
 	["muggazugga-nightslayer"]=2,
 	["muhgert-dreamscythe"]=8,
@@ -16348,7 +16348,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["shaky-nightslayer"]=5,
 	["shalidar-nightslayer"]=16,
 	["shamagnoll-nightslayer"]=24,
-	["shamanidk-nightslayer"]=10,
+	["shamanidk-nightslayer"]=24,
 	["shamansirui-nightslayer"]=19,
 	["shambails-nightslayer"]=10,
 	["shambanned-nightslayer"]=19,
@@ -17288,7 +17288,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["testusteroid-nightslayer"]=2,
 	["tetoz-nightslayer"]=7,
 	["tetsu-nightslayer"]=18,
-	["tetsùwo-nightslayer"]=7,
+	["tetsùwo-nightslayer"]=3,
 	["tetsuwuo-nightslayer"]=15,
 	["texasdolly-nightslayer"]=2,
 	["texhno-dreamscythe"]=13,
