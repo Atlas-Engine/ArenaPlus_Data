@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9600 characters, read 2026-11-17 10:59 AM.
+-- Region tbc-eu, 9600 characters, read 2026-11-17 11:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10697,7 +10697,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["cassïopée-thunderstrike"]=15,
 	["castanuss-spineshatter"]=5,
 	["castbunny-spineshatter"]=7,
-	["castelnuovo-spineshatter"]=19,
+	["castelnuovo-spineshatter"]=3,
 	["casu-spineshatter"]=1,
 	["catflop-spineshatter"]=1,
 	["cathalijne-spineshatter"]=22,
@@ -15048,7 +15048,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["naginï-spineshatter"]=3,
 	["naharaktere-spineshatter"]=5,
 	["nahirbesara-spineshatter"]=9,
-	["nahkakuulá-spineshatter"]=19,
+	["nahkakuulá-spineshatter"]=3,
 	["naikøn-spineshatter"]=12,
 	["nainconnue-spineshatter"]=2,
 	["nairoby-spineshatter"]=1,
@@ -17447,7 +17447,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["stepsoundz-thunderstrike"]=3,
 	["stepu-spineshatter"]=25,
 	["stepwgn-spineshatter"]=11,
-	["stepx-spineshatter"]=3,
+	["stepx-spineshatter"]=19,
 	["stevebuscemí-spineshatter"]=2,
 	["stevegabi-spineshatter"]=12,
 	["stevencurry-spineshatter"]=3,
@@ -17465,7 +17465,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["stiligwarr-spineshatter"]=5,
 	["stilldairy-spineshatter"]=12,
 	["stimulate-thunderstrike"]=5,
-	["stimulation-spineshatter"]=2,
+	["stimulation-spineshatter"]=17,
 	["stinkschnidl-spineshatter"]=4,
 	["stiopa-thunderstrike"]=9,
 	["stivpinne-spineshatter"]=1,
