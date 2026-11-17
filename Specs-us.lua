@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5205 characters, read 2026-11-16 10:59 PM.
+-- Region us, 5205 characters, read 2026-11-16 11:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3466,7 +3466,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["prototypeceo-pagle"]=20,
 	["proudfather-lei-shen"]=40,
 	["proudgoyim-raden"]=10,
-	["próxan-pagle"]=21,
 	["pserverfreak-raden"]=11,
 	["psfive-pagle"]=40,
 	["psicoloca-pagle"]=11,
@@ -8143,7 +8142,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["nastyhealz-pagle"]=9,
 	["nastynate-galakras"]=3,
 	["nastytaint-galakras"]=8,
-	["natalia-raden"]=14,
+	["natalia-raden"]=34,
 	["natasteps-galakras"]=29,
 	["nathaniel-lei-shen"]=5,
 	["nattypriest-pagle"]=9,
@@ -8583,7 +8582,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["proudfather-lei-shen"]=5,
 	["proudgoyim-raden"]=7,
 	["prowlr-pagle"]=0,
-	["próxan-pagle"]=6,
+	["próxan-pagle"]=0,
 	["pserverfreak-raden"]=1,
 	["psfive-pagle"]=5,
 	["psicoloca-pagle"]=9,
