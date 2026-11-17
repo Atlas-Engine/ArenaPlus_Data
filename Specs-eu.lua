@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5375 characters, read 2026-11-17 12:00 PM.
+-- Region eu, 5377 characters, read 2026-11-17 01:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -841,6 +841,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["coulozx-shekzeer"]=11,
 	["cptnmandøs-everlook"]=50,
 	["craawe-shekzeer"]=41,
+	["crabzxtrapzx-shekzeer"]=11,
 	["cracktheskye-garalon"]=11,
 	["craky-hoptallus"]=110,
 	["cranekickfan-shekzeer"]=11,
@@ -2453,6 +2454,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["maléficia-auberdine"]=51,
 	["malfik-auberdine"]=20,
 	["mallaziec-shekzeer"]=10,
+	["malte-shekzeer"]=41,
 	["malttazar-garalon"]=11,
 	["malttazar-shekzeer"]=11,
 	["malttezer-shekzeer"]=11,
@@ -5992,6 +5994,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["coulozx-shekzeer"]=6,
 	["cptnmandøs-everlook"]=12,
 	["craawe-shekzeer"]=21,
+	["crabzxtrapzx-shekzeer"]=4,
 	["cracktheskye-garalon"]=5,
 	["craky-hoptallus"]=16,
 	["cranekickfan-shekzeer"]=7,
@@ -7690,6 +7693,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["maléficia-auberdine"]=22,
 	["malfik-auberdine"]=23,
 	["mallaziec-shekzeer"]=4,
+	["malte-shekzeer"]=9,
 	["malttazar-garalon"]=7,
 	["malttazar-shekzeer"]=1,
 	["malttezer-shekzeer"]=17,
