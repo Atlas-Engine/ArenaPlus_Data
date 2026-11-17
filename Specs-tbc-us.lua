@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9329 characters, read 2026-11-17 08:58 AM.
+-- Region tbc-us, 9329 characters, read 2026-11-17 09:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12525,7 +12525,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["grumpyw-nightslayer"]=2,
 	["gslust-nightslayer"]=24,
 	["gsung-nightslayer"]=13,
-	["gthangz-nightslayer"]=19,
+	["gthangz-nightslayer"]=10,
 	["gtokqt-dreamscythe"]=10,
 	["gtokxyz-dreamscythe"]=5,
 	["guacatazo-nightslayer"]=11,
@@ -15690,7 +15690,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["rackcitybih-nightslayer"]=1,
 	["radagaz-nightslayer"]=4,
 	["radiantwist-nightslayer"]=11,
-	["radthai-dreamscythe"]=9,
+	["radthai-dreamscythe"]=25,
 	["ráé-nightslayer"]=13,
 	["råe-nightslayer"]=2,
 	["raekorx-nightslayer"]=18,
@@ -15815,7 +15815,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["reeitz-nightslayer"]=9,
 	["reekz-nightslayer"]=2,
 	["reesonabull-nightslayer"]=3,
-	["reesons-nightslayer"]=5,
+	["reesons-nightslayer"]=8,
 	["reeview-nightslayer"]=13,
 	["reezy-nightslayer"]=18,
 	["reflectionn-nightslayer"]=0,

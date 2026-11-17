@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5205 characters, read 2026-11-17 08:59 AM.
+-- Region us, 5205 characters, read 2026-11-17 09:55 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5754,7 +5754,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["chaossy-pagle"]=24,
 	["chaotichunts-galakras"]=0,
 	["chaoticrush-lei-shen"]=24,
-	["charleez-nazgrim"]=21,
+	["charleez-nazgrim"]=9,
 	["charruesal-raden"]=3,
 	["chathdria-nazgrim"]=9,
 	["chaturbater-pagle"]=14,
@@ -5860,7 +5860,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["concencrapes-pagle"]=2,
 	["conclusive-galakras"]=3,
 	["conjrexcuses-pagle"]=1,
-	["constantinej-raden"]=13,
+	["constantinej-raden"]=9,
 	["coochiemnstr-raden"]=1,
 	["coorsbanq-galakras"]=20,
 	["cooterflute-raden"]=7,
@@ -6475,7 +6475,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["fáded-pagle"]=21,
 	["fadingstars-pagle"]=17,
 	["faex-arugal-au"]=1,
-	["faexypriest-arugal-au"]=13,
+	["faexypriest-arugal-au"]=9,
 	["faiderh-nazgrim"]=20,
 	["faiders-raden"]=3,
 	["failaxz-raden"]=3,
@@ -7147,7 +7147,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ihealinufeel-pagle"]=5,
 	["ihealufeelz-pagle"]=2,
 	["ihuntyourmum-arugal-au"]=3,
-	["iightz-raden"]=21,
+	["iightz-raden"]=9,
 	["ikillondc-raden"]=4,
 	["ikillufeel-pagle"]=24,
 	["ikillufeelz-pagle"]=20,
@@ -8556,7 +8556,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["porkfriedrai-immerseus"]=4,
 	["portholio-pagle"]=4,
 	["potatoes-arugal-au"]=18,
-	["pouletpoulet-pagle"]=13,
+	["pouletpoulet-pagle"]=9,
 	["pöwër-raden"]=16,
 	["ppaozh-raden"]=3,
 	["ppgp-raden"]=1,
@@ -8864,7 +8864,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["rougeone-pagle"]=29,
 	["roulette-pagle"]=5,
 	["roxxe-raden"]=2,
-	["royalflush-pagle"]=21,
+	["royalflush-pagle"]=9,
 	["royalkelly-raden"]=21,
 	["royalpaladin-lei-shen"]=32,
 	["royalqt-pagle"]=2,
@@ -10050,7 +10050,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["xntrixxz-arugal-au"]=5,
 	["xoap-raden"]=3,
 	["xóchitl-galakras"]=9,
-	["xotchita-raden"]=13,
+	["xotchita-raden"]=9,
 	["xoxem-raden"]=5,
 	["xposty-pagle"]=6,
 	["xråe-pagle"]=20,
