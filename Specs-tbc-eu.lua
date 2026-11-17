@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9606 characters, read 2026-11-17 03:59 PM.
+-- Region tbc-eu, 9606 characters, read 2026-11-17 04:54 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9737,7 +9737,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["ambroisie-spineshatter"]=2,
 	["ambushador-spineshatter"]=3,
 	["amby-spineshatter"]=11,
-	["amecess-thunderstrike"]=11,
+	["amecess-thunderstrike"]=12,
 	["amgcenter-spineshatter"]=9,
 	["amigotoyota-spineshatter"]=7,
 	["amiirr-spineshatter"]=25,
@@ -10656,7 +10656,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["callelock-spineshatter"]=18,
 	["callistus-spineshatter"]=15,
 	["callmeslo-spineshatter"]=9,
-	["callmewhtevr-spineshatter"]=1,
+	["callmewhtevr-spineshatter"]=20,
 	["calsoti-spineshatter"]=5,
 	["caluvz-thunderstrike"]=2,
 	["câlvasse-spineshatter"]=13,
@@ -11758,7 +11758,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["ebrinait-spineshatter"]=3,
 	["ecatherina-spineshatter"]=26,
 	["echoloa-spineshatter"]=17,
-	["eclairz-thunderstrike"]=3,
+	["eclairz-thunderstrike"]=19,
 	["eclìpso-spineshatter"]=3,
 	["ecrøf-spineshatter"]=24,
 	["ecthoor-spineshatter"]=2,
@@ -13226,7 +13226,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["Íspøvéð-spineshatter"]=2,
 	["isputs-spineshatter"]=1,
 	["isputsftw-spineshatter"]=13,
-	["israhxz-spineshatter"]=17,
+	["israhxz-spineshatter"]=2,
 	["isydor-spineshatter"]=25,
 	["isyllia-spineshatter"]=2,
 	["isymilk-spineshatter"]=1,
@@ -13369,7 +13369,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["jenii-spineshatter"]=19,
 	["jenmaclure-spineshatter"]=9,
 	["jenspam-spineshatter"]=15,
-	["jentak-thunderstrike"]=2,
+	["jentak-thunderstrike"]=8,
 	["jepo-spineshatter"]=9,
 	["jeppzoon-spineshatter"]=8,
 	["jerem-spineshatter"]=13,
@@ -14914,7 +14914,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["mørtlock-spineshatter"]=11,
 	["mortlol-spineshatter"]=3,
 	["moschlord-spineshatter"]=23,
-	["moscuerta-spineshatter"]=10,
+	["moscuerta-spineshatter"]=7,
 	["mósha-thunderstrike"]=2,
 	["moshmongo-spineshatter"]=12,
 	["moshu-thunderstrike"]=4,
