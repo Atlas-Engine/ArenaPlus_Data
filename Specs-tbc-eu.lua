@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9600 characters, read 2026-11-17 01:59 AM.
+-- Region tbc-eu, 9600 characters, read 2026-11-17 02:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12627,7 +12627,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["greganíus-thunderstrike"]=7,
 	["gregorus-spineshatter"]=2,
 	["gremitza-thunderstrike"]=4,
-	["grendobööge-spineshatter"]=2,
+	["grendobööge-spineshatter"]=17,
 	["gressilqtp-spineshatter"]=11,
 	["grieef-spineshatter"]=13,
 	["griefx-spineshatter"]=3,
@@ -15875,7 +15875,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["pompaule-spineshatter"]=2,
 	["pomshaman-spineshatter"]=23,
 	["pomvano-spineshatter"]=9,
-	["ponttooni-spineshatter"]=8,
+	["ponttooni-spineshatter"]=2,
 	["ponyslayer-spineshatter"]=19,
 	["poochi-spineshatter"]=7,
 	["poofieyo-spineshatter"]=5,
@@ -17986,7 +17986,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["torchuw-spineshatter"]=1,
 	["tornhe-spineshatter"]=14,
 	["torstenorcw-spineshatter"]=5,
-	["torstenrog-spineshatter"]=3,
+	["torstenrog-spineshatter"]=19,
 	["torstenwarr-spineshatter"]=5,
 	["törtchen-spineshatter"]=2,
 	["toscane-spineshatter"]=12,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5205 characters, read 2026-11-17 01:59 AM.
+-- Region us, 5205 characters, read 2026-11-17 02:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3254,6 +3254,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["onelastdiddy-pagle"]=11,
 	["onelasthero-raden"]=10,
 	["onepiecem-pagle"]=11,
+	["onëshotwar-raden"]=11,
 	["onirius-pagle"]=10,
 	["onlybabynugz-raden"]=70,
 	["onlyfatnugz-galakras"]=20,
@@ -8360,6 +8361,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["onelastdiddy-pagle"]=10,
 	["onelasthero-raden"]=2,
 	["onepiecem-pagle"]=4,
+	["onëshotwar-raden"]=7,
 	["onirius-pagle"]=1,
 	["onlybabynugz-raden"]=1,
 	["onlyfatnugz-galakras"]=1,
@@ -8582,7 +8584,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["proudfather-lei-shen"]=5,
 	["proudgoyim-raden"]=7,
 	["prowlr-pagle"]=0,
-	["próxan-pagle"]=0,
 	["pserverfreak-raden"]=1,
 	["psfive-pagle"]=5,
 	["psicoloca-pagle"]=9,
@@ -10049,7 +10050,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["xntrixxz-arugal-au"]=5,
 	["xoap-raden"]=3,
 	["xóchitl-galakras"]=9,
-	["xotchita-raden"]=9,
+	["xotchita-raden"]=13,
 	["xoxem-raden"]=5,
 	["xposty-pagle"]=6,
 	["xråe-pagle"]=20,
