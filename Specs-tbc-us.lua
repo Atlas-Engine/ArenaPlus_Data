@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9328 characters, read 2026-11-17 06:58 PM.
+-- Region tbc-us, 9328 characters, read 2026-11-17 07:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11596,7 +11596,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["eclipzedd-nightslayer"]=3,
 	["ectroxo-nightslayer"]=8,
 	["eddygordo-nightslayer"]=19,
-	["edhris-dreamscythe"]=18,
+	["edhris-dreamscythe"]=2,
 	["edhristwo-dreamscythe"]=1,
 	["edkamper-nightslayer"]=5,
 	["educate-nightslayer"]=1,
@@ -11630,7 +11630,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["elblanko-nightslayer"]=12,
 	["elcapitank-nightslayer"]=20,
 	["elchingadera-nightslayer"]=10,
-	["eldak-dreamscythe"]=1,
+	["eldak-dreamscythe"]=12,
 	["eldenblingz-nightslayer"]=12,
 	["elðhim-nightslayer"]=1,
 	["elduelisto-nightslayer"]=4,
@@ -16282,7 +16282,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["serinas-nightslayer"]=20,
 	["serinaz-nightslayer"]=7,
 	["seriyon-nightslayer"]=10,
-	["seroqt-nightslayer"]=1,
+	["seroqt-nightslayer"]=12,
 	["sèrpeñt-nightslayer"]=7,
 	["sesamme-nightslayer"]=25,
 	["setback-nightslayer"]=18,

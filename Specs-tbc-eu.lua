@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9614 characters, read 2026-11-17 06:54 PM.
+-- Region tbc-eu, 9614 characters, read 2026-11-17 07:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10028,7 +10028,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["azorak-spineshatter"]=5,
 	["azork-spineshatter"]=11,
 	["azorksham-spineshatter"]=11,
-	["azpow-spineshatter"]=2,
+	["azpow-spineshatter"]=8,
 	["azroug-spineshatter"]=19,
 	["azrù-spineshatter"]=5,
 	["azsham-spineshatter"]=11,
@@ -12287,7 +12287,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["flixahtwo-spineshatter"]=11,
 	["flobby-spineshatter"]=1,
 	["floopz-spineshatter"]=3,
-	["floopzx-spineshatter"]=17,
+	["floopzx-spineshatter"]=2,
 	["floopzy-spineshatter"]=1,
 	["floozy-spineshatter"]=15,
 	["floverten-spineshatter"]=15,
@@ -15443,7 +15443,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["nurfzy-spineshatter"]=1,
 	["nurofen-spineshatter"]=1,
 	["nushak-thunderstrike"]=26,
-	["nutcracky-spineshatter"]=4,
+	["nutcracky-spineshatter"]=9,
 	["nutellaskurk-spineshatter"]=3,
 	["nutlust-spineshatter"]=23,
 	["nuttý-spineshatter"]=15,
@@ -15681,7 +15681,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["pandepe-spineshatter"]=1,
 	["pandox-spineshatter"]=7,
 	["panem-spineshatter"]=2,
-	["panicspank-spineshatter"]=4,
+	["panicspank-spineshatter"]=9,
 	["panikchemo-spineshatter"]=15,
 	["paniktarace-thunderstrike"]=12,
 	["panova-spineshatter"]=9,
@@ -16684,7 +16684,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["satisfiedz-spineshatter"]=5,
 	["satisfyx-spineshatter"]=2,
 	["satisfyz-spineshatter"]=4,
-	["satny-spineshatter"]=9,
+	["satny-spineshatter"]=4,
 	["satorusrazor-thunderstrike"]=13,
 	["sattarj-spineshatter"]=2,
 	["säulenjunkíe-spineshatter"]=1,
@@ -18012,7 +18012,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["toptoro-spineshatter"]=3,
 	["toradus-spineshatter"]=12,
 	["torat-spineshatter"]=13,
-	["torchuw-spineshatter"]=1,
+	["torchuw-spineshatter"]=20,
 	["tornhe-spineshatter"]=14,
 	["torstenorcw-spineshatter"]=5,
 	["torstenrog-spineshatter"]=19,
