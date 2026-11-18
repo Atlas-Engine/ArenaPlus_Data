@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9342 characters, read 2026-11-18 03:58 AM.
+-- Region tbc-us, 9343 characters, read 2026-11-18 04:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -254,7 +254,6 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["amonamorte-nightslayer"]=11,
 	["amoofi-dreamscythe"]=60,
 	["amorsodemae-nightslayer"]=51,
-	["amrta-nightslayer"]=51,
 	["amsal-nightslayer"]=21,
 	["amuziing-dreamscythe"]=40,
 	["anabolicrl-nightslayer"]=51,
@@ -9457,7 +9456,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["amonamorte-nightslayer"]=9,
 	["amoofi-dreamscythe"]=19,
 	["amorsodemae-nightslayer"]=12,
-	["amrta-nightslayer"]=1,
+	["amrta-nightslayer"]=0,
 	["amsal-nightslayer"]=2,
 	["amuziing-dreamscythe"]=3,
 	["anabolicrl-nightslayer"]=5,
@@ -10495,6 +10494,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["carlasbooty-nightslayer"]=10,
 	["carlosboozér-nightslayer"]=4,
 	["carltonmon-dreamscythe"]=1,
+	["carmenb-nightslayer"]=0,
 	["carpainter-nightslayer"]=4,
 	["carpetwalker-nightslayer"]=19,
 	["carrotopp-nightslayer"]=6,
@@ -18318,7 +18318,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["xz-nightslayer"]=4,
 	["xzad-nightslayer"]=2,
 	["xzanelol-nightslayer"]=24,
-	["xzmd-nightslayer"]=5,
+	["xzmd-nightslayer"]=8,
 	["xzvcat-nightslayer"]=2,
 	["xzvcatt-nightslayer"]=13,
 	["yaacob-nightslayer"]=3,
