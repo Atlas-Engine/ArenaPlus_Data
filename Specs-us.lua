@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5204 characters, read 2026-11-17 08:59 PM.
+-- Region us, 5204 characters, read 2026-11-17 09:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7483,7 +7483,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["kìngrøach-galakras"]=14,
 	["kinkykirby-raden"]=2,
 	["kinkystwosvn-nazgrim"]=0,
-	["kinoshyba-pagle"]=30,
+	["kinoshyba-pagle"]=7,
 	["kinshiki-galakras"]=14,
 	["kintok-raden"]=26,
 	["kiora-pagle"]=14,
@@ -8720,7 +8720,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["recovery-raden"]=0,
 	["rédcorn-raden"]=6,
 	["redeast-galakras"]=6,
-	["redentress-galakras"]=21,
+	["redentress-galakras"]=13,
 	["redknight-lei-shen"]=7,
 	["rednax-raden"]=24,
 	["redski-pagle"]=0,
@@ -10021,7 +10021,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["xanybar-raden"]=17,
 	["xaravi-raden"]=9,
 	["xarped-nazgrim"]=17,
-	["xatica-pagle"]=14,
+	["xatica-pagle"]=29,
 	["xatyka-pagle"]=1,
 	["xavilier-pagle"]=29,
 	["xb-galakras"]=4,

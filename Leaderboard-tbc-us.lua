@@ -18,7 +18,7 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region tbc-us, season 3, read 2026-11-17 08:58 PM.
+-- Region tbc-us, season 3, read 2026-11-17 09:58 PM.
 -- Realm display names, because the ladder only carries slugs and no rule
 -- turns one back into the other: raden is Ra-den, lei-shen is Lei Shen and
 -- arugal-au is Arugal (AU). Read from Blizzard's realm index; a slug with no
@@ -32,8 +32,8 @@ ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["tbc-us"] = {
 	region  = "tbc-us",
-	checked = "2026-11-17 08:58 PM",
-	checkedEpoch = 1794967095,
+	checked = "2026-11-17 09:58 PM",
+	checkedEpoch = 1794970695,
 	snapshot = "2026-11-18 00:19",
 
 	[1] = {  -- 2v2, 5005 places, down to rating 1486 -- the API stops here, short of the cutoff
@@ -579,18 +579,18 @@ ns.LEADERBOARD_BY_REGION["tbc-us"] = {
 		{ rank=538, name="Oldlee", realm="nightslayer", rating=2127, won=470, lost=425, faction="ALLIANCE", mr=2238, dr=0, dk=4 },
 		{ rank=538, name="Unkowntarget", realm="nightslayer", rating=2127, won=45, lost=26, faction="ALLIANCE", dr=0, dk=4 },
 		{ rank=542, name="Alexixzmay", realm="nightslayer", rating=2126, won=193, lost=169, faction="HORDE", mr=2250, dr=0, dk=4 },
-		{ rank=543, name="Choomah", realm="dreamscythe", rating=2125, won=149, lost=114, faction="HORDE", mr=2160, dr=0, dk=4 },
-		{ rank=544, name="Hmach", realm="nightslayer", rating=2124, won=31, lost=19, faction="ALLIANCE", dr=0, dk=4 },
-		{ rank=544, name="Sisisonson", realm="nightslayer", rating=2124, won=53, lost=24, faction="ALLIANCE", dr=0, dk=4 },
-		{ rank=544, name="Tycat", realm="nightslayer", rating=2124, won=158, lost=128, faction="HORDE", dr=10, dk=-32 },
-		{ rank=547, name="Gawtchax", realm="nightslayer", rating=2123, won=92, lost=74, faction="ALLIANCE", dr=0, dk=5 },
-		{ rank=547, name="Pagess", realm="nightslayer", rating=2123, won=84, lost=50, faction="ALLIANCE", dr=0, dk=5 },
-		{ rank=549, name="Benetanyahu", realm="nightslayer", rating=2122, won=165, lost=117, faction="ALLIANCE", mr=2216, dr=0, dk=4 },
-		{ rank=549, name="Fannypacker", realm="nightslayer", rating=2122, won=158, lost=129, faction="HORDE", dr=10, dk=-36 },
-		{ rank=549, name="Melonpop", realm="nightslayer", rating=2122, won=39, lost=16, faction="ALLIANCE", dr=0, dk=4 },
-		{ rank=549, name="Nekryss", realm="nightslayer", rating=2122, won=51, lost=38, faction="ALLIANCE", dr=0, dk=4 },
-		{ rank=549, name="Shtewy", realm="nightslayer", rating=2122, won=52, lost=40, faction="ALLIANCE", dr=0, dk=4 },
-		{ rank=549, name="Slayboys", realm="nightslayer", rating=2122, won=257, lost=205, faction="ALLIANCE", dr=0, dk=4 },
+		{ rank=542, name="Tycat", realm="nightslayer", rating=2126, won=160, lost=128, faction="HORDE", dr=12, dk=-34 },
+		{ rank=544, name="Choomah", realm="dreamscythe", rating=2125, won=149, lost=114, faction="HORDE", mr=2160, dr=0, dk=5 },
+		{ rank=544, name="Fannypacker", realm="nightslayer", rating=2125, won=160, lost=129, faction="HORDE", dr=13, dk=-41 },
+		{ rank=546, name="Hmach", realm="nightslayer", rating=2124, won=31, lost=19, faction="ALLIANCE", dr=0, dk=6 },
+		{ rank=546, name="Sisisonson", realm="nightslayer", rating=2124, won=53, lost=24, faction="ALLIANCE", dr=0, dk=6 },
+		{ rank=548, name="Gawtchax", realm="nightslayer", rating=2123, won=92, lost=74, faction="ALLIANCE", dr=0, dk=6 },
+		{ rank=548, name="Pagess", realm="nightslayer", rating=2123, won=84, lost=50, faction="ALLIANCE", dr=0, dk=6 },
+		{ rank=550, name="Benetanyahu", realm="nightslayer", rating=2122, won=165, lost=117, faction="ALLIANCE", mr=2216, dr=0, dk=5 },
+		{ rank=550, name="Melonpop", realm="nightslayer", rating=2122, won=39, lost=16, faction="ALLIANCE", dr=0, dk=5 },
+		{ rank=550, name="Nekryss", realm="nightslayer", rating=2122, won=51, lost=38, faction="ALLIANCE", dr=0, dk=5 },
+		{ rank=550, name="Shtewy", realm="nightslayer", rating=2122, won=52, lost=40, faction="ALLIANCE", dr=0, dk=5 },
+		{ rank=550, name="Slayboys", realm="nightslayer", rating=2122, won=257, lost=205, faction="ALLIANCE", dr=0, dk=5 },
 		{ rank=555, name="Nickybigdawg", realm="nightslayer", rating=2121, won=42, lost=23, faction="ALLIANCE", dr=0, dk=5 },
 		{ rank=556, name="Arpsama", realm="nightslayer", rating=2120, won=67, lost=42, faction="HORDE", dr=0, dk=5 },
 		{ rank=556, name="Drgucci", realm="nightslayer", rating=2120, won=235, lost=220, faction="ALLIANCE", dr=0, dk=5 },

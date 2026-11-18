@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9614 characters, read 2026-11-17 08:59 PM.
+-- Region tbc-eu, 9615 characters, read 2026-11-17 09:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3711,6 +3711,7 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["itsgodx-spineshatter"]=30,
 	["itsnopriest-thunderstrike"]=51,
 	["itspapi-spineshatter"]=21,
+	["itsrng-spineshatter"]=50,
 	["itsthesmash-spineshatter"]=21,
 	["itten-spineshatter"]=30,
 	["iùl-spineshatter"]=21,
@@ -12060,7 +12061,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["extracare-spineshatter"]=5,
 	["extramental-thunderstrike"]=23,
 	["extraspicyx-spineshatter"]=5,
-	["extrmways-spineshatter"]=19,
+	["extrmways-spineshatter"]=3,
 	["exycosa-spineshatter"]=5,
 	["eyebreaker-spineshatter"]=15,
 	["eyelessqt-spineshatter"]=3,
@@ -13250,6 +13251,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["itsgodx-spineshatter"]=2,
 	["itsnopriest-thunderstrike"]=2,
 	["itspapi-spineshatter"]=15,
+	["itsrng-spineshatter"]=3,
 	["itsthesmash-spineshatter"]=11,
 	["itten-spineshatter"]=2,
 	["iùl-spineshatter"]=15,
@@ -14579,12 +14581,12 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["maxa-spineshatter"]=9,
 	["maxfear-spineshatter"]=5,
 	["maxheals-spineshatter"]=2,
-	["maximagain-spineshatter"]=9,
+	["maximagain-spineshatter"]=4,
 	["maximgayge-spineshatter"]=9,
 	["maximgg-spineshatter"]=3,
 	["maxj-spineshatter"]=3,
 	["maxky-spineshatter"]=6,
-	["maxmakker-spineshatter"]=2,
+	["maxmakker-spineshatter"]=17,
 	["maxóu-thunderstrike"]=3,
 	["maxråger-spineshatter"]=12,
 	["maxtilolz-spineshatter"]=13,
@@ -18682,7 +18684,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["worstdruidx-spineshatter"]=1,
 	["wørstðwarf-spineshatter"]=5,
 	["wotii-spineshatter"]=3,
-	["wotiw-spineshatter"]=5,
+	["wotiw-spineshatter"]=15,
 	["wotiww-spineshatter"]=15,
 	["wotlkisdgsht-spineshatter"]=11,
 	["wotlkwar-spineshatter"]=5,
