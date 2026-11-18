@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9343 characters, read 2026-11-18 11:58 AM.
+-- Region tbc-us, 9343 characters, read 2026-11-18 12:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11671,7 +11671,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["elimjr-nightslayer"]=18,
 	["elitebeat-nightslayer"]=15,
 	["elivicky-nightslayer"]=4,
-	["elivvood-dreamscythe"]=7,
+	["elivvood-dreamscythe"]=3,
 	["ellajiayi-nightslayer"]=4,
 	["elleiria-nightslayer"]=13,
 	["ellev-dreamscythe"]=10,
@@ -12291,7 +12291,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["gengiscon-nightslayer"]=8,
 	["geniusbeast-nightslayer"]=7,
 	["gennis-nightslayer"]=4,
-	["gennisp-nightslayer"]=1,
+	["gennisp-nightslayer"]=14,
 	["gennisw-nightslayer"]=2,
 	["gennys-nightslayer"]=19,
 	["gensai-nightslayer"]=5,
@@ -12902,7 +12902,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["hugemantys-nightslayer"]=2,
 	["huggibear-dreamscythe"]=13,
 	["huggibow-dreamscythe"]=15,
-	["hughjaynas-dreamscythe"]=1,
+	["hughjaynas-dreamscythe"]=12,
 	["huka-nightslayer"]=8,
 	["huku-nightslayer"]=20,
 	["hulkdaddy-nightslayer"]=2,
@@ -17427,7 +17427,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["tifaz-dreamscythe"]=11,
 	["tigeres-dreamscythe"]=3,
 	["tigertails-nightslayer"]=13,
-	["tightbussi-nightslayer"]=9,
+	["tightbussi-nightslayer"]=11,
 	["tigolbiddis-dreamscythe"]=10,
 	["tikibo-nightslayer"]=19,
 	["tikz-nightslayer"]=13,

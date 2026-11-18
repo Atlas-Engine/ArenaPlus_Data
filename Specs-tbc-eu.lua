@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9615 characters, read 2026-11-18 11:59 AM.
+-- Region tbc-eu, 9615 characters, read 2026-11-18 12:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9933,7 +9933,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["athenëwins-spineshatter"]=10,
 	["athexyo-spineshatter"]=4,
 	["athleet-spineshatter"]=15,
-	["athlyn-spineshatter"]=6,
+	["athlyn-spineshatter"]=1,
 	["atiy-spineshatter"]=2,
 	["atlifatli-spineshatter"]=7,
 	["atmosphere-spineshatter"]=3,
@@ -14799,7 +14799,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["mishimushi-spineshatter"]=5,
 	["missinpurge-spineshatter"]=11,
 	["missjapan-spineshatter"]=4,
-	["missmysoul-spineshatter"]=2,
+	["missmysoul-spineshatter"]=17,
 	["missnevèr-spineshatter"]=3,
 	["missnova-spineshatter"]=9,
 	["misspoulpe-spineshatter"]=12,
@@ -14816,7 +14816,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["mitsa-thunderstrike"]=11,
 	["mixidermixer-spineshatter"]=19,
 	["mixt-spineshatter"]=3,
-	["miyabix-spineshatter"]=24,
+	["miyabix-spineshatter"]=25,
 	["miyazakibeef-spineshatter"]=1,
 	["miyukix-spineshatter"]=2,
 	["míza-spineshatter"]=11,
@@ -14829,7 +14829,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["mkol-spineshatter"]=19,
 	["mkxo-spineshatter"]=20,
 	["mkzy-spineshatter"]=3,
-	["mladakocka-spineshatter"]=26,
+	["mladakocka-spineshatter"]=10,
 	["mlns-spineshatter"]=5,
 	["mlur-spineshatter"]=1,
 	["mmduja-spineshatter"]=2,
@@ -18358,7 +18358,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["vearnn-spineshatter"]=4,
 	["ved-spineshatter"]=3,
 	["vedklabb-spineshatter"]=1,
-	["vedol-thunderstrike"]=13,
+	["vedol-thunderstrike"]=18,
 	["vedtjuv-spineshatter"]=12,
 	["veez-spineshatter"]=3,
 	["vegeguayz-thunderstrike"]=3,

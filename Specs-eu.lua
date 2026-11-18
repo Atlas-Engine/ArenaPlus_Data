@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5378 characters, read 2026-11-18 12:00 PM.
+-- Region eu, 5378 characters, read 2026-11-18 01:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1821,7 +1821,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["indié-everlook"]=11,
 	["indîe-everlook"]=11,
 	["ineedtopoo-shekzeer"]=10,
-	["ineo-shekzeer"]=10,
+	["ineo-shekzeer"]=11,
 	["inertemplier-shekzeer"]=10,
 	["infection-shekzeer"]=10,
 	["infectiøns-auberdine"]=11,
@@ -7850,7 +7850,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["missgrip-sulfuron"]=0,
 	["missisclone-shekzeer"]=11,
 	["missota-shekzeer"]=11,
-	["missotalock-shekzeer"]=23,
+	["missotalock-shekzeer"]=17,
 	["missotawarr-shekzeer"]=1,
 	["mistclicked-shekzeer"]=6,
 	["mistgeneral-shekzeer"]=6,
@@ -9011,7 +9011,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["skatokolos-shekzeer"]=0,
 	["skepnad-mirage-raceway"]=12,
 	["skinnypsycho-shekzeer"]=3,
-	["skinnywintrd-shekzeer"]=3,
+	["skinnywintrd-shekzeer"]=11,
 	["skinwalker-garalon"]=11,
 	["skinwalker-shekzeer"]=11,
 	["skonark-auberdine"]=1,
@@ -9917,7 +9917,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["xladerzg-shekzeer"]=1,
 	["xladerzw-shekzeer"]=23,
 	["xmm-shekzeer"]=4,
-	["xnavis-hoptallus"]=17,
+	["xnavis-hoptallus"]=23,
 	["xnixd-shekzeer"]=13,
 	["xomeus-shekzeer"]=2,
 	["xony-shekzeer"]=2,
