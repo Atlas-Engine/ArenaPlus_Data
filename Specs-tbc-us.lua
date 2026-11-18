@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9343 characters, read 2026-11-18 03:58 PM.
+-- Region tbc-us, 9343 characters, read 2026-11-18 04:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12192,7 +12192,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["fungdark-nightslayer"]=19,
 	["funkalunk-nightslayer"]=2,
 	["funkshock-nightslayer"]=10,
-	["funktron-nightslayer"]=4,
+	["funktron-nightslayer"]=6,
 	["funkywhale-nightslayer"]=7,
 	["fupajiggle-nightslayer"]=7,
 	["furg-nightslayer"]=5,
@@ -12299,7 +12299,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["gentlehealer-dreamscythe"]=7,
 	["genyuwine-dreamscythe"]=16,
 	["geoffbear-nightslayer"]=3,
-	["geoffepsteen-nightslayer"]=1,
+	["geoffepsteen-nightslayer"]=12,
 	["geofftank-nightslayer"]=2,
 	["geolol-nightslayer"]=7,
 	["geonma-nightslayer"]=2,
@@ -14353,7 +14353,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["memegodz-nightslayer"]=1,
 	["mememashu-nightslayer"]=12,
 	["memer-nightslayer"]=18,
-	["memoriës-nightslayer"]=4,
+	["memoriës-nightslayer"]=6,
 	["mémphis-nightslayer"]=8,
 	["memz-dreamscythe"]=19,
 	["mendcery-nightslayer"]=14,
@@ -17162,7 +17162,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["sweétbólt-nightslayer"]=10,
 	["sweorcan-dreamscythe"]=1,
 	["swerti-nightslayer"]=5,
-	["swervejr-nightslayer"]=7,
+	["swervejr-nightslayer"]=22,
 	["swervexo-nightslayer"]=10,
 	["swiftd-nightslayer"]=7,
 	["swiftsteps-nightslayer"]=5,
