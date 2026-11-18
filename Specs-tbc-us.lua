@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9343 characters, read 2026-11-18 06:58 AM.
+-- Region tbc-us, 9343 characters, read 2026-11-18 07:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -13951,7 +13951,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["linorchid-nightslayer"]=7,
 	["linshift-nightslayer"]=3,
 	["lion-nightslayer"]=5,
-	["lionette-dreamscythe"]=2,
+	["lionette-dreamscythe"]=18,
 	["lipopx-nightslayer"]=8,
 	["liquidbrown-nightslayer"]=2,
 	["liquidlux-dreamscythe"]=14,
@@ -13974,7 +13974,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["llamallamaa-dreamscythe"]=21,
 	["lls-nightslayer"]=6,
 	["lluminati-nightslayer"]=25,
-	["lmaoidiot-nightslayer"]=13,
+	["lmaoidiot-nightslayer"]=16,
 	["lmerch-dreamscythe"]=1,
 	["lmnc-nightslayer"]=1,
 	["lmnllam-nightslayer"]=15,
@@ -15200,7 +15200,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["pahasapa-dreamscythe"]=7,
 	["pahlaundoh-nightslayer"]=11,
 	["páinkiller-nightslayer"]=11,
-	["paiñsup-nightslayer"]=1,
+	["paiñsup-nightslayer"]=12,
 	["painulti-nightslayer"]=10,
 	["paladynn-nightslayer"]=1,
 	["palajuan-nightslayer"]=9,

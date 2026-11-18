@@ -18,7 +18,7 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region us, season 14, read 2026-11-18 06:59 AM.
+-- Region us, season 14, read 2026-11-18 07:59 AM.
 -- Realm display names, because the ladder only carries slugs and no rule
 -- turns one back into the other: raden is Ra-den, lei-shen is Lei Shen and
 -- arugal-au is Arugal (AU). Read from Blizzard's realm index; a slug with no
@@ -35,9 +35,9 @@ ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["us"] = {
 	region  = "us",
-	checked = "2026-11-18 06:59 AM",
-	checkedEpoch = 1795003169,
-	snapshot = "2026-11-18 09:26",
+	checked = "2026-11-18 07:59 AM",
+	checkedEpoch = 1795006769,
+	snapshot = "2026-11-18 12:26",
 
 	[1] = {  -- 2v2, 5002 places, down to rating 1135 -- the API stops here, short of the cutoff
 		{ rank=1, name="Gånnicus", realm="raden", rating=2859, won=353, lost=98, faction="ALLIANCE", dr=0, dk=0 },
@@ -2964,9 +2964,9 @@ ns.LEADERBOARD_BY_REGION["us"] = {
 		{ rank=2912, name="Triis", realm="pagle", rating=1780, won=45, lost=83, faction="ALLIANCE", dr=0, dk=2 },
 		{ rank=2912, name="Warriorzev", realm="raden", rating=1780, won=72, lost=79, faction="ALLIANCE", mr=1857, dr=0, dk=2 },
 		{ rank=2924, name="Erimdog", realm="pagle", rating=1779, won=82, lost=74, faction="ALLIANCE", dr=0, dk=1 },
+		{ rank=2924, name="Eternalgød", realm="immerseus", rating=1779, won=1360, lost=2274, faction="HORDE" },
 		{ rank=2924, name="Papismash", realm="pagle", rating=1779, won=84, lost=65, faction="ALLIANCE", dr=0, dk=1 },
 		{ rank=2924, name="Triskets", realm="pagle", rating=1779, won=60, lost=71, faction="HORDE", mr=1790, dr=0, dk=1 },
-		{ rank=2924, name="Undeadgød", realm="immerseus", rating=1779, won=1360, lost=2274, faction="HORDE", mr=1973, dr=-70, dk=515 },
 		{ rank=2928, name="Albomane", realm="pagle", rating=1778, won=184, lost=214, faction="HORDE", dr=0, dk=2 },
 		{ rank=2928, name="Crysisdeath", realm="pagle", rating=1778, won=55, lost=55, faction="ALLIANCE", dr=0, dk=2 },
 		{ rank=2928, name="Heliós", realm="nazgrim", rating=1778, won=41, lost=37, faction="HORDE", dr=0, dk=2 },
