@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9615 characters, read 2026-11-18 01:59 AM.
+-- Region tbc-eu, 9615 characters, read 2026-11-18 02:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12500,7 +12500,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["gepezet-spineshatter"]=9,
 	["gepie-spineshatter"]=4,
 	["geps-spineshatter"]=5,
-	["gepsun-spineshatter"]=8,
+	["gepsun-spineshatter"]=2,
 	["geraltdériv-spineshatter"]=3,
 	["geso-spineshatter"]=6,
 	["getbanned-spineshatter"]=10,
@@ -18258,7 +18258,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["unrepeatable-spineshatter"]=13,
 	["unstunable-spineshatter"]=5,
 	["untamed-spineshatter"]=3,
-	["unvacinated-spineshatter"]=6,
+	["unvacinated-spineshatter"]=20,
 	["unyielded-spineshatter"]=2,
 	["Üpsilon-spineshatter"]=11,
 	["uranaji-spineshatter"]=2,
@@ -18640,7 +18640,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["winnielol-spineshatter"]=17,
 	["winnyx-spineshatter"]=23,
 	["winri-thunderstrike"]=1,
-	["wintrader-thunderstrike"]=2,
+	["wintrader-thunderstrike"]=8,
 	["wippaa-spineshatter"]=13,
 	["wippz-spineshatter"]=25,
 	["wirdschon-thunderstrike"]=5,
