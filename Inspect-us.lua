@@ -42,7 +42,7 @@ local ns = ArenaPlusData
 -- source_item, so gems are stored as real item ids the client can draw and only
 -- the enchant text has to ship.
 --
--- Region us, 443 characters, 391 glyph names, read 2026-11-18 11:20 AM.
+-- Region us, 443 characters, 391 glyph names, read 2026-11-18 02:20 PM.
 ns.GLYPH_NAMES = ns.GLYPH_NAMES or {}
 
 for id, name in pairs({
@@ -445,33 +445,13 @@ for id, name in pairs({
 ns.TALENT_NAMES = ns.TALENT_NAMES or {}
 
 for id, name in pairs({
-	[14062]="Nightstalker",
-	[31230]="Cheat Death",
-	[74001]="Combat Readiness",
-	[79008]="Elusiveness",
-	[108208]="Subterfuge",
-	[108210]="Nerve Strike",
-	[108212]="Burst of Speed",
-	[108215]="Paralytic Poison",
 	[109212]="Spirit Bond",
 	[109248]="Binding Shot",
 	[109306]="Thrill of the Hunt",
-	[115008]="Chi Torpedo",
-	[115098]="Chi Wave",
-	[115173]="Celerity",
-	[115396]="Ascension",
-	[115399]="Chi Brew",
-	[116841]="Tiger's Lust",
 	[117050]="Glaive Toss",
 	[118675]="Crouching Tiger, Hidden Chimera",
-	[119381]="Leg Sweep",
-	[119392]="Charging Ox Wave",
 	[120679]="Dire Beast",
-	[122280]="Healing Elixirs",
-	[123904]="Invoke Xuen, the White Tiger",
-	[131511]="Prey on the Weak",
 	[131894]="A Murder of Crows",
-	[137619]="Marked for Death",
 }) do ns.TALENT_NAMES[id] = name end
 
 -- Which talent a rank-spell belongs to, and how many ranks that talent has.
