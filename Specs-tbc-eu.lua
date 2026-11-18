@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9614 characters, read 2026-11-17 07:59 PM.
+-- Region tbc-eu, 9614 characters, read 2026-11-17 08:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10428,7 +10428,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["bobblegubben-spineshatter"]=2,
 	["bõbby-spineshatter"]=11,
 	["bobbyeldo-spineshatter"]=6,
-	["bobbyoom-spineshatter"]=2,
+	["bobbyoom-spineshatter"]=8,
 	["bobbyrizzler-spineshatter"]=9,
 	["bobichi-spineshatter"]=1,
 	["bobjim-spineshatter"]=13,
@@ -12543,7 +12543,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["ginosan-spineshatter"]=3,
 	["giomeleon-thunderstrike"]=3,
 	["gioxo-thunderstrike"]=1,
-	["giozard-thunderstrike"]=9,
+	["giozard-thunderstrike"]=4,
 	["gíps-spineshatter"]=2,
 	["girionich-spineshatter"]=19,
 	["girionych-spineshatter"]=5,
@@ -12646,7 +12646,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["greganíus-thunderstrike"]=7,
 	["gregorus-spineshatter"]=2,
 	["gremitza-thunderstrike"]=4,
-	["grendobööge-spineshatter"]=17,
+	["grendobööge-spineshatter"]=2,
 	["gressilqtp-spineshatter"]=11,
 	["grieef-spineshatter"]=13,
 	["griefx-spineshatter"]=3,
@@ -15998,7 +15998,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["prolame-thunderstrike"]=9,
 	["prolapsi-spineshatter"]=3,
 	["promisque-spineshatter"]=3,
-	["promithius-spineshatter"]=5,
+	["promithius-spineshatter"]=22,
 	["prophacy-spineshatter"]=5,
 	["prophacyx-spineshatter"]=15,
 	["propshields-spineshatter"]=2,
@@ -16125,7 +16125,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["qpidx-spineshatter"]=1,
 	["qqn-spineshatter"]=10,
 	["qqwwd-spineshatter"]=17,
-	["qrissii-thunderstrike"]=3,
+	["qrissii-thunderstrike"]=19,
 	["qrissiie-thunderstrike"]=2,
 	["qristi-spineshatter"]=8,
 	["qronn-thunderstrike"]=19,
