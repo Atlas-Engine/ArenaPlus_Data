@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9343 characters, read 2026-11-18 04:58 PM.
+-- Region tbc-us, 9343 characters, read 2026-11-18 05:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -14487,7 +14487,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["misalsundayy-nightslayer"]=6,
 	["misariko-dreamscythe"]=14,
 	["mishká-nightslayer"]=7,
-	["mishun-nightslayer"]=13,
+	["mishun-nightslayer"]=16,
 	["misogirl-nightslayer"]=13,
 	["missahgt-nightslayer"]=6,
 	["missdiarrhea-dreamscythe"]=18,
@@ -15663,7 +15663,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["qolel-nightslayer"]=1,
 	["qookd-nightslayer"]=1,
 	["qornelius-nightslayer"]=6,
-	["qp-nightslayer"]=4,
+	["qp-nightslayer"]=6,
 	["qpopx-nightslayer"]=11,
 	["qtcutie-nightslayer"]=2,
 	["qterhounder-nightslayer"]=15,
@@ -17698,7 +17698,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ubqtous-nightslayer"]=7,
 	["ubuggincuz-nightslayer"]=9,
 	["uddernutz-nightslayer"]=7,
-	["uddersilence-nightslayer"]=22,
+	["uddersilence-nightslayer"]=7,
 	["Ùgar-nightslayer"]=18,
 	["ughsmash-nightslayer"]=18,
 	["uglyandfat-nightslayer"]=1,
