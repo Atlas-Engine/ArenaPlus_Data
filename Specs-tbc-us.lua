@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9343 characters, read 2026-11-18 08:58 AM.
+-- Region tbc-us, 9343 characters, read 2026-11-18 09:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9718,7 +9718,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["badzor-nightslayer"]=2,
 	["bäe-nightslayer"]=1,
 	["baekek-nightslayer"]=0,
-	["baekgitae-nightslayer"]=23,
+	["baekgitae-nightslayer"]=16,
 	["baekma-nightslayer"]=12,
 	["baerform-nightslayer"]=7,
 	["bàethoven-nightslayer"]=5,
@@ -11563,7 +11563,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["durogonlol-nightslayer"]=15,
 	["dushpanda-nightslayer"]=10,
 	["duskybrah-dreamscythe"]=18,
-	["dustbanned-nightslayer"]=23,
+	["dustbanned-nightslayer"]=16,
 	["dustedx-nightslayer"]=5,
 	["dustfriggenw-nightslayer"]=13,
 	["dusti-nightslayer"]=25,
@@ -13018,7 +13018,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ijustschartd-dreamscythe"]=15,
 	["ikazurum-nightslayer"]=23,
 	["ikedayuji-nightslayer"]=4,
-	["iketv-nightslayer"]=9,
+	["iketv-nightslayer"]=11,
 	["iksrups-nightslayer"]=4,
 	["ikthariusx-nightslayer"]=5,
 	["ikzmaj-nightslayer"]=5,
@@ -13056,7 +13056,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["imreddy-dreamscythe"]=5,
 	["imretired-nightslayer"]=15,
 	["imsaiyan-nightslayer"]=18,
-	["imsoblessed-nightslayer"]=11,
+	["imsoblessed-nightslayer"]=25,
 	["imsocooked-nightslayer"]=0,
 	["imsouglyx-nightslayer"]=8,
 	["imsrymsjaxon-dreamscythe"]=2,
@@ -14062,7 +14062,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["luciemvp-nightslayer"]=1,
 	["lucifeor-nightslayer"]=8,
 	["lucillexoxo-nightslayer"]=1,
-	["lucistwo-nightslayer"]=23,
+	["lucistwo-nightslayer"]=16,
 	["luciun-nightslayer"]=6,
 	["luckëy-nightslayer"]=2,
 	["luckkx-nightslayer"]=22,
@@ -16700,7 +16700,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["slurpteezy-nightslayer"]=1,
 	["slutorious-dreamscythe"]=16,
 	["slw-nightslayer"]=5,
-	["slybow-nightslayer"]=15,
+	["slybow-nightslayer"]=21,
 	["slyptuah-nightslayer"]=5,
 	["slythr-nightslayer"]=5,
 	["slyz-nightslayer"]=1,
