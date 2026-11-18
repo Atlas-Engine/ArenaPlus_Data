@@ -1385,7 +1385,6 @@ ns.TITLES_BY_REGION["eu"] = {
 	["frøøst-shekzeer"] = "1159,1174,2090,2092,2093,5266",
 	["reinalds-mirage-raceway"] = "401,1174,2090",
 	["vycieð-shekzeer"] = "1159,1174,2090,2092,2093,5266",
-	["abdiwallahi-shekzeer"] = "1159,1174,2090,2091,2092,2093,5267,61350",
 	["casibusqt-everlook"] = "403,1159,1174,2090,2093",
 	["daddysticks-garalon"] = "404,1159,1160,1174,2090,2093",
 	["everett-shekzeer"] = "401,1174",
@@ -5270,7 +5269,6 @@ ns.ALTS_BY_REGION = ns.ALTS_BY_REGION or {}
 ns.ALTS_BY_REGION["eu"] = {
 	"Aaron-shekzeer,Arun-garalon,Arun-shekzeer,Arunx-shekzeer,Arxn-shekzeer",
 	"Abcdé-shekzeer,kjfdsælkjfla-shekzeer",
-	"Abdiwallahi-shekzeer,Madapasaax-shekzeer,Madaurmada-shekzeer,Madaurpapa-shekzeer",
 	"Abdulmalik-shekzeer,Arcasius-shekzeer,Mus-shekzeer,Muså-shekzeer,Mxx-shekzeer,Usualsuspect-shekzeer,Ÿï-garalon,Zipzipzapzap-shekzeer,Zïpzïpzåpzåp-shekzeer",
 	"Ablaacissej-shekzeer,caseyryback-shekzeer,magenofour-shekzeer,Montemanyes-shekzeer,Worstbhvr-shekzeer",
 	"Abonora-shekzeer,Formyself-shekzeer,Smo-shekzeer",
@@ -5999,6 +5997,7 @@ ns.ALTS_BY_REGION["eu"] = {
 	"Louikrypton-shekzeer,Louispiton-shekzeer,Noscopee-shekzeer",
 	"Lúná-ook-ook,Wutàngclan-ook-ook",
 	"määxx-shekzeer,Maaxxdrood-shekzeer,Määxxdrood-shekzeer,Maaxxhunt-shekzeer,Maaxxmonk-shekzeer,Maaxxmønk-shekzeer,Maaxxpriest-shekzeer,notmaaxx-shekzeer",
+	"Madapasaax-shekzeer,Madaurmada-shekzeer,Madaurpapa-shekzeer",
 	"mainan-everlook,Zerca-everlook",
 	"Måjïvü-shekzeer,Vøcal-garalon",
 	"Makci-shekzeer,Makcie-shekzeer",
