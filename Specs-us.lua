@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5205 characters, read 2026-11-18 02:59 AM.
+-- Region us, 5205 characters, read 2026-11-18 03:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5783,7 +5783,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["chinaski-nazgrim"]=6,
 	["chinkchi-raden"]=4,
 	["chinotonic-pagle"]=4,
-	["chiokeme-arugal-au"]=10,
+	["chiokeme-arugal-au"]=4,
 	["chitheline-raden"]=2,
 	["choé-pagle"]=1,
 	["chonkars-raden"]=0,
@@ -6178,7 +6178,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["djstinkynutz-pagle"]=6,
 	["djsuds-pagle"]=13,
 	["djswaglordz-raden"]=17,
-	["djwcb-nazgrim"]=13,
+	["djwcb-nazgrim"]=9,
 	["dkboii-pagle"]=25,
 	["dkcovid-galakras"]=6,
 	["dkingg-pagle"]=0,
@@ -6663,7 +6663,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["frycow-pagle"]=5,
 	["fryedchickn-pagle"]=7,
 	["fuegisima-pagle"]=24,
-	["fullcream-galakras"]=5,
+	["fullcream-galakras"]=12,
 	["funkytubesox-galakras"]=3,
 	["funkyz-raden"]=18,
 	["furrby-immerseus"]=17,
@@ -8039,7 +8039,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["monuei-raden"]=10,
 	["moobookaiyah-galakras"]=7,
 	["mooleone-pagle"]=5,
-	["mòónfirebeam-raden"]=5,
+	["mòónfirebeam-raden"]=12,
 	["moonloon-pagle"]=17,
 	["moonpieelite-immerseus"]=1,
 	["moonrip-raden"]=12,
@@ -10187,7 +10187,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["zèüs-raden"]=2,
 	["zêyo-raden"]=3,
 	["zgrt-pagle"]=0,
-	["zheani-raden"]=16,
+	["zheani-raden"]=2,
 	["zhifty-raden"]=5,
 	["zìegen-lei-shen"]=1,
 	["ziggyboi-pagle"]=3,
