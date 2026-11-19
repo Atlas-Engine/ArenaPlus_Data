@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9615 characters, read 2026-11-18 06:59 PM.
+-- Region tbc-eu, 9615 characters, read 2026-11-18 07:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -14544,7 +14544,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["marrowned-thunderstrike"]=22,
 	["marrymø-thunderstrike"]=1,
 	["marrymoo-thunderstrike"]=3,
-	["martakiller-spineshatter"]=15,
+	["martakiller-spineshatter"]=5,
 	["marthoz-spineshatter"]=3,
 	["marthozug-spineshatter"]=5,
 	["martimuz-spineshatter"]=5,
@@ -16297,7 +16297,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["reallzooro-thunderstrike"]=1,
 	["realmadruid-spineshatter"]=1,
 	["realmoist-spineshatter"]=2,
-	["realslmshady-spineshatter"]=24,
+	["realslmshady-spineshatter"]=25,
 	["realwipeout-spineshatter"]=2,
 	["realzooro-thunderstrike"]=5,
 	["reâper-spineshatter"]=3,
@@ -19040,7 +19040,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["zhetonator-spineshatter"]=12,
 	["zhevyy-thunderstrike"]=2,
 	["zhigulii-spineshatter"]=3,
-	["zhilexlol-spineshatter"]=3,
+	["zhilexlol-spineshatter"]=19,
 	["zhxw-spineshatter"]=9,
 	["zí-spineshatter"]=6,
 	["zibban-thunderstrike"]=1,
