@@ -20,8 +20,8 @@ local ns = ArenaPlusData
 ns.ACTIVITY_BY_REGION = ns.ACTIVITY_BY_REGION or {}
 
 ns.ACTIVITY_BY_REGION["tbc-us"] = {
-	built = 1795103914,
-	builtText = "2026-11-19 10:58 AM",
+	built = 1795107517,
+	builtText = "2026-11-19 11:58 AM",
 	windows = { 1, 3, 6, 12, 24 },
 	[1] = {  -- the last 1 hour(s)
 	},
@@ -31,29 +31,26 @@ ns.ACTIVITY_BY_REGION["tbc-us"] = {
 	},
 	[12] = {  -- the last 12 hour(s)
 		[1] = {
-			["Ryanin|dreamscythe"] = { 6, 2, 9, 580 },
-			["Zvn|dreamscythe"] = { 5, 2, 20, 663 },
-			["Xczv|dreamscythe"] = { 3, 2, -2, 708 },
-			["Bazooko|nightslayer"] = { 1, 3, -17, 658 },
-			["Béon|nightslayer"] = { 1, 3, -20, 663 },
-			["Hybrox|nightslayer"] = { 1, 1, -2, 606 },
-			["Gzlol|dreamscythe"] = { 1, 0, 6, 580 },
+			["Bazooko|nightslayer"] = { 1, 3, -17, 718 },
+			["Hybrox|nightslayer"] = { 1, 1, -2, 666 },
+			["Gzlol|dreamscythe"] = { 1, 0, 6, 640 },
+			["Ryanin|dreamscythe"] = { 1, 0, 5, 640 },
 		},
 	},
 	[24] = {  -- the last 24 hour(s)
 		[1] = {
-			["Kiyt|dreamscythe"] = { 8, 2, 21, 721 },
-			["Xczv|dreamscythe"] = { 8, 2, 8, 708 },
-			["Ryanin|dreamscythe"] = { 6, 2, 9, 580 },
-			["Zvn|dreamscythe"] = { 5, 2, 20, 663 },
-			["Bazooko|nightslayer"] = { 1, 3, -17, 658 },
-			["Béon|nightslayer"] = { 1, 3, -20, 663 },
-			["Domenek|nightslayer"] = { 2, 1, 0, 1372 },
-			["Druidalina|nightslayer"] = { 2, 1, 0, 1372 },
-			["Hybrox|nightslayer"] = { 1, 1, -2, 606 },
-			["Morepower|nightslayer"] = { 2, 0, 5, 1342 },
-			["Yodead|nightslayer"] = { 2, 0, 6, 1343 },
-			["Gzlol|dreamscythe"] = { 1, 0, 6, 580 },
+			["Kiyt|dreamscythe"] = { 8, 2, 21, 781 },
+			["Xczv|dreamscythe"] = { 8, 2, 8, 768 },
+			["Ryanin|dreamscythe"] = { 6, 2, 9, 640 },
+			["Zvn|dreamscythe"] = { 5, 2, 20, 723 },
+			["Bazooko|nightslayer"] = { 1, 3, -17, 718 },
+			["Béon|nightslayer"] = { 1, 3, -20, 724 },
+			["Domenek|nightslayer"] = { 2, 1, 0, 1432 },
+			["Druidalina|nightslayer"] = { 2, 1, 0, 1432 },
+			["Hybrox|nightslayer"] = { 1, 1, -2, 666 },
+			["Morepower|nightslayer"] = { 2, 0, 5, 1402 },
+			["Yodead|nightslayer"] = { 2, 0, 6, 1403 },
+			["Gzlol|dreamscythe"] = { 1, 0, 6, 640 },
 		},
 	},
 }

@@ -18,7 +18,7 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region eu, season 14, read 2026-11-19 11:00 AM.
+-- Region eu, season 14, read 2026-11-19 12:00 PM.
 -- Realm display names, because the ladder only carries slugs and no rule
 -- turns one back into the other: raden is Ra-den, lei-shen is Lei Shen and
 -- arugal-au is Arugal (AU). Read from Blizzard's realm index; a slug with no
@@ -34,8 +34,8 @@ ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["eu"] = {
 	region  = "eu",
-	checked = "2026-11-19 11:00 AM",
-	checkedEpoch = 1795104005,
+	checked = "2026-11-19 12:00 PM",
+	checkedEpoch = 1795107624,
 	snapshot = "2026-11-19 14:27",
 
 	[1] = {  -- 2v2, 5014 places, down to rating 1048 -- the API stops here, short of the cutoff
@@ -386,11 +386,11 @@ ns.LEADERBOARD_BY_REGION["eu"] = {
 		{ rank=345, name="Keyoo", realm="shekzeer", rating=2399, won=81, lost=54, faction="ALLIANCE", mr=2407, dr=530, dk=-2367 },
 		{ rank=345, name="Neatø", realm="shekzeer", rating=2399, won=82, lost=53, faction="ALLIANCE", dr=0, dk=-3 },
 		{ rank=347, name="Ivonsa", realm="garalon", rating=2397, won=391, lost=310, faction="ALLIANCE", mr=2472, dr=-10, dk=19 },
+		{ rank=348, name="Skyráw", realm="shekzeer", rating=2396, won=475, lost=447, faction="ALLIANCE", mr=2549, dr=-45, dk=82 },
 		{ rank=348, name="Srtwhippa", realm="everlook", rating=2396, won=83, lost=45, faction="ALLIANCE", mr=2414, dr=-1, dk=-1 },
-		{ rank=349, name="Maaxxpriest", realm="shekzeer", rating=2395, won=97, lost=46, faction="ALLIANCE", mr=2414, dr=0, dk=-2 },
-		{ rank=350, name="Polynesia", realm="shekzeer", rating=2394, won=77, lost=56, faction="ALLIANCE", dr=0, dk=-2 },
-		{ rank=351, name="Erzfeínd", realm="everlook", rating=2392, won=86, lost=57, faction="HORDE", mr=2418, dr=0, dk=-2 },
-		{ rank=351, name="Skyráw", realm="shekzeer", rating=2392, won=473, lost=446, faction="ALLIANCE", mr=2549, dr=-49, dk=85 },
+		{ rank=350, name="Maaxxpriest", realm="shekzeer", rating=2395, won=97, lost=46, faction="ALLIANCE", mr=2414, dr=0, dk=-1 },
+		{ rank=351, name="Polynesia", realm="shekzeer", rating=2394, won=77, lost=56, faction="ALLIANCE", dr=0, dk=-1 },
+		{ rank=352, name="Erzfeínd", realm="everlook", rating=2392, won=86, lost=57, faction="HORDE", mr=2418, dr=0, dk=-1 },
 		{ rank=353, name="Pupsik", realm="shekzeer", rating=2391, won=62, lost=31, faction="ALLIANCE", dr=0, dk=-1 },
 		{ rank=354, name="Brazqrx", realm="shekzeer", rating=2390, won=411, lost=420, faction="ALLIANCE", mr=2523, dr=-41, dk=70 },
 		{ rank=355, name="Ógstreet", realm="shekzeer", rating=2388, won=97, lost=85, faction="ALLIANCE", mr=2407, dr=0, dk=0 },
