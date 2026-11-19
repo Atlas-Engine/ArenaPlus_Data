@@ -20,45 +20,41 @@ local ns = ArenaPlusData
 ns.ACTIVITY_BY_REGION = ns.ACTIVITY_BY_REGION or {}
 
 ns.ACTIVITY_BY_REGION["tbc-us"] = {
-	built = 1795089512,
-	builtText = "2026-11-19 06:58 AM",
+	built = 1795093113,
+	builtText = "2026-11-19 07:58 AM",
 	windows = { 1, 3, 6, 12, 24 },
 	[1] = {  -- the last 1 hour(s)
 	},
 	[3] = {  -- the last 3 hour(s)
 	},
 	[6] = {  -- the last 6 hour(s)
-		[1] = {
-			["Gzlol|dreamscythe"] = { 1, 0, 6, 340 },
-			["Ryanin|dreamscythe"] = { 1, 0, 5, 340 },
-		},
 	},
 	[12] = {  -- the last 12 hour(s)
 		[1] = {
-			["Kiyt|dreamscythe"] = { 8, 2, 21, 481 },
-			["Xczv|dreamscythe"] = { 8, 2, 8, 468 },
-			["Ryanin|dreamscythe"] = { 6, 2, 9, 340 },
-			["Zvn|dreamscythe"] = { 5, 2, 20, 423 },
-			["Bazooko|nightslayer"] = { 1, 3, -17, 418 },
-			["Béon|nightslayer"] = { 1, 3, -20, 423 },
-			["Hybrox|nightslayer"] = { 1, 1, -2, 366 },
-			["Gzlol|dreamscythe"] = { 1, 0, 6, 340 },
+			["Kiyt|dreamscythe"] = { 8, 2, 21, 541 },
+			["Xczv|dreamscythe"] = { 8, 2, 8, 528 },
+			["Ryanin|dreamscythe"] = { 6, 2, 9, 400 },
+			["Zvn|dreamscythe"] = { 5, 2, 20, 483 },
+			["Bazooko|nightslayer"] = { 1, 3, -17, 478 },
+			["Béon|nightslayer"] = { 1, 3, -20, 483 },
+			["Hybrox|nightslayer"] = { 1, 1, -2, 426 },
+			["Gzlol|dreamscythe"] = { 1, 0, 6, 400 },
 		},
 	},
 	[24] = {  -- the last 24 hour(s)
 		[1] = {
-			["Kiyt|dreamscythe"] = { 8, 2, 21, 481 },
-			["Xczv|dreamscythe"] = { 8, 2, 8, 468 },
-			["Ryanin|dreamscythe"] = { 6, 2, 9, 340 },
-			["Zvn|dreamscythe"] = { 5, 2, 20, 423 },
-			["Bazooko|nightslayer"] = { 1, 3, -17, 418 },
-			["Béon|nightslayer"] = { 1, 3, -20, 423 },
-			["Domenek|nightslayer"] = { 2, 1, 0, 1132 },
-			["Druidalina|nightslayer"] = { 2, 1, 0, 1132 },
-			["Hybrox|nightslayer"] = { 1, 1, -2, 366 },
-			["Morepower|nightslayer"] = { 2, 0, 5, 1102 },
-			["Yodead|nightslayer"] = { 2, 0, 6, 1103 },
-			["Gzlol|dreamscythe"] = { 1, 0, 6, 340 },
+			["Kiyt|dreamscythe"] = { 8, 2, 21, 541 },
+			["Xczv|dreamscythe"] = { 8, 2, 8, 528 },
+			["Ryanin|dreamscythe"] = { 6, 2, 9, 400 },
+			["Zvn|dreamscythe"] = { 5, 2, 20, 483 },
+			["Bazooko|nightslayer"] = { 1, 3, -17, 478 },
+			["Béon|nightslayer"] = { 1, 3, -20, 483 },
+			["Domenek|nightslayer"] = { 2, 1, 0, 1192 },
+			["Druidalina|nightslayer"] = { 2, 1, 0, 1192 },
+			["Hybrox|nightslayer"] = { 1, 1, -2, 426 },
+			["Morepower|nightslayer"] = { 2, 0, 5, 1162 },
+			["Yodead|nightslayer"] = { 2, 0, 6, 1163 },
+			["Gzlol|dreamscythe"] = { 1, 0, 6, 400 },
 		},
 	},
 }
