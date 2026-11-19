@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9616 characters, read 2026-11-19 11:49 AM.
+-- Region tbc-eu, 9616 characters, read 2026-11-19 12:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12411,7 +12411,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["fruitslices-thunderstrike"]=3,
 	["frutytuty-spineshatter"]=2,
 	["fsxsham-spineshatter"]=12,
-	["ftwfab-spineshatter"]=25,
+	["ftwfab-spineshatter"]=24,
 	["fudini-spineshatter"]=1,
 	["fuegoturbo-spineshatter"]=4,
 	["fuelex-thunderstrike"]=23,
@@ -15443,7 +15443,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["numia-thunderstrike"]=17,
 	["nummerz-thunderstrike"]=17,
 	["nungwi-spineshatter"]=4,
-	["nupnupzer-spineshatter"]=8,
+	["nupnupzer-spineshatter"]=17,
 	["nurfzy-spineshatter"]=1,
 	["nurofen-spineshatter"]=1,
 	["nushak-thunderstrike"]=26,
@@ -16207,7 +16207,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["ragnarache-spineshatter"]=0,
 	["ragnih-spineshatter"]=0,
 	["ragtar-spineshatter"]=9,
-	["ragtarx-spineshatter"]=8,
+	["ragtarx-spineshatter"]=2,
 	["rahelxøxø-spineshatter"]=1,
 	["rahkoom-spineshatter"]=1,
 	["raifser-spineshatter"]=2,
@@ -16829,7 +16829,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["setoo-spineshatter"]=11,
 	["settea-thunderstrike"]=10,
 	["setups-spineshatter"]=5,
-	["setupxd-spineshatter"]=8,
+	["setupxd-spineshatter"]=17,
 	["seventeen-spineshatter"]=9,
 	["severalx-spineshatter"]=2,
 	["sewerperson-spineshatter"]=3,
@@ -17304,7 +17304,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["sorrway-thunderstrike"]=4,
 	["sorryimbest-spineshatter"]=1,
 	["sosàlprime-spineshatter"]=5,
-	["sôsôlîd-spineshatter"]=20,
+	["sôsôlîd-spineshatter"]=1,
 	["sötadolann-spineshatter"]=2,
 	["soulchef-spineshatter"]=13,
 	["soulcy-spineshatter"]=1,
@@ -19042,7 +19042,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["zhetonator-spineshatter"]=12,
 	["zhevyy-thunderstrike"]=2,
 	["zhigulii-spineshatter"]=3,
-	["zhilexlol-spineshatter"]=3,
+	["zhilexlol-spineshatter"]=19,
 	["zhxw-spineshatter"]=9,
 	["zí-spineshatter"]=6,
 	["zibban-thunderstrike"]=1,
