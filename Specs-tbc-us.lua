@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9343 characters, read 2026-11-18 10:58 PM.
+-- Region tbc-us, 9343 characters, read 2026-11-18 11:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -8145,7 +8145,6 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["toet-nightslayer"]=21,
 	["tofolol-nightslayer"]=11,
 	["tófu-nightslayer"]=11,
-	["tokenb-nightslayer"]=41,
 	["tokexd-nightslayer"]=21,
 	["tokinranarr-nightslayer"]=10,
 	["toktix-nightslayer"]=111,
@@ -12853,7 +12852,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["homiejim-dreamscythe"]=5,
 	["homiekisserx-nightslayer"]=1,
 	["homielover-dreamscythe"]=7,
-	["honeybadgerx-nightslayer"]=8,
+	["honeybadgerx-nightslayer"]=5,
 	["honeyham-nightslayer"]=3,
 	["hoodstrong-nightslayer"]=2,
 	["hoofdingo-dreamscythe"]=2,
@@ -16257,7 +16256,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["seanlol-nightslayer"]=5,
 	["seastonez-nightslayer"]=5,
 	["seaveezz-nightslayer"]=13,
-	["séaweed-dreamscythe"]=5,
+	["séaweed-dreamscythe"]=8,
 	["sebastian-nightslayer"]=4,
 	["sebbucki-nightslayer"]=4,
 	["sebguito-nightslayer"]=7,
@@ -17474,7 +17473,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["toet-nightslayer"]=8,
 	["tofolol-nightslayer"]=5,
 	["tófu-nightslayer"]=5,
-	["tokenb-nightslayer"]=22,
+	["tokenb-nightslayer"]=0,
 	["tokexd-nightslayer"]=5,
 	["tokinranarr-nightslayer"]=18,
 	["toktix-nightslayer"]=19,
@@ -18071,7 +18070,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["whateverz-nightslayer"]=16,
 	["whattehpho-dreamscythe"]=8,
 	["whatthefk-nightslayer"]=12,
-	["whatupcuhh-nightslayer"]=8,
+	["whatupcuhh-nightslayer"]=5,
 	["whatwindfury-nightslayer"]=19,
 	["wheatchex-nightslayer"]=13,
 	["wheeznation-dreamscythe"]=13,
