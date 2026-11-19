@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9343 characters, read 2026-11-19 04:58 PM.
+-- Region tbc-us, 9343 characters, read 2026-11-19 05:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10775,7 +10775,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["coilx-dreamscythe"]=16,
 	["cokeewl-nightslayer"]=13,
 	["cokeey-nightslayer"]=13,
-	["colamitus-nightslayer"]=2,
+	["colamitus-nightslayer"]=18,
 	["colbsterx-nightslayer"]=7,
 	["coldcignetti-dreamscythe"]=5,
 	["coldexx-nightslayer"]=13,
@@ -10872,7 +10872,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["crásh-dreamscythe"]=20,
 	["crashingöut-nightslayer"]=10,
 	["crayjay-nightslayer"]=8,
-	["crazé-nightslayer"]=9,
+	["crazé-nightslayer"]=25,
 	["crazychicks-nightslayer"]=10,
 	["crazychip-nightslayer"]=18,
 	["crazyprocs-nightslayer"]=19,
@@ -11888,7 +11888,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["faramar-dreamscythe"]=3,
 	["fardão-nightslayer"]=16,
 	["farger-dreamscythe"]=18,
-	["farkmer-nightslayer"]=8,
+	["farkmer-nightslayer"]=5,
 	["farmer-nightslayer"]=4,
 	["farosham-dreamscythe"]=19,
 	["fartingbuttx-nightslayer"]=7,
@@ -12910,7 +12910,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["hummz-nightslayer"]=8,
 	["hundeez-nightslayer"]=2,
 	["hungr-dreamscythe"]=2,
-	["hungswell-nightslayer"]=24,
+	["hungswell-nightslayer"]=10,
 	["húntdeez-nightslayer"]=15,
 	["huntiaz-nightslayer"]=15,
 	["huntincow-dreamscythe"]=15,
@@ -15864,7 +15864,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["relyz-nightslayer"]=2,
 	["relyzjr-nightslayer"]=17,
 	["remiixx-dreamscythe"]=16,
-	["remiraanniv-nightslayer"]=19,
+	["remiraanniv-nightslayer"]=10,
 	["renaisxance-nightslayer"]=14,
 	["rended-nightslayer"]=24,
 	["renmøo-dreamscythe"]=20,
