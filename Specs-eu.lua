@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5378 characters, read 2026-11-18 09:00 PM.
+-- Region eu, 5374 characters, read 2026-11-18 10:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -286,7 +286,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["aronalze-hoptallus"]=11,
 	["arrowgasm-ook-ook"]=20,
 	["arrówsong-shekzeer"]=41,
-	["Àrsène-auberdine"]=50,
 	["arteyo-shekzeer"]=40,
 	["arti-shekzeer"]=11,
 	["arun-garalon"]=50,
@@ -915,7 +914,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["daggz-shekzeer"]=41,
 	["daginos-shekzeer"]=31,
 	["dagobot-everlook"]=31,
-	["dagobotx-everlook"]=31,
 	["dagoschrott-everlook"]=21,
 	["dahshi-shekzeer"]=11,
 	["daïmôn-mirage-raceway"]=11,
@@ -1920,7 +1918,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["jasplane-shekzeer"]=11,
 	["jay-shekzeer"]=11,
 	["jbe-shekzeer"]=31,
-	["jbzn-garalon"]=20,
 	["jcritpaszbi-shekzeer"]=10,
 	["jdsxo-shekzeer"]=10,
 	["jeanrenovv-auberdine"]=11,
@@ -2287,7 +2284,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["lethaltickle-norushen"]=20,
 	["letmebangbro-shekzeer"]=10,
 	["letmehuntyou-shekzeer"]=11,
-	["levelingfun-shekzeer"]=31,
 	["lëvi-mirage-raceway"]=80,
 	["lëvî-shekzeer"]=10,
 	["levitate-everlook"]=41,
@@ -5415,7 +5411,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["arpar-shekzeer"]=0,
 	["arrowgasm-ook-ook"]=14,
 	["arrówsong-shekzeer"]=14,
-	["Àrsène-auberdine"]=1,
 	["arteyo-shekzeer"]=6,
 	["arti-shekzeer"]=4,
 	["arun-garalon"]=2,
@@ -6067,7 +6062,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["daggz-shekzeer"]=24,
 	["daginos-shekzeer"]=16,
 	["dagobot-everlook"]=19,
-	["dagobotx-everlook"]=16,
 	["dagoschrott-everlook"]=16,
 	["dahshi-shekzeer"]=9,
 	["daïmôn-mirage-raceway"]=24,
@@ -7129,7 +7123,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["jasplane-shekzeer"]=2,
 	["jay-shekzeer"]=2,
 	["jbe-shekzeer"]=19,
-	["jbzn-garalon"]=19,
 	["jcritpaszbi-shekzeer"]=4,
 	["jdsxo-shekzeer"]=1,
 	["jeanrenovv-auberdine"]=9,
@@ -7517,7 +7510,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["lethaltickle-norushen"]=1,
 	["letmebangbro-shekzeer"]=1,
 	["letmehuntyou-shekzeer"]=20,
-	["levelingfun-shekzeer"]=13,
 	["lëvi-mirage-raceway"]=22,
 	["lëvî-shekzeer"]=26,
 	["levitate-everlook"]=9,
