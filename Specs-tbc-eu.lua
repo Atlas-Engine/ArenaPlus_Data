@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9615 characters, read 2026-11-19 05:59 AM.
+-- Region tbc-eu, 9615 characters, read 2026-11-19 06:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11727,7 +11727,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["dungdang-thunderstrike"]=3,
 	["dungenmaster-spineshatter"]=10,
 	["duosecond-spineshatter"]=5,
-	["dupedaveca-thunderstrike"]=5,
+	["dupedaveca-thunderstrike"]=22,
 	["dupri-spineshatter"]=11,
 	["duracëll-spineshatter"]=20,
 	["duradel-spineshatter"]=11,
@@ -11943,7 +11943,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["enjoytbc-thunderstrike"]=19,
 	["enkli-spineshatter"]=1,
 	["enlarger-spineshatter"]=11,
-	["enlightmee-spineshatter"]=2,
+	["enlightmee-spineshatter"]=17,
 	["ennui-spineshatter"]=7,
 	["enrenren-spineshatter"]=19,
 	["ensmutsigren-spineshatter"]=17,
@@ -14743,7 +14743,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["milalylalou-spineshatter"]=25,
 	["milân-spineshatter"]=5,
 	["milched-spineshatter"]=12,
-	["milchev-spineshatter"]=21,
+	["milchev-spineshatter"]=9,
 	["milchpumpe-thunderstrike"]=5,
 	["milchtütejr-spineshatter"]=12,
 	["mileijavier-spineshatter"]=11,
@@ -17916,7 +17916,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["threepz-spineshatter"]=24,
 	["threz-spineshatter"]=13,
 	["thue-thunderstrike"]=23,
-	["thulram-thunderstrike"]=2,
+	["thulram-thunderstrike"]=8,
 	["thündër-spineshatter"]=11,
 	["thunderbear-spineshatter"]=1,
 	["thundergodx-spineshatter"]=23,
