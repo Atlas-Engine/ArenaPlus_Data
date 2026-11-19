@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9343 characters, read 2026-11-19 03:58 PM.
+-- Region tbc-us, 9343 characters, read 2026-11-19 04:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10073,7 +10073,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["blackmenace-nightslayer"]=5,
 	["blackrangea-nightslayer"]=15,
 	["blackrat-nightslayer"]=13,
-	["bladde-nightslayer"]=2,
+	["bladde-nightslayer"]=18,
 	["bladedhd-nightslayer"]=2,
 	["blakball-dreamscythe"]=2,
 	["blakeatron-nightslayer"]=7,
@@ -11571,7 +11571,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["duxlol-nightslayer"]=13,
 	["duxxar-nightslayer"]=15,
 	["duzentosvolt-nightslayer"]=24,
-	["dv-nightslayer"]=7,
+	["dv-nightslayer"]=3,
 	["dvinebulwark-nightslayer"]=9,
 	["dwarfmen-nightslayer"]=17,
 	["dwarves-dreamscythe"]=12,
@@ -12702,7 +12702,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["heartwork-nightslayer"]=6,
 	["heaters-dreamscythe"]=18,
 	["heatrash-nightslayer"]=4,
-	["heatscores-nightslayer"]=5,
+	["heatscores-nightslayer"]=8,
 	["heatscorex-nightslayer"]=2,
 	["heavenleiigh-dreamscythe"]=13,
 	["heavyanchor-nightslayer"]=10,
