@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9615 characters, read 2026-11-19 08:59 AM.
+-- Region tbc-eu, 9616 characters, read 2026-11-19 09:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -166,6 +166,7 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["ajushta-thunderstrike"]=31,
 	["aka-spineshatter"]=50,
 	["akaa-spineshatter"]=21,
+	["akaaii-spineshatter"]=11,
 	["akamä-spineshatter"]=21,
 	["akazx-spineshatter"]=20,
 	["akcen-spineshatter"]=101,
@@ -9649,6 +9650,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["ajushta-thunderstrike"]=2,
 	["aka-spineshatter"]=19,
 	["akaa-spineshatter"]=5,
+	["akaaii-spineshatter"]=3,
 	["akamä-spineshatter"]=5,
 	["akazx-spineshatter"]=15,
 	["akcen-spineshatter"]=26,
@@ -15808,7 +15810,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["pharåoh-spineshatter"]=9,
 	["phatotiz-spineshatter"]=4,
 	["phaven-spineshatter"]=9,
-	["pheqx-spineshatter"]=3,
+	["pheqx-spineshatter"]=19,
 	["phéxx-spineshatter"]=2,
 	["phisk-spineshatter"]=3,
 	["phisken-spineshatter"]=4,
@@ -16345,7 +16347,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["relapsed-spineshatter"]=13,
 	["relaxxbro-thunderstrike"]=5,
 	["remag-spineshatter"]=1,
-	["reminded-spineshatter"]=3,
+	["reminded-spineshatter"]=19,
 	["reminisce-spineshatter"]=2,
 	["renashot-spineshatter"]=25,
 	["renatadin-spineshatter"]=7,

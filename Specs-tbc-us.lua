@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9343 characters, read 2026-11-19 08:58 AM.
+-- Region tbc-us, 9343 characters, read 2026-11-19 09:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11663,7 +11663,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["elementalìst-nightslayer"]=24,
 	["elementmd-nightslayer"]=10,
 	["elendriea-dreamscythe"]=19,
-	["elenezz-nightslayer"]=10,
+	["elenezz-nightslayer"]=24,
 	["elernet-nightslayer"]=2,
 	["elesaar-dreamscythe"]=15,
 	["elijahxyz-nightslayer"]=4,
@@ -12077,7 +12077,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["flubtub-nightslayer"]=11,
 	["fluffyd-dreamscythe"]=3,
 	["flukenash-nightslayer"]=2,
-	["fluxlol-nightslayer"]=13,
+	["fluxlol-nightslayer"]=16,
 	["fluxxyqt-nightslayer"]=10,
 	["fluxyhots-nightslayer"]=7,
 	["flye-nightslayer"]=1,
@@ -17343,7 +17343,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["thedoncon-nightslayer"]=12,
 	["thedonkey-nightslayer"]=3,
 	["thedryice-dreamscythe"]=9,
-	["theeoven-nightslayer"]=18,
+	["theeoven-nightslayer"]=2,
 	["thefedz-nightslayer"]=5,
 	["thefrogsrgey-nightslayer"]=10,
 	["thegoblinlab-nightslayer"]=7,
@@ -17804,7 +17804,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["väns-dreamscythe"]=25,
 	["vantagex-nightslayer"]=4,
 	["vapelordgord-nightslayer"]=3,
-	["varedis-dreamscythe"]=5,
+	["varedis-dreamscythe"]=8,
 	["varnigan-nightslayer"]=14,
 	["varradan-dreamscythe"]=25,
 	["varrain-nightslayer"]=2,
