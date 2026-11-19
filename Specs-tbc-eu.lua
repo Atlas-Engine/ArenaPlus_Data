@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9615 characters, read 2026-11-19 04:59 AM.
+-- Region tbc-eu, 9615 characters, read 2026-11-19 05:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10329,7 +10329,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["bilursag-thunderstrike"]=5,
 	["bimbolo-spineshatter"]=2,
 	["bimbzgg-spineshatter"]=5,
-	["binchillin-spineshatter"]=15,
+	["binchillin-spineshatter"]=5,
 	["bingaa-spineshatter"]=2,
 	["biocom-spineshatter"]=12,
 	["bioern-thunderstrike"]=23,
@@ -12268,7 +12268,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["fleksgodx-spineshatter"]=3,
 	["flemme-spineshatter"]=5,
 	["flerfi-thunderstrike"]=3,
-	["flexik-spineshatter"]=3,
+	["flexik-spineshatter"]=19,
 	["flexsy-spineshatter"]=3,
 	["flexxlor-thunderstrike"]=5,
 	["flexxshaman-thunderstrike"]=11,
@@ -15101,7 +15101,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["naprojime-spineshatter"]=5,
 	["nárien-spineshatter"]=2,
 	["nàrien-spineshatter"]=8,
-	["narle-spineshatter"]=3,
+	["narle-spineshatter"]=19,
 	["narlewhotwo-spineshatter"]=17,
 	["narny-spineshatter"]=20,
 	["narttuveijo-thunderstrike"]=2,
@@ -19060,7 +19060,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["zipzug-spineshatter"]=5,
 	["ziqo-spineshatter"]=4,
 	["zirppi-spineshatter"]=8,
-	["ziso-spineshatter"]=13,
+	["ziso-spineshatter"]=14,
 	["zitty-spineshatter"]=5,
 	["zizzap-spineshatter"]=11,
 	["zizzler-spineshatter"]=2,

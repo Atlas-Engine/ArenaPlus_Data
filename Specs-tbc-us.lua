@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9343 characters, read 2026-11-19 04:58 AM.
+-- Region tbc-us, 9343 characters, read 2026-11-19 05:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -13575,7 +13575,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["keygo-nightslayer"]=15,
 	["kfrog-nightslayer"]=2,
 	["kgb-nightslayer"]=19,
-	["kgød-nightslayer"]=6,
+	["kgød-nightslayer"]=4,
 	["khadabruhz-nightslayer"]=5,
 	["khaldrem-nightslayer"]=8,
 	["khalidax-nightslayer"]=1,
@@ -13615,7 +13615,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["kirbyxqt-nightslayer"]=4,
 	["kirbyxxd-nightslayer"]=24,
 	["kiritoh-nightslayer"]=8,
-	["kirralol-dreamscythe"]=4,
+	["kirralol-dreamscythe"]=6,
 	["kismit-nightslayer"]=25,
 	["kissallisse-nightslayer"]=9,
 	["kisskuv-nightslayer"]=5,
@@ -17652,7 +17652,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["twigqt-nightslayer"]=7,
 	["twiisty-nightslayer"]=5,
 	["twinkfather-dreamscythe"]=1,
-	["twinsterber-nightslayer"]=2,
+	["twinsterber-nightslayer"]=20,
 	["twistas-nightslayer"]=19,
 	["twistdpsycho-nightslayer"]=6,
 	["twistedpal-nightslayer"]=11,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5374 characters, read 2026-11-19 05:00 AM.
+-- Region eu, 5374 characters, read 2026-11-19 06:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -7304,7 +7304,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["keydan-ook-ook"]=9,
 	["kéydan-ook-ook"]=7,
 	["keydanus-ook-ook"]=2,
-	["keyoo-shekzeer"]=3,
+	["keyoo-shekzeer"]=11,
 	["keytar-shekzeer"]=11,
 	["khaddafear-shekzeer"]=23,
 	["khaliope-everlook"]=9,
@@ -7856,7 +7856,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["mitwiva-garalon"]=6,
 	["mivic-shekzeer"]=7,
 	["mix-shekzeer"]=3,
-	["mizthx-shekzeer"]=9,
+	["mizthx-shekzeer"]=12,
 	["mjx-shekzeer"]=12,
 	["mlejnek-mirage-raceway"]=0,
 	["mmarkan-shekzeer"]=0,
@@ -9733,7 +9733,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["waix-shekzeer"]=10,
 	["wakkabayashi-norushen"]=15,
 	["wãlter-shekzeer"]=9,
-	["warcrimes-shekzeer"]=1,
+	["warcrimes-shekzeer"]=25,
 	["wardz-mirage-raceway"]=2,
 	["wardz-shekzeer"]=2,
 	["warning-shekzeer"]=1,
