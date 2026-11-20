@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5362 characters, read 2026-11-20 03:00 PM.
+-- Region eu, 5363 characters, read 2026-11-20 04:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1431,6 +1431,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["fthx-shekzeer"]=41,
 	["fülimanó-shekzeer"]=30,
 	["fulldemangö-mirage-raceway"]=260,
+	["fünfgizelp-everlook"]=30,
 	["funkadelic-shekzeer"]=10,
 	["funkytunes-everlook"]=11,
 	["fuñster-shekzeer"]=10,
@@ -6595,6 +6596,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["fthx-shekzeer"]=4,
 	["fülimanó-shekzeer"]=5,
 	["fulldemangö-mirage-raceway"]=6,
+	["fünfgizelp-everlook"]=13,
 	["funkadelic-shekzeer"]=1,
 	["funkytunes-everlook"]=20,
 	["fuñster-shekzeer"]=1,
@@ -7176,7 +7178,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["jtmx-shekzeer"]=2,
 	["judgemint-shekzeer"]=15,
 	["judithx-shekzeer"]=5,
-	["juggiejr-mirage-raceway"]=1,
+	["juggiejr-mirage-raceway"]=25,
 	["juhi-shekzeer"]=5,
 	["juice-shekzeer"]=9,
 	["juicedog-shekzeer"]=5,

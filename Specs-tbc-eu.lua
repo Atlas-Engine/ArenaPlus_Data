@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9602 characters, read 2026-11-20 02:49 PM.
+-- Region tbc-eu, 9604 characters, read 2026-11-20 03:49 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3533,6 +3533,7 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["idkrog-spineshatter"]=50,
 	["idkshort-spineshatter"]=31,
 	["idkwhatotype-spineshatter"]=51,
+	["idont-spineshatter"]=21,
 	["idoublet-spineshatter"]=41,
 	["idoubletski-spineshatter"]=20,
 	["idoubtqt-spineshatter"]=11,
@@ -6144,6 +6145,7 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["pasxar-spineshatter"]=21,
 	["pasxthree-spineshatter"]=20,
 	["patirl-spineshatter"]=21,
+	["patricia-spineshatter"]=21,
 	["patrickstarx-spineshatter"]=20,
 	["patrickwoo-spineshatter"]=30,
 	["pattflynnx-spineshatter"]=41,
@@ -10533,7 +10535,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["bröiler-spineshatter"]=25,
 	["broimmortal-spineshatter"]=3,
 	["broimnaked-spineshatter"]=3,
-	["brokenass-thunderstrike"]=3,
+	["brokenass-thunderstrike"]=19,
 	["brøkénéyé-spineshatter"]=9,
 	["brokenpriezt-spineshatter"]=2,
 	["brokenrecord-spineshatter"]=2,
@@ -13058,6 +13060,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["idkrog-spineshatter"]=3,
 	["idkshort-spineshatter"]=2,
 	["idkwhatotype-spineshatter"]=2,
+	["idont-spineshatter"]=5,
 	["idoublet-spineshatter"]=1,
 	["idoubletski-spineshatter"]=11,
 	["idoubtqt-spineshatter"]=7,
@@ -15704,6 +15707,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["pasxar-spineshatter"]=15,
 	["pasxthree-spineshatter"]=12,
 	["patirl-spineshatter"]=5,
+	["patricia-spineshatter"]=11,
 	["patrickstarx-spineshatter"]=5,
 	["patrickwoo-spineshatter"]=2,
 	["pattflynnx-spineshatter"]=1,
@@ -17254,7 +17258,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["solling-spineshatter"]=7,
 	["sollingw-spineshatter"]=13,
 	["solofans-thunderstrike"]=15,
-	["solomoonz-spineshatter"]=9,
+	["solomoonz-spineshatter"]=4,
 	["sølvøx-spineshatter"]=13,
 	["somme-spineshatter"]=1,
 	["sønnyx-spineshatter"]=13,
