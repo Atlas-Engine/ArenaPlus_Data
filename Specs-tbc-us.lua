@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9343 characters, read 2026-11-20 12:58 AM.
+-- Region tbc-us, 9344 characters, read 2026-11-20 01:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2813,6 +2813,7 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["floppydiscjr-nightslayer"]=61,
 	["floridaboi-nightslayer"]=50,
 	["floridaboy-nightslayer"]=50,
+	["floridachico-nightslayer"]=20,
 	["flowerwar-nightslayer"]=11,
 	["flows-nightslayer"]=70,
 	["flowzz-dreamscythe"]=61,
@@ -10761,7 +10762,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["cobcurious-nightslayer"]=13,
 	["cobraak-nightslayer"]=19,
 	["cocobell-dreamscythe"]=4,
-	["cocobun-nightslayer"]=11,
+	["cocobun-nightslayer"]=25,
 	["cocochow-nightslayer"]=7,
 	["cocoplum-nightslayer"]=7,
 	["cocoshift-nightslayer"]=3,
@@ -12070,6 +12071,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["floppydiscjr-nightslayer"]=7,
 	["floridaboi-nightslayer"]=5,
 	["floridaboy-nightslayer"]=4,
+	["floridachico-nightslayer"]=24,
 	["flowerwar-nightslayer"]=18,
 	["flows-nightslayer"]=4,
 	["flowzz-dreamscythe"]=7,
@@ -16359,7 +16361,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["shadyy-nightslayer"]=14,
 	["shae-nightslayer"]=8,
 	["shahealoneal-nightslayer"]=1,
-	["shaitn-dreamscythe"]=4,
+	["shaitn-dreamscythe"]=6,
 	["shaitnn-nightslayer"]=4,
 	["shaiton-nightslayer"]=8,
 	["shaka-dreamscythe"]=11,
@@ -18099,7 +18101,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["whosaysno-nightslayer"]=6,
 	["whosthisrat-nightslayer"]=2,
 	["whowantwhat-nightslayer"]=4,
-	["whycuzimag-nightslayer"]=5,
+	["whycuzimag-nightslayer"]=8,
 	["whyteleaf-nightslayer"]=3,
 	["whywolf-nightslayer"]=19,
 	["whyzard-nightslayer"]=6,
