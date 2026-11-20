@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9616 characters, read 2026-11-19 05:59 PM.
+-- Region tbc-eu, 9615 characters, read 2026-11-19 06:54 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6296,7 +6296,6 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["plazaboss-spineshatter"]=31,
 	["plekz-thunderstrike"]=10,
 	["plisskeroni-spineshatter"]=11,
-	["plmfgbt-spineshatter"]=50,
 	["plottwist-spineshatter"]=21,
 	["plsdontkite-spineshatter"]=111,
 	["plsineedthis-spineshatter"]=50,
@@ -15871,7 +15870,6 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["plazaboss-spineshatter"]=2,
 	["plekz-thunderstrike"]=5,
 	["plisskeroni-spineshatter"]=3,
-	["plmfgbt-spineshatter"]=2,
 	["plottwist-spineshatter"]=12,
 	["plsdontkite-spineshatter"]=12,
 	["plsineedthis-spineshatter"]=3,
@@ -18843,7 +18841,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["yahavsan-thunderstrike"]=13,
 	["yajietmichel-spineshatter"]=6,
 	["yaksii-spineshatter"]=2,
-	["yalegendalol-spineshatter"]=5,
+	["yalegendalol-spineshatter"]=15,
 	["yamaquza-spineshatter"]=23,
 	["yamform-spineshatter"]=6,
 	["yanamltsht-spineshatter"]=16,
@@ -18868,7 +18866,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["yebaniwe-spineshatter"]=2,
 	["yecni-spineshatter"]=3,
 	["yeetlechild-spineshatter"]=9,
-	["yegen-spineshatter"]=4,
+	["yegen-spineshatter"]=21,
 	["yehudi-spineshatter"]=2,
 	["yeika-spineshatter"]=1,
 	["yeklik-spineshatter"]=9,
