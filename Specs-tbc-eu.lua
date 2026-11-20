@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9602 characters, read 2026-11-20 07:59 AM.
+-- Region tbc-eu, 9602 characters, read 2026-11-20 08:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -15544,7 +15544,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["openbar-spineshatter"]=4,
 	["opendoom-spineshatter"]=14,
 	["opid-spineshatter"]=3,
-	["oppyrogche-thunderstrike"]=3,
+	["oppyrogche-thunderstrike"]=19,
 	["optionselect-spineshatter"]=21,
 	["orangejeeda-spineshatter"]=6,
 	["orannisha-spineshatter"]=11,
@@ -16646,7 +16646,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["sap-spineshatter"]=19,
 	["sapjk-spineshatter"]=3,
 	["sapnkill-spineshatter"]=3,
-	["saprella-spineshatter"]=19,
+	["saprella-spineshatter"]=3,
 	["saptain-spineshatter"]=3,
 	["sapyboo-spineshatter"]=19,
 	["saren-spineshatter"]=3,
@@ -17759,7 +17759,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["teempzz-spineshatter"]=3,
 	["teenmom-spineshatter"]=26,
 	["têferi-spineshatter"]=8,
-	["teffubob-spineshatter"]=18,
+	["teffubob-spineshatter"]=13,
 	["tegalus-spineshatter"]=2,
 	["tegaluz-spineshatter"]=2,
 	["tegasdaddy-spineshatter"]=4,
