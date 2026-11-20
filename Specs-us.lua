@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5206 characters, read 2026-11-19 10:59 PM.
+-- Region us, 5207 characters, read 2026-11-19 11:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2636,6 +2636,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["lobezzno-pagle"]=220,
 	["lockholidays-pagle"]=10,
 	["lockholidayz-pagle"]=10,
+	["lockiecan-pagle"]=10,
 	["lockinfuhnga-galakras"]=11,
 	["lockinseason-pagle"]=50,
 	["lockitingary-galakras"]=100,
@@ -7011,7 +7012,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["hojosatoru-raden"]=16,
 	["hojreplol-raden"]=16,
 	["hojville-pagle"]=16,
-	["holidayhamii-pagle"]=16,
+	["holidayhamii-pagle"]=2,
 	["holmz-pagle"]=3,
 	["holtxd-raden"]=7,
 	["holyangelz-pagle"]=2,
@@ -7712,6 +7713,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["lobezzno-pagle"]=5,
 	["lockholidays-pagle"]=28,
 	["lockholidayz-pagle"]=28,
+	["lockiecan-pagle"]=24,
 	["lockinfuhnga-galakras"]=24,
 	["lockinseason-pagle"]=28,
 	["lockitingary-galakras"]=18,
@@ -8415,7 +8417,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["oxzi-pagle"]=1,
 	["oy-pagle"]=1,
 	["oyo-pagle"]=1,
-	["pablosanchez-raden"]=13,
+	["pablosanchez-raden"]=9,
 	["paegar-raden"]=16,
 	["paeszera-nazgrim"]=7,
 	["pagbstabbin-galakras"]=34,
@@ -8432,7 +8434,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["palapala-pagle"]=2,
 	["paledeath-immerseus"]=6,
 	["pallyboss-galakras"]=0,
-	["palodan-arugal-au"]=2,
+	["palodan-arugal-au"]=16,
 	["palpatîne-pagle"]=28,
 	["palyvash-galakras"]=16,
 	["palyy-raden"]=16,
@@ -9668,7 +9670,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["trapaholic-raden"]=3,
 	["trapandcrit-pagle"]=3,
 	["trapbot-raden"]=3,
-	["trapfiendx-raden"]=3,
+	["trapfiendx-raden"]=20,
 	["traplauncher-pagle"]=3,
 	["trapreckly-raden"]=3,
 	["träps-pagle"]=3,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9343 characters, read 2026-11-19 10:58 PM.
+-- Region tbc-us, 9343 characters, read 2026-11-19 11:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -15051,7 +15051,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ohjeezz-dreamscythe"]=23,
 	["ohmyhunts-nightslayer"]=15,
 	["ohmyxd-nightslayer"]=13,
-	["ohn-nightslayer"]=2,
+	["ohn-nightslayer"]=18,
 	["ohnjr-nightslayer"]=15,
 	["ohnoimoom-nightslayer"]=1,
 	["ohnoitisme-nightslayer"]=7,
@@ -16270,7 +16270,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["seddah-nightslayer"]=13,
 	["seecant-dreamscythe"]=19,
 	["seeds-nightslayer"]=22,
-	["seenar-dreamscythe"]=5,
+	["seenar-dreamscythe"]=8,
 	["seeulater-nightslayer"]=5,
 	["seewizzy-nightslayer"]=1,
 	["seeyoutmrw-nightslayer"]=5,
@@ -18256,7 +18256,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["xesttubyag-nightslayer"]=10,
 	["xhouse-nightslayer"]=4,
 	["xiaobutter-nightslayer"]=16,
-	["xiaoke-nightslayer"]=5,
+	["xiaoke-nightslayer"]=8,
 	["xiaomao-nightslayer"]=20,
 	["xiaoyuyu-nightslayer"]=18,
 	["xidi-nightslayer"]=5,
