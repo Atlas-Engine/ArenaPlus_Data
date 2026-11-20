@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9344 characters, read 2026-11-20 08:58 AM.
+-- Region tbc-us, 9344 characters, read 2026-11-20 09:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11232,7 +11232,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["diguin-nightslayer"]=4,
 	["diigit-nightslayer"]=19,
 	["diinen-dreamscythe"]=13,
-	["diji-nightslayer"]=15,
+	["diji-nightslayer"]=17,
 	["dikata-nightslayer"]=15,
 	["dilduh-nightslayer"]=5,
 	["dilmstun-nightslayer"]=5,
@@ -13187,7 +13187,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["jaez-nightslayer"]=12,
 	["jagbuttotems-dreamscythe"]=10,
 	["jaggies-nightslayer"]=13,
-	["jaguarinsito-dreamscythe"]=7,
+	["jaguarinsito-dreamscythe"]=22,
 	["jahanara-dreamscythe"]=1,
 	["jahboy-dreamscythe"]=14,
 	["jahimjabbar-nightslayer"]=23,
@@ -18418,7 +18418,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["yrneha-dreamscythe"]=15,
 	["ysaronia-nightslayer"]=24,
 	["ytoast-nightslayer"]=5,
-	["yubelu-nightslayer"]=1,
+	["yubelu-nightslayer"]=12,
 	["yuck-nightslayer"]=18,
 	["yueyjr-nightslayer"]=11,
 	["yueyx-nightslayer"]=2,

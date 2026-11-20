@@ -18,7 +18,7 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region us, season 14, read 2026-11-20 08:59 AM.
+-- Region us, season 14, read 2026-11-20 09:59 AM.
 -- Realm display names, because the ladder only carries slugs and no rule
 -- turns one back into the other: raden is Ra-den, lei-shen is Lei Shen and
 -- arugal-au is Arugal (AU). Read from Blizzard's realm index; a slug with no
@@ -35,8 +35,8 @@ ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["us"] = {
 	region  = "us",
-	checked = "2026-11-20 08:59 AM",
-	checkedEpoch = 1795183169,
+	checked = "2026-11-20 09:59 AM",
+	checkedEpoch = 1795186768,
 	snapshot = "2026-11-20 13:48",
 
 	[1] = {  -- 2v2, 5004 places, down to rating 1135 -- the API stops here, short of the cutoff
@@ -1207,13 +1207,13 @@ ns.LEADERBOARD_BY_REGION["us"] = {
 		{ rank=1164, name="Dsparxx", realm="pagle", rating=2061, won=75, lost=72, faction="ALLIANCE", mr=2090, dr=-5, dk=35 },
 		{ rank=1164, name="Esmër", realm="raden", rating=2061, won=90, lost=72, faction="ALLIANCE", dr=0, dk=11 },
 		{ rank=1164, name="Legendary", realm="raden", rating=2061, won=46, lost=9, faction="ALLIANCE", dr=0, dk=11 },
-		{ rank=1164, name="Møønzx", realm="galakras", rating=2061, won=135, lost=144, faction="ALLIANCE", dr=50, dk=-237 },
 		{ rank=1164, name="Noizzy", realm="raden", rating=2061, won=62, lost=35, faction="ALLIANCE", dr=0, dk=11 },
 		{ rank=1164, name="Onepiecem", realm="pagle", rating=2061, won=192, lost=135, faction="ALLIANCE", dr=0, dk=11 },
-		{ rank=1171, name="Djwcb", realm="nazgrim", rating=2060, won=246, lost=226, faction="HORDE", mr=2085, dr=0, dk=12 },
-		{ rank=1171, name="Lothmar", realm="pagle", rating=2060, won=166, lost=141, faction="HORDE", dr=0, dk=12 },
-		{ rank=1171, name="Sentaraga", realm="pagle", rating=2060, won=83, lost=94, faction="ALLIANCE", mr=2087, dr=0, dk=12 },
-		{ rank=1171, name="Synonymrolls", realm="pagle", rating=2060, won=64, lost=55, faction="ALLIANCE", mr=2086, dr=0, dk=12 },
+		{ rank=1170, name="Djwcb", realm="nazgrim", rating=2060, won=246, lost=226, faction="HORDE", mr=2085, dr=0, dk=11 },
+		{ rank=1170, name="Lothmar", realm="pagle", rating=2060, won=166, lost=141, faction="HORDE", dr=0, dk=11 },
+		{ rank=1170, name="Sentaraga", realm="pagle", rating=2060, won=83, lost=94, faction="ALLIANCE", mr=2087, dr=0, dk=11 },
+		{ rank=1170, name="Skeletonzx", realm="galakras", rating=2060, won=70, lost=53, faction="ALLIANCE", dr=38, dk=-163 },
+		{ rank=1170, name="Synonymrolls", realm="pagle", rating=2060, won=64, lost=55, faction="ALLIANCE", mr=2086, dr=0, dk=11 },
 		{ rank=1175, name="Noescape", realm="raden", rating=2059, won=86, lost=90, faction="ALLIANCE", dr=79, dk=-424 },
 		{ rank=1175, name="Shocktopus", realm="pagle", rating=2059, won=450, lost=571, faction="ALLIANCE", mr=2200, dr=0, dk=10 },
 		{ rank=1177, name="Djsol", realm="pagle", rating=2058, won=118, lost=74, faction="HORDE", dr=0, dk=10 },
@@ -1259,13 +1259,13 @@ ns.LEADERBOARD_BY_REGION["us"] = {
 		{ rank=1214, name="Madrat", realm="raden", rating=2049, won=90, lost=84, faction="ALLIANCE", dr=0, dk=10 },
 		{ rank=1214, name="Omnixide", realm="raden", rating=2049, won=108, lost=95, faction="ALLIANCE", mr=2076, dr=16, dk=-60 },
 		{ rank=1214, name="Ursá", realm="nazgrim", rating=2049, won=72, lost=54, faction="HORDE", mr=2081, dr=0, dk=10 },
+		{ rank=1220, name="Møønzx", realm="galakras", rating=2048, won=135, lost=145, faction="ALLIANCE", mr=2061, dr=37, dk=-181 },
 		{ rank=1220, name="Solorzz", realm="pagle", rating=2048, won=131, lost=113, faction="HORDE", dr=0, dk=11 },
-		{ rank=1221, name="Alexrrbb", realm="raden", rating=2047, won=168, lost=185, faction="ALLIANCE", mr=2053, dr=0, dk=10 },
-		{ rank=1221, name="Amshelot", realm="pagle", rating=2047, won=45, lost=30, faction="ALLIANCE", dr=0, dk=10 },
-		{ rank=1221, name="Dartmaul", realm="pagle", rating=2047, won=111, lost=113, faction="ALLIANCE", mr=2084, dr=139, dk=-786 },
-		{ rank=1221, name="Skeletonzx", realm="galakras", rating=2047, won=68, lost=53, faction="ALLIANCE", mr=2054, dr=25, dk=-112 },
-		{ rank=1221, name="Thlam", realm="pagle", rating=2047, won=88, lost=87, faction="ALLIANCE", dr=0, dk=10 },
-		{ rank=1221, name="Yecum", realm="galakras", rating=2047, won=250, lost=253, faction="ALLIANCE", dr=0, dk=10 },
+		{ rank=1222, name="Alexrrbb", realm="raden", rating=2047, won=168, lost=185, faction="ALLIANCE", mr=2053, dr=0, dk=11 },
+		{ rank=1222, name="Amshelot", realm="pagle", rating=2047, won=45, lost=30, faction="ALLIANCE", dr=0, dk=11 },
+		{ rank=1222, name="Dartmaul", realm="pagle", rating=2047, won=111, lost=113, faction="ALLIANCE", mr=2084, dr=139, dk=-785 },
+		{ rank=1222, name="Thlam", realm="pagle", rating=2047, won=88, lost=87, faction="ALLIANCE", dr=0, dk=11 },
+		{ rank=1222, name="Yecum", realm="galakras", rating=2047, won=250, lost=253, faction="ALLIANCE", dr=0, dk=11 },
 		{ rank=1227, name="Autismystic", realm="raden", rating=2046, won=73, lost=67, faction="ALLIANCE", mr=2073, dr=0, dk=12 },
 		{ rank=1227, name="Iceshooter", realm="pagle", rating=2046, won=156, lost=139, faction="ALLIANCE", dr=0, dk=12 },
 		{ rank=1227, name="Katárn", realm="nazgrim", rating=2046, won=78, lost=76, faction="HORDE", mr=2058, dr=0, dk=12 },
