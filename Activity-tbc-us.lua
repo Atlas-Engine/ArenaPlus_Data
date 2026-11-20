@@ -20,27 +20,45 @@ local ns = ArenaPlusData
 ns.ACTIVITY_BY_REGION = ns.ACTIVITY_BY_REGION or {}
 
 ns.ACTIVITY_BY_REGION["tbc-us"] = {
-	built = 1795139911,
-	builtText = "2026-11-19 08:58 PM",
+	built = 1795143511,
+	builtText = "2026-11-19 09:58 PM",
 	windows = { 1, 3, 6, 12, 24 },
 	[1] = {  -- the last 1 hour(s)
+		[1] = {
+			["Druidalina|nightslayer"] = { 4, 2, 4, 11 },
+			["Domenek|nightslayer"] = { 4, 1, 19, 13 },
+		},
 	},
 	[3] = {  -- the last 3 hour(s)
+		[1] = {
+			["Druidalina|nightslayer"] = { 4, 2, 4, 11 },
+			["Domenek|nightslayer"] = { 4, 1, 19, 13 },
+		},
 	},
 	[6] = {  -- the last 6 hour(s)
+		[1] = {
+			["Druidalina|nightslayer"] = { 4, 2, 4, 11 },
+			["Domenek|nightslayer"] = { 4, 1, 19, 13 },
+		},
 	},
 	[12] = {  -- the last 12 hour(s)
+		[1] = {
+			["Druidalina|nightslayer"] = { 4, 2, 4, 11 },
+			["Domenek|nightslayer"] = { 4, 1, 19, 13 },
+		},
 	},
 	[24] = {  -- the last 24 hour(s)
 		[1] = {
-			["Kiyt|dreamscythe"] = { 8, 2, 21, 1321 },
-			["Xczv|dreamscythe"] = { 8, 2, 8, 1308 },
-			["Ryanin|dreamscythe"] = { 6, 2, 9, 1180 },
-			["Zvn|dreamscythe"] = { 5, 2, 20, 1263 },
-			["Bazooko|nightslayer"] = { 1, 3, -17, 1258 },
-			["Béon|nightslayer"] = { 1, 3, -20, 1263 },
-			["Hybrox|nightslayer"] = { 1, 1, -2, 1206 },
-			["Gzlol|dreamscythe"] = { 1, 0, 6, 1180 },
+			["Kiyt|dreamscythe"] = { 8, 2, 21, 1381 },
+			["Xczv|dreamscythe"] = { 8, 2, 8, 1368 },
+			["Ryanin|dreamscythe"] = { 6, 2, 9, 1240 },
+			["Zvn|dreamscythe"] = { 5, 2, 20, 1323 },
+			["Druidalina|nightslayer"] = { 4, 2, 4, 11 },
+			["Domenek|nightslayer"] = { 4, 1, 19, 13 },
+			["Bazooko|nightslayer"] = { 1, 3, -17, 1318 },
+			["Béon|nightslayer"] = { 1, 3, -20, 1323 },
+			["Hybrox|nightslayer"] = { 1, 1, -2, 1266 },
+			["Gzlol|dreamscythe"] = { 1, 0, 6, 1240 },
 		},
 	},
 }
