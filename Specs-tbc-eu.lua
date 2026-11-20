@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9604 characters, read 2026-11-20 03:49 PM.
+-- Region tbc-eu, 9604 characters, read 2026-11-20 04:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -14807,7 +14807,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["mizoo-spineshatter"]=22,
 	["mizû-spineshatter"]=3,
 	["mjólner-spineshatter"]=23,
-	["mjukis-spineshatter"]=7,
+	["mjukis-spineshatter"]=26,
 	["mjyr-spineshatter"]=8,
 	["mkgx-spineshatter"]=9,
 	["mkol-spineshatter"]=19,
@@ -14832,7 +14832,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["mogzp-spineshatter"]=2,
 	["mogzs-spineshatter"]=11,
 	["moirain-spineshatter"]=8,
-	["moistxo-spineshatter"]=3,
+	["moistxo-spineshatter"]=19,
 	["moistxx-spineshatter"]=3,
 	["moivoimoi-spineshatter"]=6,
 	["mojogee-spineshatter"]=24,
@@ -15391,7 +15391,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["nothief-spineshatter"]=3,
 	["notindanger-spineshatter"]=17,
 	["notmageek-thunderstrike"]=12,
-	["notnotyou-spineshatter"]=14,
+	["notnotyou-spineshatter"]=13,
 	["notoríous-spineshatter"]=5,
 	["notoríousx-spineshatter"]=3,
 	["notpompyro-spineshatter"]=4,
