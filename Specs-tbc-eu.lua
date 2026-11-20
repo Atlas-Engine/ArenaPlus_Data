@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9615 characters, read 2026-11-19 07:59 PM.
+-- Region tbc-eu, 9615 characters, read 2026-11-19 08:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12141,7 +12141,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["fearlesshoot-spineshatter"]=25,
 	["fearlolz-spineshatter"]=2,
 	["fearography-spineshatter"]=17,
-	["fedal-thunderstrike"]=23,
+	["fedal-thunderstrike"]=11,
 	["fedow-spineshatter"]=1,
 	["fedowjr-spineshatter"]=5,
 	["fedowski-spineshatter"]=1,
@@ -14378,7 +14378,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["lyoshkabdsm-spineshatter"]=19,
 	["lyrao-spineshatter"]=3,
 	["lysdexia-spineshatter"]=6,
-	["lysebrun-spineshatter"]=5,
+	["lysebrun-spineshatter"]=15,
 	["lysel-spineshatter"]=11,
 	["lyseria-spineshatter"]=19,
 	["lyssera-spineshatter"]=1,
@@ -14837,7 +14837,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["mmirroo-spineshatter"]=4,
 	["mmrgiver-spineshatter"]=2,
 	["mnx-spineshatter"]=3,
-	["moarde-spineshatter"]=24,
+	["moarde-spineshatter"]=25,
 	["mobikzor-spineshatter"]=7,
 	["mobut-spineshatter"]=10,
 	["mobywanz-spineshatter"]=7,
@@ -15984,7 +15984,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["primaryx-spineshatter"]=11,
 	["primedru-spineshatter"]=6,
 	["primeglad-spineshatter"]=1,
-	["prinzzen-spineshatter"]=5,
+	["prinzzen-spineshatter"]=15,
 	["priss-spineshatter"]=19,
 	["pristarena-spineshatter"]=2,
 	["prlee-spineshatter"]=13,
@@ -16006,7 +16006,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["propshields-spineshatter"]=2,
 	["propsix-spineshatter"]=2,
 	["prosaa-spineshatter"]=2,
-	["prostatepete-spineshatter"]=3,
+	["prostatepete-spineshatter"]=19,
 	["prosthetics-spineshatter"]=7,
 	["prostodruid-spineshatter"]=6,
 	["protlark-spineshatter"]=7,
