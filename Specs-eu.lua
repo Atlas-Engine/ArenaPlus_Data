@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5362 characters, read 2026-11-20 05:00 AM.
+-- Region eu, 5362 characters, read 2026-11-20 06:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5522,7 +5522,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["badmanchazo-shekzeer"]=1,
 	["badmanchazzo-shekzeer"]=20,
 	["badmannersx-shekzeer"]=6,
-	["badtank-garalon"]=15,
+	["badtank-garalon"]=30,
 	["badteam-garalon"]=0,
 	["baejs-shekzeer"]=9,
 	["bafur-shekzeer"]=0,
@@ -6815,7 +6815,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["héälböt-mirage-raceway"]=7,
 	["healdbyme-shekzeer"]=3,
 	["healing-shekzeer"]=6,
-	["healintincan-mirage-raceway"]=15,
+	["healintincan-mirage-raceway"]=30,
 	["heallnah-shekzeer"]=9,
 	["healman-shekzeer"]=5,
 	["healryclntn-mirage-raceway"]=9,
@@ -10199,7 +10199,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Вэрш-flamegor"]=4,
 	["Вялыйвоин-flamegor"]=1,
 	["Вялыйжрец-flamegor"]=9,
-	["Вялыйкот-flamegor"]=11,
+	["Вялыйкот-flamegor"]=3,
 	["Вялыйпал-flamegor"]=15,
 	["Вялыйпаладин-flamegor"]=15,
 	["Вялыйхант-flamegor"]=20,

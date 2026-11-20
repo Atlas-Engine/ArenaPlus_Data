@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9602 characters, read 2026-11-20 04:59 AM.
+-- Region tbc-eu, 9602 characters, read 2026-11-20 05:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -13595,7 +13595,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["kaolbasa-thunderstrike"]=11,
 	["kaoline-spineshatter"]=7,
 	["kapslocked-spineshatter"]=3,
-	["kapsona-spineshatter"]=19,
+	["kapsona-spineshatter"]=3,
 	["kaptên-spineshatter"]=5,
 	["kaptengooner-spineshatter"]=13,
 	["kaptenmorgan-spineshatter"]=5,
@@ -13605,7 +13605,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["karbokmage-spineshatter"]=9,
 	["karboksham-spineshatter"]=11,
 	["karbokwarr-spineshatter"]=5,
-	["karbonatèrol-thunderstrike"]=2,
+	["karbonatèrol-thunderstrike"]=17,
 	["karisica-spineshatter"]=5,
 	["karlaninho-spineshatter"]=1,
 	["kärleksmajo-spineshatter"]=1,
@@ -15767,7 +15767,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["personsépare-spineshatter"]=5,
 	["persoo-spineshatter"]=7,
 	["perusrokue-spineshatter"]=3,
-	["peshon-spineshatter"]=9,
+	["peshon-spineshatter"]=4,
 	["pesskgbx-spineshatter"]=24,
 	["pessxx-spineshatter"]=12,
 	["pestelix-spineshatter"]=13,
