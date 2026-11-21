@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9605 characters, read 2026-11-21 03:59 PM.
+-- Region tbc-eu, 9605 characters, read 2026-11-21 04:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -13935,7 +13935,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["kuhajooseppi-spineshatter"]=1,
 	["kujii-spineshatter"]=18,
 	["kukunababy-thunderstrike"]=9,
-	["kukuricudus-thunderstrike"]=9,
+	["kukuricudus-thunderstrike"]=4,
 	["kulshady-spineshatter"]=1,
 	["kulukalle-spineshatter"]=10,
 	["kunamoota-thunderstrike"]=5,
@@ -14469,7 +14469,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["malte-spineshatter"]=2,
 	["malté-spineshatter"]=2,
 	["maltè-spineshatter"]=2,
-	["málte-spineshatter"]=2,
+	["málte-spineshatter"]=17,
 	["màlte-spineshatter"]=3,
 	["mambaout-spineshatter"]=9,
 	["mamkaskega-spineshatter"]=12,
@@ -15998,7 +15998,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["protosec-spineshatter"]=10,
 	["proude-spineshatter"]=10,
 	["prougie-spineshatter"]=19,
-	["proveeone-spineshatter"]=2,
+	["proveeone-spineshatter"]=8,
 	["proxvostix-spineshatter"]=19,
 	["proxxyqt-spineshatter"]=12,
 	["prqba-spineshatter"]=2,
@@ -17779,7 +17779,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["tekol-spineshatter"]=6,
 	["teleios-spineshatter"]=9,
 	["telepath-spineshatter"]=2,
-	["telsannyr-spineshatter"]=2,
+	["telsannyr-spineshatter"]=8,
 	["telyar-spineshatter"]=3,
 	["temeteron-spineshatter"]=7,
 	["temperament-spineshatter"]=18,
