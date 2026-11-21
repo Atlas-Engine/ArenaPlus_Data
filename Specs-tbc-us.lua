@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9344 characters, read 2026-11-20 09:58 PM.
+-- Region tbc-us, 9346 characters, read 2026-11-20 10:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1555,6 +1555,7 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["comtrya-nightslayer"]=61,
 	["conchqt-nightslayer"]=11,
 	["conedog-nightslayer"]=71,
+	["coneily-nightslayer"]=11,
 	["confrost-nightslayer"]=70,
 	["confusion-nightslayer"]=41,
 	["conjurewater-nightslayer"]=50,
@@ -8079,6 +8080,7 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["thunderfried-nightslayer"]=110,
 	["thunderglock-nightslayer"]=30,
 	["thunderscore-nightslayer"]=110,
+	["thundersháft-nightslayer"]=110,
 	["thúnderthÿ-nightslayer"]=41,
 	["thunderudder-nightslayer"]=60,
 	["thunderwx-nightslayer"]=11,
@@ -10222,7 +10224,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["booquas-nightslayer"]=6,
 	["boostero-dreamscythe"]=18,
 	["bootii-dreamscythe"]=16,
-	["bootydrainer-nightslayer"]=13,
+	["bootydrainer-nightslayer"]=23,
 	["bootzphd-nightslayer"]=5,
 	["booxo-nightslayer"]=4,
 	["booyahblastx-nightslayer"]=24,
@@ -10796,6 +10798,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["comtrya-nightslayer"]=7,
 	["conchqt-nightslayer"]=11,
 	["conedog-nightslayer"]=4,
+	["coneily-nightslayer"]=11,
 	["confrost-nightslayer"]=4,
 	["confusion-nightslayer"]=7,
 	["conjurewater-nightslayer"]=6,
@@ -11672,7 +11675,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["elitebeat-nightslayer"]=15,
 	["elivicky-nightslayer"]=4,
 	["elivvood-dreamscythe"]=3,
-	["ellajiayi-nightslayer"]=4,
+	["ellajiayi-nightslayer"]=6,
 	["elleiria-nightslayer"]=13,
 	["ellev-dreamscythe"]=10,
 	["ellexa-nightslayer"]=5,
@@ -17406,6 +17409,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["thunderfried-nightslayer"]=10,
 	["thunderglock-nightslayer"]=17,
 	["thunderscore-nightslayer"]=6,
+	["thundersháft-nightslayer"]=10,
 	["thúnderthÿ-nightslayer"]=22,
 	["thunderudder-nightslayer"]=10,
 	["thunderwx-nightslayer"]=2,
