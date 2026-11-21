@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9604 characters, read 2026-11-21 01:59 PM.
+-- Region tbc-eu, 9604 characters, read 2026-11-21 02:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12538,7 +12538,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["girych-spineshatter"]=1,
 	["gisi-spineshatter"]=1,
 	["givemeup-spineshatter"]=8,
-	["givepvpservr-thunderstrike"]=3,
+	["givepvpservr-thunderstrike"]=19,
 	["gixxeer-spineshatter"]=5,
 	["gixxer-spineshatter"]=15,
 	["gizmorc-spineshatter"]=11,
@@ -13422,7 +13422,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["jnkz-spineshatter"]=9,
 	["jnxd-spineshatter"]=4,
 	["jnxxp-spineshatter"]=7,
-	["jñz-spineshatter"]=3,
+	["jñz-spineshatter"]=19,
 	["jobana-spineshatter"]=19,
 	["jobie-thunderstrike"]=11,
 	["jobka-spineshatter"]=9,
@@ -14493,7 +14493,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["mangemortal-spineshatter"]=2,
 	["mangleina-spineshatter"]=6,
 	["manhoof-spineshatter"]=15,
-	["manifik-spineshatter"]=17,
+	["manifik-spineshatter"]=2,
 	["manjmonbanz-spineshatter"]=1,
 	["manlai-spineshatter"]=17,
 	["manneen-spineshatter"]=3,
@@ -19144,7 +19144,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["Пиноккио-anniversary"]=1,
 	["Сережкабулат-anniversary"]=1,
 	["Сквейл-anniversary"]=25,
-	["Сократ-anniversary"]=5,
+	["Сократ-anniversary"]=22,
 	["Тамплиер-anniversary"]=19,
 	["Фалстад-anniversary"]=25,
 	["Юсинк-anniversary"]=19,
