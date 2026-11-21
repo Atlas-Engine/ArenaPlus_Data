@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5365 characters, read 2026-11-21 03:00 PM.
+-- Region eu, 5366 characters, read 2026-11-21 04:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -530,6 +530,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["blckmatt-shekzeer"]=10,
 	["bleexy-everlook"]=11,
 	["bleqy-shekzeer"]=11,
+	["blèsséd-shekzeer"]=41,
 	["blessyøux-shekzeer"]=11,
 	["blindjkitsme-shekzeer"]=11,
 	["blixi-auberdine"]=11,
@@ -5662,6 +5663,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["blckmatt-shekzeer"]=6,
 	["bleexy-everlook"]=20,
 	["bleqy-shekzeer"]=15,
+	["blèsséd-shekzeer"]=2,
 	["blessyøux-shekzeer"]=5,
 	["blindjkitsme-shekzeer"]=26,
 	["blixi-auberdine"]=26,
@@ -6205,7 +6207,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Ðjsvrxzy-shekzeer"]=2,
 	["djwashedup-shekzeer"]=29,
 	["dksecouille-auberdine"]=31,
-	["dkv-garalon"]=8,
+	["dkv-garalon"]=31,
 	["dméndez-mirage-raceway"]=15,
 	["dnglo-mirage-raceway"]=1,
 	["dobanda-hoptallus"]=4,
@@ -9718,7 +9720,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["waix-shekzeer"]=10,
 	["wakkabayashi-norushen"]=15,
 	["wãlter-shekzeer"]=9,
-	["warcrimes-shekzeer"]=25,
+	["warcrimes-shekzeer"]=1,
 	["wardz-mirage-raceway"]=2,
 	["wardz-shekzeer"]=2,
 	["warning-shekzeer"]=1,
