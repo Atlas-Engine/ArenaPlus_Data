@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9604 characters, read 2026-11-21 01:24 AM.
+-- Region tbc-eu, 9604 characters, read 2026-11-21 02:49 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11187,7 +11187,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["dargonsalyer-spineshatter"]=3,
 	["darisa-spineshatter"]=9,
 	["darkavenge-spineshatter"]=19,
-	["darkbetrayed-thunderstrike"]=5,
+	["darkbetrayed-thunderstrike"]=15,
 	["darkbone-spineshatter"]=2,
 	["darkexpèrt-spineshatter"]=19,
 	["darkface-spineshatter"]=17,
@@ -15546,7 +15546,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["opana-spineshatter"]=18,
 	["opaxx-spineshatter"]=23,
 	["openbar-spineshatter"]=4,
-	["opendoom-spineshatter"]=14,
+	["opendoom-spineshatter"]=18,
 	["opid-spineshatter"]=3,
 	["oppyrogche-thunderstrike"]=19,
 	["optionselect-spineshatter"]=21,
@@ -16572,7 +16572,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["sabuu-spineshatter"]=11,
 	["sachste-spineshatter"]=13,
 	["sacredwarf-spineshatter"]=17,
-	["sacréman-spineshatter"]=10,
+	["sacréman-spineshatter"]=26,
 	["sacrifries-spineshatter"]=10,
 	["sacsformoney-thunderstrike"]=10,
 	["sadboy-spineshatter"]=15,
@@ -17367,7 +17367,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["squalo-thunderstrike"]=15,
 	["squalokek-thunderstrike"]=15,
 	["squeakjunior-thunderstrike"]=2,
-	["sraked-spineshatter"]=3,
+	["sraked-spineshatter"]=19,
 	["sråñjë-spineshatter"]=13,
 	["srbiin-spineshatter"]=5,
 	["srbongabonga-spineshatter"]=5,

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5208 characters, read 2026-11-21 01:59 AM.
+-- Region us, 5208 characters, read 2026-11-21 02:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4123,6 +4123,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["space-raden"]=111,
 	["sparas-raden"]=71,
 	["sparqxx-pagle"]=11,
+	["speakington-raden"]=11,
 	["speedfiree-pagle"]=10,
 	["speedypee-pagle"]=11,
 	["spéllcaster-raden"]=10,
@@ -4437,7 +4438,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["tilted-galakras"]=10,
 	["tiltedx-galakras"]=11,
 	["tindrx-raden"]=11,
-	["tinysmalldk-raden"]=70,
 	["titanofdeath-galakras"]=20,
 	["tjax-raden"]=41,
 	["tkilffa-arugal-au"]=41,
@@ -6664,7 +6664,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["frycow-pagle"]=5,
 	["fryedchickn-pagle"]=7,
 	["fuegisima-pagle"]=24,
-	["fullcream-galakras"]=12,
+	["fullcream-galakras"]=5,
 	["funkytubesox-galakras"]=3,
 	["funkyz-raden"]=18,
 	["furrby-immerseus"]=17,
@@ -7625,7 +7625,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["leonidasxl-pagle"]=4,
 	["leowna-pagle"]=2,
 	["leownaa-pagle"]=2,
-	["lepson-nazgrim"]=30,
+	["lepson-nazgrim"]=23,
 	["lequavious-pagle"]=7,
 	["lester-raden"]=3,
 	["lesthoukov-pagle"]=3,
@@ -9292,6 +9292,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["spala-pagle"]=0,
 	["sparas-raden"]=11,
 	["sparqxx-pagle"]=14,
+	["speakington-raden"]=2,
 	["speedfiree-pagle"]=3,
 	["speedypee-pagle"]=14,
 	["spéllcaster-raden"]=25,
@@ -9619,7 +9620,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["tilted-galakras"]=7,
 	["tiltedx-galakras"]=25,
 	["tindrx-raden"]=14,
-	["tinysmalldk-raden"]=6,
 	["titanofdeath-galakras"]=6,
 	["tjax-raden"]=9,
 	["tkilffa-arugal-au"]=9,
@@ -10029,7 +10029,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["xaravi-raden"]=9,
 	["xarped-nazgrim"]=17,
 	["xatica-pagle"]=29,
-	["xatyka-pagle"]=1,
+	["xatyka-pagle"]=11,
 	["xavilier-pagle"]=29,
 	["xb-galakras"]=4,
 	["xbushmaster-pagle"]=5,
