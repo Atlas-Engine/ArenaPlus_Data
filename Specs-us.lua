@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5207 characters, read 2026-11-20 10:59 PM.
+-- Region us, 5208 characters, read 2026-11-20 11:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3469,6 +3469,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["prototypeceo-pagle"]=20,
 	["proudfather-lei-shen"]=40,
 	["proudgoyim-raden"]=10,
+	["próxan-pagle"]=21,
 	["pserverfreak-raden"]=11,
 	["psfive-pagle"]=40,
 	["psicoloca-pagle"]=11,
@@ -4122,7 +4123,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["space-raden"]=111,
 	["sparas-raden"]=71,
 	["sparqxx-pagle"]=11,
-	["speakington-raden"]=11,
 	["speedfiree-pagle"]=10,
 	["speedypee-pagle"]=11,
 	["spéllcaster-raden"]=10,
@@ -4776,6 +4776,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["wïntërwîtch-pagle"]=41,
 	["winterzface-nazgrim"]=10,
 	["wiseoleman-pagle"]=20,
+	["wispér-raden"]=11,
 	["wìz-raden"]=11,
 	["wîzärdøføzz-raden"]=31,
 	["wkndxo-raden"]=10,
@@ -8587,6 +8588,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["proudfather-lei-shen"]=5,
 	["proudgoyim-raden"]=7,
 	["prowlr-pagle"]=0,
+	["próxan-pagle"]=6,
 	["pserverfreak-raden"]=1,
 	["psfive-pagle"]=5,
 	["psicoloca-pagle"]=9,
@@ -9290,7 +9292,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["spala-pagle"]=0,
 	["sparas-raden"]=11,
 	["sparqxx-pagle"]=14,
-	["speakington-raden"]=2,
 	["speedfiree-pagle"]=3,
 	["speedypee-pagle"]=14,
 	["spéllcaster-raden"]=25,
@@ -9976,6 +9977,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["wïntërwîtch-pagle"]=26,
 	["winterzface-nazgrim"]=25,
 	["wiseoleman-pagle"]=22,
+	["wispér-raden"]=6,
 	["wìz-raden"]=21,
 	["wîzärdøføzz-raden"]=15,
 	["wkndxo-raden"]=1,
