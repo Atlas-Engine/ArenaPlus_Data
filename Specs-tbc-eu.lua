@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9604 characters, read 2026-11-20 11:54 PM.
+-- Region tbc-eu, 9604 characters, read 2026-11-21 12:49 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11855,7 +11855,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["elodiar-spineshatter"]=1,
 	["elohssa-spineshatter"]=4,
 	["elonroots-thunderstrike"]=1,
-	["elonzie-spineshatter"]=3,
+	["elonzie-spineshatter"]=19,
 	["elor-spineshatter"]=2,
 	["elorsz-spineshatter"]=2,
 	["eloryel-spineshatter"]=4,
@@ -14655,7 +14655,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["merbenägen-spineshatter"]=12,
 	["mercaoe-spineshatter"]=4,
 	["mercatore-spineshatter"]=3,
-	["merciless-spineshatter"]=3,
+	["merciless-spineshatter"]=19,
 	["mériáh-spineshatter"]=2,
 	["merizio-spineshatter"]=0,
 	["merpheus-spineshatter"]=15,
@@ -18841,7 +18841,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["yeåt-spineshatter"]=9,
 	["yeazyp-spineshatter"]=10,
 	["yeazypi-spineshatter"]=17,
-	["yeazywl-spineshatter"]=13,
+	["yeazywl-spineshatter"]=18,
 	["yebaniwe-spineshatter"]=2,
 	["yecni-spineshatter"]=3,
 	["yeetlechild-spineshatter"]=9,

@@ -18,7 +18,7 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region eu, season 14, read 2026-11-21 12:00 AM.
+-- Region eu, season 14, read 2026-11-21 01:00 AM.
 -- Realm display names, because the ladder only carries slugs and no rule
 -- turns one back into the other: raden is Ra-den, lei-shen is Lei Shen and
 -- arugal-au is Arugal (AU). Read from Blizzard's realm index; a slug with no
@@ -34,9 +34,9 @@ ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["eu"] = {
 	region  = "eu",
-	checked = "2026-11-21 12:00 AM",
-	checkedEpoch = 1795237209,
-	snapshot = "2026-11-21 02:27",
+	checked = "2026-11-21 01:00 AM",
+	checkedEpoch = 1795240817,
+	snapshot = "2026-11-21 05:27",
 
 	[1] = {  -- 2v2, 5003 places, down to rating 1047 -- the API stops here, short of the cutoff
 		{ rank=1, name="Satåntrapbot", realm="shekzeer", rating=2932, won=330, lost=86, faction="ALLIANCE", dr=0, dk=0 },
@@ -2338,7 +2338,7 @@ ns.LEADERBOARD_BY_REGION["eu"] = {
 		{ rank=2290, name="Ubik", realm="shekzeer", rating=1933, won=51, lost=50, faction="ALLIANCE", dr=0, dk=2 },
 		{ rank=2298, name="Hùnty", realm="auberdine", rating=1932, won=150, lost=159, faction="ALLIANCE", mr=2052, dr=0, dk=2 },
 		{ rank=2298, name="Oøøps", realm="auberdine", rating=1932, won=195, lost=190, faction="HORDE", dr=0, dk=2 },
-		{ rank=2298, name="Trolly", realm="shekzeer", rating=1932, won=37, lost=15, faction="HORDE", dr=86, dk=-568 },
+		{ rank=2298, name="Trolly", realm="shekzeer", rating=1932, won=37, lost=19, faction="HORDE", dr=86, dk=-568 },
 		{ rank=2298, name="Wwjagge", realm="shekzeer", rating=1932, won=76, lost=64, faction="ALLIANCE", dr=0, dk=2 },
 		{ rank=2302, name="Cârnagë", realm="shekzeer", rating=1931, won=56, lost=49, faction="ALLIANCE", mr=1971, dr=0, dk=3 },
 		{ rank=2302, name="Ioannis", realm="mirage-raceway", rating=1931, won=83, lost=100, faction="ALLIANCE", mr=1985, dr=0, dk=3 },
