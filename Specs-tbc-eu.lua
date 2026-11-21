@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9603 characters, read 2026-11-20 08:59 PM.
+-- Region tbc-eu, 9604 characters, read 2026-11-20 09:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2337,6 +2337,7 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["elkw-spineshatter"]=41,
 	["ellectron-spineshatter"]=20,
 	["ellectrons-spineshatter"]=50,
+	["ellilol-thunderstrike"]=11,
 	["ellimelli-spineshatter"]=21,
 	["ellistheni-spineshatter"]=21,
 	["elmatadör-spineshatter"]=31,
@@ -3122,7 +3123,6 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["grimmorc-spineshatter"]=21,
 	["grimmwut-spineshatter"]=10,
 	["grimpanzer-spineshatter"]=60,
-	["grimroll-thunderstrike"]=20,
 	["grimsheepér-spineshatter"]=50,
 	["grimzugg-spineshatter"]=20,
 	["gripen-spineshatter"]=21,
@@ -7255,6 +7255,7 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["shadowimp-spineshatter"]=70,
 	["shadowpapa-spineshatter"]=50,
 	["shadowrazz-spineshatter"]=30,
+	["shadøwsfall-thunderstrike"]=10,
 	["shadowsheza-spineshatter"]=31,
 	["shadowstride-spineshatter"]=41,
 	["shadowtèen-spineshatter"]=41,
@@ -11329,7 +11330,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["deserving-spineshatter"]=2,
 	["desii-spineshatter"]=1,
 	["desm-spineshatter"]=9,
-	["desmondome-spineshatter"]=11,
+	["desmondome-spineshatter"]=12,
 	["desmotis-spineshatter"]=2,
 	["despahito-spineshatter"]=8,
 	["desparà-thunderstrike"]=3,
@@ -11843,6 +11844,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["elkw-spineshatter"]=1,
 	["ellectron-spineshatter"]=24,
 	["ellectrons-spineshatter"]=13,
+	["ellilol-thunderstrike"]=3,
 	["ellimelli-spineshatter"]=11,
 	["ellistheni-spineshatter"]=12,
 	["elmalá-spineshatter"]=0,
@@ -12641,7 +12643,6 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["grimmorc-spineshatter"]=5,
 	["grimmwut-spineshatter"]=14,
 	["grimpanzer-spineshatter"]=6,
-	["grimroll-thunderstrike"]=5,
 	["grimsheepér-spineshatter"]=4,
 	["grimzugg-spineshatter"]=12,
 	["gripen-spineshatter"]=13,
@@ -13391,7 +13392,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["jiixo-spineshatter"]=9,
 	["jijii-spineshatter"]=1,
 	["jiluu-thunderstrike"]=26,
-	["jilux-thunderstrike"]=19,
+	["jilux-thunderstrike"]=3,
 	["jimboss-spineshatter"]=7,
 	["jimkarrey-spineshatter"]=2,
 	["jimmyblue-spineshatter"]=11,
@@ -15509,7 +15510,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["ompa-spineshatter"]=6,
 	["ompalompa-thunderstrike"]=15,
 	["onastoteprca-spineshatter"]=3,
-	["oneatumleaf-spineshatter"]=1,
+	["oneatumleaf-spineshatter"]=6,
 	["onebuttondog-spineshatter"]=7,
 	["onedreamz-spineshatter"]=2,
 	["onegame-spineshatter"]=9,
@@ -16830,6 +16831,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["shadowimp-spineshatter"]=18,
 	["shadowpapa-spineshatter"]=8,
 	["shadowrazz-spineshatter"]=8,
+	["shadøwsfall-thunderstrike"]=3,
 	["shadowsheza-spineshatter"]=25,
 	["shadowstride-spineshatter"]=24,
 	["shadowtèen-spineshatter"]=1,

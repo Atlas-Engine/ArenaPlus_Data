@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9344 characters, read 2026-11-20 08:58 PM.
+-- Region tbc-us, 9344 characters, read 2026-11-20 09:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10574,7 +10574,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["chappyy-dreamscythe"]=3,
 	["chargingtf-nightslayer"]=18,
 	["charleez-nightslayer"]=1,
-	["charlo-nightslayer"]=2,
+	["charlo-nightslayer"]=18,
 	["charsong-dreamscythe"]=7,
 	["chartremor-dreamscythe"]=7,
 	["chasecheddar-nightslayer"]=4,
@@ -15858,7 +15858,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["reksd-dreamscythe"]=2,
 	["reksx-dreamscythe"]=10,
 	["rektington-nightslayer"]=5,
-	["rekzor-nightslayer"]=2,
+	["rekzor-nightslayer"]=18,
 	["relaxbtch-nightslayer"]=4,
 	["relaxe-nightslayer"]=24,
 	["relays-nightslayer"]=5,
@@ -17363,7 +17363,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["thestevesman-nightslayer"]=19,
 	["theuglystick-nightslayer"]=7,
 	["theungodly-nightslayer"]=14,
-	["theylikemike-dreamscythe"]=13,
+	["theylikemike-dreamscythe"]=16,
 	["theyung-nightslayer"]=4,
 	["thiccbois-dreamscythe"]=25,
 	["thiccfury-nightslayer"]=19,
