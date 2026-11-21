@@ -18,7 +18,7 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region us, season 14, read 2026-11-21 05:59 AM.
+-- Region us, season 14, read 2026-11-21 06:59 AM.
 -- Realm display names, because the ladder only carries slugs and no rule
 -- turns one back into the other: raden is Ra-den, lei-shen is Lei Shen and
 -- arugal-au is Arugal (AU). Read from Blizzard's realm index; a slug with no
@@ -35,8 +35,8 @@ ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["us"] = {
 	region  = "us",
-	checked = "2026-11-21 05:59 AM",
-	checkedEpoch = 1795258769,
+	checked = "2026-11-21 06:59 AM",
+	checkedEpoch = 1795262369,
 	snapshot = "2026-11-21 10:48",
 
 	[1] = {  -- 2v2, 5005 places, down to rating 1135 -- the API stops here, short of the cutoff
@@ -290,24 +290,24 @@ ns.LEADERBOARD_BY_REGION["us"] = {
 		{ rank=248, name="Diddyjones", realm="pagle", rating=2409, won=184, lost=47, faction="ALLIANCE", dr=0, dk=2 },
 		{ rank=249, name="Champlock", realm="raden", rating=2408, won=96, lost=91, faction="ALLIANCE", dr=0, dk=2 },
 		{ rank=249, name="Guanyîn", realm="raden", rating=2408, won=636, lost=608, faction="ALLIANCE", mr=2505, dr=10, dk=-18 },
-		{ rank=251, name="Jamaicarr", realm="raden", rating=2406, won=68, lost=31, faction="ALLIANCE", dr=0, dk=3 },
-		{ rank=252, name="Buster", realm="raden", rating=2405, won=452, lost=425, faction="ALLIANCE", dr=0, dk=3 },
-		{ rank=252, name="Diewar", realm="raden", rating=2405, won=75, lost=46, faction="ALLIANCE", dr=0, dk=3 },
-		{ rank=252, name="Slinqy", realm="pagle", rating=2405, won=92, lost=67, faction="ALLIANCE", dr=0, dk=3 },
-		{ rank=255, name="Erroo", realm="raden", rating=2404, won=120, lost=58, faction="ALLIANCE", dr=0, dk=3 },
-		{ rank=255, name="Rãin", realm="pagle", rating=2404, won=240, lost=212, faction="ALLIANCE", dr=0, dk=3 },
-		{ rank=255, name="Stattic", realm="arugal-au", rating=2404, won=144, lost=136, faction="ALLIANCE", dr=0, dk=3 },
-		{ rank=255, name="Xunwinxo", realm="raden", rating=2404, won=171, lost=131, faction="ALLIANCE", dr=0, dk=3 },
-		{ rank=259, name="Cashpoorxlm", realm="raden", rating=2403, won=289, lost=281, faction="ALLIANCE", dr=0, dk=3 },
-		{ rank=259, name="Protmain", realm="raden", rating=2403, won=602, lost=498, faction="ALLIANCE", mr=2422, dr=0, dk=3 },
-		{ rank=259, name="Swlfty", realm="raden", rating=2403, won=185, lost=139, faction="ALLIANCE", dr=34, dk=-45 },
-		{ rank=262, name="Plumxo", realm="raden", rating=2402, won=83, lost=52, faction="HORDE", dr=0, dk=2 },
-		{ rank=262, name="Raijjin", realm="pagle", rating=2402, won=98, lost=31, faction="ALLIANCE", dr=0, dk=2 },
-		{ rank=264, name="Nerxxiz", realm="raden", rating=2401, won=110, lost=88, faction="ALLIANCE", dr=0, dk=2 },
-		{ rank=264, name="Sugarbeet", realm="raden", rating=2401, won=73, lost=37, faction="ALLIANCE", dr=0, dk=2 },
-		{ rank=264, name="Xaravi", realm="raden", rating=2401, won=75, lost=33, faction="ALLIANCE", dr=0, dk=2 },
-		{ rank=267, name="Critwo", realm="sulfuras", rating=2400, won=97, lost=72, faction="ALLIANCE", dr=0, dk=2 },
-		{ rank=267, name="Mòónfirebeam", realm="raden", rating=2400, won=184, lost=164, faction="ALLIANCE", mr=2406, dr=2, dk=0 },
+		{ rank=249, name="Mòónfirebeam", realm="raden", rating=2408, won=185, lost=164, faction="ALLIANCE", dr=10, dk=-18 },
+		{ rank=252, name="Jamaicarr", realm="raden", rating=2406, won=68, lost=31, faction="ALLIANCE", dr=0, dk=4 },
+		{ rank=253, name="Buster", realm="raden", rating=2405, won=452, lost=425, faction="ALLIANCE", dr=0, dk=4 },
+		{ rank=253, name="Diewar", realm="raden", rating=2405, won=75, lost=46, faction="ALLIANCE", dr=0, dk=4 },
+		{ rank=253, name="Slinqy", realm="pagle", rating=2405, won=92, lost=67, faction="ALLIANCE", dr=0, dk=4 },
+		{ rank=256, name="Erroo", realm="raden", rating=2404, won=120, lost=58, faction="ALLIANCE", dr=0, dk=4 },
+		{ rank=256, name="Rãin", realm="pagle", rating=2404, won=240, lost=212, faction="ALLIANCE", dr=0, dk=4 },
+		{ rank=256, name="Stattic", realm="arugal-au", rating=2404, won=144, lost=136, faction="ALLIANCE", dr=0, dk=4 },
+		{ rank=256, name="Xunwinxo", realm="raden", rating=2404, won=171, lost=131, faction="ALLIANCE", dr=0, dk=4 },
+		{ rank=260, name="Cashpoorxlm", realm="raden", rating=2403, won=289, lost=281, faction="ALLIANCE", dr=0, dk=4 },
+		{ rank=260, name="Protmain", realm="raden", rating=2403, won=602, lost=498, faction="ALLIANCE", mr=2422, dr=0, dk=4 },
+		{ rank=260, name="Swlfty", realm="raden", rating=2403, won=185, lost=139, faction="ALLIANCE", dr=34, dk=-44 },
+		{ rank=263, name="Plumxo", realm="raden", rating=2402, won=83, lost=52, faction="HORDE", dr=0, dk=3 },
+		{ rank=263, name="Raijjin", realm="pagle", rating=2402, won=98, lost=31, faction="ALLIANCE", dr=0, dk=3 },
+		{ rank=265, name="Nerxxiz", realm="raden", rating=2401, won=110, lost=88, faction="ALLIANCE", dr=0, dk=3 },
+		{ rank=265, name="Sugarbeet", realm="raden", rating=2401, won=73, lost=37, faction="ALLIANCE", dr=0, dk=3 },
+		{ rank=265, name="Xaravi", realm="raden", rating=2401, won=75, lost=33, faction="ALLIANCE", dr=0, dk=3 },
+		{ rank=268, name="Critwo", realm="sulfuras", rating=2400, won=97, lost=72, faction="ALLIANCE", dr=0, dk=3 },
 		{ rank=269, name="Cripton", realm="raden", rating=2399, won=112, lost=62, faction="ALLIANCE", dr=0, dk=3 },
 		{ rank=270, name="Bistwo", realm="sulfuras", rating=2398, won=70, lost=45, faction="ALLIANCE", dr=0, dk=3 },
 		{ rank=270, name="Tokonatsu", realm="raden", rating=2398, won=202, lost=100, faction="ALLIANCE", mr=2447, dr=0, dk=3 },
@@ -2743,7 +2743,7 @@ ns.LEADERBOARD_BY_REGION["us"] = {
 		{ rank=2699, name="Dccb", realm="nazgrim", rating=1808, won=31, lost=24, faction="HORDE", dr=0, dk=3 },
 		{ rank=2699, name="Glizzyjizzy", realm="nazgrim", rating=1808, won=31, lost=29, faction="HORDE", dr=0, dk=3 },
 		{ rank=2699, name="Sovice", realm="raden", rating=1808, won=31, lost=25, faction="ALLIANCE", dr=0, dk=3 },
-		{ rank=2699, name="Xanacs", realm="nazgrim", rating=1808, won=30, lost=16, faction="HORDE", mr=2292, dr=0, dk=3 },
+		{ rank=2699, name="Xanacs", realm="nazgrim", rating=1808, won=30, lost=17, faction="HORDE", mr=2292, dr=0, dk=3 },
 		{ rank=2699, name="Zerkingoff", realm="raden", rating=1808, won=47, lost=37, faction="ALLIANCE", dr=0, dk=3 },
 		{ rank=2706, name="Ayeflux", realm="raden", rating=1807, won=52, lost=64, faction="ALLIANCE", mr=1832, dr=0, dk=3 },
 		{ rank=2706, name="Bubbleßöò", realm="pagle", rating=1807, won=37, lost=35, faction="ALLIANCE", dr=0, dk=3 },
