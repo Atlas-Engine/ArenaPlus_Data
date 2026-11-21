@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5363 characters, read 2026-11-20 06:00 PM.
+-- Region eu, 5365 characters, read 2026-11-20 07:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2494,6 +2494,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["mayboo-auberdine"]=20,
 	["mayopatra-shekzeer"]=11,
 	["mazia-shekzeer"]=11,
+	["mbäppé-auberdine"]=11,
 	["mbs-shekzeer"]=30,
 	["mby-shekzeer"]=251,
 	["mco-mirage-raceway"]=11,
@@ -3165,6 +3166,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["pówqz-everlook"]=51,
 	["prâitre-mirage-raceway"]=11,
 	["praystation-ook-ook"]=11,
+	["prayzthebozz-everlook"]=50,
 	["predak-mirage-raceway"]=100,
 	["premanchan-everlook"]=10,
 	["prénium-auberdine"]=40,
@@ -4851,6 +4853,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["Вэрш-flamegor"]=21,
 	["Вялыйвоин-flamegor"]=10,
 	["Вялыйжрец-flamegor"]=11,
+	["Вялыйкидней-flamegor"]=11,
 	["Вялыйкот-flamegor"]=40,
 	["Вялыйпал-flamegor"]=10,
 	["Вялыйпаладин-flamegor"]=10,
@@ -5900,7 +5903,6 @@ ns.SPECS_BY_REGION["eu"] = {
 	["christek-auberdine"]=21,
 	["christeklive-auberdine"]=9,
 	["christianfab-everlook"]=2,
-	["chronewisley-shekzeer"]=0,
 	["chronya-ook-ook"]=1,
 	["chronyâ-ook-ook"]=7,
 	["chû-everlook"]=2,
@@ -7726,6 +7728,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["mayboo-auberdine"]=34,
 	["mayopatra-shekzeer"]=9,
 	["mazia-shekzeer"]=2,
+	["mbäppé-auberdine"]=8,
 	["mbs-shekzeer"]=13,
 	["mby-shekzeer"]=29,
 	["mco-mirage-raceway"]=4,
@@ -8440,6 +8443,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["pówqz-everlook"]=9,
 	["prâitre-mirage-raceway"]=9,
 	["praystation-ook-ook"]=22,
+	["prayzthebozz-everlook"]=9,
 	["predak-mirage-raceway"]=4,
 	["premanchan-everlook"]=26,
 	["prénium-auberdine"]=3,
@@ -8606,7 +8610,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["renue-shekzeer"]=9,
 	["replicusele-garalon"]=16,
 	["replicusowl-garalon"]=11,
-	["repuls-mirage-raceway"]=25,
+	["repuls-mirage-raceway"]=1,
 	["requíém-shekzeer"]=1,
 	["resaladin-shekzeer"]=15,
 	["resen-shekzeer"]=24,
@@ -9073,7 +9077,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["sorothefat-norushen"]=8,
 	["sosoczka-shekzeer"]=25,
 	["sosoo-shekzeer"]=3,
-	["sossos-hoptallus"]=34,
+	["sossos-hoptallus"]=24,
 	["sottolano-shekzeer"]=18,
 	["sotu-shekzeer"]=2,
 	["soulburnerx-auberdine"]=17,
@@ -10201,6 +10205,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Вэрш-flamegor"]=4,
 	["Вялыйвоин-flamegor"]=1,
 	["Вялыйжрец-flamegor"]=9,
+	["Вялыйкидней-flamegor"]=24,
 	["Вялыйкот-flamegor"]=3,
 	["Вялыйпал-flamegor"]=15,
 	["Вялыйпаладин-flamegor"]=15,
