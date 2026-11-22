@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9604 characters, read 2026-11-22 08:59 AM.
+-- Region tbc-eu, 9605 characters, read 2026-11-22 09:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -6069,6 +6069,7 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["pads-thunderstrike"]=111,
 	["padskí-thunderstrike"]=31,
 	["padylo-spineshatter"]=50,
+	["paffë-spineshatter"]=11,
 	["pafsmoul-spineshatter"]=70,
 	["paí-spineshatter"]=11,
 	["paik-spineshatter"]=10,
@@ -9893,7 +9894,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["ascetic-spineshatter"]=7,
 	["asdfghjklzxc-spineshatter"]=0,
 	["asferto-spineshatter"]=23,
-	["ashamedtwist-spineshatter"]=7,
+	["ashamedtwist-spineshatter"]=26,
 	["Åshka-spineshatter"]=9,
 	["ashleylol-spineshatter"]=0,
 	["ashniko-spineshatter"]=17,
@@ -15629,6 +15630,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["pads-thunderstrike"]=12,
 	["padskí-thunderstrike"]=25,
 	["padylo-spineshatter"]=13,
+	["paffë-spineshatter"]=2,
 	["pafsmoul-spineshatter"]=4,
 	["paí-spineshatter"]=4,
 	["paik-spineshatter"]=3,
