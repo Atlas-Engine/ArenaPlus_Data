@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9346 characters, read 2026-11-21 06:58 PM.
+-- Region tbc-us, 9346 characters, read 2026-11-21 07:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3252,7 +3252,6 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["grily-nightslayer"]=111,
 	["grîm-nightslayer"]=11,
 	["grimba-nightslayer"]=11,
-	["grimmajoow-nightslayer"]=71,
 	["grimmhorn-nightslayer"]=60,
 	["grimy-nightslayer"]=21,
 	["grinchy-nightslayer"]=41,
@@ -8496,6 +8495,7 @@ ns.LOOKS_BY_REGION["tbc-us"] = {
 	["veganstomper-nightslayer"]=100,
 	["vegasdave-dreamscythe"]=21,
 	["veinygremlin-nightslayer"]=20,
+	["vekkiller-nightslayer"]=70,
 	["vëkny-nightslayer"]=50,
 	["veliom-nightslayer"]=20,
 	["velistab-nightslayer"]=50,
@@ -12521,7 +12521,6 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["grily-nightslayer"]=10,
 	["grîm-nightslayer"]=5,
 	["grimba-nightslayer"]=18,
-	["grimmajoow-nightslayer"]=6,
 	["grimmhorn-nightslayer"]=18,
 	["grimy-nightslayer"]=16,
 	["grinchy-nightslayer"]=7,
@@ -16254,7 +16253,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["scyless-nightslayer"]=5,
 	["scynd-dreamscythe"]=4,
 	["scythë-nightslayer"]=18,
-	["sdeat-nightslayer"]=5,
+	["sdeat-nightslayer"]=8,
 	["sealenagómez-nightslayer"]=11,
 	["sealofcasino-nightslayer"]=11,
 	["sealtwistys-nightslayer"]=11,
@@ -17833,6 +17832,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["vegasdave-dreamscythe"]=18,
 	["veidaz-nightslayer"]=0,
 	["veinygremlin-nightslayer"]=5,
+	["vekkiller-nightslayer"]=13,
 	["vëkny-nightslayer"]=13,
 	["veliom-nightslayer"]=18,
 	["velistab-nightslayer"]=5,
