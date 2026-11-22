@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5209 characters, read 2026-11-21 07:59 PM.
+-- Region us, 5210 characters, read 2026-11-21 08:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4736,6 +4736,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["wearefoals-raden"]=41,
 	["webeballin-pagle"]=50,
 	["wekker-pagle"]=10,
+	["weknwdatruth-pagle"]=110,
 	["wendor-pagle"]=10,
 	["westjet-raden"]=10,
 	["wesyl-raden"]=11,
@@ -5483,7 +5484,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["blameblade-pagle"]=2,
 	["blamelucky-pagle"]=6,
 	["blankis-raden"]=6,
-	["blankisa-raden"]=2,
+	["blankisa-raden"]=16,
 	["blapblapblap-lei-shen"]=3,
 	["blappo-nazgrim"]=5,
 	["blasébill-arugal-au"]=3,
@@ -8048,7 +8049,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["moonspellol-galakras"]=14,
 	["møønstár-arugal-au"]=5,
 	["møonxz-raden"]=5,
-	["møønzx-galakras"]=17,
+	["møønzx-galakras"]=5,
 	["mootski-pagle"]=18,
 	["mopdruid-pagle"]=0,
 	["mopples-arugal-au"]=4,
@@ -9936,6 +9937,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["wearefoals-raden"]=17,
 	["webeballin-pagle"]=9,
 	["wekker-pagle"]=2,
+	["weknwdatruth-pagle"]=19,
 	["wendor-pagle"]=16,
 	["westjet-raden"]=7,
 	["wesyl-raden"]=24,
