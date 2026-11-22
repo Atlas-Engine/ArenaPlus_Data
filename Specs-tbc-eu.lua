@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9605 characters, read 2026-11-22 09:59 AM.
+-- Region tbc-eu, 9605 characters, read 2026-11-22 10:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -15351,7 +15351,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["nomera-spineshatter"]=10,
 	["nonàme-spineshatter"]=15,
 	["nonäme-spineshatter"]=5,
-	["nonamezx-spineshatter"]=9,
+	["nonamezx-spineshatter"]=4,
 	["nonamezxc-spineshatter"]=13,
 	["nøners-spineshatter"]=20,
 	["nòo-spineshatter"]=19,
@@ -15705,7 +15705,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["pastorknut-spineshatter"]=2,
 	["pastornknut-spineshatter"]=2,
 	["pastorpump-spineshatter"]=8,
-	["pastrà-spineshatter"]=3,
+	["pastrà-spineshatter"]=19,
 	["pasxar-spineshatter"]=15,
 	["pasxthree-spineshatter"]=12,
 	["patirl-spineshatter"]=5,
@@ -17506,7 +17506,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["strainf-spineshatter"]=3,
 	["stralak-spineshatter"]=13,
 	["strayo-spineshatter"]=9,
-	["streeaak-spineshatter"]=2,
+	["streeaak-spineshatter"]=17,
 	["streetmagíc-thunderstrike"]=9,
 	["streettriple-spineshatter"]=7,
 	["strema-spineshatter"]=15,
