@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9605 characters, read 2026-11-21 05:59 PM.
+-- Region tbc-eu, 9603 characters, read 2026-11-21 06:49 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4823,7 +4823,6 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["lysel-spineshatter"]=111,
 	["lyseria-spineshatter"]=50,
 	["lyssera-spineshatter"]=41,
-	["lyswr-spineshatter"]=11,
 	["lyxos-spineshatter"]=11,
 	["maastaveto-spineshatter"]=60,
 	["macancheese-spineshatter"]=81,
@@ -9329,7 +9328,6 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["zajee-spineshatter"]=60,
 	["zal-spineshatter"]=21,
 	["zala-spineshatter"]=50,
-	["zalguu-spineshatter"]=10,
 	["zall-spineshatter"]=51,
 	["zamarotti-spineshatter"]=20,
 	["zamoria-thunderstrike"]=31,
@@ -9968,7 +9966,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["avvep-spineshatter"]=7,
 	["awaitinwotlk-spineshatter"]=5,
 	["awesøme-spineshatter"]=17,
-	["awesoone-spineshatter"]=9,
+	["awesoone-spineshatter"]=4,
 	["awidius-spineshatter"]=12,
 	["awoll-spineshatter"]=5,
 	["awramz-spineshatter"]=2,
@@ -14039,7 +14037,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["lavíto-spineshatter"]=3,
 	["lavkarbo-spineshatter"]=3,
 	["lavmian-spineshatter"]=15,
-	["lawann-spineshatter"]=2,
+	["lawann-spineshatter"]=17,
 	["lawiné-spineshatter"]=8,
 	["lawrencejame-spineshatter"]=5,
 	["lawson-spineshatter"]=4,
@@ -14367,7 +14365,6 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["lysel-spineshatter"]=11,
 	["lyseria-spineshatter"]=19,
 	["lyssera-spineshatter"]=1,
-	["lyswr-spineshatter"]=5,
 	["lyxos-spineshatter"]=3,
 	["maastaveto-spineshatter"]=1,
 	["macancheese-spineshatter"]=22,
@@ -18937,7 +18934,6 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["zajee-spineshatter"]=1,
 	["zal-spineshatter"]=12,
 	["zala-spineshatter"]=9,
-	["zalguu-spineshatter"]=10,
 	["zall-spineshatter"]=2,
 	["zamarotti-spineshatter"]=13,
 	["zamoria-thunderstrike"]=17,

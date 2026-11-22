@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9346 characters, read 2026-11-21 05:58 PM.
+-- Region tbc-us, 9346 characters, read 2026-11-21 06:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9555,7 +9555,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["archrtwo-dreamscythe"]=24,
 	["archxr-dreamscythe"]=10,
 	["archymarshal-nightslayer"]=5,
-	["arctürüs-dreamscythe"]=4,
+	["arctürüs-dreamscythe"]=6,
 	["arctuva-nightslayer"]=7,
 	["ardrane-nightslayer"]=8,
 	["arenafanatic-nightslayer"]=2,
@@ -10499,7 +10499,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["carmenb-nightslayer"]=0,
 	["carpainter-nightslayer"]=4,
 	["carpetwalker-nightslayer"]=19,
-	["carrotopp-nightslayer"]=26,
+	["carrotopp-nightslayer"]=6,
 	["carrp-nightslayer"]=1,
 	["carrymebaby-nightslayer"]=7,
 	["carupanito-dreamscythe"]=15,
@@ -11530,7 +11530,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["dtachxd-nightslayer"]=7,
 	["dtn-nightslayer"]=1,
 	["dtrn-nightslayer"]=5,
-	["duaa-nightslayer"]=26,
+	["duaa-nightslayer"]=6,
 	["dubplate-dreamscythe"]=18,
 	["duckduckdots-dreamscythe"]=13,
 	["duckhead-nightslayer"]=1,
