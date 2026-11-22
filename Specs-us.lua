@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5210 characters, read 2026-11-21 10:59 PM.
+-- Region us, 5210 characters, read 2026-11-21 11:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3179,6 +3179,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["nukkz-arugal-au"]=11,
 	["nunnya-raden"]=11,
 	["nupper-pagle"]=11,
+	["nurfme-raden"]=41,
 	["nurfmedk-raden"]=11,
 	["nurfthemonk-pagle"]=10,
 	["nurfwarr-raden"]=10,
@@ -5984,7 +5985,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["dankenbrew-lei-shen"]=4,
 	["dankendwarf-pagle"]=22,
 	["dankenelf-pagle"]=5,
-	["dankenshroom-lei-shen"]=12,
+	["dankenshroom-lei-shen"]=5,
 	["dankenstein-lei-shen"]=22,
 	["dankorbs-pagle"]=4,
 	["dankshots-lei-shen"]=3,
@@ -7200,7 +7201,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["inorie-raden"]=4,
 	["insomniaxx-pagle"]=14,
 	["instantcarry-raden"]=10,
-	["integrityqt-pagle"]=13,
+	["integrityqt-pagle"]=9,
 	["intercepts-pagle"]=7,
 	["intrerri-pagle"]=34,
 	["intru-raden"]=3,
@@ -8286,7 +8287,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["nukkz-arugal-au"]=14,
 	["nunnya-raden"]=4,
 	["nupper-pagle"]=23,
-	["nurfme-raden"]=0,
+	["nurfme-raden"]=5,
 	["nurfmedk-raden"]=6,
 	["nurfthemonk-pagle"]=10,
 	["nurfwarr-raden"]=7,
@@ -8434,7 +8435,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["palapala-pagle"]=2,
 	["paledeath-immerseus"]=6,
 	["pallyboss-galakras"]=0,
-	["palodan-arugal-au"]=2,
+	["palodan-arugal-au"]=16,
 	["palpatîne-pagle"]=28,
 	["palyvash-galakras"]=16,
 	["palyy-raden"]=16,
