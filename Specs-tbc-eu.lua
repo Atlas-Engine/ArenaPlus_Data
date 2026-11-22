@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9603 characters, read 2026-11-22 02:59 AM.
+-- Region tbc-eu, 9603 characters, read 2026-11-22 03:54 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11920,7 +11920,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["enhaenjoyr-spineshatter"]=1,
 	["enhancelol-thunderstrike"]=11,
 	["enhancementx-spineshatter"]=12,
-	["enhbeastx-spineshatter"]=12,
+	["enhbeastx-spineshatter"]=11,
 	["enhshaman-spineshatter"]=12,
 	["enígma-spineshatter"]=4,
 	["enigmz-spineshatter"]=5,
@@ -13772,7 +13772,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["kipishnoi-spineshatter"]=11,
 	["kïra-spineshatter"]=5,
 	["kirajaeger-spineshatter"]=25,
-	["kirederfy-thunderstrike"]=2,
+	["kirederfy-thunderstrike"]=17,
 	["kirin-spineshatter"]=12,
 	["kirkebøssen-spineshatter"]=17,
 	["kirkoss-spineshatter"]=6,
@@ -15819,7 +15819,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["pikkukamu-spineshatter"]=2,
 	["pikkuliha-spineshatter"]=5,
 	["pikkulusti-spineshatter"]=23,
-	["pikkup-spineshatter"]=2,
+	["pikkup-spineshatter"]=8,
 	["pikkusuili-spineshatter"]=2,
 	["piljak-spineshatter"]=8,
 	["pillarhug-spineshatter"]=2,
@@ -17090,7 +17090,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["skizowizzard-spineshatter"]=5,
 	["skizzoskills-spineshatter"]=8,
 	["skjelten-spineshatter"]=15,
-	["skolott-spineshatter"]=24,
+	["skolott-spineshatter"]=25,
 	["skrepp-spineshatter"]=23,
 	["skrillêx-spineshatter"]=13,
 	["skritsch-spineshatter"]=9,

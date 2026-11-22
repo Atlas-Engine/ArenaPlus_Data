@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9346 characters, read 2026-11-22 02:58 AM.
+-- Region tbc-us, 9346 characters, read 2026-11-22 03:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -13007,7 +13007,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ignorancia-nightslayer"]=3,
 	["igotchoo-nightslayer"]=5,
 	["igotchootwo-nightslayer"]=4,
-	["igrogg-dreamscythe"]=15,
+	["igrogg-dreamscythe"]=17,
 	["ihatepallyz-dreamscythe"]=9,
 	["ihatethis-nightslayer"]=14,
 	["ihealyoupeel-nightslayer"]=12,
@@ -15345,7 +15345,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["pgshaman-nightslayer"]=10,
 	["phainmus-nightslayer"]=13,
 	["phalse-nightslayer"]=7,
-	["phanaticc-dreamscythe"]=5,
+	["phanaticc-dreamscythe"]=8,
 	["phanhealz-dreamscythe"]=7,
 	["pharma-nightslayer"]=6,
 	["pharun-nightslayer"]=1,
@@ -16006,7 +16006,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["rocketgoy-nightslayer"]=24,
 	["rocketpunch-nightslayer"]=0,
 	["rockx-nightslayer"]=25,
-	["rocmarciano-nightslayer"]=14,
+	["rocmarciano-nightslayer"]=1,
 	["rocuroníum-nightslayer"]=5,
 	["rocyo-nightslayer"]=8,
 	["rodmaster-dreamscythe"]=17,
@@ -16382,7 +16382,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["shamboozl-dreamscythe"]=19,
 	["shamchowda-dreamscythe"]=19,
 	["shamcloud-nightslayer"]=19,
-	["shamean-nightslayer"]=10,
+	["shamean-nightslayer"]=19,
 	["shameni-nightslayer"]=10,
 	["shamewoww-dreamscythe"]=10,
 	["shamfuku-dreamscythe"]=10,
