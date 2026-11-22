@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5367 characters, read 2026-11-21 09:00 PM.
+-- Region eu, 5368 characters, read 2026-11-21 10:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3023,6 +3023,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["Øxaqt-everlook"]=11,
 	["oxlade-shekzeer"]=10,
 	["oxygen-shekzeer"]=261,
+	["oyz-garalon"]=10,
 	["ozirisz-mirage-raceway"]=10,
 	["ozoleeroy-shekzeer"]=11,
 	["ozymaadyas-mirage-raceway"]=110,
@@ -6043,7 +6044,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["cyßerstar-shekzeer"]=21,
 	["czy-shekzeer"]=1,
 	["daçtera-shekzeer"]=7,
-	["daddylloyd-garalon"]=30,
+	["daddylloyd-garalon"]=5,
 	["daddysticks-garalon"]=7,
 	["dadsoldman-shekzeer"]=12,
 	["dadsoldmommy-shekzeer"]=12,
@@ -8291,6 +8292,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["Øxaqt-everlook"]=24,
 	["oxlade-shekzeer"]=5,
 	["oxygen-shekzeer"]=7,
+	["oyz-garalon"]=8,
 	["ozirisz-mirage-raceway"]=33,
 	["ozoleeroy-shekzeer"]=1,
 	["ozymaadyas-mirage-raceway"]=2,

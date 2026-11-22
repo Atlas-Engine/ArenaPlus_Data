@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9346 characters, read 2026-11-21 08:58 PM.
+-- Region tbc-us, 9346 characters, read 2026-11-21 09:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10549,7 +10549,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["cerren-nightslayer"]=19,
 	["cfm-nightslayer"]=1,
 	["chachamaru-nightslayer"]=10,
-	["chadcow-nightslayer"]=2,
+	["chadcow-nightslayer"]=18,
 	["chaddgar-nightslayer"]=6,
 	["chaddi-nightslayer"]=18,
 	["chadgamer-dreamscythe"]=18,
@@ -13587,7 +13587,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["khamenei-nightslayer"]=16,
 	["khamzy-dreamscythe"]=11,
 	["kharniv-nightslayer"]=2,
-	["kharno-nightslayer"]=7,
+	["kharno-nightslayer"]=3,
 	["khonshuu-nightslayer"]=1,
 	["khrött-dreamscythe"]=12,
 	["khrött-nightslayer"]=12,
@@ -14160,7 +14160,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["mägèbrø-nightslayer"]=4,
 	["magechamp-nightslayer"]=4,
 	["magejunk-dreamscythe"]=4,
-	["magekingx-nightslayer"]=4,
+	["magekingx-nightslayer"]=6,
 	["mageperson-nightslayer"]=0,
 	["magicalbean-dreamscythe"]=10,
 	["magicb-dreamscythe"]=4,
