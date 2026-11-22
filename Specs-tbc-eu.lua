@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9605 characters, read 2026-11-22 02:49 PM.
+-- Region tbc-eu, 9605 characters, read 2026-11-22 03:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11786,7 +11786,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["eggmon-spineshatter"]=8,
 	["egirlform-spineshatter"]=1,
 	["egirlmanagër-spineshatter"]=3,
-	["egirlshealer-spineshatter"]=6,
+	["egirlshealer-spineshatter"]=1,
 	["eid-spineshatter"]=9,
 	["eidô-thunderstrike"]=9,
 	["eikdin-spineshatter"]=26,
@@ -14732,7 +14732,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["milchev-spineshatter"]=9,
 	["milchpumpe-thunderstrike"]=5,
 	["milchtütejr-spineshatter"]=12,
-	["mileijavier-spineshatter"]=11,
+	["mileijavier-spineshatter"]=23,
 	["milevabog-spineshatter"]=2,
 	["milevan-spineshatter"]=1,
 	["mileysaprus-spineshatter"]=3,
@@ -15785,7 +15785,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["petgap-spineshatter"]=25,
 	["petite-spineshatter"]=6,
 	["petitsap-spineshatter"]=3,
-	["petrialtf-spineshatter"]=6,
+	["petrialtf-spineshatter"]=20,
 	["peukkupäivä-spineshatter"]=1,
 	["peven-spineshatter"]=4,
 	["pewpewnewque-spineshatter"]=3,
@@ -16492,7 +16492,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["romoimoi-spineshatter"]=12,
 	["rompyx-spineshatter"]=13,
 	["rompyxh-spineshatter"]=13,
-	["rompyxr-spineshatter"]=3,
+	["rompyxr-spineshatter"]=19,
 	["romtalix-spineshatter"]=1,
 	["ronaldoyo-spineshatter"]=2,
 	["ronaldpotter-spineshatter"]=10,

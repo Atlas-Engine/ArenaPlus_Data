@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9346 characters, read 2026-11-22 02:58 PM.
+-- Region tbc-us, 9346 characters, read 2026-11-22 03:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10392,7 +10392,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["buntasparks-nightslayer"]=7,
 	["bunzy-nightslayer"]=18,
 	["buom-nightslayer"]=5,
-	["burdienz-dreamscythe"]=22,
+	["burdienz-dreamscythe"]=7,
 	["burg-nightslayer"]=4,
 	["burnër-nightslayer"]=12,
 	["burnese-nightslayer"]=26,
@@ -11752,7 +11752,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["erinthos-nightslayer"]=1,
 	["erinthoss-nightslayer"]=11,
 	["erioz-nightslayer"]=5,
-	["erixee-nightslayer"]=2,
+	["erixee-nightslayer"]=18,
 	["erixieqt-nightslayer"]=4,
 	["erm-nightslayer"]=10,
 	["erpaderpxx-nightslayer"]=2,
@@ -13131,7 +13131,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ironsîde-nightslayer"]=18,
 	["ironthornx-nightslayer"]=22,
 	["irontough-dreamscythe"]=3,
-	["irscollector-nightslayer"]=1,
+	["irscollector-nightslayer"]=14,
 	["irvinstone-nightslayer"]=2,
 	["iseeyounow-dreamscythe"]=5,
 	["ishogall-dreamscythe"]=2,
@@ -18495,7 +18495,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["zedwarrior-dreamscythe"]=2,
 	["zeecrank-nightslayer"]=10,
 	["zeedo-nightslayer"]=8,
-	["zeedogg-nightslayer"]=1,
+	["zeedogg-nightslayer"]=14,
 	["zeedøgg-nightslayer"]=1,
 	["zeedoggx-nightslayer"]=1,
 	["zeedoggxd-nightslayer"]=1,

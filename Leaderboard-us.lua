@@ -18,7 +18,7 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region us, season 14, read 2026-11-22 02:59 PM.
+-- Region us, season 14, read 2026-11-22 03:59 PM.
 -- Realm display names, because the ladder only carries slugs and no rule
 -- turns one back into the other: raden is Ra-den, lei-shen is Lei Shen and
 -- arugal-au is Arugal (AU). Read from Blizzard's realm index; a slug with no
@@ -35,8 +35,8 @@ ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["us"] = {
 	region  = "us",
-	checked = "2026-11-22 02:59 PM",
-	checkedEpoch = 1795377569,
+	checked = "2026-11-22 03:59 PM",
+	checkedEpoch = 1795381169,
 	snapshot = "2026-11-22 19:48",
 
 	[1] = {  -- 2v2, 5006 places, down to rating 1135 -- the API stops here, short of the cutoff
@@ -871,18 +871,18 @@ ns.LEADERBOARD_BY_REGION["us"] = {
 		{ rank=828, name="Fyruss", realm="pagle", rating=2162, won=117, lost=136, faction="ALLIANCE", dr=0, dk=2 },
 		{ rank=828, name="Ganonmauz", realm="raden", rating=2162, won=50, lost=20, faction="ALLIANCE", dr=0, dk=2 },
 		{ rank=828, name="Sonical", realm="arugal-au", rating=2162, won=57, lost=55, faction="ALLIANCE", mr=2166, dr=0, dk=2 },
+		{ rank=832, name="Daddichill", realm="raden", rating=2161, won=147, lost=141, faction="ALLIANCE", mr=2184, dr=3, dk=-7 },
 		{ rank=832, name="Elzaneto", realm="raden", rating=2161, won=51, lost=35, faction="ALLIANCE", dr=0, dk=2 },
 		{ rank=832, name="Jetaa", realm="raden", rating=2161, won=73, lost=44, faction="ALLIANCE", dr=0, dk=2 },
 		{ rank=832, name="Konkachilla", realm="raden", rating=2161, won=108, lost=87, faction="ALLIANCE", dr=0, dk=2 },
 		{ rank=832, name="Peachpounder", realm="pagle", rating=2161, won=70, lost=59, faction="ALLIANCE", mr=2200, dr=0, dk=2 },
 		{ rank=832, name="Twiggletree", realm="raden", rating=2161, won=52, lost=29, faction="ALLIANCE", dr=0, dk=2 },
-		{ rank=837, name="Fxd", realm="arugal-au", rating=2160, won=82, lost=54, faction="ALLIANCE", mr=2206, dr=0, dk=2 },
-		{ rank=838, name="Jacobspillow", realm="arugal-au", rating=2159, won=168, lost=148, faction="ALLIANCE", dr=0, dk=2 },
-		{ rank=838, name="Lilbonk", realm="galakras", rating=2159, won=132, lost=97, faction="ALLIANCE", dr=0, dk=2 },
-		{ rank=838, name="Zench", realm="raden", rating=2159, won=46, lost=33, faction="ALLIANCE", dr=0, dk=2 },
-		{ rank=841, name="Cconsequence", realm="raden", rating=2158, won=111, lost=79, faction="ALLIANCE", mr=2184, dr=0, dk=2 },
-		{ rank=841, name="Daddichill", realm="raden", rating=2158, won=146, lost=141, faction="ALLIANCE", mr=2184, dr=0, dk=2 },
-		{ rank=841, name="Paulmanafort", realm="pagle", rating=2158, won=133, lost=123, faction="ALLIANCE", dr=30, dk=-69 },
+		{ rank=838, name="Fxd", realm="arugal-au", rating=2160, won=82, lost=54, faction="ALLIANCE", mr=2206, dr=0, dk=3 },
+		{ rank=839, name="Jacobspillow", realm="arugal-au", rating=2159, won=168, lost=148, faction="ALLIANCE", dr=0, dk=3 },
+		{ rank=839, name="Lilbonk", realm="galakras", rating=2159, won=132, lost=97, faction="ALLIANCE", dr=0, dk=3 },
+		{ rank=839, name="Zench", realm="raden", rating=2159, won=46, lost=33, faction="ALLIANCE", dr=0, dk=3 },
+		{ rank=842, name="Cconsequence", realm="raden", rating=2158, won=111, lost=79, faction="ALLIANCE", mr=2184, dr=0, dk=3 },
+		{ rank=842, name="Paulmanafort", realm="pagle", rating=2158, won=133, lost=123, faction="ALLIANCE", dr=30, dk=-68 },
 		{ rank=844, name="Anariita", realm="nazgrim", rating=2157, won=1116, lost=1258, faction="HORDE", mr=2159, dr=0, dk=2 },
 		{ rank=844, name="Ar", realm="pagle", rating=2157, won=306, lost=303, faction="HORDE", dr=0, dk=2 },
 		{ rank=846, name="Devzo", realm="pagle", rating=2156, won=138, lost=137, faction="HORDE", mr=2205, dr=0, dk=2 },
