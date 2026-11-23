@@ -42,7 +42,7 @@ local ns = ArenaPlusData
 -- source_item, so gems are stored as real item ids the client can draw and only
 -- the enchant text has to ship.
 --
--- Region us, 442 characters, 392 glyph names, read 2026-11-23 08:20 AM.
+-- Region us, 442 characters, 392 glyph names, read 2026-11-23 09:20 AM.
 ns.GLYPH_NAMES = ns.GLYPH_NAMES or {}
 
 for id, name in pairs({
@@ -446,40 +446,13 @@ for id, name in pairs({
 ns.TALENT_NAMES = ns.TALENT_NAMES or {}
 
 for id, name in pairs({
-	[16188]="Ancestral Swiftness",
-	[19386]="Wyvern Sting",
-	[30884]="Nature's Guardian",
-	[63374]="Frozen Power",
-	[79008]="Elusiveness",
-	[82726]="Fervor",
-	[108208]="Subterfuge",
-	[108210]="Nerve Strike",
-	[108212]="Burst of Speed",
-	[108273]="Windwalk Totem",
-	[108281]="Ancestral Guidance",
-	[108285]="Call of the Elements",
-	[108920]="Void Tendrils",
-	[108921]="Psyfiend",
-	[109175]="Divine Insight",
 	[109212]="Spirit Bond",
-	[109215]="Posthaste",
 	[109248]="Binding Shot",
-	[109259]="Powershot",
-	[109260]="Aspect of the Iron Hawk",
 	[109306]="Thrill of the Hunt",
-	[110744]="Divine Star",
-	[112833]="Spectral Guise",
-	[117012]="Unleashed Fury",
-	[117014]="Elemental Blast",
 	[117050]="Glaive Toss",
 	[118675]="Crouching Tiger, Hidden Chimera",
 	[120679]="Dire Beast",
-	[121536]="Angelic Feather",
-	[123040]="Mindbender",
-	[131511]="Prey on the Weak",
 	[131894]="A Murder of Crows",
-	[137619]="Marked for Death",
-	[147074]="Rushing Streams",
 }) do ns.TALENT_NAMES[id] = name end
 
 -- Which talent a rank-spell belongs to, and how many ranks that talent has.

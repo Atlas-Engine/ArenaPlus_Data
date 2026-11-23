@@ -20,8 +20,8 @@ local ns = ArenaPlusData
 ns.ACTIVITY_BY_REGION = ns.ACTIVITY_BY_REGION or {}
 
 ns.ACTIVITY_BY_REGION["tbc-us"] = {
-	built = 1795442313,
-	builtText = "2026-11-23 08:58 AM",
+	built = 1795445912,
+	builtText = "2026-11-23 09:58 AM",
 	windows = { 1, 3, 6, 12, 24 },
 	[1] = {  -- the last 1 hour(s)
 	},
@@ -31,28 +31,27 @@ ns.ACTIVITY_BY_REGION["tbc-us"] = {
 	},
 	[12] = {  -- the last 12 hour(s)
 		[1] = {
-			["Gzlol|dreamscythe"] = { 15, 22, -9, 460 },
-			["Möxie|dreamscythe"] = { 10, 18, 28, 667 },
-			["Ryanin|dreamscythe"] = { 16, 5, 70, 587 },
-			["Notwzbx|dreamscythe"] = { 13, 2, 90, 640 },
-			["Lizzygrey|nightslayer"] = { 9, 4, 19, 567 },
-			["Mopz|nightslayer"] = { 9, 4, 20, 566 },
-			["Xczv|dreamscythe"] = { 11, 1, 80, 640 },
+			["Gzlol|dreamscythe"] = { 15, 22, -9, 520 },
+			["Ryanin|dreamscythe"] = { 16, 5, 70, 647 },
+			["Notwzbx|dreamscythe"] = { 13, 2, 90, 700 },
+			["Lizzygrey|nightslayer"] = { 9, 4, 19, 627 },
+			["Mopz|nightslayer"] = { 9, 4, 20, 626 },
+			["Xczv|dreamscythe"] = { 11, 1, 80, 700 },
 		},
 	},
 	[24] = {  -- the last 24 hour(s)
 		[1] = {
-			["Gzlol|dreamscythe"] = { 15, 22, -9, 460 },
-			["Möxie|dreamscythe"] = { 10, 18, 28, 667 },
-			["Ryanin|dreamscythe"] = { 16, 5, 70, 587 },
-			["Notwzbx|dreamscythe"] = { 13, 2, 90, 640 },
-			["Lizzygrey|nightslayer"] = { 9, 4, 19, 567 },
-			["Mopz|nightslayer"] = { 9, 4, 20, 566 },
-			["Neytïrï|dreamscythe"] = { 11, 1, 81, 729 },
-			["Xczv|dreamscythe"] = { 11, 1, 80, 640 },
-			["Willinek|nightslayer"] = { 10, 0, 69, 837 },
-			["Gnaw|nightslayer"] = { 0, 1, -20, 807 },
-			["Yodead|nightslayer"] = { 0, 1, -20, 807 },
+			["Gzlol|dreamscythe"] = { 15, 22, -9, 520 },
+			["Möxie|dreamscythe"] = { 10, 18, 28, 727 },
+			["Ryanin|dreamscythe"] = { 16, 5, 70, 647 },
+			["Notwzbx|dreamscythe"] = { 13, 2, 90, 700 },
+			["Lizzygrey|nightslayer"] = { 9, 4, 19, 627 },
+			["Mopz|nightslayer"] = { 9, 4, 20, 626 },
+			["Neytïrï|dreamscythe"] = { 11, 1, 81, 789 },
+			["Xczv|dreamscythe"] = { 11, 1, 80, 700 },
+			["Willinek|nightslayer"] = { 10, 0, 69, 897 },
+			["Gnaw|nightslayer"] = { 0, 1, -20, 867 },
+			["Yodead|nightslayer"] = { 0, 1, -20, 867 },
 		},
 	},
 }
