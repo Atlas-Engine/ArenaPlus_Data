@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9605 characters, read 2026-11-23 04:59 AM.
+-- Region tbc-eu, 9605 characters, read 2026-11-23 05:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9562,7 +9562,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["abrødolph-spineshatter"]=1,
 	["absá-spineshatter"]=3,
 	["absô-thunderstrike"]=2,
-	["absosx-spineshatter"]=13,
+	["absosx-spineshatter"]=18,
 	["abstak-spineshatter"]=3,
 	["abusala-spineshatter"]=9,
 	["abuzzed-spineshatter"]=1,
@@ -11806,7 +11806,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["ekollonet-thunderstrike"]=12,
 	["eksellent-spineshatter"]=4,
 	["ektomorfos-spineshatter"]=16,
-	["ekvil-spineshatter"]=3,
+	["ekvil-spineshatter"]=19,
 	["elainesandra-spineshatter"]=1,
 	["elbardovich-spineshatter"]=1,
 	["elbenzo-spineshatter"]=1,
@@ -18751,7 +18751,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["xeht-spineshatter"]=12,
 	["xeido-spineshatter"]=13,
 	["xeído-spineshatter"]=5,
-	["xeir-spineshatter"]=3,
+	["xeir-spineshatter"]=19,
 	["xeiy-spineshatter"]=3,
 	["xéluna-thunderstrike"]=1,
 	["xénà-spineshatter"]=5,
