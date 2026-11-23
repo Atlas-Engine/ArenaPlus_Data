@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9605 characters, read 2026-11-23 03:59 AM.
+-- Region tbc-eu, 9605 characters, read 2026-11-23 04:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -14483,7 +14483,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["manaburnspam-spineshatter"]=8,
 	["managoesbrr-thunderstrike"]=2,
 	["manaintèrnx-spineshatter"]=2,
-	["manakspain-thunderstrike"]=2,
+	["manakspain-thunderstrike"]=17,
 	["manamanagèrx-spineshatter"]=2,
 	["manaprovider-spineshatter"]=8,
 	["manâra-thunderstrike"]=11,
@@ -15227,7 +15227,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["neurol-spineshatter"]=2,
 	["neurola-spineshatter"]=7,
 	["neuröla-spineshatter"]=7,
-	["neuromonk-spineshatter"]=23,
+	["neuromonk-spineshatter"]=12,
 	["neuroold-spineshatter"]=13,
 	["neurosia-thunderstrike"]=2,
 	["neverdotx-spineshatter"]=13,
@@ -18138,7 +18138,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["tuufwl-spineshatter"]=13,
 	["tuupsham-spineshatter"]=12,
 	["tuupsie-spineshatter"]=15,
-	["tuupson-spineshatter"]=5,
+	["tuupson-spineshatter"]=22,
 	["tuupsy-spineshatter"]=7,
 	["tuupz-spineshatter"]=5,
 	["tuutje-thunderstrike"]=19,
