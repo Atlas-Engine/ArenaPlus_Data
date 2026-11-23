@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9605 characters, read 2026-11-23 02:59 PM.
+-- Region tbc-eu, 9605 characters, read 2026-11-23 03:54 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5248,7 +5248,6 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["mithax-thunderstrike"]=31,
 	["mithís-spineshatter"]=11,
 	["mitiati-thunderstrike"]=61,
-	["mitou-spineshatter"]=60,
 	["mitsa-thunderstrike"]=21,
 	["mixidermixer-spineshatter"]=20,
 	["mixt-spineshatter"]=50,
@@ -5904,6 +5903,7 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["obduracy-thunderstrike"]=11,
 	["obeesi-spineshatter"]=31,
 	["obeltwo-spineshatter"]=60,
+	["obossan-spineshatter"]=11,
 	["obrazets-spineshatter"]=51,
 	["obrazéts-spineshatter"]=61,
 	["obshag-spineshatter"]=20,
@@ -14798,7 +14798,6 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["mithax-thunderstrike"]=2,
 	["mithís-spineshatter"]=3,
 	["mitiati-thunderstrike"]=1,
-	["mitou-spineshatter"]=5,
 	["mitsa-thunderstrike"]=11,
 	["mixidermixer-spineshatter"]=19,
 	["mixt-spineshatter"]=3,
@@ -14861,7 +14860,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["monkymad-spineshatter"]=3,
 	["mønø-spineshatter"]=3,
 	["monstergodx-spineshatter"]=10,
-	["monstertilin-thunderstrike"]=13,
+	["monstertilin-thunderstrike"]=18,
 	["monstrchminé-spineshatter"]=3,
 	["montriel-spineshatter"]=2,
 	["montypmk-thunderstrike"]=2,
@@ -15464,6 +15463,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["obduracy-thunderstrike"]=26,
 	["obeesi-spineshatter"]=24,
 	["obeltwo-spineshatter"]=20,
+	["obossan-spineshatter"]=3,
 	["obrazets-spineshatter"]=2,
 	["obrazéts-spineshatter"]=1,
 	["obshag-spineshatter"]=5,
@@ -16149,7 +16149,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["qvcqt-spineshatter"]=23,
 	["qvì-spineshatter"]=15,
 	["qvist-spineshatter"]=13,
-	["qwèh-spineshatter"]=9,
+	["qwèh-spineshatter"]=4,
 	["qwertzuiop-spineshatter"]=25,
 	["qwwêrô-spineshatter"]=2,
 	["qwwerotwo-spineshatter"]=2,
