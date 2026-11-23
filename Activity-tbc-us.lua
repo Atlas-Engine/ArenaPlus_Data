@@ -20,8 +20,8 @@ local ns = ArenaPlusData
 ns.ACTIVITY_BY_REGION = ns.ACTIVITY_BY_REGION or {}
 
 ns.ACTIVITY_BY_REGION["tbc-us"] = {
-	built = 1795445912,
-	builtText = "2026-11-23 09:58 AM",
+	built = 1795449512,
+	builtText = "2026-11-23 10:58 AM",
 	windows = { 1, 3, 6, 12, 24 },
 	[1] = {  -- the last 1 hour(s)
 	},
@@ -31,27 +31,25 @@ ns.ACTIVITY_BY_REGION["tbc-us"] = {
 	},
 	[12] = {  -- the last 12 hour(s)
 		[1] = {
-			["Gzlol|dreamscythe"] = { 15, 22, -9, 520 },
-			["Ryanin|dreamscythe"] = { 16, 5, 70, 647 },
-			["Notwzbx|dreamscythe"] = { 13, 2, 90, 700 },
-			["Lizzygrey|nightslayer"] = { 9, 4, 19, 627 },
-			["Mopz|nightslayer"] = { 9, 4, 20, 626 },
-			["Xczv|dreamscythe"] = { 11, 1, 80, 700 },
+			["Lizzygrey|nightslayer"] = { 8, 2, 32, 687 },
+			["Mopz|nightslayer"] = { 8, 2, 32, 686 },
+			["Gzlol|dreamscythe"] = { 3, 3, 17, 580 },
+			["Ryanin|dreamscythe"] = { 3, 3, -14, 707 },
 		},
 	},
 	[24] = {  -- the last 24 hour(s)
 		[1] = {
-			["Gzlol|dreamscythe"] = { 15, 22, -9, 520 },
-			["Möxie|dreamscythe"] = { 10, 18, 28, 727 },
-			["Ryanin|dreamscythe"] = { 16, 5, 70, 647 },
-			["Notwzbx|dreamscythe"] = { 13, 2, 90, 700 },
-			["Lizzygrey|nightslayer"] = { 9, 4, 19, 627 },
-			["Mopz|nightslayer"] = { 9, 4, 20, 626 },
-			["Neytïrï|dreamscythe"] = { 11, 1, 81, 789 },
-			["Xczv|dreamscythe"] = { 11, 1, 80, 700 },
-			["Willinek|nightslayer"] = { 10, 0, 69, 897 },
-			["Gnaw|nightslayer"] = { 0, 1, -20, 867 },
-			["Yodead|nightslayer"] = { 0, 1, -20, 867 },
+			["Gzlol|dreamscythe"] = { 15, 22, -9, 580 },
+			["Möxie|dreamscythe"] = { 10, 18, 28, 787 },
+			["Ryanin|dreamscythe"] = { 16, 5, 70, 707 },
+			["Notwzbx|dreamscythe"] = { 13, 2, 90, 760 },
+			["Lizzygrey|nightslayer"] = { 9, 4, 19, 687 },
+			["Mopz|nightslayer"] = { 9, 4, 20, 686 },
+			["Neytïrï|dreamscythe"] = { 11, 1, 81, 849 },
+			["Xczv|dreamscythe"] = { 11, 1, 80, 760 },
+			["Willinek|nightslayer"] = { 10, 0, 69, 957 },
+			["Gnaw|nightslayer"] = { 0, 1, -20, 927 },
+			["Yodead|nightslayer"] = { 0, 1, -20, 927 },
 		},
 	},
 }

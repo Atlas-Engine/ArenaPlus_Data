@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9605 characters, read 2026-11-23 09:59 AM.
+-- Region tbc-eu, 9605 characters, read 2026-11-23 10:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10389,7 +10389,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["blonly-spineshatter"]=23,
 	["bloodcleaver-spineshatter"]=5,
 	["bloodgar-thunderstrike"]=5,
-	["bloodmojo-thunderstrike"]=10,
+	["bloodmojo-thunderstrike"]=26,
 	["bloodwhiite-spineshatter"]=0,
 	["blóom-spineshatter"]=1,
 	["bløøm-thunderstrike"]=26,
@@ -13867,7 +13867,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["körtisen-thunderstrike"]=4,
 	["kortslutt-spineshatter"]=23,
 	["kosengo-spineshatter"]=12,
-	["kotekus-spineshatter"]=3,
+	["kotekus-spineshatter"]=19,
 	["kotkiss-spineshatter"]=1,
 	["kotkissxx-spineshatter"]=2,
 	["kotsvlekje-spineshatter"]=2,
@@ -14225,7 +14225,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["ljónshjarta-spineshatter"]=7,
 	["lldelode-spineshatter"]=6,
 	["llewella-spineshatter"]=7,
-	["llovedruid-spineshatter"]=19,
+	["llovedruid-spineshatter"]=3,
 	["lmj-spineshatter"]=2,
 	["lnrs-spineshatter"]=5,
 	["loabless-thunderstrike"]=2,
