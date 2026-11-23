@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9605 characters, read 2026-11-23 02:59 AM.
+-- Region tbc-eu, 9605 characters, read 2026-11-23 03:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -12895,7 +12895,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["hittinghard-spineshatter"]=3,
 	["hjärtatförst-spineshatter"]=25,
 	["hkx-spineshatter"]=13,
-	["hmrjd-spineshatter"]=5,
+	["hmrjd-spineshatter"]=15,
 	["hnd-spineshatter"]=14,
 	["hobbles-spineshatter"]=5,
 	["hobojack-spineshatter"]=12,
@@ -16862,7 +16862,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["shamayces-thunderstrike"]=11,
 	["shamâzing-thunderstrike"]=11,
 	["shamcheez-thunderstrike"]=23,
-	["shamdura-thunderstrike"]=11,
+	["shamdura-thunderstrike"]=23,
 	["shamecy-spineshatter"]=12,
 	["shamlox-spineshatter"]=12,
 	["shamlôx-spineshatter"]=12,
@@ -18606,7 +18606,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["wickman-spineshatter"]=13,
 	["wifesmasher-spineshatter"]=11,
 	["wikick-thunderstrike"]=5,
-	["wikous-spineshatter"]=9,
+	["wikous-spineshatter"]=4,
 	["wildmom-spineshatter"]=6,
 	["wildrooster-spineshatter"]=1,
 	["wildwater-spineshatter"]=5,
