@@ -20,46 +20,40 @@ local ns = ArenaPlusData
 ns.ACTIVITY_BY_REGION = ns.ACTIVITY_BY_REGION or {}
 
 ns.ACTIVITY_BY_REGION["tbc-us"] = {
-	built = 1795435111,
-	builtText = "2026-11-23 06:58 AM",
+	built = 1795438714,
+	builtText = "2026-11-23 07:58 AM",
 	windows = { 1, 3, 6, 12, 24 },
 	[1] = {  -- the last 1 hour(s)
 	},
 	[3] = {  -- the last 3 hour(s)
 	},
 	[6] = {  -- the last 6 hour(s)
-		[1] = {
-			["Gzlol|dreamscythe"] = { 3, 3, 17, 340 },
-		},
 	},
 	[12] = {  -- the last 12 hour(s)
 		[1] = {
-			["Gzlol|dreamscythe"] = { 15, 22, -9, 340 },
-			["Möxie|dreamscythe"] = { 10, 18, 28, 547 },
-			["Ryanin|dreamscythe"] = { 16, 5, 70, 467 },
-			["Notwzbx|dreamscythe"] = { 13, 2, 90, 520 },
-			["Lizzygrey|nightslayer"] = { 9, 4, 19, 447 },
-			["Mopz|nightslayer"] = { 9, 4, 20, 446 },
-			["Neytïrï|dreamscythe"] = { 11, 1, 81, 609 },
-			["Xczv|dreamscythe"] = { 11, 1, 80, 520 },
-			["Willinek|nightslayer"] = { 10, 0, 69, 717 },
-			["Gnaw|nightslayer"] = { 0, 1, -20, 687 },
-			["Yodead|nightslayer"] = { 0, 1, -20, 687 },
+			["Gzlol|dreamscythe"] = { 15, 22, -9, 400 },
+			["Möxie|dreamscythe"] = { 10, 18, 28, 607 },
+			["Ryanin|dreamscythe"] = { 16, 5, 70, 527 },
+			["Notwzbx|dreamscythe"] = { 13, 2, 90, 580 },
+			["Lizzygrey|nightslayer"] = { 9, 4, 19, 507 },
+			["Mopz|nightslayer"] = { 9, 4, 20, 506 },
+			["Neytïrï|dreamscythe"] = { 11, 1, 81, 669 },
+			["Xczv|dreamscythe"] = { 11, 1, 80, 580 },
 		},
 	},
 	[24] = {  -- the last 24 hour(s)
 		[1] = {
-			["Gzlol|dreamscythe"] = { 15, 22, -9, 340 },
-			["Möxie|dreamscythe"] = { 10, 18, 28, 547 },
-			["Ryanin|dreamscythe"] = { 16, 5, 70, 467 },
-			["Notwzbx|dreamscythe"] = { 13, 2, 90, 520 },
-			["Lizzygrey|nightslayer"] = { 9, 4, 19, 447 },
-			["Mopz|nightslayer"] = { 9, 4, 20, 446 },
-			["Neytïrï|dreamscythe"] = { 11, 1, 81, 609 },
-			["Xczv|dreamscythe"] = { 11, 1, 80, 520 },
-			["Willinek|nightslayer"] = { 10, 0, 69, 717 },
-			["Gnaw|nightslayer"] = { 0, 1, -20, 687 },
-			["Yodead|nightslayer"] = { 0, 1, -20, 687 },
+			["Gzlol|dreamscythe"] = { 15, 22, -9, 400 },
+			["Möxie|dreamscythe"] = { 10, 18, 28, 607 },
+			["Ryanin|dreamscythe"] = { 16, 5, 70, 527 },
+			["Notwzbx|dreamscythe"] = { 13, 2, 90, 580 },
+			["Lizzygrey|nightslayer"] = { 9, 4, 19, 507 },
+			["Mopz|nightslayer"] = { 9, 4, 20, 506 },
+			["Neytïrï|dreamscythe"] = { 11, 1, 81, 669 },
+			["Xczv|dreamscythe"] = { 11, 1, 80, 580 },
+			["Willinek|nightslayer"] = { 10, 0, 69, 777 },
+			["Gnaw|nightslayer"] = { 0, 1, -20, 747 },
+			["Yodead|nightslayer"] = { 0, 1, -20, 747 },
 		},
 	},
 }
