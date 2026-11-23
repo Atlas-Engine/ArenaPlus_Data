@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9605 characters, read 2026-11-23 01:59 AM.
+-- Region tbc-eu, 9605 characters, read 2026-11-23 02:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -10434,7 +10434,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["bogdanich-spineshatter"]=9,
 	["bogroll-spineshatter"]=11,
 	["bojan-spineshatter"]=25,
-	["bojeboje-spineshatter"]=2,
+	["bojeboje-spineshatter"]=17,
 	["bokpugx-spineshatter"]=5,
 	["bolarzx-spineshatter"]=13,
 	["bolerino-spineshatter"]=4,
@@ -13578,7 +13578,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["kalimbaa-spineshatter"]=9,
 	["kalimbo-spineshatter"]=9,
 	["kalith-spineshatter"]=6,
-	["kalleb-spineshatter"]=2,
+	["kalleb-spineshatter"]=17,
 	["kallemask-spineshatter"]=5,
 	["kallemera-spineshatter"]=7,
 	["kalsing-thunderstrike"]=25,
@@ -15323,7 +15323,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["nizz-spineshatter"]=9,
 	["nizzpriest-spineshatter"]=17,
 	["njia-spineshatter"]=1,
-	["nlawfury-spineshatter"]=11,
+	["nlawfury-spineshatter"]=23,
 	["nlightx-spineshatter"]=3,
 	["nnsn-thunderstrike"]=20,
 	["noalia-spineshatter"]=19,
