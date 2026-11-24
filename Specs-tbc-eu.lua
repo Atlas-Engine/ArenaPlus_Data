@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9604 characters, read 2026-11-24 01:59 PM.
+-- Region tbc-eu, 9604 characters, read 2026-11-24 02:49 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -11451,7 +11451,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["djfatmichael-spineshatter"]=26,
 	["djhadoukenz-spineshatter"]=12,
 	["djhex-spineshatter"]=2,
-	["djhoofton-spineshatter"]=1,
+	["djhoofton-spineshatter"]=6,
 	["djinn-spineshatter"]=3,
 	["djmanolox-spineshatter"]=11,
 	["djmøngøbøngø-spineshatter"]=3,
@@ -11666,7 +11666,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["drprayerlol-spineshatter"]=2,
 	["drrakuz-spineshatter"]=23,
 	["drschultz-spineshatter"]=15,
-	["drschussmann-spineshatter"]=24,
+	["drschussmann-spineshatter"]=25,
 	["drsheep-spineshatter"]=9,
 	["drsus-spineshatter"]=11,
 	["drtcrnx-spineshatter"]=7,
@@ -18876,7 +18876,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["ylime-spineshatter"]=9,
 	["yllnoth-spineshatter"]=3,
 	["ymatùmi-spineshatter"]=1,
-	["ymbr-spineshatter"]=3,
+	["ymbr-spineshatter"]=19,
 	["ymbw-spineshatter"]=15,
 	["ynnxx-spineshatter"]=1,
 	["yns-spineshatter"]=15,
