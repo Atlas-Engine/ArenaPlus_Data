@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9604 characters, read 2026-11-23 07:59 PM.
+-- Region tbc-eu, 9604 characters, read 2026-11-23 08:44 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -13494,7 +13494,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["juicemeister-spineshatter"]=3,
 	["juicygoat-spineshatter"]=12,
 	["juicyhole-spineshatter"]=1,
-	["juicymomy-thunderstrike"]=5,
+	["juicymomy-thunderstrike"]=15,
 	["juicypriest-spineshatter"]=2,
 	["juicytwo-spineshatter"]=12,
 	["juicyxd-spineshatter"]=5,
@@ -13514,7 +13514,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["justaduc-spineshatter"]=13,
 	["justaduck-spineshatter"]=5,
 	["justawarlock-spineshatter"]=13,
-	["justforjoy-spineshatter"]=3,
+	["justforjoy-spineshatter"]=19,
 	["justhealbro-thunderstrike"]=1,
 	["justjj-thunderstrike"]=20,
 	["justlol-spineshatter"]=1,
@@ -16482,7 +16482,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["rolexmale-spineshatter"]=3,
 	["rolexow-spineshatter"]=3,
 	["rolexowtwo-spineshatter"]=3,
-	["rolikek-spineshatter"]=3,
+	["rolikek-spineshatter"]=19,
 	["rollfacezz-thunderstrike"]=7,
 	["rollond-spineshatter"]=1,
 	["roltenz-spineshatter"]=5,
