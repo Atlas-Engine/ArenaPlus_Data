@@ -18,7 +18,7 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region tbc-us, season 3, read 2026-11-24 09:58 AM.
+-- Region tbc-us, season 3, read 2026-11-24 10:58 AM.
 -- Realm display names, because the ladder only carries slugs and no rule
 -- turns one back into the other: raden is Ra-den, lei-shen is Lei Shen and
 -- arugal-au is Arugal (AU). Read from Blizzard's realm index; a slug with no
@@ -32,11 +32,11 @@ ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["tbc-us"] = {
 	region  = "tbc-us",
-	checked = "2026-11-24 09:58 AM",
-	checkedEpoch = 1795532295,
-	snapshot = "2026-11-24 12:19",
+	checked = "2026-11-24 10:58 AM",
+	checkedEpoch = 1795535896,
+	snapshot = "2026-11-24 15:19",
 
-	[1] = {  -- 2v2, 5010 places, down to rating 1486 -- the API stops here, short of the cutoff
+	[1] = {  -- 2v2, 5009 places, down to rating 1486 -- the API stops here, short of the cutoff
 		{ rank=1, name="Mosquietos", realm="nightslayer", rating=2700, won=381, lost=115, faction="HORDE", dr=0, dk=0 },
 		{ rank=1, name="Trackpad", realm="nightslayer", rating=2700, won=296, lost=81, faction="HORDE", dr=0, dk=0 },
 		{ rank=3, name="Gothicgooner", realm="nightslayer", rating=2654, won=115, lost=6, faction="HORDE", dr=0, dk=0 },
@@ -5046,7 +5046,6 @@ ns.LEADERBOARD_BY_REGION["tbc-us"] = {
 		{ rank=4994, name="Riskybiznes", realm="dreamscythe", rating=1692, won=94, lost=89, faction="ALLIANCE", mr=1764, dr=0, dk=6 },
 		{ rank=4994, name="Schuvzadinya", realm="dreamscythe", rating=1692, won=65, lost=51, faction="ALLIANCE", mr=1718, dr=0, dk=6 },
 		{ rank=4994, name="Zorr", realm="nightslayer", rating=1692, won=20, lost=9, faction="HORDE", dr=0, dk=6 },
-		{ rank=5010, name="Maigaysiao", realm="nightslayer", rating=1670, won=246, lost=209, faction="HORDE", mr=1965, dr=-130, dk=2340 },
 	},
 	[2] = {  -- 3v3, 5027 places, down to rating 1498 -- the API stops here, short of the cutoff
 		{ rank=1, name="Mindbugger", realm="nightslayer", rating=2539, won=181, lost=42, faction="HORDE", dr=0, dk=0 },
