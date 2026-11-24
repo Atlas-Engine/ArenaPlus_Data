@@ -18,7 +18,7 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region us, season 14, read 2026-11-24 02:59 PM.
+-- Region us, season 14, read 2026-11-24 03:59 PM.
 -- Realm display names, because the ladder only carries slugs and no rule
 -- turns one back into the other: raden is Ra-den, lei-shen is Lei Shen and
 -- arugal-au is Arugal (AU). Read from Blizzard's realm index; a slug with no
@@ -35,8 +35,8 @@ ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["us"] = {
 	region  = "us",
-	checked = "2026-11-24 02:59 PM",
-	checkedEpoch = 1795550370,
+	checked = "2026-11-24 03:59 PM",
+	checkedEpoch = 1795553969,
 	snapshot = "2026-11-24 18:16",
 
 	[1] = {  -- 2v2, 5007 places, down to rating 1135 -- the API stops here, short of the cutoff
@@ -144,23 +144,23 @@ ns.LEADERBOARD_BY_REGION["us"] = {
 		{ rank=102, name="Boltsboy", realm="raden", rating=2540, won=243, lost=165, faction="ALLIANCE", mr=2542, dr=0, dk=1 },
 		{ rank=102, name="Nurfthemonk", realm="pagle", rating=2540, won=234, lost=181, faction="ALLIANCE", dr=0, dk=1 },
 		{ rank=104, name="Tigrexwp", realm="raden", rating=2539, won=235, lost=131, faction="ALLIANCE", mr=2602, dr=0, dk=1 },
-		{ rank=105, name="Dunkyb", realm="raden", rating=2533, won=99, lost=48, faction="ALLIANCE", dr=0, dk=0 },
-		{ rank=106, name="Koval", realm="nazgrim", rating=2531, won=129, lost=6, faction="ALLIANCE", dr=0, dk=0 },
-		{ rank=107, name="Booshen", realm="raden", rating=2530, won=162, lost=69, faction="ALLIANCE", mr=2569, dr=0, dk=0 },
-		{ rank=107, name="Ikillondc", realm="raden", rating=2530, won=150, lost=71, faction="ALLIANCE", mr=2532, dr=0, dk=0 },
-		{ rank=107, name="Jetá", realm="raden", rating=2530, won=251, lost=189, faction="ALLIANCE", dr=0, dk=0 },
-		{ rank=110, name="Äñtòñçhígûrh", realm="raden", rating=2527, won=130, lost=108, faction="ALLIANCE", dr=0, dk=0 },
-		{ rank=110, name="Virtuoso", realm="raden", rating=2527, won=130, lost=108, faction="ALLIANCE", dr=0, dk=0 },
-		{ rank=112, name="Dwl", realm="raden", rating=2525, won=297, lost=230, faction="ALLIANCE", mr=2592, dr=16, dk=-17 },
-		{ rank=113, name="Cartiermw", realm="raden", rating=2524, won=136, lost=94, faction="ALLIANCE", dr=0, dk=1 },
-		{ rank=113, name="Jimmyjunya", realm="raden", rating=2524, won=228, lost=112, faction="ALLIANCE", dr=0, dk=1 },
-		{ rank=113, name="Testndbolwar", realm="raden", rating=2524, won=108, lost=53, faction="HORDE", dr=0, dk=1 },
-		{ rank=116, name="Iq", realm="raden", rating=2523, won=346, lost=315, faction="ALLIANCE", dr=15, dk=-17 },
-		{ rank=116, name="Tnehtk", realm="pagle", rating=2523, won=218, lost=167, faction="ALLIANCE", dr=67, dk=-75 },
-		{ rank=118, name="Diaozhale", realm="pagle", rating=2522, won=130, lost=53, faction="ALLIANCE", dr=0, dk=3 },
-		{ rank=119, name="Bdx", realm="raden", rating=2520, won=111, lost=46, faction="ALLIANCE", mr=2524, dr=10, dk=-9 },
-		{ rank=119, name="Pomserenity", realm="raden", rating=2520, won=90, lost=37, faction="ALLIANCE", dr=0, dk=2 },
-		{ rank=119, name="Rompah", realm="raden", rating=2520, won=94, lost=55, faction="ALLIANCE", mr=2521, dr=16, dk=-19 },
+		{ rank=105, name="Bdx", realm="raden", rating=2537, won=115, lost=46, faction="ALLIANCE", dr=27, dk=-23 },
+		{ rank=106, name="Dunkyb", realm="raden", rating=2533, won=99, lost=48, faction="ALLIANCE", dr=0, dk=1 },
+		{ rank=107, name="Koval", realm="nazgrim", rating=2531, won=129, lost=6, faction="ALLIANCE", dr=0, dk=1 },
+		{ rank=108, name="Booshen", realm="raden", rating=2530, won=162, lost=69, faction="ALLIANCE", mr=2569, dr=0, dk=1 },
+		{ rank=108, name="Ikillondc", realm="raden", rating=2530, won=150, lost=71, faction="ALLIANCE", mr=2532, dr=0, dk=1 },
+		{ rank=108, name="Jetá", realm="raden", rating=2530, won=251, lost=189, faction="ALLIANCE", dr=0, dk=1 },
+		{ rank=111, name="Äñtòñçhígûrh", realm="raden", rating=2527, won=130, lost=108, faction="ALLIANCE", dr=0, dk=1 },
+		{ rank=111, name="Virtuoso", realm="raden", rating=2527, won=130, lost=108, faction="ALLIANCE", dr=0, dk=1 },
+		{ rank=113, name="Dwl", realm="raden", rating=2525, won=297, lost=230, faction="ALLIANCE", mr=2592, dr=16, dk=-16 },
+		{ rank=114, name="Cartiermw", realm="raden", rating=2524, won=136, lost=94, faction="ALLIANCE", dr=0, dk=2 },
+		{ rank=114, name="Jimmyjunya", realm="raden", rating=2524, won=228, lost=112, faction="ALLIANCE", dr=0, dk=2 },
+		{ rank=114, name="Testndbolwar", realm="raden", rating=2524, won=108, lost=53, faction="HORDE", dr=0, dk=2 },
+		{ rank=117, name="Iq", realm="raden", rating=2523, won=346, lost=315, faction="ALLIANCE", dr=15, dk=-16 },
+		{ rank=117, name="Tnehtk", realm="pagle", rating=2523, won=218, lost=167, faction="ALLIANCE", dr=67, dk=-74 },
+		{ rank=119, name="Diaozhale", realm="pagle", rating=2522, won=130, lost=53, faction="ALLIANCE", dr=0, dk=4 },
+		{ rank=120, name="Pomserenity", realm="raden", rating=2520, won=90, lost=37, faction="ALLIANCE", dr=0, dk=3 },
+		{ rank=120, name="Rompah", realm="raden", rating=2520, won=94, lost=55, faction="ALLIANCE", mr=2521, dr=16, dk=-18 },
 		{ rank=122, name="Tastyshotsz", realm="raden", rating=2518, won=172, lost=128, faction="ALLIANCE", mr=2539, dr=0, dk=4 },
 		{ rank=123, name="Tastyshotx", realm="raden", rating=2517, won=135, lost=103, faction="ALLIANCE", dr=0, dk=4 },
 		{ rank=123, name="Wmxd", realm="raden", rating=2517, won=86, lost=5, faction="ALLIANCE", dr=0, dk=4 },
@@ -278,7 +278,7 @@ ns.LEADERBOARD_BY_REGION["us"] = {
 		{ rank=235, name="Sandbunny", realm="pagle", rating=2416, won=421, lost=340, faction="ALLIANCE", mr=2475, dr=-12, dk=12 },
 		{ rank=235, name="Xatyka", realm="pagle", rating=2416, won=591, lost=506, faction="ALLIANCE", mr=2437, dr=0, dk=1 },
 		{ rank=238, name="Adamandsteve", realm="immerseus", rating=2415, won=213, lost=134, faction="HORDE", dr=0, dk=-1 },
-		{ rank=238, name="Drlovee", realm="benediction", rating=2415, won=61, lost=33, faction="ALLIANCE", dr=20, dk=-37 },
+		{ rank=238, name="Drlovee", realm="benediction", rating=2415, won=61, lost=34, faction="ALLIANCE", dr=20, dk=-37 },
 		{ rank=238, name="Onlyfatnugz", realm="galakras", rating=2415, won=94, lost=55, faction="HORDE", dr=0, dk=-1 },
 		{ rank=238, name="Rockyx", realm="pagle", rating=2415, won=141, lost=76, faction="ALLIANCE", dr=0, dk=-1 },
 		{ rank=242, name="Headchef", realm="raden", rating=2412, won=192, lost=216, faction="HORDE", mr=2489, dr=0, dk=0 },
