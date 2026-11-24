@@ -18,7 +18,7 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region tbc-eu, season 3, read 2026-11-23 08:59 PM.
+-- Region tbc-eu, season 3, read 2026-11-23 09:58 PM.
 -- Realm display names, because the ladder only carries slugs and no rule
 -- turns one back into the other: raden is Ra-den, lei-shen is Lei Shen and
 -- arugal-au is Arugal (AU). Read from Blizzard's realm index; a slug with no
@@ -32,9 +32,9 @@ ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["tbc-eu"] = {
 	region  = "tbc-eu",
-	checked = "2026-11-23 08:59 PM",
-	checkedEpoch = 1795485546,
-	snapshot = "2026-11-23 23:14",
+	checked = "2026-11-23 09:58 PM",
+	checkedEpoch = 1795489139,
+	snapshot = "2026-11-24 02:14",
 
 	[1] = {  -- 2v2, 5001 places, down to rating 1474 -- the API stops here, short of the cutoff
 		{ rank=1, name="Beryboss", realm="spineshatter", rating=2741, won=113, lost=39, faction="HORDE", mr=2744, dr=0, dk=0 },
@@ -5039,7 +5039,7 @@ ns.LEADERBOARD_BY_REGION["tbc-eu"] = {
 		{ rank=4986, name="Xatha", realm="spineshatter", rating=1777, won=44, lost=35, faction="ALLIANCE", mr=1784, dr=0, dk=-1 },
 		{ rank=4986, name="Zonof", realm="spineshatter", rating=1777, won=37, lost=31, faction="HORDE", dr=0, dk=-1 },
 	},
-	[2] = {  -- 3v3, 5050 places, down to rating 1495 -- the API stops here, short of the cutoff
+	[2] = {  -- 3v3, 5049 places, down to rating 1495 -- the API stops here, short of the cutoff
 		{ rank=1, name="Yermeezylr", realm="spineshatter", rating=2540, won=148, lost=53, faction="HORDE", dr=0, dk=0 },
 		{ rank=2, name="Aegïs", realm="spineshatter", rating=2519, won=366, lost=184, faction="ALLIANCE", mr=2525, dr=0, dk=0 },
 		{ rank=2, name="Fekxd", realm="spineshatter", rating=2519, won=366, lost=184, faction="ALLIANCE", mr=2525, dr=0, dk=0 },
@@ -10089,7 +10089,6 @@ ns.LEADERBOARD_BY_REGION["tbc-eu"] = {
 		{ rank=4973, name="Witó", realm="spineshatter", rating=1704, won=13, lost=1, faction="HORDE", dr=0, dk=1 },
 		{ rank=4973, name="Zpowerx", realm="spineshatter", rating=1704, won=116, lost=122, faction="HORDE", dr=0, dk=1 },
 		{ rank=4973, name="Zuuko", realm="spineshatter", rating=1704, won=26, lost=20, faction="ALLIANCE", dr=0, dk=1 },
-		{ rank=5050, name="Matamaplace", realm="thunderstrike", rating=1629, won=17, lost=22, faction="ALLIANCE", mr=1767, dr=-138, dk=1818 },
 	},
 	[3] = {  -- 5v5, 5022 places, down to rating 1478 -- the API stops here, short of the cutoff
 		{ rank=1, name="Brallas", realm="spineshatter", rating=2492, won=88, lost=12, faction="HORDE", dr=0, dk=0 },

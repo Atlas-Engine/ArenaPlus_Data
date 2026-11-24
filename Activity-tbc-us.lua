@@ -20,26 +20,43 @@ local ns = ArenaPlusData
 ns.ACTIVITY_BY_REGION = ns.ACTIVITY_BY_REGION or {}
 
 ns.ACTIVITY_BY_REGION["tbc-us"] = {
-	built = 1795485514,
-	builtText = "2026-11-23 08:58 PM",
+	built = 1795489113,
+	builtText = "2026-11-23 09:58 PM",
 	windows = { 1, 3, 6, 12, 24 },
 	[1] = {  -- the last 1 hour(s)
+		[1] = {
+			["Fannypacker|nightslayer"] = { 4, 0, 0, 20 },
+			["Tycat|nightslayer"] = { 4, 0, 0, 34 },
+		},
 	},
 	[3] = {  -- the last 3 hour(s)
+		[1] = {
+			["Fannypacker|nightslayer"] = { 4, 0, 0, 20 },
+			["Tycat|nightslayer"] = { 4, 0, 0, 34 },
+		},
 	},
 	[6] = {  -- the last 6 hour(s)
+		[1] = {
+			["Fannypacker|nightslayer"] = { 4, 0, 0, 20 },
+			["Tycat|nightslayer"] = { 4, 0, 0, 34 },
+		},
 	},
 	[12] = {  -- the last 12 hour(s)
+		[1] = {
+			["Fannypacker|nightslayer"] = { 4, 0, 0, 20 },
+			["Tycat|nightslayer"] = { 4, 0, 0, 34 },
+		},
 	},
 	[24] = {  -- the last 24 hour(s)
 		[1] = {
-			["Gzlol|dreamscythe"] = { 15, 22, -9, 1180 },
-			["Möxie|dreamscythe"] = { 10, 18, 28, 1387 },
-			["Ryanin|dreamscythe"] = { 16, 5, 70, 1307 },
-			["Notwzbx|dreamscythe"] = { 13, 2, 90, 1360 },
-			["Lizzygrey|nightslayer"] = { 9, 4, 19, 1287 },
-			["Mopz|nightslayer"] = { 9, 4, 20, 1286 },
-			["Xczv|dreamscythe"] = { 11, 1, 80, 1360 },
+			["Gzlol|dreamscythe"] = { 15, 22, -9, 1240 },
+			["Ryanin|dreamscythe"] = { 16, 5, 70, 1367 },
+			["Notwzbx|dreamscythe"] = { 13, 2, 90, 1420 },
+			["Lizzygrey|nightslayer"] = { 9, 4, 19, 1347 },
+			["Mopz|nightslayer"] = { 9, 4, 20, 1346 },
+			["Xczv|dreamscythe"] = { 11, 1, 80, 1420 },
+			["Fannypacker|nightslayer"] = { 4, 0, 0, 20 },
+			["Tycat|nightslayer"] = { 4, 0, 0, 34 },
 		},
 	},
 }

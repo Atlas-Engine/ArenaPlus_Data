@@ -18,7 +18,7 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region eu, season 14, read 2026-11-23 09:00 PM.
+-- Region eu, season 14, read 2026-11-23 10:00 PM.
 -- Realm display names, because the ladder only carries slugs and no rule
 -- turns one back into the other: raden is Ra-den, lei-shen is Lei Shen and
 -- arugal-au is Arugal (AU). Read from Blizzard's realm index; a slug with no
@@ -34,9 +34,9 @@ ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["eu"] = {
 	region  = "eu",
-	checked = "2026-11-23 09:00 PM",
-	checkedEpoch = 1795485617,
-	snapshot = "2026-11-23 23:27",
+	checked = "2026-11-23 10:00 PM",
+	checkedEpoch = 1795489207,
+	snapshot = "2026-11-24 02:27",
 
 	[1] = {  -- 2v2, 5000 places, down to rating 1048 -- the API stops here, short of the cutoff
 		{ rank=1, name="Satåntrapbot", realm="shekzeer", rating=2932, won=330, lost=86, faction="ALLIANCE", dr=0, dk=0 },
@@ -3023,7 +3023,7 @@ ns.LEADERBOARD_BY_REGION["eu"] = {
 		{ rank=2979, name="Eláena", realm="hoptallus", rating=1832, won=274, lost=382, faction="ALLIANCE", mr=1908, dr=0, dk=9 },
 		{ rank=2979, name="Katoyui", realm="garalon", rating=1832, won=65, lost=60, faction="HORDE", dr=0, dk=9 },
 		{ rank=2979, name="Kuollurokue", realm="garalon", rating=1832, won=55, lost=68, faction="HORDE", dr=0, dk=9 },
-		{ rank=2979, name="Plåýböt", realm="shekzeer", rating=1832, won=29, lost=24, faction="ALLIANCE", mr=2119, dr=0, dk=9 },
+		{ rank=2979, name="Plåýböt", realm="shekzeer", rating=1832, won=29, lost=25, faction="ALLIANCE", mr=2119, dr=0, dk=9 },
 		{ rank=2979, name="Puipuii", realm="garalon", rating=1832, won=83, lost=68, faction="HORDE", dr=0, dk=9 },
 		{ rank=2979, name="Shânè", realm="everlook", rating=1832, won=44, lost=40, faction="ALLIANCE", dr=0, dk=9 },
 		{ rank=2988, name="Angryboii", realm="shekzeer", rating=1831, won=32, lost=8, faction="ALLIANCE", dr=0, dk=9 },
@@ -5040,7 +5040,7 @@ ns.LEADERBOARD_BY_REGION["eu"] = {
 		{ rank=4996, name="Sarotas", realm="shekzeer", rating=1580, won=20, lost=15, faction="ALLIANCE", dr=0, dk=6 },
 		{ rank=4996, name="Shadotix", realm="everlook", rating=1580, won=30, lost=30, faction="HORDE", dr=0, dk=6 },
 	},
-	[2] = {  -- 3v3, 678 places, down to rating 833
+	[2] = {  -- 3v3, 677 places, down to rating 860
 		{ rank=1, name="Eternàl", realm="shekzeer", rating=2929, won=138, lost=12, faction="ALLIANCE", dr=0, dk=0 },
 		{ rank=2, name="Hugsnotdrugs", realm="shekzeer", rating=2917, won=136, lost=13, faction="ALLIANCE", dr=0, dk=0 },
 		{ rank=3, name="Lkdsjciks", realm="shekzeer", rating=2910, won=129, lost=20, faction="ALLIANCE", dr=0, dk=0 },
@@ -5675,7 +5675,6 @@ ns.LEADERBOARD_BY_REGION["eu"] = {
 		{ rank=631, name="Slowjamz", realm="everlook", rating=861, won=9, lost=5, faction="ALLIANCE", dr=0, dk=1 },
 		{ rank=631, name="Thylé", realm="norushen", rating=861, won=9, lost=16, faction="HORDE", dr=0, dk=1 },
 		{ rank=634, name="Whoppa", realm="shekzeer", rating=860, won=9, lost=4, faction="ALLIANCE", dr=0, dk=1 },
-		{ rank=635, name="Нилиссит", realm="flamegor", rating=833, won=9, lost=4, faction="ALLIANCE", dr=0, dk=1 },
 		{ rank=636, name="Chìpolata", realm="auberdine", rating=768, won=8, lost=39, faction="ALLIANCE", dr=0, dk=1 },
 		{ rank=636, name="Ellitta", realm="everlook", rating=768, won=8, lost=12, faction="ALLIANCE", dr=0, dk=1 },
 		{ rank=636, name="Fearbreaker", realm="shekzeer", rating=768, won=8, lost=19, faction="ALLIANCE", dr=0, dk=1 },

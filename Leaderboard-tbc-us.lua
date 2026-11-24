@@ -18,7 +18,7 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region tbc-us, season 3, read 2026-11-23 08:58 PM.
+-- Region tbc-us, season 3, read 2026-11-23 09:58 PM.
 -- Realm display names, because the ladder only carries slugs and no rule
 -- turns one back into the other: raden is Ra-den, lei-shen is Lei Shen and
 -- arugal-au is Arugal (AU). Read from Blizzard's realm index; a slug with no
@@ -32,8 +32,8 @@ ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["tbc-us"] = {
 	region  = "tbc-us",
-	checked = "2026-11-23 08:58 PM",
-	checkedEpoch = 1795485496,
+	checked = "2026-11-23 09:58 PM",
+	checkedEpoch = 1795489095,
 	snapshot = "2026-11-24 00:19",
 
 	[1] = {  -- 2v2, 5006 places, down to rating 1486 -- the API stops here, short of the cutoff
@@ -692,8 +692,8 @@ ns.LEADERBOARD_BY_REGION["tbc-us"] = {
 		{ rank=651, name="Feeblemind", realm="nightslayer", rating=2095, won=34, lost=17, faction="ALLIANCE", mr=2100, dr=0, dk=-2 },
 		{ rank=651, name="Migg", realm="nightslayer", rating=2095, won=186, lost=170, faction="HORDE", dr=0, dk=-2 },
 		{ rank=651, name="Seanlol", realm="nightslayer", rating=2095, won=34, lost=17, faction="ALLIANCE", mr=2100, dr=0, dk=-2 },
-		{ rank=651, name="Tycat", realm="nightslayer", rating=2095, won=162, lost=130, faction="HORDE", mr=2126, dr=0, dk=-2 },
-		{ rank=657, name="Fannypacker", realm="nightslayer", rating=2094, won=162, lost=131, faction="HORDE", mr=2125, dr=0, dk=-2 },
+		{ rank=651, name="Tycat", realm="nightslayer", rating=2095, won=166, lost=130, faction="HORDE", mr=2126, dr=0, dk=-2 },
+		{ rank=657, name="Fannypacker", realm="nightslayer", rating=2094, won=166, lost=131, faction="HORDE", mr=2125, dr=0, dk=-2 },
 		{ rank=657, name="Ujj", realm="nightslayer", rating=2094, won=76, lost=56, faction="HORDE", mr=2143, dr=0, dk=-2 },
 		{ rank=659, name="Bxtterfly", realm="nightslayer", rating=2093, won=61, lost=39, faction="ALLIANCE", mr=2102, dr=0, dk=-2 },
 		{ rank=659, name="Lilhotty", realm="nightslayer", rating=2093, won=46, lost=32, faction="ALLIANCE", mr=2156, dr=0, dk=-2 },

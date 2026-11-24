@@ -5019,7 +5019,6 @@ ns.TITLES_BY_REGION["eu"] = {
 	["slimmyboi-norushen"] = "400,403,1174,2090,2093",
 	["thylé-norushen"] = "402,1174,2090",
 	["whoppa-shekzeer"] = "1159,1174,2090,2092,2093,5266",
-	["Нилиссит-flamegor"] = "1174",
 	["ellitta-everlook"] = "399,1161,1174,2090,2092,2093",
 	["ladottora-mirage-raceway"] = "1174",
 	["doucheppc-mirage-raceway"] = "399,403,1174,2090",
