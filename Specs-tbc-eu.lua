@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9603 characters, read 2026-11-24 02:59 AM.
+-- Region tbc-eu, 9604 characters, read 2026-11-24 03:54 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9530,6 +9530,7 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["Копчик-anniversary"]=10,
 	["Мадамсезам-anniversary"]=11,
 	["Маз-anniversary"]=10,
+	["Миилочка-anniversary"]=101,
 	["Микки-anniversary"]=11,
 	["Мэев-anniversary"]=11,
 	["Олдрога-anniversary"]=11,
@@ -12953,7 +12954,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["hotgirlgamer-spineshatter"]=11,
 	["hotmodel-spineshatter"]=5,
 	["hotnix-spineshatter"]=1,
-	["hotredcroc-spineshatter"]=13,
+	["hotredcroc-spineshatter"]=18,
 	["hotsy-spineshatter"]=1,
 	["hottentot-spineshatter"]=5,
 	["hotwhéely-spineshatter"]=19,
@@ -19138,6 +19139,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["Копчик-anniversary"]=19,
 	["Мадамсезам-anniversary"]=4,
 	["Маз-anniversary"]=5,
+	["Миилочка-anniversary"]=10,
 	["Микки-anniversary"]=19,
 	["Мэев-anniversary"]=3,
 	["Олдрога-anniversary"]=19,
