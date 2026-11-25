@@ -18,7 +18,7 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region us, season 14, read 2026-11-25 10:59 AM.
+-- Region us, season 14, read 2026-11-25 11:59 AM.
 -- Realm display names, because the ladder only carries slugs and no rule
 -- turns one back into the other: raden is Ra-den, lei-shen is Lei Shen and
 -- arugal-au is Arugal (AU). Read from Blizzard's realm index; a slug with no
@@ -35,8 +35,8 @@ ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["us"] = {
 	region  = "us",
-	checked = "2026-11-25 10:59 AM",
-	checkedEpoch = 1795622370,
+	checked = "2026-11-25 11:59 AM",
+	checkedEpoch = 1795625970,
 	snapshot = "2026-11-25 15:16",
 
 	[1] = {  -- 2v2, 5001 places, down to rating 1134 -- the API stops here, short of the cutoff
@@ -1052,17 +1052,17 @@ ns.LEADERBOARD_BY_REGION["us"] = {
 		{ rank=1009, name="Bouddha", realm="raden", rating=2103, won=97, lost=75, faction="ALLIANCE", dr=60, dk=-232 },
 		{ rank=1009, name="Kiggzp", realm="pagle", rating=2103, won=65, lost=46, faction="ALLIANCE", mr=2105, dr=0, dk=7 },
 		{ rank=1009, name="Knockoutdt", realm="pagle", rating=2103, won=80, lost=76, faction="ALLIANCE", mr=2146, dr=0, dk=7 },
-		{ rank=1013, name="Annikà", realm="nazgrim", rating=2102, won=54, lost=46, faction="HORDE", dr=0, dk=8 },
-		{ rank=1013, name="Killstrike", realm="immerseus", rating=2102, won=407, lost=430, faction="HORDE", mr=2258, dr=0, dk=8 },
-		{ rank=1013, name="Seabus", realm="pagle", rating=2102, won=116, lost=115, faction="ALLIANCE", mr=2124, dr=0, dk=8 },
-		{ rank=1013, name="Tbk", realm="raden", rating=2102, won=233, lost=252, faction="ALLIANCE", dr=0, dk=8 },
-		{ rank=1013, name="Vmsav", realm="pagle", rating=2102, won=66, lost=56, faction="ALLIANCE", dr=0, dk=8 },
-		{ rank=1018, name="Colinferal", realm="pagle", rating=2101, won=70, lost=58, faction="ALLIANCE", dr=0, dk=7 },
-		{ rank=1018, name="Rhanwhite", realm="galakras", rating=2101, won=189, lost=195, faction="ALLIANCE", dr=0, dk=7 },
-		{ rank=1018, name="Scattrapwily", realm="pagle", rating=2101, won=176, lost=180, faction="ALLIANCE", dr=0, dk=7 },
-		{ rank=1021, name="Antartik", realm="lei-shen", rating=2100, won=93, lost=85, faction="ALLIANCE", dr=0, dk=6 },
-		{ rank=1021, name="Møønzx", realm="galakras", rating=2100, won=154, lost=160, faction="ALLIANCE", mr=2113, dr=94, dk=-428 },
-		{ rank=1021, name="Northlane", realm="raden", rating=2100, won=97, lost=99, faction="ALLIANCE", mr=2128, dr=0, dk=6 },
+		{ rank=1009, name="Møønzx", realm="galakras", rating=2103, won=155, lost=160, faction="ALLIANCE", mr=2113, dr=97, dk=-440 },
+		{ rank=1014, name="Annikà", realm="nazgrim", rating=2102, won=54, lost=46, faction="HORDE", dr=0, dk=9 },
+		{ rank=1014, name="Killstrike", realm="immerseus", rating=2102, won=407, lost=430, faction="HORDE", mr=2258, dr=0, dk=9 },
+		{ rank=1014, name="Seabus", realm="pagle", rating=2102, won=116, lost=115, faction="ALLIANCE", mr=2124, dr=0, dk=9 },
+		{ rank=1014, name="Tbk", realm="raden", rating=2102, won=233, lost=252, faction="ALLIANCE", dr=0, dk=9 },
+		{ rank=1014, name="Vmsav", realm="pagle", rating=2102, won=66, lost=56, faction="ALLIANCE", dr=0, dk=9 },
+		{ rank=1019, name="Colinferal", realm="pagle", rating=2101, won=70, lost=58, faction="ALLIANCE", dr=0, dk=8 },
+		{ rank=1019, name="Rhanwhite", realm="galakras", rating=2101, won=189, lost=195, faction="ALLIANCE", dr=0, dk=8 },
+		{ rank=1019, name="Scattrapwily", realm="pagle", rating=2101, won=176, lost=180, faction="ALLIANCE", dr=0, dk=8 },
+		{ rank=1022, name="Antartik", realm="lei-shen", rating=2100, won=93, lost=85, faction="ALLIANCE", dr=0, dk=7 },
+		{ rank=1022, name="Northlane", realm="raden", rating=2100, won=97, lost=99, faction="ALLIANCE", mr=2128, dr=0, dk=7 },
 		{ rank=1024, name="Horculez", realm="pagle", rating=2099, won=314, lost=218, faction="HORDE", mr=2159, dr=0, dk=7 },
 		{ rank=1024, name="Tweelie", realm="pagle", rating=2099, won=108, lost=107, faction="ALLIANCE", mr=2123, dr=0, dk=7 },
 		{ rank=1026, name="Dextko", realm="raden", rating=2098, won=95, lost=86, faction="ALLIANCE", mr=2103, dr=0, dk=6 },
