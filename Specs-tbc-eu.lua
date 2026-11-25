@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9605 characters, read 2026-11-25 02:59 PM.
+-- Region tbc-eu, 9606 characters, read 2026-11-25 03:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1480,6 +1480,7 @@ ns.LOOKS_BY_REGION["tbc-eu"] = {
 	["coreshock-spineshatter"]=60,
 	["corneherb-spineshatter"]=51,
 	["cornelr-spineshatter"]=50,
+	["corness-thunderstrike"]=60,
 	["cornettot-spineshatter"]=50,
 	["cornflex-spineshatter"]=51,
 	["còrnflex-spineshatter"]=21,
@@ -10980,6 +10981,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["coreshock-spineshatter"]=11,
 	["corneherb-spineshatter"]=3,
 	["cornelr-spineshatter"]=19,
+	["corness-thunderstrike"]=1,
 	["cornettot-spineshatter"]=9,
 	["cornflex-spineshatter"]=2,
 	["còrnflex-spineshatter"]=23,
@@ -11274,7 +11276,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["deathwong-spineshatter"]=0,
 	["decept-spineshatter"]=19,
 	["declines-spineshatter"]=11,
-	["decodex-thunderstrike"]=2,
+	["decodex-thunderstrike"]=8,
 	["decolretine-spineshatter"]=5,
 	["decrease-spineshatter"]=25,
 	["Ðecrease-spineshatter"]=25,
