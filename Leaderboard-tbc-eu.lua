@@ -18,7 +18,7 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region tbc-eu, season 3, read 2026-11-24 07:58 PM.
+-- Region tbc-eu, season 3, read 2026-11-24 08:59 PM.
 -- Realm display names, because the ladder only carries slugs and no rule
 -- turns one back into the other: raden is Ra-den, lei-shen is Lei Shen and
 -- arugal-au is Arugal (AU). Read from Blizzard's realm index; a slug with no
@@ -32,8 +32,8 @@ ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["tbc-eu"] = {
 	region  = "tbc-eu",
-	checked = "2026-11-24 07:58 PM",
-	checkedEpoch = 1795568339,
+	checked = "2026-11-24 08:59 PM",
+	checkedEpoch = 1795571941,
 	snapshot = "2026-11-24 23:14",
 
 	[1] = {  -- 2v2, 5005 places, down to rating 1474 -- the API stops here, short of the cutoff
@@ -2264,6 +2264,7 @@ ns.LEADERBOARD_BY_REGION["tbc-eu"] = {
 		{ rank=2220, name="Nickezp", realm="spineshatter", rating=1987, won=44, lost=38, faction="HORDE", mr=2002, dr=0, dk=2 },
 		{ rank=2220, name="Tastykrousty", realm="spineshatter", rating=1987, won=42, lost=27, faction="ALLIANCE", mr=2006, dr=0, dk=2 },
 		{ rank=2220, name="Tchiin", realm="thunderstrike", rating=1987, won=358, lost=330, faction="ALLIANCE", mr=2041, dr=0, dk=2 },
+		{ rank=2228, name="Aethèl", realm="spineshatter", rating=1986, won=153, lost=135, faction="HORDE", dr=42, dk=-339 },
 		{ rank=2228, name="Durì", realm="spineshatter", rating=1986, won=448, lost=431, faction="HORDE", mr=2004, dr=0, dk=3 },
 		{ rank=2228, name="Fupz", realm="spineshatter", rating=1986, won=101, lost=94, faction="HORDE", mr=2107, dr=0, dk=3 },
 		{ rank=2228, name="Hardrenaline", realm="spineshatter", rating=1986, won=66, lost=52, faction="ALLIANCE", mr=2010, dr=0, dk=3 },
@@ -2271,16 +2272,15 @@ ns.LEADERBOARD_BY_REGION["tbc-eu"] = {
 		{ rank=2228, name="Láflamezy", realm="spineshatter", rating=1986, won=68, lost=54, faction="HORDE", mr=2034, dr=0, dk=3 },
 		{ rank=2228, name="Mykaratist", realm="spineshatter", rating=1986, won=23, lost=5, faction="HORDE", dr=0, dk=3 },
 		{ rank=2228, name="Üpsilon", realm="spineshatter", rating=1986, won=450, lost=441, faction="HORDE", mr=2003, dr=0, dk=3 },
-		{ rank=2235, name="Æistve", realm="spineshatter", rating=1985, won=56, lost=37, faction="ALLIANCE", dr=0, dk=3 },
-		{ rank=2235, name="Aethèl", realm="spineshatter", rating=1985, won=152, lost=134, faction="HORDE", dr=41, dk=-332 },
-		{ rank=2235, name="Bammerr", realm="spineshatter", rating=1985, won=50, lost=29, faction="ALLIANCE", dr=0, dk=3 },
-		{ rank=2235, name="Madøck", realm="spineshatter", rating=1985, won=121, lost=103, faction="ALLIANCE", dr=0, dk=3 },
-		{ rank=2235, name="Milkynuggz", realm="spineshatter", rating=1985, won=254, lost=208, faction="HORDE", mr=2170, dr=0, dk=3 },
-		{ rank=2235, name="Orkarinté", realm="spineshatter", rating=1985, won=41, lost=26, faction="HORDE", mr=2026, dr=0, dk=3 },
-		{ rank=2235, name="Pharåoh", realm="spineshatter", rating=1985, won=137, lost=132, faction="HORDE", mr=2060, dr=0, dk=3 },
-		{ rank=2235, name="Sponz", realm="spineshatter", rating=1985, won=142, lost=116, faction="HORDE", mr=2019, dr=0, dk=3 },
-		{ rank=2235, name="Suppressiøn", realm="spineshatter", rating=1985, won=145, lost=105, faction="HORDE", dr=0, dk=3 },
-		{ rank=2235, name="Truntia", realm="spineshatter", rating=1985, won=70, lost=58, faction="HORDE", mr=2005, dr=0, dk=3 },
+		{ rank=2236, name="Æistve", realm="spineshatter", rating=1985, won=56, lost=37, faction="ALLIANCE", dr=0, dk=4 },
+		{ rank=2236, name="Bammerr", realm="spineshatter", rating=1985, won=50, lost=29, faction="ALLIANCE", dr=0, dk=4 },
+		{ rank=2236, name="Madøck", realm="spineshatter", rating=1985, won=121, lost=103, faction="ALLIANCE", dr=0, dk=4 },
+		{ rank=2236, name="Milkynuggz", realm="spineshatter", rating=1985, won=254, lost=208, faction="HORDE", mr=2170, dr=0, dk=4 },
+		{ rank=2236, name="Orkarinté", realm="spineshatter", rating=1985, won=41, lost=26, faction="HORDE", mr=2026, dr=0, dk=4 },
+		{ rank=2236, name="Pharåoh", realm="spineshatter", rating=1985, won=137, lost=132, faction="HORDE", mr=2060, dr=0, dk=4 },
+		{ rank=2236, name="Sponz", realm="spineshatter", rating=1985, won=142, lost=116, faction="HORDE", mr=2019, dr=0, dk=4 },
+		{ rank=2236, name="Suppressiøn", realm="spineshatter", rating=1985, won=145, lost=105, faction="HORDE", dr=0, dk=4 },
+		{ rank=2236, name="Truntia", realm="spineshatter", rating=1985, won=70, lost=58, faction="HORDE", mr=2005, dr=0, dk=4 },
 		{ rank=2245, name="Barrmana", realm="spineshatter", rating=1984, won=225, lost=179, faction="ALLIANCE", mr=2101, dr=0, dk=4 },
 		{ rank=2245, name="Brooxzd", realm="spineshatter", rating=1984, won=73, lost=41, faction="HORDE", dr=0, dk=4 },
 		{ rank=2245, name="Dannymcbride", realm="spineshatter", rating=1984, won=148, lost=123, faction="HORDE", mr=2081, dr=0, dk=4 },
