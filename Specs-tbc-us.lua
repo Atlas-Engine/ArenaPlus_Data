@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9351 characters, read 2026-11-25 01:58 PM.
+-- Region tbc-us, 9351 characters, read 2026-11-25 02:58 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9906,7 +9906,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["beetlewarr-nightslayer"]=2,
 	["behance-nightslayer"]=18,
 	["behindbehind-nightslayer"]=2,
-	["bekol-dreamscythe"]=5,
+	["bekol-dreamscythe"]=8,
 	["belgas-nightslayer"]=1,
 	["belini-nightslayer"]=16,
 	["bellabear-nightslayer"]=3,
@@ -12113,7 +12113,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["footballheâd-nightslayer"]=2,
 	["footlongfred-nightslayer"]=5,
 	["foovey-nightslayer"]=5,
-	["fora-nightslayer"]=18,
+	["fora-nightslayer"]=2,
 	["fordchevy-dreamscythe"]=1,
 	["forést-nightslayer"]=10,
 	["forestcleave-nightslayer"]=24,
@@ -12939,7 +12939,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["hvx-dreamscythe"]=19,
 	["hybridchaos-dreamscythe"]=16,
 	["hybro-nightslayer"]=2,
-	["hybroo-nightslayer"]=8,
+	["hybroo-nightslayer"]=5,
 	["hybroox-nightslayer"]=7,
 	["hybrox-nightslayer"]=15,
 	["hycee-dreamscythe"]=18,
@@ -18085,7 +18085,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["whateverz-nightslayer"]=16,
 	["whattehpho-dreamscythe"]=8,
 	["whatthefk-nightslayer"]=12,
-	["whatupcuhh-nightslayer"]=5,
+	["whatupcuhh-nightslayer"]=8,
 	["whatwindfury-nightslayer"]=19,
 	["wheatchex-nightslayer"]=13,
 	["wheeznation-dreamscythe"]=13,
