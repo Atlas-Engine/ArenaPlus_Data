@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-eu, 9605 characters, read 2026-11-25 01:59 AM.
+-- Region tbc-eu, 9605 characters, read 2026-11-25 02:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -13482,7 +13482,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["jüb-spineshatter"]=5,
 	["jubitor-spineshatter"]=11,
 	["judderz-spineshatter"]=6,
-	["judetski-spineshatter"]=3,
+	["judetski-spineshatter"]=19,
 	["judgejuno-thunderstrike"]=7,
 	["judulis-spineshatter"]=7,
 	["judulis-thunderstrike"]=7,
@@ -15422,7 +15422,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["nuggetman-spineshatter"]=20,
 	["nugun-spineshatter"]=11,
 	["nukuu-spineshatter"]=15,
-	["numberjuan-spineshatter"]=2,
+	["numberjuan-spineshatter"]=17,
 	["numia-thunderstrike"]=17,
 	["nummerz-thunderstrike"]=17,
 	["nungwi-spineshatter"]=4,
@@ -16568,7 +16568,7 @@ ns.SPECS_BY_REGION["tbc-eu"] = {
 	["ryogip-spineshatter"]=26,
 	["ryogix-spineshatter"]=15,
 	["rýthm-spineshatter"]=6,
-	["rytin-spineshatter"]=7,
+	["rytin-spineshatter"]=10,
 	["rzze-spineshatter"]=19,
 	["saasaiqdosai-spineshatter"]=2,
 	["sabuu-spineshatter"]=11,
