@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5204 characters, read 2026-11-25 03:59 PM.
+-- Region us, 5204 characters, read 2026-11-25 04:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5939,7 +5939,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["cwpas-raden"]=31,
 	["cwpaslock-raden"]=24,
 	["cwpasx-raden"]=7,
-	["cybella-pagle"]=30,
+	["cybella-pagle"]=7,
 	["cybrooke-lei-shen"]=18,
 	["cyclicc-pagle"]=0,
 	["cyclonebot-lei-shen"]=5,
@@ -5989,7 +5989,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["darkavengerr-pagle"]=28,
 	["darkcurador-nazgrim"]=13,
 	["darkdankdope-raden"]=10,
-	["darkdeamon-pagle"]=1,
+	["darkdeamon-pagle"]=11,
 	["darkdknight-pagle"]=6,
 	["darkestcyn-galakras"]=28,
 	["darkferocity-pagle"]=21,
@@ -8041,7 +8041,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["moonrip-raden"]=12,
 	["moonspellol-galakras"]=14,
 	["møønstár-arugal-au"]=5,
-	["møonxz-raden"]=5,
+	["møonxz-raden"]=17,
 	["møønzx-galakras"]=17,
 	["mootski-pagle"]=18,
 	["mopdruid-pagle"]=0,
