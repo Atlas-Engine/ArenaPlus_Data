@@ -18,7 +18,7 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region eu, season 14, read 2026-11-25 06:00 AM.
+-- Region eu, season 14, read 2026-11-25 07:00 AM.
 -- Realm display names, because the ladder only carries slugs and no rule
 -- turns one back into the other: raden is Ra-den, lei-shen is Lei Shen and
 -- arugal-au is Arugal (AU). Read from Blizzard's realm index; a slug with no
@@ -34,9 +34,9 @@ ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["eu"] = {
 	region  = "eu",
-	checked = "2026-11-25 06:00 AM",
-	checkedEpoch = 1795604405,
-	snapshot = "2026-11-25 08:13",
+	checked = "2026-11-25 07:00 AM",
+	checkedEpoch = 1795608008,
+	snapshot = "2026-11-25 11:13",
 
 	[1] = {  -- 2v2, 5002 places, down to rating 1048 -- the API stops here, short of the cutoff
 		{ rank=1, name="Satåntrapbot", realm="shekzeer", rating=2932, won=330, lost=86, faction="ALLIANCE", dr=0, dk=0 },
