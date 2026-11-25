@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5362 characters, read 2026-11-24 06:00 PM.
+-- Region eu, 5364 characters, read 2026-11-24 07:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3871,6 +3871,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["sùcette-shekzeer"]=11,
 	["súdo-hoptallus"]=11,
 	["suenelos-shekzeer"]=40,
+	["sugarbear-shekzeer"]=11,
 	["sugarhd-shekzeer"]=41,
 	["sugiwara-auberdine"]=11,
 	["suhdude-shekzeer"]=10,
@@ -7951,7 +7952,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["mycopa-shekzeer"]=4,
 	["myiagf-shekzeer"]=13,
 	["myk-shekzeer"]=4,
-	["mypupy-shekzeer"]=7,
+	["mypupy-shekzeer"]=6,
 	["mysticks-shekzeer"]=0,
 	["mythix-garalon"]=24,
 	["mythrugu-shekzeer"]=14,
@@ -8753,6 +8754,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["ryscan-garalon"]=0,
 	["ryuujin-shekzeer"]=0,
 	["ryuuko-shekzeer"]=0,
+	["ryuuman-shekzeer"]=0,
 	["ryuuren-garalon"]=0,
 	["saala-shekzeer"]=1,
 	["saasaa-shekzeer"]=16,
@@ -9175,6 +9177,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["sùcette-shekzeer"]=1,
 	["súdo-hoptallus"]=27,
 	["suenelos-shekzeer"]=21,
+	["sugarbear-shekzeer"]=2,
 	["sugarhd-shekzeer"]=9,
 	["sugiwara-auberdine"]=26,
 	["suhdude-shekzeer"]=2,
