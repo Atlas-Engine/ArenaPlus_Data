@@ -18,7 +18,7 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region us, season 14, read 2026-11-25 06:59 AM.
+-- Region us, season 14, read 2026-11-25 07:59 AM.
 -- Realm display names, because the ladder only carries slugs and no rule
 -- turns one back into the other: raden is Ra-den, lei-shen is Lei Shen and
 -- arugal-au is Arugal (AU). Read from Blizzard's realm index; a slug with no
@@ -35,9 +35,9 @@ ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["us"] = {
 	region  = "us",
-	checked = "2026-11-25 06:59 AM",
-	checkedEpoch = 1795607968,
-	snapshot = "2026-11-25 09:16",
+	checked = "2026-11-25 07:59 AM",
+	checkedEpoch = 1795611569,
+	snapshot = "2026-11-25 12:16",
 
 	[1] = {  -- 2v2, 5001 places, down to rating 1135 -- the API stops here, short of the cutoff
 		{ rank=1, name="Gånnicus", realm="raden", rating=2859, won=353, lost=98, faction="ALLIANCE", dr=0, dk=0 },
@@ -192,14 +192,14 @@ ns.LEADERBOARD_BY_REGION["us"] = {
 		{ rank=148, name="Jerth", realm="raden", rating=2500, won=204, lost=64, faction="ALLIANCE", dr=0, dk=0 },
 		{ rank=148, name="Nitron", realm="raden", rating=2500, won=79, lost=38, faction="ALLIANCE", dr=0, dk=0 },
 		{ rank=148, name="Supërgrëmlin", realm="pagle", rating=2500, won=192, lost=47, faction="ALLIANCE", dr=0, dk=0 },
+		{ rank=153, name="Bobertx", realm="raden", rating=2496, won=144, lost=87, faction="ALLIANCE", dr=10, dk=-7 },
 		{ rank=153, name="Ginastel", realm="raden", rating=2496, won=217, lost=221, faction="ALLIANCE", dr=0, dk=1 },
 		{ rank=153, name="Tháíladybøi", realm="pagle", rating=2496, won=155, lost=115, faction="HORDE", dr=0, dk=1 },
-		{ rank=155, name="Wmx", realm="raden", rating=2494, won=94, lost=8, faction="ALLIANCE", dr=0, dk=0 },
-		{ rank=156, name="Evilbrewslee", realm="raden", rating=2493, won=83, lost=43, faction="ALLIANCE", dr=0, dk=0 },
-		{ rank=156, name="Thaviks", realm="raden", rating=2493, won=273, lost=208, faction="ALLIANCE", mr=2495, dr=0, dk=0 },
-		{ rank=158, name="Minutex", realm="raden", rating=2491, won=146, lost=86, faction="ALLIANCE", dr=0, dk=0 },
-		{ rank=159, name="Bobertx", realm="raden", rating=2490, won=143, lost=87, faction="ALLIANCE", dr=4, dk=-1 },
-		{ rank=159, name="Reckology", realm="raden", rating=2490, won=237, lost=180, faction="ALLIANCE", mr=2573, dr=-46, dk=55 },
+		{ rank=156, name="Wmx", realm="raden", rating=2494, won=94, lost=8, faction="ALLIANCE", dr=0, dk=1 },
+		{ rank=157, name="Evilbrewslee", realm="raden", rating=2493, won=83, lost=43, faction="ALLIANCE", dr=0, dk=1 },
+		{ rank=157, name="Thaviks", realm="raden", rating=2493, won=273, lost=208, faction="ALLIANCE", mr=2495, dr=0, dk=1 },
+		{ rank=159, name="Minutex", realm="raden", rating=2491, won=146, lost=86, faction="ALLIANCE", dr=0, dk=1 },
+		{ rank=160, name="Reckology", realm="raden", rating=2490, won=237, lost=180, faction="ALLIANCE", mr=2573, dr=-46, dk=56 },
 		{ rank=161, name="Nyloras", realm="pagle", rating=2489, won=98, lost=70, faction="ALLIANCE", mr=2497, dr=0, dk=2 },
 		{ rank=161, name="Trojanbubble", realm="pagle", rating=2489, won=212, lost=130, faction="ALLIANCE", mr=2509, dr=14, dk=-10 },
 		{ rank=163, name="Serenityqt", realm="pagle", rating=2486, won=102, lost=43, faction="ALLIANCE", dr=0, dk=3 },
