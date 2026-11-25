@@ -20,8 +20,8 @@ local ns = ArenaPlusData
 ns.ACTIVITY_BY_REGION = ns.ACTIVITY_BY_REGION or {}
 
 ns.ACTIVITY_BY_REGION["tbc-us"] = {
-	built = 1795625914,
-	builtText = "2026-11-25 11:58 AM",
+	built = 1795629515,
+	builtText = "2026-11-25 12:58 PM",
 	windows = { 1, 3, 6, 12, 24 },
 	[1] = {  -- the last 1 hour(s)
 	},
@@ -31,28 +31,24 @@ ns.ACTIVITY_BY_REGION["tbc-us"] = {
 	},
 	[12] = {  -- the last 12 hour(s)
 		[1] = {
-			["Morepower|nightslayer"] = { 9, 5, 60, 692 },
-			["Yodead|nightslayer"] = { 9, 5, 57, 692 },
-			["Myo|nightslayer"] = { 6, 4, 14, 641 },
-			["Tusamak|nightslayer"] = { 6, 4, 14, 641 },
-			["Palapapa|nightslayer"] = { 2, 4, -50, 687 },
-			["Rjp|nightslayer"] = { 2, 4, -44, 688 },
+			["Myo|nightslayer"] = { 6, 4, 14, 701 },
+			["Tusamak|nightslayer"] = { 6, 4, 14, 701 },
 		},
 	},
 	[24] = {  -- the last 24 hour(s)
 		[1] = {
-			["Morepower|nightslayer"] = { 9, 5, 60, 692 },
-			["Yodead|nightslayer"] = { 9, 5, 57, 692 },
-			["Myo|nightslayer"] = { 6, 4, 14, 641 },
-			["Tusamak|nightslayer"] = { 6, 4, 14, 641 },
-			["Fannypacker|nightslayer"] = { 8, 0, 0, 825 },
-			["Tycat|nightslayer"] = { 8, 0, 0, 839 },
-			["Palapapa|nightslayer"] = { 2, 4, -50, 687 },
-			["Rjp|nightslayer"] = { 2, 4, -44, 688 },
-			["Lizzygrey|nightslayer"] = { 1, 4, -28, 777 },
-			["Mopz|nightslayer"] = { 1, 3, -20, 776 },
-			["Jamzki|nightslayer"] = { 1, 1, -19, 1051 },
-			["Wopz|nightslayer"] = { 0, 1, 0, 789 },
+			["Morepower|nightslayer"] = { 9, 5, 60, 752 },
+			["Yodead|nightslayer"] = { 9, 5, 57, 752 },
+			["Myo|nightslayer"] = { 6, 4, 14, 701 },
+			["Tusamak|nightslayer"] = { 6, 4, 14, 701 },
+			["Fannypacker|nightslayer"] = { 8, 0, 0, 885 },
+			["Tycat|nightslayer"] = { 8, 0, 0, 899 },
+			["Palapapa|nightslayer"] = { 2, 4, -50, 747 },
+			["Rjp|nightslayer"] = { 2, 4, -44, 748 },
+			["Lizzygrey|nightslayer"] = { 1, 4, -28, 837 },
+			["Mopz|nightslayer"] = { 1, 3, -20, 836 },
+			["Jamzki|nightslayer"] = { 1, 1, -19, 1111 },
+			["Wopz|nightslayer"] = { 0, 1, 0, 849 },
 		},
 	},
 }
