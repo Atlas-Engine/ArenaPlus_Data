@@ -20,8 +20,8 @@ local ns = ArenaPlusData
 ns.ACTIVITY_BY_REGION = ns.ACTIVITY_BY_REGION or {}
 
 ns.ACTIVITY_BY_REGION["tbc-us"] = {
-	built = 1795647513,
-	builtText = "2026-11-25 05:58 PM",
+	built = 1795651112,
+	builtText = "2026-11-25 06:58 PM",
 	windows = { 1, 3, 6, 12, 24 },
 	[1] = {  -- the last 1 hour(s)
 	},
@@ -33,18 +33,17 @@ ns.ACTIVITY_BY_REGION["tbc-us"] = {
 	},
 	[24] = {  -- the last 24 hour(s)
 		[1] = {
-			["Morepower|nightslayer"] = { 9, 5, 60, 1052 },
-			["Yodead|nightslayer"] = { 9, 5, 57, 1052 },
-			["Myo|nightslayer"] = { 6, 4, 14, 1001 },
-			["Tusamak|nightslayer"] = { 6, 4, 14, 1001 },
-			["Fannypacker|nightslayer"] = { 8, 0, 0, 1185 },
-			["Tycat|nightslayer"] = { 8, 0, 0, 1199 },
-			["Palapapa|nightslayer"] = { 2, 4, -50, 1047 },
-			["Rjp|nightslayer"] = { 2, 4, -44, 1048 },
-			["Lizzygrey|nightslayer"] = { 1, 4, -28, 1137 },
-			["Mopz|nightslayer"] = { 1, 3, -20, 1135 },
-			["Jamzki|nightslayer"] = { 1, 1, -19, 1411 },
-			["Wopz|nightslayer"] = { 0, 1, 0, 1149 },
+			["Morepower|nightslayer"] = { 9, 5, 60, 1112 },
+			["Yodead|nightslayer"] = { 9, 5, 57, 1112 },
+			["Myo|nightslayer"] = { 6, 4, 14, 1061 },
+			["Tusamak|nightslayer"] = { 6, 4, 14, 1061 },
+			["Fannypacker|nightslayer"] = { 8, 0, 0, 1245 },
+			["Tycat|nightslayer"] = { 8, 0, 0, 1259 },
+			["Palapapa|nightslayer"] = { 2, 4, -50, 1107 },
+			["Rjp|nightslayer"] = { 2, 4, -44, 1108 },
+			["Lizzygrey|nightslayer"] = { 1, 4, -28, 1197 },
+			["Mopz|nightslayer"] = { 1, 3, -20, 1195 },
+			["Wopz|nightslayer"] = { 0, 1, 0, 1209 },
 		},
 	},
 }
