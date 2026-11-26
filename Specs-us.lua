@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5204 characters, read 2026-11-25 08:59 PM.
+-- Region us, 5204 characters, read 2026-11-25 09:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4152,6 +4152,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["spoonraccoon-pagle"]=40,
 	["spóöòky-pagle"]=11,
 	["spóöòkyqûeen-pagle"]=11,
+	["spq-pagle"]=41,
 	["spreadpres-pagle"]=41,
 	["spuntville-pagle"]=30,
 	["sqntzi-pagle"]=61,
@@ -6203,7 +6204,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["domoalis-pagle"]=18,
 	["donameagle-galakras"]=30,
 	["donarnds-nazgrim"]=16,
-	["donceno-nazgrim"]=14,
+	["donceno-nazgrim"]=29,
 	["donchi-raden"]=4,
 	["dondemarco-pagle"]=19,
 	["donniedark-pagle"]=14,
@@ -6391,7 +6392,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["elyä-pagle"]=16,
 	["elyandris-raden"]=4,
 	["elzaneto-raden"]=28,
-	["emanuely-pagle"]=28,
+	["emanuely-pagle"]=24,
 	["emelhorquevc-pagle"]=15,
 	["emeraiie-lei-shen"]=4,
 	["emielaina-pagle"]=29,
@@ -8647,7 +8648,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["racehunter-pagle"]=18,
 	["racket-pagle"]=14,
 	["radaggast-lei-shen"]=1,
-	["radendznuts-raden"]=19,
+	["radendznuts-raden"]=22,
 	["radix-raden"]=0,
 	["raelenaa-pagle"]=1,
 	["raenix-pagle"]=14,
@@ -9318,7 +9319,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["spoonraccoon-pagle"]=29,
 	["spóöòky-pagle"]=14,
 	["spóöòkyqûeen-pagle"]=4,
-	["spq-pagle"]=0,
+	["spq-pagle"]=4,
 	["spreadpres-pagle"]=5,
 	["spuntville-pagle"]=22,
 	["sqntzi-pagle"]=17,
