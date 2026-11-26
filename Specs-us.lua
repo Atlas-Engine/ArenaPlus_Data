@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5204 characters, read 2026-11-25 06:54 PM.
+-- Region us, 5204 characters, read 2026-11-25 07:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2161,6 +2161,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["ironheart-lei-shen"]=10,
 	["ironhorse-galakras"]=10,
 	["ironoak-raden"]=41,
+	["ironoakgamin-raden"]=10,
 	["ironpride-pagle"]=60,
 	["irulian-raden"]=11,
 	["irys-pagle"]=11,
@@ -3204,7 +3205,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["nzarw-pagle"]=11,
 	["nzoth-nazgrim"]=100,
 	["nzx-raden"]=11,
-	["oakenguard-raden"]=10,
 	["oakshalaa-benediction"]=30,
 	["obnoxygen-immerseus"]=50,
 	["obsissj-raden"]=11,
@@ -7210,6 +7210,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ironheart-lei-shen"]=7,
 	["ironhorse-galakras"]=24,
 	["ironoak-raden"]=5,
+	["ironoakgamin-raden"]=32,
 	["ironpride-pagle"]=7,
 	["irulian-raden"]=1,
 	["irys-pagle"]=4,
@@ -8308,7 +8309,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["nzoth-nazgrim"]=16,
 	["nzuk-arugal-au"]=0,
 	["nzx-raden"]=3,
-	["oakenguard-raden"]=32,
 	["oakshalaa-benediction"]=19,
 	["obnoxygen-immerseus"]=11,
 	["obsissj-raden"]=7,
