@@ -20,8 +20,8 @@ local ns = ArenaPlusData
 ns.ACTIVITY_BY_REGION = ns.ACTIVITY_BY_REGION or {}
 
 ns.ACTIVITY_BY_REGION["tbc-us"] = {
-	built = 1795679912,
-	builtText = "2026-11-26 02:58 AM",
+	built = 1795683512,
+	builtText = "2026-11-26 03:58 AM",
 	windows = { 1, 3, 6, 12, 24 },
 	[1] = {  -- the last 1 hour(s)
 	},
@@ -29,23 +29,23 @@ ns.ACTIVITY_BY_REGION["tbc-us"] = {
 	},
 	[6] = {  -- the last 6 hour(s)
 		[1] = {
-			["Domenek|nightslayer"] = { 10, 0, 40, 299 },
-			["Druidalina|nightslayer"] = { 10, 0, 40, 299 },
-			["Willinek|nightslayer"] = { 3, 2, -12, 218 },
+			["Domenek|nightslayer"] = { 10, 0, 40, 359 },
+			["Druidalina|nightslayer"] = { 10, 0, 40, 359 },
+			["Willinek|nightslayer"] = { 3, 2, -12, 278 },
 		},
 	},
 	[12] = {  -- the last 12 hour(s)
 		[1] = {
-			["Domenek|nightslayer"] = { 10, 0, 40, 299 },
-			["Druidalina|nightslayer"] = { 10, 0, 40, 299 },
-			["Willinek|nightslayer"] = { 3, 2, -12, 218 },
+			["Domenek|nightslayer"] = { 10, 0, 40, 359 },
+			["Druidalina|nightslayer"] = { 10, 0, 40, 359 },
+			["Willinek|nightslayer"] = { 3, 2, -12, 278 },
 		},
 	},
 	[24] = {  -- the last 24 hour(s)
 		[1] = {
-			["Domenek|nightslayer"] = { 10, 0, 40, 299 },
-			["Druidalina|nightslayer"] = { 10, 0, 40, 299 },
-			["Willinek|nightslayer"] = { 3, 2, -12, 218 },
+			["Domenek|nightslayer"] = { 10, 0, 40, 359 },
+			["Druidalina|nightslayer"] = { 10, 0, 40, 359 },
+			["Willinek|nightslayer"] = { 3, 2, -12, 278 },
 		},
 	},
 }
