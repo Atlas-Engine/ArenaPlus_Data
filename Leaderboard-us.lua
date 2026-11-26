@@ -18,7 +18,7 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region us, season 14, read 2026-11-26 04:59 PM.
+-- Region us, season 14, read 2026-11-26 05:59 PM.
 -- Realm display names, because the ladder only carries slugs and no rule
 -- turns one back into the other: raden is Ra-den, lei-shen is Lei Shen and
 -- arugal-au is Arugal (AU). Read from Blizzard's realm index; a slug with no
@@ -35,8 +35,8 @@ ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["us"] = {
 	region  = "us",
-	checked = "2026-11-26 04:59 PM",
-	checkedEpoch = 1795730369,
+	checked = "2026-11-26 05:59 PM",
+	checkedEpoch = 1795733969,
 	snapshot = "2026-11-26 21:16",
 
 	[1] = {  -- 2v2, 5001 places, down to rating 1134 -- the API stops here, short of the cutoff
@@ -2035,7 +2035,7 @@ ns.LEADERBOARD_BY_REGION["us"] = {
 		{ rank=1990, name="Livlord", realm="pagle", rating=1913, won=63, lost=61, faction="ALLIANCE", mr=1922, dr=0, dk=4 },
 		{ rank=1990, name="Nøether", realm="raden", rating=1913, won=38, lost=24, faction="ALLIANCE", dr=0, dk=4 },
 		{ rank=1990, name="Palyy", realm="raden", rating=1913, won=158, lost=146, faction="ALLIANCE", dr=0, dk=4 },
-		{ rank=1990, name="Pinguisulina", realm="galakras", rating=1913, won=77, lost=84, faction="ALLIANCE", dr=33, dk=-200 },
+		{ rank=1990, name="Pinguisulina", realm="galakras", rating=1913, won=77, lost=87, faction="ALLIANCE", dr=33, dk=-200 },
 		{ rank=1990, name="Pinkoutbreak", realm="galakras", rating=1913, won=91, lost=85, faction="HORDE", mr=1952, dr=0, dk=4 },
 		{ rank=1990, name="Serthius", realm="raden", rating=1913, won=45, lost=24, faction="ALLIANCE", dr=0, dk=4 },
 		{ rank=1990, name="Tweebias", realm="pagle", rating=1913, won=75, lost=85, faction="ALLIANCE", dr=0, dk=4 },
@@ -2147,7 +2147,7 @@ ns.LEADERBOARD_BY_REGION["us"] = {
 		{ rank=2105, name="Domily", realm="raden", rating=1895, won=58, lost=87, faction="ALLIANCE", dr=0, dk=7 },
 		{ rank=2105, name="Hazì", realm="galakras", rating=1895, won=34, lost=24, faction="HORDE", dr=0, dk=7 },
 		{ rank=2105, name="Holmz", realm="pagle", rating=1895, won=60, lost=82, faction="ALLIANCE", mr=1948, dr=0, dk=7 },
-		{ rank=2105, name="Nikotina", realm="galakras", rating=1895, won=173, lost=195, faction="ALLIANCE", dr=24, dk=-148 },
+		{ rank=2105, name="Nikotina", realm="galakras", rating=1895, won=173, lost=198, faction="ALLIANCE", dr=24, dk=-148 },
 		{ rank=2105, name="Retblackrat", realm="raden", rating=1895, won=33, lost=20, faction="ALLIANCE", dr=0, dk=7 },
 		{ rank=2105, name="Switchtucked", realm="pagle", rating=1895, won=54, lost=46, faction="ALLIANCE", dr=0, dk=7 },
 		{ rank=2105, name="Szh", realm="nazgrim", rating=1895, won=32, lost=8, faction="ALLIANCE", mr=1971, dr=0, dk=7 },
