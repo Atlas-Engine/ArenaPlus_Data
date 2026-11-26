@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5206 characters, read 2026-11-26 03:59 PM.
+-- Region us, 5204 characters, read 2026-11-26 04:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1291,7 +1291,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["drwick-pagle"]=40,
 	["drzynphd-raden"]=41,
 	["dsparxx-pagle"]=11,
-	["Ðßøzxs-raden"]=10,
 	["dtax-pagle"]=20,
 	["dubhub-galakras"]=11,
 	["dubwise-raden"]=11,
@@ -6045,7 +6044,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["deathsvoice-lei-shen"]=6,
 	["deathzpirit-pagle"]=21,
 	["decayin-raden"]=0,
-	["decaypox-raden"]=13,
+	["decaypox-raden"]=9,
 	["deceptivv-pagle"]=14,
 	["dedalliance-pagle"]=17,
 	["dedlyxo-pagle"]=9,
@@ -6277,7 +6276,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["drippydrzl-galakras"]=6,
 	["dritann-raden"]=2,
 	["drivêbyê-galakras"]=3,
-	["Ðrizko-raden"]=0,
 	["drkwolf-lei-shen"]=18,
 	["drlovee-benediction"]=2,
 	["drogon-immerseus"]=5,
@@ -6303,7 +6301,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["drwick-pagle"]=5,
 	["drzynphd-raden"]=5,
 	["dsparxx-pagle"]=29,
-	["Ðßøzxs-raden"]=4,
 	["dtax-pagle"]=34,
 	["dubhub-galakras"]=2,
 	["dubwise-raden"]=2,
@@ -9058,7 +9055,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["shephèrd-pagle"]=20,
 	["shetops-pagle"]=6,
 	["shieldsx-raden"]=9,
-	["shieldzx-lei-shen"]=9,
+	["shieldzx-lei-shen"]=21,
 	["shiftescape-galakras"]=12,
 	["shifthaps-raden"]=17,
 	["shìftkey-raden"]=5,
