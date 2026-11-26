@@ -20,8 +20,8 @@ local ns = ArenaPlusData
 ns.ACTIVITY_BY_REGION = ns.ACTIVITY_BY_REGION or {}
 
 ns.ACTIVITY_BY_REGION["tbc-us"] = {
-	built = 1795708713,
-	builtText = "2026-11-26 10:58 AM",
+	built = 1795712313,
+	builtText = "2026-11-26 11:58 AM",
 	windows = { 1, 3, 6, 12, 24 },
 	[1] = {  -- the last 1 hour(s)
 	},
@@ -29,35 +29,32 @@ ns.ACTIVITY_BY_REGION["tbc-us"] = {
 	},
 	[6] = {  -- the last 6 hour(s)
 		[1] = {
-			["Clothfaté|nightslayer"] = { 3, 1, 15, 290 },
-			["Kasupi|nightslayer"] = { 3, 1, 4, 284 },
-			["Gzlol|dreamscythe"] = { 1, 2, -3, 221 },
-			["Ryanin|dreamscythe"] = { 1, 1, -5, 319 },
-			["Möxie|dreamscythe"] = { 0, 1, -6, 330 },
+			["Clothfaté|nightslayer"] = { 3, 1, 15, 350 },
+			["Kasupi|nightslayer"] = { 3, 1, 4, 344 },
+			["Gzlol|dreamscythe"] = { 1, 2, -3, 281 },
 		},
 	},
 	[12] = {  -- the last 12 hour(s)
 		[1] = {
-			["Möxie|dreamscythe"] = { 10, 5, 4, 330 },
-			["Couchman|dreamscythe"] = { 10, 4, 15, 401 },
-			["Gzlol|dreamscythe"] = { 4, 2, 20, 221 },
-			["Ryanin|dreamscythe"] = { 4, 1, 7, 319 },
-			["Willinek|nightslayer"] = { 3, 2, -12, 698 },
-			["Clothfaté|nightslayer"] = { 3, 1, 15, 290 },
-			["Kasupi|nightslayer"] = { 3, 1, 4, 284 },
+			["Möxie|dreamscythe"] = { 10, 5, 4, 390 },
+			["Couchman|dreamscythe"] = { 10, 4, 15, 461 },
+			["Gzlol|dreamscythe"] = { 4, 2, 20, 281 },
+			["Ryanin|dreamscythe"] = { 4, 1, 7, 379 },
+			["Clothfaté|nightslayer"] = { 3, 1, 15, 350 },
+			["Kasupi|nightslayer"] = { 3, 1, 4, 344 },
 		},
 	},
 	[24] = {  -- the last 24 hour(s)
 		[1] = {
-			["Möxie|dreamscythe"] = { 10, 5, 4, 330 },
-			["Couchman|dreamscythe"] = { 10, 4, 15, 401 },
-			["Domenek|nightslayer"] = { 10, 0, 40, 779 },
-			["Druidalina|nightslayer"] = { 10, 0, 40, 779 },
-			["Gzlol|dreamscythe"] = { 4, 2, 20, 221 },
-			["Ryanin|dreamscythe"] = { 4, 1, 7, 319 },
-			["Willinek|nightslayer"] = { 3, 2, -12, 698 },
-			["Clothfaté|nightslayer"] = { 3, 1, 15, 290 },
-			["Kasupi|nightslayer"] = { 3, 1, 4, 284 },
+			["Möxie|dreamscythe"] = { 10, 5, 4, 390 },
+			["Couchman|dreamscythe"] = { 10, 4, 15, 461 },
+			["Domenek|nightslayer"] = { 10, 0, 40, 839 },
+			["Druidalina|nightslayer"] = { 10, 0, 40, 839 },
+			["Gzlol|dreamscythe"] = { 4, 2, 20, 281 },
+			["Ryanin|dreamscythe"] = { 4, 1, 7, 379 },
+			["Willinek|nightslayer"] = { 3, 2, -12, 758 },
+			["Clothfaté|nightslayer"] = { 3, 1, 15, 350 },
+			["Kasupi|nightslayer"] = { 3, 1, 4, 344 },
 		},
 	},
 }
