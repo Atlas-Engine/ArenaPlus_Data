@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5204 characters, read 2026-11-25 11:59 PM.
+-- Region us, 5204 characters, read 2026-11-26 12:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -8163,7 +8163,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["nebubanana-raden"]=8,
 	["nebuboom-nazgrim"]=17,
 	["nebugrape-raden"]=8,
-	["nebupeach-nazgrim"]=28,
+	["nebupeach-nazgrim"]=8,
 	["nebuplum-raden"]=8,
 	["necris-galakras"]=6,
 	["necrodo-pagle"]=6,
@@ -8464,7 +8464,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["peelyocapbak-benediction"]=7,
 	["peligrozx-pagle"]=14,
 	["pellaëon-raden"]=6,
-	["penelope-raden"]=21,
+	["penelope-raden"]=9,
 	["penguinxl-pagle"]=6,
 	["penhitter-pagle"]=7,
 	["penitential-raden"]=21,
@@ -10176,7 +10176,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["zeromoon-arugal-au"]=17,
 	["zerotm-pagle"]=1,
 	["zerozyn-pagle"]=22,
-	["zertraproze-immerseus"]=20,
+	["zertraproze-immerseus"]=18,
 	["zetä-raden"]=0,
 	["zethht-raden"]=0,
 	["zethth-raden"]=0,
