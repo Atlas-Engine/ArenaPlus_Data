@@ -20,39 +20,36 @@ local ns = ArenaPlusData
 ns.ACTIVITY_BY_REGION = ns.ACTIVITY_BY_REGION or {}
 
 ns.ACTIVITY_BY_REGION["tbc-us"] = {
-	built = 1795715914,
-	builtText = "2026-11-26 12:58 PM",
+	built = 1795719513,
+	builtText = "2026-11-26 01:58 PM",
 	windows = { 1, 3, 6, 12, 24 },
 	[1] = {  -- the last 1 hour(s)
 	},
 	[3] = {  -- the last 3 hour(s)
 	},
 	[6] = {  -- the last 6 hour(s)
-		[1] = {
-			["Gzlol|dreamscythe"] = { 1, 2, -3, 341 },
-		},
 	},
 	[12] = {  -- the last 12 hour(s)
 		[1] = {
-			["Möxie|dreamscythe"] = { 10, 5, 4, 450 },
-			["Couchman|dreamscythe"] = { 10, 4, 15, 521 },
-			["Gzlol|dreamscythe"] = { 4, 2, 20, 341 },
-			["Ryanin|dreamscythe"] = { 4, 1, 7, 439 },
-			["Clothfaté|nightslayer"] = { 3, 1, 15, 410 },
-			["Kasupi|nightslayer"] = { 3, 1, 4, 404 },
+			["Möxie|dreamscythe"] = { 10, 5, 4, 510 },
+			["Couchman|dreamscythe"] = { 10, 4, 15, 581 },
+			["Gzlol|dreamscythe"] = { 4, 2, 20, 401 },
+			["Ryanin|dreamscythe"] = { 4, 1, 7, 499 },
+			["Clothfaté|nightslayer"] = { 3, 1, 15, 470 },
+			["Kasupi|nightslayer"] = { 3, 1, 4, 464 },
 		},
 	},
 	[24] = {  -- the last 24 hour(s)
 		[1] = {
-			["Möxie|dreamscythe"] = { 10, 5, 4, 450 },
-			["Couchman|dreamscythe"] = { 10, 4, 15, 521 },
-			["Domenek|nightslayer"] = { 10, 0, 40, 899 },
-			["Druidalina|nightslayer"] = { 10, 0, 40, 899 },
-			["Gzlol|dreamscythe"] = { 4, 2, 20, 341 },
-			["Ryanin|dreamscythe"] = { 4, 1, 7, 439 },
-			["Willinek|nightslayer"] = { 3, 2, -12, 818 },
-			["Clothfaté|nightslayer"] = { 3, 1, 15, 410 },
-			["Kasupi|nightslayer"] = { 3, 1, 4, 404 },
+			["Möxie|dreamscythe"] = { 10, 5, 4, 510 },
+			["Couchman|dreamscythe"] = { 10, 4, 15, 581 },
+			["Domenek|nightslayer"] = { 10, 0, 40, 959 },
+			["Druidalina|nightslayer"] = { 10, 0, 40, 959 },
+			["Gzlol|dreamscythe"] = { 4, 2, 20, 401 },
+			["Ryanin|dreamscythe"] = { 4, 1, 7, 499 },
+			["Willinek|nightslayer"] = { 3, 2, -12, 878 },
+			["Clothfaté|nightslayer"] = { 3, 1, 15, 470 },
+			["Kasupi|nightslayer"] = { 3, 1, 4, 464 },
 		},
 	},
 }
