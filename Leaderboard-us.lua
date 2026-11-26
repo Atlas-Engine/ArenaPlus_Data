@@ -18,7 +18,7 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region us, season 14, read 2026-11-26 09:59 AM.
+-- Region us, season 14, read 2026-11-26 10:59 AM.
 -- Realm display names, because the ladder only carries slugs and no rule
 -- turns one back into the other: raden is Ra-den, lei-shen is Lei Shen and
 -- arugal-au is Arugal (AU). Read from Blizzard's realm index; a slug with no
@@ -35,9 +35,9 @@ ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["us"] = {
 	region  = "us",
-	checked = "2026-11-26 09:59 AM",
-	checkedEpoch = 1795705171,
-	snapshot = "2026-11-26 12:16",
+	checked = "2026-11-26 10:59 AM",
+	checkedEpoch = 1795708769,
+	snapshot = "2026-11-26 15:16",
 
 	[1] = {  -- 2v2, 5003 places, down to rating 1134 -- the API stops here, short of the cutoff
 		{ rank=1, name="Gånnicus", realm="raden", rating=2859, won=353, lost=98, faction="ALLIANCE", dr=0, dk=0 },
@@ -660,27 +660,27 @@ ns.LEADERBOARD_BY_REGION["us"] = {
 		{ rank=615, name="Swiftone", realm="pagle", rating=2221, won=288, lost=287, faction="ALLIANCE", mr=2236, dr=0, dk=4 },
 		{ rank=615, name="Zengirl", realm="raden", rating=2221, won=230, lost=199, faction="ALLIANCE", mr=2252, dr=0, dk=4 },
 		{ rank=620, name="Apegucci", realm="raden", rating=2220, won=101, lost=94, faction="ALLIANCE", dr=0, dk=5 },
-		{ rank=621, name="Delaway", realm="lei-shen", rating=2219, won=312, lost=346, faction="ALLIANCE", dr=0, dk=5 },
-		{ rank=621, name="Killshot", realm="immerseus", rating=2219, won=407, lost=405, faction="HORDE", mr=2339, dr=-32, dk=95 },
-		{ rank=621, name="Nylorfist", realm="pagle", rating=2219, won=68, lost=55, faction="ALLIANCE", dr=0, dk=5 },
-		{ rank=621, name="Riptdd", realm="pagle", rating=2219, won=490, lost=500, faction="ALLIANCE", mr=2294, dr=0, dk=5 },
-		{ rank=621, name="Scyroe", realm="pagle", rating=2219, won=119, lost=76, faction="HORDE", dr=0, dk=5 },
-		{ rank=626, name="Anytips", realm="pagle", rating=2218, won=152, lost=144, faction="ALLIANCE", mr=2224, dr=76, dk=-253 },
-		{ rank=626, name="Mag", realm="raden", rating=2218, won=56, lost=3, faction="ALLIANCE", dr=0, dk=5 },
-		{ rank=628, name="Akimboyo", realm="pagle", rating=2217, won=125, lost=76, faction="ALLIANCE", mr=2273, dr=0, dk=6 },
-		{ rank=628, name="Beetroot", realm="raden", rating=2217, won=67, lost=48, faction="ALLIANCE", dr=0, dk=6 },
-		{ rank=628, name="Chunkyhealz", realm="galakras", rating=2217, won=246, lost=222, faction="HORDE", mr=2256, dr=0, dk=6 },
-		{ rank=628, name="Deathsvoice", realm="lei-shen", rating=2217, won=154, lost=157, faction="ALLIANCE", dr=0, dk=6 },
-		{ rank=628, name="Supermongo", realm="pagle", rating=2217, won=195, lost=205, faction="HORDE", mr=2239, dr=0, dk=6 },
-		{ rank=628, name="Wokelikethis", realm="pagle", rating=2217, won=48, lost=37, faction="ALLIANCE", dr=0, dk=6 },
-		{ rank=628, name="Zyllap", realm="pagle", rating=2217, won=81, lost=79, faction="ALLIANCE", dr=0, dk=6 },
-		{ rank=635, name="Frenzywinz", realm="raden", rating=2216, won=74, lost=44, faction="ALLIANCE", dr=0, dk=6 },
-		{ rank=635, name="Regrd", realm="nazgrim", rating=2216, won=151, lost=133, faction="HORDE", mr=2231, dr=0, dk=6 },
-		{ rank=635, name="Vibezx", realm="pagle", rating=2216, won=225, lost=197, faction="ALLIANCE", dr=0, dk=6 },
-		{ rank=638, name="Faexypriest", realm="arugal-au", rating=2215, won=92, lost=63, faction="HORDE", dr=0, dk=6 },
-		{ rank=638, name="Poizøønzx", realm="galakras", rating=2215, won=123, lost=65, faction="ALLIANCE", dr=4, dk=-15 },
-		{ rank=638, name="Vonzxy", realm="pagle", rating=2215, won=235, lost=237, faction="HORDE", dr=0, dk=6 },
-		{ rank=638, name="Xcp", realm="raden", rating=2215, won=90, lost=64, faction="ALLIANCE", dr=0, dk=6 },
+		{ rank=620, name="Poizøønzx", realm="galakras", rating=2220, won=125, lost=65, faction="ALLIANCE", dr=9, dk=-33 },
+		{ rank=622, name="Delaway", realm="lei-shen", rating=2219, won=312, lost=346, faction="ALLIANCE", dr=0, dk=6 },
+		{ rank=622, name="Killshot", realm="immerseus", rating=2219, won=407, lost=405, faction="HORDE", mr=2339, dr=-32, dk=96 },
+		{ rank=622, name="Nylorfist", realm="pagle", rating=2219, won=68, lost=55, faction="ALLIANCE", dr=0, dk=6 },
+		{ rank=622, name="Riptdd", realm="pagle", rating=2219, won=490, lost=500, faction="ALLIANCE", mr=2294, dr=0, dk=6 },
+		{ rank=622, name="Scyroe", realm="pagle", rating=2219, won=119, lost=76, faction="HORDE", dr=0, dk=6 },
+		{ rank=627, name="Anytips", realm="pagle", rating=2218, won=152, lost=144, faction="ALLIANCE", mr=2224, dr=76, dk=-252 },
+		{ rank=627, name="Mag", realm="raden", rating=2218, won=56, lost=3, faction="ALLIANCE", dr=0, dk=6 },
+		{ rank=629, name="Akimboyo", realm="pagle", rating=2217, won=125, lost=76, faction="ALLIANCE", mr=2273, dr=0, dk=7 },
+		{ rank=629, name="Beetroot", realm="raden", rating=2217, won=67, lost=48, faction="ALLIANCE", dr=0, dk=7 },
+		{ rank=629, name="Chunkyhealz", realm="galakras", rating=2217, won=246, lost=222, faction="HORDE", mr=2256, dr=0, dk=7 },
+		{ rank=629, name="Deathsvoice", realm="lei-shen", rating=2217, won=154, lost=157, faction="ALLIANCE", dr=0, dk=7 },
+		{ rank=629, name="Supermongo", realm="pagle", rating=2217, won=195, lost=205, faction="HORDE", mr=2239, dr=0, dk=7 },
+		{ rank=629, name="Wokelikethis", realm="pagle", rating=2217, won=48, lost=37, faction="ALLIANCE", dr=0, dk=7 },
+		{ rank=629, name="Zyllap", realm="pagle", rating=2217, won=81, lost=79, faction="ALLIANCE", dr=0, dk=7 },
+		{ rank=636, name="Frenzywinz", realm="raden", rating=2216, won=74, lost=44, faction="ALLIANCE", dr=0, dk=7 },
+		{ rank=636, name="Regrd", realm="nazgrim", rating=2216, won=151, lost=133, faction="HORDE", mr=2231, dr=0, dk=7 },
+		{ rank=636, name="Vibezx", realm="pagle", rating=2216, won=225, lost=197, faction="ALLIANCE", dr=0, dk=7 },
+		{ rank=639, name="Faexypriest", realm="arugal-au", rating=2215, won=92, lost=63, faction="HORDE", dr=0, dk=7 },
+		{ rank=639, name="Vonzxy", realm="pagle", rating=2215, won=235, lost=237, faction="HORDE", dr=0, dk=7 },
+		{ rank=639, name="Xcp", realm="raden", rating=2215, won=90, lost=64, faction="ALLIANCE", dr=0, dk=7 },
 		{ rank=642, name="Alarayia", realm="raden", rating=2214, won=98, lost=51, faction="ALLIANCE", mr=2217, dr=0, dk=6 },
 		{ rank=642, name="Diegonis", realm="raden", rating=2214, won=95, lost=66, faction="ALLIANCE", dr=0, dk=6 },
 		{ rank=642, name="Djblazyn", realm="raden", rating=2214, won=103, lost=96, faction="ALLIANCE", dr=0, dk=6 },
