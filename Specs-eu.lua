@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5362 characters, read 2026-11-26 12:00 PM.
+-- Region eu, 5362 characters, read 2026-11-26 01:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3733,7 +3733,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["sneqq-mirage-raceway"]=31,
 	["snik-shekzeer"]=41,
 	["snillheks-shekzeer"]=41,
-	["snipr-shekzeer"]=11,
 	["snkykttyx-shekzeer"]=41,
 	["snøffelstein-mirage-raceway"]=40,
 	["snoopydawgs-everlook"]=11,
@@ -5980,7 +5979,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["crazydruid-shekzeer"]=21,
 	["crazyskiill-shekzeer"]=19,
 	["crazyskill-shekzeer"]=26,
-	["creagender-shekzeer"]=18,
+	["creagender-shekzeer"]=1,
 	["creativeless-everlook"]=5,
 	["creon-garalon"]=23,
 	["críìss-auberdine"]=6,
@@ -9030,7 +9029,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["sneqq-mirage-raceway"]=5,
 	["snik-shekzeer"]=3,
 	["snillheks-shekzeer"]=21,
-	["snipr-shekzeer"]=4,
+	["snipr-shekzeer"]=0,
 	["snkykttyx-shekzeer"]=21,
 	["snøffelstein-mirage-raceway"]=3,
 	["snoopydawgs-everlook"]=17,
