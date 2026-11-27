@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5206 characters, read 2026-11-27 12:59 AM.
+-- Region us, 5206 characters, read 2026-11-27 01:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -330,7 +330,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["babybliss-pagle"]=101,
 	["babyturd-pagle"]=40,
 	["bacatranx-pagle"]=50,
-	["badabign-pagle"]=11,
 	["badanha-nazgrim"]=60,
 	["badanhaa-nazgrim"]=60,
 	["badback-nazgrim"]=20,
@@ -5288,7 +5287,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["babycool-raden"]=0,
 	["babyturd-pagle"]=12,
 	["bacatranx-pagle"]=3,
-	["badabign-pagle"]=9,
 	["badanha-nazgrim"]=7,
 	["badanhaa-nazgrim"]=30,
 	["badback-nazgrim"]=7,
@@ -5999,7 +5997,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["darkjdm-lei-shen"]=6,
 	["darklegendz-raden"]=24,
 	["darknessfury-pagle"]=6,
-	["darknuns-pagle"]=21,
+	["darknuns-pagle"]=9,
 	["darkphecy-pagle"]=22,
 	["darkshadowx-galakras"]=25,
 	["darkshivs-pagle"]=29,
@@ -8599,6 +8597,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["psykadélik-lei-shen"]=16,
 	["psykobunny-raden"]=12,
 	["ptownzxc-lei-shen"]=14,
+	["ptrgladiator-pagle"]=0,
 	["pullouts-raden"]=7,
 	["pumpermcgee-arugal-au"]=21,
 	["pumpkinpatch-nazgrim"]=20,
