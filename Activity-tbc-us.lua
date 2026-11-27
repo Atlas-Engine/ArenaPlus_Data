@@ -20,51 +20,51 @@ local ns = ArenaPlusData
 ns.ACTIVITY_BY_REGION = ns.ACTIVITY_BY_REGION or {}
 
 ns.ACTIVITY_BY_REGION["tbc-us"] = {
-	built = 1795755514,
-	builtText = "2026-11-26 11:58 PM",
+	built = 1795759113,
+	builtText = "2026-11-27 12:58 AM",
 	windows = { 1, 3, 6, 12, 24 },
 	[1] = {  -- the last 1 hour(s)
 		[1] = {
-			["Xczv|dreamscythe"] = { 3, 0, 19, 30 },
+			["Xczv|dreamscythe"] = { 6, 1, 17, 27 },
 		},
 	},
 	[3] = {  -- the last 3 hour(s)
 		[1] = {
-			["Möxie|dreamscythe"] = { 0, 3, -17, 98 },
-			["Xczv|dreamscythe"] = { 3, 0, 19, 30 },
-			["Gzlol|dreamscythe"] = { 2, 0, 24, 101 },
-			["Notwzbx|dreamscythe"] = { 0, 2, -27, 101 },
-			["Ryanin|dreamscythe"] = { 2, 0, 14, 101 },
+			["Xczv|dreamscythe"] = { 9, 1, 36, 27 },
+			["Möxie|dreamscythe"] = { 0, 3, -17, 158 },
+			["Gzlol|dreamscythe"] = { 2, 0, 24, 161 },
+			["Notwzbx|dreamscythe"] = { 0, 2, -27, 161 },
+			["Ryanin|dreamscythe"] = { 2, 0, 14, 161 },
 		},
 	},
 	[6] = {  -- the last 6 hour(s)
 		[1] = {
-			["Möxie|dreamscythe"] = { 0, 3, -17, 98 },
-			["Xczv|dreamscythe"] = { 3, 0, 19, 30 },
-			["Gzlol|dreamscythe"] = { 2, 0, 24, 101 },
-			["Notwzbx|dreamscythe"] = { 0, 2, -27, 101 },
-			["Ryanin|dreamscythe"] = { 2, 0, 14, 101 },
+			["Xczv|dreamscythe"] = { 9, 1, 36, 27 },
+			["Möxie|dreamscythe"] = { 0, 3, -17, 158 },
+			["Gzlol|dreamscythe"] = { 2, 0, 24, 161 },
+			["Notwzbx|dreamscythe"] = { 0, 2, -27, 161 },
+			["Ryanin|dreamscythe"] = { 2, 0, 14, 161 },
 		},
 	},
 	[12] = {  -- the last 12 hour(s)
 		[1] = {
-			["Möxie|dreamscythe"] = { 0, 3, -17, 98 },
-			["Xczv|dreamscythe"] = { 3, 0, 19, 30 },
-			["Gzlol|dreamscythe"] = { 2, 0, 24, 101 },
-			["Notwzbx|dreamscythe"] = { 0, 2, -27, 101 },
-			["Ryanin|dreamscythe"] = { 2, 0, 14, 101 },
+			["Xczv|dreamscythe"] = { 9, 1, 36, 27 },
+			["Möxie|dreamscythe"] = { 0, 3, -17, 158 },
+			["Gzlol|dreamscythe"] = { 2, 0, 24, 161 },
+			["Notwzbx|dreamscythe"] = { 0, 2, -27, 161 },
+			["Ryanin|dreamscythe"] = { 2, 0, 14, 161 },
 		},
 	},
 	[24] = {  -- the last 24 hour(s)
 		[1] = {
-			["Möxie|dreamscythe"] = { 10, 8, -13, 98 },
-			["Couchman|dreamscythe"] = { 10, 4, 15, 1181 },
-			["Gzlol|dreamscythe"] = { 6, 2, 44, 101 },
-			["Ryanin|dreamscythe"] = { 6, 1, 21, 101 },
-			["Clothfaté|nightslayer"] = { 3, 1, 15, 1070 },
-			["Kasupi|nightslayer"] = { 3, 1, 4, 1064 },
-			["Xczv|dreamscythe"] = { 3, 0, 19, 30 },
-			["Notwzbx|dreamscythe"] = { 0, 2, -27, 101 },
+			["Möxie|dreamscythe"] = { 10, 8, -13, 158 },
+			["Couchman|dreamscythe"] = { 10, 4, 15, 1241 },
+			["Xczv|dreamscythe"] = { 9, 1, 36, 27 },
+			["Gzlol|dreamscythe"] = { 6, 2, 44, 161 },
+			["Ryanin|dreamscythe"] = { 6, 1, 21, 161 },
+			["Clothfaté|nightslayer"] = { 3, 1, 15, 1130 },
+			["Kasupi|nightslayer"] = { 3, 1, 4, 1124 },
+			["Notwzbx|dreamscythe"] = { 0, 2, -27, 161 },
 		},
 	},
 }
