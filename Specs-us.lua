@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5203 characters, read 2026-11-27 03:59 PM.
+-- Region us, 5205 characters, read 2026-11-27 04:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1289,6 +1289,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["drwick-pagle"]=40,
 	["drzynphd-raden"]=41,
 	["dsparxx-pagle"]=11,
+	["Ðßøzxs-raden"]=10,
 	["dtax-pagle"]=20,
 	["dubhub-galakras"]=11,
 	["dubwise-raden"]=11,
@@ -6273,6 +6274,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["drippydrzl-galakras"]=6,
 	["dritann-raden"]=2,
 	["drivêbyê-galakras"]=3,
+	["Ðrizko-raden"]=0,
 	["drkwolf-lei-shen"]=18,
 	["drlovee-benediction"]=2,
 	["drogon-immerseus"]=5,
@@ -6298,6 +6300,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["drwick-pagle"]=5,
 	["drzynphd-raden"]=5,
 	["dsparxx-pagle"]=29,
+	["Ðßøzxs-raden"]=4,
 	["dtax-pagle"]=34,
 	["dubhub-galakras"]=2,
 	["dubwise-raden"]=2,
@@ -6768,7 +6771,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["glasstoker-pagle"]=17,
 	["glayzed-raden"]=19,
 	["gleef-pagle"]=0,
-	["glinna-raden"]=9,
+	["glinna-raden"]=21,
 	["glitcho-immerseus"]=2,
 	["glitercheeks-pagle"]=5,
 	["glizzyjizzy-nazgrim"]=2,
