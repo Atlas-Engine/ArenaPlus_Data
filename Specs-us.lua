@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5206 characters, read 2026-11-27 02:59 AM.
+-- Region us, 5206 characters, read 2026-11-27 03:54 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -3481,6 +3481,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["psykadélik-lei-shen"]=10,
 	["psykobunny-raden"]=40,
 	["ptownzxc-lei-shen"]=11,
+	["ptrgladiator-pagle"]=11,
 	["pullouts-raden"]=11,
 	["pumpermcgee-arugal-au"]=50,
 	["pumpkinpatch-nazgrim"]=10,
@@ -8035,7 +8036,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["monuei-raden"]=10,
 	["moobookaiyah-galakras"]=7,
 	["mooleone-pagle"]=5,
-	["mòónfirebeam-raden"]=12,
+	["mòónfirebeam-raden"]=5,
 	["moonloon-pagle"]=17,
 	["moonpieelite-immerseus"]=1,
 	["moonrip-raden"]=12,
@@ -8597,7 +8598,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["psykadélik-lei-shen"]=16,
 	["psykobunny-raden"]=12,
 	["ptownzxc-lei-shen"]=14,
-	["ptrgladiator-pagle"]=0,
+	["ptrgladiator-pagle"]=9,
 	["pullouts-raden"]=7,
 	["pumpermcgee-arugal-au"]=21,
 	["pumpkinpatch-nazgrim"]=20,
@@ -8648,7 +8649,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["racehunter-pagle"]=18,
 	["racket-pagle"]=14,
 	["radaggast-lei-shen"]=1,
-	["radendznuts-raden"]=22,
+	["radendznuts-raden"]=19,
 	["radix-raden"]=0,
 	["raelenaa-pagle"]=1,
 	["raenix-pagle"]=14,
