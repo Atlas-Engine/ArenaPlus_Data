@@ -18,7 +18,7 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region us, season 14, read 2026-11-27 05:59 AM.
+-- Region us, season 14, read 2026-11-27 06:59 AM.
 -- Realm display names, because the ladder only carries slugs and no rule
 -- turns one back into the other: raden is Ra-den, lei-shen is Lei Shen and
 -- arugal-au is Arugal (AU). Read from Blizzard's realm index; a slug with no
@@ -35,8 +35,8 @@ ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["us"] = {
 	region  = "us",
-	checked = "2026-11-27 05:59 AM",
-	checkedEpoch = 1795777168,
+	checked = "2026-11-27 06:59 AM",
+	checkedEpoch = 1795780768,
 	snapshot = "2026-11-27 09:16",
 
 	[1] = {  -- 2v2, 5003 places, down to rating 1134 -- the API stops here, short of the cutoff
@@ -812,18 +812,18 @@ ns.LEADERBOARD_BY_REGION["us"] = {
 		{ rank=770, name="Codiplay", realm="pagle", rating=2187, won=97, lost=95, faction="ALLIANCE", mr=2208, dr=0, dk=8 },
 		{ rank=770, name="Deedaniels", realm="raden", rating=2187, won=278, lost=253, faction="ALLIANCE", dr=37, dk=-87 },
 		{ rank=770, name="Twangly", realm="pagle", rating=2187, won=132, lost=138, faction="ALLIANCE", mr=2201, dr=0, dk=8 },
+		{ rank=773, name="Crepes", realm="pagle", rating=2186, won=371, lost=316, faction="HORDE", mr=2235, dr=-16, dk=63 },
 		{ rank=773, name="Klept", realm="raden", rating=2186, won=236, lost=215, faction="ALLIANCE", mr=2211, dr=0, dk=9 },
 		{ rank=773, name="Tempestir", realm="pagle", rating=2186, won=64, lost=48, faction="ALLIANCE", mr=2206, dr=0, dk=9 },
-		{ rank=775, name="Dankenstein", realm="lei-shen", rating=2185, won=365, lost=383, faction="HORDE", mr=2262, dr=-11, dk=26 },
-		{ rank=775, name="Glinna", realm="raden", rating=2185, won=126, lost=112, faction="ALLIANCE", mr=2301, dr=42, dk=-101 },
-		{ rank=775, name="Nargussy", realm="pagle", rating=2185, won=59, lost=43, faction="ALLIANCE", dr=0, dk=9 },
-		{ rank=778, name="Bmacxvi", realm="raden", rating=2184, won=58, lost=48, faction="ALLIANCE", mr=2207, dr=0, dk=11 },
-		{ rank=778, name="Gonas", realm="raden", rating=2184, won=143, lost=129, faction="ALLIANCE", dr=0, dk=11 },
-		{ rank=778, name="Msnurfme", realm="raden", rating=2184, won=66, lost=44, faction="ALLIANCE", mr=2191, dr=0, dk=11 },
-		{ rank=778, name="Shvfty", realm="pagle", rating=2184, won=366, lost=355, faction="HORDE", mr=2210, dr=0, dk=11 },
-		{ rank=778, name="Varyags", realm="pagle", rating=2184, won=165, lost=161, faction="ALLIANCE", mr=2237, dr=0, dk=11 },
-		{ rank=778, name="Zendarko", realm="arugal-au", rating=2184, won=78, lost=52, faction="ALLIANCE", dr=0, dk=11 },
-		{ rank=784, name="Crepes", realm="pagle", rating=2183, won=365, lost=311, faction="HORDE", mr=2235, dr=-19, dk=74 },
+		{ rank=776, name="Dankenstein", realm="lei-shen", rating=2185, won=365, lost=383, faction="HORDE", mr=2262, dr=-11, dk=27 },
+		{ rank=776, name="Glinna", realm="raden", rating=2185, won=126, lost=112, faction="ALLIANCE", mr=2301, dr=42, dk=-100 },
+		{ rank=776, name="Nargussy", realm="pagle", rating=2185, won=59, lost=43, faction="ALLIANCE", dr=0, dk=10 },
+		{ rank=779, name="Bmacxvi", realm="raden", rating=2184, won=58, lost=48, faction="ALLIANCE", mr=2207, dr=0, dk=12 },
+		{ rank=779, name="Gonas", realm="raden", rating=2184, won=143, lost=129, faction="ALLIANCE", dr=0, dk=12 },
+		{ rank=779, name="Msnurfme", realm="raden", rating=2184, won=66, lost=44, faction="ALLIANCE", mr=2191, dr=0, dk=12 },
+		{ rank=779, name="Shvfty", realm="pagle", rating=2184, won=366, lost=355, faction="HORDE", mr=2210, dr=0, dk=12 },
+		{ rank=779, name="Varyags", realm="pagle", rating=2184, won=165, lost=161, faction="ALLIANCE", mr=2237, dr=0, dk=12 },
+		{ rank=779, name="Zendarko", realm="arugal-au", rating=2184, won=78, lost=52, faction="ALLIANCE", dr=0, dk=12 },
 		{ rank=785, name="Bocena", realm="pagle", rating=2179, won=92, lost=73, faction="ALLIANCE", dr=0, dk=7 },
 		{ rank=785, name="Dumdum", realm="nazgrim", rating=2179, won=372, lost=364, faction="HORDE", mr=2195, dr=0, dk=7 },
 		{ rank=785, name="Eljuandiego", realm="pagle", rating=2179, won=60, lost=56, faction="ALLIANCE", dr=0, dk=7 },
