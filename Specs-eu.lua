@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5364 characters, read 2026-11-27 03:00 PM.
+-- Region eu, 5365 characters, read 2026-11-27 04:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -4520,6 +4520,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["xar-shekzeer"]=10,
 	["xarelh-garalon"]=20,
 	["xarkaroth-shekzeer"]=20,
+	["xasos-mirage-raceway"]=40,
 	["xave-shekzeer"]=41,
 	["xaviéduponts-auberdine"]=10,
 	["xaxaxaxaxa-shekzeer"]=41,
@@ -9786,7 +9787,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["windpotata-shekzeer"]=7,
 	["windwålker-shekzeer"]=7,
 	["windztr-mirage-raceway"]=7,
-	["wingsfuhrer-shekzeer"]=15,
+	["wingsfuhrer-shekzeer"]=5,
 	["wink-mirage-raceway"]=7,
 	["winkaay-shekzeer"]=13,
 	["winkay-shekzeer"]=3,
@@ -9860,6 +9861,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["xar-shekzeer"]=17,
 	["xarelh-garalon"]=6,
 	["xarkaroth-shekzeer"]=20,
+	["xasos-mirage-raceway"]=33,
 	["xave-shekzeer"]=9,
 	["xaviéduponts-auberdine"]=1,
 	["xaxaxaxaxa-shekzeer"]=11,
