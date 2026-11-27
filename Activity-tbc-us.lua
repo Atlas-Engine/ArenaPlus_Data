@@ -20,28 +20,51 @@ local ns = ArenaPlusData
 ns.ACTIVITY_BY_REGION = ns.ACTIVITY_BY_REGION or {}
 
 ns.ACTIVITY_BY_REGION["tbc-us"] = {
-	built = 1795748314,
-	builtText = "2026-11-26 09:58 PM",
+	built = 1795751913,
+	builtText = "2026-11-26 10:58 PM",
 	windows = { 1, 3, 6, 12, 24 },
 	[1] = {  -- the last 1 hour(s)
+		[1] = {
+			["Möxie|dreamscythe"] = { 0, 3, -17, 38 },
+			["Gzlol|dreamscythe"] = { 2, 0, 24, 41 },
+			["Notwzbx|dreamscythe"] = { 0, 2, -27, 41 },
+			["Ryanin|dreamscythe"] = { 2, 0, 14, 41 },
+		},
 	},
 	[3] = {  -- the last 3 hour(s)
+		[1] = {
+			["Möxie|dreamscythe"] = { 0, 3, -17, 38 },
+			["Gzlol|dreamscythe"] = { 2, 0, 24, 41 },
+			["Notwzbx|dreamscythe"] = { 0, 2, -27, 41 },
+			["Ryanin|dreamscythe"] = { 2, 0, 14, 41 },
+		},
 	},
 	[6] = {  -- the last 6 hour(s)
+		[1] = {
+			["Möxie|dreamscythe"] = { 0, 3, -17, 38 },
+			["Gzlol|dreamscythe"] = { 2, 0, 24, 41 },
+			["Notwzbx|dreamscythe"] = { 0, 2, -27, 41 },
+			["Ryanin|dreamscythe"] = { 2, 0, 14, 41 },
+		},
 	},
 	[12] = {  -- the last 12 hour(s)
+		[1] = {
+			["Möxie|dreamscythe"] = { 0, 3, -17, 38 },
+			["Gzlol|dreamscythe"] = { 2, 0, 24, 41 },
+			["Notwzbx|dreamscythe"] = { 0, 2, -27, 41 },
+			["Ryanin|dreamscythe"] = { 2, 0, 14, 41 },
+		},
 	},
 	[24] = {  -- the last 24 hour(s)
 		[1] = {
-			["Möxie|dreamscythe"] = { 10, 5, 4, 990 },
-			["Couchman|dreamscythe"] = { 10, 4, 15, 1061 },
-			["Domenek|nightslayer"] = { 10, 0, 40, 1439 },
-			["Druidalina|nightslayer"] = { 10, 0, 40, 1439 },
-			["Gzlol|dreamscythe"] = { 4, 2, 20, 881 },
-			["Ryanin|dreamscythe"] = { 4, 1, 7, 979 },
-			["Willinek|nightslayer"] = { 3, 2, -12, 1358 },
-			["Clothfaté|nightslayer"] = { 3, 1, 15, 950 },
-			["Kasupi|nightslayer"] = { 3, 1, 4, 944 },
+			["Möxie|dreamscythe"] = { 10, 8, -13, 38 },
+			["Couchman|dreamscythe"] = { 10, 4, 15, 1121 },
+			["Gzlol|dreamscythe"] = { 6, 2, 44, 41 },
+			["Ryanin|dreamscythe"] = { 6, 1, 21, 41 },
+			["Willinek|nightslayer"] = { 3, 2, -12, 1418 },
+			["Clothfaté|nightslayer"] = { 3, 1, 15, 1010 },
+			["Kasupi|nightslayer"] = { 3, 1, 4, 1004 },
+			["Notwzbx|dreamscythe"] = { 0, 2, -27, 41 },
 		},
 	},
 }

@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5204 characters, read 2026-11-26 09:59 PM.
+-- Region us, 5206 characters, read 2026-11-26 10:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1064,7 +1064,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["degaüss-raden"]=11,
 	["delané-raden"]=11,
 	["delaway-lei-shen"]=11,
-	["deleteh-pagle"]=50,
 	["delgars-galakras"]=10,
 	["delonso-pagle"]=10,
 	["deloriss-pagle"]=101,
@@ -3212,6 +3211,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["ochango-immerseus"]=50,
 	["oddenuff-immerseus"]=21,
 	["odenslight-raden"]=10,
+	["odessa-raden"]=21,
 	["odnanref-pagle"]=250,
 	["odokawa-pagle"]=40,
 	["offgrid-galakras"]=50,
@@ -3771,6 +3771,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["saintarmor-pagle"]=101,
 	["saintblack-raden"]=10,
 	["saintdrinks-pagle"]=11,
+	["saintjuan-raden"]=41,
 	["saintorim-pagle"]=10,
 	["saintshunter-pagle"]=20,
 	["saintsmonk-pagle"]=101,
@@ -4119,6 +4120,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["space-raden"]=111,
 	["sparas-raden"]=71,
 	["sparqxx-pagle"]=11,
+	["speakington-raden"]=11,
 	["speedfiree-pagle"]=10,
 	["speedypee-pagle"]=11,
 	["spéllcaster-raden"]=10,
@@ -6063,7 +6065,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["dekk-raden"]=0,
 	["delané-raden"]=18,
 	["delaway-lei-shen"]=24,
-	["deleteh-pagle"]=9,
 	["delgars-galakras"]=3,
 	["delonso-pagle"]=7,
 	["deloriss-pagle"]=34,
@@ -6772,7 +6773,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["glasstoker-pagle"]=17,
 	["glayzed-raden"]=19,
 	["gleef-pagle"]=0,
-	["glinna-raden"]=21,
+	["glinna-raden"]=9,
 	["glitcho-immerseus"]=2,
 	["glitercheeks-pagle"]=5,
 	["glizzyjizzy-nazgrim"]=2,
@@ -8316,6 +8317,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ochango-immerseus"]=9,
 	["oddenuff-immerseus"]=3,
 	["odenslight-raden"]=2,
+	["odessa-raden"]=4,
 	["odnanref-pagle"]=10,
 	["odokawa-pagle"]=9,
 	["offgrid-galakras"]=14,
@@ -8905,6 +8907,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["saintarmor-pagle"]=2,
 	["saintblack-raden"]=10,
 	["saintdrinks-pagle"]=9,
+	["saintjuan-raden"]=4,
 	["saintorim-pagle"]=3,
 	["saintshunter-pagle"]=3,
 	["saintsmonk-pagle"]=4,
@@ -9285,6 +9288,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["spala-pagle"]=0,
 	["sparas-raden"]=11,
 	["sparqxx-pagle"]=14,
+	["speakington-raden"]=2,
 	["speedfiree-pagle"]=3,
 	["speedypee-pagle"]=14,
 	["spéllcaster-raden"]=25,
