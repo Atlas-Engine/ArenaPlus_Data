@@ -20,8 +20,8 @@ local ns = ArenaPlusData
 ns.ACTIVITY_BY_REGION = ns.ACTIVITY_BY_REGION or {}
 
 ns.ACTIVITY_BY_REGION["tbc-us"] = {
-	built = 1795805913,
-	builtText = "2026-11-27 01:58 PM",
+	built = 1795809512,
+	builtText = "2026-11-27 02:58 PM",
 	windows = { 1, 3, 6, 12, 24 },
 	[1] = {  -- the last 1 hour(s)
 	},
@@ -31,16 +31,16 @@ ns.ACTIVITY_BY_REGION["tbc-us"] = {
 	},
 	[12] = {  -- the last 12 hour(s)
 		[1] = {
-			["Couchman|dreamscythe"] = { 1, 0, 11, 660 },
+			["Couchman|dreamscythe"] = { 1, 0, 11, 720 },
 		},
 	},
 	[24] = {  -- the last 24 hour(s)
 		[1] = {
-			["Notwzbx|dreamscythe"] = { 4, 16, -147, 761 },
-			["Ryanin|dreamscythe"] = { 17, 2, 38, 727 },
-			["Xczv|dreamscythe"] = { 9, 1, 36, 807 },
-			["Gzlol|dreamscythe"] = { 8, 0, 77, 761 },
-			["Couchman|dreamscythe"] = { 1, 0, 11, 660 },
+			["Notwzbx|dreamscythe"] = { 4, 16, -147, 821 },
+			["Ryanin|dreamscythe"] = { 17, 2, 38, 787 },
+			["Xczv|dreamscythe"] = { 9, 1, 36, 867 },
+			["Gzlol|dreamscythe"] = { 8, 0, 77, 821 },
+			["Couchman|dreamscythe"] = { 1, 0, 11, 720 },
 		},
 	},
 }
