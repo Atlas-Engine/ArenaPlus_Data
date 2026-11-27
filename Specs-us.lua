@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5204 characters, read 2026-11-26 06:59 PM.
+-- Region us, 5204 characters, read 2026-11-26 07:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -105,7 +105,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["acxblue-raden"]=31,
 	["adalen-nazgrim"]=101,
 	["adamandsteve-immerseus"]=51,
-	["adeaanael-pagle"]=111,
 	["adeathians-lei-shen"]=10,
 	["adepto-pagle"]=20,
 	["adgavert-lei-shen"]=10,
@@ -213,6 +212,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["ancient-raden"]=41,
 	["andreiaa-pagle"]=11,
 	["anêl-pagle"]=50,
+	["anielynnai-pagle"]=11,
 	["anihalator-pagle"]=10,
 	["anikdote-raden"]=11,
 	["animalzx-lei-shen"]=40,
@@ -1256,6 +1256,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["drewwd-nazgrim"]=61,
 	["dreyad-pagle"]=41,
 	["dreyas-pagle"]=10,
+	["drezkalkbek-pagle"]=80,
 	["drfault-immerseus"]=81,
 	["drgewch-raden"]=51,
 	["drgspit-pagle"]=11,
@@ -4400,7 +4401,6 @@ ns.LOOKS_BY_REGION["us"] = {
 	["thewalker-lei-shen"]=10,
 	["theweave-raden"]=11,
 	["thicthighsqt-pagle"]=11,
-	["thillianar-pagle"]=41,
 	["thinkquick-raden"]=11,
 	["thisisthaway-pagle"]=10,
 	["thlam-pagle"]=11,
@@ -5047,7 +5047,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["acxblue-raden"]=19,
 	["adalen-nazgrim"]=10,
 	["adamandsteve-immerseus"]=9,
-	["adeaanael-pagle"]=2,
 	["adeathians-lei-shen"]=6,
 	["adepto-pagle"]=7,
 	["adgavert-lei-shen"]=32,
@@ -5161,6 +5160,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["ancient-raden"]=9,
 	["andreiaa-pagle"]=6,
 	["anêl-pagle"]=21,
+	["anielynnai-pagle"]=2,
 	["anihalator-pagle"]=26,
 	["anikdote-raden"]=16,
 	["animalzx-lei-shen"]=17,
@@ -6266,6 +6266,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["drewwd-nazgrim"]=5,
 	["dreyad-pagle"]=5,
 	["dreyas-pagle"]=7,
+	["drezkalkbek-pagle"]=5,
 	["drfault-immerseus"]=5,
 	["drgewch-raden"]=10,
 	["drgspit-pagle"]=28,
@@ -9382,7 +9383,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["stinkpeen-arugal-au"]=18,
 	["stinkubizzle-nazgrim"]=30,
 	["stinkybuthol-pagle"]=2,
-	["stoicjasey-raden"]=1,
+	["stoicjasey-raden"]=11,
 	["stonêd-raden"]=16,
 	["stooter-nazgrim"]=5,
 	["stootns-nazgrim"]=15,
@@ -9578,7 +9579,6 @@ ns.SPECS_BY_REGION["us"] = {
 	["thewalker-lei-shen"]=4,
 	["theweave-raden"]=4,
 	["thicthighsqt-pagle"]=16,
-	["thillianar-pagle"]=5,
 	["thinkquick-raden"]=16,
 	["thisisthaway-pagle"]=7,
 	["thlam-pagle"]=7,
