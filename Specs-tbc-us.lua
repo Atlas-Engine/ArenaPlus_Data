@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region tbc-us, 9351 characters, read 2026-11-28 02:58 AM.
+-- Region tbc-us, 9351 characters, read 2026-11-28 03:58 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -9423,7 +9423,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["allbirds-nightslayer"]=4,
 	["allegheny-nightslayer"]=2,
 	["allemin-nightslayer"]=5,
-	["allenstout-nightslayer"]=21,
+	["allenstout-nightslayer"]=15,
 	["allstarsocal-nightslayer"]=17,
 	["allstarxx-nightslayer"]=15,
 	["allupinsideu-nightslayer"]=9,
@@ -11122,7 +11122,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["deadhomiez-nightslayer"]=22,
 	["deadidea-dreamscythe"]=1,
 	["deadlyswords-nightslayer"]=5,
-	["deamya-dreamscythe"]=5,
+	["deamya-dreamscythe"]=8,
 	["deanski-nightslayer"]=5,
 	["deathpactjaj-nightslayer"]=8,
 	["deathrolls-nightslayer"]=2,
@@ -15610,7 +15610,7 @@ ns.SPECS_BY_REGION["tbc-us"] = {
 	["ptjmage-nightslayer"]=4,
 	["ptp-nightslayer"]=7,
 	["publicsoap-nightslayer"]=1,
-	["puchikong-nightslayer"]=5,
+	["puchikong-nightslayer"]=8,
 	["pudgeball-dreamscythe"]=7,
 	["puepuepope-nightslayer"]=1,
 	["puffdottie-nightslayer"]=23,
