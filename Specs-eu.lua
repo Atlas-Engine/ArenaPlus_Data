@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5365 characters, read 2026-11-27 06:00 PM.
+-- Region eu, 5365 characters, read 2026-11-27 07:00 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -1497,7 +1497,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["goagil-shekzeer"]=11,
 	["goblyni-garalon"]=90,
 	["gødmødex-everlook"]=40,
-	["gódx-shekzeer"]=10,
+	["gódx-shekzeer"]=11,
 	["gødzilla-shekzeer"]=220,
 	["gofish-shekzeer"]=40,
 	["gogopowrang-auberdine"]=101,
@@ -4507,7 +4507,6 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["xælthiar-everlook"]=41,
 	["xæthra-everlook"]=41,
 	["xakerone-mirage-raceway"]=101,
-	["xály-shekzeer"]=41,
 	["xanæi-everlook"]=41,
 	["xanará-everlook"]=10,
 	["xánara-everlook"]=41,
@@ -8845,7 +8844,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["secodia-hoptallus"]=5,
 	["sectumsemprá-auberdine"]=1,
 	["seeany-everlook"]=21,
-	["seera-shekzeer"]=7,
+	["seera-shekzeer"]=29,
 	["sehrot-everlook"]=1,
 	["seishironagî-shekzeer"]=9,
 	["sêîsmîç-shekzeer"]=16,
@@ -9848,7 +9847,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["xælthiar-everlook"]=9,
 	["xæthra-everlook"]=11,
 	["xakerone-mirage-raceway"]=4,
-	["xály-shekzeer"]=32,
+	["xály-shekzeer"]=0,
 	["xanæi-everlook"]=6,
 	["xanará-everlook"]=5,
 	["xánara-everlook"]=9,
