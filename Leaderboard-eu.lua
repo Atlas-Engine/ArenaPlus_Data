@@ -18,7 +18,7 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region eu, season 14, read 2026-11-28 06:00 AM.
+-- Region eu, season 14, read 2026-11-28 07:00 AM.
 -- Realm display names, because the ladder only carries slugs and no rule
 -- turns one back into the other: raden is Ra-den, lei-shen is Lei Shen and
 -- arugal-au is Arugal (AU). Read from Blizzard's realm index; a slug with no
@@ -34,9 +34,9 @@ ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["eu"] = {
 	region  = "eu",
-	checked = "2026-11-28 06:00 AM",
-	checkedEpoch = 1795863606,
-	snapshot = "2026-11-28 08:13",
+	checked = "2026-11-28 07:00 AM",
+	checkedEpoch = 1795867206,
+	snapshot = "2026-11-28 11:13",
 
 	[1] = {  -- 2v2, 5001 places, down to rating 1048 -- the API stops here, short of the cutoff
 		{ rank=1, name="Satånaz", realm="shekzeer", rating=2937, won=184, lost=38, faction="ALLIANCE", dr=0, dk=0 },
@@ -5305,14 +5305,14 @@ ns.LEADERBOARD_BY_REGION["eu"] = {
 		{ rank=260, name="Соснова", realm="flamegor", rating=1876, won=101, lost=120, faction="HORDE", mr=2007, dr=0, dk=0 },
 		{ rank=262, name="Nattywarrior", realm="shekzeer", rating=1868, won=30, lost=40, faction="ALLIANCE", dr=0, dk=0 },
 		{ rank=262, name="Night", realm="gehennas", rating=1868, won=57, lost=22, faction="HORDE", mr=1989, dr=0, dk=0 },
-		{ rank=264, name="Рыкай", realm="flamegor", rating=1865, won=83, lost=125, faction="HORDE", mr=2083, dr=0, dk=0 },
-		{ rank=265, name="Wrongwilson", realm="shekzeer", rating=1863, won=30, lost=27, faction="ALLIANCE", dr=0, dk=0 },
-		{ rank=266, name="Thys", realm="gehennas", rating=1858, won=68, lost=55, faction="HORDE", mr=2005, dr=0, dk=0 },
-		{ rank=267, name="Mortabotgodx", realm="shekzeer", rating=1856, won=30, lost=34, faction="ALLIANCE", dr=0, dk=0 },
-		{ rank=268, name="Roheryn", realm="shekzeer", rating=1853, won=30, lost=30, faction="ALLIANCE", dr=0, dk=0 },
-		{ rank=269, name="Etherion", realm="shekzeer", rating=1852, won=35, lost=62, faction="ALLIANCE", dr=0, dk=0 },
-		{ rank=270, name="Pillarhumpa", realm="shekzeer", rating=1850, won=30, lost=38, faction="ALLIANCE", dr=0, dk=0 },
-		{ rank=270, name="Чиффа", realm="flamegor", rating=1850, won=38, lost=192, faction="ALLIANCE", dr=0, dk=0 },
+		{ rank=264, name="Wrongwilson", realm="shekzeer", rating=1863, won=30, lost=27, faction="ALLIANCE", dr=0, dk=-1 },
+		{ rank=265, name="Thys", realm="gehennas", rating=1858, won=68, lost=55, faction="HORDE", mr=2005, dr=0, dk=-1 },
+		{ rank=266, name="Mortabotgodx", realm="shekzeer", rating=1856, won=30, lost=34, faction="ALLIANCE", dr=0, dk=-1 },
+		{ rank=267, name="Roheryn", realm="shekzeer", rating=1853, won=30, lost=30, faction="ALLIANCE", dr=0, dk=-1 },
+		{ rank=268, name="Etherion", realm="shekzeer", rating=1852, won=35, lost=62, faction="ALLIANCE", dr=0, dk=-1 },
+		{ rank=269, name="Pillarhumpa", realm="shekzeer", rating=1850, won=30, lost=38, faction="ALLIANCE", dr=0, dk=-1 },
+		{ rank=269, name="Рыкай", realm="flamegor", rating=1850, won=83, lost=130, faction="HORDE", mr=2083, dr=-15, dk=5 },
+		{ rank=269, name="Чиффа", realm="flamegor", rating=1850, won=38, lost=192, faction="ALLIANCE", dr=0, dk=-1 },
 		{ rank=272, name="Тащерша", realm="flamegor", rating=1847, won=39, lost=190, faction="ALLIANCE", dr=0, dk=0 },
 		{ rank=273, name="Bitcow", realm="gehennas", rating=1846, won=50, lost=56, faction="HORDE", dr=0, dk=0 },
 		{ rank=274, name="Dalbaiob", realm="shekzeer", rating=1842, won=29, lost=20, faction="ALLIANCE", dr=0, dk=0 },
@@ -5335,8 +5335,8 @@ ns.LEADERBOARD_BY_REGION["eu"] = {
 		{ rank=289, name="Victuz", realm="gehennas", rating=1797, won=47, lost=58, faction="HORDE", mr=1820, dr=0, dk=0 },
 		{ rank=292, name="Аркуэнон", realm="flamegor", rating=1794, won=35, lost=33, faction="HORDE", dr=0, dk=0 },
 		{ rank=293, name="Kayzee", realm="ook-ook", rating=1792, won=27, lost=42, faction="ALLIANCE", dr=0, dk=0 },
-		{ rank=294, name="Голмаш", realm="flamegor", rating=1789, won=35, lost=100, faction="HORDE", mr=1908, dr=0, dk=0 },
-		{ rank=295, name="Superog", realm="shekzeer", rating=1785, won=29, lost=16, faction="ALLIANCE", dr=0, dk=0 },
+		{ rank=294, name="Superog", realm="shekzeer", rating=1785, won=29, lost=16, faction="ALLIANCE", dr=0, dk=-1 },
+		{ rank=295, name="Голмаш", realm="flamegor", rating=1783, won=35, lost=105, faction="HORDE", mr=1908, dr=-6, dk=1 },
 		{ rank=296, name="Nephö", realm="shekzeer", rating=1778, won=27, lost=8, faction="ALLIANCE", dr=0, dk=0 },
 		{ rank=297, name="Lavapump", realm="shekzeer", rating=1777, won=27, lost=32, faction="ALLIANCE", dr=0, dk=0 },
 		{ rank=298, name="Osx", realm="shekzeer", rating=1776, won=26, lost=15, faction="ALLIANCE", dr=0, dk=0 },
