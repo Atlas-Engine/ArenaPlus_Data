@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region eu, 5363 characters, read 2026-11-28 09:00 AM.
+-- Region eu, 5364 characters, read 2026-11-28 10:00 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -961,6 +961,7 @@ ns.LOOKS_BY_REGION["eu"] = {
 	["deathchaz-shekzeer"]=10,
 	["déathkón-shekzeer"]=20,
 	["deathléss-shekzeer"]=41,
+	["deathlullaby-gehennas"]=60,
 	["deaths-garalon"]=50,
 	["dèáthsmile-shekzeer"]=11,
 	["deathspark-mirage-raceway"]=10,
@@ -6102,6 +6103,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["deathchaz-shekzeer"]=8,
 	["déathkón-shekzeer"]=33,
 	["deathléss-shekzeer"]=11,
+	["deathlullaby-gehennas"]=31,
 	["deaths-garalon"]=24,
 	["dèáthsmile-shekzeer"]=1,
 	["deathspark-mirage-raceway"]=33,
@@ -7271,7 +7273,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["kenblöck-mirage-raceway"]=15,
 	["kenhavefun-shekzeer"]=6,
 	["kennyk-garalon"]=18,
-	["kennyk-shekzeer"]=1,
+	["kennyk-shekzeer"]=18,
 	["kennykk-garalon"]=1,
 	["kennyykofot-garalon"]=24,
 	["kenoh-shekzeer"]=18,
@@ -8608,7 +8610,7 @@ ns.SPECS_BY_REGION["eu"] = {
 	["renue-shekzeer"]=9,
 	["replicusele-garalon"]=16,
 	["replicusowl-garalon"]=11,
-	["repuls-mirage-raceway"]=1,
+	["repuls-mirage-raceway"]=25,
 	["requíém-shekzeer"]=1,
 	["resaladin-shekzeer"]=15,
 	["resen-shekzeer"]=24,
