@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5205 characters, read 2026-11-27 08:59 PM.
+-- Region us, 5205 characters, read 2026-11-27 09:59 PM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -5263,7 +5263,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["autotrap-raden"]=0,
 	["avelorn-pagle"]=3,
 	["aven-raden"]=0,
-	["averthery-pagle"]=28,
+	["averthery-pagle"]=24,
 	["averÿwarrïor-galakras"]=7,
 	["avilove-raden"]=9,
 	["avium-pagle"]=3,
@@ -6531,7 +6531,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["fenfoo-pagle"]=10,
 	["fenrís-grobbulus"]=0,
 	["fentamonk-pagle"]=10,
-	["feraldruidd-arugal-au"]=12,
+	["feraldruidd-arugal-au"]=5,
 	["feråltyger-pagle"]=0,
 	["fernandes-nazgrim"]=16,
 	["fernandita-galakras"]=21,
@@ -9249,7 +9249,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["sockemboper-pagle"]=16,
 	["södah-raden"]=5,
 	["sofeorr-pagle"]=3,
-	["sofí-pagle"]=10,
+	["sofí-pagle"]=4,
 	["softcat-raden"]=5,
 	["solaarflare-pagle"]=7,
 	["solarflaare-pagle"]=16,
@@ -9385,7 +9385,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["stinkpeen-arugal-au"]=18,
 	["stinkubizzle-nazgrim"]=30,
 	["stinkybuthol-pagle"]=2,
-	["stoicjasey-raden"]=11,
+	["stoicjasey-raden"]=1,
 	["stonêd-raden"]=16,
 	["stooter-nazgrim"]=5,
 	["stootns-nazgrim"]=15,
