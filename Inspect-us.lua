@@ -42,7 +42,7 @@ local ns = ArenaPlusData
 -- source_item, so gems are stored as real item ids the client can draw and only
 -- the enchant text has to ship.
 --
--- Region us, 436 characters, 392 glyph names, read 2026-11-28 03:20 AM.
+-- Region us, 436 characters, 392 glyph names, read 2026-11-28 05:20 AM.
 ns.GLYPH_NAMES = ns.GLYPH_NAMES or {}
 
 for id, name in pairs({
@@ -446,60 +446,13 @@ for id, name in pairs({
 ns.TALENT_NAMES = ns.TALENT_NAMES or {}
 
 for id, name in pairs({
-	[605]="Dominate Mind",
-	[1463]="Incanter's Ward",
-	[6789]="Mortal Coil",
-	[10060]="Power Infusion",
-	[11426]="Ice Barrier",
-	[11958]="Cold Snap",
-	[12043]="Presence of Mind",
-	[16188]="Ancestral Swiftness",
-	[30283]="Shadowfury",
-	[30884]="Nature's Guardian",
-	[44457]="Living Bomb",
-	[63374]="Frozen Power",
-	[86949]="Cauterize",
-	[102051]="Frostjaw",
-	[108270]="Stone Bulwark Totem",
-	[108281]="Ancestral Guidance",
-	[108285]="Call of the Elements",
-	[108359]="Dark Regeneration",
-	[108371]="Harvest Life",
-	[108415]="Soul Link",
-	[108482]="Unbound Will",
-	[108499]="Grimoire of Supremacy",
-	[108503]="Grimoire of Sacrifice",
-	[108505]="Archimonde's Darkness",
-	[108843]="Blazing Speed",
-	[108920]="Void Tendrils",
-	[108921]="Psyfiend",
-	[108945]="Angelic Bulwark",
-	[109142]="Twist of Fate",
-	[109175]="Divine Insight",
-	[109186]="From Darkness, Comes Light",
 	[109212]="Spirit Bond",
 	[109248]="Binding Shot",
 	[109306]="Thrill of the Hunt",
-	[110744]="Divine Star",
-	[110913]="Dark Bargain",
-	[110959]="Greater Invisibility",
-	[111264]="Ice Ward",
-	[112833]="Spectral Guise",
-	[113724]="Ring of Frost",
-	[114003]="Invocation",
-	[115610]="Temporal Shield",
-	[117012]="Unleashed Fury",
-	[117014]="Elemental Blast",
 	[117050]="Glaive Toss",
 	[118675]="Crouching Tiger, Hidden Chimera",
-	[120517]="Halo",
 	[120679]="Dire Beast",
-	[121135]="Cascade",
-	[121536]="Angelic Feather",
-	[123040]="Mindbender",
 	[131894]="A Murder of Crows",
-	[140468]="Flameglow",
-	[147074]="Rushing Streams",
 }) do ns.TALENT_NAMES[id] = name end
 
 -- Which talent a rank-spell belongs to, and how many ranks that talent has.
