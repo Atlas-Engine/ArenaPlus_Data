@@ -20,7 +20,7 @@ local ns = ArenaPlusData
 -- transferred or deleted -- is recorded as 0 rather than left out, so it is not
 -- asked about again and the addon can tell hidden from not-yet-known.
 --
--- Region us, 5205 characters, read 2026-11-28 06:59 AM.
+-- Region us, 5205 characters, read 2026-11-28 07:59 AM.
 -- Per region, and that is not tidiness.
 --
 -- Both regions build this list in the order they happen to meet each spec, so
@@ -2441,7 +2441,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["klept-raden"]=10,
 	["knockoutdt-pagle"]=11,
 	["knottypawz-pagle"]=41,
-	["knuckles-pagle"]=10,
+	["knuckles-pagle"]=11,
 	["knucklès-pagle"]=11,
 	["knucklës-pagle"]=11,
 	["knûckles-pagle"]=41,
@@ -2621,7 +2621,7 @@ ns.LOOKS_BY_REGION["us"] = {
 	["liveforeverr-pagle"]=40,
 	["livekirkly-raden"]=31,
 	["liverr-galakras"]=50,
-	["livingsteak-galakras"]=61,
+	["livingsteak-galakras"]=60,
 	["livlord-pagle"]=30,
 	["lixzos-nazgrim"]=21,
 	["liyarlena-raden"]=11,
@@ -7540,7 +7540,7 @@ ns.SPECS_BY_REGION["us"] = {
 	["kroun-raden"]=14,
 	["krpriest-nazgrim"]=13,
 	["ksoldier-pagle"]=16,
-	["kthall-pagle"]=23,
+	["kthall-pagle"]=30,
 	["ktm-lei-shen"]=5,
 	["kunfuki-raden"]=10,
 	["kungfugrip-arugal-au"]=10,
