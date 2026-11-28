@@ -18,7 +18,7 @@ local ns = ArenaPlusData
 --
 -- No class or spec: the leaderboard endpoint carries neither.
 --
--- Region us, season 14, read 2026-11-28 11:59 AM.
+-- Region us, season 14, read 2026-11-28 12:59 PM.
 -- Realm display names, because the ladder only carries slugs and no rule
 -- turns one back into the other: raden is Ra-den, lei-shen is Lei Shen and
 -- arugal-au is Arugal (AU). Read from Blizzard's realm index; a slug with no
@@ -35,8 +35,8 @@ ns.LEADERBOARD_BY_REGION = ns.LEADERBOARD_BY_REGION or {}
 
 ns.LEADERBOARD_BY_REGION["us"] = {
 	region  = "us",
-	checked = "2026-11-28 11:59 AM",
-	checkedEpoch = 1795885169,
+	checked = "2026-11-28 12:59 PM",
+	checkedEpoch = 1795888768,
 	snapshot = "2026-11-28 15:16",
 
 	[1] = {  -- 2v2, 5002 places, down to rating 1133 -- the API stops here, short of the cutoff
@@ -413,11 +413,11 @@ ns.LEADERBOARD_BY_REGION["us"] = {
 		{ rank=370, name="Lukew", realm="pagle", rating=2334, won=216, lost=189, faction="ALLIANCE", mr=2367, dr=0, dk=0 },
 		{ rank=372, name="Bàng", realm="galakras", rating=2333, won=115, lost=96, faction="HORDE", dr=0, dk=0 },
 		{ rank=372, name="Syssian", realm="raden", rating=2333, won=118, lost=108, faction="HORDE", mr=2353, dr=0, dk=0 },
-		{ rank=374, name="Eixilddam", realm="pagle", rating=2332, won=178, lost=171, faction="ALLIANCE", dr=0, dk=0 },
 		{ rank=374, name="Evilxshamwow", realm="raden", rating=2332, won=88, lost=77, faction="ALLIANCE", dr=0, dk=0 },
 		{ rank=374, name="Jellybeans", realm="raden", rating=2332, won=74, lost=43, faction="ALLIANCE", dr=0, dk=0 },
 		{ rank=374, name="Longbeef", realm="raden", rating=2332, won=99, lost=94, faction="ALLIANCE", dr=0, dk=0 },
-		{ rank=378, name="Ròach", realm="galakras", rating=2327, won=106, lost=92, faction="HORDE", dr=0, dk=0 },
+		{ rank=377, name="Eixilddam", realm="pagle", rating=2327, won=178, lost=172, faction="ALLIANCE", mr=2332, dr=-5, dk=3 },
+		{ rank=377, name="Ròach", realm="galakras", rating=2327, won=106, lost=92, faction="HORDE", dr=0, dk=-1 },
 		{ rank=379, name="Ecafkcufhi", realm="raden", rating=2326, won=380, lost=346, faction="ALLIANCE", mr=2391, dr=0, dk=0 },
 		{ rank=379, name="Laranja", realm="raden", rating=2326, won=282, lost=218, faction="ALLIANCE", mr=2340, dr=0, dk=0 },
 		{ rank=381, name="Ui", realm="pagle", rating=2325, won=173, lost=134, faction="HORDE", dr=0, dk=0 },
